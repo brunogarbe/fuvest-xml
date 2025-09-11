@@ -23,7 +23,14 @@ def pretty_print_xml(file_path):
 
         # 1. Add newlines between <question> tags within a <question_group>
         for group in root.findall('.//question_group'):
-            questions = group.findall('question')
+            questions = group.findall('objective_question')
+            if len(questions) > 1:
+                for i in range(len(questions) - 1):
+                    # Prepend a newline to the existing tail (which now contains indentation)
+                    if questions[i].tail:
+                        questions[i].tail = "\n" + questions[i].tail
+                        
+            questions = group.findall('discursive_question')
             if len(questions) > 1:
                 for i in range(len(questions) - 1):
                     # Prepend a newline to the existing tail (which now contains indentation)
@@ -84,7 +91,7 @@ def indent(elem, level=0):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python pretty_print_xml.py <file_path.xml>")
+        print("Usage: python pretty_print.py <file_path.xml>")
         sys.exit(1)
     
     xml_file = sys.argv[1]

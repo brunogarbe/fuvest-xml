@@ -40,8 +40,8 @@
 
 	<question_group>
 		<objective_question number="02" success_rate="81.5">
-			<classification subject="Geography:Brazil:EnvironmentalIssues"/>
-			<classification subject="Biology:Ecology:Environmental Impacts"/>
+			<classification subject="Geography:Brazil:EnvironmentalIssues" />
+			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>Analise, na figura a seguir, os dados referentes a áreas de garimpo ilegal localizadas em terras indígenas na Amazônia brasileira e sua distância em relação a corpos d'água.</p>
 				<image src="fuvest2025/q02.png" />
@@ -69,8 +69,8 @@
 
 	<question_group>
 		<objective_question number="03" success_rate="60.6">
-		<classification subject="Language:Portuguese:Syntax"/>
-		<classification subject="Language:Text Interpretation"/>
+			<classification subject="Language:Portuguese:Syntax" />
+			<classification subject="Language:Text Interpretation" />
 			<statement>
 				<image src="fuvest2025/q03.png" />
 				<p>Considerando a charge, é correto afirmar:</p>
@@ -97,7 +97,7 @@
 
 	<question_group>
 		<objective_question number="04" success_rate="47.4">
-			<classification subject="History:Brazil:ColonialPeriod"/>
+			<classification subject="History:Brazil:ColonialPeriod" />
 			<statement>
 				<quote>
 					<p>E assim como o branco e os mamelucos se aproveitaram não raro das veredas dos índios, há motivo para pensar que estes, por sua vez, foram, em muitos casos, simples sucessores dos animais selvagens, do tapir especialmente, cujos carreiros ao longo dos rios e riachos, ou em direção a nascentes de águas, se adaptavam perfeitamente às necessidades e hábitos daquelas populações.</p>
@@ -127,8 +127,8 @@
 
 	<question_group>
 		<objective_question number="05" success_rate="35.1">
-			<classification subject="Literature:Brazil:Contemporary"/>
-			<classification subject="Language:Text Interpretation"/>
+			<classification subject="Literature:Brazil:Contemporary" />
+			<classification subject="Language:Text Interpretation" />
 			<statement>
 				<p>Os quadrinhos a seguir são parte da obra Dois irmãos, de Fábio Moon e Gabriel Bá (2015), uma adaptação do romance Dois irmãos, de Milton Hatoum, para o universo das novelas gráficas (graphic novels).</p>
 				<image src="fuvest2025/q05.png" />
@@ -156,7 +156,7 @@
 
 	<question_group>
 		<objective_question number="06" success_rate="78.9">
-		<classification subject="Sociology:General:Culture, Identity and Socialization"/>
+			<classification subject="Sociology:General:Culture, Identity and Socialization" />
 			<statement>
 				<p>Leia o texto e analise a charge a seguir.</p>
 				<quote>
@@ -189,7 +189,7 @@
 
 	<question_group>
 		<objective_question number="07" success_rate="43.6">
-		<classification subject="Philosophy:General:Logic"/>
+			<classification subject="Philosophy:General:Logic" />
 			<statement>
 				<image src="fuvest2025/q07.png" />
 				<p>Falácias são argumentos que podem até parecer à primeira vista bem construídos logicamente, mas são falhos, seja em termos do uso da linguagem, de pertinência temática ou de correção formal. Os primeiros estudos sistemáticos das falácias foram feitos pelo filósofo Aristóteles, que classificou alguns dos argumentos falaciosos mais comuns.</p>
@@ -218,7 +218,7 @@
 
 	<question_group>
 		<objective_question number="08" success_rate="30.0">
-		<classification subject="History:Medieval:Byzantine and Islamic Empires"/>
+			<classification subject="History:Medieval:Byzantine and Islamic Empires" />
 			<statement>
 				<quote>
 					<p>Eu não venero a criação mais do que o Criador, mas venero a criatura criada como eu sou, adotando a criação de maneira livre e espontânea, de modo que Ele possa elevar nossa natureza e nos tornar partícipes de Sua natureza divina. Sendo assim, eu me atrevo a fazer uma imagem do Deus invisível não como invisível, mas como tendo se tornado visível por nossa causa, tornando-se carne e sangue. Eu não faço uma imagem da divindade imortal. Eu pinto a carne visível de Deus, pois é impossível representar o espírito e ainda mais Deus, que dá vida ao espírito.</p>
@@ -248,7 +248,7 @@
 
 	<question_group>
 		<objective_question number="09" success_rate="67.3">
-			<classification subject="Sociology:General:Culture, Identity and Socialization"/>
+			<classification subject="Sociology:General:Culture, Identity and Socialization" />
 			<statement>
 				<quote>
 					<p>A mídia digital é uma mídia da presença. A sua temporalidade é o presente imediato. A comunicação digital se caracteriza pelo fato de que informações são produzidas, enviadas e recebidas sem mediação por meio de intermediários. Mediação e representação são interpretadas como não transparência e ineficiência, como congestionamento de tempo e de informação.</p>
@@ -290,7 +290,7 @@
 		</context>
 
 		<objective_question number="10" success_rate="57.0">
-			<classification subject="Language:Text Interpretation:ArgumentativeStructures"/>
+			<classification subject="Language:Text Interpretation:ArgumentativeStructures" />
 			<statement>
 				<p>Segundo o texto, a cultura do "cancelamento"</p>
 			</statement>
@@ -314,7 +314,7 @@
 		</objective_question>
 
 		<objective_question number="11" success_rate="68.5">
-			<classification subject="Language:Portuguese:Syntax"/>
+			<classification subject="Language:Portuguese:Syntax" />
 			<statement>
 				<p>Em relação aos conectivos sublinhados no texto, é correto afirmar:</p>
 			</statement>
@@ -340,7 +340,7 @@
 
 	<question_group>
 		<objective_question number="12" success_rate="66.1">
-			<classification subject="Language:Text Interpretation:ArgumentativeStructures"/>
+			<classification subject="Language:Text Interpretation:ArgumentativeStructures" />
 			<statement>
 				<header>Texto 1</header>
 				<quote>
@@ -376,7 +376,7 @@
 
 	<question_group>
 		<objective_question number="13" success_rate="81.0">
-			<classification subject="History:Brazil:ColonialPeriod"/>
+			<classification subject="History:Brazil:ColonialPeriod" />
 			<statement>
 				<p>As formas de colonização ibérica e inglesa na América foram, durante muito tempo, consideradas processos isolados, estruturados em dois modelos opostos: as colônias de exploração e as de povoamento, respectivamente. No entanto, elas constituíram um emaranhado de experiências compartilhadas pelos impérios atlânticos. Os aspectos comuns a essas formas de colonização foram a</p>
 			</statement>
@@ -402,7 +402,7 @@
 
 	<question_group>
 		<objective_question number="14" success_rate="40.4">
-			<classification subject="History:Brazil:ImperialPeriod"/>
+			<classification subject="History:Brazil:ImperialPeriod" />
 			<statement>
 				<quote>
 					<p>Brasileiros! (...) está conhecida nossa ilusão ou engano em adotarmos um sistema de governo defeituoso em sua origem, e mais defeituoso em suas partes componentes. As constituições, as leis e todas as instituições humanas são feitas para os povos e não os povos para elas. Eia, pois, brasileiros, tratemos de constituirmos de um modo análogo às luzes do século em que vivemos; o sistema americano deve ser idêntico; desprezemos instituições oligárquicas, só cabidas na encanecida Europa.</p>
@@ -432,7 +432,7 @@
 
 	<question_group>
 		<objective_question number="15" success_rate="66.0">
-			<classification subject="Language:English:ReadingComprehension"/>
+			<classification subject="Language:English:ReadingComprehension" />
 			<statement>
 				<quote>
 					<p>justice, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism.</p>
@@ -463,26 +463,42 @@
 
 	<question_group>
 		<objective_question number="16" success_rate="48.9">
-			<classification subject="Math:Algebra"/>
+			<classification subject="Math:Algebra" />
 			<statement>
 				<p>A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:</p>
 				<header>Inclinação e desnível máximo de cada segmento de rampa</header>
 				<table>
 					<header>
-						<cell><p>Desnível $h$ (em m)</p></cell>
-						<cell><p>Inclinação $i$ admissível (em %)</p></cell>
+						<cell>
+							<p>Desnível $h$ (em m)</p>
+						</cell>
+						<cell>
+							<p>Inclinação $i$ admissível (em %)</p>
+						</cell>
 					</header>
 					<row>
-						<cell><p>$1 \lt h \le 1,5$</p></cell>
-						<cell><p>5</p></cell>
+						<cell>
+							<p>$1 \lt h \le 1,5$</p>
+						</cell>
+						<cell>
+							<p>5</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>$0,8 \lt h \le 1$</p></cell>
-						<cell><p>$5 \lt i \le 6,25$</p></cell>
+						<cell>
+							<p>$0,8 \lt h \le 1$</p>
+						</cell>
+						<cell>
+							<p>$5 \lt i \le 6,25$</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>$0 \lt h \le 0,8$</p></cell>
-						<cell><p>$6,25 \lt i \le 8,33$</p></cell>
+						<cell>
+							<p>$0 \lt h \le 0,8$</p>
+						</cell>
+						<cell>
+							<p>$6,25 \lt i \le 8,33$</p>
+						</cell>
 					</row>
 				</table>
 				<p>A inclinação $i$ da rampa em porcentagem (%) é calculada dividindo a altura $h$ do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal $c$, em metros, e multiplicando o resultado por 100. A figura a seguir mostra uma rampa de dois segmentos.</p>
@@ -516,7 +532,7 @@
 
 	<question_group>
 		<objective_question number="17" success_rate="33.7">
-			<classification subject="Math:Geometry:Analytic Geometry"/>
+			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>A imagem a seguir mostra um cruzamento da Rua da Consolação, na região central da cidade de São Paulo, em que há faixas de pedestre em diferentes direções. Essas faixas agilizam a travessia das ruas. Uma pessoa parte do ponto $O$ e deseja chegar ao ponto $C$. Para tanto, percorre o trajeto pela faixa que liga $O$ a $B$ e, em seguida, utiliza a faixa que liga $B$ a $C$. Considere que as coordenadas dos pontos indicados na figura, em metros, são: $O(0,0)$, $B(13,-15)$ e $C(29,-8)$.</p>
 				<image src="fuvest2025/q17.png" />
@@ -544,11 +560,10 @@
 
 	<question_group>
 		<objective_question number="18" success_rate="39.9">
-			<classification subject="Physics:Mechanics:Newton's Second Law"/>
+			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
 				<p>No dia 26 de março de 2024, à 1h29min, aproximadamente, o navio cargueiro MV Dali colidiu com a ponte Francis Scott Key em Baltimore, EUA. O impacto causou o colapso da ponte, tornando-se um dos maiores acidentes marítimos da história norte-americana. A figura a seguir mostra os dados da velocidade do navio em função da hora local. A colisão ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no gráfico.</p>
 				<image src="fuvest2025/q18.png" />
-
 				<p>Assumindo que a massa do navio no momento do impacto seja de 100 mil toneladas e, tendo por base os dados do gráfico, a magnitude da força média atuando sobre o navio durante a colisão é de, aproximadamente,</p>
 			</statement>
 			<options>
@@ -577,7 +592,7 @@
 
 	<question_group>
 		<objective_question number="19" success_rate="24.5">
-			<classification subject="Physics:ModernPhysics:QuantumMechanics"/>
+			<classification subject="Physics:ModernPhysics:QuantumMechanics" />
 			<statement>
 				<p>O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.</p>
 				<image src="fuvest2025/q19.png" />
@@ -606,7 +621,7 @@
 
 	<question_group>
 		<objective_question number="20" success_rate="68.7">
-			<classification subject="Chemistry:Atomistics:Atomic Models"/>
+			<classification subject="Chemistry:Atomistics:Atomic Models" />
 			<statement>
 				<p>A figura a seguir apresenta a evolução dos modelos atômicos, desde o primeiro, proposto por Dalton em 1803, até o de Bohr, proposto em 1913.</p>
 				<image src="fuvest2025/q20.png" />
@@ -634,7 +649,7 @@
 
 	<question_group>
 		<objective_question number="21" success_rate="47.5">
-			<classification subject="Chemistry:Atomistics:Periodic Table"/>
+			<classification subject="Chemistry:Atomistics:Periodic Table" />
 			<statement>
 				<p>Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons $Li^+$ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons $Li^+$ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta. Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado ($Na^+$ ou $Li^+$) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é</p>
 			</statement>
@@ -664,7 +679,7 @@
 
 	<question_group>
 		<objective_question number="22" success_rate="27.7">
-			<classification subject="Physics:Optics:GeometricOptics"/>
+			<classification subject="Physics:Optics:GeometricOptics" />
 			<statement>
 				<image src="fuvest2025/q22.png" />
 				<p>Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração $n_1$, em direção a um meio 2, com índice de refração $n_2$, formando com a direção perpendicular à interface entre os meios um ângulo maior do que um certo valor limite $\theta_L$, tal que $\sin\theta_L = n_2/n_1$.</p>
@@ -672,28 +687,52 @@
 				<p>A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1.</p>
 				<table>
 					<row>
-						<cell><p>Material</p></cell>
-						<cell><p>Índice de refração $n_1$</p></cell>
+						<cell>
+							<p>Material</p>
+						</cell>
+						<cell>
+							<p>Índice de refração $n_1$</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>A</p></cell>
-						<cell><p>$1,0002$</p></cell>
+						<cell>
+							<p>A</p>
+						</cell>
+						<cell>
+							<p>$1,0002$</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>B</p></cell>
-						<cell><p>$1,0003$</p></cell>
+						<cell>
+							<p>B</p>
+						</cell>
+						<cell>
+							<p>$1,0003$</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>C</p></cell>
-						<cell><p>$1,1503$</p></cell>
+						<cell>
+							<p>C</p>
+						</cell>
+						<cell>
+							<p>$1,1503$</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>D</p></cell>
-						<cell><p>$1,3204$</p></cell>
+						<cell>
+							<p>D</p>
+						</cell>
+						<cell>
+							<p>$1,3204$</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>E</p></cell>
-						<cell><p>$1,4889$</p></cell>
+						<cell>
+							<p>E</p>
+						</cell>
+						<cell>
+							<p>$1,4889$</p>
+						</cell>
 					</row>
 				</table>
 				<p>Tratando o meio 2 sempre como tendo índice de refração $n_2 = 1,0003$, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é:</p>
@@ -720,8 +759,8 @@
 
 	<question_group>
 		<objective_question number="23" success_rate="61.5">
-			<classification subject="Physics:Electromagnetism:Magnetism"/>
-			<classification subject="Physics:Electromagnetism:Waves"/>
+			<classification subject="Physics:Electromagnetism:Magnetism" />
+			<classification subject="Physics:Electromagnetism:Waves" />
 			<statement>
 				<quote>
 					<p>Com observações feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia M87, sugerindo que campos magnéticos intensos podem ser comuns a todos os buracos negros.</p>
@@ -754,8 +793,8 @@
 
 	<question_group>
 		<objective_question number="24" success_rate="49.9">
-			<classification subject="Chemistry:General"/>
-			<classification subject="Geography:Brazil:EconomicActivities"/>
+			<classification subject="Chemistry:General" />
+			<classification subject="Geography:Brazil:EconomicActivities" />
 			<statement>
 				<p>Na zona sul da cidade de São Paulo, há uma esquina formada pelas ruas Cloreto de Sódio e Relíquia do Oceano.</p>
 				<image src="fuvest2025/q24.png" />
@@ -783,7 +822,7 @@
 
 	<question_group>
 		<objective_question number="25" success_rate="61.8">
-			<classification subject="Geography:Cartography:MapProjections and Scales"/>
+			<classification subject="Geography:Cartography:MapProjections and Scales" />
 			<statement>
 				<quote>
 					<p>Historiadores encontraram um mapa antigo onde não era possível identificar a escala do mapa. Com algum esforço e apoio de Geógrafos, foi possível avaliar a distância no mapa entre duas localidades como sendo de 20 centímetros. Buscando elementos na paisagem, foi possível quantificar a distância entre elas como equivalente a 40 quilômetros.</p>
@@ -813,8 +852,8 @@
 
 	<question_group>
 		<objective_question number="26" success_rate="55.2">
-			<classification subject="Geography:Geopolitics"/>
-			<classification subject="Geography:Human:Economic and Agricultural Geography"/>
+			<classification subject="Geography:Geopolitics" />
+			<classification subject="Geography:Human:Economic and Agricultural Geography" />
 			<statement>
 				<p>Atualmente 80% do comércio mundial transita pelos mares, principalmente em rotas que passam pelos Canais do Panamá e de Suez. Com a redução das calotas polares, novas rotas estão surgindo no Ártico. Mesmo com sua fragilidade ambiental, a região passou a ser uma nova fronteira para o comércio mundial.</p>
 				<image src="fuvest2025/q26.png" />
@@ -858,7 +897,7 @@
 		</context>
 
 		<objective_question number="27" success_rate="50.9">
-			<classification subject="Language:English:ReadingComprehension"/>
+			<classification subject="Language:English:ReadingComprehension" />
 			<statement>
 				<p>Segundo o texto, o processo de derretimento das calotas polares</p>
 			</statement>
@@ -882,7 +921,7 @@
 		</objective_question>
 
 		<objective_question number="28" success_rate="83.8">
-			<classification subject="Language:English:ReadingComprehension"/>
+			<classification subject="Language:English:ReadingComprehension" />
 			<statement>
 				<p>Conforme o texto, os fenômenos naturais que desempenham papel significativo na complexa interação gravitacional que afeta a rotação da Terra são</p>
 			</statement>
@@ -906,7 +945,7 @@
 		</objective_question>
 
 		<objective_question number="29" success_rate="40.0">
-			<classification subject="Biology:Evolution:Theories of Evolution"/>
+			<classification subject="Biology:Evolution:Theories of Evolution" />
 			<statement>
 				<p>Considerando os seres vivos atuais, as informações trazidas pelo texto e os princípios da Teoria Sintética da Evolução, é correto afirmar que</p>
 			</statement>
@@ -932,8 +971,8 @@
 
 	<question_group>
 		<objective_question number="30" success_rate="33.8">
-			<classification subject="Biology:Genetics"/>
-			<classification subject="Biology:Ecology:Population Dynamics"/>
+			<classification subject="Biology:Genetics" />
+			<classification subject="Biology:Ecology:Population Dynamics" />
 			<statement>
 				<p>A imagem a seguir ilustra o aparecimento de uma barreira que promoveu separação de uma população de rinocerontes e consequente redução no tamanho das populações resultantes.</p>
 				<image src="fuvest2025/q30.png" />
@@ -961,7 +1000,7 @@
 
 	<question_group>
 		<objective_question number="31" success_rate="87.2">
-			<classification subject="Biology:Ecology:Ecosystems and Biomes"/>
+			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>Alguns corais contêm, em sua estrutura, algas fornecedoras de carboidratos que auxiliam no crescimento e na construção do esqueleto do coral. Os corais, por sua vez, fornecem um ambiente de proteção e importantes nutrientes às algas. As mudanças climáticas globais têm provocado a morte dessas algas e, em muitos casos, a morte dos corais.</p>
 				<p>Assinale a alternativa que representa a relação ecológica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais.</p>
@@ -1023,7 +1062,7 @@
 
 	<question_group>
 		<objective_question number="32" success_rate="57.5">
-			<classification subject="Physics:Optics:PhysicalOptics"/>
+			<classification subject="Physics:Optics:PhysicalOptics" />
 			<statement>
 				<p>O fenômeno físico conhecido como iridescência ocorre nas asas de certas espécies de borboletas e caracteriza-se pela variação das cores de acordo com o ângulo de observação. A existência de faixas coloridas na superfície das asas das borboletas ocorre devido a diferentes formas de superposição entre raios luminosos refletidos por uma fina camada de substância transparente existente na superfície das asas.</p>
 				<image src="fuvest2025/q32.png" />
@@ -1051,7 +1090,7 @@
 
 	<question_group>
 		<objective_question number="33" success_rate="47.2">
-			<classification subject="Physics:Mechanics:Kinematics of Particles"/>
+			<classification subject="Physics:Mechanics:Kinematics of Particles" />
 			<statement>
 				<p>Em um estudo relatado no periódico Physics Today, cientistas belgas mostraram que os pica-paus não dispõem de mecanismos de absorção de choques em seus ossos do crânio, ao contrário do que se acreditava anteriormente. Nos experimentos realizados, verificou-se que o cérebro de um pica-pau pode experimentar desacelerações instantâneas de até 400 g, sendo g o módulo da aceleração da gravidade.</p>
 				<image src="fuvest2025/q33.png" />
@@ -1082,7 +1121,7 @@
 
 	<question_group>
 		<objective_question number="34" success_rate="69.6">
-			<classification subject="Literature:Brazil:Modernism"/>
+			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
 					<p>São os ratos!... Vai escutar com atenção, a respiração meio parada. Hão de ser muitos: há várias fontes daquele guinchinho, e de quando em quando, no forro, em vários pontos, o rufar...</p>
@@ -1114,8 +1153,8 @@
 
 	<question_group>
 		<objective_question number="35" success_rate="79.5">
-			<classification subject="Biology:Human:Nervous System"/>
-			<classification subject="Language:Text Interpretation"/>
+			<classification subject="Biology:Human:Nervous System" />
+			<classification subject="Language:Text Interpretation" />
 			<statement>
 				<quote>
 					<p>**Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque:** '- Vá levantar esta letra. Você me devolve depois. Não é bem caridade... **Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a 'mesma' cédula do bolso e entregando-lha...** A casa aristocrática acha-se perto. A numeração já está em quase trezentos. **Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as...** O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. **Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.**</p>
@@ -1145,7 +1184,7 @@
 
 	<question_group>
 		<objective_question number="36" success_rate="33.7">
-			<classification subject="Literature:World Literature"/>
+			<classification subject="Literature:World Literature" />
 			<statement>
 				<quote>
 					<p>Madala pensou que devia dizer qualquer coisa ao Djimo, mas não se lembrou de repetir a pergunta para si mesmo e por isso não soube o que dizer. O capataz fazia sinais à Maria, mas esta parecia não entender. A planta que Madala segurava na mão oferecia ao seu esforço uma resistência exagerada. Por isso, o punho de Madala tremia. (...)</p>
@@ -1211,8 +1250,8 @@
 		</context>
 
 		<objective_question number="37" success_rate="94.5">
-			<classification subject="Literature:Brazil:Contemporary"/>
-			<classification subject="Language:Text Interpretation:PoeticLanguage"/>
+			<classification subject="Literature:Brazil:Contemporary" />
+			<classification subject="Language:Text Interpretation:PoeticLanguage" />
 			<statement>
 				<p>A expressão __bem-vinda__ usada no título e repetida no último verso faz alusão</p>
 			</statement>
@@ -1236,8 +1275,8 @@
 		</objective_question>
 
 		<objective_question number="38" success_rate="78.1">
-			<classification subject="Language:Portuguese:Semantics and Stylistics"/>
-			<classification subject="Language:Text Interpretation:PoeticLanguage"/>
+			<classification subject="Language:Portuguese:Semantics and Stylistics" />
+			<classification subject="Language:Text Interpretation:PoeticLanguage" />
 			<statement>
 				<p>Assinale a alternativa que apresenta uma correspondência correta entre os versos destacados e os recursos utilizados para evidenciar a dor expressa no poema.</p>
 			</statement>
@@ -1263,7 +1302,7 @@
 
 	<question_group>
 		<objective_question number="39" success_rate="93.4">
-			<classification subject="Sociology:General:Culture, Identity and Socialization"/>
+			<classification subject="Sociology:General:Culture, Identity and Socialization" />
 			<statement>
 				<p>As imagens mostram páginas de uma cartilha de alfabetização produzida durante o governo de Juan Domingo Perón na Argentina (1946-1955).</p>
 				<image src="fuvest2025/q39.png" />
@@ -1291,7 +1330,7 @@
 
 	<question_group>
 		<objective_question number="40" success_rate="64.3">
-			<classification subject="Sociology:General:SocialStructure and Stratification"/>
+			<classification subject="Sociology:General:SocialStructure and Stratification" />
 			<statement>
 				<image src="fuvest2025/q40.png" />
 				<p>Atingir a igualdade de gênero é uma das metas do Objetivo de Desenvolvimento Sustentável (ODS) de número 5 da Agenda 2030, adotada pela ONU em 2015.</p>
@@ -1357,8 +1396,8 @@
 		</context>
 
 		<objective_question number="41" success_rate="63.4">
-			<classification subject="Language:English:ReadingComprehension"/>
-			<classification subject="Language:Text Interpretation:PoeticLanguage"/>
+			<classification subject="Language:English:ReadingComprehension" />
+			<classification subject="Language:Text Interpretation:PoeticLanguage" />
 			<statement>
 				<p>Na letra da música, o verso "Like you are a poet trapped inside the body of a finance guy"</p>
 			</statement>
@@ -1382,8 +1421,8 @@
 		</objective_question>
 
 		<objective_question number="42" success_rate="39.3">
-			<classification subject="Language:English:ReadingComprehension"/>
-			<classification subject="Language:Text Interpretation:PoeticLanguage"/>
+			<classification subject="Language:English:ReadingComprehension" />
+			<classification subject="Language:Text Interpretation:PoeticLanguage" />
 			<statement>
 				<p>No texto, a percepção de "conforto como construto" indica que o eu lírico vê o conforto como</p>
 			</statement>
@@ -1409,7 +1448,7 @@
 
 	<question_group>
 		<objective_question number="43" success_rate="38.6">
-			<classification subject="Literature:Brazil:Modernism"/>
+			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<p>Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poética original. Com base no exposto, em Alguma poesia (1930),</p>
 			</statement>
@@ -1435,7 +1474,7 @@
 
 	<question_group>
 		<objective_question number="44" success_rate="71.8">
-			<classification subject="Philosophy:General:Metaphysics"/>
+			<classification subject="Philosophy:General:Metaphysics" />
 			<statement>
 				<image src="fuvest2025/q44.png" />
 				<quote>
@@ -1467,7 +1506,7 @@
 
 	<question_group>
 		<objective_question number="45" success_rate="60.5">
-			<classification subject="Math:Statistics"/>
+			<classification subject="Math:Statistics" />
 			<statement>
 				<p>Considere que a expectativa de vida no Brasil à idade de 19 anos pode ser calculada, de forma aproximada, como a média aritmética simples entre a expectativa de vida estimada à mesma idade dos homens e das mulheres. O mesmo pode ser feito à idade de 20 anos.</p>
 				<p>Segundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil à idade de 19 anos era 58, e a expectativa de vida estimada dos homens à mesma idade era 54,7.</p>
@@ -1531,7 +1570,7 @@
 
 	<question_group>
 		<objective_question number="46" success_rate="67.2">
-			<classification subject="Biology:Botany:Plant Physiology"/>
+			<classification subject="Biology:Botany:Plant Physiology" />
 			<statement>
 				<p>A maior parte da alimentação humana é constituída por grãos e cereais, que, em sua maioria, correspondem às sementes, em termos botânicos. Esse consumo é adequado, uma vez que as sementes</p>
 			</statement>
@@ -1557,8 +1596,8 @@
 
 	<question_group>
 		<objective_question number="47" success_rate="93.8">
-			<classification subject="Biology:Human:Circulatory System"/>
-			<classification subject="Biology:Biochemistry:Lipids"/>
+			<classification subject="Biology:Human:Circulatory System" />
+			<classification subject="Biology:Biochemistry:Lipids" />
 			<statement>
 				<p>A figura a seguir representa os níveis médios de consumo de gordura saturada na dieta para adultos com idade $\ge20$ anos.</p>
 				<image src="fuvest2025/q47.png" />
@@ -1586,8 +1625,8 @@
 
 	<question_group>
 		<objective_question number="48" success_rate="70.3">
-			<classification subject="Math:Statistics"/>
-			<classification subject="Geography:Brazil:EconomicActivities"/>
+			<classification subject="Math:Statistics" />
+			<classification subject="Geography:Brazil:EconomicActivities" />
 			<statement>
 				<p>Os gráficos a seguir apresentam a evolução do abate de bovinos e da participação de machos e fêmeas, por trimestre (indicado por algarismo romano), segundo informações obtidas pelo IBGE.</p>
 				<image src="fuvest2025/q48.png" />
@@ -1615,8 +1654,8 @@
 
 	<question_group>
 		<objective_question number="49" success_rate="41.4">
-			<classification subject="Geography:Brazil:RegionalGeography"/>
-			<classification subject="Geography:Brazil:EnvironmentalIssues"/>
+			<classification subject="Geography:Brazil:RegionalGeography" />
+			<classification subject="Geography:Brazil:EnvironmentalIssues" />
 			<statement>
 				<p>Observe as imagens de satélite que indicam o desmatamento de 12.272 hectares no município de Formosa do Rio Preto (BA), região do MATOPIBA, composta pelos estados do Maranhão, Tocantins, Piauí e Bahia, no período 2019-2022.</p>
 				<image src="fuvest2025/q49.png" />
@@ -1644,8 +1683,8 @@
 
 	<question_group>
 		<objective_question number="50" success_rate="36.7">
-			<classification subject="Geography:Brazil:RegionalGeography"/>
-			<classification subject="Biology:Ecology:Ecosystems and Biomes"/>
+			<classification subject="Geography:Brazil:RegionalGeography" />
+			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>Neste bioma, a vegetação nativa apresenta-se intercalada por extensas monoculturas de soja e de arroz. Em alguns lugares, a vegetação campestre original tem sido substituída por vegetação florestal, formada por árvores de eucaliptos. Em vários locais, observa-se a expansão de grandes areais, em que os solos arenosos ficam expostos e suscetíveis a uma intensa erosão. Este é o bioma brasileiro menos protegido por Unidades de Conservação, embora esteja entre aqueles que mais perderam vegetação nativa nas últimas três décadas.</p>
 				<p>A descrição da paisagem impactada por ações humanas refere-se ao bioma</p>
@@ -1677,8 +1716,8 @@
 		</context>
 
 		<objective_question number="51" success_rate="74.4">
-			<classification subject="Geography:Human:Urbanization"/>
-			<classification subject="Geography:Physical:Climatology"/>
+			<classification subject="Geography:Human:Urbanization" />
+			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>A explicação para as características desse perfil de temperatura do ar deve-se</p>
 			</statement>
@@ -1704,7 +1743,7 @@
 
 	<question_group>
 		<objective_question number="52" success_rate="32.9">
-			<classification subject="Math:Trigonometry:Trigonometric Functions"/>
+			<classification subject="Math:Trigonometry:Trigonometric Functions" />
 			<statement>
 				<p>As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias relativas às enchentes ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior.</p>
 				<p>Uma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda. Como exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM: $s(t)=A[1+k~m(t)]cos(2\pi~f~t)$, em que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e $m(t)$ o sinal que contém a informação.</p>
@@ -1732,8 +1771,8 @@
 
 	<question_group>
 		<objective_question number="53" success_rate="74.4">
-			<classification subject="Geography:Physical:Climatology"/>
-			<classification subject="Math:Statistics"/>
+			<classification subject="Geography:Physical:Climatology" />
+			<classification subject="Math:Statistics" />
 			<statement>
 				<p>A Estação Meteorológica Mirante de Santana é a principal referência do Instituto Nacional de Meteorologia (INMET) no município de São Paulo - SP. O climograma a seguir apresenta dados referentes ao mês de fevereiro de 2023. Neste mesmo mês, o Centro de Gerenciamento de Emergências Climáticas detectou 11 pontos de alagamentos no dia 19 e 14 pontos no dia 21.</p>
 				<image src="fuvest2025/q53.png" />
@@ -1761,7 +1800,7 @@
 
 	<question_group>
 		<objective_question number="54" success_rate="93.6">
-			<classification subject="Biology:Ecology:Population Dynamics"/>
+			<classification subject="Biology:Ecology:Population Dynamics" />
 			<statement>
 				<quote>
 					<p>A distribuição dos mosquitos, a frequência de suas picadas e o tempo de eclosão de seus ovos são afetados pela temperatura, pluviosidade e velocidade do vento, além de outros fatores, como deslocamento e densidade populacionais. Por exemplo, com uma temperatura de $27^{\circ}C$, o período de incubação dos ovos é de dez dias; no entanto, a $37^{\circ}C$, esse período passa a ser de sete dias. Além disso, a intermitência das chuvas no final da estação do verão e os ventos calmos acentuam a proliferação e a atuação do vetor.</p>
@@ -1791,7 +1830,7 @@
 
 	<question_group>
 		<objective_question number="55" success_rate="55.6">
-			<classification subject="Biology:Zoology:Invertebrates"/>
+			<classification subject="Biology:Zoology:Invertebrates" />
 			<statement>
 				<p>Dentre os animais invertebrados, alguns grupos apresentam o sistema circulatório fechado, enquanto outros apresentam o sistema circulatório aberto, o que leva a diferenças em processos fisiológicos. Nos invertebrados, o sistema circulatório</p>
 			</statement>
@@ -1817,8 +1856,8 @@
 
 	<question_group>
 		<objective_question number="56" success_rate="71.9">
-			<classification subject="Chemistry:Organic:FunctionalGroups"/>
-			<classification subject="Chemistry:General:Solutions"/>
+			<classification subject="Chemistry:Organic:FunctionalGroups" />
+			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>O processo de mumificação usado pelos egípcios começava com a retirada dos órgãos e desidratação do corpo utilizando uma mistura natural, obtida em leito de lagos, de sais solúveis de sódio, como carbonato, hidrogenocarbonato, cloreto e sulfato. Após a desidratação, o corpo era preenchido com uma mistura de serragem e ervas aromáticas como canela, cássia, mirra e até mesmo cebola, que, por conterem álcoois e aldeídos com propriedades antimicrobianas, dificultavam a decomposição do corpo. Por fim, o corpo era envolvido em tecido embebido em resinas insolúveis em água, como betume ou óleo de cedro, que, após seco, formava uma camada impermeabilizante.</p>
 				<p>A partir dessas informações, assinale a alternativa correta.</p>
@@ -1845,7 +1884,7 @@
 
 	<question_group>
 		<objective_question number="57" success_rate="56.0">
-			<classification subject="Chemistry:Physical:Thermochemistry"/>
+			<classification subject="Chemistry:Physical:Thermochemistry" />
 			<statement>
 				<p>Em países frios, é comum o uso de pequenos aquecedores de mãos, normalmente descartáveis, que podem ser colocados dentro de luvas. Uma alternativa mais sustentável é o aquecedor de mão reutilizável, que é constituído por uma solução aquosa supersaturada de acetato de sódio armazenada em um reservatório maleável, conforme mostrado na figura a seguir.</p>
 				<image src="fuvest2025/q57.png" />
@@ -1874,7 +1913,7 @@
 
 	<question_group>
 		<objective_question number="58" success_rate="32.6">
-			<classification subject="Chemistry:General:ChemicalEquilibrium"/>
+			<classification subject="Chemistry:General:ChemicalEquilibrium" />
 			<statement>
 				<p>A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em $PbSO_4$ ($Kps=1,0\times10^{-8}$).</p>
 				<p>Sabendo que a legislação estabelece a concentração máxima de Pb de $0,01~mg/L$ para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.</p>
@@ -1904,7 +1943,7 @@
 
 	<question_group>
 		<objective_question number="59" success_rate="66.0">
-			<classification subject="Physics:Thermodynamics:Thermometry and Dilatation"/>
+			<classification subject="Physics:Thermodynamics:Thermometry and Dilatation" />
 			<statement>
 				<p>Quando uma barra de um certo material é aquecida até uma temperatura T a partir de uma temperatura inicial $T_{0}$, seu comprimento inicial $L_{0}$ sofre um aumento $\Delta L$ dado por $\Delta L=\alpha~L_{0}(T-T_{0})$, sendo $\alpha$ o coeficiente de expansão linear, que depende do material. O gráfico a seguir mostra curvas de expansão linear para barras feitas de três materiais distintos.</p>
 				<image src="fuvest2025/q59.png" />
@@ -1932,7 +1971,7 @@
 
 	<question_group>
 		<objective_question number="60" success_rate="35.5">
-			<classification subject="Chemistry:Inorganic:RedoxReactions"/>
+			<classification subject="Chemistry:Inorganic:RedoxReactions" />
 			<statement>
 				<p>As massas de duas barras, uma de ferro e outra de aço inoxidável, armazenadas em um mesmo ambiente úmido e na presença de oxigênio, foram monitoradas ao longo do tempo.</p>
 				<p>Assinale a alternativa que representa a variação das massas de ambas as barras ao longo do tempo.</p>
@@ -1994,7 +2033,7 @@
 
 	<question_group>
 		<objective_question number="61" success_rate="66.3">
-			<classification subject="Physics:Mechanics:Newton's Second Law"/>
+			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
 				<p>Os versos a seguir pertencem à canção Fall on Me, da banda norte-americana R.E.M., lançada em 1986.</p>
 				<verse>
@@ -2027,7 +2066,7 @@
 
 	<question_group>
 		<objective_question number="62" success_rate="54.6">
-			<classification subject="Physics:Mechanics:Work and Energy"/>
+			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de $30~m/s$ em poucos segundos.</p>
 				<image src="fuvest2025/q62.png" />
@@ -2058,7 +2097,7 @@
 
 	<question_group>
 		<objective_question number="63" success_rate="25.7">
-			<classification subject="Biology:Ecology:Environmental Impacts"/>
+			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de $CO_{2}(g)$ na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a proposta apresentada na figura a seguir para a produção de uma matriz energética limpa.</p>
 				<image src="fuvest2025/q63.png" />
@@ -2087,7 +2126,7 @@
 
 	<question_group>
 		<objective_question number="64" success_rate="38.9">
-			<classification subject="Chemistry:General:Stoichiometry"/>
+			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação $CH_{4}(l)+2~O_{2}(l)\rightarrow CO_{2}(g)+2~H_{2}O(g)$.</p>
 				<p>Nessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a</p>
@@ -2127,7 +2166,7 @@
 		</context>
 
 		<objective_question number="65" success_rate="74.2">
-			<classification subject="Language:Text Interpretation"/>
+			<classification subject="Language:Text Interpretation" />
 			<statement>
 				<p>De acordo com o texto, a pesquisa com caldo de cana apresentou resultados promissores em relação à sustentabilidade ambiental, porque</p>
 			</statement>
@@ -2151,7 +2190,7 @@
 		</objective_question>
 
 		<objective_question number="66" success_rate="50.0">
-			<classification subject="Language:Portuguese:Syntax"/>
+			<classification subject="Language:Portuguese:Syntax" />
 			<statement>
 				<p>Ao empregar o pronome se em "utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica", o pesquisador</p>
 			</statement>
@@ -2177,7 +2216,7 @@
 
 	<question_group>
 		<objective_question number="67" success_rate="55.6">
-			<classification subject="Biology:Genetics"/>
+			<classification subject="Biology:Genetics" />
 			<statement>
 				<p>Pesquisas e terapias com células-tronco têm se mostrado cada vez mais promissoras pela possibilidade de seu uso no tratamento de diferentes tipos de doenças, como câncer e doenças degenerativas. As células-tronco podem se diferenciar em células especializadas, conforme exemplificado a seguir.</p>
 				<image src="fuvest2025/q67.png" />
@@ -2205,8 +2244,8 @@
 
 	<question_group>
 		<objective_question number="68" success_rate="72.9">
-			<classification subject="Geography:Human:Economic and Agricultural Geography"/>
-			<classification subject="Math:Statistics"/>
+			<classification subject="Geography:Human:Economic and Agricultural Geography" />
+			<classification subject="Math:Statistics" />
 			<statement>
 				<p>O gráfico a seguir apresenta dados do Produto Interno Bruto (PIB) por pessoa e dados de publicações científicas por milhão de habitantes para um grupo selecionado de países, além de destacar o estado de São Paulo.</p>
 				<image src="fuvest2025/q68.png" />
@@ -2234,7 +2273,7 @@
 
 	<question_group>
 		<objective_question number="69" success_rate="25.9">
-			<classification subject="Math:Algebra:Quadratic"/>
+			<classification subject="Math:Algebra:Quadratic" />
 			<statement>
 				<p>No plano cartesiano Oxy, o gráfico que melhor representa a função $f(x)=|x^{2}+5x-6|-5x+6$ é dado por</p>
 			</statement>
@@ -2260,7 +2299,7 @@
 
 	<question_group>
 		<objective_question number="70" success_rate="19.8">
-			<classification subject="Math:Algebra"/>
+			<classification subject="Math:Algebra" />
 			<statement>
 				<p>Seja $(a_{n})$ uma progressão aritmética cujo primeiro termo é $a_{1}$ e a razão r, ambos números reais. É possível construir uma outra sequência $(b_{n})$, em que o primeiro termo é um número real $b_{1}$ e com a seguinte lei de formação $b_{n+1}=b_{n}+a_{n}$, sendo $n&gt;0$ um número natural. Por exemplo, se $b_{1}=0$ e $(a_{n})=(1,3,5,7,9,11,...)$, tem-se $(b_{n})=(0,1,4,9,16,25,...)$.</p>
 				<p>Com base em tais informações, os valores de $a_{1}$ e r foram escolhidos de forma que $(b_{n})$ também seja uma progressão aritmética de razão $r'$. Nessas condições, é correto afirmar:</p>
@@ -2287,7 +2326,7 @@
 
 	<question_group>
 		<objective_question number="71" success_rate="76.6">
-			<classification subject="Biology:Evolution:Theories of Evolution"/>
+			<classification subject="Biology:Evolution:Theories of Evolution" />
 			<statement>
 				<quote>
 					<p>**Aumenta nos hospitais brasileiros a presença de bactérias resistentes a antibióticos**</p>
@@ -2322,8 +2361,8 @@
 
 	<question_group>
 		<objective_question number="72" success_rate="27.3">
-			<classification subject="Chemistry:General:Stoichiometry"/>
-			<classification subject="Chemistry:Organic:Reactions"/>
+			<classification subject="Chemistry:General:Stoichiometry" />
+			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático, como representado na equação não balanceada a seguir.</p>
 				<image src="fuvest2025/q72.png" />
@@ -2360,8 +2399,8 @@
 		</context>
 
 		<objective_question number="73" success_rate="26.0">
-			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer"/>
-			<classification subject="Chemistry:General:Stoichiometry"/>
+			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer" />
+			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>Suponha que a reação produza 2 mols de $CO_{2}$ para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T=300 K, a pressão $P_{CO_{2}}$ medida pelo manômetro será por volta de</p>
 			</statement>
@@ -2390,7 +2429,7 @@
 		</objective_question>
 
 		<objective_question number="74" success_rate="26.4">
-			<classification subject="Physics:Mechanics:Newton's Second Law"/>
+			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
 				<p>Considere agora um outro experimento feito em condições semelhantes, em que o manômetro indica uma pressão de 5 atm e, sem que a pressão no interior da garrafa se altere, ele é cuidadosamente substituído por uma rolha de 10 g de massa e 2 cm de diâmetro (igual ao diâmetro interno do bocal da garrafa). Logo após a rolha ser encaixada no local, ela é expelida devido à pressão interna da garrafa ser maior que a pressão atmosférica.</p>
 				<p>A aceleração da rolha no momento em que ela é expelida é de, aproximadamente,</p>
@@ -2422,7 +2461,7 @@
 
 	<question_group>
 		<objective_question number="75" success_rate="31.8">
-			<classification subject="Math:Geometry:Solid Geometry"/>
+			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Um designer de produtos deseja fabricar um vaso para flores conforme a figura a seguir.</p>
 				<image src="fuvest2025/q75.png" />
@@ -2451,7 +2490,7 @@
 
 	<question_group>
 		<objective_question number="76" success_rate="38.0">
-			<classification subject="Math:Geometry:Solid Geometry"/>
+			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Considere um cilindro C de altura $h&gt;0$ e cujo raio das circunferências, do topo e da base, é $r&gt;0$; um cilindro $C_{1}$ cujo raio é igual ao de C e altura igual a $\frac{h}{2}$; e um cilindro $C_{2}$ com altura h e raio igual a $\frac{r}{2}$.</p>
 				<p>Sendo V, $V_{1}$ e $V_{2}$ os volumes e A, $A_{1}$ e $A_{2}$ as áreas laterais dos cilindros C, $C_{1}$ e $C_{2}$ respectivamente, é correto afirmar:</p>
@@ -2478,7 +2517,7 @@
 
 	<question_group>
 		<objective_question number="77" success_rate="15.2">
-			<classification subject="Math:Geometry:Analytic Geometry"/>
+			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>Em relação ao plano cartesiano Oxy, é correto afirmar que as equações $x^{2}+y^{2}-4x=-3$ e $x^{2}+y^{2}-4y=-3$ representam</p>
 			</statement>
@@ -2504,7 +2543,7 @@
 
 	<question_group>
 		<objective_question number="78" success_rate="33.5">
-			<classification subject="Language:Text Interpretation"/>
+			<classification subject="Language:Text Interpretation" />
 			<statement>
 				<image src="fuvest2025/q78.png" />
 				<p>Contribui para o efeito de comicidade do cartum a</p>
@@ -2531,7 +2570,7 @@
 
 	<question_group>
 		<objective_question number="79" success_rate="54.2">
-			<classification subject="History:Ancient:Rome"/>
+			<classification subject="History:Ancient:Rome" />
 			<statement>
 				<image src="fuvest2025/q79.png" />
 				<p>A análise do mapa permite identificar deslocamentos de povos não romanos caracterizados</p>
@@ -2558,7 +2597,7 @@
 
 	<question_group>
 		<objective_question number="80" success_rate="38.9">
-			<classification subject="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)"/>
+			<classification subject="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)" />
 			<statement>
 				<p>Leia o excerto a seguir de A Ética Protestante e o Espírito do Capitalismo, de Max Weber.</p>
 				<quote>
@@ -2590,8 +2629,8 @@
 
 	<question_group>
 		<objective_question number="81" success_rate="81.7">
-			<classification subject="Geography:Brazil:EconomicActivities"/>
-			<classification subject="History:Brazil:OldRepublic"/>
+			<classification subject="Geography:Brazil:EconomicActivities" />
+			<classification subject="History:Brazil:OldRepublic" />
 			<statement>
 				<quote>
 					<p>O eixo econômico do país, que já havia se deslocado para a zona de mineração, caminhou mais uma vez, deslocando-se em direção às ondulações do planalto paulista, que foram se recobrindo pelo verde escuro dos cafezais. Enquanto outras regiões brasileiras vegetavam ou iniciavam mesmo um processo de decadência econômica, a Província, logo depois estado de São Paulo, apresentava uma ascensão espléndida e vigorosa.</p>
@@ -2621,8 +2660,8 @@
 
 	<question_group>
 		<objective_question number="82" success_rate="13.1">
-			<classification subject="Literature:Brazil:Realism and Naturalism"/>
-			<classification subject="Literature:World Literature"/>
+			<classification subject="Literature:Brazil:Realism and Naturalism" />
+			<classification subject="Literature:World Literature" />
 			<statement>
 				<p>Mais de uma vez, o brasileiro Machado de Assis e o português Eça de Queirós foram aproximados porque traçaram linhas de compreensão das suas respectivas sociedades, em um mesmo tempo historicamente situado. Os protagonistas Rubião, de Quincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires (1900),</p>
 			</statement>
@@ -2648,8 +2687,8 @@
 
 	<question_group>
 		<objective_question number="83" success_rate="57.5">
-			<classification subject="Literature:Brazil:Modernism"/>
-			<classification subject="History:Brazil:VargasEra and Populism"/>
+			<classification subject="Literature:Brazil:Modernism" />
+			<classification subject="History:Brazil:VargasEra and Populism" />
 			<statement>
 				<quote>
 					<p>De 1930 em diante, foram criadas dezenas de comissões, instituições e órgãos de planejamento e/ou de promoção das atividades econômicas, notadamente as ligadas às atividades agrícolas e àquelas voltadas para a industrialização.</p>
@@ -2680,8 +2719,8 @@
 
 	<question_group>
 		<objective_question number="84" success_rate="44.8">
-			<classification subject="Literature:Brazilian Literature"/>
-			<classification subject="Language:Text Interpretation:PoeticLanguage"/>
+			<classification subject="Literature:Brazilian Literature" />
+			<classification subject="Language:Text Interpretation:PoeticLanguage" />
 			<statement>
 				<p>Leia os trechos das obras Marília de Dirceu e Romanceiro da Inconfidência:</p>
 				<verse>
@@ -2704,7 +2743,6 @@
 					<p>Com menos me contento.</p>
 					<author>Tomás Antônio Gonzaga. Marilia de Dirceu.</author>
 				</verse>
-					
 				<verse>
 					<title>Romance LXVI ou De Outros Maldizentes</title>
 					<p>- Que fica, na fortaleza,</p>
@@ -2742,8 +2780,8 @@
 
 	<question_group>
 		<objective_question number="85" success_rate="41.6">
-			<classification subject="History:Brazil:ColonialPeriod"/>
-			<classification subject="Literature:Brazil:Modernism"/>
+			<classification subject="History:Brazil:ColonialPeriod" />
+			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<verse>
 					<p>Se a derrama for lançada,</p>
@@ -2787,7 +2825,7 @@
 
 	<question_group>
 		<objective_question number="86" success_rate="69.9">
-			<classification subject="Literature:Brazil:Modernism"/>
+			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
 					<p>No texto intitulado Tarsila, a pesquisadora Aracy Amaral transcreve um trecho das impressões de Tarsila do Amaral sobre a viagem às cidades históricas coloniais mineiras, que realizara em 1924 com o grupo modernista, liderado por Mário de Andrade:</p>
@@ -2820,7 +2858,7 @@
 
 	<question_group>
 		<objective_question number="87" success_rate="78.9">
-			<classification subject="History:Brazil:ColonialPeriod"/>
+			<classification subject="History:Brazil:ColonialPeriod" />
 			<statement>
 				<quote>
 					<p>*Tecidos de Ijebu*</p>
@@ -2852,7 +2890,7 @@
 
 	<question_group>
 		<objective_question number="88" success_rate="42.9">
-			<classification subject="Geography:Physical Geography"/>
+			<classification subject="Geography:Physical Geography" />
 			<statement>
 				<quote>
 					<p>Consiste em uma faixa de terra semiárida e árida que contorna a borda sul do Deserto do Saara e percorre a extensão da África no sentido leste-oeste. Atua como um cinturão que divide o continente africano em dois, a África majoritariamente islâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze países, a região é lar para dezenas de grupos étnicos.</p>
@@ -2882,8 +2920,8 @@
 
 	<question_group>
 		<objective_question number="89" success_rate="29.4">
-			<classification subject="Sociology:General:Culture, Identity and Socialization"/>
-			<classification subject="Literature:World Literature"/>
+			<classification subject="Sociology:General:Culture, Identity and Socialization" />
+			<classification subject="Literature:World Literature" />
 			<statement>
 				<quote>
 					<p>Aconteceu num debate, num país europeu. Da assistência alguém me lançou a seguinte pergunta:</p>
@@ -2917,7 +2955,7 @@
 
 	<question_group>
 		<objective_question number="90" success_rate="74.4">
-			<classification subject="History:Brazil:VargasEra and Populism"/>
+			<classification subject="History:Brazil:VargasEra and Populism" />
 			<statement>
 				<verse>
 					<p>Brasil, meu Brasil brasileiro</p>

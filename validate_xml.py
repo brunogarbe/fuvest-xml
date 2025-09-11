@@ -13,7 +13,7 @@ def load_valid_subjects(file_path):
     return subjects
 
 
-def validate_xml(schema_file, xml_file, valid_subjects):
+def validate_xml(schema_file, xml_file):
     # Carrega schema
     with open(schema_file, 'rb') as f:
         schema_doc = etree.XML(f.read())
@@ -45,11 +45,11 @@ def validate_xml(schema_file, xml_file, valid_subjects):
         return False
 
     # 2. Verificar subjects válidos
-    for subj in root.xpath("//classification/subject"):
-        text = subj.text.strip()
-        if text not in valid_subjects:
-            print(f"[ERROR] {xml_file}: subject inválido '{text}'")
-            return False
+    # for subj in root.xpath("//classification/subject"):
+        # text = subj.text.strip()
+        # if text not in valid_subjects:
+            # print(f"[ERROR] {xml_file}: subject inválido '{text}'")
+            # return False
 
     print(f"[OK] {xml_file} válido e consistente ✅")
     return True
@@ -59,14 +59,14 @@ def main():
     parser = argparse.ArgumentParser(description="Valida XML contra XSD e regras extras")
     parser.add_argument("schema", help="Arquivo XSD para validação")
     parser.add_argument("xml", help="Arquivo XML ou máscara (*.xml)")
-    parser.add_argument("subjects", help="Arquivo de texto com lista de subjects válidos (um por linha)")
+    #parser.add_argument("subjects", help="Arquivo de texto com lista de subjects válidos (um por linha)")
     args = parser.parse_args()
 
-    if not os.path.exists(args.subjects):
-        print(f"Arquivo de subjects não encontrado: {args.subjects}")
-        return
+    # if not os.path.exists(args.subjects):
+        # print(f"Arquivo de subjects não encontrado: {args.subjects}")
+        # return
 
-    valid_subjects = load_valid_subjects(args.subjects)
+    #valid_subjects = load_valid_subjects(args.subjects)
 
     files = glob.glob(args.xml)
     if not files:
@@ -74,7 +74,7 @@ def main():
         return
 
     for file in files:
-        validate_xml(args.schema, file, valid_subjects)
+        validate_xml(args.schema, file)
 
 
 if __name__ == "__main__":

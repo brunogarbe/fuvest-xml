@@ -618,7 +618,7 @@
 							<xs:element name="parts" 					type="Parts"/>					
 							<xs:element name="assumptions"  	type="Paragraphs" minOccurs="0"/>
 						</xs:sequence>
-						'	
+						
 						<!-- Attributes -->
 						<xs:attribute name="number" 				type="xs:integer" use="required"/>
 						<xs:attribute name="null" 					type="xs:boolean" />

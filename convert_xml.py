@@ -841,10 +841,11 @@ def collect_answer(q_el) -> Optional[str]:
         return f"{num}: {txt}"
     return None
 
-#########################################################################################################################
-#
 
-def create_latex(doc: etree._ElementTree, graphics_dir: Optional[Path]) -> str:
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# create_latex()
+
+def create_latex(doc: etree._ElementTree) -> str:
     root = doc.getroot()
     name = root.get("name", "Exam")
     year = root.get("year", "")
@@ -886,10 +887,10 @@ def create_latex(doc: etree._ElementTree, graphics_dir: Optional[Path]) -> str:
             # Each group can have optional <context> followed by questions
             context = child.find("./context")
             if context is not None:
-                body.append(render_context(context, graphics_dir))
+                body.append(render_context(context, global_graphics_dir))
                 
             for q in child.findall("./question"):
-                body.append(render_question(q, graphics_dir))
+                body.append(render_question(q, global_graphics_dir))
                 ans = collect_answer(q)
                 if ans:
                     answers.append(ans)
@@ -929,40 +930,74 @@ def create_latex(doc: etree._ElementTree, graphics_dir: Optional[Path]) -> str:
     #    ending.append("\\end{document}\n")
 
     return "".join(preamble + body + ending)
-    
+
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# read_parser_arguments()
+
 def read_parser_arguments():
     ap = argparse.ArgumentParser()
-    ap.add_argument("xml", type=Path, help="Input exam XML file")
-    #ap.add_argument("xsd", type=Path, help="XSD schema file")
-    ap.add_argument("out", type=Path, help="Output .tex file path")
-    ap.add_argument("--graphics-dir", type=Path, default=None, help="Base directory to prefix image src paths (optional)")
-    #ap.add_argument("--docclass", type=str, default="exam", help="LaTeX document class to use (exam|article). Default: exam")
+    ap.add_argument("xml", type=Path, help="Input XML file")
+    ap.add_argument("out", type=Path, nargs="?", help="Output file path (.tex or .html). "
+                                                     "If not supplied, it will be derived from input name.")
+
+    fmt_group = ap.add_mutually_exclusive_group()
+    fmt_group.add_argument("--latex", action="store_true", help="Generate LaTeX output (default)")
+    fmt_group.add_argument("--html", action="store_true", help="Generate HTML output")
+
+    ap.add_argument("--schema", type=Path, default=Path("./xsd/fuvest_xml.xsd"),
+                    help="Path to XML Schema file (default: ./xsd/fuvest_xml.xsd)")
+    ap.add_argument("--graphics-dir", type=Path, default=Path("../images/"),
+                    help="Base directory for image sources (default: ../images/)")
+    ap.add_argument("--output-dir", type=Path, default=Path("./output/"),
+                    help="Directory to place the output file (default: ./output/")
     
     return ap.parse_args()
+
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# main()
 
 def main():
 
     # Declare intent to modify the global variable
     global global_graphics_dir
 
+    # Process the input arguments
     args = read_parser_arguments()
+
+    # Decide format
+    fmt = "html" if args.html else "latex"
+
+    # Decide output filename
+    if args.out is None:
+        new_ext = ".html" if fmt == "html" else ".tex"
+        args.out = args.output_dir / (args.xml.stem + new_ext)
+    else:
+        args.out = args.output_dir / args.out.name
     
+    # Store the graphics_dir path on the global variable
     global_graphics_dir = args.graphics_dir
 
-    xml_input = read_xml(args.xml)
-    #validate_xml(doc, args.xsd)
-    validate_xml(xml_input, ".\\xsd\\fuvest_xml.xsd")
+    # Check for existence of input file
+    if args.xml.is_file() is not True:
+        print(f"ERROR: The file '{args.xml}' does not exists.")
+        sys.exit(1)
 
-    tex = create_latex(xml_input, args.graphics_dir)
-    #print(tex)
-    #print(type(args.out))
-    
-    with open(args.out, 'w', encoding='utf-8') as file:
-    # Write the variable's content to the file
-        file.write(tex)
-    
-    #args.out.write_text(tex, encoding="utf-8")
-    print(f"Wrote LaTeX to {args.out}")
+    # Load the input XML and validate
+    xml_input = read_xml(args.xml)
+    validate_xml(xml_input, args.schema)
+
+    if fmt == "latex":
+        tex = create_latex(xml_input)
+        args.out.write_text(tex, encoding="utf-8")
+        print("Wrote LaTeX to", args.out)
+    else:
+        pass
+        #html = build_html(doc, args.graphics_dir)
+        #args.out.write_text(html, encoding="utf-8")
+        print("Wrote HTML to", args.out)
+
 
 if __name__ == "__main__":
     main()

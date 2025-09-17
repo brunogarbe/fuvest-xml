@@ -123,9 +123,9 @@
 			<xs:enumeration value="Physics:Optics:PhysicalOptics"/>
 			
 			<xs:enumeration value="Physics:Modern"/>
-			<xs:enumeration value="Physics:ModernPhysics:SpecialRelativity"/>
-			<xs:enumeration value="Physics:ModernPhysics:QuantumMechanics"/>
-			<xs:enumeration value="Physics:ModernPhysics:NuclearPhysics"/>
+			<xs:enumeration value="Physics:Modern:SpecialRelativity"/>
+			<xs:enumeration value="Physics:Modern:QuantumMechanics"/>
+			<xs:enumeration value="Physics:Modern:NuclearPhysics"/>
 			
 			<!-- Chemistry -->
 			
@@ -160,89 +160,7 @@
 			<xs:enumeration value="Chemistry:Biochemistry:Lipids"/>
 			<xs:enumeration value="Chemistry:Biochemistry:Proteins"/>
 			
-			<!-- Biology 
-			1. Foundations of Biology
-			Scientific method in biology
-			Levels of biological organization (molecule → biosphere)
-			Characteristics of living organisms
-			Biochemistry basics (water, macromolecules: proteins, lipids, carbohydrates, nucleic acids)
-
-			2. Cell Biology
-			Cell theory
-			Prokaryotic vs. eukaryotic cells
-			Cell structures and organelles (nucleus, mitochondria, chloroplasts, etc.)
-			Cell membranes and transport (diffusion, osmosis, active transport)
-			Cell communication and signaling
-			Cell cycle (mitosis, meiosis)
-			Cellular energetics (photosynthesis, respiration, ATP production)
-
-			3. Genetics & Molecular Biology
-			DNA and RNA structure
-			Replication, transcription, translation
-			Gene expression and regulation
-			Mendelian genetics (dominance, segregation, independent assortment)
-			Non-Mendelian genetics (codominance, multiple alleles, polygenic traits)
-			Mutations
-			Biotechnology and genetic engineering (CRISPR, cloning, GMOs)
-
-			4. Evolution & Diversity of Life
-			Principles of evolution (Darwin, natural selection, genetic drift, gene flow)
-			Speciation and phylogeny
-			Evidence of evolution (fossils, anatomy, molecular biology, embryology)
-			Classification systems (domains, kingdoms, cladistics)
-
-			5. Microbiology
-			Viruses
-			Structure and replication cycles (lytic, lysogenic)
-			Viral diseases (HIV, influenza, etc.)
-			Vaccines and antiviral defense
-			Bacteria and Archaea
-			Prokaryotic cell structure
-			Roles in ecosystems (decomposers, nitrogen fixation)
-			Pathogenic vs. beneficial bacteria
-
-			6. Protists & Fungi
-			Protists
-			Diversity and classification (protozoa, algae, slime molds)
-			Ecological importance
-			Fungi
-			Structure (hyphae, mycelium, spores)
-			Nutrition (saprophytic, parasitic, symbiotic)
-			Roles in ecosystems (decomposers, mycorrhizae, lichens)
-			Fungal diseases and uses (antibiotics, fermentation)
-
-			7. Plant Biology (Plantae)
-			Plant cell and tissues (xylem, phloem, meristems)
-			Photosynthesis in plants
-			Plant reproduction (alternation of generations, flowers, seeds, fruits)
-			Growth and hormones (auxins, gibberellins, etc.)
-			Plant physiology (transport of water and nutrients, transpiration)
-			Plant diversity (bryophytes, ferns, gymnosperms, angiosperms)
-
-			8. Animal Biology (Animalia)
-			General Zoology
-			Major animal phyla (Porifera, Cnidaria, Arthropoda, Mollusca, Annelida, Echinodermata, Chordata)
-			Comparative anatomy (body symmetry, tissues, body cavities, circulatory systems)
-			Reproduction and development
-			Human Anatomy & Physiology
-			Integumentary system (skin)
-			Skeletal and muscular systems
-			Digestive system
-			Circulatory system
-			Respiratory system
-			Nervous system and senses
-			Endocrine system
-			Immune system
-			Reproductive system
-			Homeostasis and regulation
-
-			9. Ecology & Environment
-			Population dynamics (growth, carrying capacity)
-			Ecosystem structure (food chains, food webs, energy flow)
-			Biogeochemical cycles (carbon, nitrogen, water)
-			Biodiversity and conservation
-			Human impact on ecosystems (climate change, deforestation, pollution)
-			-->
+			<!-- Biology -->
 			
 			<xs:enumeration value="Biology:Biochemistry:Lipids"/>
 			
@@ -325,81 +243,94 @@
 			
 			<!-- History -->
 			
-			<xs:enumeration value="History:Ancient History"/>
+			<xs:enumeration value="History:Ancient"/>
 			<xs:enumeration value="History:Ancient:Mesopotamia and Egypt"/>
 			<xs:enumeration value="History:Ancient:Greece"/>
 			<xs:enumeration value="History:Ancient:Rome"/>
+			<xs:enumeration value="History:Ancient:China"/>
 			
-			<xs:enumeration value="History:Medieval History"/>
+			<xs:enumeration value="History:Medieval"/>
 			<xs:enumeration value="History:Medieval:Feudalism"/>
 			<xs:enumeration value="History:Medieval:Byzantine and Islamic Empires"/>
 			
-			<xs:enumeration value="History:Modern History"/>
+			<xs:enumeration value="History:Modern"/>
 			<xs:enumeration value="History:Modern:Renaissance and Reformation"/>
 			<xs:enumeration value="History:Modern:Absolutism and Enlightenment"/>
 			
-			<xs:enumeration value="History:Contemporary History"/>
+			<xs:enumeration value="History:Contemporary"/>
 			<xs:enumeration value="History:Contemporary:French and Industrial Revolutions"/>
 			<xs:enumeration value="History:Contemporary:WorldWars"/>
 			<xs:enumeration value="History:Contemporary:ColdWar"/>
 			
-			<xs:enumeration value="History:Brazilian History"/>
-			<xs:enumeration value="History:Brazil:ColonialPeriod"/>
-			<xs:enumeration value="History:Brazil:ImperialPeriod"/>
-			<xs:enumeration value="History:Brazil:OldRepublic"/>
-			<xs:enumeration value="History:Brazil:VargasEra and Populism"/>
-			<xs:enumeration value="History:Brazil:MilitaryDictatorship and Redemocratization"/>
+			
+			<!-- https://en.wikipedia.org/wiki/History_of_Brazil -->
+			
+			<xs:enumeration value="History:Brazil"/>
+			<xs:enumeration value="History:Brazil:Pre-Cabral"/>
+			<xs:enumeration value="History:Brazil:Colonial Period"/>
+			<xs:enumeration value="History:Brazil:United Kingdom with Portugal"/>
+			<xs:enumeration value="History:Brazil:Independence"/>
+			<xs:enumeration value="History:Brazil:Empire of Brazil"/>
+			<xs:enumeration value="History:Brazil:Old Republic"/>
+			<xs:enumeration value="History:Brazil:Vargas Era"/>
+			<xs:enumeration value="History:Brazil:Populist Republic"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:1964 Brazilian coup d'état"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Vacancy in the Presidency"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Institutional Acts"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Araguaia Guerrilla War"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:March of the One Hundred Thousand"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Brazilian Miracle"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Redemocratization"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Diretas Já"/>
+			<xs:enumeration value="History:Brazil:New Republic"/>
 			
 			<!-- Geography -->
 			
-			<xs:enumeration value="Geography:Physical Geography"/>
-			<xs:enumeration value="Geography:Physical:Geomorphology (Relief)"/>
+			<xs:enumeration value="Geography:Physical"/>
+			<xs:enumeration value="Geography:Physical:Geology"/>
+			<xs:enumeration value="Geography:Physical:Glaciology"/>
 			<xs:enumeration value="Geography:Physical:Climatology"/>
-			<xs:enumeration value="Geography:Physical:Hydrology and Biogeography"/>
+			<xs:enumeration value="Geography:Physical:Oceanography"/>
+			<xs:enumeration value="Geography:Physical:Hydrology"/>
+			<xs:enumeration value="Geography:Physical:Biogeography"/>
 			
-			<xs:enumeration value="Geography:Human Geography"/>
+			<xs:enumeration value="Geography:Human"/>
 			<xs:enumeration value="Geography:Human:Population and Demographics"/>
 			<xs:enumeration value="Geography:Human:Urbanization"/>
-			<xs:enumeration value="Geography:Human:Economic and Agricultural Geography"/>
+			<xs:enumeration value="Geography:Human:Economic and Agricultural"/>
 			
 			<xs:enumeration value="Geography:Geopolitics"/>
-			<xs:enumeration value="Geography:Geopolitics:GlobalConflicts"/>
-			<xs:enumeration value="Geography:Geopolitics:InternationalOrganizations"/>
+			<xs:enumeration value="Geography:Geopolitics:Global Conflicts"/>
+			<xs:enumeration value="Geography:Geopolitics:International Organizations"/>
 			
 			<xs:enumeration value="Geography:Cartography"/>
-			<xs:enumeration value="Geography:Cartography:MapProjections and Scales"/>
+			<xs:enumeration value="Geography:Cartography:Map Projections and Scales"/>
 			
-			<xs:enumeration value="Geography:Brazilian Geography"/>
-			<xs:enumeration value="Geography:Brazil:RegionalGeography"/>
-			<xs:enumeration value="Geography:Brazil:EconomicActivities"/>
-			<xs:enumeration value="Geography:Brazil:EnvironmentalIssues"/>
+			<xs:enumeration value="Geography:Brazil"/>
+			<xs:enumeration value="Geography:Brazil:Regional Geography"/>
 			
-			<!-- Language -->
+			<xs:enumeration value="Geography:Brazil:Physical"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Geology"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Hidrology"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Oceanography"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Climatology"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Biogeography"/>
 			
-			<xs:enumeration value="Language:Portuguese Grammar"/>
-			<xs:enumeration value="Language:Text Interpretation"/>
-			<xs:enumeration value="Language:English"/>
-			<xs:enumeration value="Language:Spanish"/>
-			<xs:enumeration value="Language:Text Interpretation:ArgumentativeStructures"/>
-			<xs:enumeration value="Language:Portuguese:Morphology"/>
-			<xs:enumeration value="Language:Portuguese:Syntax"/>
-			<xs:enumeration value="Language:Portuguese:Semantics and Stylistics"/>
-			<xs:enumeration value="Language:TextInterpretation:NarrativeGenres"/>
-			<xs:enumeration value="Language:TextInterpretation:ArgumentativeStructures"/>
-			<xs:enumeration value="Language:TextInterpretation:PoeticLanguage"/>
-			<xs:enumeration value="Language:English:Grammar"/>
-			<xs:enumeration value="Language:English:ReadingComprehension"/>
+			<xs:enumeration value="Geography:Brazil:Human"/>
+			<xs:enumeration value="Geography:Brazil:Human:Population and Demographics"/>
+			<xs:enumeration value="Geography:Brazil:Human:Culture"/>
+			<xs:enumeration value="Geography:Brazil:Human:Urbanization"/>
+			<xs:enumeration value="Geography:Brazil:Human:Economic and Agricultural"/>
 			
-			<!-- Literature -->
+			<xs:enumeration value="Geography:Brazil:Environmental Issues"/>
 			
-			<xs:enumeration value="Literature:Brazilian Literature"/>
-			<xs:enumeration value="Literature:World Literature"/>
-			<xs:enumeration value="Literature:Brazil:Romanticism"/>
-			<xs:enumeration value="Literature:Brazil:Realism and Naturalism"/>
-			<xs:enumeration value="Literature:Brazil:Modernism"/>
-			<xs:enumeration value="Literature:Brazil:Contemporary"/>
+			<xs:enumeration value="Sociology:General:Culture, Identity and Socialization"/>
+			<xs:enumeration value="Sociology:General:SocialStructure and Stratification"/>
+			<xs:enumeration value="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)"/>
+			<xs:enumeration value="Philosophy:General:Metaphysics"/>
 			
-			
+			<!--
 			<xs:enumeration value="Philosophy:General Philosophy"/>
 			<xs:enumeration value="Philosophy:Ethics"/>
 			<xs:enumeration value="Sociology:General Sociology"/>
@@ -413,8 +344,47 @@
 			<xs:enumeration value="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)"/>
 			<xs:enumeration value="Sociology:General:SocialStructure and Stratification"/>
 			<xs:enumeration value="Sociology:General:Culture, Identity and Socialization"/>
-			<xs:enumeration value="Sociology:General:Culture, Identity and Socialization"/>
-			<xs:enumeration value="Language:Text Interpretation:PoeticLanguage"/>
+			-->
+			
+			<!-- Portuguese -->
+			
+			<xs:enumeration value="Portuguese:Grammar:Phonology"/>
+			<xs:enumeration value="Portuguese:Grammar:Phonology:Accents"/>
+			<xs:enumeration value="Portuguese:Grammar:Phonology:Spelling"/>
+			
+			<xs:enumeration value="Portuguese:Grammar:Morphology"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Nouns"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Adjectives"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Preposition"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Pronomial Conjunctions"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Verbs"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Numerals"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Adverbs"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Interjections"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Articles"/>
+			
+			<xs:enumeration value="Portuguese:Grammar:Syntax"/>
+			<xs:enumeration value="Portuguese:Grammar:Syntax:Punctuation"/>
+			
+			<xs:enumeration value="Portuguese:Grammar:Semantics and Stylistics"/>
+			
+			<xs:enumeration value="Portuguese:Text Interpretation"/>
+
+			<!-- English -->
+			
+			<xs:enumeration value="English:Grammar"/>
+			<xs:enumeration value="English:Reading Comprehension"/>
+			
+			<!-- Literature -->
+			
+			<xs:enumeration value="Literature:Brazil"/>
+			<xs:enumeration value="Literature:Brazil:Romanticism"/>
+			<xs:enumeration value="Literature:Brazil:Realism and Naturalism"/>
+			<xs:enumeration value="Literature:Brazil:Modernism"/>
+			<xs:enumeration value="Literature:Brazil:Contemporary"/>
+			
+			<xs:enumeration value="Literature:World Literature"/>
+			
 		</xs:restriction>
 	</xs:simpleType>
 	
@@ -475,7 +445,7 @@
 	<!-- Cell -->
 	<xs:complexType name="Cell">
 	
-		<xs:choice maxOccurs="unbounded">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
 			<xs:element name="p" type="xs:string" />
 			<xs:element name="image" type="Image"/>
 		</xs:choice>
@@ -599,7 +569,7 @@
 							<xs:element name="classification" type="SubjectAttribute" maxOccurs="unbounded"/>
 							<xs:element name="statement" 			type="StatementChilds"/>
 							<xs:element name="options" 				type="Options"/>					
-							<xs:element name="assumptions"  	type="Paragraphs" minOccurs="0"/>
+							<xs:element name="assumptions"  	type="StatementChilds" minOccurs="0"/>
 						</xs:sequence>
 						
 						<!-- Attributes -->
@@ -616,7 +586,7 @@
 							<xs:element name="classification" type="SubjectAttribute" maxOccurs="unbounded"/>
 							<xs:element name="statement" 			type="StatementChilds"/>
 							<xs:element name="parts" 					type="Parts"/>					
-							<xs:element name="assumptions"  	type="Paragraphs" minOccurs="0"/>
+							<xs:element name="assumptions"  	type="StatementChilds" minOccurs="0"/>
 						</xs:sequence>
 						
 						<!-- Attributes -->

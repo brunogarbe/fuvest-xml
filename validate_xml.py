@@ -3,78 +3,134 @@ import glob
 import os
 from lxml import etree
 
-def load_valid_subjects(file_path):
-    subjects = set()
-    with open(file_path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if line and not line.startswith("#"):  # permite comentários
-                subjects.add(line)
-    return subjects
+
+def load_file_lines(path):
+    """Lê todas as linhas de um arquivo e retorna lista (1-based index)."""
+    with open(path, "r", encoding="utf-8", errors="replace") as f:
+        return f.readlines()
 
 
-def validate_xml(schema_file, xml_file):
+def show_context(lines, line, col, context=2):
+    """Mostra trecho do XML com linha destacada."""
+    start = max(0, line - context - 1)
+    end = min(len(lines), line + context)
+    snippet = []
+    for i in range(start, end):
+        prefix = ">>" if (i + 1) == line else "  "
+        marker = ""
+        if (i + 1) == line and col > 0 and col <= len(lines[i]) + 1:
+            marker = " " * (col + 6) + "^"
+        snippet.append(f"{prefix} {i+1:4d}: {lines[i].rstrip()}")
+        if marker:
+            snippet.append(marker)
+    return "\n".join(snippet)
+
+
+def validate_xml(schema_file, xml_file, detailed=False):
+    errors = []
+
     # Carrega schema
-    with open(schema_file, 'rb') as f:
+    with open(schema_file, "rb") as f:
         schema_doc = etree.XML(f.read())
     schema = etree.XMLSchema(schema_doc)
 
-    parser = etree.XMLParser(schema=schema)
-
     try:
+        # Parse sem schema (para manter localização exata)
+        parser = etree.XMLParser(remove_blank_text=True)
         tree = etree.parse(xml_file, parser)
+
+        # Valida contra schema
+        if not schema.validate(tree):
+            for error in schema.error_log:
+                errors.append({
+                    "file": xml_file,
+                    "line": error.line,
+                    "column": error.column,
+                    "message": error.message,
+                })
+
+        # 🔹 Checagem de numeração incremental
+        question_numbers = []
+        for q in tree.xpath("//question"):
+            try:
+                num = int(q.get("number"))
+                question_numbers.append((num, q.sourceline))
+            except (TypeError, ValueError):
+                errors.append({
+                    "file": xml_file,
+                    "line": q.sourceline,
+                    "column": 0,
+                    "message": f"<question> possui atributo 'number' inválido: {q.get('number')}",
+                })
+
+        if question_numbers:
+            expected = list(range(1, len(question_numbers) + 1))
+            found = [n for n, _ in question_numbers]
+            if found != expected:
+                for (n, line), exp in zip(question_numbers, expected):
+                    if n != exp:
+                        errors.append({
+                            "file": xml_file,
+                            "line": line,
+                            "column": 0,
+                            "message": f"Número incorreto: encontrado {n}, esperado {exp}",
+                        })
+
     except etree.XMLSyntaxError as e:
-        print(f"[ERROR] {xml_file}: inválido contra o XSD\n{e}")
-        return False
+        # Erros de parsing
+        for error in e.error_log:
+            errors.append({
+                "file": xml_file,
+                "line": error.line,
+                "column": error.column,
+                "message": error.message,
+            })
 
-    root = tree.getroot()
+    if detailed and errors:
+        lines = load_file_lines(xml_file)
+        for err in errors:
+            if err["line"] > 0:
+                err["context"] = show_context(lines, err["line"], err["column"])
 
-    # 1. Verificar incremento de <question number="">
-    question_numbers = []
-    for q in root.xpath("//question"):
-        try:
-            num = int(q.get("number"))
-            question_numbers.append(num)
-        except (TypeError, ValueError):
-            print(f"[ERROR] {xml_file}: question sem número válido -> {etree.tostring(q, pretty_print=True).decode()}")
-            return False
-
-    expected = list(range(1, len(question_numbers) + 1))
-    if question_numbers != expected:
-        print(f"[ERROR] {xml_file}: sequência incorreta de <question number>. Esperado {expected}, encontrado {question_numbers}")
-        return False
-
-    # 2. Verificar subjects válidos
-    # for subj in root.xpath("//classification/subject"):
-        # text = subj.text.strip()
-        # if text not in valid_subjects:
-            # print(f"[ERROR] {xml_file}: subject inválido '{text}'")
-            # return False
-
-    print(f"[OK] {xml_file} válido e consistente ✅")
-    return True
+    return errors
 
 
 def main():
     parser = argparse.ArgumentParser(description="Valida XML contra XSD e regras extras")
-    parser.add_argument("schema", help="Arquivo XSD para validação")
-    parser.add_argument("xml", help="Arquivo XML ou máscara (*.xml)")
-    #parser.add_argument("subjects", help="Arquivo de texto com lista de subjects válidos (um por linha)")
+    parser.add_argument("xml", help="Arquivo XML ou máscara (ex: *.xml)")
+    parser.add_argument("--schema", default=r".\xsd\fuvest_xml.xsd",
+                        help="Arquivo XSD (default: .\\xsd\\fuvest_xml.xsd)")
+    parser.add_argument("--detailed", action="store_true",
+                        help="Mostra trecho do XML onde o erro ocorreu")
     args = parser.parse_args()
 
-    # if not os.path.exists(args.subjects):
-        # print(f"Arquivo de subjects não encontrado: {args.subjects}")
-        # return
-
-    #valid_subjects = load_valid_subjects(args.subjects)
+    if not os.path.exists(args.schema):
+        print(f"[ERRO] Schema não encontrado: {args.schema}")
+        return
 
     files = glob.glob(args.xml)
     if not files:
-        print(f"Nenhum arquivo encontrado para {args.xml}")
+        print(f"[ERRO] Nenhum arquivo encontrado para '{args.xml}'")
         return
 
+    total_errors = 0
     for file in files:
-        validate_xml(args.schema, file)
+        errors = validate_xml(args.schema, file, detailed=args.detailed)
+        if errors:
+            print(f"\n[ERROS] {file}:")
+            for err in errors:
+                print(f"  Linha {err['line']}, Coluna {err['column']}: {err['message']}")
+                if args.detailed and "context" in err:
+                    print(err["context"])
+                    print("-" * 60)
+            total_errors += len(errors)
+        else:
+            print(f"[OK] {file} válido ✅")
+
+    if total_errors > 0:
+        print(f"\nTotal de erros encontrados: {total_errors}")
+    else:
+        print("\nTodos os arquivos são válidos! 🎉")
 
 
 if __name__ == "__main__":

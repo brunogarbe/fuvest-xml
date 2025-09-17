@@ -27,34 +27,38 @@ from typing import Optional, List
 from lxml import etree
 
 # Default CSS content is now stored in a constant.
-DEFAULT_PREAMBLE = """\\documentclass[10pt,a4paper]{exam}
+DEFAULT_PREAMBLE = """\\documentclass[11pt,a4paper,twocolumn]{article}
 
 % Encoding
 \\usepackage[T1]{fontenc}
 \\usepackage[utf8]{inputenc}
 
 % Packages
-\\usepackage{multicol}   % two-column layout
-\\usepackage{tabularx}   % flexible tables
-\\usepackage{array}      % improved column definitions
-\\usepackage{verse}
-%\\usepackage[threshold=0]{csquotes}
-%\\SetBlockEnvironment{quotation} % Sets the quotation environment to have no indentations
+\\usepackage{geometry}			% page size and margins
+\\usepackage{graphicx}   	% for images
+\\usepackage{wrapfig}    	% for pictures wraping
+\\usepackage{tabularx}   	% flexible tables
+\\usepackage{array}      	% improved column definitions
+\\usepackage{tcolorbox}  	% for boxes of text
+\\usepackage{csquotes}     % for typesetting quotes
+\\usepackage{verse}      	% for typesetting verses
+\\usepackage{mathspec}			% allow you to use open-type fonts
+\\usepackage{setspace}     % for line spacing
+\\usepackage{lipsum}				% for printing test
 
-\\usepackage{geometry}
-\\geometry{margin=1cm}
-% [left=1.5in, right=1in, top=1.2in, bottom=1in]{geometry}
-\\usepackage{graphicx}
-%\\usepackage{enumitem}
-%\\usepackage{amsmath, amssymb}
-%\\usepackage{tcolorbox}
+% configure the margin of the paper (geometry)
+\\geometry{left=1cm,right=1cm,top=1.5cm,bottom=2cm}
 
-\\setlength{\\columnsep}{0.8cm}
-%\\renewcommand{\\questionshook}{%
-%\\setlength{\\leftmargin}{0pt}%
-%\\setlength{\\labelwidth}{-\\labelsep}%
-%\\setlength{\\parskip}{0.5em}
-%\\setlength{\\parindent}{0pt}
+% path relative to the main .tex file (graphicx)
+\\graphicspath{ {./images/} }
+
+% configure the boxes (tcolorbox)
+\\definecolor{sub}{HTML}{dedede}     % setting sub color to be used
+
+\\newtcolorbox{assumptionBox}{
+    colback = sub, % background color
+    boxrule = 0pt  % no borders
+}
 
 % Remove indentation from quote environment
 \\renewenvironment{quote}
@@ -65,65 +69,23 @@ DEFAULT_PREAMBLE = """\\documentclass[10pt,a4paper]{exam}
 % Custom command for author formatting
 \\newcommand{\\quoteauthor}[1]{%
     \\begin{flushright}
-        \\textit{\\small --- #1}
+        \\textit{--- #1}
     \\end{flushright}
 }
 
-% tabularx column type
-\\newcolumntype{L}{>{\\raggedright\\arraybackslash}X}
+\\renewcommand{\\thesection}{\\huge\\arabic{section}.}
+\\renewcommand{\\theenumi}{\\Alph{enumi}}
+\\renewcommand\\labelenumi{(\\theenumi)}
 
-\\tolerance=1
-\\emergencystretch=\maxdimen
-\\hyphenpenalty=10000
-\\hbadness=10000
 
-% -------- allow \choice inside table cells (noparchoices) ----------
-\\makeatletter
-\\newenvironment{noparchoices}{%
-  \\setcounter{choice}{0}%
-  \\def\\choice{%
-    \\refstepcounter{choice}%
-    \\choicelabel
-    \\questionobject@pluspagecheck
-  }%
-  \\def\\CorrectChoice{%
-    \\refstepcounter{choice}%
-    \\ifprintanswers
-      \\begingroup\CorrectChoice@Emphasis
-      \\choicelabel
-      \\endgroup
-    \\else
-      \\choicelabel
-    \\fi
-    \\questionobject@pluspagecheck
-  }%
-  \\let\\correctchoice\\CorrectChoice
-  \\ignorespaces
-}{}
-\\makeatother
-% -------------------------------------------------------------------
+% set the document fonts (mathspec)
+\\setmainfont{Libertinus Serif}
+\\setmathfont(Digits,Latin)[Scale=MatchLowercase]{Libertinus Serif}
 
-% Format ONLY the question number: (1), (2)... in large bold
-%\\qformat{\\textbf{\\large\\thequestion}\\quad}
-
-% Put the question number on its own line; do NOT include any blank line or \par here.
-\\qformat{%
-  \\vspace{1.25\\baselineskip}% space before the number
-  \\hspace*{\\parindent}\\bfseries\\LARGE\\thequestion.
-  \\vspace{1\\baselineskip}% extra space after the number
-}
-
-% Make the question text align with the normal paragraph area (not in the margin).
-\\renewcommand{\\questionshook}{%
-  \\setlength{\\leftmargin}{0pt}%
-  \\setlength{\\labelwidth}{-\labelsep}%
-}
-
-% Format choice labels as (A), (B), (C) ...
-\\renewcommand{\\choicelabel}{(\\Alph{choice})}
-
-% --- Make the answer key show only the letter (A), (B) ---
-%\\renewcommand{\\answerkeyformat}[1]{#1}
+\\setlength\parindent{0pt}   % killing indentation for all the text
+\\setstretch{1.0}            % setting line spacing
+\\setlength\columnsep{1.0cm} % setting length of column separator
+\\pagestyle{empty}           % setting pagestyle to be empty
 
 \\newcommand{\lt}{<}
 \\newcommand{\gt}{>}
@@ -441,7 +403,7 @@ def render_header(header_el) -> str:
     text = "".join(header_el.itertext()).strip()
     #print('0', text)
     #return markdown_to_latex(escape_latex(text)) + "\n\n"
-    return "\\vspace{1.25\\baselineskip}\n\\textbf{" + markdown_to_latex(text) + "}\n\n"
+    return "\\textbf{" + markdown_to_latex(text) + "}\n\n"
     
 #########################################################################################################################
 # Render the <p> tag
@@ -459,7 +421,7 @@ def render_paragraph(p_el) -> str:
 # Use two apostrophes ('') for the closing quote.
 # Example: ``This is a double quote.''
 
-    print('teste', list(p_el.itertext()))
+    #print('teste', list(p_el.itertext()))
     text = "".join(p_el.itertext()).strip()
     #print('0', text)
     #return markdown_to_latex(escape_latex(text)) + "\n\n"
@@ -469,7 +431,7 @@ def render_inline_paragraph(p_el) -> str:
     text = "".join(p_el.itertext()).strip()
     return markdown_to_latex(text)
 
-#########################################################################################################################
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
 # Render the <quote> tag
 #
 # Example:
@@ -497,7 +459,10 @@ def render_quote(q_el) -> str:
     parts.append("\\end{quote}\n")
     parts.append("\n")
     return "".join(parts)
-    
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <verse> tag
+
 def render_verse(q_el) -> str:
     parts = []
     parts.append("\\begin{verse}\n")
@@ -523,17 +488,37 @@ def render_verse(q_el) -> str:
     parts.append("\n")
     return "".join(parts)
 
-def render_image(img_el, graphics_dir: Optional[Path]) -> str:
-    src = img_el.get("src", "").strip()
-    if graphics_dir:
-        img_path = graphics_dir / src
-    else:
-        img_path = Path(src)
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <image> tag
+
+def render_image(img_el) -> str:
+    #src = img_el.get("src", "").strip()
+    # if graphics_dir:
+    #     img_path = graphics_dir / src
+    # else:
+    #     img_path = Path(src)
     # Use width=\linewidth to fit page
-    return "\\begin{center}\n\\includegraphics[width=\\linewidth]{" + escape_latex(str(img_path).replace('\\','/')) + "}\n\\end{center}\n\n"
+    return "\\begin{center}\n" + render_inline_image(img_el) + "\n\\end{center}\n\n"
+
+def render_inline_image(img_el) -> str:
+    # get the <image> tag attributes
+    src = img_el.get("src", "").strip()
+    pos = img_el.get("position", "").strip()
+    size = img_el.get("size", "").strip()
+    wrap = img_el.get("wrap", "").strip()
+
+    # get the image path
+    img_path = global_graphics_dir / src
+        
+    # Use width=\linewidth to fit page
+    return "\\includegraphics[width=\\linewidth]{" + str(img_path).replace('\\','/') + "}"
 
 def count_table_cols(tr_el) -> int:
     return len(tr_el.findall("./cell")) # + len(tr_el.findall("./th"))
+
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <list> tag
 
 def render_table(tbl_el) -> str:
     headers =  tbl_el.findall("./header")
@@ -570,6 +555,10 @@ def render_table(tbl_el) -> str:
     parts.append("\\end{center}\n\n")
     return "".join(parts)
 
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <list> tag
+
 def render_list(ul_el) -> str:
     parts = []
     parts.append("\\begin{itemize}\n")
@@ -579,244 +568,171 @@ def render_list(ul_el) -> str:
     parts.append("\\end{itemize}\n\n")
     return "".join(parts)
 
-#########################################################################################################################
-# Render the <context> tag
-
-def render_context(ctx_el, graphics_dir: Optional[Path]) -> str:
-    # Render as a boxed environment
-    parts = []
-    #parts.append("\\begin{tcolorbox}[colback=white,colframe=black!30]\n")
-    # context may contain paragraphs and other elements
-    for child in ctx_el:
-        parts.append(render_statement_child(child, graphics_dir))
-    #parts.append("\\end{tcolorbox}\n\n")
-    return "".join(parts)
-    
-    
-
-def render_statement_child(el, graphics_dir: Optional[Path]) -> str:
-    tag = el.tag
-    if tag == "p":
-        return render_paragraph(el)
-    if tag == "header":
-        return render_header(el)
-    if tag == "quote":
-        return render_quote(el)
-    if tag == "verse":
-        return render_verse(el)
-    if tag == "image":
-        return render_image(el, graphics_dir)
-    if tag == "table":
-        return render_table(el)
-    if tag == "ul":
-        return render_list(el)
-    #if tag == "context":
-    #    return render_context(el, graphics_dir)
-    # Fallback: render text
-    return markdown_to_latex("".join(el.itertext()).strip()) + "\n\n"
-
-#########################################################################################################################
-# Render the <statement> tag
-
-def render_statement(stmt_el, graphics_dir: Optional[Path]) -> str:
-    parts = []
-    for child in stmt_el:
-        parts.append(render_statement_child(child, graphics_dir))
-    return "".join(parts)
-
 
 def count_table_cols2(tr_el) -> int:
     return len(tr_el.findall("./cell")) # + len(tr_el.findall("./th"))
 
-#########################################################################################################################
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
 # Render the <assumptions> tag
 
 def render_assumptions(assumptions_el) -> str:
     # We will render as enumerate with labels (A), (B), ...
     parts = []
     
-    parts.append("\\noindent\\fbox{\\begin{minipage}{\\textwidth}\n")
+    parts.append("\\begin{assumptionBox}\n")
     parts.append("Note e adote:\n\n")
     for child in assumptions_el:
-        parts.append(render_statement_child(child, global_graphics_dir))
-    parts.append("\\end{minipage}}\n")
+        parts.append(render_statement_child(child))
+    parts.append("\\end{assumptionBox}\n")
         
     return "".join(parts)
     
-#########################################################################################################################
-# Render the <quote> tag
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the options tag
+
+def number_to_letter(number):
+  """
+  Converts an integer (1-26) to its corresponding uppercase letter (A-Z).
+
+  Args:
+    number: An integer between 1 and 26 (inclusive).
+
+  Returns:
+    The corresponding uppercase letter, or a ValueError if the input is out of range.
+  """
+  if not 1 <= number <= 26:
+    raise ValueError("Input number must be between 1 and 26.")
+  return chr(64 + number)
 
 def render_options(options_el) -> str:
     # We will render as enumerate with labels (A), (B), ...
     parts = []
-
     
+    # check for a <table> tag 
     table_el = options_el.find("./table")
-    print('teste', table_el)
-    
+
+    # It is a table options
     if table_el is not None:
-        print('&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&')
-        parts.append("\\begin{noparchoices}\n")
-        parts.append("\\renewcommand{\\arraystretch}{1.25}\n")
-        parts.append("\\begin{tabularx}{\\linewidth}{|c|L|L|}\n")
-        parts.append("\\hline\n")
-        print("$$", table_el)
-        
-        #for tbl in table_el:  
-        headers = table_el.findall("./cell")
-        header = table_el.find("./header")
-        options = table_el.findall("./option")
-        print('@', headers, type(headers))
-        print('#', header, type(header))
-        # for r in header:
-            # print(r)
-        #print('3', len(header.findall("./th")))
-        
-        #for opt in options
-        ncols = max((count_table_cols(r) for r in options), default=1) + 1
-        print('!', ncols)
-        
-        # output header
-        if header is not None:
-            for cell in header.findall("./cell"):
-                print('col header', cell)
-                parts.append(" & ")
-                if cell.find("./p") is not None:
-                    #text = "".join(cell.itertext()).strip()
-                    #parts.append(markdown_to_latex(text))
-                    parts.append(render_inline_paragraph(cell))
-                    #print('0', text)
-                    #return markdown_to_latex(escape_latex(text)) + "\n\n"
-                    #return markdown_to_latex(text) + "\n\n"
-                elif cell.find("./image") is not None:
-                    img_el = cell.find("./image")
-                    print('oi', img_el)
-                    src = img_el.get("src", "").strip()
-                    if global_graphics_dir:
-                        img_path = global_graphics_dir / src
-                    else:
-                        img_path = Path(src)
-                    # Use width=\linewidth to fit page
+        parts.append("\\begin{tabularx}{\\linewidth}{|c|c|c|}\n")
+        #ncols = max((count_table_cols(r) for r in options), default=1) + 1
 
-                else:
-                    raise ValueError("XML contains unexpected 'invalid_tag' element.")
+        option_index = 1
+
+        for child in table_el:
+            tag = child.tag
+            # if tag == "header":
+            #     pass
+            #     #return render_inline_paragraph(el)
+            # elif tag == "option":
+            #     pass
+            #     #return render_inline_image(el)
+            # else:
+            #     raise ValueError("Tag not recognized!")
+            
+            if child.tag == "option":
+                parts.append(f" ({number_to_letter(option_index)}) ")
+                option_index += 1
+
+            for cell in child.findall("./cell"):
+                body_parts = []
+                for sub in cell:
+                    body_parts.append(render_option_child(sub))
+                body = "\n".join([t for t in body_parts if t]).strip()
                 
-            parts.append("\\\\\n")
-            parts.append("\\hline\n")
-        
-        # options
-        
-        for row in table_el.findall("./option"):
-            parts.append("\\choice ")
-            for cell in row.findall("./cell"):
-                parts.append(" & ")
-                print('cell', cell, table_el.find("./p"))
-                if cell.find("./p") is not None:
-                    parts.append(render_inline_paragraph(cell))
-                elif cell.find("./image") is not None:
-                    img_el = cell.find("./image")
-                    print('oi', img_el)
-                    src = img_el.get("src", "").strip()
-                    if global_graphics_dir:
-                        img_path = global_graphics_dir / src
-                    else:
-                        img_path = Path(src)
-                    # Use width=\linewidth to fit page
-                    parts.append("\\includegraphics[width=\\linewidth]{" + escape_latex(str(img_path).replace('\\','/')) + "}")
-                    #return "\\begin{center}\n\\includegraphics[width=\\linewidth]{" + escape_latex(str(img_path).replace('\\','/')) + "}\n\\end{center}\n\n"
+                parts.append(" & " + body)
 
-                else:
-                    raise ValueError("XML contains unexpected 'invalid_tag' element.")
-            
             parts.append("\\\\\n")
             parts.append("\\hline\n")
         
-#         parts.append("""
-# \\begin{noparchoices}
-# \\renewcommand{\\arraystretch}{1.25}
-# \\begin{tabularx}{\\linewidth}{|c|L|L|}
-# \\hline
-# \\textbf{Choice} & \\textbf{Formula} & \\textbf{Compound} \\\\
-# \\hline
-# \\choice        & CO$_2$ & Carbon dioxide \\\\
-# \\hline
-# \\choice        & O$_2$  & Oxygen \\\\
-# \\hline
-# \\choice        & H$_2$O & Water \\\\
-# \\hline
-# \\choice        & H$_2$  & Hydrogen gas \\\\
-# \\hline
-# \\end{tabularx}
-# \\end{noparchoices}
-# """)
-            
-            # rows = tbl_el.findall("./option")
-            # if not rows:
-                # return ""
-            # ncols = max((count_table_cols(r) for r in rows), default=1)
-            # # Simple table with vertical bars
-            # colspec = "|".join(["l"] * ncols)
-            # parts = []
-            # parts.append("\\begin{center}\n")
-            # parts.append("\\begin{tabular}{" + "|" + colspec + "|}\n\\hline\n")
-            
-            # for r in rows:
-                # cells = []
-                # # preserve order of th/td as they appear
-                # for cell in list(r):
-                    # if cell.tag not in ("td", "th"):
-                        # continue
-                    # txt = "".join(cell.itertext()).strip()
-                    # cells.append(escape_latex(txt))
-                # parts.append(" & ".join(cells) + " \\\\ \\hline\n")
-            # parts.append("\\end{tabular}\n")
-            # parts.append("\\end{center}\n\n")
-            #return "".join(parts)
-        
-        ###############################
-        parts.append("\\end{tabularx}\n")
-        parts.append("\\end{noparchoices}\n\n")
+        parts.append("\\end{tabularx}\n\n")
     
+    # the options are not a table options
     else:
-        print('$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$')
-        parts.append("\\begin{choices}\n")
+        parts.append("\\begin{enumerate}\n")
         for opt in options_el.findall("./option"):
+            # read the <option> tag attributes
             label = opt.get("label")  # not strictly needed, enumerate will label
-            # Option body can have paragraphs; concatenate them
+            is_correct = opt.get("is_correct")
+
+            # <option> tags can only have <p> or <image> tags
             body_parts = []
             for child in opt:
-                if child.tag == "p":
-                    body_parts.append("".join(child.itertext()).strip())
-                else:
-                    body_parts.append("".join(child.itertext()).strip())
-            body = markdown_to_latex("\n".join([t for t in body_parts if t])).strip()
-            parts.append("\\choice " + body + "\n")
+                body_parts.append(render_option_child(child))
+
+            body = "\n".join([t for t in body_parts if t]).strip()
+            parts.append("\\item " + body + "\n")
             
-        parts.append("\\end{choices}\n\n")
+        parts.append("\\end{enumerate}\n\n")
 
     return "".join(parts)
 
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the statement child tags
+
+def render_option_child(el) -> str:
+    tag = el.tag
+    if tag == "p":
+        return render_inline_paragraph(el)
+    elif tag == "image":
+        return render_inline_image(el)
+    else:
+        raise ValueError("Tag not recognized!")
+
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the statement child tags
+
+def render_statement_child(el) -> str:
+    tag = el.tag
+    if tag == "p":
+        return render_paragraph(el)
+    elif tag == "header":
+        return render_header(el)
+    elif tag == "quote":
+        return render_quote(el)
+    elif tag == "verse":
+        return render_verse(el)
+    elif tag == "image":
+        return render_image(el)
+    elif tag == "table":
+        return render_table(el)
+    elif tag == "ul":
+        return render_list(el)
+    else:
+        raise ValueError("Tag not recognized!")
+
+
 #########################################################################################################################
-#
+# Render the <statement> tag
 
-def render_question(q_el, graphics_dir: Optional[Path], show_numbers: bool = True):
+def render_statement(stmt_el) -> str:
+    parts = []
+    for child in stmt_el:
+        parts.append(render_statement_child(child))
+    return "".join(parts)
 
-    # process the question number
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <objective_question> tag
+
+def render_objective_question(q_el):
+
+    # get the <objective_question> tag attributes
     number = q_el.get("number", "").strip()
-    #header = f"\\addtolength{\\itemsep}{1.25\\baselineskip}\\n"
-    #header = "\\addtolength{\\itemsep}{0.50\\baselineskip}\n\\question\n" #if show_numbers else ""
-    header = "\\question\n\\vspace{1.25\\baselineskip}% space before the number" #if show_numbers else ""
-    
-    #if number:
-    #    header = f"\\question[\\textbf{{{escape_latex(number)}}}] "
-    
+
+    # header
+    header = "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n"
+    header += f"% Question {number}\n\n"
+    header += "\\section{}\n"
+       
     parts = [header + "\n"]
     
     # process the statement tag
     stmt = q_el.find("./statement")
     if stmt is not None:
-        parts.append(render_statement(stmt, graphics_dir))
+        parts.append(render_statement(stmt))
         
     # process the options tag
     options = q_el.find("./options")
@@ -827,19 +743,18 @@ def render_question(q_el, graphics_dir: Optional[Path], show_numbers: bool = Tru
     if assumptions is not None:
         parts.append(render_assumptions(assumptions))
     
-    
     return "".join(parts)
-    
 
-def collect_answer(q_el) -> Optional[str]:
-    ca = q_el.find("./correct_answer")
-    if ca is None:
-        return None
-    txt = (ca.text or "").strip()
-    if txt:
-        num = q_el.get("number", "").strip()
-        return f"{num}: {txt}"
-    return None
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <context> tag
+
+def render_context(ctx_el) -> str:
+    parts = []
+    # context may contain paragraphs and other elements
+    for child in ctx_el:
+        parts.append(render_statement_child(child))
+    return "".join(parts)
 
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
@@ -864,70 +779,35 @@ def create_latex(doc: etree._ElementTree) -> str:
     preamble.append("\\date{}\n")
     preamble.append("\\author{}\n")
     preamble.append("\n")
-    preamble.append("\\begin{document}\n\\maketitle\n\\begin{multicols}{2}\n\\begin{questions}\n\n")
-    #else:
-    #    preamble.append("\\begin{document}\n")
-    #    preamble.append("\\section*{" + escape_latex(name) + " " + escape_latex(year) + "}\n")
-
+    preamble.append("\\begin{document}\n\n\\maketitle\n\n")
     
+    # Variable to store the body commands create by the render functions 
     body = []
 
-    answers: List[str] = []
+    # Inner function to process question_groups tags
+    def process_question_group(parent):
+        for child in parent:
+            if child.tag == "context":
+                body.append(render_context(child))
+            elif child.tag == "objective_question":
+                body.append(render_objective_question(child))
+            elif child.tag == "discursive_question":
+                raise NotImplementedError("discursive_question not implemented!")
+            else:
+                raise ValueError("Tag not recognized!")
 
     # Context blocks can appear as siblings to question_group, handle flexibly
-    for child in root:
-        #print(child)
-        
+    for child in root:       
         if child.tag == "subject":
-            raise NotImplementedError("Subject tag")
+            for sub_child in child:
+                process_question_group(sub_child)
             
         elif child.tag == "question_group":
-        
-            print(child)
-            # Each group can have optional <context> followed by questions
-            context = child.find("./context")
-            if context is not None:
-                body.append(render_context(context, global_graphics_dir))
-                
-            for q in child.findall("./question"):
-                body.append(render_question(q, global_graphics_dir))
-                ans = collect_answer(q)
-                if ans:
-                    answers.append(ans)
-                    
-        # if child.tag == "context":
-            # body.append(render_context(child, graphics_dir))
-        # elif child.tag == "question_group":
-            # # Each group can have optional <context> followed by questions
-            # ctx = child.find("./context")
-            # if ctx is not None:
-                # body.append(render_context(ctx, graphics_dir))
-            # for q in child.findall("./question"):
-                # body.append(render_question(q, graphics_dir))
-                # ans = collect_answer(q)
-                # if ans:
-                    # answers.append(ans)
-                    
-    #print(preamble)
-    #print(body)
+            process_question_group(child)
 
+    # Ending
     ending = []
-    
-   
-    # if answers:
-        # if docclass == "exam":
-            # ending.append("\\newpage\n\\section*{Gabarito}\n")
-        # else:
-            # ending.append("\\newpage\n\\section*{Answer Key}\n")
-        # ending.append("\\begin{itemize}\n")
-        # for a in answers:
-            # ending.append("\\item " + escape_latex(a) + "\n")
-        # ending.append("\\end{itemize}\n")
-
-    #if docclass == "exam":
-    ending.append("\\end{questions}\n\\end{multicols}\n\\end{document}\n")
-    #else:
-    #    ending.append("\\end{document}\n")
+    ending.append("\\end{document}\n")
 
     return "".join(preamble + body + ending)
 
@@ -993,10 +873,7 @@ def main():
         args.out.write_text(tex, encoding="utf-8")
         print("Wrote LaTeX to", args.out)
     else:
-        pass
-        #html = build_html(doc, args.graphics_dir)
-        #args.out.write_text(html, encoding="utf-8")
-        print("Wrote HTML to", args.out)
+        raise NotImplementedError("html output not implemented!")
 
 
 if __name__ == "__main__":

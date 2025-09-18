@@ -7,15 +7,15 @@
 				<header>Texto 1</header>
 				<quote>
 					<p>Afinal, depois de ver todas as coisas daquele museu, acabei me perguntando se os brancos já não teriam começado a adquirir também tantas de nossas coisas só porque nós, Yanomami, já estamos começando também a desaparecer. Por que ficam nos pedindo nossos cestos, nossos arcos e nossos adornos de penas, enquanto garimpeiros e fazendeiros invadem nossa terra?</p>
-					<author>KOPENAWA, Davi; ALBERT, Bruce. Queda do céu: palavras de um xamã yanomami. São Paulo: Companhia das Letras, 2015. p.429.</author>
 				</quote>
+				<cite>KOPENAWA, Davi; ALBERT, Bruce. Queda do céu: palavras de um xamã yanomami. São Paulo: Companhia das Letras, 2015. p.429.</cite>
 				<header>Texto 2</header>
 				<quote>
 					<p>Em seu trabalho, Glicéria debruça-se sobre a artesania do manto tupinambá, símbolo das tradições ancestrais de seu povo. A artista chama de cosmo-técnica a feitura do manto, e hoje busca compreender qual era sua função cultural e social em sua comunidade. Recentemente, a artista esteve na Europa e encontrou mantos datados do século XVII, que foram levados do Brasil ao longo da colonização, na Dinamarca. Segundo Glicéria, 'hoje, as pessoas entendem o manto como arte, arte contemporânea, mas eu vejo muito além. É um ancestral nosso'.</p>
-					<author>Instituto Pipa. Ocupação dos artistas premiados do Pipa 2023: Glicéria Tupinambá. (Adaptado).</author>
 				</quote>
+				<cite>Instituto Pipa. Ocupação dos artistas premiados do Pipa 2023: Glicéria Tupinambá. (Adaptado).</cite>
 				<p>A reflexão de Davi Kopenawa sobre a apropriação de objetos indígenas por museus e a pesquisa de Glicéria Tupinambá sobre o manto tupinambá em contextos europeus permitem explorar diversas dimensões da arte indígena.</p>
-				<image src="fuvest2025/fase01/q01.png" />
+				<image width="0.4" src="fuvest2025/fase01/q01.png" />
 				<p>Com base nos textos e na imagem, assinale a alternativa que relaciona corretamente as reflexões apresentadas à importância da arte e dos artefatos culturais na discussão sobre questões indígenas no Brasil.</p>
 			</statement>
 			<options>
@@ -101,8 +101,8 @@
 			<statement>
 				<quote>
 					<p>E assim como o branco e os mamelucos se aproveitaram não raro das veredas dos índios, há motivo para pensar que estes, por sua vez, foram, em muitos casos, simples sucessores dos animais selvagens, do tapir especialmente, cujos carreiros ao longo dos rios e riachos, ou em direção a nascentes de águas, se adaptavam perfeitamente às necessidades e hábitos daquelas populações.</p>
-					<author>HOLANDA, Sergio Buarque de. Caminhos e fronteiras. Rio de Janeiro: José Olympio, 1975. p.35.</author>
 				</quote>
+				<cite>HOLANDA, Sergio Buarque de. Caminhos e fronteiras. Rio de Janeiro: José Olympio, 1975. p.35.</cite>
 				<p>De acordo com o excerto, a ocupação territorial da América portuguesa pelos colonizadores foi inicialmente marcada</p>
 			</statement>
 			<options>
@@ -131,7 +131,7 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>Os quadrinhos a seguir são parte da obra Dois irmãos, de Fábio Moon e Gabriel Bá (2015), uma adaptação do romance Dois irmãos, de Milton Hatoum, para o universo das novelas gráficas (graphic novels).</p>
-				<image src="fuvest2025/fase01/q05.png" />
+				<image width="0.7" src="fuvest2025/fase01/q05.png" />
 				<p>Considerando as características visuais dos quadrinhos e os traços narrativos do romance Dois irmãos, de Milton Hatoum, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -161,9 +161,9 @@
 				<p>Leia o texto e analise a charge a seguir.</p>
 				<quote>
 					<p>Se, compreendendo um outro ser humano, penetro profundamente no horizonte do que lhe é próprio, então logo me depararei com o fato de que, assim como o seu corpo se encontra no meu campo de percepção, também o meu corpo se encontra no dele, e que, em geral, ele me experiencia sem mais como um outro para ele, tal como eu o experiencio como outro para mim.</p>
-					<author>HUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária, 2013.</author>
 				</quote>
-				<image src="fuvest2025/fase01/q06.png" />
+				<cite>HUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária, 2013.</cite>
+				<image width="0.8" src="fuvest2025/fase01/q06.png" />
 				<p>O filósofo Edmund Husserl propõe uma reflexão sobre como cada pessoa estabelece relações com as outras. Ocorre uma equiparação dos pontos de vista, de modo que cada uma aparecerá às demais não como uma consciência incomparável, mas justamente como uma outra pessoa. Essa ideia ajuda a entender a perspectiva crítica contida na charge: certas condições ou características que percebemos como depreciativas em outras pessoas também podem ser percebidas da mesma maneira pelos outros em nós.</p>
 				<p>Qual situação reproduz essa estrutura de equiparação exibida na charge?</p>
 			</statement>
@@ -191,7 +191,7 @@
 		<objective_question number="07" success_rate="43.6">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
-				<image src="fuvest2025/fase01/q07.png" />
+				<image width="0.8" src="fuvest2025/fase01/q07.png" />
 				<p>Falácias são argumentos que podem até parecer à primeira vista bem construídos logicamente, mas são falhos, seja em termos do uso da linguagem, de pertinência temática ou de correção formal. Os primeiros estudos sistemáticos das falácias foram feitos pelo filósofo Aristóteles, que classificou alguns dos argumentos falaciosos mais comuns.</p>
 				<p>No terceiro quadrinho da história, uma personagem se serve de um argumento falacioso bastante conhecido a fim de persuadir o outro.</p>
 				<p>Esse argumento pode ser classificado como um caso de qual tipo de falácia?</p>
@@ -222,8 +222,8 @@
 			<statement>
 				<quote>
 					<p>Eu não venero a criação mais do que o Criador, mas venero a criatura criada como eu sou, adotando a criação de maneira livre e espontânea, de modo que Ele possa elevar nossa natureza e nos tornar partícipes de Sua natureza divina. Sendo assim, eu me atrevo a fazer uma imagem do Deus invisível não como invisível, mas como tendo se tornado visível por nossa causa, tornando-se carne e sangue. Eu não faço uma imagem da divindade imortal. Eu pinto a carne visível de Deus, pois é impossível representar o espírito e ainda mais Deus, que dá vida ao espírito.</p>
-					<author>John Damascene. On holy images. (Adaptado).</author>
 				</quote>
+				<cite>John Damascene. On holy images. (Adaptado).</cite>
 				<p>Nessa citação, João Damasceno (675-749), monge e teólogo cristão do período medieval, dirige-se contra o movimento iconoclasta ao</p>
 			</statement>
 			<options>
@@ -253,8 +253,8 @@
 				<quote>
 					<p>A mídia digital é uma mídia da presença. A sua temporalidade é o presente imediato. A comunicação digital se caracteriza pelo fato de que informações são produzidas, enviadas e recebidas sem mediação por meio de intermediários. Mediação e representação são interpretadas como não transparência e ineficiência, como congestionamento de tempo e de informação.</p>
 					<p>Uma mídia eletrônica de massa clássica como o rádio só permite uma comunicação unilateral. O destinatário da mensagem é condenado à passividade. Hoje não somos mais destinatários e consumidores passivos de informação, mas sim remetentes e produtores ativos. Não nos contentamos mais em consumir informações passivamente, mas sim queremos produzi-las e comunicá-las ativamente nós mesmos. Somos simultaneamente consumidores e produtores.</p>
-					<author>HAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora Vozes, 2018. p.35-36 (Adaptado).</author>
 				</quote>
+				<cite>HAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora Vozes, 2018. p.35-36 (Adaptado).</cite>
 				<p>Segundo o texto, a mídia digital distingue-se da mídia de massa tradicional por</p>
 			</statement>
 			<options>
@@ -279,14 +279,13 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 10 E 11</header>
 			<quote>
 				<p>O que torna possível o surgimento de uma 'cultura do cancelamento' é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, __seja__ no campo da publicidade, __seja__ no campo da responsabilidade social da empresa.</p>
 				<p>O conjunto de valores defendidos pelos movimentos sociais __que__ lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento.</p>
 				<p>__Sendo assim__, a sanção específica realizada pelos agentes do 'cancelamento' procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, __mas sim__ impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito 'cancelado'.</p>
 				<p>Nesse contexto, a 'cultura do cancelamento' representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, __como__ inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.</p>
-				<author>MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. (Adaptado).</author>
 			</quote>
+			<cite>MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. (Adaptado).</cite>
 		</context>
 
 		<objective_question number="10" success_rate="57.0">
@@ -345,13 +344,13 @@
 				<header>Texto 1</header>
 				<quote>
 					<p>Em Big Tech: a ascensão dos dados e a morte da política, Morozov estabelece 'um paralelo com os setores extrativistas de recursos naturais, como o petróleo', colocando 'no centro da discussão o modo de produção dessa economia, que ele chama de 'extrativismo de dados'. Apesar de a frase 'os dados são o novo petróleo' ser um chavão fraco em termos conceituais, Morozov acha o modismo útil para debatermos a matriz extrativista desse modo de produção, em especial a forma como as grandes empresas de tecnologia 'continuam escavando a nossa psique tal como as empresas de petróleo escavam o solo'.</p>
-					<author>ZANATTA, Rafael. "Extrativismo Digital". Quatro Cinco Um, 01/04/2019. (Adaptado).</author>
 				</quote>
+				<cite>ZANATTA, Rafael. "Extrativismo Digital". Quatro Cinco Um, 01/04/2019. (Adaptado).</cite>
 				<header>Texto 2</header>
 				<quote>
 					<p>Colonialismo de dados é um modo de configurar o mundo inteiro, de tal forma que um recurso novo possa ser extraído e esse recurso é a vida humana a partir da qual se pode extrair um valor econômico. Sustentamos que os modos nos quais este novo colonialismo opera, as escalas nas quais opera diferem do colonialismo histórico que tão bem entendemos. Mas a função, a finalidade subjacente, o núcleo deste novo colonialismo é exatamente o mesmo do colonialismo histórico. É o de despossuir, apropriar-se dos recursos do mundo para o bem de uns poucos, de uma parte do mundo.</p>
-					<author>COULDRY, Nick. Colonialismo de Dados e Esvaziamento da Vida Social Antes e Pós Pandemia de Covid-19. (Adaptado).</author>
 				</quote>
+				<cite>COULDRY, Nick. Colonialismo de Dados e Esvaziamento da Vida Social Antes e Pós Pandemia de Covid-19. (Adaptado).</cite>
 				<p>Considerando os excertos apresentados, é correto afirmar que extrativismo de dados e colonialismo de dados são conceitos desenvolvidos por Morozov e Couldry para nomear e descrever fenômenos</p>
 			</statement>
 			<options>
@@ -406,8 +405,8 @@
 			<statement>
 				<quote>
 					<p>Brasileiros! (...) está conhecida nossa ilusão ou engano em adotarmos um sistema de governo defeituoso em sua origem, e mais defeituoso em suas partes componentes. As constituições, as leis e todas as instituições humanas são feitas para os povos e não os povos para elas. Eia, pois, brasileiros, tratemos de constituirmos de um modo análogo às luzes do século em que vivemos; o sistema americano deve ser idêntico; desprezemos instituições oligárquicas, só cabidas na encanecida Europa.</p>
-					<author>ANDRADE, Manoel de Carvalho Paes de. Manifesto de proclamação da Confederação do Equador. (Adaptado).</author>
 				</quote>
+				<cite>ANDRADE, Manoel de Carvalho Paes de. Manifesto de proclamação da Confederação do Equador. (Adaptado).</cite>
 				<p>O excerto apresenta trecho do manifesto divulgado pelos rebeldes da Confederação do Equador (1824) e reage explicitamente</p>
 			</statement>
 			<options>
@@ -437,8 +436,8 @@
 				<quote>
 					<p>justice, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism.</p>
 					<p>At least since Aristotle, justice has commonly been identified both with obeying law and with treating everyone with fairness. But if law is, and justice is not, entirely a matter of convention, then justice cannot be identified with obeying law.</p>
-					<author>The Cambridge Dictionary of Philosophy. General Editor Robert Audi, Cambridge, U.K.: C.U.P., 1999. p.456.</author>
 				</quote>
+				<cite>The Cambridge Dictionary of Philosophy. General Editor Robert Audi, Cambridge, U.K.: C.U.P., 1999. p.456.</cite>
 				<p>Conforme o verbete, a justiça substantiva pode ser definida como a</p>
 			</statement>
 			<options>
@@ -466,8 +465,8 @@
 			<classification subject="Math:Algebra" />
 			<statement>
 				<p>A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:</p>
-				<header>Inclinação e desnível máximo de cada segmento de rampa</header>
-				<table>
+				<caption>Inclinação e desnível máximo de cada segmento de rampa</caption>
+				<table width="0">
 					<header>
 						<cell>
 							<p>Desnível $h$ (em m)</p>
@@ -502,7 +501,7 @@
 					</row>
 				</table>
 				<p>A inclinação $i$ da rampa em porcentagem (%) é calculada dividindo a altura $h$ do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal $c$, em metros, e multiplicando o resultado por 100. A figura a seguir mostra uma rampa de dois segmentos.</p>
-				<image src="fuvest2025/fase01/q16.png" />
+				<image width="0.8" src="fuvest2025/fase01/q16.png" />
 				<p>Determinada rampa de dois segmentos foi construída da seguinte maneira:</p>
 				<ul>
 					<li>o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;</li>
@@ -535,7 +534,7 @@
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>A imagem a seguir mostra um cruzamento da Rua da Consolação, na região central da cidade de São Paulo, em que há faixas de pedestre em diferentes direções. Essas faixas agilizam a travessia das ruas. Uma pessoa parte do ponto $O$ e deseja chegar ao ponto $C$. Para tanto, percorre o trajeto pela faixa que liga $O$ a $B$ e, em seguida, utiliza a faixa que liga $B$ a $C$. Considere que as coordenadas dos pontos indicados na figura, em metros, são: $O(0,0)$, $B(13,-15)$ e $C(29,-8)$.</p>
-				<image src="fuvest2025/fase01/q17.png" />
+				<image width="0.8" src="fuvest2025/fase01/q17.png" />
 				<p>Seja d a distância, em metros, que essa pessoa deixaria de percorrer se tivesse optado por fazer a travessia pela faixa de pedestre que liga $O$ a $C$. Nesse contexto, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -595,7 +594,7 @@
 			<classification subject="Physics:Modern:QuantumMechanics" />
 			<statement>
 				<p>O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.</p>
-				<image src="fuvest2025/fase01/q19.png" />
+				<image width="0.8" src="fuvest2025/fase01/q19.png" />
 				<p>Quando um fóton com comprimento de onda $\lambda_{0}$ incide sobre uma partícula, ele emerge dessa interação formando um ângulo $\theta$ com sua direção inicial de movimento, e seu novo comprimento de onda $\lambda'$ é dado pela relação $\lambda^{\prime}=\lambda_{0}+\frac{\alpha}{m}(1-\cos\theta)$, em que $\alpha$ é uma constante positiva e m é a massa da partícula.</p>
 				<p>Com base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.</p>
 			</statement>
@@ -624,7 +623,7 @@
 			<classification subject="Chemistry:Atomistics:Atomic Models" />
 			<statement>
 				<p>A figura a seguir apresenta a evolução dos modelos atômicos, desde o primeiro, proposto por Dalton em 1803, até o de Bohr, proposto em 1913.</p>
-				<image src="fuvest2025/fase01/q20.png" />
+				<image width="0.4" src="fuvest2025/fase01/q20.png" />
 				<p>Sobre os quatro modelos atômicos apresentados, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -681,7 +680,7 @@
 		<objective_question number="22" success_rate="27.7">
 			<classification subject="Physics:Optics:GeometricOptics" />
 			<statement>
-				<image src="fuvest2025/fase01/q22.png" />
+				<image width="0.7" src="fuvest2025/fase01/q22.png" />
 				<p>Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração $n_1$, em direção a um meio 2, com índice de refração $n_2$, formando com a direção perpendicular à interface entre os meios um ângulo maior do que um certo valor limite $\theta_L$, tal que $\sin\theta_L = n_2/n_1$.</p>
 				<p>Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que, conforme mostra a figura, funcione com uma fonte luminosa F fixa na borda.</p>
 				<p>A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1.</p>
@@ -766,9 +765,9 @@
 					<p>Com observações feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia M87, sugerindo que campos magnéticos intensos podem ser comuns a todos os buracos negros.</p>
 					<p>A luz é uma onda eletromagnética que nos permite ver objetos. Por vezes, os campos elétrico e magnético associados à onda oscilam em direções preferenciais, definindo o que chamamos de luz polarizada. Apesar de estarmos rodeados por luz polarizada, aos olhos humanos essa luz é indistinguível da luz dita 'normal'.</p>
 					<p>No plasma que rodeia estes buracos negros, as partículas que giram em torno das linhas de campo magnético conferem-lhe um padrão de polarização com orientação na direção perpendicular ao campo magnético do buraco negro, o que permite aos astrônomos ver com muitos detalhes o que se passa nas regiões dos buracos negros e mapear as suas linhas de campo magnético.</p>
-					<author>"Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea", Jornal da USP 29/03/2024. (Adaptado).</author>
 				</quote>
-				<image src="fuvest2025/fase01/q23.png" />
+				<cite>"Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea", Jornal da USP 29/03/2024. (Adaptado).</cite>
+				<image width="0.8" src="fuvest2025/fase01/q23.png" />
 				<p>Com base no texto e em seus conhecimentos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -797,7 +796,7 @@
 			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
 				<p>Na zona sul da cidade de São Paulo, há uma esquina formada pelas ruas Cloreto de Sódio e Relíquia do Oceano.</p>
-				<image src="fuvest2025/fase01/q24.png" />
+				<image width="0.6" src="fuvest2025/fase01/q24.png" />
 				<p>A coincidência do encontro dessas ruas chama a atenção, pois o cloreto de sódio</p>
 			</statement>
 			<options>
@@ -826,8 +825,8 @@
 			<statement>
 				<quote>
 					<p>Historiadores encontraram um mapa antigo onde não era possível identificar a escala do mapa. Com algum esforço e apoio de Geógrafos, foi possível avaliar a distância no mapa entre duas localidades como sendo de 20 centímetros. Buscando elementos na paisagem, foi possível quantificar a distância entre elas como equivalente a 40 quilômetros.</p>
-					<author>FITZ, Paulo Roberto. Cartografia Básica. São Paulo: Oficina de Textos, 2008 (Adaptado).</author>
 				</quote>
+				<cite>FITZ, Paulo Roberto. Cartografia Básica. São Paulo: Oficina de Textos, 2008 (Adaptado).</cite>
 				<p>Com base nessas medidas, a escala numérica do mapa corresponde a</p>
 			</statement>
 			<options>
@@ -881,7 +880,6 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES DE 27 A 29</header>
 			<quote>
 				<p>*Climate change is messing with time*</p>
 				<p>The melting of polar ice due to global warming is affecting Earth's rotation and could impact on precision timekeeping, according to a recent study.</p>
@@ -892,8 +890,8 @@
 				<p>In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the 'leap second' to adjust for the fact that the 'day' was getting a bit longer.</p>
 				<p>The melting of the ice caps in Antarctica and Greenland shifts mass meltwater toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical.</p>
 				<p>According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet's rotation might require timekeepers to insert a 'negative leap second' at the end of 2026. Because of climate change, that might not be necessary until 2029.</p>
-				<author>Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado).</author>
 			</quote>
+			<cite>Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado).</cite>
 		</context>
 
 		<objective_question number="27" success_rate="50.9">
@@ -1065,7 +1063,7 @@
 			<classification subject="Physics:Optics:PhysicalOptics" />
 			<statement>
 				<p>O fenômeno físico conhecido como iridescência ocorre nas asas de certas espécies de borboletas e caracteriza-se pela variação das cores de acordo com o ângulo de observação. A existência de faixas coloridas na superfície das asas das borboletas ocorre devido a diferentes formas de superposição entre raios luminosos refletidos por uma fina camada de substância transparente existente na superfície das asas.</p>
-				<image src="fuvest2025/fase01/q32.png" />
+				<image width="0.7" src="fuvest2025/fase01/q32.png" />
 				<p>Os fenômenos físicos diretamente relacionados com a iridescência são</p>
 			</statement>
 			<options>
@@ -1126,8 +1124,8 @@
 				<quote>
 					<p>São os ratos!... Vai escutar com atenção, a respiração meio parada. Hão de ser muitos: há várias fontes daquele guinchinho, e de quando em quando, no forro, em vários pontos, o rufar...</p>
 					<p>A casa está cheia de ratos...</p>
-					<author>Dyonélio Machado. Os ratos.</author>
 				</quote>
+				<cite>Dyonélio Machado. Os ratos.</cite>
 				<p>A obra Os ratos (1935), de Dyonélio Machado, narra o dia em que Naziazeno saiu pela cidade de Porto Alegre no intuito de conseguir dinheiro para pagar a conta do leiteiro. Os animais que dão título à narrativa apenas aparecem em seus últimos capítulos e ocupam o tempo reservado para o descanso do protagonista.</p>
 				<p>É possível, então, afirmar:</p>
 			</statement>
@@ -1158,8 +1156,8 @@
 			<statement>
 				<quote>
 					<p>**Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque:** '- Vá levantar esta letra. Você me devolve depois. Não é bem caridade... **Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a 'mesma' cédula do bolso e entregando-lha...** A casa aristocrática acha-se perto. A numeração já está em quase trezentos. **Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as...** O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. **Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.**</p>
-					<author>_Dyonélio Machado. Os ratos._</author>
 				</quote>
+				<cite>_Dyonélio Machado. Os ratos._</cite>
 				<p>Dentre as frases em destaque, a que caracteriza os efeitos fisiológicos em Naziazeno da reação de luta ou fuga pela ativação do sistema nervoso simpático é:</p>
 			</statement>
 			<options>
@@ -1189,8 +1187,8 @@
 				<quote>
 					<p>Madala pensou que devia dizer qualquer coisa ao Djimo, mas não se lembrou de repetir a pergunta para si mesmo e por isso não soube o que dizer. O capataz fazia sinais à Maria, mas esta parecia não entender. A planta que Madala segurava na mão oferecia ao seu esforço uma resistência exagerada. Por isso, o punho de Madala tremia. (...)</p>
 					<p>O tom da voz de Djimo revelava certo nervosismo: - Madala... Mas o nervosismo desapareceu logo. Djimo deu uma ordem: - Madala, não olhes para lá! Dentro de Madala, qualquer coisa se crispou. Mas não eram os fios da sua doença.</p>
-					<author>Luís Bernardo Honwana. "Dina". In: Nós matamos o cão tinhoso!.</author>
 				</quote>
+				<cite>Luís Bernardo Honwana. "Dina". In: Nós matamos o cão tinhoso!.</cite>
 				<p>Considerando o papel da antologia Nós matamos o cão tinhoso! na literatura moçambicana e como a sociedade de Moçambique dos anos 1950 e 1960 se configura literariamente no conto "Dina", é correto afirmar:</p>
 			</statement>
 			<options>
@@ -1215,7 +1213,6 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 37 E 38</header>
 			<verse>
 				<title>Bem-vinda!</title>
 				<p>Eram faíscas suas palavras que me queimavam em doses homeopáticas</p>
@@ -1245,8 +1242,8 @@
 				<p>e, com olhar de quem há tanto tempo esperava,</p>
 				<p>te pego pela mão e digo:</p>
 				<p>Seja bem-vinda!</p>
-				<author>Mel Duarte. Colmeia Poemas Reunidos.</author>
 			</verse>
+			<cite>Mel Duarte. Colmeia Poemas Reunidos.</cite>
 		</context>
 
 		<objective_question number="37" success_rate="94.5">
@@ -1304,9 +1301,8 @@
 		<objective_question number="39" success_rate="93.4">
 			<classification subject="Sociology:General:Culture, Identity and Socialization" />
 			<statement>
-				<p>As imagens mostram páginas de uma cartilha de alfabetização produzida durante o governo de Juan Domingo Perón na Argentina (1946-1955).</p>
-				<image src="fuvest2025/fase01/q39.png" />
-				<p>As ilustrações</p>
+				<image width="0.7" src="fuvest2025/fase01/q39.png" />
+				<p>As imagens mostram páginas de uma cartilha de alfabetização produzida durante o governo de Juan Domingo Perón na Argentina (1946-1955). As ilustrações</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1332,9 +1328,8 @@
 		<objective_question number="40" success_rate="64.3">
 			<classification subject="Sociology:General:SocialStructure and Stratification" />
 			<statement>
-				<image src="fuvest2025/fase01/q40.png" />
-				<p>Atingir a igualdade de gênero é uma das metas do Objetivo de Desenvolvimento Sustentável (ODS) de número 5 da Agenda 2030, adotada pela ONU em 2015.</p>
 				<quote>
+					<p>Atingir a igualdade de gênero é uma das metas do Objetivo de Desenvolvimento Sustentável (ODS) de número 5 da Agenda 2030, adotada pela ONU em 2015.</p>
 					<p>No cenário esportivo, é possível identificar alguns avanços em relação ao alcance dessa meta, conforme reconheceu a jogadora brasileira de futebol Marta:</p>
 				</quote>
 				<quote>
@@ -1365,7 +1360,6 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 41 E 42</header>
 			<verse>
 				<p>Quick, quick, tell me something awful</p>
 				<p>Like you are a poet trapped inside the body of a finance guy</p>
@@ -1391,8 +1385,8 @@
 				<p>Nostalgia is a mind's trick</p>
 				<p>If I'd been there, I'd hate it</p>
 				<p>It was freezing in the palace</p>
-				<author>"I hate it here", Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).</author>
 			</verse>
+			<cite>"I hate it here", Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).</cite>
 		</context>
 
 		<objective_question number="41" success_rate="63.4">
@@ -1474,11 +1468,11 @@
 		<objective_question number="44" success_rate="71.8">
 			<classification subject="Philosophy:General:Metaphysics" />
 			<statement>
-				<image src="fuvest2025/fase01/q44.png" />
+				<image width="0.6" src="fuvest2025/fase01/q44.png" />
 				<quote>
 					<p>Quem negaria que os futuros ainda não são? Mas já está na mente a espera dos futuros. E quem negaria que os passados já não são? Todavia, ainda está na mente a memória dos passados. E quem negaria que o tempo presente não tem extensão temporal, porque passa em um instante? Todavia, perdura a atenção, pela qual o que está presente se encaminha para a ausência.</p>
-					<author>Agostinho de Hipona. Confissões.</author>
 				</quote>
+				<cite>Agostinho de Hipona. Confissões.</cite>
 				<p>Ao propor uma aproximação entre a fala da personagem Calvin no quadrinho e o trecho citado das Confissões de Agostinho, é possível encontrar semelhanças com relação à descrição do tempo e sua compreensão filosófica.</p>
 				<p>Dentre as afirmativas a seguir, qual delas pode ser considerada verdadeira para ambos os casos?</p>
 			</statement>
@@ -1656,7 +1650,7 @@
 			<classification subject="Geography:Brazil:Environmental Issues" />
 			<statement>
 				<p>Observe as imagens de satélite que indicam o desmatamento de 12.272 hectares no município de Formosa do Rio Preto (BA), região do MATOPIBA, composta pelos estados do Maranhão, Tocantins, Piauí e Bahia, no período 2019-2022.</p>
-				<image src="fuvest2025/fase01/q49.png" />
+				<image width="0.7" src="fuvest2025/fase01/q49.png" />
 				<p>Com base na análise temporal das imagens, assinale a alternativa que apresenta, respectivamente, o bioma correspondente à região do MATOPIBA, a atividade econômica desenvolvida nesse local e o possível impacto ambiental negativo decorrente de tal atividade.</p>
 			</statement>
 			<options>
@@ -1708,15 +1702,12 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>A figura a seguir representa a variação espacial da temperatura do ar por tipo de área, considerando diferentes padrões de uso e ocupação do solo de um município.</p>
-			<image src="fuvest2025/fase01/q51.png" />
-		</context>
-
 		<objective_question number="51" success_rate="74.4">
 			<classification subject="Geography:Human:Urbanization" />
 			<classification subject="Geography:Physical:Climatology" />
 			<statement>
+				<p>A figura a seguir representa a variação espacial da temperatura do ar por tipo de área, considerando diferentes padrões de uso e ocupação do solo de um município.</p>
+				<image src="fuvest2025/fase01/q51.png" />
 				<p>A explicação para as características desse perfil de temperatura do ar deve-se</p>
 			</statement>
 			<options>
@@ -1744,7 +1735,9 @@
 			<classification subject="Math:Trigonometry:Trigonometric Functions" />
 			<statement>
 				<p>As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias relativas às enchentes ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior.</p>
-				<p>Uma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda. Como exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM: $s(t)=A[1+k~m(t)]cos(2\pi~f~t)$, em que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e $m(t)$ o sinal que contém a informação.</p>
+				<p>Uma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda. Como exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM:</p>
+				<p>$$s(t)=A[1+k~m(t)]cos(2\pi~f~t)$$,</p>
+				<p>em que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e $m(t)$ o sinal que contém a informação.</p>
 				<p>Quando a frequência f é multiplicada por 3, o comprimento da onda sofre alteração. Por causa dessa multiplicação, qual transformação ocorre no gráfico da função cosseno original?</p>
 			</statement>
 			<options>
@@ -1802,8 +1795,8 @@
 			<statement>
 				<quote>
 					<p>A distribuição dos mosquitos, a frequência de suas picadas e o tempo de eclosão de seus ovos são afetados pela temperatura, pluviosidade e velocidade do vento, além de outros fatores, como deslocamento e densidade populacionais. Por exemplo, com uma temperatura de $27^{\circ}C$, o período de incubação dos ovos é de dez dias; no entanto, a $37^{\circ}C$, esse período passa a ser de sete dias. Além disso, a intermitência das chuvas no final da estação do verão e os ventos calmos acentuam a proliferação e a atuação do vetor.</p>
-					<author>MENDONÇA, Francisco de Assis. Aquecimento Global e Saúde: uma perspectiva geográfica - notas introdutórias. Terra Livre, 2003 (Adaptado).</author>
 				</quote>
+				<cite>MENDONÇA, Francisco de Assis. Aquecimento Global e Saúde: uma perspectiva geográfica - notas introdutórias. Terra Livre, 2003 (Adaptado).</cite>
 				<p>Com base no texto, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -1885,7 +1878,7 @@
 			<classification subject="Chemistry:Physical:Thermochemistry" />
 			<statement>
 				<p>Em países frios, é comum o uso de pequenos aquecedores de mãos, normalmente descartáveis, que podem ser colocados dentro de luvas. Uma alternativa mais sustentável é o aquecedor de mão reutilizável, que é constituído por uma solução aquosa supersaturada de acetato de sódio armazenada em um reservatório maleável, conforme mostrado na figura a seguir.</p>
-				<image src="fuvest2025/fase01/q57.png" />
+				<image width="0.8" src="fuvest2025/fase01/q57.png" />
 				<p>Um choque mecânico nesse reservatório perturba a solução supersaturada e leva à precipitação do sal, resultando no seu aquecimento. Após o uso, o aquecedor pode ser regenerado por imersão em água quente, que dissolve o sal, deixando-o pronto para ser reutilizado.</p>
 				<p>Em relação à operação desse aquecedor, é correto afirmar:</p>
 			</statement>
@@ -1986,42 +1979,42 @@
 					</header>
 					<option label="A" is_correct="false">
 						<cell>
-							<image src="fuvest2025/fase01/q60a1.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60a1.png" />
 						</cell>
 						<cell>
-							<image src="fuvest2025/fase01/q60a2.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60a2.png" />
 						</cell>
 					</option>
 					<option label="B" is_correct="false">
 						<cell>
-							<image src="fuvest2025/fase01/q60b1.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60b1.png" />
 						</cell>
 						<cell>
-							<image src="fuvest2025/fase01/q60b2.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60b2.png" />
 						</cell>
 					</option>
 					<option label="C" is_correct="false">
 						<cell>
-							<image src="fuvest2025/fase01/q60c1.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60c1.png" />
 						</cell>
 						<cell>
-							<image src="fuvest2025/fase01/q60c2.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60c2.png" />
 						</cell>
 					</option>
 					<option label="D" is_correct="true">
 						<cell>
-							<image src="fuvest2025/fase01/q60d1.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60d1.png" />
 						</cell>
 						<cell>
-							<image src="fuvest2025/fase01/q60d2.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60d2.png" />
 						</cell>
 					</option>
 					<option label="E" is_correct="false">
 						<cell>
-							<image src="fuvest2025/fase01/q60e1.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60e1.png" />
 						</cell>
 						<cell>
-							<image src="fuvest2025/fase01/q60e2.png" />
+							<image width="0.8" src="fuvest2025/fase01/q60e2.png" />
 						</cell>
 					</option>
 				</table>
@@ -2038,8 +2031,8 @@
 					<p>There's a problem, feathers, iron</p>
 					<p>Bargain buildings, weights and pulleys</p>
 					<p>Feathers hit the ground before the weight can leave the air</p>
-					<author>Bill Berry, Peter Buck, Mike Mills e Michael Stipe.</author>
 				</verse>
+				<cite>Bill Berry, Peter Buck, Mike Mills e Michael Stipe.</cite>
 				<p>A qual episódio (real ou hipotético) da história da física o trecho da música faz alusão?</p>
 			</statement>
 			<options>
@@ -2067,7 +2060,7 @@
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de $30~m/s$ em poucos segundos.</p>
-				<image src="fuvest2025/fase01/q62.png" />
+				<image width="0.8" src="fuvest2025/fase01/q62.png" />
 				<p>Considerando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,</p>
 			</statement>
 			<options>
@@ -2098,7 +2091,7 @@
 			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de $CO_{2}(g)$ na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a proposta apresentada na figura a seguir para a produção de uma matriz energética limpa.</p>
-				<image src="fuvest2025/fase01/q63.png" />
+				<image width="0.8" src="fuvest2025/fase01/q63.png" />
 				<p>(I) Capturar o $CO_{2}(g)$ atmosférico utilizando NaOH(aq) para formar $Na_{2}CO_{3}(aq)$. (II) Tratar essa solução, na presença de um catalisador, com $H_{2}(g)$ oriundo de fontes renováveis, para gerar $CH_{4}(g)$, um gás combustível.</p>
 				<p>Com base nessas informações e em seus conhecimentos, assinale a alternativa correta.</p>
 			</statement>
@@ -2154,13 +2147,12 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 65 E 66</header>
 			<quote>
 				<p>*Da moenda para a célula a combustível: caldo de cana é usado para produzir energia elétrica*</p>
-				<p>"Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial.</p>
+				<p>Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial.</p>
 				<p>'A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade', explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. 'No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, *utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica*', diz o pesquisador. O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente."</p>
-				<author>Disponível em https://jornal.usp.br/ciencias/ (Adaptado).</author>
 			</quote>
+			<cite>Disponível em https://jornal.usp.br/ciencias/ (Adaptado).</cite>
 		</context>
 
 		<objective_question number="65" success_rate="74.2">
@@ -2190,7 +2182,7 @@
 		<objective_question number="66" success_rate="50.0">
 			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
-				<p>Ao empregar o pronome se em "utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica", o pesquisador</p>
+				<p>Ao empregar o pronome __se__ em "utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica", o pesquisador</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2217,7 +2209,7 @@
 			<classification subject="Biology:Genetics" />
 			<statement>
 				<p>Pesquisas e terapias com células-tronco têm se mostrado cada vez mais promissoras pela possibilidade de seu uso no tratamento de diferentes tipos de doenças, como câncer e doenças degenerativas. As células-tronco podem se diferenciar em células especializadas, conforme exemplificado a seguir.</p>
-				<image src="fuvest2025/fase01/q67.png" />
+				<image width="0.8" src="fuvest2025/fase01/q67.png" />
 				<p>As células especializadas que derivam de uma mesma célula-tronco possuem os(as) mesmos(as)</p>
 			</statement>
 			<options>
@@ -2277,19 +2269,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image src="fuvest2025/fase01/q69a.png" />
+					<image width="0.4" src="fuvest2025/fase01/q69a.png" />
 				</option>
 				<option label="B" is_correct="true">
-					<image src="fuvest2025/fase01/q69b.png" />
+					<image width="0.4" src="fuvest2025/fase01/q69b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="fuvest2025/fase01/q69c.png" />
+					<image width="0.4" src="fuvest2025/fase01/q69c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="fuvest2025/fase01/q69d.png" />
+					<image width="0.4" src="fuvest2025/fase01/q69d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="fuvest2025/fase01/q69e.png" />
+					<image width="0.4" src="fuvest2025/fase01/q69e.png" />
 				</option>
 			</options>
 		</objective_question>
@@ -2299,7 +2291,10 @@
 		<objective_question number="70" success_rate="19.8">
 			<classification subject="Math:Algebra" />
 			<statement>
-				<p>Seja $(a_{n})$ uma progressão aritmética cujo primeiro termo é $a_{1}$ e a razão r, ambos números reais. É possível construir uma outra sequência $(b_{n})$, em que o primeiro termo é um número real $b_{1}$ e com a seguinte lei de formação $b_{n+1}=b_{n}+a_{n}$, sendo $n&gt;0$ um número natural. Por exemplo, se $b_{1}=0$ e $(a_{n})=(1,3,5,7,9,11,...)$, tem-se $(b_{n})=(0,1,4,9,16,25,...)$.</p>
+				<p>Seja $(a_{n})$ uma progressão aritmética cujo primeiro termo é $a_{1}$ e a razão r, ambos números reais. É possível construir uma outra sequência $(b_{n})$, em que o primeiro termo é um número real $b_{1}$ e com a seguinte lei de formação
+				$$b_{n+1}=b_{n}+a_{n}$$,
+				sendo $n&gt;0$ um número natural.</p>
+				<p>Por exemplo, se $b_{1}=0$ e $$(a_{n})=(1,3,5,7,9,11,...)$$, tem-se $$(b_{n})=(0,1,4,9,16,25,...)$$.</p>
 				<p>Com base em tais informações, os valores de $a_{1}$ e r foram escolhidos de forma que $(b_{n})$ também seja uma progressão aritmética de razão $r'$. Nessas condições, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2327,12 +2322,12 @@
 			<classification subject="Biology:Evolution:Theories of Evolution" />
 			<statement>
 				<quote>
-					<p>**Aumenta nos hospitais brasileiros a presença de bactérias resistentes a antibióticos**</p>
+					<title>Aumenta nos hospitais brasileiros a presença de bactérias resistentes a antibióticos</title>
 					<p>A disseminação de bactérias resistentes a antibióticos é um pesadelo mundial. Ela avança rapidamente e representa uma ameaça a uma das maiores conquistas da medicina moderna: a capacidade de eliminar infecções. Sem antibióticos eficientes, fica quase impossível realizar cirurgias, transplantes e outros tratamentos em segurança.</p>
 					<p>Expostas à concentração adequada dos antibióticos e por tempo suficiente, as bactérias facilmente morrem. Se a dosagem e duração do tratamento forem inferiores ao necessário para aniquilá-las, uma parte pode sobreviver e se multiplicar, acumulando alterações no material genético que lhes permitem escapar à ação dos fármacos.</p>
 					<p>As bactérias estão em todos os lugares: na água, no solo, no ar e nas superfícies, inclusive no nosso corpo. Com o uso intensivo de antibióticos na saúde humana e na produção de alimentos, as bactérias são continuamente expostas a esses fármacos. Esse contato favorece a seleção das variedades resistentes.</p>
-					<author>Revista Pesquisa FAPESP - Janeiro/2024 (Adaptado).</author>
 				</quote>
+				<cite>Revista Pesquisa FAPESP - Janeiro/2024 (Adaptado).</cite>
 				<p>O gráfico a seguir ilustra o crescimento de uma espécie de bactéria em meio de cultura, com e sem antibiótico. Foram testados três antibióticos diferentes (1, 2 e 3).</p>
 				<image src="fuvest2025/fase01/q71.png" />
 				<p>Considerando o texto e o gráfico, sobre a resistência de bactérias a antibióticos, é correto afirmar:</p>
@@ -2363,7 +2358,7 @@
 			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático, como representado na equação não balanceada a seguir.</p>
-				<image src="fuvest2025/fase01/q72.png" />
+				<image width="0.8" src="fuvest2025/fase01/q72.png" />
 				<p>Em um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com $Br_{2}$ em excesso, obtendo-se pH 4 após reação total.</p>
 				<p>Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?</p>
 			</statement>
@@ -2389,11 +2384,12 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 73 E 74</header>
-			<p>Um artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de "foguetes de garrafa PET", propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. Uma mistura de vinagre (que contém ácido acético, $CH_{3}COOH$) com bicarbonato de sódio ($NaHCO_{3}$) produz gás carbônico ($CO_{2}$) por meio da reação química representada pela seguinte equação:</p>
-			<p>$CH_{3}COOH+NaHCO_{3}\rightarrow CH_{3}COONa+CO_{2}+H_{2}O$</p>
-			<image src="fuvest2025/fase01/q73.png" />
-			<p>A reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume $V_{CO_{2}}$ e exercerá uma pressão $P_{CO_{2}}$ sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura.</p>
+			<quote>
+				<p>Um artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de "foguetes de garrafa PET", propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. Uma mistura de vinagre (que contém ácido acético, $CH_{3}COOH$) com bicarbonato de sódio ($NaHCO_{3}$) produz gás carbônico ($CO_{2}$) por meio da reação química representada pela seguinte equação:</p>
+				<p>$$CH_{3}COOH+NaHCO_{3}\rightarrow CH_{3}COONa+CO_{2}+H_{2}O$$</p>
+				<image wrap="true" width="0.15" size="15mm" src="fuvest2025/fase01/q73.png" />
+				<p>A reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume $V_{CO_{2}}$ e exercerá uma pressão $P_{CO_{2}}$ sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura.</p>
+			</quote>
 		</context>
 
 		<objective_question number="73" success_rate="26.0">
@@ -2462,7 +2458,7 @@
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Um designer de produtos deseja fabricar um vaso para flores conforme a figura a seguir.</p>
-				<image src="fuvest2025/fase01/q75.png" />
+				<image width="0.5" src="fuvest2025/fase01/q75.png" />
 				<p>Sabe-se que a base e o topo do vaso são uma circunferência de raio R que mede 10 cm, a parte central é uma circunferência de raio r de 5 cm e a medida h mede 12 cm.</p>
 				<p>Qual é a capacidade volumétrica desse vaso em $cm^{3}$?</p>
 			</statement>
@@ -2543,7 +2539,7 @@
 		<objective_question number="78" success_rate="33.5">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
-				<image src="fuvest2025/fase01/q78.png" />
+				<image width="0.6" src="fuvest2025/fase01/q78.png" />
 				<p>Contribui para o efeito de comicidade do cartum a</p>
 			</statement>
 			<options>
@@ -2601,8 +2597,8 @@
 				<quote>
 					<p>Temos de nos emancipar da seguinte visão: que se pode deduzir a Reforma das transformações econômicas como algo 'necessário em termos de desenvolvimento histórico'. Por outro lado, não se deve de forma alguma defender uma tese tão disparatadamente doutrinária que afirmasse que o 'espírito capitalista' pôde surgir somente como resultado de determinados influxos da Reforma.</p>
 					<p>Em face da enorme barafunda de influxos recíprocos entre as bases materiais, as formas de organização social e política e o conteúdo espiritual das épocas culturais da Reforma, procederemos tão-só de modo a examinar de perto se, e em quais pontos, podemos reconhecer determinadas 'afinidades eletivas' entre certas formas da fé religiosa e certas formas da ética profissional. Por esse meio serão elucidados o efeito que, em virtude de tais afinidades eletivas, o movimento religioso exerceu sobre o desenvolvimento da cultura material.</p>
-					<author>WEBER, Max. A Ética Protestante e o Espírito do Capitalismo. São Paulo: Companhia das Letras, 2004, p.82-83 (Adaptado).</author>
 				</quote>
+				<cite>WEBER, Max. A Ética Protestante e o Espírito do Capitalismo. São Paulo: Companhia das Letras, 2004, p.82-83 (Adaptado).</cite>
 				<p>A partir da ideia expressa no excerto acerca da relação entre o desenvolvimento do capitalismo e alguns elementos da doutrina calvinista, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -2632,8 +2628,8 @@
 			<statement>
 				<quote>
 					<p>O eixo econômico do país, que já havia se deslocado para a zona de mineração, caminhou mais uma vez, deslocando-se em direção às ondulações do planalto paulista, que foram se recobrindo pelo verde escuro dos cafezais. Enquanto outras regiões brasileiras vegetavam ou iniciavam mesmo um processo de decadência econômica, a Província, logo depois estado de São Paulo, apresentava uma ascensão espléndida e vigorosa.</p>
-					<author>PETRONE, Pasquale. As indústrias paulistanas e os fatores de sua expansão. Terra Livre. 1953, p. 27 (Adaptado).</author>
 				</quote>
+				<cite>PETRONE, Pasquale. As indústrias paulistanas e os fatores de sua expansão. Terra Livre. 1953, p. 27 (Adaptado).</cite>
 				<p>Sobre a industrialização no território brasileiro, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2690,8 +2686,8 @@
 			<statement>
 				<quote>
 					<p>De 1930 em diante, foram criadas dezenas de comissões, instituições e órgãos de planejamento e/ou de promoção das atividades econômicas, notadamente as ligadas às atividades agrícolas e àquelas voltadas para a industrialização.</p>
-					<author>MATTOS, Fernando Augusto Mansor de. A trajetória do emprego público no Brasil desde o início do século XX.</author>
 				</quote>
+				<cite>MATTOS, Fernando Augusto Mansor de. A trajetória do emprego público no Brasil desde o início do século XX.</cite>
 				<p>O funcionário público como personagem literário ganha destaque na literatura brasileira a partir dos anos 1930. Uma explicação para esse fenômeno está na tematização, por parte dos escritores, das mudanças do papel do Estado brasileiro na constituição do mercado de trabalho assalariado e como agente da modernização do país:</p>
 				<p>No romance Os ratos, de Dyonélio Machado, o funcionalismo público configura-se como</p>
 			</statement>
@@ -2717,8 +2713,8 @@
 
 	<question_group>
 		<objective_question number="84" success_rate="44.8">
-			<classification subject="Literature:Brazil"/>
-			<classification subject="Portuguese:Text Interpretation"/>
+			<classification subject="Literature:Brazil" />
+			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>Leia os trechos das obras Marília de Dirceu e Romanceiro da Inconfidência:</p>
 				<verse>
@@ -2739,8 +2735,8 @@
 					<p>E forje o meu tormento:</p>
 					<p>Com menos, meu Glauceste,</p>
 					<p>Com menos me contento.</p>
-					<author>Tomás Antônio Gonzaga. Marilia de Dirceu.</author>
 				</verse>
+				<cite>Tomás Antônio Gonzaga. Marilia de Dirceu.</cite>
 				<verse>
 					<title>Romance LXVI ou De Outros Maldizentes</title>
 					<p>- Que fica, na fortaleza,</p>
@@ -2752,8 +2748,8 @@
 					<p>que Pégaso se chamava.</p>
 					<p>Não pisava neste mundo,</p>
 					<p>mas nos planaltos da Arcádia!</p>
-					<author>Cecilia Meireles. Romanceiro da Inconfidência.</author>
 				</verse>
+				<cite>Cecilia Meireles. Romanceiro da Inconfidência.</cite>
 				<p>Considerando o substantivo Pégaso, presente nos dois excertos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2798,8 +2794,8 @@
 					<p>à luz de velas acesas,</p>
 					<p>entre sigilo e espionagem,</p>
 					<p>acontece a Inconfidência.</p>
-					<author>Os versos de Cecília Meireles, no Romanceiro da Inconfidência, remetem</author>
 				</verse>
+				<p>Os versos de Cecília Meireles, no Romanceiro da Inconfidência, remetem</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2828,8 +2824,8 @@
 				<quote>
 					<p>No texto intitulado Tarsila, a pesquisadora Aracy Amaral transcreve um trecho das impressões de Tarsila do Amaral sobre a viagem às cidades históricas coloniais mineiras, que realizara em 1924 com o grupo modernista, liderado por Mário de Andrade:</p>
 					<p>(...) As decorações murais de um modesto corredor de hotel; o forro das salas, feito de taquarinhas coloridas e trançadas; as pinturas das igrejas, simples e comoventes, executadas com amor e devoção por artistas anônimos; o Aleijadinho, nas suas estátuas e nas linhas geniais da sua arquitetura religiosa, tudo era motivo para as nossas exclamações admirativas. Encontrei em Minas as cores que adorava em criança. Ensinaram-me depois que eram feias e caipiras. Segui o ramerrão do gosto apurado... Mas depois vinguei-me da opressão passando-as para as minhas telas: azul puríssimo, rosa violáceo, amarelo vivo, verde cantante, tudo em gradações mais ou menos fortes, conforme a mistura de branco. Pintura limpa, sobretudo, sem medo de cânones convencionais. Liberdade e sinceridade, uma certa estilização que a adaptava à época moderna.</p>
-					<author>AMARAL, Tarsila, 1939. Apud AMARAL, Aracy. Tarsila.</author>
 				</quote>
+				<cite>AMARAL, Tarsila, 1939. Apud AMARAL, Aracy. Tarsila.</cite>
 				<image src="fuvest2025/fase01/q86.png" />
 				<p>_Tarsila do Amaral, O mamoeiro, 1925, óleo s/ tela, 65,0 cm x 70,0 cm._</p>
 				<p>Considerando a obra O Mamoeiro, de Tarsila do Amaral, qual é o principal elemento que caracteriza a influência do movimento modernista brasileiro na pintura?</p>
@@ -2861,8 +2857,8 @@
 				<quote>
 					<p>*Tecidos de Ijebu*</p>
 					<p>Os ijebus vestem-se quase sempre com panos produzidos por eles próprios. São fazendas de algodão, matéria-prima que obtêm localmente. Nas famílias, as tarefas de colher algodão, fiá-lo, tecê-lo e tingi-lo estão costumeiramente a cargo das mulheres, e sabe-se ser muito grande a quantidade de tecidos manufaturados em Ijebu e dali exportados, não apenas para os países vizinhos, mas até mesmo para o Brasil, cujos navios vêm buscar em Lagos essa mercadoria tão apreciada pela gente de origem africana transplantada para aquela terra distante. As cores mais comuns, depois da branca e da azul, são a amarela, a vermelha, a carmesim e a verde. Alguns panos são de uma só cor, outros são multicoloridos.</p>
-					<author>OSIFEKUNDE. Notícia sobre o país e o povo dos Ijebus. In: COSTA E SILVA, Alberto. Imagens da África.</author>
 				</quote>
+				<cite>OSIFEKUNDE. Notícia sobre o país e o povo dos Ijebus. In: COSTA E SILVA, Alberto. Imagens da África.</cite>
 				<p>O texto é parte de um relato das memórias de um ex-escravizado natural de Ijebu, na atual Nigéria, trazido ao Brasil no início do século XIX.</p>
 				<p>O excerto faz menção</p>
 			</statement>
@@ -2892,8 +2888,8 @@
 			<statement>
 				<quote>
 					<p>Consiste em uma faixa de terra semiárida e árida que contorna a borda sul do Deserto do Saara e percorre a extensão da África no sentido leste-oeste. Atua como um cinturão que divide o continente africano em dois, a África majoritariamente islâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze países, a região é lar para dezenas de grupos étnicos.</p>
-					<author>VAGEN, Tor-Gunnar; GUMBRICHT, Thomas. UNEP/ONU, 2012 (Adaptado).</author>
 				</quote>
+				<cite>VAGEN, Tor-Gunnar; GUMBRICHT, Thomas. UNEP/ONU, 2012 (Adaptado).</cite>
 				<p>O texto descreve características da região denominada de</p>
 			</statement>
 			<options>
@@ -2927,8 +2923,8 @@
 					<p>Falava-se, inevitavelmente, de identidade versus globalização. Respondi com uma pergunta:</p>
 					<p>-- E para si, o que é ser europeu?</p>
 					<p>O homem gaguejou. Não sabia responder. Mas o interessante é que, para ele, a questão da identidade se colocava naturalmente para os africanos. Não para os europeus. Ele nunca tinha colocado a questão no espelho. Recordo o episódio porque me parece que ele toca uma questão central: quando se fala de África, de qual África estamos falando? Terá o continente africano uma essência facilmente capturável? Haverá uma substância exótica que os caçadores de identidades possam recolher como sendo a alma africana?</p>
-					<author>COUTO, Mia. "Um retrato sem moldura". In: HERNANDEZ, Leila Leite. A África na sala de aula: visita à história contemporânea.</author>
 				</quote>
+				<cite>COUTO, Mia. "Um retrato sem moldura". In: HERNANDEZ, Leila Leite. A África na sala de aula: visita à história contemporânea.</cite>
 				<p>Ao relatar e comentar o episódio, o escritor moçambicano Mia Couto apresenta a África como</p>
 			</statement>
 			<options>

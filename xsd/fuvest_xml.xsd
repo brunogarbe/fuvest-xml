@@ -413,8 +413,12 @@
 	<!-- Quote -->
 	<xs:complexType name="Quote">
 		<xs:sequence>
-			<xs:element name="p" type="xs:string" maxOccurs="unbounded"/>
-			<xs:element name="author" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="title" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="p" type="xs:string" />
+				<xs:element name="image" type="Image"/>
+			</xs:choice>
+			<!-- <xs:element name="author" type="xs:string" minOccurs="0" maxOccurs="1"/> -->
 		</xs:sequence>
 	</xs:complexType>
 	
@@ -423,7 +427,7 @@
 		<xs:sequence>
 			<xs:element name="title" type="xs:string" minOccurs="0" maxOccurs="1"/>
 			<xs:element name="p" type="xs:string" maxOccurs="unbounded"/>
-			<xs:element name="author" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<!-- <xs:element name="author" type="xs:string" minOccurs="0" maxOccurs="1"/> -->
 		</xs:sequence>
 	</xs:complexType>
 	
@@ -432,6 +436,7 @@
 		<xs:attribute name="src" type="xs:string" use="required" />
 		<xs:attribute name="position" type="xs:string" />
 		<xs:attribute name="size" type="xs:string" />
+		<xs:attribute name="width" type="xs:string" />
 		<xs:attribute name="wrap" type="xs:boolean" />
 	</xs:complexType>
 	
@@ -472,9 +477,13 @@
 	<!-- Table -->
 	<xs:complexType name="Table">
 		<xs:sequence>
+			<!-- <xs:element name="caption" type="xs:string" minOccurs="0" maxOccurs="1" /> -->
 			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRow"/>
 			<xs:element name="row" maxOccurs="unbounded" type="CellRow"/>
 		</xs:sequence>
+		
+		<xs:attribute name="width" 			type="Percentage" />
+		<xs:attribute name="columns" 		type="xs:string" />
 	</xs:complexType>
 	
 	<!-- Reusable definition for a statemend childs -->
@@ -483,6 +492,8 @@
 			<xs:element name="quote" 	type="Quote"/>
 			<xs:element name="verse" 	type="Verse"/>
 			<xs:element name="header" type="xs:string"/>
+			<xs:element name="caption" type="xs:string"/>
+			<xs:element name="cite"   type="xs:string"/>
 			<xs:element name="p" 			type="xs:string"/>
 			<xs:element name="image" 	type="Image"/>
 			<xs:element name="ul" 		type="UnorderedList"/>

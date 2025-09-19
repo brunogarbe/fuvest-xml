@@ -4,3 +4,7 @@ manual
 old
 modelos
 provas
+*.aux
+*.log
+*.pdf
+images

@@ -592,6 +592,7 @@ def count_table_cols(table_el) -> int:
         raise ValueError("Empty row!")
     
     first_element = num_cols[0]
+    print(num_cols)
     if all(num == first_element for num in num_cols) == False:
         print(etree.tostring(table_el))
         raise ValueError("Table with different number of columns!")
@@ -603,13 +604,21 @@ def count_table_cols(table_el) -> int:
 def render_table(table_el) -> str:
     # read the attributes for the <table> tag
     width = int(table_el.get("width", "0").strip())
-    columns = table_el.get("columns", "").strip()
+    columns = table_el.get("columns", None)
 
     parts = []
     
     # Simple table with vertical bars
     ncols = count_table_cols(table_el)
-    colspec = "|".join(["c"] * ncols)
+    
+
+    if columns is not None:
+        columns_split = columns.strip().split()
+        if len(columns_split) != ncols:
+            raise ValueError("Number of columns is diferent than ncols")
+        colspec = "|".join(columns_split)
+    else:
+        colspec = "|".join(["c"] * ncols)
 
     parts.append("\\begin{center}\n")
     if width == 0:

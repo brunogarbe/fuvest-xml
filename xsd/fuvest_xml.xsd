@@ -434,7 +434,6 @@
 	<!-- Image -->
 	<xs:complexType name="Image">
 		<xs:attribute name="src" type="xs:string" use="required" />
-		<xs:attribute name="position" type="xs:string" />
 		<xs:attribute name="size" type="xs:string" />
 		<xs:attribute name="width" type="xs:string" />
 		<xs:attribute name="wrap" type="xs:boolean" />
@@ -450,7 +449,7 @@
 	<!-- Cell -->
 	<xs:complexType name="Cell">
 	
-		<xs:choice minOccurs="0" maxOccurs="unbounded">
+		<xs:choice minOccurs="0" maxOccurs="1">
 			<xs:element name="p" type="xs:string" />
 			<xs:element name="image" type="Image"/>
 		</xs:choice>

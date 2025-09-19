@@ -2,7 +2,6 @@
 <exam name="FUVEST" year="2024" phase="objective" day="1" variation="V" date="2023-11-19" lang="pt-br">
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 01 E 02</header>
 			<verse>
 				<title>Tempo de nos aquilombar</title>
 				<p>É tempo de caminhar em fingido silêncio,</p>
@@ -23,8 +22,8 @@
 				<p>e que venham dias futuros, salve 2020</p>
 				<p>A mística quilombola persiste afirmando:</p>
 				<p>"a liberdade é uma luta constante".</p>
-				<author>Conceição Evaristo. Jornal O Globo, 31/12/2019.</author>
 			</verse>
+			<cite>Conceição Evaristo. Jornal O Globo, 31/12/2019.</cite>
 		</context>
 
 		<objective_question number="01">
@@ -82,11 +81,10 @@
 			<statement>
 				<p>A arte foi e ainda pode ser utilizada para criar, reforçar e disseminar ideias, valores e estereótipos, mas também pode colocá-los em discussão.</p>
 				<p>A obra "Sentem para jantar", de Gê Viana, faz parte da série "Atualizações traumáticas de Debret", na qual o artista propõe uma revisão iconográfica da história do Brasil tendo como referência as obras de Jean-Baptiste Debret, especificamente aquelas presentes em "Viagem Pitoresca e Histórica ao Brasil" (1834-1839), publicação que pautou de maneira imagética o período colonial brasileiro. Em sua revisão, Gê Viana dá continuidade ao seu projeto de análise crítica de representações históricas, produzindo releituras de algumas dessas obras, dentre as quais, a obra "Um jantar brasileiro", do artista francês. A seguir, são reproduzidos os quadros desses dois artistas.</p>
-				<image src="out01.pdf-0" />
-				<quote>
-					<p>Jean-Baptiste Debret. "Um jantar brasileiro", 1827. Aquarela, $15,7\times22$ cm. Disponível em http://museuscastromaya.com.br/.</p>
-					<p>Gê Viana. "Sentem para jantar", 2021. Impressão em jato de tinta com pigmento natural de colagem digital sobre papel Hahnemuhle Photo Rag $308~g/m^{2}$, $29.7\times42$ cm. Disponível em https://mam.rio/ge-viana/.</p>
-				</quote>
+				<image src="fuvest2024/fase01/q03a.png" />
+				<cite>Jean-Baptiste Debret. "Um jantar brasileiro", 1827. Aquarela, $15,7\times22$ cm. Disponível em http://museuscastromaya.com.br/.</cite>
+				<image src="fuvest2024/fase01/q03b.png" />
+					<cite>Gê Viana. "Sentem para jantar", 2021. Impressão em jato de tinta com pigmento natural de colagem digital sobre papel Hahnemuhle Photo Rag $308~g/m^{2}$, $29.7\times42$ cm. Disponível em https://mam.rio/ge-viana/.</cite>
 				<p>Com base nas informações e imagens apresentadas, assinale a alternativa que corresponde à abordagem adotada por Gê Viana em sua obra "Sentem para jantar", ao utilizar como referência a obra "Um jantar brasileiro", de Jean-Baptiste Debret.</p>
 			</statement>
 			<options>
@@ -111,9 +109,8 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 04 E 05</header>
-			<image src="out01.pdf-1" />
-			<p>Disponível em https://www.tate.org.uk/art/artworks/.</p>
+			<image src="fuvest2024/fase01/q04.png" />
+			<cite>Disponível em https://www.tate.org.uk/art/artworks/.</cite>
 		</context>
 
 		<objective_question number="04">
@@ -170,9 +167,9 @@
 			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
-					<p>"Na coluna do ativo como na do passivo, seria difícil exagerar o papel do açúcar na história do Brasil colonial. Se ele foi o produto que proporcionou a base inicial solidamente econômica para o esforço do colonizador, foi também o que plasmou o regime de propriedade latifundiária, instalou a escravidão africana na América portuguesa e, no seu exclusivismo, inibiu o desenvolvimento da policultura (...), embora estimulando, em áreas apartadas, a pecuária e a lavoura de subsistência. (...) Ele desenvolveu um estilo de vida que marcou a existência de todas as camadas da população que integrou, reservando, contudo, seus privilégios a uns poucos."</p>
-					<author>MELLO, Evaldo Cabral de. Um imenso Portugal: História e historiografia. São Paulo: Ed. 34, 2002. p.110.</author>
+					<p>Na coluna do ativo como na do passivo, seria difícil exagerar o papel do açúcar na história do Brasil colonial. Se ele foi o produto que proporcionou a base inicial solidamente econômica para o esforço do colonizador, foi também o que plasmou o regime de propriedade latifundiária, instalou a escravidão africana na América portuguesa e, no seu exclusivismo, inibiu o desenvolvimento da policultura (...), embora estimulando, em áreas apartadas, a pecuária e a lavoura de subsistência. (...) Ele desenvolveu um estilo de vida que marcou a existência de todas as camadas da população que integrou, reservando, contudo, seus privilégios a uns poucos.</p>
 				</quote>
+				<cite>MELLO, Evaldo Cabral de. Um imenso Portugal: História e historiografia. São Paulo: Ed. 34, 2002. p.110.</cite>
 				<p>O texto indica que, no Nordeste açucareiro dos séculos XVI e XVII,</p>
 			</statement>
 			<options>
@@ -200,10 +197,8 @@
 			<classification subject="History:Brazil:Empire of Brazil" />
 			<statement>
 				<p>A charge de Angelo Agostini foi publicada em 1880, em meio aos debates sobre a Lei dos Sexagenários no parlamento brasileiro.</p>
-				<image src="out01.pdf-2" />
-				<quote>
-					<p>Angelo Agostini. "Escravidão ou morte", Revista Illustrada n.222 (RJ), 1880.</p>
-				</quote>
+				<image src="fuvest2024/fase01/q07.png" />
+				<cite>Angelo Agostini. "Escravidão ou morte", Revista Illustrada n.222 (RJ), 1880.</cite>
 				<p>A charge</p>
 			</statement>
 			<options>
@@ -231,13 +226,13 @@
 			<classification subject="Geography:Brazil:Human:Population and Demographics" />
 			<statement>
 				<quote>
-					<p>"Entre os anos de 2012 e 2022, o número de pessoas autodeclaradas pretas e pardas aumentou em uma taxa superior à do crescimento do total da população do país, segundo o resultado da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua do IBGE. No caso dos negros, essa porcentagem variou de 7,4% em 2012 para 10,6% em 2022. '(...) uma das hipóteses para o crescimento da proporção é que a percepção racial tenha mudado dentro da população, nos últimos anos'."</p>
-					<author>O Globo, 22/07/2022; CNN Brasil, 16/06/2023.</author>
+					<p>Entre os anos de 2012 e 2022, o número de pessoas autodeclaradas pretas e pardas aumentou em uma taxa superior à do crescimento do total da população do país, segundo o resultado da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua do IBGE. No caso dos negros, essa porcentagem variou de 7,4% em 2012 para 10,6% em 2022. '(...) uma das hipóteses para o crescimento da proporção é que a percepção racial tenha mudado dentro da população, nos últimos anos'.</p>
 				</quote>
+				<cite>O Globo, 22/07/2022; CNN Brasil, 16/06/2023.</cite>
 				<quote>
-					<p>"Pois bem, é justamente a partir daí que aparece a necessidade de teorizar as 'raças' como o que elas são, ou seja, construtos sociais, formas de identidade baseadas numa ideia biológica errônea, mas eficaz, socialmente, para construir, manter e reproduzir diferenças e privilégios. Se as raças não existem num sentido estritamente realista de ciência, ou seja, se não são um fato do mundo físico, são, contudo, plenamente existentes no mundo social, produtos de formas de classificar e de identificar que orientam as ações dos seres humanos."</p>
-					<author>GUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no Brasil. Novos Estudos CEBRAP, n.54, 1999. p.153.</author>
+					<p>Pois bem, é justamente a partir daí que aparece a necessidade de teorizar as 'raças' como o que elas são, ou seja, construtos sociais, formas de identidade baseadas numa ideia biológica errônea, mas eficaz, socialmente, para construir, manter e reproduzir diferenças e privilégios. Se as raças não existem num sentido estritamente realista de ciência, ou seja, se não são um fato do mundo físico, são, contudo, plenamente existentes no mundo social, produtos de formas de classificar e de identificar que orientam as ações dos seres humanos.</p>
 				</quote>
+				<cite>GUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no Brasil. Novos Estudos CEBRAP, n.54, 1999. p.153.</cite>
 				<p>Relacionando os dados trazidos pela PNAD/IBGE e o conceito de raça do sociólogo Antônio Sergio Alfredo Guimarães, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -265,15 +260,15 @@
 			<classification subject="Geography:Brazil:Human:Population and Demographics" />
 			<statement>
 				<quote>
-					<p>"O lugar do ensino superior agora tem as portas abertas. A (...) Constituição é que impõe essa situação por decreto. Mas (...) este não pode garantir que todos tenham a tal 'capacidade' que lhes vai permitir o aproveitamento dessa educação. Há rapazes até agora são poucas as moças com a força de vontade que Jabu, ainda menina, tinha para dar e vender que recebem bolsas ou auxílios de algum tipo (...). As 'aulas de reforço' (...): um band-aid. Steve sabe que isso não é uma solução para o abismo da educação ruim do fundo do qual os alunos tentam emergir.</p>
+					<p>O lugar do ensino superior agora tem as portas abertas. A (...) Constituição é que impõe essa situação por decreto. Mas (...) este não pode garantir que todos tenham a tal 'capacidade' que lhes vai permitir o aproveitamento dessa educação. Há rapazes até agora são poucas as moças com a força de vontade que Jabu, ainda menina, tinha para dar e vender que recebem bolsas ou auxílios de algum tipo (...). As 'aulas de reforço' (...): um band-aid. Steve sabe que isso não é uma solução para o abismo da educação ruim do fundo do qual os alunos tentam emergir.</p>
 					<p>A Luta não terminou.</p>
 					<p>- (...) Eu tenho alunos de estudos africanos que não sabem escrever (...).</p>
 					<p>Então o que é que nós devíamos estar fazendo? (...) O professor Nielson ainda usa terno (...), embora o padrão da indumentária tenha relaxado a partir do exemplo dado pelas túnicas de Mandela.</p>
 					<p>(...) Você não está propondo que a gente baixe ainda mais os critérios de admissão à universidade.</p>
 					<p>Então a universidade é pra avançar no conhecimento ou é pra andar pra trás?</p>
-					<p>O que Steve está perguntando é se esse ensino adicional de faz de conta na esperança de elevar os alunos a um nível universitário pode compensar dez anos de educação primária e secundária de péssimo nível."</p>
-					<author>GORDIMER, Nadine. O melhor tempo é o tempo presente. São Paulo: Companhia das Letras, 2014. p.82-83.</author>
+					<p>O que Steve está perguntando é se esse ensino adicional de faz de conta na esperança de elevar os alunos a um nível universitário pode compensar dez anos de educação primária e secundária de péssimo nível.</p>
 				</quote>
+				<cite>GORDIMER, Nadine. O melhor tempo é o tempo presente. São Paulo: Companhia das Letras, 2014. p.82-83.</cite>
 				<p>No excerto do romance da escritora sul-africana Nadine Gordimer, é possível identificar:</p>
 			</statement>
 			<options>
@@ -301,12 +296,12 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
-					<p>"Por quê? Porque pensar em direitos humanos tem um pressuposto: reconhecer que aquilo que consideramos indispensável para nós é também indispensável para o próximo. (...).</p>
+					<p>Por quê? Porque pensar em direitos humanos tem um pressuposto: reconhecer que aquilo que consideramos indispensável para nós é também indispensável para o próximo. (...).</p>
 					<p>Nesse ponto as pessoas são frequentemente vítimas de uma curiosa obnubilação. Elas afirmam que o próximo tem direito, sem dúvida, a certos bens fundamentais, como casa, comida, instrução, saúde, coisas que ninguém bem formado admite hoje em dia que sejam privilégio de minorias, como são no Brasil.</p>
 					<p>Mas será que pensam que seu semelhante pobre teria direito a ler Dostoievski ou ouvir os quartetos de Beethoven? (...).</p>
-					<p>Ora, o esforço para incluir o semelhante no mesmo elenco de bens que reivindicamos está na base da reflexão sobre os direitos humanos."</p>
-					<author>CANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo: Duas Cidades, 1995.</author>
+					<p>Ora, o esforço para incluir o semelhante no mesmo elenco de bens que reivindicamos está na base da reflexão sobre os direitos humanos.</p>
 				</quote>
+				<cite>CANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo: Duas Cidades, 1995.</cite>
 				<p>Com base na leitura do texto, pode-se afirmar que Antonio Candido defende que o acesso a bens como a literatura e a música</p>
 			</statement>
 			<options>
@@ -331,9 +326,10 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 11 E 12</header>
-			<p>Vincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is "immersive", the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of "immersive" retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn't do much in the way of sensory stimulation. My favourite element of an "immersive" show I have been to was their faithful recreation of Van Gogh's bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don't even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation "immersive experiences" have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces.</p>
-			<p>Disponível em https://www.vice.com/en/article/. Adaptado.</p>
+			<quote>
+				<p>Vincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is "immersive", the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of "immersive" retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn't do much in the way of sensory stimulation. My favourite element of an "immersive" show I have been to was their faithful recreation of Van Gogh's bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don't even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation "immersive experiences" have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces.</p>
+			</quote>
+			<cite>Disponível em https://www.vice.com/en/article/. Adaptado.</cite>
 		</context>
 
 		<objective_question number="11">
@@ -387,38 +383,10 @@
 
 	<question_group>
 		<objective_question number="13">
-			<classification subject="Biology:Genetics:Mendelian Genetics" />
-			<statement>
-				<p>Na série ficcional Wandinha, o poder da visão é transmitido entre as bruxas, conforme o modelo genealógico hipotético a seguir:</p>
-				<image src="out01.pdf-3" />
-				<p>Considerando a genealogia apresentada, o poder da visão tem herança</p>
-			</statement>
-			<options>
-				<option label="A" is_correct="false">
-					<p>autossômica dominante, porque se apresenta somente em mulheres.</p>
-				</option>
-				<option label="B" is_correct="true">
-					<p>autossômica recessiva, sendo todos OS homens homozigóticos dominantes.</p>
-				</option>
-				<option label="C" is_correct="false">
-					<p>ligada ao X recessiva, e os filhos homens inativam esse cromossomo.</p>
-				</option>
-				<option label="D" is_correct="false">
-					<p>ligada ao X recessiva, porque aparece em todas as gerações.</p>
-				</option>
-				<option label="E" is_correct="false">
-					<p>ligada ao X dominante, sendo letal para fetos masculinos com o alelo dominante.</p>
-				</option>
-			</options>
-		</objective_question>
-	</question_group>
-
-	<question_group>
-		<objective_question number="14">
 			<classification subject="Math:Algebra:Matrices" />
 			<statement>
 				<p>Matrizes podem ser usadas para se obter informações sobre uma rede social. Para compreender como isso pode ser feito, consideremos como exemplo uma pequena rede social formada por 4 pessoas: $P_{1}$, $P_{2}$, $P_{3}$ e $P_{4}$. A matriz associada a essa rede social é a matriz $4\times4$:</p>
-				<p>$M=\begin{pmatrix}0&amp;1&amp;0&amp;1\\ 0&amp;0&amp;1&amp;0\\ 1&amp;1&amp;0&amp;1\\ 1&amp;0&amp;1&amp;0\end{pmatrix}$</p>
+				<p>$$M=\begin{pmatrix}0&amp;1&amp;0&amp;1\\ 0&amp;0&amp;1&amp;0\\ 1&amp;1&amp;0&amp;1\\ 1&amp;0&amp;1&amp;0\end{pmatrix}$$</p>
 				<p>O valor 1 (um) na posição $a_{32}$ (linha 3, coluna 2) da matriz significa que a pessoa $P_{3}$ segue a pessoa $P_{2}$ ao passo que o valor 0 (zero) na posição $a_{24}$ (linha 2, coluna 4) significa que a pessoa $P_{2}$ não segue a pessoa $P_{4}$. O valor 0 (zero) será atribuído às posições $a_{ii}$.</p>
 				<p>O significado do valor da posição $b_{mn}$ da matriz produto $M\times M=M^{2}$ é a quantidade de conexões da pessoa $P_{m}$ até a pessoa $P_{n}$ passando exatamente por uma pessoa, diferente delas duas, que chamaremos de conexão de grau 2.</p>
 				<p>Dessa forma, os valores das posições da matriz $M^{2}$ podem refletir o alcance da rede social, suas potencialidades e fraquezas, a influência de certos membros dela, dentre outros aspectos.</p>
@@ -428,7 +396,7 @@
 				<option label="A" is_correct="false">
 					<p>Existem 5 pares de pessoas diferentes $(P_{i}\ne P_{j})$ que não possuem conexões de grau 2.</p>
 				</option>
-				<option label="B" is_correct="false">
+				<option label="B" is_correct="true">
 					<p>Existem 6 pares de pessoas diferentes $(P_{i}\ne P_{j})$ que possuem apenas uma conexão de grau 2.</p>
 				</option>
 				<option label="C" is_correct="false">
@@ -437,14 +405,42 @@
 				<option label="D" is_correct="false">
 					<p>Existem 3 pessoas que possuem conexões de grau 2 com todas as outras pessoas da rede social.</p>
 				</option>
-				<option label="E" is_correct="true">
+				<option label="E" is_correct="false">
 					<p>Existe apenas 1 pessoa $P_{i}(i\ne3)$ tal que $P_{i}$ e $P_{3}$ seguem-se mutuamente.</p>
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>A posição $b_{mn}$ da matriz produto $M\times M=M^{2}$ é dada pela expressão $b_{mn}=a_{m1}a_{1n}+a_{m2}a_{2n}+a_{m3}a_{3n}+a_{m4}a_{4n}$.</p>
 			</assumptions>
+		</objective_question>
+	</question_group>
+	
+	
+	<question_group>
+		<objective_question number="14">
+			<classification subject="Biology:Genetics:Mendelian Genetics" />
+			<statement>
+				<p>Na série ficcional Wandinha, o poder da visão é transmitido entre as bruxas, conforme o modelo genealógico hipotético a seguir:</p>
+				<image src="fuvest2024/fase01/q14.png" />
+				<p>Considerando a genealogia apresentada, o poder da visão tem herança</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>autossômica dominante, porque se apresenta somente em mulheres.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>autossômica recessiva, sendo todos OS homens homozigóticos dominantes.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>ligada ao X recessiva, e os filhos homens inativam esse cromossomo.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>ligada ao X recessiva, porque aparece em todas as gerações.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>ligada ao X dominante, sendo letal para fetos masculinos com o alelo dominante.</p>
+				</option>
+			</options>
 		</objective_question>
 	</question_group>
 
@@ -505,9 +501,9 @@
 			<classification subject="Biology:Genetics:Mutations" />
 			<statement>
 				<quote>
-					<p>"O Quim disse-me também que as feridas do Cão Tinhoso eram por causa da guerra e da bomba atômica [...] O Quim disse-me isso de o Cão Tinhoso ser muito velho quando um dia o vimos a bocejar sem dentes na boca. Foi nesse dia que me contou a história da bomba atômica com os japoneses pequeninos a morrer todos que era uma beleza e o Cão Tinhoso a fugir depois de ela rebentar e a correr uma distância monstra para não morrer."</p>
-					<author>Luis Bernardo Honwana. Nós matamos o Cão Tinhoso!.</author>
+					<p>O Quim disse-me também que as feridas do Cão Tinhoso eram por causa da guerra e da bomba atômica [...] O Quim disse-me isso de o Cão Tinhoso ser muito velho quando um dia o vimos a bocejar sem dentes na boca. Foi nesse dia que me contou a história da bomba atômica com os japoneses pequeninos a morrer todos que era uma beleza e o Cão Tinhoso a fugir depois de ela rebentar e a correr uma distância monstra para não morrer.</p>
 				</quote>
+				<cite>Luis Bernardo Honwana. Nós matamos o Cão Tinhoso!.</cite>
 				<p>A radiação ionizante, resultante da explosão da bomba atômica, é capaz de provocar feridas na pele iguais às do Cão Tinhoso, que são consequências de</p>
 			</statement>
 			<options>
@@ -535,8 +531,8 @@
 			<classification subject="Biology:Genetics:Biotechnology" />
 			<statement>
 				<p>Em 2023, a imprensa mundial anunciou a criação da almôndega de carne de mamute. A ilustração a seguir resume a biotecnologia envolvida nesse processo.</p>
-				<image src="out02.pdf-0" />
-				<p>Disponível em https://www.dailymail.co.uk/. Adaptado.</p>
+				<image src="fuvest2024/fase01/q18.png" />
+				<cite>Disponível em https://www.dailymail.co.uk/. Adaptado.</cite>
 				<p>A almôndega de mamute possui células</p>
 			</statement>
 			<options>
@@ -567,19 +563,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image src="out02.pdf-1" />
+					<image src="fuvest2024/fase01/q19a.png" />
 				</option>
 				<option label="B" is_correct="true">
-					<image src="out02.pdf-2" />
+					<image src="fuvest2024/fase01/q19b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="out02.pdf-3" />
+					<image src="fuvest2024/fase01/q19c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out02.pdf-4" />
+					<image src="fuvest2024/fase01/q19d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="out02.pdf-5" />
+					<image src="fuvest2024/fase01/q19e.png" />
 				</option>
 			</options>
 		</objective_question>
@@ -590,7 +586,7 @@
 			<classification subject="Biology:Human:Digestive System" />
 			<statement>
 				<p>O gráfico a seguir ilustra o perfil de digestão de quatro substâncias no organismo humano, de acordo com a variação do pH.</p>
-				<image src="out02.pdf-6" />
+				<image src="fuvest2024/fase01/q20.png" />
 				<p>A análise dos dados permite concluir que a(s)</p>
 			</statement>
 			<options>
@@ -618,10 +614,7 @@
 			<classification subject="Chemistry:Inorganic:Acids and Bases" />
 			<statement>
 				<p>Um estudante (FV), intrigado com a escala de pH entre 0 e 14, perguntou a um sistema de inteligência artificial (IA) sobre a possibilidade de existirem valores negativos de pH, conforme descrito na figura:</p>
-				<quote>
-					<p>FV: Existe pH negativo?</p>
-					<p>IA: Sim, é possível existir pH negativo em soluções altamente básicas, onde a concentração de íons hidrogênio é extremamente baixa e a concentração de íons hidroxila é muito alta. Nesses casos, o pH é calculado como logaritmo negativo da concentração de íons hidrogênio em relação ao ponto neutro de pH 7.</p>
-				</quote>
+				<image src="fuvest2024/fase01/q21.png" />
 				<p>A resposta fornecida pelo sistema de inteligência artificial está</p>
 			</statement>
 			<options>
@@ -649,9 +642,9 @@
 			<classification subject="History:Modern:Absolutism and Enlightenment" />
 			<statement>
 				<quote>
-					<p>"A Enciclopédia conseguiu destronar a antiga rainha das ciências e elevar a filosofia para o seu lugar. Longe de ser um compêndio neutro de informações, a obra modelava o conhecimento de tal maneira que o tirava do clero e o colocava nas mãos de intelectuais comprometidos com o Iluminismo. (...) Mas o combate mais importante ocorreu na década de 1750, quando os enciclopedistas reconheceram que conhecimento era poder e, mapeando o universo do saber, partiram para a conquista."</p>
-					<author>DARNTON, Robert. O grande massacre de gatos. Rio de Janeiro: Graal, 1986. p.270. Adaptado.</author>
+					<p>A Enciclopédia conseguiu destronar a antiga rainha das ciências e elevar a filosofia para o seu lugar. Longe de ser um compêndio neutro de informações, a obra modelava o conhecimento de tal maneira que o tirava do clero e o colocava nas mãos de intelectuais comprometidos com o Iluminismo. (...) Mas o combate mais importante ocorreu na década de 1750, quando os enciclopedistas reconheceram que conhecimento era poder e, mapeando o universo do saber, partiram para a conquista.</p>
 				</quote>
+				<cite>DARNTON, Robert. O grande massacre de gatos. Rio de Janeiro: Graal, 1986. p.270. Adaptado.</cite>
 				<p>Segundo o excerto, a Enciclopédia preparada pelos pensadores Diderot e D'Alembert propunha um novo papel para os filósofos e uma reordenação do conhecimento científico. Tal proposta se caracterizou pela</p>
 			</statement>
 			<options>
@@ -679,10 +672,10 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
-					<p>"Quero dizer, numa palavra, que, levando em conta todas as coisas que nascem, devemos verificar se em cada caso é bem assim que nasce cada um dos seres, isto é, se os contrários não nascem senão dos seus próprios contrários, em toda parte onde existe tal relação: entre o belo, por exemplo, e o feio, que é, penso, o seu contrário; entre o justo e o injusto; e assim milhares de outros casos. (...)</p>
-					<p>Exemplo: quando uma coisa se torna maior, não é necessário que ela anteriormente tenha sido menor, para em seguida se tornar maior?"</p>
-					<author>Platão, Fédon, p.79.</author>
+					<p>Quero dizer, numa palavra, que, levando em conta todas as coisas que nascem, devemos verificar se em cada caso é bem assim que nasce cada um dos seres, isto é, se os contrários não nascem senão dos seus próprios contrários, em toda parte onde existe tal relação: entre o belo, por exemplo, e o feio, que é, penso, o seu contrário; entre o justo e o injusto; e assim milhares de outros casos. (...)</p>
+					<p>Exemplo: quando uma coisa se torna maior, não é necessário que ela anteriormente tenha sido menor, para em seguida se tornar maior?</p>
 				</quote>
+				<cite>Platão, Fédon, p.79.</cite>
 				<p>No trecho transcrito do texto Fédon, Platão propõe uma compreensão filosófica própria sobre a relação existente entre os opostos. Com base nela, dentre as inferências possíveis, aquela que descreve a articulação principal entre dois termos que se opõem é:</p>
 			</statement>
 			<options>
@@ -710,9 +703,9 @@
 			<classification subject="Physics:Modern:QuantumMechanics" />
 			<statement>
 				<quote>
-					<p>"Os experimentos de difração e interferência da luz realizados no período de 1800 a 1803, em analogia com os processos de interferência das ondas acústicas, corroboraram a natureza ondulatória da luz. Por outro lado, Einstein introduziu, em 1905, o conceito de fóton, em que cada componente monocromática de frequência f da radiação seria equivalente a um sistema de partículas idênticas sem massa, cada qual com energia hf, sendo $h\simeq6,626\times10^{-34}$ J.s a constante de Planck. A hipótese da existência de fótons só teve ampla aceitação após os experimentos de Compton, em 1922, sobre o espalhamento da radiação eletromagnética na faixa dos raios X por alvos de elementos leves, como o grafite."</p>
-					<author>Adaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton, RBEF 43, e20210011 (2021).</author>
+					<p>Os experimentos de difração e interferência da luz realizados no período de 1800 a 1803, em analogia com os processos de interferência das ondas acústicas, corroboraram a natureza ondulatória da luz. Por outro lado, Einstein introduziu, em 1905, o conceito de fóton, em que cada componente monocromática de frequência f da radiação seria equivalente a um sistema de partículas idênticas sem massa, cada qual com energia hf, sendo $h\simeq6,626\times10^{-34}$ J.s a constante de Planck. A hipótese da existência de fótons só teve ampla aceitação após os experimentos de Compton, em 1922, sobre o espalhamento da radiação eletromagnética na faixa dos raios X por alvos de elementos leves, como o grafite.</p>
 				</quote>
+				<cite>Adaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton, RBEF 43, e20210011 (2021).</cite>
 				<p>De acordo com o texto e seus conhecimentos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -740,7 +733,7 @@
 			<classification subject="Chemistry:Atomistics" />
 			<statement>
 				<p>Quando uma solução de NaCl é colocada em contato com uma chama, observa-se uma luz amarela (figura I). Quando esse mesmo experimento é realizado na presença de uma lâmpada de Na, a chama aparenta estar preta (figura II).</p>
-				<image src="out02.pdf-7" />
+				<image src="fuvest2024/fase01/q25.png" />
 				<p>Considerando que um material emite e absorve radiação em um mesmo comprimento de onda, assinale a afirmação correta sobre o experimento.</p>
 			</statement>
 			<options>
@@ -772,23 +765,22 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image src="out02.pdf-8" />
+					<image src="fuvest2024/fase01/q26a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="out02.pdf-9" />
+					<image src="fuvest2024/fase01/q26b.png" />
 				</option>
 				<option label="C" is_correct="true">
-					<image src="out02.pdf-10" />
+					<image src="fuvest2024/fase01/q26c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out02.pdf-11" />
+					<image src="fuvest2024/fase01/q26d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="out02.pdf-12" />
+					<image src="fuvest2024/fase01/q26e.png" />
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Velocidade da luz no vácuo: $3\times10^{8} m/s$.</p>
 				<p>Cores associadas a frequências de luz visível:</p>
 				<table>
@@ -850,9 +842,9 @@
 			<classification subject="Physics:Mechanics:Fluid Dynamics" />
 			<statement>
 				<p>Uma empresa júnior de alunos de engenharia projetou um termômetro mecânico para medir a temperatura do óleo utilizado em máquinas e equipamentos, com base na variação da densidade do óleo com a temperatura. Com essa finalidade, emprega-se um objeto de massa M igual a 18 g e volume de $20~cm^{3}$, que permanece imerso em um óleo e está preso, por um fio, ao fundo da superfície, conforme mostra a figura.</p>
-				<image src="out02.pdf-13" />
+				<image src="fuvest2024/fase01/q27a.png" />
 				<p>A temperatura é medida por meio da variação na tensão do fio, que muda devido à variação da densidade do óleo com a temperatura. O gráfico a seguir mostra a dependência da densidade do óleo com a temperatura.</p>
-				<image src="out02.pdf-14" />
+				<image src="fuvest2024/fase01/q26b.png" />
 				<p>Nessa configuração, a temperatura na qual a tensão na corda se anula é igual a</p>
 			</statement>
 			<options>
@@ -873,7 +865,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Despreze a massa do fio.</p>
 			</assumptions>
 		</objective_question>
@@ -884,24 +875,7 @@
 			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>A temperatura ideal para uso de um forno a lenha para preparo de pizzas pode ser inferida pela observação da coloração das paredes internas do forno. Abaixo da temperatura ideal, um material particulado preto proveniente da queima da lenha pode ser visto recobrindo as paredes internas. Quando a temperatura ideal é atingida, esse material particulado não é mais observado e a superfície mais clara do interior do forno pode ser vista, como apresentado nas fotos.</p>
-				<table>
-					<row>
-						<cell>
-							<image src="out02.pdf-15" />
-						</cell>
-						<cell>
-							<image src="out02.pdf-16" />
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Forno abaixo da temperatura ideal.</p>
-						</cell>
-						<cell>
-							<p>Forno na temperatura ideal.</p>
-						</cell>
-					</row>
-				</table>
+				<image src="fuvest2024/fase01/q28" />
 				<p>A coloração da superfície interior do forno permite inferir a temperatura ideal, pois</p>
 			</statement>
 			<options>
@@ -929,7 +903,7 @@
 			<classification subject="Chemistry:Physical:Thermochemistry" />
 			<statement>
 				<p>Fogareiros abastecidos com pequenos botijões de gás são equipamentos corriqueiros em trilhas e escaladas de duração prolongada para possibilitar o cozimento de alimentos. Em geral, esses botijões são abastecidos com propano, isobutano ou n-butano. A tabela mostra a temperatura de ebulição e o calor liberado na combustão desses três gases, à pressão atmosférica.</p>
-				<table>
+				<table width="100" columns="c X X">
 					<header>
 						<cell>
 							<p>Substância</p>
@@ -1002,7 +976,7 @@
 			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura.</p>
-				<image src="out02.pdf-17" />
+				<image src="fuvest2024/fase01/q30.png" />
 				<p>Ao frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação $Zn^{0}(s)+2H^{+}(aq)\rightarrow Zn^{2+}(aq)+H_{2}(g)$, o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.</p>
 				<p>Considerando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?</p>
 			</statement>
@@ -1024,7 +998,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Volume molar do gás ideal nas condições do experimento = $24.9~L$.</p>
 				<p>Massa molar do $Zn=65,4~g/mol$.</p>
 			</assumptions>
@@ -1036,7 +1009,7 @@
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>O reservatório de um caminhão-pipa tem a forma de um cilindro circular reto com eixo horizontal e dimensões internas de 6 metros de comprimento e 2 metros de diâmetro. Uma escola contratou o serviço do caminhão-pipa para abastecer sua caixa d'água. Após o abastecimento, o motorista percebeu que o reservatório do caminhão estava cheio até $3/4$ de sua altura, conforme ilustrado na figura.</p>
-				<image src="out03.pdf-0" />
+				<image src="fuvest2024/fase01/q31.png" />
 				<p>Qual foi o volume, em metros cúbicos, de água utilizada para abastecer a caixa d'água da escola, sabendo que o reservatório do caminhão estava cheio antes do abastecimento?</p>
 			</statement>
 			<options>
@@ -1064,9 +1037,9 @@
 			<classification subject="Biology:Microbiology" />
 			<statement>
 				<p>A tabela a seguir mostra a condição de duas variáveis sociais em quatro cidades urbanas genéricas.</p>
-				<table>
+				<table width="100" columns="c X X">
 					<header>
-						<cell />
+						<cell><p></p></cell>
 						<cell>
 							<p>% de domicílios com coleta de esgoto e tratamento de água</p>
 						</cell>
@@ -1124,7 +1097,6 @@
 			<options>
 				<table>
 					<header>
-						<cell />
 						<cell>
 							<p>cidade I</p>
 						</cell>
@@ -1219,7 +1191,7 @@
 			<statement>
 				<p>Uma empresa farmacêutica produz certo medicamento, o qual é formado por quatro componentes, conforme indicado na tabela I. O custo do grama de cada um dos componentes desse medicamento também é apresentado nessa tabela.</p>
 				<header>Tabela I</header>
-				<table>
+				<table width="100" columns="c X X">
 					<header>
 						<cell>
 							<p>Composição do medicamento</p>
@@ -1340,7 +1312,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Considere que os outros custos de produção permaneceram inalterados.</p>
 			</assumptions>
 		</objective_question>
@@ -1378,9 +1349,9 @@
 			<classification subject="Math:Combinatorics" />
 			<statement>
 				<p>Um relógio digital utiliza os seguintes numerais para representar um determinado horário:</p>
-				<image src="out03.pdf-1" />
+				<image src="fuvest2024/fase01/q35a.png" />
 				<p>Esse relógio está colocado sobre uma mesa de vidro, de forma que o vidro reflete o horário em sua superfície. A figura mostra um exemplo dessa situação:</p>
-				<image src="out03.pdf-2" />
+				<image src="fuvest2024/fase01/q35b.png" />
 				<p>De 00:00 até as 23:59, quantas vezes o vidro refletirá um horário válido?</p>
 			</statement>
 			<options>
@@ -1408,9 +1379,9 @@
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
-					<p>"Todos os dias que depois vieram, eram tempo de doer. Miguilim tinha sido arrancado de uma porção de coisas, e estava no mesmo lugar. Quando chegava o poder de chorar, era até bom - enquanto estava chorando, parecia que a alma toda se sacudia, misturando ao vivo todas as lembranças, as mais novas e as muito antigas. Mas, no mais das horas, ele estava cansado. Cansado e como que assustado. Sufocado. Ele não era ele mesmo. Diante dele, as pessoas, as coisas, perdiam o peso de ser. Os lugares, o Mutum - se esvaziavam, numa ligeireza, vagarosos. E Miguilim mesmo se achava diferente de todos. Ao vago, dava a mesma ideia de uma vez, em que, muito pequeno, tinha dormido de dia, fora de seu costume quando acordou, sentiu o existir do mundo em hora estranha, e perguntou assustado: 'Uai, Mãe, hoje já é amanhã?!"</p>
-					<author>João Guimarães Rosa. Campo Geral.</author>
+					<p>Todos os dias que depois vieram, eram tempo de doer. Miguilim tinha sido arrancado de uma porção de coisas, e estava no mesmo lugar. Quando chegava o poder de chorar, era até bom - enquanto estava chorando, parecia que a alma toda se sacudia, misturando ao vivo todas as lembranças, as mais novas e as muito antigas. Mas, no mais das horas, ele estava cansado. Cansado e como que assustado. Sufocado. Ele não era ele mesmo. Diante dele, as pessoas, as coisas, perdiam o peso de ser. Os lugares, o Mutum - se esvaziavam, numa ligeireza, vagarosos. E Miguilim mesmo se achava diferente de todos. Ao vago, dava a mesma ideia de uma vez, em que, muito pequeno, tinha dormido de dia, fora de seu costume quando acordou, sentiu o existir do mundo em hora estranha, e perguntou assustado: 'Uai, Mãe, hoje já é amanhã?!</p>
 				</quote>
+				<cite>João Guimarães Rosa. Campo Geral.</cite>
 				<p>Conforme sugere o trecho, o sofrimento perturba a noção que Miguilim tinha do tempo, porque</p>
 			</statement>
 			<options>
@@ -1467,8 +1438,8 @@
 				<quote>
 					<p>Uma vida inteira pela frente.</p>
 					<p>O tiro veio por trás.</p>
-					<author>Cintia Moscovich, Os cem menores contos brasileiros do século (organização: Marcelino Freire).</author>
 				</quote>
+				<cite>Cintia Moscovich, Os cem menores contos brasileiros do século (organização: Marcelino Freire).</cite>
 				<p>Embora seja um texto composto por apenas duas linhas, é possível caracterizá-lo como uma narrativa. Nesse texto, essa caracterização deve-se ao fato de que ele apresenta</p>
 			</statement>
 			<options>
@@ -1496,9 +1467,9 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
-					<p>"Mas quantas vezes a insônia é um dom. De repente acordar no meio da noite e ter essa coisa rara: solidão. Quase nenhum ruído. Só o das ondas do mar batendo na praia. E tomo café com gosto, toda sozinha no mundo. Ninguém me interrompe o nada. É um nada a um tempo vazio e rico. E o telefone mudo, sem aquele toque súbito que sobressalta. Depois vai amanhecendo. As nuvens se clareando sob um sol às vezes pálido como uma lua, às vezes de fogo puro. Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar. O mar é meu, o sol é meu, a terra é minha. E sinto-me feliz por nada, por tudo. Até que, como o sol subindo, a casa vai acordando e há o reencontro com meus filhos sonolentos."</p>
-					<author>Clarice Lispector. "Insônia infeliz e feliz". In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.</author>
+					<p>Mas quantas vezes a insônia é um dom. De repente acordar no meio da noite e ter essa coisa rara: solidão. Quase nenhum ruído. Só o das ondas do mar batendo na praia. E tomo café com gosto, toda sozinha no mundo. Ninguém me interrompe o nada. É um nada a um tempo vazio e rico. E o telefone mudo, sem aquele toque súbito que sobressalta. Depois vai amanhecendo. As nuvens se clareando sob um sol às vezes pálido como uma lua, às vezes de fogo puro. Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar. O mar é meu, o sol é meu, a terra é minha. E sinto-me feliz por nada, por tudo. Até que, como o sol subindo, a casa vai acordando e há o reencontro com meus filhos sonolentos.</p>
 				</quote>
+				<cite>Clarice Lispector. "Insônia infeliz e feliz". In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.</cite>
 				<p>Considerando as características do trecho apresentado, pode-se afirmar que ele pertence a uma crônica, pois</p>
 			</statement>
 			<options>
@@ -1526,7 +1497,7 @@
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>Os jardins de chuva, como o esquematizado na figura, vêm sendo implantados em áreas urbanas como uma alternativa de baixo custo para minimizar alagamentos. São canteiros de plantas que ocupam partes rebaixadas do terreno, com a função de reter parte das águas pluviais e diminuir sua velocidade de escoamento. Para isso, o solo do jardim deve ser preparado a fim de absorver a água e facilitar sua infiltração, direcionando-a ao lençol freático. Outra vantagem desses jardins é a retenção e decomposição de poluentes carreados pelas águas pluviais. Ainda, ao mesclar diversos tipos de plantas, os jardins de chuva atraem animais e aumentam a biodiversidade local.</p>
-				<image src="out03.pdf-3" />
+				<image src="fuvest2024/fase01/q40.png" />
 				<p>Com base na descrição e no esquema do jardim de chuva apresentados, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -1554,7 +1525,7 @@
 			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>As moléculas de água podem conter o isótopo estável mais abundante de oxigênio, ${}^{16}O$, ou o isótopo estável menos abundante, ${}^{18}O$. Essa pequena diferença de massa entre as moléculas de água é suficiente para alterar a sua pressão de vapor. Por esse motivo, a análise de isótopos de oxigênio na água da chuva possibilita a identificação de períodos secos e de períodos chuvosos. A figura ilustra a mudança na constituição isotópica da água da chuva ao longo do tempo como resultado da diferença na pressão de vapor.</p>
-				<image src="out03.pdf-4" />
+				<image src="fuvest2024/fase01/q41.png" />
 				<p>Com base nessas informações, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -1583,14 +1554,14 @@
 			<statement>
 				<p>Considere os textos a seguir sobre o campo magnético terrestre, essencial para a manutenção da vida no planeta:</p>
 				<quote>
-					<p>"O campo magnético é o resultado do movimento do ferro líquido que envolve o núcleo interno do planeta, formado de ferro sólido. Ao girar a uma velocidade maior que aquela da superfície, o ferro líquido produz um campo magnético com dois polos magnéticos opostos, próximos aos polos Norte e Sul geográficos."</p>
-					<author>(1)</author>
+					<p>O campo magnético é o resultado do movimento do ferro líquido que envolve o núcleo interno do planeta, formado de ferro sólido. Ao girar a uma velocidade maior que aquela da superfície, o ferro líquido produz um campo magnético com dois polos magnéticos opostos, próximos aos polos Norte e Sul geográficos.</p>
 				</quote>
+				<cite>O norte da questão, Revista Pesquisa FAPESP, junho de 2018. Adaptado.</cite>
 				<quote>
-					<p>"O campo magnético do planeta, porém, não é estável e vem enfraquecendo continuamente desde pelo menos 1832, quando o físico e matemático alemão Carl Friedrich Gauss aferiu pela primeira vez sua intensidade. De lá para cá, medições mais frequentes e precisas confirmam que a intensidade diminui à taxa de 17 nanoteslas (nT) por ano - o campo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do hemisfério Sul que vai da África à América do Sul."</p>
-					<author>(2)</author>
+					<p>O campo magnético do planeta, porém, não é estável e vem enfraquecendo continuamente desde pelo menos 1832, quando o físico e matemático alemão Carl Friedrich Gauss aferiu pela primeira vez sua intensidade. De lá para cá, medições mais frequentes e precisas confirmam que a intensidade diminui à taxa de 17 nanoteslas (nT) por ano - o campo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do hemisfério Sul que vai da África à América do Sul.</p>
 				</quote>
-				<image src="out03.pdf-5" />
+				<cite>Uma falha no campo magnético da Terra passeia sobre o Brasil, Revista Pesquisa FAPESP, maio de 2021.</cite>
+				<image src="fuvest2024/fase01/q42.png" />
 				<p>Com base nos textos e na figura apresentados e nos seus conhecimentos, é correto afirmar que:</p>
 			</statement>
 			<options>
@@ -1610,11 +1581,6 @@
 					<p>A geração do campo magnético é naturalmente explicada por uma distribuição estática de cargas no núcleo interno do planeta.</p>
 				</option>
 			</options>
-			<assumptions>
-				<p>Fontes:</p>
-				<p>(1) O norte da questão, Revista Pesquisa FAPESP, junho de 2018. Adaptado.</p>
-				<p>(2) Uma falha no campo magnético da Terra passeia sobre o Brasil, Revista Pesquisa FAPESP, maio de 2021.</p>
-			</assumptions>
 		</objective_question>
 	</question_group>
 
@@ -1622,7 +1588,7 @@
 		<objective_question number="43">
 			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
-				<image src="out03.pdf-6" />
+				<image src="fuvest2024/fase01/q43.png" />
 				<p>O gráfico apresentado mostra as concentrações atmosféricas dos principais gases de efeito estufa até o ano 2000, sendo eles: $CO_{2}$, quantificado em partes por milhão (ppm), $N_{2}O$ e $CH_{4}$, ambos quantificados em partes por bilhão (ppb). Em junho de 2022, a Administração Nacional Oceânica e Atmosférica (NOAA) reportou que, naquela data, os níveis de $CO_{2}$ na atmosfera encontravam-se em torno de 420 ppm. Esse valor é muito superior à concentração média de aproximadamente 280 ppm, existente antes da Revolução Industrial.</p>
 				<p>Com base nessas informações e em seus conhecimentos, é correto afirmar:</p>
 			</statement>
@@ -1651,9 +1617,9 @@
 			<classification subject="History:Brazil:Vargas Era" />
 			<statement>
 				<quote>
-					<p>"Industrializar é uma condição de vida, é uma absoluta e imperiosa necessidade, é mesmo um dever de que já não está ao nosso alcance declinar. Nem que o quiséssemos, não poderíamos sobreviver conservando-nos nação pastoril e agrícola, no velho estilo, exportando café e umas poucas matérias-primas [...] Industrializar um país não é uma obra mágica que possa ser feita sem preparo, ao simples sopro de uma aspiração. É necessário que exista uma mentalidade industrial, um estado de espírito propício ao desenvolvimento, é necessário que existam gerações preparadas para a ação."</p>
-					<author>OLIVEIRA, Juscelino Kubitschek de. Industrialização: batalha pela própria sobrevivência da nacionalidade. São Paulo: Serviço de Publicações da Federação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10.</author>
+					<p>Industrializar é uma condição de vida, é uma absoluta e imperiosa necessidade, é mesmo um dever de que já não está ao nosso alcance declinar. Nem que o quiséssemos, não poderíamos sobreviver conservando-nos nação pastoril e agrícola, no velho estilo, exportando café e umas poucas matérias-primas [...] Industrializar um país não é uma obra mágica que possa ser feita sem preparo, ao simples sopro de uma aspiração. É necessário que exista uma mentalidade industrial, um estado de espírito propício ao desenvolvimento, é necessário que existam gerações preparadas para a ação.</p>
 				</quote>
+				<cite>OLIVEIRA, Juscelino Kubitschek de. Industrialização: batalha pela própria sobrevivência da nacionalidade. São Paulo: Serviço de Publicações da Federação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10.</cite>
 				<p>A "mentalidade industrial", proposta pelo então presidente Juscelino Kubitschek, concretiza-se em seu governo (1956-1961) sob a forma</p>
 			</statement>
 			<options>
@@ -1681,13 +1647,13 @@
 			<classification subject="History:Contemporary:WorldWars" />
 			<statement>
 				<quote>
-					<p>"Em uma onda sem precedentes de medo, confusão e pânico, hoje quase 13 milhões de ações mudaram de mãos na Bolsa de Valores de Nova York. Corretores atordoados atravessaram um mar de papel segurando ordens de investidores assustados para 'vender a qualquer preço'."</p>
-					<author>"Wall Street cai". The Guardian (Londres), 24/10/1929, p.1.</author>
+					<p>Em uma onda sem precedentes de medo, confusão e pânico, hoje quase 13 milhões de ações mudaram de mãos na Bolsa de Valores de Nova York. Corretores atordoados atravessaram um mar de papel segurando ordens de investidores assustados para 'vender a qualquer preço'.</p>
 				</quote>
+				<cite>"Wall Street cai". The Guardian (Londres), 24/10/1929, p.1.</cite>
 				<quote>
-					<p>"O mercado esteve ontem numa situação de verdadeiro pânico. Em São Paulo pedem-se a moratória e a emissão de papel-moeda. O presidente da República receberá hoje uma comissão do comércio de Santos."</p>
-					<author>"A crise do café". Correio da Manhã (Rio de Janeiro), 29/10/1929, р.1.</author>
+					<p>O mercado esteve ontem numa situação de verdadeiro pânico. Em São Paulo pedem-se a moratória e a emissão de papel-moeda. O presidente da República receberá hoje uma comissão do comércio de Santos.</p>
 				</quote>
+				<cite>"A crise do café". Correio da Manhã (Rio de Janeiro), 29/10/1929, р.1.</cite>
 				<p>Os excertos, extraídos de matérias jornalísticas publicadas à época, relatam reações ante a Crise de 1929. Essa crise</p>
 			</statement>
 			<options>
@@ -1715,7 +1681,7 @@
 			<classification subject="History:Brazil" />
 			<statement>
 				<p>Observe o mapa da expansão da cafeicultura nos estados de São Paulo e Rio de Janeiro nos séculos XIX e XX.</p>
-				<image src="out04.pdf-0" />
+				<image src="fuvest2024/fase01/q46.png" />
 				<p>Sobre o papel da cafeicultura na dinâmica territorial dessas áreas, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -1742,7 +1708,7 @@
 		<objective_question number="47">
 			<classification subject="Geography:Human:Economic and Agricultural" />
 			<statement>
-				<image src="out04.pdf-1" />
+				<image src="fuvest2024/fase01/q47.png" />
 				<p>A partir dos dados e dos seus conhecimentos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -1770,7 +1736,7 @@
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Uma empresa de alimentos utiliza embalagens, no formato de paralelepipedo reto-retângulo, de dimensões 2 cm x 3 cm x 11 cm, para armazenar biscoitos. Para o transporte desse produto, são utilizadas caixas para acondicionar essas embalagens, também no formato de paralelepipedo reto-retângulo, de dimensões $12~cm\times13~cm\times26$ cm. A imagem a seguir ilustra um paralelepipedo reto-retângulo.</p>
-				<image src="out04.pdf-2" />
+				<image src="fuvest2024/fase01/q48.png" />
 				<p>Determine o número máximo de embalagens que podem ser acondicionadas em cada caixa fechada para transporte, sem que o produto seja danificado.</p>
 			</statement>
 			<options>
@@ -1799,7 +1765,7 @@
 			<statement>
 				<p>No Código de Obras e Edificações da Prefeitura de São Paulo, encontra-se a regulamentação para vagas de estacionamento em um edifício para diferentes tipos de veículos. De acordo com o código, as dimensões de uma vaga de estacionamento são estabelecidas de acordo com o tipo de veículo, conforme a seguinte tabela:</p>
 				<header>Tabela: Dimensões das vagas de estacionamento em função do tipo de veículo (medidas em metros).</header>
-				<table>
+				<table width="100" columns="X c c">
 					<header>
 						<cell>
 							<p>Tipos de veículos</p>
@@ -1868,7 +1834,7 @@
 					</row>
 				</table>
 				<p>Na figura a seguir, é apresentada parte de um projeto de garagem para um edifício. Foram projetadas vagas para automóveis e uma vaga para moto, no formato de paralelogramo, com ângulo $\alpha$ de medida 60°.</p>
-				<image src="out04.pdf-3" />
+				<image src="fuvest2024/fase01/q49.png" />
 				<p>Após a vaga da moto, restou um espaço na garagem. Os responsáveis pela obra estão avaliando a possibilidade de colocar algum objeto que possa ser utilizado pelos condôminos do edifício. Qual a medida do segmento destacado (tracejado) nesse espaço?</p>
 			</statement>
 			<options>
@@ -1889,7 +1855,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>cos $(60^{\circ})=0,5$; sen $(60^{\circ})=\frac{\sqrt{3}}{2}$</p>
 			</assumptions>
 		</objective_question>
@@ -1900,19 +1865,9 @@
 			<classification subject="Physics:Mechanics:Kinematics of Particles" />
 			<statement>
 				<p>Um carro movimentava-se por uma rua de mão única, com sentido da esquerda para a direita, e deixou no asfalto o padrão de pingos de óleo indicado na figura I.</p>
-				<table>
-					<row>
-						<cell>
-							<p />
-							<p>Figura I</p>
-						</cell>
-						<cell>
-							<image src="out04.pdf-4" />
-							<p>Figura II</p>
-						</cell>
-					</row>
-				</table>
+				<image src="fuvest2024/fase01/q50a.png" />
 				<p>Entre as curvas no gráfico da figura II, indique aquela que melhor corresponde à dependência da posição do carro com o tempo, segundo esses pingos. Adote como positivo o sentido para a direita, conforme a indicação da seta em I.</p>
+				<image src="fuvest2024/fase01/q50b.png" />
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -1932,7 +1887,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Assuma que o intervalo de tempo entre os pingos seja o mesmo.</p>
 			</assumptions>
 		</objective_question>
@@ -1943,7 +1897,7 @@
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia.</p>
-				<image src="out04.pdf-5" />
+				<image src="fuvest2024/fase01/q51.png" />
 				<p>Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?</p>
 			</statement>
 			<options>
@@ -1964,7 +1918,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Aceleração da gravidade ($g)=10m/s^{2}$</p>
 			</assumptions>
 		</objective_question>
@@ -1975,12 +1928,12 @@
 			<classification subject="Geography:Brazil:Human:Culture" />
 			<statement>
 				<quote>
-					<p>"A história do skate no Brasil passou por fases diferentes e até mesmo antagônicas. Em 1988, por exemplo, na cidade de São Paulo, sob acusação de ser prática displicente, foi promulgada a Lei nº 25.871, pelo então prefeito Jânio Quadros, que proibia a prática da modalidade nas ruas da cidade. Essa proibição foi alterada no ano seguinte, quando a nova prefeita da cidade, Luiza Erundina, em um de seus primeiros atos, revogou essa mesma lei e liberou a prática do skate nas ruas da cidade.</p>
+					<p>A história do skate no Brasil passou por fases diferentes e até mesmo antagônicas. Em 1988, por exemplo, na cidade de São Paulo, sob acusação de ser prática displicente, foi promulgada a Lei nº 25.871, pelo então prefeito Jânio Quadros, que proibia a prática da modalidade nas ruas da cidade. Essa proibição foi alterada no ano seguinte, quando a nova prefeita da cidade, Luiza Erundina, em um de seus primeiros atos, revogou essa mesma lei e liberou a prática do skate nas ruas da cidade.</p>
 					<p>Anos depois, em 2015, o Brasil somava 8,4 milhões de praticantes de skate, segundo pesquisa Datafolha.</p>
 					<p>Já em 2021, quando o skate estreou como modalidade olímpica nos Jogos de Tóquio, o Brasil se destacou como o segundo país com mais medalhas olímpicas na modalidade.</p>
-					<p>No mesmo ano, a indústria nacional ligada ao esporte foi considerada a segunda maior do mundo, atrás apenas dos Estados Unidos, cujo mercado é estimado em US$ 4,5 bilhões ao ano."</p>
-					<author>Thais Carrança, BBC News Brasil em São Paulo, 26 julho 2021. Adaptado.</author>
+					<p>No mesmo ano, a indústria nacional ligada ao esporte foi considerada a segunda maior do mundo, atrás apenas dos Estados Unidos, cujo mercado é estimado em US$ 4,5 bilhões ao ano.</p>
 				</quote>
+				<cite>Thais Carrança, BBC News Brasil em São Paulo, 26 julho 2021. Adaptado.</cite>
 				<p>A partir da leitura do texto, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2005,10 +1958,11 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 53 E 54</header>
-			<p>Over the last two decades, technology companies and policymakers warned of a "digital divide" in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level.</p>
-			<p>A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching.</p>
-			<p>"What's happened as sports has become privatized is that it has become the haves and have-nots," said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. "Particularly for low-income kids, if they don't have access to sports within the school setting, where are they going to get their physical activity?" Mr. Solomon said. "The answer is nowhere."</p>
+			<quote>
+				<p>Over the last two decades, technology companies and policymakers warned of a "digital divide" in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level.</p>
+				<p>A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching.</p>
+				<p>"What's happened as sports has become privatized is that it has become the haves and have-nots," said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. "Particularly for low-income kids, if they don't have access to sports within the school setting, where are they going to get their physical activity?" Mr. Solomon said. "The answer is nowhere."</p>
+			</quote>
 			<p>The New York Times. 24 March 2023. Adaptado.</p>
 		</context>
 
@@ -2065,9 +2019,9 @@
 		<objective_question number="55">
 			<classification subject="Physics:Electromagnetism:Electrostatics" />
 			<statement>
+				<image src="fuvest2024/fase01/q55a.png" />
 				<p>Como ilustrado pela foto, o gerador de Van de Graaf, equipamento popular em parques de ciência, permite o acúmulo de cargas elétricas em uma cúpula metálica. A distribuição de cargas na cúpula de um desses geradores, quando ninguém a toca, pode ser considerada esférica. Dois desses geradores, A e B, estão separados por uma certa distância. O gerador A contém uma carga $+Q$ e o gerador B, uma carga $+2Q$ com $Q&gt;0$.</p>
-				<image src="out04.pdf-6" />
-				<p />
+				<image src="fuvest2024/fase01/q55b.png" />
 				<p>Entre as alternativas, assinale aquela que melhor corresponde ao vetor campo elétrico resultante produzido pelos geradores no ponto médio P entre eles.</p>
 			</statement>
 			<options>
@@ -2096,7 +2050,7 @@
 			<statement>
 				<p>Um tema de grande interesse na química é a ativação seletiva de ligações C-H. Essa ativação permite a substituição de H nessas ligações por outros átomos, como O ou N. A relevância desse tema pode ser verificada em um estudo recentemente publicado no prestigioso periódico Science, que conta com uma egressa da USP dentre seus autores.</p>
 				<p>A baixa diferença de eletronegatividade entre C e H é um dos motivos que dificulta a ativação da ligação C-H, pois torna a ligação pouco polar e diminui sua reatividade.</p>
-				<image src="out04.pdf-7" />
+				<image src="fuvest2024/fase01/q56.png" />
 				<p>Considerando apenas a eletronegatividade, representada no gráfico, qual das alternativas apresenta uma ligação ainda menos reativa do que a ligação C-H?</p>
 			</statement>
 			<options>
@@ -2117,7 +2071,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Número atômico (Z) dos elementos: $H=1,$ $C=6$, $N=7$, $O=8$, $F=9$, $P=15,$ $S=16$, $Cl=17$.</p>
 			</assumptions>
 		</objective_question>
@@ -2128,7 +2081,7 @@
 			<classification subject="Physics:Electromagnetism:Circuits" />
 			<statement>
 				<p>A foto a seguir mostra um circuito com três resistores ($R_{1}$, $R_{2}$ e $R_{3}$) conectados em uma protoboard (base de contatos). Nesse tipo de placa, os cinco furos de uma mesma linha (indicados pelos retângulos amarelos) estão em curto, formando os nós do circuito. Os cabos vermelho e preto, por sua vez, estão conectados aos terminais de uma fonte contínua de 5V.</p>
-				<image src="out04.pdf-8" />
+				<image src="fuvest2024/fase01/q57.png" />
 				<p>Se $R_{1}=150$ kΩ e $R_{2}=R_{3}=100$ kΩ, a corrente elétrica que passa pelo resistor $R_{1}$ será de:</p>
 			</statement>
 			<options>
@@ -2156,7 +2109,7 @@
 			<classification subject="Chemistry:Physical:Electrochemistry" />
 			<statement>
 				<p>No processo de compra e venda de artigos de ouro, é comum testar os objetos para verificar se eles realmente são feitos de ouro ou se são alguma falsificação feita com metais menos nobres. Esse teste pode ser feito adicionando um pequeno volume de ácido forte concentrado às raspas do objeto a ser testado, conforme figura a seguir. Caso o objeto seja feito com ouro, as raspas permanecem visíveis, enquanto as raspas de falsificações são dissolvidas.</p>
-				<p />
+				<image src="fuvest2024/fase01/q58.png" />
 				<p>Considerando apenas o potencial de redução padrão, qual das alternativas apresenta um material que poderia gerar um falso positivo para o objeto de ouro no teste descrito?</p>
 			</statement>
 			<options>
@@ -2177,7 +2130,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>$Mg^{2+}+2e^{-}\rightleftharpoons Mg^{0} \quad E^{\circ}=-2,37~V$</p>
 				<p>$Al^{3+}+3e^{-}\rightleftharpoons Al^{0} \quad E^{\circ}=-1,66V$</p>
 				<p>$Fe^{2+}+2e^{-}\rightleftharpoons Fe^{0} \quad E^{\circ}=-0,44~V$</p>
@@ -2194,7 +2146,7 @@
 			<classification subject="Math:Algebra:Exponential" />
 			<statement>
 				<p>Considere a função f, dada por $f(x)=b^{x}$ com $b&gt;0$, $b\ne1$ e $x\in\mathbb{R}$, e a sua inversa $f^{-1}$. A figura destaca dois pontos, um pertencente ao gráfico de f e outro ao gráfico de $f^{-1}$.</p>
-				<image src="out04.pdf-9" />
+				<image src="fuvest2024/fase01/q59.png" />
 				<p>Determine $b + k$.</p>
 			</statement>
 			<options>
@@ -2222,24 +2174,24 @@
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>Considere o sistema linear</p>
-				<p>$\begin{cases} x+2y=4 \\ 3x-y=5 \end{cases}$</p>
+				<p>$$\begin{cases} x+2y=4 \\ 3x-y=5 \end{cases}$$</p>
 				<p>Assinale a alternativa que representa graficamente esse sistema.</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image src="out04.pdf-10" />
+					<image src="fuvest2024/fase01/q60a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="out04.pdf-11" />
+					<image src="fuvest2024/fase01/q60b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="out04.pdf-12" />
+					<image src="fuvest2024/fase01/q60c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out04.pdf-13" />
+					<image src="fuvest2024/fase01/q60d.png" />
 				</option>
 				<option label="E" is_correct="true">
-					<image src="out04.pdf-14" />
+					<image src="fuvest2024/fase01/q60e.png" />
 				</option>
 			</options>
 		</objective_question>
@@ -2250,7 +2202,7 @@
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>O gráfico a seguir representa a curva de biomassa e biodiversidade em diferentes partes do globo.</p>
-				<image src="out05.pdf-0" />
+				<image src="fuvest2024/fase01/q61.png" />
 				<p>Sobre os ambientes do globo terrestre que podem ser exemplificados pelos dados demonstrados no gráfico, é correto afirmar que, onde o índice de aridez é igual a</p>
 			</statement>
 			<options>
@@ -2279,7 +2231,7 @@
 			<statement>
 				<p>Os domínios morfoclimáticos e fitogeográficos propostos pelo geógrafo Aziz Nacib Ab'Sáber nos anos 1960 continuam válidos na atualidade. Representam um mapeamento do território brasileiro, na escala zonal, onde foram identificados seis grandes domínios, além de uma faixa denominada de transição, que sintetizam os elementos do clima, da vegetação, do solo, do relevo e outros atributos presentes na paisagem.</p>
 				<p>Observe as imagens:</p>
-				<image src="out05.pdf-1" />
+				<image src="fuvest2024/fase01/q62.png" />
 				<p>As imagens representam aspectos paisagísticos dos tipos climáticos semiárido (1), tropical (2) e subtropical (3), presentes, respectivamente, nos seguintes domínios morfoclimáticos:</p>
 			</statement>
 			<options>
@@ -2307,7 +2259,7 @@
 			<classification subject="Math:Algebra:Sequences and Series" />
 			<statement>
 				<p>Uma Árvore Pitagórica é uma figura plana que é construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante. Ou seja, em cada nova etapa, aplica-se a etapa anterior em cada um dos novos quadrados obtidos. A figura a seguir exibe as quatro primeiras etapas da construção da Árvore Pitagórica.</p>
-				<image src="out05.pdf-2" />
+				<image src="fuvest2024/fase01/q63.png" />
 				<p>A partir de qual etapa da construção o lado de cada um dos novos quadrados obtidos fica, pela primeira vez, menor do que 1 décimo de milésimo do lado do quadrado da Etapa 1?</p>
 			</statement>
 			<options>
@@ -2328,7 +2280,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>$log_{10}2=0,3$</p>
 			</assumptions>
 		</objective_question>
@@ -2339,9 +2290,10 @@
 			<classification subject="Biology:Evolution:Speciation and Phylogeny" />
 			<statement>
 				<quote>
-					<p>"Pesquisadores realizaram em 2022 uma expedição que promete fazer história. Destino: Serra do Imeri, um conjunto de montanhas no norte do Amazonas. O objetivo da missão foi a realização de um inventário de biodiversidade para saber que tipos de animais e plantas ocorrem na região e de que forma eles se relacionam, ou não, com as espécies que habitam as partes mais baixas do bioma. O Pico da Neblina, o mais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, mas integra maciço rochoso diferente, fisicamente separado da área da expedição. Do ponto de vista ecológico, são como dois arquipélagos distintos, separados por um grande mar de floresta verde."</p>
+					<p>Pesquisadores realizaram em 2022 uma expedição que promete fazer história. Destino: Serra do Imeri, um conjunto de montanhas no norte do Amazonas. O objetivo da missão foi a realização de um inventário de biodiversidade para saber que tipos de animais e plantas ocorrem na região e de que forma eles se relacionam, ou não, com as espécies que habitam as partes mais baixas do bioma. O Pico da Neblina, o mais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, mas integra maciço rochoso diferente, fisicamente separado da área da expedição. Do ponto de vista ecológico, são como dois arquipélagos distintos, separados por um grande mar de floresta verde.</p>
 				</quote>
-				<image src="out05.pdf-3" />
+				<cite>Disponível em https://jornal.usp.br/ciencias/rumo-a-amazoniadesconhecida/ 21/10/2022. Adaptado.</cite>
+				<image src="fuvest2024/fase01/q64.png" />
 				<p>Com base nas informações fornecidas e em seus conhecimentos, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -2369,7 +2321,7 @@
 			<classification subject="Geography:Physical:Geology" />
 			<statement>
 				<p>Em fevereiro de 2023, ocorreu uma precipitação pluviométrica extrema no litoral norte de São Paulo, com volume que excedeu os 600 mm de chuva em menos de 24 horas. Foi um dos maiores índices pluviométricos já registrados no Brasil para um dia. Essa grande quantidade de chuva provocou muitos deslizamentos de terra, como o retratado na imagem.</p>
-				<image src="out05.pdf-4" />
+				<image src="fuvest2024/fase01/q65.png" />
 				<p>Considerando o contexto socioambiental em que esse episódio ocorreu, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2397,7 +2349,7 @@
 			<classification subject="Geography:Physical:Geology" />
 			<statement>
 				<p>Observe as ilustrações.</p>
-				<image src="out05.pdf-5" />
+				<image src="fuvest2024/fase01/q66.png" />
 				<p>A imagem de satélite e a foto retratam fenômeno que aconteceu em Buriticupu, no oeste maranhense. Com base nas figuras e em seus conhecimentos, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -2450,8 +2402,8 @@
 					<p>E se os olhos reaprendessem a chorar seria um segundo</p>
 					<p>dilúvio.</p>
 					<p>(Desconfio que escrevi um poema.)</p>
-					<author>Carlos Drummond de Andrade. Alguma Poesia, 1930.</author>
 				</verse>
+				<cite>Carlos Drummond de Andrade. Alguma Poesia, 1930.</cite>
 				<p>Entre o primeiro e o último verso, há uma aparente contradição, que, todavia, não se sustenta porque</p>
 			</statement>
 			<options>
@@ -2495,8 +2447,8 @@
 					<p>Firme me amarrou e não consigo me soltar!</p>
 					<p>Firme me envolve e arde de matar!"</p>
 					<p>[...]</p>
-					<author>Tradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.</author>
 				</verse>
+				<cite>Tradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.</cite>
 				<p>O fragmento de poema apresentado foi escrito pelo naturalista Fritz Müller para suas filhas. O trecho do poema permite afirmar que a predação é realizada por um/uma</p>
 			</statement>
 			<options>
@@ -2523,7 +2475,7 @@
 		<objective_question number="69">
 			<classification subject="Biology:Evolution:Speciation and Phylogeny" />
 			<statement>
-				<image src="out05.pdf-6" />
+				<image src="fuvest2024/fase01/q69.png" />
 				<p>A partir do cladograma apresentado, que expressa algumas relações filogenéticas entre vertebrados, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -2551,7 +2503,7 @@
 			<classification subject="Geography:Physical:Hydrology" />
 			<statement>
 				<p>Observe o mapa da distribuição da pesca no globo em toneladas por quilômetro quadrado, por ano.</p>
-				<image src="out05.pdf-7" />
+				<image src="fuvest2024/fase01/q70.png" />
 				<p>Baseado em seus conhecimentos sobre correntes marítimas quentes e frias em superfície, bem como nos dados representados no mapa, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -2579,6 +2531,7 @@
 			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer" />
 			<statement>
 				<p>Para esfriar um copo contendo 250 mL de água fervente ($100^{\circ}C$), é comum utilizar o seguinte método:</p>
+				<image src="fuvest2024/fase01/q71.png" />
 				<p>Passo 1. Colocar esse copo dentro de uma vasilha em contato com 1 litro de água à temperatura ambiente ($25^{\circ}C$), como mostrado na figura.</p>
 				<p>Passo 2. Esperar que entrem em equilíbrio térmico.</p>
 				<p>Passo 3. Tirar o copo e trocar a água da vasilha por outro litro de água à temperatura ambiente.</p>
@@ -2603,7 +2556,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Considere apenas trocas de calor entre a água no copo e a água na vasilha. Despreze quaisquer trocas de calor do sistema com o ambiente.</p>
 			</assumptions>
 		</objective_question>
@@ -2618,23 +2570,22 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<image src="out05.pdf-8" />
+					<image src="fuvest2024/fase01/q72a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="out05.pdf-9" />
+					<image src="fuvest2024/fase01/q72b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="out05.pdf-10" />
+					<image src="fuvest2024/fase01/q72c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out05.pdf-11" />
+					<image src="fuvest2024/fase01/q72d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="out05.pdf-12" />
+					<image src="fuvest2024/fase01/q72e.png" />
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Despreze efeitos de dilatação ou contração da câmara do pneu.</p>
 			</assumptions>
 		</objective_question>
@@ -2645,7 +2596,7 @@
 			<classification subject="Physics:Waves:MechanicalWaves" />
 			<statement>
 				<p>Um experimento de demonstração sobre ondas estacionárias faz uso de uma canaleta disposta horizontalmente, contendo grãos de areia fina e seca. Abaixo da canaleta, posiciona-se um alto-falante que transmite um som, produzindo, na canaleta, uma vibração, associada a uma onda estacionária com um comprimento de onda bem definido. O diagrama representa uma imagem digitalizada dos grãos de areia depositados na base da canaleta em um certo instante. Utilize a régua da figura, graduada em centímetros, para assinalar a alternativa que apresenta a melhor aproximação para o valor do comprimento de onda da vibração em questão.</p>
-				<image src="out05.pdf-13" />
+				<image src="fuvest2024/fase01/q73.png" />
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2665,7 +2616,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Os grãos de areia tendem naturalmente a se acumular em torno dos pontos nos quais o deslocamento transversal da canaleta é nulo.</p>
 			</assumptions>
 		</objective_question>
@@ -2703,7 +2653,7 @@
 			<classification subject="History:Ancient" />
 			<statement>
 				<p>O mapa a seguir retrata o Nordeste da África e a Península Arábica, no século IV.</p>
-				<image src="out05.pdf-14" />
+				<image src="fuvest2024/fase01/q75.png" />
 				<p>Considerando as rotas comerciais representadas no mapa, pelas quais se transportavam, por exemplo, cereais, marfim e escravizados, e que envolviam sociedades antigas, em especial os reinos de Axum, Cuxe e Egito, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -2731,13 +2681,13 @@
 			<classification subject="History:Contemporary:ColdWar" />
 			<statement>
 				<quote>
-					<p>"O plano dos Estados Unidos de derrubarem a Revolução já estava esboçado na ocasião em que Mikoyan [vice-líder no governo soviético de Nikita Kruschev] visitou Havana, em fevereiro de 1960 (...). A CIA propunha a sabotagem das refinarias de açúcar de Cuba, a principal fonte de riqueza da ilha. (...)</p>
+					<p>O plano dos Estados Unidos de derrubarem a Revolução já estava esboçado na ocasião em que Mikoyan [vice-líder no governo soviético de Nikita Kruschev] visitou Havana, em fevereiro de 1960 (...). A CIA propunha a sabotagem das refinarias de açúcar de Cuba, a principal fonte de riqueza da ilha. (...)</p>
 					<p>Como prometido, Fidel Castro reagiu contra os Estados Unidos (...). Ele anunciou a nacionalização de todas as propriedades norte-americanas importantes da ilha. (...)</p>
 					<p>Numa frase sinistra (...), Castro salientou que a Cuba revolucionária tinha agora o apoio militar de fora do continente. Cuba 'aceitaria com gratidão', disse ele, 'a ajuda dos foguetes da União Soviética (...)'.</p>
 					<p>Naquele mês, a lenha fora jogada na fogueira, quando Castro chegou a Nova York para falar na Assembleia Geral da ONU, instalando-se no Harlem. (...)</p>
-					<p>Castro ficou no [hotel] Theresa, cercado por um grupo de admiradores (...) e numa tarde memorável foi visitado pelo líder soviético. (...) Kruschev escreveu nas suas memórias que 'indo a um hotel negro num bairro negro, nós estávamos fazendo uma dupla demonstração contra as políticas discriminatórias dos Estados Unidos em relação aos negros, assim como em relação a Cuba'".</p>
-					<author>GOTT, Richard. Cuba: uma nova história. Rio de Janeiro: Zahar, 2006. p.210-213. Adaptado.</author>
+					<p>Castro ficou no [hotel] Theresa, cercado por um grupo de admiradores (...) e numa tarde memorável foi visitado pelo líder soviético. (...) Kruschev escreveu nas suas memórias que 'indo a um hotel negro num bairro negro, nós estávamos fazendo uma dupla demonstração contra as políticas discriminatórias dos Estados Unidos em relação aos negros, assim como em relação a Cuba'.</p>
 				</quote>
+				<cite>GOTT, Richard. Cuba: uma nova história. Rio de Janeiro: Zahar, 2006. p.210-213. Adaptado.</cite>
 				<p>As tensões políticas abordadas no texto referem-se</p>
 			</statement>
 			<options>
@@ -2765,9 +2715,9 @@
 			<classification subject="History:Contemporary" />
 			<statement>
 				<quote>
-					<p>"Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha sendo modernizado e ocidentalizado pelas sucessivas gerações de xás, que viam na observância estrita da religião um atraso a ser superado. País de numerosa população xiita, no entanto, o regime modernizante sempre precisou contar com uma grande dose de repressão, para conter a oposição dos grupos religiosos, que se fazia cada vez mais popular. Na década de 1970, este movimento conheceu um líder, que, refugiado na França, preparava-se para voltar ao país: era o aiatolá Khomeini, que apelava aos muçulmanos para que restaurassem a autoridade do islã na sociedade."</p>
-					<author>GRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS FILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o tempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.</author>
+					<p>Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha sendo modernizado e ocidentalizado pelas sucessivas gerações de xás, que viam na observância estrita da religião um atraso a ser superado. País de numerosa população xiita, no entanto, o regime modernizante sempre precisou contar com uma grande dose de repressão, para conter a oposição dos grupos religiosos, que se fazia cada vez mais popular. Na década de 1970, este movimento conheceu um líder, que, refugiado na França, preparava-se para voltar ao país: era o aiatolá Khomeini, que apelava aos muçulmanos para que restaurassem a autoridade do islã na sociedade.</p>
 				</quote>
+				<cite>GRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS FILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o tempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.</cite>
 				<p>O texto descreve o contexto histórico que antecedeu</p>
 			</statement>
 			<options>
@@ -2795,7 +2745,7 @@
 			<classification subject="Geography:Geopolitics:Global Conflicts" />
 			<statement>
 				<p>Observe o mapa a seguir:</p>
-				<image src="out06.pdf-0" />
+				<image src="fuvest2024/fase01/q78.png" />
 				<p>Sobre o conflito geopolítico em questão, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2823,9 +2773,9 @@
 			<classification subject="Geography:Geopolitics:Global Conflicts" />
 			<statement>
 				<quote>
-					<p>"A China enviou ontem navios de guerra e dezenas de caças para Taiwan, em retaliação a uma reunião entre a presidente da ilha, Tsai Ing-Wen, e o presidente da Câmara dos Deputados do EUA, Kevin McCarty, na Califórnia".</p>
-					<author>O Estado de São Paulo, 08/04/2023. Adaptado.</author>
+					<p>A China enviou ontem navios de guerra e dezenas de caças para Taiwan, em retaliação a uma reunião entre a presidente da ilha, Tsai Ing-Wen, e o presidente da Câmara dos Deputados do EUA, Kevin McCarty, na Califórnia.</p>
 				</quote>
+				<cite>O Estado de São Paulo, 08/04/2023. Adaptado.</cite>
 				<p>A reportagem faz alusão ao aumento das tensões geopolíticas entre China e Taiwan. Sobre esse tema, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2853,7 +2803,7 @@
 			<classification subject="Geography:Human:Economic and Agricultural" />
 			<statement>
 				<p>A figura mostra dados do Fundo Monetário Internacional (FMI) sobre a série histórica (1992 e 2010) e uma projeção (2028) dos 10 países com o maior Produto Interno Bruto (PIB).</p>
-				<image src="out06.pdf-1" />
+				<image src="fuvest2024/fase01/q80.png" />
 				<p>Sobre esses dados, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2881,13 +2831,13 @@
 			<classification subject="Geography:Brazil:Human:Population and Demographics" />
 			<statement>
 				<quote>
-					<p>"As sociólogas, filósofas e ativistas feministas destacaram, com o conceito de 'reprodução social', algo que a teoria econômica ocultava: para que haja produção de bens e de serviços é necessário que as pessoas que os produzem sejam, por sua vez, produzidas. O trabalho da reprodução social, portanto, cria e repõe a condição primordial e necessária a existência de pessoas que trabalham - para que a produção econômica possa continuar ocorrendo. Em grande medida, esse trabalho é relegado ao ambiente familiar e às mulheres: cuidado com os filhos, cuidado com doentes e idosos, preparação de alimentos, limpeza e arrumação da casa e outros. O trabalho de reprodução se opõe, socialmente, ao trabalho de produção; este está inserido numa economia organizada com base em empresas nas fábricas, na agricultura, nos escritórios, voltado para o mercado e é percebido como merecedor de contrapartida financeira: o salário. Assim, mesmo quando um trabalho da esfera da reprodução se realiza por meio de uma relação de emprego, se for realizado por mulheres, ele costuma ser mal pago e desfrutar de menor prestigio."</p>
-					<author>ARRUZZA, Cinzia; BATTACHARYA, Tithi; FRASER, Nancy. Feminismo para os 99%: um manifesto. São Paulo: Boitempo, 2019.</author>
+					<p>As sociólogas, filósofas e ativistas feministas destacaram, com o conceito de 'reprodução social', algo que a teoria econômica ocultava: para que haja produção de bens e de serviços é necessário que as pessoas que os produzem sejam, por sua vez, produzidas. O trabalho da reprodução social, portanto, cria e repõe a condição primordial e necessária a existência de pessoas que trabalham - para que a produção econômica possa continuar ocorrendo. Em grande medida, esse trabalho é relegado ao ambiente familiar e às mulheres: cuidado com os filhos, cuidado com doentes e idosos, preparação de alimentos, limpeza e arrumação da casa e outros. O trabalho de reprodução se opõe, socialmente, ao trabalho de produção; este está inserido numa economia organizada com base em empresas nas fábricas, na agricultura, nos escritórios, voltado para o mercado e é percebido como merecedor de contrapartida financeira: o salário. Assim, mesmo quando um trabalho da esfera da reprodução se realiza por meio de uma relação de emprego, se for realizado por mulheres, ele costuma ser mal pago e desfrutar de menor prestigio.</p>
 				</quote>
+				<cite>ARRUZZA, Cinzia; BATTACHARYA, Tithi; FRASER, Nancy. Feminismo para os 99%: um manifesto. São Paulo: Boitempo, 2019.</cite>
 				<quote>
-					<p>"A chamada 'economia do cuidado é o conjunto de atividades não remuneradas, geralmente exercidas por mulheres, como a limpeza da casa, preparação de alimentos e os cuidados com crianças, idosos e doentes da família. Um pacote que vale 11% do PIB atual (...). Em valores, foram cerca de 634,3 bilhões de reais em 2015 [por exemplo]. (...) Contabilizar o valor dos afazeres domésticos no PIB do Brasil só se tornou possível a partir de 2001, quando o IBGE introduziu na Pesquisa Nacional por Amostra de Domicílios (PNAD) a pergunta referente ao número de horas despendido pela população para executar essas atividades."</p>
-					<author>Disponível em https://www.cartacapital.com.br/.</author>
+					<p>A chamada 'economia do cuidado é o conjunto de atividades não remuneradas, geralmente exercidas por mulheres, como a limpeza da casa, preparação de alimentos e os cuidados com crianças, idosos e doentes da família. Um pacote que vale 11% do PIB atual (...). Em valores, foram cerca de 634,3 bilhões de reais em 2015 [por exemplo]. (...) Contabilizar o valor dos afazeres domésticos no PIB do Brasil só se tornou possível a partir de 2001, quando o IBGE introduziu na Pesquisa Nacional por Amostra de Domicílios (PNAD) a pergunta referente ao número de horas despendido pela população para executar essas atividades.</p>
 				</quote>
+				<cite>Disponível em https://www.cartacapital.com.br/.</cite>
 				<p>Nos textos apresentados, encontram-se dois conceitos, o de "reprodução social" e o de "economia do cuidado". De acordo com as definições desses conceitos e com os dados indicados, qual das afirmações a seguir está correta?</p>
 			</statement>
 			<options>
@@ -2912,20 +2862,19 @@
 
 	<question_group>
 		<context>
-			<header>TEXTOS PARA AS QUESTÕES 82 E 83</header>
 			<header>Texto I</header>
 			<quote>
-				<p>"Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se.</p>
-				<p>Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem."</p>
-				<author>Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!.</author>
+				<p>Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se.</p>
+				<p>Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.</p>
 			</quote>
+			<cite>Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!.</cite>
 			<header>Texto II</header>
 			<quote>
-				<p>"- Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura.</p>
+				<p>- Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura.</p>
 				<p>- Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo.</p>
-				<p>Casámo-nos há pouco tempo, Nguila, muito pouco tempo. Não tenho lá muita paciência. Não estou para lavrar sem colher."</p>
-				<author>Paulina Chiziane. Balada de amor ao vento, p. 61-62.</author>
+				<p>Casámo-nos há pouco tempo, Nguila, muito pouco tempo. Não tenho lá muita paciência. Não estou para lavrar sem colher.</p>
 			</quote>
+			<cite>Paulina Chiziane. Balada de amor ao vento, p. 61-62.</cite>
 		</context>
 
 		<objective_question number="82">
@@ -2982,7 +2931,7 @@
 			<classification subject="Math:Statistics" />
 			<statement>
 				<p>O Atlas da Violência, publicado em 2019 e organizado pelo Instituto de Pesquisa Econômica Aplicada e Fórum Brasileiro de Segurança Pública, apresenta um estudo para melhor compreender a violência no país. Os dados que ali constam referem-se ao período de 2007 a 2017. Um dos capítulos desse documento trata, especificamente, da violência contra a mulher. O gráfico a seguir mostra a evolução da taxa de homicídios de mulheres (equivalente ao número de homicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e nas três unidades federativas com as menores taxas em 2017.</p>
-				<image src="out06.pdf-2" />
+				<image src="fuvest2024/fase01/q84.png" />
 				<p>De acordo com os dados apresentados, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -3010,9 +2959,9 @@
 			<classification subject="Math:Algebra:Sequences and Series" />
 			<statement>
 				<p>Números figurados são números que expressam o total de pontos em certas configurações geométricas. Um exemplo de números figurados são os triangulares, os quais são números naturais que podem ser representados geometricamente na forma de um triângulo. Os quatro primeiros números triangulares estão ilustrados na figura I. Apesar de o número 1 não representar um triângulo, ele é considerado um número triangular.</p>
-				<p>Figura I: </p>
+				<image src="fuvest2024/fase01/q85a.png" />
 				<p>Outro exemplo de número figurado é o número oblongo, o qual representa o total de pontos de um quadro retangular em que o número de colunas é uma unidade a mais do que o número de linhas. Os quatro primeiros números oblongos estão ilustrados na figura II. Apesar de o número 2 não representar um quadro retangular, ele é considerado um número oblongo.</p>
-				<p>Figura II: </p>
+				<image src="fuvest2024/fase01/q85b.png" />
 				<p>A respeito de números triangulares e números oblongos, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -3040,12 +2989,12 @@
 			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
-					<p>"Para praticar a agricultura, os tupis derrubavam árvores e faziam a queimada técnica que iria ser incorporada pelos colonizadores. Plantavam feijão, milho, abóbora e principalmente mandioca, cuja farinha se tornou também um alimento básico da Colônia. A economia era basicamente de subsistência e destinada ao consumo próprio. Cada aldeia produzia para satisfazer a suas necessidades, havendo poucas trocas de gêneros alimentícios com outras aldeias.</p>
+					<p>Para praticar a agricultura, os tupis derrubavam árvores e faziam a queimada técnica que iria ser incorporada pelos colonizadores. Plantavam feijão, milho, abóbora e principalmente mandioca, cuja farinha se tornou também um alimento básico da Colônia. A economia era basicamente de subsistência e destinada ao consumo próprio. Cada aldeia produzia para satisfazer a suas necessidades, havendo poucas trocas de gêneros alimentícios com outras aldeias.</p>
 					<p>Mas existiam contatos entre elas para a troca de mulheres e de bens de luxo, como penas de tucano e pedras para se fazer botoque.</p>
 					<p>Dos contatos resultavam alianças em que grupos de aldeias se posicionavam uns contra os outros. A guerra e a captura de inimigos mortos em meio à celebração de um ritual canibalístico - eram elementos integrantes da sociedade tupi.</p>
-					<p>Dessas atividades, reservadas aos homens, dependiam a obtenção de prestígio e a renovação das mulheres."</p>
-					<author>FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2006. p.40.</author>
+					<p>Dessas atividades, reservadas aos homens, dependiam a obtenção de prestígio e a renovação das mulheres.</p>
 				</quote>
+				<cite>FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2006. p.40.</cite>
 				<p>De acordo com o texto, é correto afirmar que, no período colonial brasileiro, as sociedades pertencentes ao tronco linguístico Tupi</p>
 			</statement>
 			<options>
@@ -3073,9 +3022,9 @@
 			<classification subject="History:Modern" />
 			<statement>
 				<quote>
-					<p>"Colombo não reconhece a diversidade das línguas e, por isso, quando se vê diante de uma língua estrangeira, só há dois comportamentos possíveis, e complementares: reconhecer que é uma língua, e recusar-se a aceitar que seja diferente, ou então reconhecer a diferença e recusar-se a admitir que seja uma língua... Os índios que encontra logo no início, a 12 de outubro de 1492, provocam uma reação do segundo tipo; ao vê-los, promete: 'Se Deus assim o quiser, no momento da partida levarei seis deles a Vossas Altezas, para que aprendam a falar' (...)."</p>
-					<author>TODOROV, Tzvetán. A conquista da América: a questão do outro. São Paulo: Martins Fontes, 1993. p.29-30.</author>
+					<p>Colombo não reconhece a diversidade das línguas e, por isso, quando se vê diante de uma língua estrangeira, só há dois comportamentos possíveis, e complementares: reconhecer que é uma língua, e recusar-se a aceitar que seja diferente, ou então reconhecer a diferença e recusar-se a admitir que seja uma língua... Os índios que encontra logo no início, a 12 de outubro de 1492, provocam uma reação do segundo tipo; ao vê-los, promete: 'Se Deus assim o quiser, no momento da partida levarei seis deles a Vossas Altezas, para que aprendam a falar' (...).</p>
 				</quote>
+				<cite>TODOROV, Tzvetán. A conquista da América: a questão do outro. São Paulo: Martins Fontes, 1993. p.29-30.</cite>
 				<p>Ao tratar das reações iniciais de Colombo ao chegar à América, o excerto indica que o navegador</p>
 			</statement>
 			<options>
@@ -3102,11 +3051,13 @@
 		<objective_question number="88">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
-				<p>The main players in the Spanish-Aztec War (1519-21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés's mistress. She was known as Doña Marina, and as La Malinche.</p>
-				<p>Scholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an interpreter/liaison who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist.</p>
-				<p>La Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés's travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections.</p>
-				<p>Integral as she was to Spain's success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, "If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme." But Candelaria argues that La Malinche's act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, "What else could this outcast from the Aztecs, 'her own people,' have done?"</p>
-				<p>Disponível em https://daily.jstor.org/. Adaptado.</p>
+				<quote>
+					<p>The main players in the Spanish-Aztec War (1519-21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés's mistress. She was known as Doña Marina, and as La Malinche.</p>
+					<p>Scholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an interpreter/liaison who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist.</p>
+					<p>La Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés's travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections.</p>
+					<p>Integral as she was to Spain's success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, "If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme." But Candelaria argues that La Malinche's act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, "What else could this outcast from the Aztecs, 'her own people,' have done?"</p>
+				</quote>
+				<cite>Disponível em https://daily.jstor.org/. Adaptado.</cite>
 				<p>Segundo o texto, em relação à imagem de La Malinche como traidora do povo Asteca, a pesquisadora Cordelia Candelaria argumenta que a intérprete</p>
 			</statement>
 			<options>
@@ -3134,9 +3085,9 @@
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
 				<quote>
-					<p>"O preconceito linguístico é tanto mais poderoso porque, em grande medida, ele é 'invisível', no sentido de que quase ninguém fala dele, com exceção dos raros cientistas sociais que se dedicam a estudá-lo. Pouquíssimas pessoas reconhecem a existência do preconceito linguístico, quem dirá a sua gravidade como um sério problema social."</p>
-					<author>BAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições Loyola, São Paulo, 1999.</author>
+					<p>O preconceito linguístico é tanto mais poderoso porque, em grande medida, ele é 'invisível', no sentido de que quase ninguém fala dele, com exceção dos raros cientistas sociais que se dedicam a estudá-lo. Pouquíssimas pessoas reconhecem a existência do preconceito linguístico, quem dirá a sua gravidade como um sério problema social.</p>
 				</quote>
+				<cite>BAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições Loyola, São Paulo, 1999.</cite>
 				<p>Com base na leitura do texto, é possível depreender que o preconceito linguístico, apesar de nocivo para a sociedade, muitas vezes é despercebido. Nesse sentido, assinale a alternativa que apresenta um exemplo de preconceito linguístico.</p>
 			</statement>
 			<options>
@@ -3165,14 +3116,14 @@
 			<statement>
 				<header>Texto I</header>
 				<quote>
-					<p>"W. I. Thomas, decano dos sociólogos norte-americanos, formula um teorema básico para as ciências sociais: 'Se os indivíduos definem as situações como reais, elas são reais em suas consequências'. (...) A primeira parte do teorema constitui uma incessante lembrança de que os homens reagem não somente aos traços objetivos de uma situação, como também, e às vezes principalmente, ao sentido que a situação tem para eles. E, assim que atribuíram algum sentido à situação, sua conduta consequente, e algumas das consequências dessa conduta, são determinadas pelo sentido atribuído. (...) A profecia que se cumpre por si mesma é, inicialmente, uma definição falsa da situação que provoca uma nova conduta, a qual, por sua vez, converte em verdadeiro o conceito originalmente falso."</p>
-					<author>MERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre Jou, 1970. p.515-517.</author>
+					<p>W. I. Thomas, decano dos sociólogos norte-americanos, formula um teorema básico para as ciências sociais: 'Se os indivíduos definem as situações como reais, elas são reais em suas consequências'. (...) A primeira parte do teorema constitui uma incessante lembrança de que os homens reagem não somente aos traços objetivos de uma situação, como também, e às vezes principalmente, ao sentido que a situação tem para eles. E, assim que atribuíram algum sentido à situação, sua conduta consequente, e algumas das consequências dessa conduta, são determinadas pelo sentido atribuído. (...) A profecia que se cumpre por si mesma é, inicialmente, uma definição falsa da situação que provoca uma nova conduta, a qual, por sua vez, converte em verdadeiro o conceito originalmente falso.</p>
 				</quote>
+				<cite>MERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre Jou, 1970. p.515-517.</cite>
 				<header>Texto II</header>
 				<quote>
-					<p>"Depois de alguns anos inseridos nesta lógica de abuso e privações de distintos tipos, o detento é novamente colocado em liberdade. (...) Conseguir um trabalho não é tão fácil como parece, já que mesmo as atividades menos qualificadas e manuais (como as relacionadas a limpeza, serviços gerais, construção civil, dentre outras) demandam 'atestado de bons antecedentes e a marca da passagem pela cadeia pode significar um indesejável pertencimento ao mundo do crime' (Ramalho, 2018, p. 91). (...) O fator [condicionante da reincidência] mais citado, presente em 44% dos textos [sobre o tema], foi a baixa qualificação e as poucas oportunidades, sendo essa a explicação padrão de boa parte da literatura para a reincidência."</p>
-					<author>RIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no Brasil: o que os estudos dizem sobre os fatores que contribuem para essa trajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14.</author>
+					<p>Depois de alguns anos inseridos nesta lógica de abuso e privações de distintos tipos, o detento é novamente colocado em liberdade. (...) Conseguir um trabalho não é tão fácil como parece, já que mesmo as atividades menos qualificadas e manuais (como as relacionadas a limpeza, serviços gerais, construção civil, dentre outras) demandam 'atestado de bons antecedentes e a marca da passagem pela cadeia pode significar um indesejável pertencimento ao mundo do crime' (Ramalho, 2018, p. 91). (...) O fator [condicionante da reincidência] mais citado, presente em 44% dos textos [sobre o tema], foi a baixa qualificação e as poucas oportunidades, sendo essa a explicação padrão de boa parte da literatura para a reincidência.</p>
 				</quote>
+				<cite>RIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no Brasil: o que os estudos dizem sobre os fatores que contribuem para essa trajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14.</cite>
 				<p>Aplicando a noção proposta por Robert Merton, no texto I, ao cenário descrito no texto II, qual definição da situação das pessoas egressas do sistema prisional pelos possíveis empregadores no mercado de trabalho tornaria a reincidência criminal uma "profecia que se cumpre por si mesma"?</p>
 			</statement>
 			<options>

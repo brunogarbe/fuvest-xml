@@ -516,7 +516,7 @@
 	<!-- Table Options -->
 	<xs:complexType name="TableOptions">
 		<xs:sequence>
-			<xs:element name="header" type="CellRow"/>
+			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRow"/>
 			
 			<xs:element name="option" maxOccurs="unbounded">
 				<xs:complexType>

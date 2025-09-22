@@ -39,6 +39,7 @@ DEFAULT_PREAMBLE = """\\documentclass[11pt,a4paper,twocolumn]{article}
 \\usepackage{array}      	% improved column definitions
 \\usepackage{tcolorbox}  	% for boxes of text
 \\usepackage{csquotes}     % for typesetting quotes
+\\usepackage{amsmath}
 \\usepackage{mathspec}			% allow you to use open-type fonts
 \\usepackage{setspace}     % for line spacing
 \\usepackage{lipsum}				% for printing test
@@ -151,12 +152,14 @@ def convert_quotes_to_latex(input_string):
     # Replace opening quotes: " followed by a word character (alphanumeric/underscore).
     # This uses a positive lookahead `(?=\w)` to match a quote that is
     # followed by a word character without including it in the match.
-    temp_string = re.sub(r'"(?=\w)', "``", input_string)
+    temp_string = re.sub(r'"(?=\w)', "\u201C", input_string)
+    temp_string = re.sub(r"'(?=\w)", "\u2018", input_string)
 
     # Replace closing quotes: a word character or punctuation followed by ".
     # This uses a positive lookbehind `(?<=\w|[.,?!;:])` to match a quote
     # that is preceded by a word/punctuation character without including it.
-    final_string = re.sub(r'(?<=\w|[.,?!;:])"', "''", temp_string)
+    final_string = re.sub(r'(?<=\w|[.,?!;:])"', "\u201D", temp_string)
+    final_string = re.sub(r"(?<=\w|[.,?!;:])'", "\u2019", temp_string)
     
     return final_string
     

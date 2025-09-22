@@ -764,22 +764,25 @@
 				<p>Com base nessas informações, assinale a alternativa que apresenta o gráfico que melhor corresponde à situação em que a cor predominante da luz irradiada seja amarela.</p>
 			</statement>
 			<options>
+			<table>
 				<option label="A" is_correct="false">
-					<image src="fuvest2024/fase01/q26a.png" />
+					<cell><image width="0.6" src="fuvest2024/fase01/q26a.png" /></cell>
 				</option>
 				<option label="B" is_correct="false">
-					<image src="fuvest2024/fase01/q26b.png" />
+					<cell><image width="0.6" src="fuvest2024/fase01/q26b.png" /></cell>
 				</option>
 				<option label="C" is_correct="true">
-					<image src="fuvest2024/fase01/q26c.png" />
+					<cell><image width="0.6" src="fuvest2024/fase01/q26c.png" /></cell>
 				</option>
 				<option label="D" is_correct="false">
-					<image src="fuvest2024/fase01/q26d.png" />
+					<cell><image width="0.6" src="fuvest2024/fase01/q26d.png" /></cell>
 				</option>
 				<option label="E" is_correct="false">
-					<image src="fuvest2024/fase01/q26e.png" />
+					<cell><image width="0.6" src="fuvest2024/fase01/q26e.png" /></cell>
 				</option>
+				</table>
 			</options>
+			
 			<assumptions>
 				<p>Velocidade da luz no vácuo: $3\times10^{8} m/s$.</p>
 				<p>Cores associadas a frequências de luz visível:</p>
@@ -844,7 +847,7 @@
 				<p>Uma empresa júnior de alunos de engenharia projetou um termômetro mecânico para medir a temperatura do óleo utilizado em máquinas e equipamentos, com base na variação da densidade do óleo com a temperatura. Com essa finalidade, emprega-se um objeto de massa M igual a 18 g e volume de $20~cm^{3}$, que permanece imerso em um óleo e está preso, por um fio, ao fundo da superfície, conforme mostra a figura.</p>
 				<image src="fuvest2024/fase01/q27a.png" />
 				<p>A temperatura é medida por meio da variação na tensão do fio, que muda devido à variação da densidade do óleo com a temperatura. O gráfico a seguir mostra a dependência da densidade do óleo com a temperatura.</p>
-				<image src="fuvest2024/fase01/q26b.png" />
+				<image src="fuvest2024/fase01/q27b.png" />
 				<p>Nessa configuração, a temperatura na qual a tensão na corda se anula é igual a</p>
 			</statement>
 			<options>
@@ -1562,6 +1565,7 @@
 				</quote>
 				<cite>Uma falha no campo magnético da Terra passeia sobre o Brasil, Revista Pesquisa FAPESP, maio de 2021.</cite>
 				<image src="fuvest2024/fase01/q42.png" />
+				<cite>Missão Swarm 2014/ESA.</cite>
 				<p>Com base nos textos e na figura apresentados e nos seus conhecimentos, é correto afirmar que:</p>
 			</statement>
 			<options>
@@ -1963,7 +1967,7 @@
 				<p>A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching.</p>
 				<p>"What's happened as sports has become privatized is that it has become the haves and have-nots," said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. "Particularly for low-income kids, if they don't have access to sports within the school setting, where are they going to get their physical activity?" Mr. Solomon said. "The answer is nowhere."</p>
 			</quote>
-			<p>The New York Times. 24 March 2023. Adaptado.</p>
+			<cite>The New York Times. 24 March 2023. Adaptado.</cite>
 		</context>
 
 		<objective_question number="53">

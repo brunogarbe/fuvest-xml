@@ -51,7 +51,7 @@ def validate_xml(schema_file, xml_file, detailed=False):
 
         # 🔹 Checagem de numeração incremental
         question_numbers = []
-        for q in tree.xpath("//question"):
+        for q in tree.xpath("//objective_question"):
             try:
                 num = int(q.get("number"))
                 question_numbers.append((num, q.sourceline))
@@ -62,6 +62,27 @@ def validate_xml(schema_file, xml_file, detailed=False):
                     "column": 0,
                     "message": f"<question> possui atributo 'number' inválido: {q.get('number')}",
                 })
+            
+            #print(num, q, q.findall("options/table"))
+            if q.findall("options/table"):
+                if len(q.findall("options/table/option")) != 5:
+                    errors.append({
+                        "file": xml_file,
+                        "line": q.sourceline,
+                        "column": 0,
+                        "message": f"<question> possui numero de items ({len(q.findall("options/option"))}) inválido: {q.get('number')}",
+                    })
+            else:
+                if len(q.findall("options/option")) != 5:
+                    errors.append({
+                        "file": xml_file,
+                        "line": q.sourceline,
+                        "column": 0,
+                        "message": f"<question> possui numero de items ({len(q.findall("options/option"))}) inválido: {q.get('number')}",
+                    })
+            #print(len(q.xpath("//objective_question/options/option")))
+            #for opt in q.xpath("//options/option"):
+            #    print(opt)
 
         if question_numbers:
             expected = list(range(1, len(question_numbers) + 1))

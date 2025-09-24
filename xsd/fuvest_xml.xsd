@@ -6,8 +6,10 @@
 	<xs:simpleType name="Classification">
 		<xs:restriction base="xs:string">
 		
-			<!-- Math -->
+			<xs:enumeration value="Unknown"/>
 			
+			<!-- Math -->
+
 			<xs:enumeration value="Math"/>
 			<xs:enumeration value="Math:Concepts"/>
 			<xs:enumeration value="Math:Number Sets"/>
@@ -294,6 +296,7 @@
 			<xs:enumeration value="Geography:Physical:Oceanography"/>
 			<xs:enumeration value="Geography:Physical:Hydrology"/>
 			<xs:enumeration value="Geography:Physical:Biogeography"/>
+			<xs:enumeration value="Geography:Physical:Geomorphology"/>
 			
 			<xs:enumeration value="Geography:Human"/>
 			<xs:enumeration value="Geography:Human:Population and Demographics"/>
@@ -418,7 +421,6 @@
 				<xs:element name="p" type="xs:string" />
 				<xs:element name="image" type="Image"/>
 			</xs:choice>
-			<!-- <xs:element name="author" type="xs:string" minOccurs="0" maxOccurs="1"/> -->
 		</xs:sequence>
 	</xs:complexType>
 	
@@ -427,7 +429,6 @@
 		<xs:sequence>
 			<xs:element name="title" type="xs:string" minOccurs="0" maxOccurs="1"/>
 			<xs:element name="p" type="xs:string" maxOccurs="unbounded"/>
-			<!-- <xs:element name="author" type="xs:string" minOccurs="0" maxOccurs="1"/> -->
 		</xs:sequence>
 	</xs:complexType>
 	

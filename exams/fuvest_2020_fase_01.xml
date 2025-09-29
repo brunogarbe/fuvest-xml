@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exam
+	name="FUVEST"
+	year="2019"
+	phase="1"
+	day="1"
+	variation="V"
+	date="2019-11-24"
+	lang="pt-br">
+	<question_group>
+		<objective_question number="1">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Em Xangai, uma loja especializada em café oferece uma opção diferente para adoçar a bebida. A chamada sweet little rain consiste em uma xícara de café sobre a qual é pendurado um algodão-doce, material rico em sacarose, o que passa a impressão de existir uma nuvem pairando sobre o café, conforme ilustrado na imagem. [cite: 284, 285, 288, 291, 294, 297, 305]</p>
+				<image src="out01-1.png"/>
+				<cite>Disponível em https://www.boredpanda.com/. </cite>
+				<p>O café quente é então adicionado na xícara e, passado um tempo, gotículas começam a pingar sobre a bebida, simulando uma chuva doce e reconfortante. </p>
+				<p>A adição de café quente inicia o processo descrito, pois </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a temperatura do café é suficiente para liquefazer a sacarose do algodão-doce, fazendo com que este goteje na forma de sacarose líquida. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o vapor de água que sai do café quente irá condensar na superfície do algodão-doce, gotejando na forma de água pura. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a sacarose que evapora do café quente condensa na superfície do algodão-doce e goteja na forma de uma solução de sacarose em água. </p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>o vapor de água encontra o algodão-doce e solubiliza a sacarose, que goteja na forma de uma solução de sacarose em água. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o vapor de água encontra o algodão-doce e vaporiza a sacarose, que goteja na forma de uma solução de sacarose em água. </p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote: </p>
+				<ul>
+					<li>Temperatura de fusão da sacarose à pressão ambiente = 186 °C; </li>
+					<li>Solubilidade da sacarose a 20 °C = 1,97 kg/L de água. </li>
+				</ul>
+			</assumptions>
+		</objective_question>
+		<objective_question number="2">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Equipamentos domésticos chamados de vaporizadores para roupa utilizam o vapor de água gerado por um sistema de resistências elétricas a partir de água líquida. </p>
+				<p>Um equipamento com potência nominal de 1.600 W foi utilizado para passar roupas por 20 minutos, consumindo 540 mL de água. </p>
+				<p>Em relação ao gasto total de energia do equipamento, o gasto de energia utilizado apenas para vaporizar a água, após ela já ter atingido a temperatura de ebulição, equivale a, aproximadamente, </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>0,04%. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>0,062%. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>4,6%. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>40%. </p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>62%. </p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote: </p>
+				<ul>
+					<li>Entalpia de vaporização da água a 100 °C = 40 kJ/mol; </li>
+					<li>Massa molar da água = 18 g/mol; </li>
+					<li>Densidade da água = 1 g/mL. </li>
+				</ul>
+			</assumptions>
+		</objective_question>
+		<objective_question number="3">
+			<classification subject="Unknown"/>
+			<statement>
+				<image src="out01-0.png"/>
+				<quote>
+					<p>Pesquisadores (...) conseguiram controlar reações químicas de um modo inovador. </p>
+					<p>Usaram feixes de laser para promover um esbarrão entre dois átomos e uni-los, criando uma molécula. </p>
+					<p>Utilizando pinças ópticas (feixes de laser altamente focados capazes de aprisionar objetos microscópicos), os pesquisadores empurraram um átomo do elemento químico césio (Cs) contra um átomo de sódio (Na) até que colidissem. </p>
+					<p>Um terceiro laser foi lançado sobre ambos, fornecendo energia extra para criar a molécula NaCs. </p>
+					<p>Na natureza, as moléculas formam-se a partir da interação de átomos por acaso. </p>
+					<p>Por suas características químicas, césio e sódio jamais originariam uma molécula espontaneamente. (...) </p>
+				</quote>
+				<cite>Molécula criada em laboratório. Disponível em http://revistapesquisa.fapesp.br/. Adaptado. </cite>
+				<p>Com base nas informações do texto e em seus conhecimentos, é correto afirmar que </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>o Cs é um elemento químico radioativo e, devido a essa característica química, a molécula de NaCs não se formaria sem esse modo inovador (L.2), que estabiliza o decaimento. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o raio atômico do Na é maior que o do Cs, portanto, a sua energia de ionização também é maior.  O esbarrão (L.3) entre os átomos retira um elétron do Na, permitindo a ligação. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>o terceiro laser (L.8) usado no experimento serviu para retirar um nêutron do Cs, tornando-o um cátion e possibilitando a reação com o Na. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>na natureza, com esses elementos se esbarrando por acaso (L.10-11), a tendência seria formar CsNa, e não NaCs, justificando o caráter inovador do experimento. </p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>o Cs e o Na não formariam uma molécula espontaneamente (L.11-12), uma vez que ambos têm grande tendência a formarem cátions e ligações iônicas. </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="4">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Ao se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. </p>
+				<p>Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada. </p>
+				<image src="out01-3.png"/>
+				<p>Considerando as informações apresentadas no texto e no quadro, a principal razão para a diferença de coloração descrita é que a fração oleosa </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>fica mais quente do que a aquosa, degradando a betanina;  o mesmo não é observado com o licopeno, devido à sua cadeia carbônica longa. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>está mais exposta ao ar, que oxida a betanina;  o mesmo não é observado com o licopeno, devido à grande quantidade de duplas ligações. </p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>é apolar e a betanina, polar, havendo pouca interação;  o mesmo não é observado com o licopeno, que é apolar e irá interagir com o azeite. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>é apolar e a aquosa, polar, mantendo-se separadas; o licopeno age como um surfactante misturando as fases, colorindo a oleosa, enquanto a betanina não. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>tem alta viscosidade, facilitando a difusão do licopeno, composto de menor massa molar;  o mesmo não é observado para a betanina, com maior massa. </p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote: </p>
+				<p>Massas molares (g/mol): Licopeno = 537; betanina = 551. [cite: 394, 395]</p>
+			</assumptions>
+		</objective_question>
+		<objective_question number="5">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Numa determinada condição experimental e com o catalisador adequado, ocorre uma reação, conforme representada no gráfico, que relaciona porcentagem do composto pelo tempo de reação. </p>
+				<image src="out01-2.png"/>
+				<p>Uma representação adequada para esse processo é: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>limoneno → p-cimeno → α-terpineno</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>limoneno --(catalisador)--> p-cimeno + α-terpineno</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>limoneno + p-cimeno → α-terpineno</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>limoneno --(catalisador)--> α-terpineno + p-cimeno</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>limoneno → α-terpineno → p-cimeno</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="6">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Os chamados "remédios homeopáticos" são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais.  A dosagem utilizada desses produtos é da ordem de poucos mL. </p>
+				<p>Uma das técnicas de diluição homeopática é chamada de diluição centesimal (CH), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema). </p>
+				<p>Alguns desses produtos homeopáticos são produzidos com até 200 diluições centesimais sequenciais (200CH). </p>
+				<image src="out01-4.png"/>
+				<p>Considerando uma solução de partida de 100 mL com concentração 1 mol/L de princípio ativo, a partir de qual diluição centesimal a solução passa a não ter, em média, nem mesmo uma molécula do princípio ativo? </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>12ª diluição (12CH). </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>24ª diluição (24CH). </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>51ª diluição (51CH). </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>99ª diluição (99CH). </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>200ª diluição (200CH). </p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote: </p>
+				<p>Número de Avogadro = 6 x 10²³. </p>
+			</assumptions>
+		</objective_question>
+		<objective_question number="7">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>O gás hélio disponível comercialmente pode ser gerado pelo decaimento radioativo, sobretudo do urânio, conforme esquematizado pela série de decaimento. </p>
+				<p>Desde a formação da Terra, há 4,5 bilhões de anos, apenas metade do ²³⁸U decaiu para a formação de He. </p>
+				<image src="fuvest_2020_v_07_01.png"/>
+				<p>Com base nessas informações e em seus conhecimentos, é correto afirmar: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>O decaimento de um átomo de ²³⁸U produz, ao final da série de decaimento, apenas um átomo de He. </p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>O decaimento do ²³⁸U para ²³⁴U gera a mesma quantidade de He que o decaimento do ²³⁴U para ²³⁰Th. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Daqui a 4,5 bilhões de anos, a quantidade de He no planeta Terra será o dobro da atual. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>O decaimento do ²³⁸U para ²³⁴U gera a mesma quantidade de He que o decaimento do ²¹⁴Pb para ²¹⁴Po. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A produção de He ocorre pela sequência de decaimento a partir do ²⁰⁶Pb. </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="8">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Os movimentos das moléculas antes e depois de uma reação química obedecem aos princípios físicos de colisões. </p>
+				<p>Para tanto, cada átomo é representado como um corpo pontual com uma certa massa, ocupando uma posição no espaço e com uma determinada velocidade (representada na forma vetorial). </p>
+				<p>Costumeiramente, os corpos pontuais são representados como esferas com diâmetros proporcionais à massa atômica. </p>
+				<p>As colisões ocorrem conservando a quantidade de movimento. </p>
+				<p>Considerando um referencial no qual as moléculas neutras encontram-se paradas antes e após a colisão, a alternativa que melhor representa o arranjo de íons e moléculas instantes antes e instantes depois de uma colisão que leva à reação F⁻ + H₃CCl → CH₃F + Cl⁻ é [cite: 471, 472]</p>
+				<image src="out01-6.png"/>
+			</statement>
+			<options>
+				<option label="A" is_correct="false"/>
+				<option label="B" is_correct="false"/>
+				<option label="C" is_correct="false"/>
+				<option label="D" is_correct="true"/>
+				<option label="E" is_correct="false"/>
+			</options>
+			<assumptions>
+				<p>Note e adote: </p>
+				<p>Massas atômicas: H = 1 u.m.a., C = 12 u.m.a., F = 19 u.m.a. e Cl = 35 u.m.a. </p>
+				<p>Considere que apenas o isótopo de cloro Cl = 35 u.m.a. participa da reação. [cite: 484, 485]</p>
+			</assumptions>
+		</objective_question>
+		<objective_question number="9">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Quando o nosso corpo é lesionado por uma pancada, logo se cria um hematoma que, ao longo do tempo, muda de cor. </p>
+				<p>Inicialmente, o hematoma torna-se avermelhado pelo acúmulo de hemoglobina. Em seguida, surge uma coloração azulada, decorrente da perda do O₂ ligado ao Fe do grupo heme. </p>
+				<p>Essa coloração torna-se, então, esverdeada (biliverdina) e, após isso, surge um tom amarelado na pele (bilirrubina). </p>
+				<p>Essa sequência de cores ocorre pela transformação do grupo heme da hemoglobina, como representado a seguir: </p>
+				<image src="out01-5.png"/>
+				<p>Com base nas informações e nas representações, é correto afirmar: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>A conversão da biliverdina em bilirrubina ocorre por meio de uma redução. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>A biliverdina, assim como a hemoglobina, é capaz de transportar O₂ para as células do corpo, pois há oxigênio ligado na molécula. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>As três estruturas apresentadas contêm o grupo funcional amida. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>A degradação do grupo heme para a formação da biliverdina produz duas cetonas. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>O grupo heme, a biliverdina e a bilirrubina são isômeros. </p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	
+	
+		<question_group>
+		<objective_question number="10">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Em supermercados, é comum encontrar alimentos chamados de liofilizados, como frutas, legumes e carnes. Alimentos liofilizados continuam próprios para consumo após muito tempo, mesmo sem refrigeração.</p>
+				<p>O termo "liofilizado", nesses alimentos, refere-se ao processo de congelamento e posterior desidratação por sublimação da água. Para que a sublimação da água ocorra, é necessária uma combinação de condições, como mostra o gráfico de pressão por temperatura, em que as linhas representam transições de fases.</p>
+				<image src="out02-0.png"/>
+				<p>Apesar de ser um processo que requer, industrialmente, uso de certa tecnologia, existem evidências de que os povos pré-colombianos que viviam nas regiões mais altas dos Andes conseguiam liofilizar alimentos, possibilitando estocá-los por mais tempo.</p>
+				<p>Assinale a alternativa que explica como ocorria o processo de liofilização natural: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>A sublimação da água ocorria devido às baixas temperaturas e à alta pressão atmosférica nas montanhas. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Os alimentos, após congelados naturalmente nos períodos frios, eram levados para a parte mais baixa das montanhas, onde a pressão atmosférica era menor, o que possibilitava a sublimação. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Os alimentos eram expostos ao sol para aumentar a temperatura, e a baixa pressão atmosférica local favorecia a solidificação. </p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>As temperaturas eram baixas o suficiente nos períodos frios para congelar os alimentos, e a baixa pressão atmosférica nas altas montanhas possibilitava a sublimação. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Os alimentos, após congelados naturalmente, eram prensados para aumentar a pressão, de forma que a sublimação ocorresse. </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="11">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A reação de cetonas com hidrazinas, representada pela equação química </p>
+				<image src="out02-1.png"/>
+				<p>pode ser explorada para a quantificação de compostos cetônicos gerados, por exemplo, pela respiração humana. Para tanto, uma hidrazina específica, a 2,4-dinitrofenilhidrazina, é utilizada como reagente, gerando um produto que possui cor intensa.</p>
+				<image src="out02-2.png"/>
+				<p>Considere que a 2,4-dinitrofenilhidrazina seja utilizada para quantificar o seguinte composto: </p>
+				<image src="out02-3.png"/>
+				<p>Nesse caso, a estrutura do composto colorido formado será: </p>
+				<image src="out02-4.png"/>
+			</statement>
+			<options>
+				<option label="A" is_correct="false"/>
+				<option label="B" is_correct="false"/>
+				<option label="C" is_correct="false"/>
+				<option label="D" is_correct="true"/>
+				<option label="E" is_correct="false"/>
+			</options>
+		</objective_question>
+		<objective_question number="12">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Para exemplificar probabilidade, um grupo de estudantes fez uma atividade envolvendo química, conforme o procedimento descrito.</p>
+				<p>Cada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de HCl e NaOH em diversas concentrações.</p>
+				<p>Cada estudante deveria jogar apenas uma vez dois dados, um amarelo e um vermelho, ambos contendo os números de 1 a 6.</p>
+				<ul>
+					<li>Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração $10^{-n}$ mol/L, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de $10^{-1}$ mol/L; se saísse 6, a solução seria de $10^{-6}$ mol/L).</li>
+					<li>Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por NaOH, totalizando assim 1,0 L de solução.</li>
+					<li>O estudante deveria observar a cor da solução ao final do experimento.</li>
+				</ul>
+				<p>A professora mostrou a tabela com alguns valores de pH resultantes conforme os números tirados nos dados. Ela pediu, então, aos estudantes que utilizassem seus conhecimentos e a tabela para prever em quais combinações de dados a cor final do indicador seria vermelha.</p>
+				<image src="out02-7.png"/>
+				<p>A probabilidade de, após realizar o procedimento descrito, a solução final preparada por um estudante ser vermelha é de: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>1/12 </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>1/6 [cite: 121, 123]</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>1/4 [cite: 122, 124]</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>11/36 </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>5/12 </p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote: </p>
+				<p>Considere a seguinte relação entre pH do meio e coloração do indicador alaranjado de metila: </p>
+				<image src="out02-8.png"/>
+			</assumptions>
+		</objective_question>
+		<objective_question number="13">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Carros que saem da cidade A rumo a alguma das cidades turísticas E, F e G fazem caminhos diversos, passando por pelo menos uma das cidades B, C e D, apenas no sentido indicado pelas setas, como mostra a figura. Os números indicados nas setas são as probabilidades, dentre esses carros, de se ir de uma cidade a outra.</p>
+				<image src="out02-5.png"/>
+				<p>Nesse cenário, a probabilidade de um carro ir de A a F é </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>0,120. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>0,216. </p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>0,264. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>0,336. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>0,384. </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="14">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Se, em 15 anos, o salário mínimo teve um aumento nominal de 300% e a inflação foi de 100%, é correto afirmar que o aumento real do salário mínimo, nesse período, foi de </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>50%. </p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>100%. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>150%. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>200%. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>250%. </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="15">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>O cilindro de papelão central de uma fita crepe tem raio externo de 3 cm. A fita tem espessura de 0,01 cm e dá 100 voltas completas.</p>
+				<image src="out02-6.png"/>
+				<p>Considerando that, a cada volta, o raio externo do rolo é aumentado no valor da espessura da fita, o comprimento total da fita é de, aproximadamente, [cite: 130, 131, 134]</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>9,4 m. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>11,0 m. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>18,8 m. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>22,0 m. </p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>25,1 m. </p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote: </p>
+				<p>π ≅ 3,14. </p>
+			</assumptions>
+		</objective_question>
+		<objective_question number="16">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam-se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada configuração desse objeto, associa-se θ, a medida do menor ângulo interno do paralelogramo. A área da região delimitada pelo paralelogramo quando $\theta = 90^{\circ}$ é A.</p>
+				<p>Para que a área da região delimitada pelo paralelogramo seja A/2, o valor de θ é, necessariamente, igual a </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>$15^{\circ}$. [cite: 167, 168]</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>$22,5^{\circ}$. </p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>$30^{\circ}$. [cite: 170, 171]</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>$45^{\circ}$. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>$60^{\circ}$. [cite: 173, 175]</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="17">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A menor esfera na qual um paralelepípedo reto-retângulo de medidas 7 cm x 4 cm x 4 cm está inscrito tem diâmetro de </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>9 cm. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>10 cm. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>11 cm. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>12 cm. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>15 cm. </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="18">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A dona de uma lanchonete observou que, vendendo um combo a R$ 10,00, 200 deles são vendidos por dia, e que, para cada redução de R$ 1,00 nesse preço, ela vende 100 combos a mais.</p>
+				<p>Nessas condições, qual é a máxima arrecadação diária que ela espera obter com a venda desse combo? </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>R$ 2.000,00 </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>R$ 3.200,00 </p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>R$ 3.600,00 </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>R$ 4.000,00 </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>R$ 4.800,00 </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="19">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A função E de Euler determina, para cada número natural n, a quantidade de números naturais menores do que n cujo máximo divisor comum com n é igual a 1. Por exemplo, E(6)=2 pois os números menores do que 6 com tal propriedade são 1 e 5. Qual o valor máximo de E(n), para n de 20 a 25? </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>19 </p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>20 </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>22 </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>24 </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>25 </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="20">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Se $3x^2 - 9x + 7 = (x-a)^3 - (x-b)^3$, para todo número real x, o valor de $a+b$ é </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>3. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>5. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>6. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>9. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>12. </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="21">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Uma agência de turismo vendeu um total de 78 passagens para os destinos: Lisboa, Paris e Roma. Sabe-se que o número de passagens vendidas para Paris foi o dobro do número de passagens vendidas para os outros dois destinos conjuntamente. Sabe-se também que, para Roma, foram vendidas duas passagens a mais que a metade das vendidas para Lisboa.</p>
+				<p>Qual foi o total de passagens vendidas, conjuntamente, para Paris e Roma? </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>26 </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>38 </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>42 </p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>62 </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>68 </p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="22">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um ponto (x, y) do plano cartesiano pertence ao conjunto F se é equidistante dos eixos OX e OY e pertence ao círculo de equação $x^2 + y^2 - 2x - 6y + 2 = 0$. É correto afirmar que F </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>é um conjunto vazio. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>tem exatamente 2 pontos, um no primeiro quadrante e outro no segundo quadrante. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>tem exatamente 2 pontos, ambos no primeiro quadrante. </p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>tem exatamente 3 pontos, sendo dois no primeiro quadrante e outro no segundo quadrante. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>tem exatamente 4 pontos, sendo dois no primeiro quadrante e dois no segundo quadrante. </p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	
+		<question_group>
+		<objective_question number="23">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Uma cidade é dividida em dois Setores: o Setor Sul, com área de $10~km^2$, e o Setor Norte, com área de $30~km^2$. Após um final de semana, foram divulgados os seguintes totais pluviométricos:</p>
+				<table>
+					<header>
+						<cell>
+							<p>Dia</p>
+						</cell>
+						<cell>
+							<p>Sul</p>
+						</cell>
+						<cell>
+							<p>Norte</p>
+						</cell>
+					</header>
+					<row>
+						<cell>
+							<p>sábado</p>
+						</cell>
+						<cell>
+							<p>7 mm</p>
+						</cell>
+						<cell>
+							<p>11 mm</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>domingo</p>
+						</cell>
+						<cell>
+							<p>9 mm</p>
+						</cell>
+						<cell>
+							<p>17 mm</p>
+						</cell>
+					</row>
+				</table>
+				<p>É correto afirmar que o total pluviométrico desse final de semana na cidade inteira foi de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>15 mm.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>17 mm.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>22 mm.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>25 mm.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>28 mm.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="24">
+			<classification subject="Unknown"/>
+			<statement>
+				<image src="out03-0.png"/>
+				<cite>Bill Waterson, Calvin and Hobbes. Disponível em https://www.gocomics.com/.</cite>
+				<p>As possíveis soluções, em polegadas (inches, em inglês), para o problema matemático proposto no quadrinho, no caso em que os pontos A, B e C estão em uma mesma reta, são</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>5/3 e 10.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>10/3, 5 e 10.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>5/3, 10/3 e 10.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>5/3 e 10.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>10/3 e 5.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<context>
+			<header>TEXTO PARA AS QUESTÕES DE 25 A 27</header>
+			<p>Assigning female genders to digital assistants such as Apple's Siri and Amazon's Alexa is helping entrench harmful gender biases, according to a UN agency.</p>
+			<p>Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries - including outright abusive ones - reinforce ideas of women as subservient.</p>
+			<p>"Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager-to-please helpers, available at the touch of a button or with a blunt voice command like 'hey' or 'OK'", the report said.</p>
+			<p>"The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment."</p>
+			<p>The Unesco publication was entitled "I'd Blush if I Could"; a reference to the response Apple's Siri assistant offers to the phrase: "You're a slut." Amazon's Alexa will respond: "Well, thanks for the feedback."</p>
+			<p>The paper said such firms were "staffed by overwhelmingly male engineering teams" and have built Al (Artificial Intelligence) systems that "cause their feminised digital assistants to greet verbal abuse with catch-me-if-you-can flirtation".</p>
+			<p>Saniye Gülser Corat, Unesco's director for gender equality, said: "The world needs to pay much closer attention to how, when and whether Al technologies are gendered and, crucially, who is gendering them."</p>
+			<cite>The Guardian, May, 2019. Adaptado.</cite>
+		</context>
+		<objective_question number="25">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Conforme o texto, em relação às mulheres, um efeito decorrente do fato de assistentes digitais reforçarem estereótipos de gênero é</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a inclusão de uma única voz nos dispositivos.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>a normalização de formas de assédio sexista.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>o poder de influência positiva sobre as pessoas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o incremento de vendas e customização de robôs.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a busca por formas que reflitam problemas sociais.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="26">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Segundo o texto, o título do relatório publicado pela Unesco "I'd Blush if I Could", no que diz respeito aos assistentes digitais, indica</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>resposta padrão para comandos que incluem impropérios.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>capacidade tecnológica para selecionar temas sensíveis ao grande público.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>preocupação dos fabricantes de dispositivos eletrônicos com usuários conservadores.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>perda de controle das formas de interação entre seres humanos e máquinas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>necessidade de elaboração de sistemas integrados de reconhecimento de voz.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="27">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>De acordo com o texto, na opinião de Saniye Gülser Corat, tecnologias que envolvem Inteligência Artificial, entre outros aspectos,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>são desenvolvidas segundo normas prescritas em convenções internacionais.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>devem ser monitoradas por empresas multinacionais geridas por mulheres.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>funcionam melhor quando associadas a dispositivos sincronizados em escala mundial.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>dependem de atualização constante para garantia de desempenho satisfatório.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>requerem avaliação ampla, quanto à possível presença de elementos tendenciosos em sua concepção.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<objective_question number="28">
+			<classification subject="Unknown"/>
+			<statement>
+				<image src="out03-1.png"/>
+				<cite>Disponível em https://www.facebook.com/groups/englishmemes/.</cite>
+				<p>O efeito de comicidade que se obtém do meme decorre, sobretudo, da</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>repetição da palavra "never".</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>ambiguidade gerada pela expressão "buy her flowers".</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>asserção "your wife says".</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>contradição presente na frase "To be honest".</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>pergunta "is that true?".</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<context>
+			<header>TEXTO PARA AS QUESTÕES 29 E 30</header>
+			<p>Scientists have long touted DNA's potential as an ideal storage medium; it's dense, easy to replicate, and stable over millennia.</p>
+			<p>But in order to replace existing silicon-chip or magnetic-tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package.</p>
+			<p>That's where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA-storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA.</p>
+			<p>If successful, DNA storage could be the answer to a uniquely 21st-century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip-grade silicon by 2040.</p>
+			<p>"Today's technology is already close to the physical limits of scaling," says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. "DNA has an information-storage density several orders of magnitude higher than any other known storage technology."</p>
+			<p>How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years.</p>
+			<cite>Wired, June, 2018. Disponível em https://www.wired.com/. Adaptado.</cite>
+		</context>
+		<objective_question number="29">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Afirma-se no texto que, no futuro, a tecnologia de gravação em moléculas de DNA</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>será utilizada para sequenciar trilhões de moléculas destinadas à pesquisa médica.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>deverá ter seu uso expandido no campo da genética e áreas afins.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>continuará sendo inviável comparada a tecnologias convencionais.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>terá de ser adaptada para o propósito de ler, codificar e guardar dados.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>poderá ser a solução para o problema de espaço de armazenamento de informação digital.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="30">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Conforme o texto, cientistas preveem que, em pouco mais de 20 anos,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a geração de dados pela humanidade chegará à marca de 160 zettabytes.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>a armazenagem de todos os dados produzidos esgotará o estoque mundial de microchips de silício.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a densidade das moléculas de DNA terá aumentado exponencialmente.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o custo para gravação de dados digitais será maior que hoje.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>as novas tecnologias de informação serão bem mais duradouras que as atuais.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	
+	
+		<question_group>
+		<objective_question number="31">
+			<classification subject="Unknown"/>
+			<statement>
+				<verse>
+					<title>Harlem</title>
+					<p>What happens to a dream deferred?</p>
+					<p>Does it dry up</p>
+					<p>like a raisin in the sun?</p>
+					<p>Or fester like a sore—</p>
+					<p>And then run?</p>
+					<p>Does it stink like rotten meat?</p>
+					<p>Or crust and sugar over—</p>
+					<p>like a syrupy sweet?</p>
+					<p>Maybe it just sags</p>
+					<p>like a heavy load.</p>
+					<p>Or does it explode?</p>
+				</verse>
+				<cite>Langston Hughes, Selected Poems of Langston Hughes (1990). Disponível em http://www.poetryfoundation.org/.</cite>
+				<p>As tentativas de resposta do poeta à pergunta "What happens to a dream deferred?" evocam imagens de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>animosidade e revolta.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>remorso e compaixão.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>deterioração e destruição.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>empatia e complacência.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>aprisionamento e passividade.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<context>
+			<header>TEXTOS PARA AS QUESTÕES DE 33 A 35</header>
+			<quote>
+				<p>Os textos literários são obras de discurso, a que falta a imediata referencialidade da linguagem corrente; poéticos, abolem, "destroem" o mundo circundante, cotidiano, graças à função irrealizante da imaginação que os constrói. E prendem-nos na teia de sua linguagem, a que devem o poder de apelo estético que nos enleia; seduz-nos o mundo outro, irreal, neles configurado (...). No entanto, da adesão a esse "mundo de papel", quando retornamos ao real, nossa experiência, ampliada e renovada pela experiência da obra, à luz do que nos revelou, possibilita redescobri-lo, sentindo-o e pensando-o de maneira diferente e nova. A ilusão, a mentira, o fingimento da ficção, aclara o real ao desligar-se dele, transfigurando-o; e aclara-o já pelo insight que em nós provocou.</p>
+				
+			</quote>
+			<cite>Benedito Nunes, "Ética e leitura", de Crivo de Papel.</cite>
+			<quote>
+				<p>O que eu precisava era ler um romance fantástico, um romance besta, em que os homens e as mulheres fossem criações absurdas, não andassem magoando-se, traindo-se. Histórias fáceis, sem almas complicadas. Infelizmente essas leituras já não me comovem.</p>
+				
+			</quote>
+			<cite>Graciliano Ramos, Angústia.</cite>
+			<quote>
+				<p>Romance desagradável, abafado, ambiente sujo, povoado de ratos, cheio de podridões, de lixo. Nenhuma concessão ao gosto do público. Solilóquio doido, enervante.</p>
+				
+			</quote>
+			<cite>Graciliano Ramos, Memórias do Cárcere, em nota a respeito de seu livro Angústia.</cite>
+			<verse>
+				<p>(...)</p>
+				<p>Cantiga de enganar</p>
+				<p>O mundo não tem sentido.</p>
+				<p>O mundo e suas canções</p>
+				<p>de timbre mais comovido</p>
+				<p>estão calados, e a fala</p>
+				<p>que de uma para outra sala</p>
+				<p>ouvimos em certo instante</p>
+				<p>é silêncio que faz eco</p>
+				<p>e que volta a ser silêncio</p>
+				<p>no negrume circundante.</p>
+				<p>Silêncio: que quer dizer?</p>
+				<p>Que diz a boca do mundo?</p>
+				<p>Meu bem, o mundo é fechado,</p>
+				<p>se não for antes vazio.</p>
+				<p>O mundo é talvez: e é só.</p>
+				<p>Talvez nem seja talvez.</p>
+				<p>O mundo não vale a pena,</p>
+				<p>mas a pena não existe.</p>
+				<p>Meu bem, façamos de conta.</p>
+				<p>De sofrer e de olvidar,</p>
+				<p>de lembrar e de fruir,</p>
+				<p>de escolher nossas lembranças</p>
+				<p>e revertê-las, acaso</p>
+				<p>se lembrem demais em nós.</p>
+				<p>Façamos, meu bem, de conta</p>
+				<p>- mas a conta não existe -</p>
+				<p>que é tudo como se fosse,</p>
+				<p>ou que, se fora, não era.</p>
+				<p>(...)</p>
+				
+			</verse>
+			<cite>Carlos Drummond de Andrade, Claro Enigma.</cite>
+		</context>
+		<objective_question number="32">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Em Claro Enigma, a ideia de engano surge sob a perspectiva do sujeito maduro, já afastado das ilusões, como se lê no verso-síntese "Tu não me enganas, mundo, e não te engano a ti." ("Legado"). O excerto de "Cantiga de enganar" apresenta a relação do eu com o mundo mediada</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>pela música, que ressoa em canções líricas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>pela cor, brilhante na claridade solar.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>pela afirmação de valores sólidos.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>pela memória, que corre fluida no tempo.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>pelo despropósito de um faz-de-conta.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="33">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>O argumento de Benedito Nunes, em torno da natureza artística da literatura, leva a considerar que a obra só assume função transformadora se</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>estabelece um contraponto entre a fantasia e o mundo.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>utiliza a linguagem para informar sobre o mundo.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>instiga no leitor uma atitude reflexiva diante do mundo.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>oferece ao leitor uma compensação anestesiante do mundo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>conduz o leitor a ignorar o mundo real.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="34">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Se o discurso literário "aclara o real ao desligar-se dele, transfigurando-o", pode-se dizer que Luís da Silva, o narrador-protagonista de Angústia, já não se comove com a leitura de "histórias fáceis, sem almas complicadas" porque</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>rejeita, como jornalista, a escrita de ficção.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>prefere alienar-se com narrativas épicas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>é indiferente às histórias de fundo sentimental.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>está engajado na militância política.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>se afunda na negatividade própria do fracassado.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="35">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Para Graciliano Ramos, Angústia não faz concessão ao gosto do público na medida em que compõe uma atmosfera</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>dramática, ao representar as tensões de seu tempo.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>grotesca, ao eliminar a expressão individual.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>satírica, ao reduzir os eventos ao plano do riso.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>ingênua, ao simular o equilíbrio entre sujeito e mundo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>alegórica, ao exaltar as imagens de sujeira.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<objective_question number="36">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Leia o trecho extraído de uma notícia veiculada na internet:</p>
+				<quote>
+					<p>"O carro furou o pneu e bateu no meio fio, então eles foram obrigados a parar. O refém conseguiu acionar a população, que depois pegou dois dos três indivíduos e tentaram linchar eles. O outro conseguiu fugir, mas foi preso moments depois por uma viatura do 5º BPM", afirmou o major.</p>
+				</quote>
+				<cite>Disponível em https://www.gp1.com.br/.</cite>
+				<p>No português do Brasil, a função sintática do sujeito não possui, necessariamente, uma natureza de agente, ainda que o verbo esteja na voz ativa, tal como encontrado em:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>"O carro furou o pneu".</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>"e bateu no meio fio".</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>"O refém conseguiu acionar a população".</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>"tentaram linchar eles".</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>"afirmou o major".</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<context>
+			<header>TEXTO PARA AS QUESTÕES 37 E 38</header>
+			<verse>
+				<title>amora</title>
+				<p>a palavra amora</p>
+				<p>seria talvez menos doce</p>
+				<p>e um pouco menos vermelha</p>
+				<p>se não trouxesse em seu corpo</p>
+				<p>(como um velado esplendor)</p>
+				<p>a memória da palavra amor</p>
+				<p>a palavra amargo</p>
+				<p>seria talvez mais doce</p>
+				<p>e um pouco menos acerba</p>
+				<p>se não trouxesse em seu corpo</p>
+				<p>(como uma sombra a espreitar)</p>
+				<p>a memória da palavra amar</p>
+			</verse>
+			<cite>Marco Catalão, Sob a face neutra.</cite>
+		</context>
+		<objective_question number="37">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>É correto afirmar que o poema</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>aborda o tema da memória, considerada uma faculdade que torna o ser humano menos amargo e sombrio.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>enfoca a hesitação do eu lírico diante das palavras, o que vem expresso pela repetição da palavra "talvez".</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>apresenta natureza romântica, sendo as palavras "amora" e "amargo" metáforas do sentimento amoroso.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>possui reiterações sonoras que resultam em uma tensão inusitada entre os termos "amor" e "amar".</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>ressalta os significados das palavras tal como se verificam no seu uso mais corrente.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="38">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Tal como se lê no poema,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a palavra "amora" é substantivo, e "amargo", adjetivo.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o verbo "amar" ameniza o amargor da palavra "amargo".</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>o substantivo "corpo" apresenta sentido denotativo.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>o substantivo "amor" intensifica o dulçor da palavra "amora".</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o verbo "amar" e o substantivo "amor" são intercambiáveis.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<context>
+			<header>TEXTO PARA AS QUESTÕES 39 E 40</header>
+			<verse>
+				<p>Uma planta é perturbada na sua sesta* pelo exército que a pisa.</p>
+				<p>Mas mais frágil fica a bota.</p>
+			</verse>
+			<cite>Gonçalo M. Tavares, 1: poemas.</cite>
+			<p>*sesta: repouso após o almoço.</p>
+		</context>
+		<objective_question number="39">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Considerando que se trata de um texto literário, uma interpretação que seja capaz de captar a sua complexidade abordará o poema como</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>uma defesa da natureza.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>um ataque às forças armadas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>uma defesa dos direitos humanos.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>uma defesa da resistência civil.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>um ataque à passividade.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="40">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>O ditado popular que se relaciona melhor com o poema é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Para bom entendedor, meia palavra basta.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>Água mole em pedra dura tanto bate até que fura.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Quem com ferro fere, com ferro será ferido.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Um dia é da caça, o outro é do caçador.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Uma andorinha só não faz verão.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<objective_question number="41">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>O Twitter é uma das redes sociais mais importantes no Brasil e no mundo. (...) Um estudo identificou que as fake news são 70% mais propensas a serem retweetadas do que fatos verdadeiros. (...) Outra conclusão importante do trabalho diz respeito aos famosos bots: ao contrário do que muitos pensam, esses robôs não são os grandes responsáveis por disseminar notícias falsas. Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.</p>
+				<cite>Super Interessante, "No Twitter, fake news se espalham 6 vezes mais rápido que notícias verdadeiras". Maio/2019.</cite>
+				<p>No período "Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.", os dois-pontos são utilizados para introduzir uma</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>conclusão.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>concessão.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>explicação.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>contradição.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>condição.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	
+	
+		<question_group>
+		<objective_question number="42">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>Agora, o Manuel Fulô, este, sim! Um sujeito pingadinho, quase menino "pepino que encorujou desde pequeno" - cara de bobo de fazenda, do segundo tipo -; porque toda fazenda tem o seu bobo, que é, ou um velhote baixote, de barba rara no queixo, ou um eterno rapazola, meio surdo, gago, glabro* e alvar**. Mas gostava de fechar a cara e roncar voz, todo enfarruscado, para mostrar brabeza, e só por descuido sorria, um sorriso manhoso de dono de hotel. E, em suas feições de caburé*** insalubre, amigavam-se as marcas do sangue aimoré e do gálico herdado: cabelo preto, corrido, que boi lambeu; dentes de fio em meia-lua; malares pontudos; lobo da orelha aderente; testa curta, fugidia; olhinhos de viés e nariz peba, mongol.</p>
+				</quote>
+				<cite>Guimarães Rosa, "Corpo fechado", de Sagarana.</cite>
+				<p>*sem pelos, sem barba **tolo ***mestiço</p>
+				<p>O retrato de Manuel Fulô, tal como aparece no fragmento, permite afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>há clara antipatia do narrador para com a personagem, que por isso é caracterizada como "bobo de fazenda".</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>estão presentes traços de diferentes etnias, de modo a refletir a mescla de culturas própria ao estilo do livro.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a expressão "caburé insalubre" denota o determinismo biológico que norteia o livro.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>é irônico o trecho "para mostrar brabeza", pois ao fim da narrativa Manuel Fulô sofre derrota na luta física.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>se apontam em sua fisionomia os "olhinhos de viés" para caracterizar a personagem como ingênua.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="43">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>O feminismo negro não é uma luta meramente identitária, até porque branquitude e masculinidade também são identidades. Pensar feminismos negros é pensar projetos democráticos. Hoje afirmo isso com muita tranquilidade, mas minha experiência de vida foi marcada pelo incômodo de uma incompreensão fundamental. Não que eu buscasse respostas para tudo. Na maior parte da minha infância e adolescência, não tinha consciência de mim. Não sabia por que sentia vergonha de levantar a mão quando a professora fazia uma pergunta já supondo que eu não saberia a resposta. Por que eu ficava isolada na hora do recreio. Por que os meninos diziam na minha cara que não queriam formar par com a "neguinha" na festa junina. Eu me sentia estranha e inadequada, e, na maioria das vezes, fazia as coisas no automático, me esforçando para não ser notada.</p>
+				</quote>
+				<cite>Djamila Ribeiro, Quem tem medo do feminismo negro?.</cite>
+				<p>O trecho que melhor define a "incompreensão fundamental" (L.6) referida pela autora é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>"não que eu buscasse respostas para tudo" (L.6-7).</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>"não tinha consciência de mim" (L.8).</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>"Por que eu ficava isolada na hora do recreio" (L.10-11).</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>"me esforçando para não ser notada" (L.15).</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>"sentia vergonha de levantar a mão" (L.8-9).</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<context>
+			<header>TEXTO PARA AS QUESTÕES 44 E 45</header>
+			<quote>
+				<p>E Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, também ela comia bem, dormia largo e fofo, coisas que, aliás, não impedem que uma pessoa ame, quando quer amar. Se esta última reflexão é o motivo secreto da vossa pergunta, deixai que vos diga que sois muito indiscreta, e que eu não me quero senão com dissimulados.</p>
+				<p>Repito, comia bem, dormia largo e fofo. Chegara ao fim da comissão das Alagoas, com elogios da imprensa; a Atalaia chamou-lhe "o anjo da consolação". E não se pense que este nome a alegrou, posto que a lisonjeasse; ao contrário, resumindo em Sofia toda a ação da caridade, podia mortificar as novas amigas, e fazer-lhe perder em um dia o trabalho de longos meses. Assim se explica o artigo que a mesma folha trouxe no número seguinte, nomeando, particularizando e glorificando as outras comissárias "estrelas de primeira grandeza".</p>
+			</quote>
+			<cite>Machado de Assis, Quincas Borba.</cite>
+		</context>
+		<objective_question number="44">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>No excerto, o autor recorre à intertextualidade, dialogando com a comédia de Molière, Tartufo (1664), cuja personagem central é um impostor da fé. Tal é a fama da peça que o nome próprio se incorporou ao vocabulário, inclusive em português, como substantivo comum, para designar o "indivíduo hipócrita" ou o "falso devoto". No contexto maior do romance, sugere-se que a tartufice</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>se cola à imagem da leitora, indiscreta quanto aos amores alheios.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>é ação isolada de Sofia, arrivista social e benemérita fingida.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>diz respeito ao filósofo Quincas Borba, o que explica o título do livro.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>se produz na imprensa, apesar de esta se esquivar da eloquência vazia.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>se estende à sociedade, na qual o cinismo é o trunfo dos fortes.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="45">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Considerando o contexto, o trecho "E não se pense que este nome a alegrou, posto que a lisonjeasse" (L.10-11) pode ser reescrito, sem prejuízo de sentido, da seguinte maneira: E não se pense que este nome a alegrou,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>apesar de lisonjeá-la.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>antes a lisonjeou.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>porque a lisonjeava.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a fim de lisonjeá-la.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>tanto quanto a lisonjeava.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<objective_question number="46">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>Hoje fizeram o enterro de Bela. Todos na Chácara se convenceram de que ela estava morta, menos eu. Se eu pudesse não deixaria enterrá-la ainda. Disse isso mesmo a vovó, mas ela disse que não se pode fazer assim. Bela estava igualzinha à que ela era no dia em que chegou da Formação, só um pouquinho mais magra. Todos dizem que o sofrimento da morte é a luta da alma para se largar do corpo. Eu perguntei a vovó: "Como é que a alma dela saiu sem o menor sofrimento, sem ela fazer uma caretinha que fosse?". Vovó disse que tudo isso é mistério, que nunca a gente pode saber essas coisas com certeza. Uns sofrem muito quando a alma se despega do corpo, outros morrem de repente sem sofrer.</p>
+					
+				</quote>
+				<cite>Helena Morley, Minha Vida de Menina.</cite>
+				<verse>
+					<title>Perguntas</title>
+					<p>Numa incerta hora fria</p>
+					<p>perguntei ao fantasma</p>
+					<p>que força nos prendia,</p>
+					<p>ele a mim, que presumo</p>
+					<p>estar livre de tudo</p>
+					<p>eu a ele, gasoso,</p>
+					<p>(...)</p>
+					<p>No voo que desfere</p>
+					<p>silente e melancólico,</p>
+					<p>rumo da eternidade,</p>
+					<p>ele apenas responde</p>
+					<p>(se acaso é responder</p>
+					<p>a mistérios, somar-lhes</p>
+					<p>um mistério mais alto):</p>
+					<p>Amar, depois de perder.</p>
+					
+				</verse>
+				<cite>Carlos Drummond de Andrade, Claro Enigma.</cite>
+				<p>As perguntas da menina e do poeta versam sobre a morte. É correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>ambos guardam uma dimensão transcendente e católica, de origem mineira.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>ambos ouvem respostas que lhes esclarecem em definitivo as dúvidas existenciais.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>a menina mostra curiosidade acerca da morte como episódio e o poeta especula o sentido filosófico da morte.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a menina está inquieta por conhecer o destino das almas, enquanto o poeta critica o ceticismo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>as duas respostas reforçam os mistérios da vida ao acolherem crenças populares.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="47">
+			<classification subject="Unknown"/>
+			<statement>
+				<verse>
+					<title>A certa personagem desvanecida</title>
+					<p>Um soneto começo em vosso gabo*:</p>
+					<p>Contemos esta regra por primeira,</p>
+					<p>Já lá vão duas, e esta é a terceira,</p>
+					<p>Já este quartetinho está no cabo.</p>
+					<p>Na quinta torce agora a porca o rabo;</p>
+					<p>A sexta vá também desta maneira:</p>
+					<p>Na sétima entro já com grã** canseira,</p>
+					<p>E saio dos quartetos muito brabo.</p>
+					<p>Agora nos tercetos que direi?</p>
+					<p>Direi que vós, Senhor, a mim me honrais</p>
+					<p>Gabando-vos a vós, e eu fico um rei.</p>
+					<p>Nesta vida um soneto já ditei;</p>
+					<p>Se desta agora escapo, nunca mais:</p>
+					<p>Louvado seja Deus, que o acabei.</p>
+					
+				</verse>
+				<cite>Gregório de Matos</cite>
+				<p>*louvor **grande</p>
+				<verse>
+					<title>Tipo zero</title>
+					<p>Você é um tipo que não tem tipo</p>
+					<p>Com todo tipo você se parece</p>
+					<p>E sendo um tipo que assimila tanto tipo</p>
+					<p>Passou a ser um tipo que ninguém esquece</p>
+					<p>Quando você penetra num salão</p>
+					<p>E se mistura com a multidão</p>
+					<p>Você se torna um tipo destacado</p>
+					<p>Desconfiado todo mundo fica</p>
+					<p>Que o seu tipo não se classifica</p>
+					<p>Você passa a ser um tipo desclassificado</p>
+					<p>Eu até hoje nunca vi nenhum</p>
+					<p>Tipo vulgar tão fora do comum</p>
+					<p>Que fosse um tipo tão observado</p>
+					<p>Você ficou agora convencido</p>
+					<p>Que o seu tipo já está batido</p>
+					<p>Mas o seu tipo é o tipo do tipo esgotado</p>
+					
+				</verse>
+				<cite>Noel Rosa</cite>
+				<p>O soneto de Gregório de Matos e o samba de Noel Rosa, embora distantes na forma e no tempo, aproximam-se por ironizarem</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>o processo de composição do texto.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a própria inferioridade ante o retratado.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>a singularidade de um caráter nulo.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o sublime que se oculta na vulgaridade.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a intolerância para com os gênios.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<context>
+			<header>TEXTO PARA AS QUESTÕES 48 E 49</header>
+			<quote>
+				<p>Óbitos por cepas de bactérias resistentes a antibióticos vêm crescendo. Um estudo do governo britânico estima que, em escala global, os óbitos por cepas resistentes já cheguem a 700 mil por ano. E as coisas têm piorado. Além das bactérias, já estão surgindo fungos resistentes, como a Candida auris. Qualquer solução passa por um esforço multinacional de ações coordenadas. O crescente número de governos isolacionistas e até antidarwinistas não dá razões para otimismo. Há urgência. O estudo britânico calcula que, se nada for feito, em 2050, as mortes por infecções resistentes chegarão a 10 milhões ao ano.</p>
+			</quote>
+			<cite>Hélio Schwartsman, "Mortes anunciadas". Folha de São Paulo, Abril/2019. Adaptado.</cite>
+		</context>
+		<objective_question number="48">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>O autor expressa preocupação com o fato de que as soluções para o problema apontado passam por um esforço multinacional, em face ao crescente número de governos isolacionistas, porque</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>áreas de menor índice de desenvolvimento socioeconômico são as únicas atingidas devido à falta de recursos empregados em saúde e educação.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>as cepas resistentes surgem exclusivamente nos países que se negam a aderir a acordos sanitários comuns, constituindo ameaças globais.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>desafios atuais em meio ambiente e saúde são globais e soluções dependem da adesão de cada país aos protocolos internacionais.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o comércio internacional é o principal responsável por espalhar doenças nesses países, tornando-os vulneráveis, apesar de os programas de vacinação terem alcance mundial.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a pesquisa nesta área é de âmbito nacional e, portanto, novas drogas não terão alcance mundial, mas apenas regional.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="49">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Várias espécies do gênero Candida, que pertence ao grupo de fungos unicelulares, reproduzem-se por brotamento (gemulação), espalhando-se rapidamente. No grupo dos fungos pluricelulares, a rápida colonização de novos ambientes deve-se, em grande parte, ao fato de que esse grupo possui</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>esporos haploides que germinam e colonizam o ambiente.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>reprodução assexuada, produzindo descendentes que são genotipicamente diferentes.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>zigotos haploides que crescem aceleradamente com mitoses sucessivas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>cistos de resistência que encapsulam adultos diploides.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>fases autotróficas, podendo viver sem disponibilidade de alimento externo.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	<question_group>
+		<objective_question number="50">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Boa parte da floresta amazônica brasileira cresce sobre solos pobres. Sua exuberância, portanto, deve-se ao fato de que uma grande proporção dos nutrientes advindos da própria floresta retorna à vegetação. Quando se derruba a floresta de uma área de dezenas de quilômetros quadrados e, em seguida, ateia-se fogo no local como preparo para o plantio, esse ciclo é interrompido, o que causa uma série de efeitos.</p>
+				<p>Identifique corretamente a relação dos efeitos mencionados em I, II e III com a derrubada e a queima da floresta.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>I - Diminuição de curto prazo da fertilidade do solo pela queima da vegetação. II - Perda de biodiversidade pelo efeito direto do fogo sobre os animais silvestres. III - Diminuição da evaporação da água da chuva que atinge o solo exposto.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>I - Aumento de curto prazo da fertilidade do solo pelo efeito direto do calor do fogo sobre o solo superficial. II - Diminuição da diversidade de animais silvestres devido à remoção da vegetação. III - Diminuição da temperatura do solo exposto como efeito direto da remoção da vegetação.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>I - Aumento de curto prazo da fertilidade do solo pela deposição de cinzas. II - Perda de biodiversidade devido à remoção da vegetação. III - Aumento temporário da evaporação da água da chuva que atinge o solo exposto.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>I - Aumento de curto prazo da fertilidade do solo pelo efeito direto do calor do fogo sobre o solo superficial. II - Perda de biodiversidade pelo efeito direto do fogo sobre a vegetação. III - Diminuição temporária de absorção da água da chuva pelo solo exposto.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>I - Aumento de longo prazo da fertilidade do solo pela deposição de cinzas. II - Aumento da diversidade de animais silvestres devido à remoção da vegetação. III - Aumento da erosão do solo exposto devido à remoção da vegetação.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	
+	
+		<question_group>
+		<objective_question number="51">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Qual das curvas representa o crescimento de um inseto hemimetábolo, desde seu nascimento até a fase adulta?</p>
+				<image src="out06-1.png"/>
+			</statement>
+			<options>
+				<option label="A" is_correct="false"/>
+				<option label="B" is_correct="false"/>
+				<option label="C" is_correct="false"/>
+				<option label="D" is_correct="false"/>
+				<option label="E" is_correct="true"/>
+			</options>
+		</objective_question>
+		<objective_question number="52">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Analise o esquema de uma célula adulta.</p>
+				<image src="out06-4.png"/>
+				<p>As estruturas I, II, III e IV caracterizam-se pela presença, respectivamente, de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>glicídeo, lipídeo, água e ácido nucleico.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>proteína, glicídeo, água e ácido nucleico.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>lipídeo, proteína, glicídeo e ácido nucleico.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>lipídeo, glicídeo, ácido nucleico e água.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>glicídeo, proteína, ácido nucleico e água.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="53">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Analise a seguinte genealogia de uma doença:</p>
+				<image src="out06-0.png"/>
+				<p>Foi levantada a hipótese de que a doença possui padrão de herança dominante ligada ao cromossomo X. O que levou a tal conclusão foi a</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>incidência da doença em mulheres e homens.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>transmissão do alelo mutante apenas às filhas de um homem afetado.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>presença de pessoas afetadas em todas as gerações.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>transmissão do alelo mutante às filhas e aos filhos de uma mulher afetada.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>presença de pelo menos um dos genitores afetados.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="54">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Analise os esquemas simplificados das células 1 e 2:</p>
+				<image src="out06-2.png"/>
+				<image src="out06-3.png"/>
+				<p>Células como as representadas em 1 e 2 podem ser encontradas, respectivamente, no</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>sangue e no fígado.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>osso e no pâncreas.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>músculo esquelético e no pâncreas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>músculo cardíaco e no oSSO.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>pâncreas e no fígado.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="55">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Considere uma sequência de DNA com 100 pares de bases de comprimento contendo 32 timinas. Quantas citosinas, guaninas e adeninas essa sequência terá, respectivamente?</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>32, 68, 68.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>68, 32, 68.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>68, 68, 32.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>32, 18, 18.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>18, 32, 18.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="56">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A combinação entre baixa biodiversidade, altas concentrações de poluentes e baixas concentrações de oxigênio dissolvido, que é verificada nos rios que passam por grandes centros urbanos no Brasil, deve-se principalmente à (ao)</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>descarte de garrafas PET e sacolas plásticas, aumentando a cadeia de produção de microplásticos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>aumento de intervenções de engenharia, como a construção de pontes e dragagens.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>aquecimento da água do rio devido ao aumento da temperatura média nas metrópoles.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>descarte de esgoto doméstico e industrial sem tratamento.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>ocorrência mais frequente de longos períodos de estiagem, aumentando a evaporação.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="57">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>Um paciente, com câncer sanguíneo (linfoma) e infectado por HIV, fez quimioterapia e recebeu um transplante de células-tronco da medula óssea de um doador resistente ao HIV. Como resultado, tanto o câncer como o HIV retroagiram neste paciente. O receptor mais usado pelo HIV para entrar nas células do corpo é o CCR5. Um pequeno número de pessoas resistentes ao HIV tem duas cópias mutadas do gene do receptor CCR5. Isso significa que o vírus não pode penetrar nas células sanguíneas do corpo que costumam ser infectadas. O paciente recebeu células-tronco da medula óssea de um doador que tem essa mutação genética específica, o que fez com que também ficasse resistente ao HIV.</p>
+				</quote>
+				<cite>Disponível em https://www.bbc.com/. Março/2019. Adaptado.</cite>
+				<p>A terapia celular a que o texto se refere</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>permitirá que eventuais futuros filhos do paciente transplantado também possuam células resistentes à infecção pelo HIV.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>possibilitou a produção, pelas células sanguíneas do paciente após o transplante, de receptores CCR5 aos quais o vírus HIV não se liga.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>promoveu mutações no gene CCR5 das células do paciente, ocasionando a produção de proteína à qual o HIV não se liga.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>gerou novos alelos mutantes que interagem com o gene do receptor CCR5 do paciente, ocasionando a resistência à entrada do HIV nas células do paciente.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>confirma que o alelo mutante que confere resistência à infecção pelo HIV é dominante sobre o alelo selvagem do gene CCR5.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="58">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>Pesquisadores do Museu Nacional, no Rio de Janeiro, encontraram o crânio e uma parte do fêmur de Luzia, o esqueleto humano mais antigo descoberto na América que revolucionou as teorias científicas sobre a ocupação do continente. Os fósseis foram achados há alguns dias (não foi divulgado quando) junto aos escombros do edifício, parcialmente destruído por um incêndio em 2 de setembro. O crânio está fragmentado, porque a cola que mantinha os seus pedaços juntos se foi com o calor, mas a equipe está bastante otimista com suas condições.</p>
+				</quote>
+				<cite>Júlia Barbon, Folha de São Paulo, Outubro/2018. Adaptado.</cite>
+				<p>O esqueleto de Luzia,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>adquirido por D. Pedro II em 1876, foi incorporado à sua coleção pessoal, a mesma que deu origem ao Museu Nacional no período republicano.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>descoberto na década de 1970 em Minas Gerais, permitiu questionar a teoria de que a ocupação das Américas se deu por apenas uma onda migratória.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>estudado por diferentes equipes de antropólogos, comprovou que grupos saídos diretamente da África foram os primeiros habitantes das Américas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>encontrado na atual Serra da Capivara, no Estado do Piauí, pertenceu à cultura que elaborou suas famosas pinturas rupestres.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>mantido em uma coleção particular fora do país, estava exposto para comemoração dos 150 anos da passagem de Charles Darwin pelo Brasil.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="59">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>Afirmo, portanto, que tínhamos atingido já o ano bem farto da Encarnação do Filho de Deus, de 1348, quando, na mui excelsa cidade de Florença, (...) sobreveio a mortífera pestilência. (...) apareciam no começo, tanto em homens como nas mulheres, ou na virilha ou na axila, algumas inchações (...) chamava-as o populacho de bubões (...).</p>
+				</quote>
+				<cite>Giovanni Boccaccio, Decamerão.</cite>
+				<p>A respeito da Peste Negra do século XIV, é correto afirmar:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>Provocou gravíssima queda demográfica, que afetou grande parte da produção econômica europeia.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Originou-se no Oriente, penetrou no continente europeu pelos portos e manteve-se restrita à Península Itálica.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Foi provocada pela fome e pela desnutrição dos camponeses e favoreceu o processo de centralização política.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Foi contida pelo caráter de subsistência da economia europeia, que dificultava o contato humano e, assim, o contágio.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Estimulou as investidas contra os territórios muçulmanos no movimento conhecido como Segunda Cruzada.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	
+		<question_group>
+		<objective_question number="60">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A imagem a seguir refere-se às principais rotas de comércio da África do Norte e Ocidental, no século XV.</p>
+				<image src="out07-0.png"/>
+				<cite>Eric Wolf, A Europa e os Povos sem História (trad.). São Paulo: Edusp, 2005.</cite>
+				<p>Em relação às rotas comerciais representadas no mapa, é correto afirmar que elas</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>indicam que a melhoria das condições ambientais do Saara permitiu a construção de estradas pelo deserto.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>foram construídas pelo poder islâmico do Cairo, que promoveu a unificação de toda a África do Norte.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>mostram a decadência econômica do comércio do Saara oriental, em razão da crise do Império Egípcio.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>atingem a região ao sudoeste do Saara, local de origem do ouro que chegava aos portos do Mediterrâneo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>representam o poder do Império de Songai, cuja capital era Timbuctu, que unificou todo o território entre o Atlântico e o mar Vermelho.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="61">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A chamada "questão trabalhista" no Brasil foi objeto de conflitos, debates e regulamentações entre os anos 1920 e 1946. Identifique uma das dimensões deste processo.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>O liberalismo oligárquico atribuiu ao Estado, por meio da reforma de 1924, o papel de mediador entre o operariado e o patronato.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>A Constituição de 1934 garantiu o direito à organização sindical e abriu espaço para a proteção dos direitos dos trabalhadores.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>O direito de greve e a regulamentação do salário mínimo foram algumas das novidades previstas na Consolidação das Leis do Trabalho (1943).</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>A criação do sindicato único contribuiu para a emergência de lideranças combativas ao obrigar todos os trabalhadores a se filiarem a tais associações.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A Carteira de Trabalho foi um instrumento de controle e dominação, que distinguia o trabalhador e esvaziava o poder dos sindicatos.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="62">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A representação cartográfica a seguir refere-se à viagem de circunavegação, iniciada em Sanlúcar de Barrameda, na Andaluzia, em 20 de setembro de 1519, e comandada pelo português Fernão de Magalhães, a serviço da monarquia da Espanha. A despeito da repercussão da viagem para o desenvolvimento dos conhecimentos náuticos e para a exploração do Oceano Pacífico, Battista Agnese foi um dos poucos cartógrafos a registrar a empreitada de Magalhães.</p>
+				<image src="out07-1.png"/>
+				<cite>Battista Agnese, Atlas Portulano, 1545. Biblioteca Digital Mundial. Disponível em https://www.wdl.org/pt/.</cite>
+				<p>A representação cartográfica de Battista Agnese</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>revelava a permanência das técnicas e sentidos simbólicos da cosmografia medieval, que orientaram os navegadores ibéricos na época da expansão ultramarina.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>estava vinculada aos dogmas cristãos e procurava conciliar o registro da viagem de Fernão de Magalhães com a perspectiva de Terra Plana ainda presente entre letrados cristãos.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>estava baseada nos relatos dos navegadores, no acúmulo de conhecimentos acerca das rotas marítimas e em estimativas de distâncias a partir de cálculos matemáticos e da planificação do globo terrestre.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>apresentava o Oceano Pacífico em suas reais dimensões de acordo com o entendimento de Fernão de Magalhães e de Cristóvão Colombo e em desacordo com as perspectivas cristãs.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>estava assentada nos conhecimentos e detalhamentos geográficos bíblicos e nas formulações cosmológicas de Ptolomeu, fundamentais para o sucesso da viagem de Fernão de Magalhães.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="63">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>As tentativas holandesas de conquista dos territórios portugueses na América tinham por objetivo central</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>a apropriação do complexo açucareiro escravista do Atlântico Sul, então monopolizado pelos portugueses.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a formação de núcleos de povoamento para absorverem a crescente população protestante dos Países Baixos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a exploração das minas de ouro recém-descobertas no interior, somente acessíveis pelo controle de portos no Atlântico.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a ocupação de áreas até então pouco exploradas pelos portugueses, como o Maranhão e o Vale Amazônico.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a criação de uma base para a ocupação definitiva das áreas de mineração da América espanhola.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="64">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>Ao primeiro brilho da alvorada chegou do horizonte uma nuvem negra, que era conduzida [pelo] senhor da tempestade (...). Surgiram então os deuses do abismo; Nergal destruiu as barragens que represavam as águas do inferno; Ninurta, o deus da guerra, pôs abaixo os diques (...). Por seis dias e seis noites os ventos sopraram; enxurradas, inundações e torrentes assolaram o mundo; a tempestade e o dilúvio explodiam em fúria como dois exércitos em guerra. Na alvorada do sétimo dia o temporal (...) amainou (...) o dilúvio serenou (...) toda a humanidade havia virado argila (...). Na montanha de Nisir o barco ficou preso (...). Na alvorada do sétimo dia eu soltei uma pomba e deixei que se fosse. Ela voou para longe, mas, não encontrando um lugar para pousar, retornou. Então soltei um corvo. A ave viu que as águas haviam abaixado; ela comeu, (...) grasnou e não mais voltou para o barco. Eu então abri todas as portas e janelas, expondo a nave aos quatro ventos. Preparei um sacrifício e derramei vinho sobre o topo da montanha em oferenda aos deuses (...).</p>
+				</quote>
+				<cite>A Epopeia de Gilgamesh, São Paulo: Martins Fontes, 2001.</cite>
+				<p>Com base no texto, registrado aproximadamente no século VII a.C. e que se refere a um antigo mito da Mesopotamia, bem como em seus conhecimentos, é possível dizer que a sociedade descrita era</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>mercantil, pacífica, politeísta e centralizada.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>agrária, militarizada, monoteísta e democrática.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>manufatureira, naval, monoteísta e federalizada.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>mercantil, guerreira, monoteísta e federalizada.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>agrária, guerreira, politeísta e centralizada.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="65">
+			<classification subject="Unknown"/>
+			<statement>
+				<verse>
+					<p>Depois de 20 anos na escola</p>
+					<p>Não é difícil aprender</p>
+					<p>Todas as manhas do seu jogo sujo</p>
+					<p>Não é assim que tem que ser</p>
+					<p>Vamos fazer nosso dever de casa</p>
+					<p>E aí então vocês vão ver</p>
+					<p>Suas crianças derrubando reis</p>
+					<p>Fazer comédia no cinema com as suas leis</p>
+					<p>Somos os filhos da revolução</p>
+					<p>Somos burgueses sem religião</p>
+					<p>Somos o futuro da nação</p>
+					<p>Geração Coca-Cola.</p>
+				</verse>
+				<cite>Dado Villa-Lobos e Renato Russo, Geração Coca-Cola, 1984.</cite>
+				<p>Esses versos</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>remetem ao período da Campanha das Diretas Já e apresentam esperanças em relação à implantação de um regime democrático no Brasil.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>revelam a indignação e rebeldia da juventude com os rumos da chamada Nova República, especialmente contra o Colégio Eleitoral e o bipartidarismo.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>propõem um repúdio por parte da juventude brasileira em relação às questões políticas e comportamentais durante a transição democrática.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>oferecem uma visão positiva acerca do período militar no Brasil e demonstram ceticismo com respeito à transição democrática.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>reforçam a capacidade de mobilização e reivindicação da juventude pela liberdade de expressão e criação de novas universidades públicas.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="66">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>Documentos da Agência Central de Inteligência Americana (CIA) mostram que o Brasil quis liderar a Operação Condor e só não conseguiu porque enfrentou resistência dos outros países membros Argentina, Chile, Uruguai, Paraguai e Bolívia. (...) Os documentos da CIA fazem parte do Projeto de Desclassificação Argentina (The Dirty War, 1976-1983), do governo americano, e incluem mais de 40 mil páginas. Duas dezenas delas fazem menções ao Brasil (...).</p>
+				</quote>
+				<cite>Marcelo Godoy, O Estado de São Paulo. Abril/2019.</cite>
+				<p>A respeito da Operação Condor, é correto afirmar:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>Ainda que tivesse um alvo comum de repressão política, ela não implicava o alinhamento automático dos regimes ditatoriais de cada país.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Ao encontrar resistência dos demais países que dela participavam, o Brasil passou a criticar publicamente suas ações.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Em vista da oposição norte-americana à iniciativa, a cooperação entre os países membros não foi implantada.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>O governo ditatorial paraguaio assumiu a posição de liderança no acordo firmado entre seus países fundadores.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Limitou-se à troca de informações sobre os opositores políticos que buscaram exílio em cada um desses países.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="67">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>A entrega pacífica do governo a um adversário pressupunha um elevado nível de automoderação. O mesmo determinou a boa vontade de um governo em não usar os seus grandes recursos do poder na humilhação ou destruição de predecessores hostis ou opositores (...). As técnicas militares deram lugar às técnicas verbais do debate feitas de retórica e de persuasão, a maior parte das quais exigia mais contenção geral, identificando, de modo nítido, esta mudança com um avanço da civilização.</p>
+				</quote>
+				<cite>Norbert Elias, A busca da excitação. Lisboa: Difel, 1992.</cite>
+				<p>O processo histórico britânico ofereceu, entre os séculos XVII e XIX, modelos institucionais e práticas políticas importantes. A respeito deles, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>os debates acalorados no Parlamento, que desencadearam uma série de lutas sociais no século XVIII, foram apenas superados no início do século XIX com a instauração do Regime Parlamentar.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>após o turbulento século XVII, marcado por sucessivas lutas sociais e golpes de Estado, a pacificação entre as classes dominantes ocorreu com o fortalecimento do Regime Parlamentar ao longo do século XVIII.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a instauração da República de Cromwell e do parlamentarismo, em meados do século XVIII, foi responsável pelo fim das turbulências políticas características do absolutismo monárquico.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o avanço da civilização mencionado no texto ocorreu com o estabelecimento do princípio da tolerância religiosa entre anglicanos, calvinistas e católicos pelo Parlamento no final do século XVIII.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o estabelecimento do parlamento bicameral, com representação para os nobres e para a burguesia enriquecida, e do direito de voto universal, ambos no século XVIII, foram responsáveis pela contenção das lutas sociais na Grã-Bretanha.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="68">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>De acordo com o historiador Martyn Lyons, "nos temores contemporâneos em relação ao acesso ilimitado a sites perigosos da Internet, e às dificuldades enfrentadas por governos de diversos países no policiamento da distribuição da informação, ouve-se o eco do pânico causado pela invenção da imprensa".</p>
+				</quote>
+				<cite>Martyn Lyons, A história da leitura de Gutenberg a Bill Gates, RJ: Casa da Palavra, 1999.</cite>
+				<p>Escolha a alternativa que demonstre corretamente os elementos de continuidade e de descontinuidade entre a "revolução do impresso" e a "revolução eletrônica" apontados pelo autor.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>As chamadas "revolução do impresso" e "revolução eletrônica" não somente favoreceram a multiplicação e democratização do acesso à informação como também auxiliaram a formação de um público mais vasto e mais crítico.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>A implementação das novas tecnologias de comunicação eliminou a diferença entre os usuários e os excluídos do universo da cultura escrita, tal como se prometera no início de sua adoção.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>A manutenção de índices elevados de circulação de fake news nas redes sociais demonstra que a "revolução da comunicação" depende de quem domina e de quem usa as tecnologias.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Diferentemente do Index Librorum Prohibitorum promulgado para a atuação da Inquisição no controle da expansão do Protestantismo durante o século XVI, os atuais marcos regulatórios da Internet limitam-se ao controle da pornografia.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>O advento da tipografia não foi necessariamente revolucionário, pois não mudou a natureza nem o assunto dos livros; já a tecnologia digital suprimiu todas as formas anteriores de comunicação, da oral à impressa.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="69">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Em julho de 1969, os astronautas Neil Armstrong e Buzz Aldrin fizeram o primeiro pouso tripulado na superfície da Lua, enquanto seu colega Michael Collins permaneceu a bordo do módulo de comando Columbia em órbita lunar. Considerando que o Columbia estivesse em uma órbita perfeitamente circular a uma altitude de 260 km acima da superfície da Lua, o tempo decorrido (em horas terrestres h) entre duas passagens do Columbia exatamente acima do mesmo ponto da superfície lunar seria de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>0,5 h.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>2 h.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>4 h.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>8 h.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>72 h.</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote:</p>
+				<ul>
+					<li>Constante gravitacional: $G \cong 9 \times 10^{-13} km^3/(kg \cdot h^2)$;</li>
+					<li>Raio da Lua = 1.740 km;</li>
+					<li>Massa da Lua $\cong 8 \times 10^{22}$ kg;</li>
+					<li>$\pi \cong 3$.</li>
+				</ul>
+			</assumptions>
+		</objective_question>
+		<objective_question number="70">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Em 20 de maio de 2019, as unidades de base do Sistema Internacional de Unidades (SI) passaram a ser definidas a partir de valores exatos de algumas constantes físicas. Entre elas, está a constante de Planck h, que relaciona a energia E de um fóton (quantum de radiação eletromagnética) com a sua frequência f na forma $E = hf$.</p>
+				<p>A unidade da constante de Planck em termos das unidades de base do SI (quilograma, metro e segundo) é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>$kg \cdot m^2/s$</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>$kg \cdot s/m^2$</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>$m^2 \cdot s/kg$</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>$kg \cdot s/m$</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>$kg \cdot m^2/s^3$</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="71">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam com a distância d entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para expressar a perda L, em decibéis (dB), do sinal em função de d, no espaço livre de obstáculos, é dada pela expressão $L = 20 \log_{10} (4\pi d/\lambda)$, em que $\lambda$ é o comprimento de onda do sinal. O gráfico a seguir mostra L (em dB) versus d (em metros) para um determinado comprimento de onda $\lambda$.</p>
+				<image src="out07-2.png"/>
+				<p>Com base no gráfico, a frequência do sinal é aproximadamente</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>2,5 GHz.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>5 GHz.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>12 GHz.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>40 GHz.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>100 GHz.</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote:</p>
+				<ul>
+					<li>Velocidade da luz no vácuo: $c = 3 \times 10^8 m/s$;</li>
+					<li>$\pi \cong 3$;</li>
+					<li>$1 GHz = 10^9 Hz$.</li>
+				</ul>
+			</assumptions>
+		</objective_question>
+	</question_group>
+	
+		<question_group>
+		<objective_question number="72">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um estímulo nervoso em um dos dedos do pé de um indivíduo demora cerca de 30 ms para chegar ao cérebro. Nos membros inferiores, o pulso elétrico, que conduz a informação do estímulo, é transmitido pelo nervo ciático, chegando à base do tronco em 20 ms. Da base do tronco ao cérebro, o pulso é conduzido na medula espinhal. Considerando que a altura média do brasileiro é de 1,70 m e supondo uma razão média de 0,6 entre o comprimento dos membros inferiores e a altura de uma pessoa, pode-se concluir que as velocidades médias de propagação do pulso nervoso desde os dedos do pé até o cérebro e da base do tronco até o cérebro são, respectivamente:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>$51~m/s$ e $51~m/s$</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>$51~m/s$ e $57~m/s$</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>$57~m/s$ e $57~m/s$</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>$57~m/s$ e $68~m/s$</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>$68~m/s$ e $68~m/s$</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="73">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>A velocidade de escape de um corpo celeste é a mínima velocidade que um objeto deve ter nas proximidades da superfície desse corpo para escapar de sua atração gravitacional. Com base nessa informação e em seus conhecimentos sobre a interpretação cinética da temperatura, considere as seguintes afirmações a respeito da relação entre a velocidade de escape e a atmosfera de um corpo celeste.</p>
+				<p>I. Corpos celestes com mesma velocidade de escape retêm atmosferas igualmente densas, independentemente da temperatura de cada corpo.</p>
+				<p>II. Moléculas de gás nitrogênio escapam da atmosfera de um corpo celeste mais facilmente do que moléculas de gás hidrogênio.</p>
+				<p>III. Comparando corpos celestes com temperaturas médias iguais, aquele com a maior velocidade de escape tende a reter uma atmosfera mais densa.</p>
+				<p>Apenas é correto o que se afirma em</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>I.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>II.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>III.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>I e II.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>I e III.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="74">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um equipamento de bungee jumping está sendo projetado para ser utilizado em um viaduto de 30 m de altura. O elástico utilizado tem comprimento relaxado de 10 m. Qual deve ser o mínimo valor da constante elástica desse elástico para que ele possa ser utilizado com segurança no salto por uma pessoa cuja massa, somada à do equipamento de proteção a ela conectado, seja de 120 kg?</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>$30~N/m$</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>$80~N/m$</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>$90~N/m$</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>$160~N/m$</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>$180~N/m$</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Note e adote:</p>
+				<ul>
+					<li>Despreze a massa do elástico, as forças dissipativas e as dimensões da pessoa;</li>
+					<li>Aceleração da gravidade $= 10~m/s^2$.</li>
+				</ul>
+			</assumptions>
+		</objective_question>
+		<objective_question number="75">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um fabricante projetou resistores para utilizar em uma lâmpada de resistência L. Cada um deles deveria ter resistência R. Após a fabricação, ele notou que alguns deles foram projetados erroneamente, de forma que cada um deles possui uma resistência $R_D = R/2$. Tendo em vista que a lâmpada queimará se for percorrida por uma corrente elétrica superior a $V/(R+L)$, em qual(is) dos circuitos a lâmpada queimará?</p>
+				<image src="out08-0.png"/>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>1, apenas.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>2, apenas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>1 e 3, apenas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>2 e 3, apenas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>1, 2 e 3.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="76">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>No dia 10 de abril de 2019, a equipe do Event Horizon Telescope (EHT, "Telescópio Horizonte de Eventos") divulgou a primeira imagem de um buraco negro, localizado no centro da galáxia M87, obtida por um conjunto de telescópios com diâmetro efetivo equivalente ao da Terra, de 12.700 km.</p>
+				<p>Devido ao fenômeno físico da difração, instrumentos óticos possuem um limite de resolução angular, que corresponde à mínima separação angular entre dois objetos que podem ser identificados separadamente quando observados à distância.</p>
+				<p>O gráfico mostra o limite de resolução de um telescópio, medido em radianos, como função do seu diâmetro, para ondas luminosas de comprimento de onda de 1,3 mm, igual ao daquelas captadas pelo EHT. Note a escala logarítmica dos eixos do gráfico.</p>
+				<image src="out08-1.png"/>
+				<p>Sabe-se que o tamanho equivalente a um pixel na foto do buraco negro corresponde ao valor da menor distância entre dois objetos naquela galáxia para que eles possam ser identificados separadamente pelo EHT. Com base nas informações anteriores e na análise do gráfico, e sabendo que a distância da Terra até a galáxia M87 é de $5 \times 10^{20}$ km, indique o valor mais próximo do tamanho do pixel.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>$5 \times 10^1$ km</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>$5 \times 10^4$ km</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>$5 \times 10^7$ km</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>$5 \times 10^{10}$ km</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>$5 \times 10^{13}$ km</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="77">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um solenoide muito longo é percorrido por uma corrente elétrica I, conforme mostra a figura 1. Em um determinado instante, uma partícula de carga q positiva desloca-se com velocidade instantânea v perpendicular ao eixo do solenoide, na presença de um campo elétrico na direção do eixo do solenoide. A figura 2 ilustra essa situação, em uma seção reta definida por um plano que contém o eixo do solenoide.</p>
+				<image src="out08-2.png"/>
+				<p>O diagrama que representa corretamente as forças elétrica $F_E$ e magnética $F_B$ atuando sobre a partícula é:</p>
+				<image src="out08-3.png"/>
+			</statement>
+			<options>
+				<option label="A" is_correct="true"/>
+				<option label="B" is_correct="false"/>
+				<option label="C" is_correct="false"/>
+				<option label="D" is_correct="false"/>
+				<option label="E" is_correct="false"/>
+			</options>
+		</objective_question>
+		<objective_question number="78">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um drone voando na horizontal, em relação ao solo (como indicado pelo sentido da seta na figura), deixa cair um pacote de livros. A melhor descrição da trajetória realizada pelo pacote de livros, segundo um observador em repouso no solo, é dada pelo percurso descrito na</p>
+				<image src="out08-5.png"/>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>trajetória 1.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>trajetória 2.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>trajetória 3.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>trajetória 4.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>trajetória 5.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="79">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um pêndulo simples é composto por uma haste metálica leve, presa a um eixo bem lubrificado, e por uma esfera pequena de massa muito maior que a da haste, presa à sua extremidade oposta. O período P para pequenas oscilações de um pêndulo é proporcional à raiz quadrada da razão entre o comprimento da haste metálica e a aceleração da gravidade local. Considere este pêndulo nas três situações:</p>
+				<p>1. Em um laboratório localizado ao nível do mar, na Antártida, a uma temperatura de $0^{\circ}C$.</p>
+				<p>2. No mesmo laboratório, mas agora a uma temperatura de 250 Κ.</p>
+				<p>3. Em um laboratório no qual a temperatura é de $32^{\circ}F$ em uma base lunar, cuja aceleração da gravidade é igual a um sexto daquela da Terra.</p>
+				<p>Indique a alternativa correta a respeito da comparação entre os períodos de oscilação $P_1$, $P_2$ e $P_3$ do pêndulo nas situações 1, 2 e 3, respectivamente.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>$P_1 &lt; P_2 &lt; P_3$</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>$P_1 = P_3 &lt; P_2$</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>$P_2 &lt; P_1 &lt; P_3$</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>$P_3 &lt; P_2 &lt; P_1$</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>$P_1 &lt; P_2 = P_3$</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="80">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Segundo o Instituto Nacional de Meteorologia (INMET), foram registradas temperaturas reduzidas no mês de junho de 2016, tal como na madrugada do dia 13, em que se alcançou a mínima de $3,5^{\circ}C$ na estação meteorológica da Serra da Cantareira, na cidade de São Paulo. Além disso, de acordo com o Instituto, também ocorreram precipitações acima da média, com mais de 200 mm no total daquele mês.</p>
+				<image src="out08-4.png"/>
+				<cite>Disponível em https://www.meteo.psu.edu/. Adaptado.</cite>
+				<p>Associando a representação esquemática aos eventos descritos, analise as seguintes afirmações:</p>
+				<p>I. O ar mais frio e denso eleva o ar mais quente, podendo originar nuvens com potencial para tempestades e precipitações.</p>
+				<p>II. Instabilidades atmosféricas podem ser geradas em razão de o ar quente ser elevado rapidamente pelo sistema frontal.</p>
+				<p>III. O encontro de massas de ar estabiliza as condições atmosféricas com o avanço e dissipação da massa de ar tropical.</p>
+				<p>É correto apenas o que se afirma em</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>I.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>II.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>I e II.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>I e III.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>II e III.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	
+		<question_group>
+		<objective_question number="81">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Um vídeo do astrônomo Carl Sagan em seu programa dos anos 1980, Cosmos, conta a história de Eratóstenes, demonstrando como os gregos antigos já haviam descoberto que a Terra é uma esfera (geoide). Para fazer isso, Eratóstenes observou a sombra de duas colunas no solstício de verão; uma coluna foi colocada em Alexandria e outra em Siena (atualmente Assuan), ambas no Egito. Ele notou que em Siena, ao meio dia, o Sol ficava em seu ponto mais alto e a coluna lá instalada projetava uma sombra com ângulo diferente daquela projetada em Alexandria. Sagan explica então que, se a Terra fosse plana, ambas as estruturas produziriam sombras iguais, mas como o planeta é esférico, o sombreamento varia.</p>
+				<cite>Disponível em https://revistagalileu.globo.com/. Adaptado. 2019.</cite>
+				<image src="out09-1.png"/>
+				<cite>Disponível em https://www.youtube.com/. Adaptado.</cite>
+				<p>A esfericidade do Planeta Terra demonstrada por Eratóstenes e relembrada por Carl Sagan explica, em conjunto com outros fatores,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a ocorrência de dias mais longos e com maior insolação no Hemisfério em que está ocorrendo o inverno e de dias mais curtos e com menor insolação no Hemisfério em que está ocorrendo o verão.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a ocorrência das estações do ano, sendo que, no Hemisfério Norte, há o solstício de verão em dezembro e, no Hemisfério Sul, o solstício de inverno em junho.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a existência de zonas climáticas, em razão das variações de altitude que intensificam a radiação solar nos polos Norte e Sul.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a ocorrência das estações do ano, que caracterizam o Equinócio de primavera no Hemisfério Sul em março e o Equinócio de outono no Hemisfério Norte em setembro.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>a existência de zonas climáticas, em função da maior intensidade da radiação solar na região equatorial quando comparada à incidência nos polos.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="82">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Em reportagem publicada em 2018, a revista FAPESP apresenta uma pesquisa da Superintendência de Controle de Endemias (SUCEN) que usou informações de data e local de mortes de macacos por um determinado vírus. A partir do estudo, construiu-se um modelo epidemiológico que descreve o sentido de deslocamento e os corredores ecológicos funcionais (corredores prováveis) do vírus.</p>
+				<image src="out09-0.png"/>
+				<cite>Disponível em http://revistapesquisa.fapesp.br/.</cite>
+				<p>Com base nas informações e no mapa, o corredor ecológico funcional desse vírus, que atingiu a maior abrangência territorial no Estado de São Paulo durante o ano de 2017, avançou principalmente por quais regiões e causou qual enfermidade?</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Sul de Minas Gerais e Vale do rio Ribeira de Iguape; Chikungunya.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Sul de Minas Gerais e São José do Rio Preto; Dengue.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Vale do rio Ribeira de Iguape e Região Metropolitana de São Paulo; Zika.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>Sul de Minas Gerais e Campinas; Febre Amarela.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Litoral de São Paulo e Vale do rio Ribeira de Iguape; Gripe.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="83">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>O processo de desertificação é definido como a degradação ambiental e socioambiental, particularmente nas zonas áridas, semiáridas e subúmidas, resultantes de vários fatores e vetores, incluindo as variações e alterações climáticas e as atividades humanas.</p>
+				</quote>
+				<cite>BRASIL, Ministério do Meio Ambiente. Disponível em http://www.mma.gov.br/.</cite>
+				<p>Dentre as medidas mais adequadas para mitigação dos efeitos da desertificação encontra(m)-se</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a construção de rodovias que permitam às populações mais diretamente atingidas pela seca se deslocarem diariamente para áreas mais úmidas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o uso das áreas de meia encosta como alternativa para expansão das áreas de produção de culturas temporárias e lavouras permanentes.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>o plantio de espécies exóticas que apresentam crescimento rápido e podem reduzir os efeitos da desertificação e da seca, como o eucalipto, por exemplo.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>a prevenção, recuperação e reabilitação de terras parcial ou totalmente degradadas com a recomposição de espécies nativas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>os programas de incentivo para a instalação de fossas sépticas que dispensam a implantação de um sistema hídrico de saneamento básico.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="84">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Brasil: Estabelecimentos de agricultura familiar e não familiar</p>
+				<image src="out09-3.png"/>
+				<cite>Hervé Théry e Neli Aparecida Mello-Théry. Atlas do Brasil: disparidades e dinâmicas do território. 3ª edição, 2018. Adaptado.</cite>
+				<p>Sobre a produção agrícola brasileira e os dados apresentados nos cartogramas, é correto afirmar:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>A agricultura familiar, que utiliza a maior extensão de terras agricultáveis do país, foi responsável pela produção da maior parte do volume agrícola exportado.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>A agricultura familiar, que utiliza uma extensão de terras menor que a agricultura não familiar, tem destaque na produção de alimentos para o mercado interno.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>A agricultura não familiar, que detém a maior extensão de terras agricultáveis do país, consiste em uma barreira ao desenvolvimento das atividades ligadas ao agronegócio.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>A agricultura não familiar, que apresenta o maior número de estabelecimentos rurais no país, é responsável pela produção de parte das chamadas commodities brasileiras.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A concentração fundiária foi superada no país em função de a agricultura familiar ocupar, com seus estabelecimentos, a maior parte das terras.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="85">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>É de grande relevância aqui o fato de que uma grande proporção do trânsito de internet do mundo passa pelos Estados Unidos (...). Isso significa que a NSA (a agência de segurança nacional dos EUA) poderia acessar uma quantidade alarmante de ligações telefônicas simplesmente escolhendo as instalações certas. O que é ainda mais inacreditável: essas instalações não passam de alguns prédios, conhecidos como "hotéis de telecomunicação", que hospedam os principais centros de conexão de internet e telefonia do planeta todo.</p>
+				</quote>
+				<cite>Stephen Graham, Cidades Sitiadas: o novo urbanismo militar, 2016. Adaptado.</cite>
+				<image src="out09-2.png"/>
+				<p>A respeito da configuração espacial e geopolítica retratada no excerto e no mapa, é possível afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>essa é a razão do grande déficit econômico dos Estados Unidos atualmente, uma vez que a maior parte dos negócios e transações é feita pela internet.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>essa situação explica o fato de que os Estados Unidos tenham, atualmente, a maior dívida pública do planeta, já que os custos com o tratamento de dados são muito altos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>em um mundo cada vez mais dependente dos fluxos imateriais de informação, a presença de objetos técnicos fixos torna-se irrelevante para a posição geopolítica dos Estados Unidos.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o mapa representa, por meio do "trânsito de internet" e do fluxo de "ligações telefônicas", uma globalização que integrou completamente tanto os norte-americanos quanto as populações da África.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>a presença de fixos, como algumas instalações de armazenagem e conexão, influencia a orientação de fluxos e dá aos EUA uma posição de destaque no contexto geopolítico.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="86">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>O Ciclone Tropical Idai atingiu o litoral de Moçambique na noite de quinta-feira (21/03/2019), provocando grandes danos na cidade de Beira. Cerca de 500 mil pessoas ficaram sem energia, afetando também o setor de comunicações.</p>
+				</quote>
+				<cite>Disponível em https://www.climatempo.com.br/. Adaptado.</cite>
+				<p>Essa notícia refere-se ao Ciclone Tropical que atingiu principalmente Moçambique, Zimbábue e Malaui. Eventos dessa magnitude e superiores - o Ciclone Idai atingiu apenas a categoria 2 em uma escala de 1 a 5 ocorrem em outros locais do planeta e não repercutem da mesma forma, com a perda de centenas de vidas. Isso ocorre em função</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>da grande presença de populações não nativas, que não têm tradição em lidar com eventos dessa natureza.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>do relevo de planalto que caracteriza Moçambique, Zimbábue e Malaui, em especial na zona costeira.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>da presença de rede hidrográfica e florestas que contribuem para a formação de ciclones dessa natureza e magnitude.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>da presença de águas superficiais do oceano Índico, com temperaturas mais reduzidas que o habitual, em especial no Canal de Moçambique.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>das características socioeconômicas da região com populações vulneráveis e reduzida capacidade do poder público em prestar atendimento à população.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="87">
+			<classification subject="Unknown"/>
+			<statement>
+				<quote>
+					<p>Em Barcelona, em 2012 e 2013, a cada 15 minutos uma família recebia ordem de despejo. Desde então, o panorama da habitação mudou totalmente. "(...) Estamos assistindo uma onda de especulação imobiliária (...) que agora se foca no aluguel", explica Daniel Pardo da Associação de Moradores para um Turismo Sustentável. "Este fenômeno pôs em marcha um processo acelerado e violento de expulsão de inquilinos", acrescenta. Onde a pressão da especulação imobiliária internacional e a indústria do turismo causaram um aumento substancial nos preços dos aluguéis, os catalães têm hoje de gastar mais de 46% dos seus salários com o aluguel. Para os jovens até os 35 anos, a taxa de esforço aumenta até os 65% (...). "Não queremos que os habitantes de Barcelona sejam substituídos por pessoas com maior poder de compra", diz a porta-voz do Sindicato dos Inquilinos. Só em Barcelona, 15 fundos de investimento imobiliário possuem 3.000 apartamentos.</p>
+				</quote>
+				<cite>"Os habitantes querem a sua cidade de volta". Reportagem de Ulrike Prinz para o Goethe-Institut Madrid. Maio/2018. Adaptado.</cite>
+				<p>Os conceitos que explicam as dinâmicas urbanas descritas no excerto são:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Financeirização e Industrialização.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>Gentrificação e Segregação.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Aglomeração e Conurbação.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Industrialização e Segregação.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Conurbação e Gentrificação.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="88">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Dois eventos marcaram a diplomacia brasileira em relação ao Oriente Médio no início de 2019. Um deles foi o voto contra a resolução da ONU que pedia a desocupação militar das Colinas de Gola e sua devolução à Síria. Outro evento foi o anúncio de transferência da embaixada brasileira de Tel Aviv para Jerusalém, mesmo não tendo sido levada adiante até setembro de 2019. Em relação a esses eventos, é correto afirmar que eles representam</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>I - uma aproximação do Brasil em relação à posição dos EUA. II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>I - um distanciamento do Brasil em relação à posição da Palestina e uma aproximação em relação ao conjunto de países árabes. II - uma potencial aproximação do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>I - um distanciamento do Brasil em relação à posição de Israel e uma aproximação em relação aos palestinos. II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>I - um distanciamento do Brasil em relação à posição dos EUA. II - uma potencial aproximação do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>I - uma aproximação do Brasil em relação à posição da Síria. II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="89">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>No Brasil, várias cidades registram ocupação irregular de encostas em áreas sujeitas a deslizamentos de terra (também chamados de escorregamentos). O Instituto de Pesquisas Tecnológicas (IPT) trabalha no levantamento, mapeamento, recuperação e estabilização dessas áreas de risco. Um exemplo deste trabalho foram aqueles executados desde a década de 1970 referentes aos deslizamentos dos morros de Santos e São Vicente-SP, cuja região é acometida há tempos por esses problemas, inclusive com a ocorrência de vítimas fatais. Para investigar os deslizamentos de terra nas áreas serranas tropicais brasileiras, o Instituto realizou levantamentos topográficos, geológicos e geomorfológicos, estudando também a distribuição dos tipos de vegetação existentes e as categorias de ocupação urbana dos morros.</p>
+				<p>Representação de deslizamento de terra (escorregamento) na região de Santos e São Vicente</p>
+				<image src="out09-5.png"/>
+				<cite>Disponível em https://www.ipt.br/. Adaptado. 2019.</cite>
+				<p>Baseando-se nas informações do texto e na figura, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>as características topográficas, geológicas e geomorfológicas de uma área de risco estão naturalmente ligadas aos escorregamentos, sendo que estradas de terra minimizam a ocorrência de deslizamentos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a ocorrência de escorregamentos é causada pela ação humana, cuja ocupação de encostas provoca o empobrecimento de solo, que acaba sendo mobilizado pela diminuição de fertilidade.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>o problema da ocupação de encostas e risco de escorregamentos inclui o contato entre a rocha e o solo, cuja facilidade de deslizamento é aumentada em função da inclinação do terreno e da maior ocorrência de chuvas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>os deslizamentos de terra fazem parte de um conjunto de fenômenos naturais pontuais e incomuns na superfície da crosta terrestre e, portanto, não participam da escultura do relevo continental e do modelado.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>os escorregamentos são causados em especial pelo fato de o solo tornar-se mais leve que a rocha subjacente durante as chuvas prolongadas de verão, facilitando seu deslizamento ao longo das encostas pouco ou nada inclinadas.</p>
+				</option>
+			</options>
+		</objective_question>
+		<objective_question number="90">
+			<classification subject="Unknown"/>
+			<statement>
+				<p>Se muita gente hoje enxerga a Terra como um sistema dinâmico de conexões entre atmosfera, águas, rochas e biodiversidade, isso se deve, em larga medida, a Alexander von Humboldt (1769-1859). O vulcão Chimborazo (6.268 m de altitude), no atual Equador, foi utilizado por Humboldt como exemplo para apresentar com clareza, pela primeira vez, como cada faixa altitudinal em regiões montanhosas é um microcosmo de climas e biodiversidade.</p>
+				<cite>Disponível em https://www1.folha.uol.com.br/ciencia/. Adaptado.</cite>
+				<p>Representação esquemática do vulcão Chimborazo</p>
+				<image src="out09-4.png"/>
+				<cite>Disponível em https://www.pinterest.com/. Adaptado. 2019.</cite>
+				<p>Considerando a relação entre vegetação e altitude, da base até o topo das zonas do vulcão representado, é possível obter a sequência:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Floresta Temperada, Floresta de Coníferas, Floresta Tropical, Exposição de Rocha, Tundra, Neve e Gelo.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Floresta Temperada, Floresta Tropical, Floresta de Coníferas, Exposição de Rocha, Tundra, Neve e Gelo.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Floresta Tropical, Floresta de Coníferas, Floresta Temperada, Tundra, Exposição de Rocha, Neve e Gelo.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>Floresta Tropical, Floresta Temperada, Floresta de Coníferas, Tundra, Exposição de Rocha, Neve e Gelo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Floresta Tropical, Floresta de Coníferas, Tundra, Floresta Temperada, Exposição de Rocha, Neve e Gelo.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+</exam>

@@ -62,7 +62,7 @@ def validate_xml(schema_file, xml_file, detailed=False):
                     "column": 0,
                     "message": f"<question> possui atributo 'number' inválido: {q.get('number')}",
                 })
-            
+
             #print(num, q, q.findall("options/table"))
             if q.findall("options/table"):
                 if len(q.findall("options/table/option")) != 5:

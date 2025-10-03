@@ -8,7 +8,7 @@
 					<p>A associação de sistemas múltiplos de subordinação tem sido descrita de vários modos: discriminação composta, cargas múltiplas ou como dupla ou tripla discriminação. A interseccionalidade é uma conceituação do problema que busca capturar as consequências estruturais e dinâmicas da interação entre dois ou mais eixos da subordinação. Ela trata especificamente da forma pela qual o racismo, o patriarcalismo, a opressão de classe e outros sistemas discriminatórios criam desigualdades básicas que estruturam as posições relativas de mulheres, raças, etnias, classes e outras.</p>
 				</quote>
 				<cite>CRENSHAW, Kimberlé W. "Documento para o Encontro de Especialistas em Aspectos da Discriminação Racial Relativos ao Gênero". Estudos Feministas, ano 10, nº 1/2002.</cite>
-				<image src="fuvest2023/fase01/q01.png" />
+				<image src="fuvest/2023/fase01/q01.png" />
 				<cite>DIEESE (Departamento Intersindical de Estatísticas e Estudos Socioeconômicos), 2021. Adaptado.</cite>
 				<p>O texto da professora e jurista estadunidense Kimberlé Crenshaw define o conceito de interseccionalidade para o estudo das múltiplas discriminações[cite: 1276, 1277]. A partir dessa definição, é possível dizer que os dados do Dieese sobre o mercado de trabalho brasileiro em 2021 indicam que</p>
 			</statement>
@@ -202,7 +202,7 @@
 
 	<question_group>
 		<context>
-			<image src="fuvest2023/fase01/q07.png" />
+			<image src="fuvest/2023/fase01/q07-08.png" />
 			<cite>Disponível em https://tirasarmandinho.tumblr.com/. Adaptado.</cite>
 		</context>
 
@@ -259,7 +259,7 @@
 		<objective_question number="09">
 			<classification subject="Geography:Physical:Geomorphology" />
 			<statement>
-				<image src="fuvest2023/fase01/q09.png" />
+				<image src="fuvest/2023/fase01/q09.png" />
 				<p>A partir da figura, pode-se afirmar que as áreas com as condições naturais mais favoráveis à ocupação humana são:</p>
 			</statement>
 			<options>
@@ -321,24 +321,24 @@
 			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>Os cães podem ser treinados para identificar certas substâncias, dentre elas, a cocaína. Contudo, no treinamento, os cães não precisam ser expostos à cocaína para aprenderem a reconhecer o seu odor. O treinamento pode ser realizado com o benzoato de metila, um éster de odor pungente, produto volátil da degradação da cocaína.</p>
-				<image src="fuvest2023/fase01/q11a.png" />
+				<image src="fuvest/2023/fase01/q11.png" />
 				<p>Considerando o exposto, qual das reações representadas poderia gerar o mesmo éster capaz de atrair um cão treinado para a identificação de cocaína?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<image src="fuvest2023/fase01/q11b.png" />
+					<image src="fuvest/2023/fase01/q11a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="fuvest2023/fase01/q11c.png" />
+					<image src="fuvest/2023/fase01/q11b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="fuvest2023/fase01/q11d.png" />
+					<image src="fuvest/2023/fase01/q11c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="fuvest2023/fase01/q11e.png" />
+					<image src="fuvest/2023/fase01/q11d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="fuvest2023/fase01/q11f.png" />
+					<image src="fuvest/2023/fase01/q11e.png" />
 				</option>
 			</options>
 		</objective_question>
@@ -349,9 +349,9 @@
 			<classification subject="Chemistry:Physical" />
 			<statement>
 				<p>Em um estudo, pesquisadores mostraram que a energia de interação (E) de $SO_{3}$ com diversas espécies tem relação com a distância da ligação $S=O$ ($D_{S=O}$), como representado na figura.</p>
-				<image src="fuvest2023/fase01/q12a.png" />
+				<image src="fuvest/2023/fase01/q12_1.png" />
 				<p>A energia de interação de uma espécie com outra pode ser entendida como a energia necessária para desfazer a interação entre o $SO_{3}$ e os compostos estudados (X), como representado na figura ao lado.</p>
-				<image src="fuvest2023/fase01/q12b.png" />
+				<image src="fuvest/2023/fase01/q12_2.png" />
 				<p>Considerando essas informações, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -379,7 +379,7 @@
 			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer" />
 			<statement>
 				<p>Diversos processos na indústria de óleo e gás podem envolver misturas de gases a diferentes temperaturas. Um sistema isolado é composto por dois compartimentos de mesmo volume: o primeiro é ocupado por $n_{1}=1$ mol e o segundo é ocupado por $n_{2}=2$ mols de um gás ideal monoatômico. Inicialmente cada compartimento encontra-se em equilíbrio térmico, com temperatura $T_{1}=4T$ e $T_{2}=T$ respectivamente, conforme mostra a figura:</p>
-				<image src="fuvest2023/fase01/q13.png" />
+				<image src="fuvest/2023/fase01/q13.png" />
 				<p>A partir de certo instante, a parede que separa os compartimentos é removida e, após algum tempo, o sistema atinge uma nova temperatura de equilíbrio $T_{m}$. Supondo que não há trabalho realizado após a remoção da parede, nem troca de calor entre o sistema e o ambiente externo, a temperatura de equilíbrio $T_{m}$ é dada por:</p>
 			</statement>
 			<options>
@@ -413,19 +413,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image src="fuvest2023/fase01/q14a.png" />
+					<image src="fuvest/2023/fase01/q14a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="fuvest2023/fase01/q14b.png" />
+					<image src="fuvest/2023/fase01/q14b.png" />
 				</option>
 				<option label="C" is_correct="true">
-					<image src="fuvest2023/fase01/q14c.png" />
+					<image src="fuvest/2023/fase01/q14c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="fuvest2023/fase01/q14d.png" />
+					<image src="fuvest/2023/fase01/q14d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="fuvest2023/fase01/q14e.png" />
+					<image src="fuvest/2023/fase01/q14e.png" />
 				</option>
 			</options>
 		</objective_question>
@@ -436,7 +436,7 @@
 			<classification subject="Biology:Evolution:Theories of Evolution" />
 			<statement>
 				<p>A figura representa três momentos sucessivos da população adulta de uma determinada espécie de peixe em uma região na qual há atividade pesqueira. O momento I representa a composição da população adulta antes da pesca. No momento II, observam-se os sobreviventes adultos logo após a pesca. O momento III representa os indivíduos adultos após alguns ciclos de reprodução.</p>
-				<image src="fuvest2023/fase01/q15.png" />
+				<image src="fuvest/2023/fase01/q15.png" />
 				<p>Baseado na figura, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -522,7 +522,7 @@
 			<classification subject="Geography:Brazil:Environmental Issues" />
 			<statement>
 				<p>Observe a imagem de satélite a seguir:</p>
-				<image src="fuvest2023/fase01/q18.png" />
+				<image src="fuvest/2023/fase01/q18.png" />
 				<p>Parte dos topos do Chapadão Ocidental Baiano, divisor de águas das bacias hidrográficas dos rios Tocantins e São Francisco, é dominada por monocultura para exportação. Com base na imagem e em seus conhecimentos, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -549,7 +549,7 @@
 		<objective_question number="19">
 			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
-				<image src="fuvest2023/fase01/q19.png" />
+				<image src="fuvest/2023/fase01/q19.png" />
 				<p>A partir do gráfico e de seus conhecimentos sobre a dinâmica do espaço agrário brasileiro, é correto afirmar que o uso de fertilizantes no Brasil ocorre, majoritariamente,</p>
 			</statement>
 			<options>
@@ -665,7 +665,7 @@
 			<classification subject="Chemistry:Physical:Electrochemistry" />
 			<statement>
 				<p>Alguns aviões empregam fibra de carbono em uma porcentagem significativa de suas estruturas, tornando-as muito menos densas. Partes da estrutura, no entanto, são compostas por metais. Devido à baixa densidade, o alumínio seria uma boa alternativa de metal a ser usado. Entretanto, quando em contato com fibra de carbono, o alumínio é corroído. Esse processo é denominado corrosão galvânica e acontece quando dois materiais que possuem potencial elétrico diferentes são colocados em contato com um eletrólito, como uma solução salina. Para abordar esse problema, pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura a seguir.</p>
-				<image src="fuvest2023/fase01/q23.png" />
+				<image src="fuvest/2023/fase01/q23.png" />
 				<p>Considerando o exposto, o elemento mais adequado para ser utilizado no lugar do alumínio de forma a obter os menores custo e densidade possíveis, com a máxima resistência a corrosão possível, é:</p>
 			</statement>
 			<options>
@@ -848,7 +848,7 @@
 			<classification subject="Geography:Brazil:Physical:Climatology" />
 			<statement>
 				<p>O estado de São Paulo, por suas características climáticas, apresenta, no outono e no inverno, probabilidade de ocorrência de geada.</p>
-				<image src="fuvest2023/fase01/q27.png" />
+				<image src="fuvest/2023/fase01/q27.png" />
 				<p>Com base em seu conhecimento sobre o estado de São Paulo e os fatores que contribuem para a formação de geadas, é correto inferir que a maior ocorrência de geadas no estado de São Paulo está associada</p>
 			</statement>
 			<options>
@@ -876,8 +876,8 @@
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>O gráfico mostra a variação no número de folhas de uma espécie de árvore ao longo do ano, bem como a variação da temperatura mínima e da pluviosidade no local em que há presença dessa planta.</p>
-				<image src="fuvest2023/fase01/q28.png" />
-				<p>Com base na variação no número de folhas, essa planta é característica de clima ____I____ e tal variação está relacionada a ____II____.</p>
+				<image src="fuvest/2023/fase01/q28.png" />
+				<p>Com base na variação no número de folhas, essa planta é característica de clima I e tal variação está relacionada a II.</p>
 				<p>As lacunas I e II são corretamente preenchidas por:</p>
 			</statement>
 			<options>
@@ -932,7 +932,7 @@
 			<classification subject="Biology:Botany:Plant Physiology" />
 			<statement>
 				<p>A figura a seguir ilustra o xiquexique, um cacto nativo da Caatinga.</p>
-				<image src="fuvest2023/fase01/q29.png" />
+				<image src="fuvest/2023/fase01/q29.png" />
 				<p>Dada sua alta capacidade de armazenamento de água, a planta é muito utilizada para alimentação de bovinos, de caprinos e, inclusive, de seres humanos, especialmente durante os períodos de seca, como aludido em Angústia:</p>
 				<quote>
 					<p>(...) Amaro vaqueiro alimentava-se, nas secas, com sementes de mucuna lavadas em sete águas, raiz de imbu, miolo de xiquexique, e de tempos a tempos furtava uma cabra no chiqueiro e atirava a culpa à suçuarana.(...)</p>
@@ -1151,7 +1151,7 @@
 			<classification subject="Physics:Waves:SoundWaves" />
 			<statement>
 				<p>Na teoria musical, o intervalo entre duas notas é medido pela razão entre suas frequências (medidas em Hz). Na escala pitagórica, os intervalos de um tom e de um semitom correspondem, respectivamente, às razões $\frac{9}{8}$ e $\frac{256}{243}$. A soma de intervalos corresponde ao produto das razões. Por exemplo, no intervalo de dois tons, a razão entre as frequências é de $\frac{9}{8} \cdot \frac{9}{8} = \frac{81}{64}$.</p>
-				<image src="out03.pdf-2.png" />
+				<image src="fuvest/2023/fase01/q36.png" />
 				<p>Em um instrumento afinado de acordo com a escala pitagórica, se o intervalo entre uma nota de 220 Hz e outra de 990 Hz é composto por n tons e m semitons, a soma $m+n$ é igual a:</p>
 			</statement>
 			<options>
@@ -1567,12 +1567,12 @@
 		<objective_question number="48">
 			<classification subject="History:Brazil:Populist Republic" />
 			<statement>
-				<image src="out04.pdf-1.png" />
+				<image src="fuvest/2023/fase01/q48_1.png" />
 				<cite>Fotografia do Comício da Central do Brasil, 13 de março de 1964 (sem autoria).</cite>
 				<cite>"Comício da Central do Brasil. Declarações do presidente João Goulart incomodaram a direita e os militares". Folha de S. Paulo/uol/27 nov. 2013.</cite>
-				<image src="out04.pdf-2.png" />
+				<image src="fuvest/2023/fase01/q48_1.png" />
 				<cite>SCHWARCZ, Lilia e STARLING, Heloisa. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015.</cite>
-				<image src="out04.pdf-3.png" />
+				<image src="fuvest/2023/fase01/q48_2.png" />
 				<cite>Fotografia tirada por Domício Pinheiro, Comício da Central do Brasil, 13 de março de 1964.</cite>
 				<p>As fotografias registram cenas do comício realizado pelo governo João Goulart no Rio de Janeiro, em março de 1964. Considerando a leitura das imagens, é correto afirmar:</p>
 			</statement>
@@ -1600,7 +1600,7 @@
 		<objective_question number="49">
 			<classification subject="History:Contemporary:ColdWar" />
 			<statement>
-				<image src="out04.pdf-4.png" />
+				<image src="fuvest/2023/fase01/q49.png" />
 				<cite>VALTMAN, Edmund S., Artista. Gorbachev [Mikhail Gorbachev, presidente da União Soviética entre 1985-1991] contempla uma foice e um martelo despedaçados. União Soviética, 1991. https://www.loc.gov/item/2016687304/.</cite>
 				<quote>
 					<p>Nos países bálticos, na Ásia central, no Cáucaso, até mesmo na Rússia e nas duas outras nações eslavas (Ucrânia e Bielo-Rússia [ou Belarus]), consideradas o núcleo básico de sustentação da União Soviética, [em 1990] os parlamentos nacionais proclamavam a própria soberania em relação ao poder central da União, ou seja, a primazia das leis nacionais sobre as leis soviéticas. Num contexto de predomínio de forças centrífugas, qual seria o destino do poder central?.</p>
@@ -1633,7 +1633,7 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
-				<image src="out04.pdf-5.png" />
+				<image src="fuvest/2023/fase01/q50.png" />
 				<cite>Disponível em https://incrivel.club/admiracao-fotografia/. Adaptado.</cite>
 				<p>Com base na peça publicitária da Anistia Internacional, é correto afirmar que</p>
 			</statement>
@@ -1667,7 +1667,7 @@
 				</quote>
 				<cite>Disponível em https://educa.ibge.gov.br/. Adaptado.</cite>
 				<p>Observe o mapa com dados de 2015:</p>
-				<image src="out04.pdf-6.png" />
+				<image src="fuvest/2023/fase01/q51.png" />
 				<cite>United Nations Development Programme (UNDP), Human Development indices and indicators, 2015.</cite>
 				<p>Os dados representados no mapa são condizentes com:</p>
 			</statement>
@@ -1724,7 +1724,7 @@
 			<classification subject="History:Contemporary" />
 			<statement>
 				<p>O mapa do continente africano a seguir reproduz as fronteiras étnicas anteriores ao processo de colonização europeu (linhas pretas) e as fronteiras dos Estados Nacionais africanos, que surgiram após a emancipação no século XX (linhas vermelhas):</p>
-				<image src="out04.pdf-7.png" />
+				<image src="fuvest/2023/fase01/q53.png" />
 				<cite>Disponível em https://www.nber.org/papers/w18275/. Adaptado.</cite>
 				<p>Com base na leitura do mapa, assinale a alternativa correta.</p>
 			</statement>
@@ -1752,7 +1752,7 @@
 		<objective_question number="54">
 			<classification subject="Physics:Mechanics:Friction" />
 			<statement>
-				<image src="out04.pdf-8.png" />
+				<image src="fuvest/2023/fase01/q54.png" />
 				<p>Pinturas na tumba de um faraó do século XIX a.C. sugerem que os antigos egípcios adicionavam água à areia em frente aos trenós utilizados para transportar grandes peças, como pedras para pirâmides. Esse transporte era realizado por carregadores que puxavam os trenós sobre a areia.</p>
 				<cite>FALL et al., Physical Review Letters 112, 175502 (2014).</cite>
 				<p>Em 2014, cientistas realizaram medidas para testar essa hipótese e, sob certas condições, encontraram os coeficientes de atrito cinético entre o trenó e a areia listados na tabela:</p>
@@ -1906,7 +1906,7 @@
 			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>O gráfico mostra a quantidade de emissão de $CO_{2}$ (em bilhões de toneladas) em função do ano.</p>
-				<image src="out04.pdf-9.png" />
+				<image src="fuvest/2023/fase01/q58.png" />
 				<cite>Disponível em https://www.bbc.com/. Adaptado.</cite>
 				<p>O total de emissão de $CO_{2}$ em bilhões de toneladas, entre os anos de 1950 e 1990, está entre</p>
 			</statement>
@@ -1966,7 +1966,7 @@
 			<classification subject="Geography:Brazil:Environmental Issues" />
 			<classification subject="Biology:Ecology:Biogeochemical Cycles" />
 			<statement>
-				<image src="out04.pdf-10.png" />
+				<image src="fuvest/2023/fase01/q60.png" />
 				<cite>Revista Fapesp, 2022. Adaptado.</cite>
 				<p>Segundo os dados apresentados e seus conhecimentos, é possível afirmar que, no Brasil,</p>
 			</statement>
@@ -1996,7 +1996,7 @@
 			<classification subject="Biology:Evolution" />
 			<statement>
 				<p>A figura a seguir mostra indivíduos de uma espécie de erva daninha ao longo de um trajeto de aproximadamente 100 km, desde uma área urbanizada (na porção inferior esquerda, em tons de rosa) até uma área de floresta (na porção superior direita, em tons de verde). Essas áreas urbanizadas e de floresta estão separadas por uma linha tracejada branca. As ervas daninhas amarelas são aquelas que produzem um composto que age como defesa química contra a herbivoria. As ervas daninhas azuis não produzem esse composto.</p>
-				<image src="out04.pdf-11.png" />
+				<image src="fuvest/2023/fase01/q61.png" />
 				<cite>SANTANGELO et al. 2022. "Global urban environmental change drives adaptation in white clover". Science, 375 (6586): 1275-1281. Adaptado.</cite>
 				<p>Com base nas informações fornecidas, é correto afirmar:</p>
 			</statement>
@@ -2025,7 +2025,7 @@
 			<classification subject="Biology:Ecology:Population Dynamics" />
 			<statement>
 				<p>Os gráficos mostram a variação da biomassa de duas populações (A e B) de uma planta herbácea ao longo da sucessão primária. Em ambos os casos, em um dado momento indicado no gráfico, ocorre a chegada de indivíduos de uma outra espécie que interagem com essa planta na comunidade.</p>
-				<image src="out04.pdf-12.png" />
+				<image src="fuvest/2023/fase01/q62.png" />
 				<p>Os dois tipos de interagentes que poderiam causar os efeitos representados nos gráficos para as populações A e B, respectivamente, são</p>
 			</statement>
 			<options>
@@ -2054,7 +2054,7 @@
 			<classification subject="Biology:Human:Immune System" />
 			<statement>
 				<p>A figura representa o ciclo da leishmania, causadora da leishmaniose.</p>
-				<image src="out04.pdf-13.png" />
+				<image src="fuvest/2023/fase01/q63.png" />
 				<cite>MOREIRA et al. 2020. "Aspectos fundamentais da leishmaniose cutânea no Brasil". DOI:10.22533/at.ed.4852012037. Adaptado.</cite>
 				<p>O parasita sobrevive nas células do hospedeiro mamífero pela inativação de enzimas da(o) I, o que bloqueia a digestão intracelular e possibilita a continuidade do ciclo da leishmania. Uma das formas de se prevenir a transmissão dessa doença é II.</p>
 				<p>As lacunas I e II podem ser preenchidas corretamente por:</p>
@@ -2085,7 +2085,7 @@
 			<classification subject="Geography:Brazil:Physical:Biogeography" />
 			<statement>
 				<p>O mapa mostra a variação do número de espécies de aves no território brasileiro, com as linhas indicando os limites dos biomas.</p>
-				<image src="out05a-1.png" />
+				<image src="fuvest/2023/fase01/q64.png" />
 				<cite>JENKINS et al. 2015. "Patterns of vertebrate diversity and protection in Brazil". PLoS ONE 10(12): e0145064. Adaptado.</cite>
 				<p>Com base no mapa, a diversidade de aves mostra-se</p>
 			</statement>
@@ -2113,7 +2113,7 @@
 			<statement>
 				<p>A superfície terrestre muda conforme a frequência e a magnitude de processos naturais, sendo alguns mais contínuos e outros mais irregulares.</p>
 				<p>Alguns eventos podem mudar rapidamente a superfície, enquanto outros a modificam lentamente.</p>
-				<image src="out05a-3.png" />
+				<image src="fuvest/2023/fase01/q65.png" />
 				<cite>GOUDIE, Andrew S.; VILES, Heather A. Landscapes and Geomorphology: A Very Short Introduction. Oxford University Press, Oxford, 2010. Adaptado.</cite>
 				<p>Com base nos dados apresentados, é possível afirmar que os números 1, 2 e 3 correspondem, respectivamente, a:</p>
 			</statement>
@@ -2167,7 +2167,7 @@
 			<statement>
 				<p>Termistores são termômetros baseados na variação da resistência elétrica com a temperatura e são utilizados em diversos equipamentos, como termômetros digitais domésticos, automóveis, refrigeradores e fornos.</p>
 				<p>A curva de calibração de um termistor é mostrada na figura:</p>
-				<image src="out05a-2.png" />
+				<image src="fuvest/2023/fase01/q67.png" />
 				<p>Considere que o termistor se rompa quando percorrido por uma corrente maior do que 10 mA.</p>
 				<p>Supondo que o termistor seja conectado a uma bateria de 5 V, assinale a alternativa que contém uma faixa de temperaturas em que o dispositivo sempre funcionará adequadamente:</p>
 				<caption>Note e adote:</caption>
@@ -2367,7 +2367,7 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Physics:Optics:GeometricOptics" />
 			<statement>
 				<p>A figura ilustra de maneira simplificada o fenômeno da dispersão da luz branca ao incidir sobre um prisma de vidro a partir do ar, mostrando apenas raios refratados correspondentes a três cores diferentes.</p>
-				<image src="out05b.pdf-1.png" />
+				<image src="fuvest/2023/fase01/q73.png" />
 				<p>Um fenômeno análogo é responsável pelo aparecimento do arco-íris após uma chuva.</p>
 				<p>Na base do fenômeno da dispersão está a refração de raios luminosos quando incidem sobre uma interface que separa dois meios físicos distintos. </p>
 				<p>A descrição matemática da refração é feita pela lei de Snell, conforme apresentada a seguir:</p>
@@ -2408,18 +2408,15 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Chemistry:Inorganic:Acids and Bases" />
 			<statement>
 				<p>A obra "Rosa e Azul", também conhecida como "As Meninas Cahen d'Anvers", é uma pintura a óleo de Pierre-Auguste Renoir. </p>
-				<image src="out05b.pdf-0.png" />
+				<image src="fuvest/2023/fase01/q74_1.png" />
 				<p>Numa aula de artes, solicitou-se aos alunos que fizessem uma releitura dessa obra utilizando uma "tinta" preparada com extrato de repolho roxo. </p>
 				<p>Esse extrato fica rosa em valores de pH menores que 5 e azul em valores próximos a 8, conforme figura a seguir, que mostra a cor da solução em diferentes valores de pH. </p>
-				<image src="out05b.pdf-2.png" />
+				<image src="fuvest/2023/fase01/q74_2.png" />
 				<p>Com base no exposto, qual das alternativas apresenta compostos ou produtos que poderiam ser usados para preparar uma "tinta" rosa/vermelha e uma azul/verde empregando o extrato de repolho roxo? </p>
 			</statement>
 			<options>
 				<table>
 					<header>
-						<cell>
-							<p />
-						</cell>
 						<cell>
 							<p>Rosa/Vermelha</p>
 						</cell>
@@ -2474,7 +2471,7 @@ propriedades químicas dessas moléculas.</p>
 		<objective_question number="75" null="false">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
-				<image src="out05b.pdf-3.png" />
+				<image src="fuvest/2023/fase01/q75.png" />
 				<cite>SCIENCE MEMES. Adaptado. </cite>
 				<p>No meme, a inadequação da resposta à questão está baseada no efeito de sentido proveniente da presença de </p>
 			</statement>
@@ -2503,7 +2500,7 @@ propriedades químicas dessas moléculas.</p>
 				<p>Os lagartos do gênero Basiliscus têm a capacidade incomum de correr sobre a água. </p>
 				<p>Essa espécie possui uma membrana entre os dedos que aumenta a área superficial de suas patas traseiras. </p>
 				<p>Com uma combinação de forças verticais de suporte e forças horizontais propulsivas geradas pelo movimento de suas patas na água, o lagarto consegue obter impulso resultante para cima e para frente, conforme figura a seguir. </p>
-				<image src="out05b.pdf-5.png" />
+				<image src="fuvest/2023/fase01/q76.png" />
 				<cite>Disponível em https://wonderopolis.org/. </cite>
 				<p>Isso garante uma estabilidade dinâmica na superfície da água, em corridas que podem chegar a dezenas de metros, dependendo do peso e da idade do animal. </p>
 				<p>Sobre esse movimento, é correto afirmar: </p>
@@ -2531,7 +2528,7 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Physics:Mechanics:Energy and Momentum Methods" />
 			<statement>
 				<p>Um tradicional brinquedo infantil, conhecido como bate-bate, é composto por duas esferas (bolinhas) de massas iguais conectadas cada qual por uma corda e amarradas num ponto comum. </p>
-				<image src="out05b.pdf-4.png" />
+				<image src="fuvest/2023/fase01/q77.png" />
 				<p>Desloca-se a bolinha 1 de uma altura h, conforme ilustrado no arranjo: </p>
 				<p>Ao soltar a esfera 1, ela colidirá com a bolinha 2, inicialmente em repouso. </p>
 				<p>Supondo que a colisão seja perfeitamente elástica, verifica-se que, após a colisão, a esfera 2 subirá para a mesma altura h. </p>
@@ -2565,7 +2562,7 @@ propriedades químicas dessas moléculas.</p>
 			<statement>
 				<p>O telescópio espacial James Webb, lançado em dezembro de 2021, move-se nas proximidades de um ponto especial chamado ponto de Lagrange, sobre o qual um objeto orbita o Sol com o mesmo período de translação que a Terra. </p>
 				<p>O esquema a seguir, fora de escala, representa o Sol, a Terra e o telescópio Webb, com as respectivas massas e distâncias indicadas. </p>
-				<image src="out05b.pdf-6.png" />
+				<image src="fuvest/2023/fase01/q78.png" />
 				<p>A força resultante necessária para manter um objeto de massa m em uma órbita circular de raio R com velocidade angular wé $F=m\omega^{2}R$. </p>
 				<p>Sendo $F_{T}$ e $F_{W}$ as intensidades das forças gravitacionais resultantes sobre a Terra e sobre o telescópio, respectivamente, assinale a alternativa que descreve a razão $F_{W}/F_{T}$ entre essas forças. </p>
 			</statement>
@@ -2597,7 +2594,7 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Physics:Thermodynamics" />
 			<statement>
 				<p>O slam ball é um exercício funcional no qual o praticante eleva uma bola especial acima da cabeça e, após uma breve pausa, a atira no chão, como mostra figura: </p>
-				<image src="out05b.pdf-7.png" />
+				<image src="fuvest/2023/fase01/q79.png" />
 				<p>Considere uma pessoa de 1,70 m que eleva uma bola de 6 kg a uma altura de 40 cm acima da sua cabeça. </p>
 				<p>Em seguida, a pessoa realiza sobre a bola um trabalho adicional de 10 calorias para arremessá-la. </p>
 				<p>Se a colisão da bola com o solo for perfeitamente inelástica, a energia total dissipada na colisão será de </p>
@@ -2662,7 +2659,7 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Biology:Human:Homeostasis and Regulation" />
 			<statement>
 				<p>Os três gráficos mostram o comportamento circadiano das variáveis hormônio melatonina (produzida na glândula pineal), hormônio cortisol (produzido nas glândulas supra-renais) e temperatura corpórea em indivíduos saudáveis ao longo do dia (retângulo claro) e da noite (retângulo escuro). As linhas azuis (pontilhadas) correspondem a indivíduos mais jovens, e as vermelhas (contínuas), a indivíduos mais idosos.</p>
-				<image src="out06.pdf-1.png" />
+				<image src="fuvest/2023/fase01/q81.png" />
 				<cite>HOOD &amp; AMIR, 2017. "The aging clock: circadian rhythms and later life". The Journal of Clinical Investigation, 127(2): 437-446. Adaptado.</cite>
 				<p>Com base nos gráficos, é correto afirmar que</p>
 			</statement>
@@ -2691,10 +2688,9 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Geography:Human:Population and Demographics" />
 			<statement>
 				<p>O gráfico a seguir apresenta o registro histórico e a projeção do total de mortes e nascimentos em certa região do mundo em dado período:</p>
-				<image src="out06.pdf-2.png" />
+				<image src="fuvest/2023/fase01/q82.png" />
 				<cite>ONU, 2019.</cite>
 				<p>A partir disso, assinale a pirâmide etária que melhor representa as informações projetadas para o ano de 2050:</p>
-				<image src="out06.pdf-3.png" />
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2721,7 +2717,7 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Biology:Genetics:Mendelian Genetics" />
 			<statement>
 				<p>O heredograma a seguir mostra o aparecimento de AME (atrofia muscular espinhal) em um menino, filho de um casal de primos.</p>
-				<image src="out06.pdf-4.png" />
+				<image src="fuvest/2023/fase01/q83.png" />
 				<p>A AME é uma doença autossômica recessiva rara, muitas vezes fatal na primeira infância, provocada pela morte de neurônios motores. Uma das causas da AME é uma mutação no gene SMN1, cuja frequência é de 2% na população sem AME (uma em cada 50 pessoas tem um alelo mutante).</p>
 				<p>Considerando os genótipos prováveis da mulher II.2 e que não há relação de parentesco com seu parceiro, a probabilidade de uma criança deste casal ser portadora da AME é uma em:</p>
 			</statement>
@@ -2846,7 +2842,7 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Para medir o volume de uma pedra com formato irregular, Ana utilizou um recipiente cilíndrico de raio r = 8 cm e com água até a altura de 20 cm. Após colocar a pedra no recipiente, a altura da água subiu para 23,5 cm.</p>
-				<image src="out06.pdf-5.png" />
+				<image src="fuvest/2023/fase01/q86.png" />
 				<p>O volume da pedra é:</p>
 			</statement>
 			<options>
@@ -2903,7 +2899,7 @@ propriedades químicas dessas moléculas.</p>
 				<p>Considere a região do plano cartesiano</p>
 				<p>$A = \{(x,y) \in \mathbb{R}^2 : |x| + |y| \le 1\}$</p>
 				<p>esboçada na figura.</p>
-				<image src="out06.pdf-6.png" />
+				<image src="fuvest/2023/fase01/q89.png" />
 				<p>Dado $B = \{(x,y) \in \mathbb{R}^2 : (x+1)^2 + y^2 \ge 1\}$, a área da região A ∩ B é:</p>
 			</statement>
 			<options>
@@ -2931,10 +2927,9 @@ propriedades químicas dessas moléculas.</p>
 			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
 				<p>Um ladrilhamento é chamado de uniforme se é composto por polígonos regulares que preenchem todo o plano sem sobreposição e, além disso, o padrão é o mesmo em cada vértice. Para classificá-los, utilizamos uma notação dada por uma sequência de números que é definida desta forma: escolhemos um vértice qualquer e indicamos o número de lados de cada polígono que contém este vértice, seguindo o sentido anti-horário, iniciando com os polígonos de menos lados, conforme os exemplos:</p>
-				<image src="out06.pdf-7.png" />
-				<image src="out06.pdf-8.png" />
+				<image src="fuvest/2023/fase01/q88_1.png" />
 				<p>A foto mostra o piso de um museu em Sevilha.</p>
-				<image src="out06.pdf-9.png" />
+				<image src="fuvest/2023/fase01/q88_2.png" />
 				<p>A notação que representa o padrão do ladrilhamento do piso é:</p>
 			</statement>
 			<options>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <exam name="FUVEST" year="2021" phase="1" day="1" variation="V" date="2021-01-10" lang="pt">
 	<question_group>
 		<objective_question number="1">
-			<classification subject="Math:Geometry:Plane Geometry"/>
+			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
-				<image src="out01_page_1_image_1.png"/>
+				<image width="0.5" src="fuvest/2021/fase01/q01.png" />
 				<p>A figura ilustra graficamente uma região de um bairro, com ruas ortogonais entre si. </p>
 				<p>O ponto X indica um condomínio residencial, e o ponto Y indica a entrada de um parque. </p>
 				<p>Três moradores realizam caminhos diferentes para chegar ao ponto Y, partindo do ponto X, ilustrados com cores diferentes. </p>
@@ -12,49 +12,55 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$a=b=c$. </p>
+					<p>$a=b=c$.</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p>$b=c&lt;a$. [cite: 46, 47]</p>
+					<p>$b=c&lt;a$.</p>
 				</option>
 				<option label="C" is_correct="false">
 					<p>$c&lt;b&lt;a$ </p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$b&lt;c=a$. [cite: 49, 50]</p>
+					<p>$b&lt;c=a$.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$c&lt;a=b$. </p>
+					<p>$c&lt;a=b$.</p>
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="2">
-			<classification subject="Math:Algebra:Graphing"/>
+			<classification subject="Math:Algebra:Graphing" />
 			<statement>
 				<p>Qual dos gráficos representa uma relação entre as grandezas x e y em que y sempre diminui na medida em que x aumenta? </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image src="out01_page_1_image_3.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q02a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="out01_page_1_image_4.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q02b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="out01_page_1_image_6.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q02c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out01_page_1_image_8.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q02d.png" />
 				</option>
 				<option label="E" is_correct="true">
-					<image src="out01_page_1_image_7.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q02e.png" />
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="3">
-			<classification subject="Math:Number Sets"/>
+			<classification subject="Math:Number Sets" />
 			<statement>
-				<image src="out01_page_1_image_2.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q03.png" />
 				<p>O quadrinho aborda o tema de números primos, sobre os quais é correto afirmar: </p>
 			</statement>
 			<options>
@@ -75,10 +81,13 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="4">
-			<classification subject="Math:Geometry:Plane Geometry"/>
+			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
-				<image src="out01_page_1_image_5.png"/>
+				<image width="0.5" src="fuvest/2021/fase01/q04.png" />
 				<p>Três triângulos equiláteros e dois quadrados formam uma figura plana, como ilustrado. </p>
 				<p>Seus centros são os vértices de um pentágono irregular, que está destacado na figura. </p>
 				<p>Se T é a área de cada um dos triângulos e Q a área de cada um dos quadrados, a área desse pentágono é </p>
@@ -101,8 +110,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="5">
-			<classification subject="Math:Financial"/>
+			<classification subject="Math:Financial" />
 			<statement>
 				<p>Um comerciante adotou como forma de pagamento uma máquina de cartões, cuja operadora cobra uma taxa de 6% em cada venda. </p>
 				<p>Para continuar recebendo exatamente o mesmo valor por cada produto, ele resolveu aplicar um reajuste nos preços de todos os produtos da loja. </p>
@@ -126,8 +138,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="6">
-			<classification subject="Math:Algebra:Linear Equations"/>
+			<classification subject="Math:Algebra:Linear Equations" />
 			<statement>
 				<p>Uma treinadora de basquete aplica o seguinte sistema de pontuação em seus treinos de arremesso à cesta: cada jogadora recebe 5 pontos por arremesso acertado e perde 2 pontos por arremesso errado. </p>
 				<p>Ao fim de 50 arremessos, uma das jogadoras contabilizou 124 pontos. </p>
@@ -151,8 +166,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="7">
-			<classification subject="Math:Geometry:Solid Geometry"/>
+			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Alice quer construir um paralelepipedo reto retângulo de dimensões $60~cm\times24~cm\times18$ cm, com a menor quantidade possível de cubos idênticos cujas medidas das arestas são números naturais. </p>
 				<p>Quantos cubos serão necessários para construir esse paralelepipedo? </p>
@@ -175,8 +193,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="8">
-			<classification subject="Math:Combinatorics"/>
+			<classification subject="Math:Combinatorics" />
 			<statement>
 				<p>Um aplicativo de videoconferências estabelece, para cada reunião, um código de 10 letras, usando um alfabeto completo de 26 letras. </p>
 				<p>A quantidade de códigos distintos possíveis está entre </p>
@@ -203,10 +224,13 @@
 				<p>$1~bilhao=10^{9}$ </p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="9">
-			<classification subject="Math:Geometry:Analytic Geometry"/>
+			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
-				<image src="out02_page_1_image_1.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q09.png" />
 				<p>Na figura, os segmentos AC e DE são paralelos entre si e perpendiculares ao segmento CD; </p>
 				<p>o ponto B pertence ao segmento AC; F é o ponto médio do segmento AB; </p>
 				<p>e ABE é um triângulo equilátero. Além disso, o segmento BC mede 10 unidades de comprimento e o segmento AE mede 6 unidades de comprimento. </p>
@@ -230,10 +254,13 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="10">
-			<classification subject="Math:Geometry:Analytic Geometry"/>
+			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
-				<image src="out02_page_1_image_2.png"/>
+				<image width="0.5" src="fuvest/2021/fase01/q10.png" />
 				<p>A região hachurada do plano cartesiano xOy contida no círculo de centro na origem O e raio 1, mostrada na figura, pode ser descrita por </p>
 			</statement>
 			<options>
@@ -258,10 +285,10 @@
 			</assumptions>
 		</objective_question>
 	</question_group>
-	
-		<question_group>
+
+	<question_group>
 		<objective_question number="11">
-			<classification subject="Math:Algebra:Quadratic"/>
+			<classification subject="Math:Algebra:Quadratic" />
 			<statement>
 				<p>Se f: R → R e g: R → R são funções dadas por $f(x)=c+x^{2}$, onde $c\in\mathbb{R},$ e $g(x)=x,$ seus gráficos se intersectam quando, e somente quando,</p>
 			</statement>
@@ -283,8 +310,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="12">
-			<classification subject="Math:Trigonometry:Similar Triangles"/>
+			<classification subject="Math:Trigonometry:Similar Triangles" />
 			<statement>
 				<p>Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm.  A partir desta peça, ele precisa extrair o maior quadrado possível, de tal forma que um dos ângulos retos do quadrado coincida com o ângulo reto do triângulo.  A medida do lado do quadrado desejado pelo marceneiro está mais próxima de </p>
 			</statement>
@@ -306,8 +336,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="13">
-			<classification subject="Geography:Cartography"/>
+			<classification subject="Geography:Cartography" />
 			<statement>
 				<p>Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km.  O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45° L e então retorna ao Polo Norte por esse meridiano tem comprimento total de </p>
 			</statement>
@@ -329,22 +362,25 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="14">
-			<classification subject="Geography:Cartography:Map Projections and Scales"/>
+			<classification subject="Geography:Cartography:Map Projections and Scales" />
 			<statement>
 				<quote>
 					<title>Projeção de Mercator</title>
-					<image src="out02_page_1_image_1.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q14_1.png" />
 					<p>Apresentada pela primeira vez no século XVI. </p>
 				</quote>
 				<quote>
 					<title>Projeção de Gall-Peters</title>
-					<image src="out02_page_1_image_2.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q14_2.png" />
 					<p>Elaborada pela primeira vez no século XIX. </p>
 				</quote>
 				<quote>
 					<title>Projeção de Robinson</title>
-					<image src="out02_page_1_image_3.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q14_3.png" />
 					<p>Elaborada em 1963. </p>
 				</quote>
 				<p>Sobre as projeções cartográficas apresentadas, suas formas e dimensões, é correto afirmar: </p>
@@ -367,53 +403,87 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="15">
-			<classification subject="History:Brazil:Military Dictatorship"/>
-			<classification subject="Geography:Brazil:Human:Economic and Agricultural"/>
+			<classification subject="History:Brazil:Military Dictatorship" />
+			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
 				<quote>
 					<p>A criação do Banco da Amazônia e da Superintendência do Desenvolvimento da Amazônia (SUDAM) preconizou uma política de concessão de incentivos fiscais aos empresários, especialmente das regiões mais ricas do país, para que deixassem de pagar 50% do imposto de renda, desde que o dinheiro fosse depositado naquele banco para financiar projetos de desenvolvimento no estado do Amazonas.  Os investimentos orientaram-se de preferência para a agropecuária, de modo que um grande número de empresários e de empresas, especialmente do Sudeste do Brasil, sem tradição no ramo, tornaram-se proprietários de terras e empresários rurais.  Em princípio a aquisição de terras pelos grandes capitalistas do Sudeste animou o mercado imobiliário. </p>
-					
 				</quote>
 				<cite>José de Sousa Martins. O Poder do Atraso. Adaptado. </cite>
 				<p>Assinale a alternativa que apresenta a combinação correta entre o período a que se refere o texto e as implicações, territoriais e sociais, observadas nas áreas onde a política de incentivos fiscais entrou em operação. </p>
 			</statement>
 			<options>
 				<table>
-				<!-- columns="Periodo;Implicações Territoriais;Sociais" -->
 					<option label="A" is_correct="false">
-						<cell><p>Brasil Império</p></cell>
-						<cell><p>Expansão dos sistemas agroflorestais e preservação da vegetação nativa</p></cell>
-						<cell><p>Aprovação do direito de sindicalização do trabalhador rural</p></cell>
+						<cell>
+							<p>Brasil Império</p>
+						</cell>
+						<cell>
+							<p>Expansão dos sistemas agroflorestais e preservação da vegetação nativa</p>
+						</cell>
+						<cell>
+							<p>Aprovação do direito de sindicalização do trabalhador rural</p>
+						</cell>
 					</option>
 					<option label="B" is_correct="false">
-						<cell><p>Primeira República</p></cell>
-						<cell><p>Expansão da área voltada à pecuária e redução da Mata Atlântica</p></cell>
-						<cell><p>Aumento do número de assalariados no campo</p></cell>
+						<cell>
+							<p>Primeira República</p>
+						</cell>
+						<cell>
+							<p>Expansão da área voltada à pecuária e redução da Mata Atlântica</p>
+						</cell>
+						<cell>
+							<p>Aumento do número de assalariados no campo</p>
+						</cell>
 					</option>
 					<option label="C" is_correct="false">
-						<cell><p>Estado Novo</p></cell>
-						<cell><p>Expansão da economia extrativista e concentração fundiária</p></cell>
-						<cell><p>Eliminação dos direitos trabalhistas na cidade e no campo</p></cell>
+						<cell>
+							<p>Estado Novo</p>
+						</cell>
+						<cell>
+							<p>Expansão da economia extrativista e concentração fundiária</p>
+						</cell>
+						<cell>
+							<p>Eliminação dos direitos trabalhistas na cidade e no campo</p>
+						</cell>
 					</option>
 					<option label="D" is_correct="true">
-						<cell><p>Ditadura Militar</p></cell>
-						<cell><p>Aumento da grilagem e avanço do desmatamento</p></cell>
-						<cell><p>Aumento dos conflitos violentos no campo</p></cell>
+						<cell>
+							<p>Ditadura Militar</p>
+						</cell>
+						<cell>
+							<p>Aumento da grilagem e avanço do desmatamento</p>
+						</cell>
+						<cell>
+							<p>Aumento dos conflitos violentos no campo</p>
+						</cell>
 					</option>
 					<option label="E" is_correct="false">
-						<cell><p>Nova República</p></cell>
-						<cell><p>Aumento da área de vegetação nativa e reforma agrária massiva</p></cell>
-						<cell><p>Melhora na distribuição fundiária e dos níveis de consumo interno</p></cell>
+						<cell>
+							<p>Nova República</p>
+						</cell>
+						<cell>
+							<p>Aumento da área de vegetação nativa e reforma agrária massiva</p>
+						</cell>
+						<cell>
+							<p>Melhora na distribuição fundiária e dos níveis de consumo interno</p>
+						</cell>
 					</option>
 				</table>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="16">
-			<classification subject="Geography:Geopolitics"/>
+			<classification subject="Geography:Geopolitics" />
 			<statement>
 				<header>Observe o mapa com dados de 2020: </header>
-				<image src="out02_page_2_image_1.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q16.png" />
 				<p>Os países destacados em amarelo no mapa referem-se: </p>
 			</statement>
 			<options>
@@ -434,11 +504,14 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="17">
-			<classification subject="Geography:Physical:Geology"/>
+			<classification subject="Geography:Physical:Geology" />
 			<statement>
 				<header>Terremoto no estado da Bahia </header>
-				<image src="out02_page_2_image_2.png"/>
+				<image width="0.7" src="fuvest/2021/fase01/q17.png" />
 				<cite>Disponivel em https://www.instagram.com/CEhFFU/ Adaptado. </cite>
 				<p>O terremoto indicado na figura ocorreu no estado da Bahia no dia 30/08/2020, com magnitude 4,6 na escala Richter, atingindo cidades do Vale do Jiquiriçá e do Recôncavo Baiano.  Sobre terremotos em geral, e sobre este especificamente, é correto afirmar: </p>
 			</statement>
@@ -460,47 +533,44 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="18">
-			<classification subject="History:Contemporary"/>
-			<classification subject="Geography:Human:Urbanization"/>
+			<classification subject="History:Contemporary" />
+			<classification subject="Geography:Human:Urbanization" />
 			<statement>
 				<quote>
 					<p>A linha de fronteira hoje possui uma definição essencialmente econômica - como a fronteira da lucratividade-mas adquire uma expressão geográfica bastante acentuada em diferentes escalas espaciais.  Isto é, basicamente, o que a fronteira do século XIX e a assim chamada fronteira urbana têm em comum.  Na realidade, ambas estão associadas à acumulação e expansão do capital.  Mas enquanto a fronteira do século XIX representou a realização de uma expansão geográfica absoluta na escala do território como a principal expressão espacial da acumulação de capital, a renovação urbana representa o exemplo mais desenvolvido da rediferenciação do espaço geográfico com vista ao mesmo resultado. </p>
-					
 				</quote>
 				<cite>Neil Smith. Gentrificação, a fronteira e a reestruturação do espaço urbano, 1986. Adaptado. </cite>
 				<p>O excerto relaciona a dinâmica geográfica dos Estados Unidos no século XIX à do final do século XX.  As imagens correspondentes a cada um dos momentos apresentados pelo excerto são identificadas em: </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<image src="out02_page_3_image_1.png"/>
-					<image src="out02_page_3_image_2.png"/>
+					<image width="0.8" src="fuvest/2021/fase01/q18a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="out02_page_3_image_3.png"/>
-					<image src="out02_page_3_image_4.png"/>
+					<image width="0.8" src="fuvest/2021/fase01/q18b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="out02_page_3_image_5.png"/>
-					<image src="out02_page_3_image_6.png"/>
+					<image width="0.8" src="fuvest/2021/fase01/q18c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out02_page_3_image_7.png"/>
-					<image src="out02_page_3_image_8.png"/>
+					<image width="0.8" src="fuvest/2021/fase01/q18d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="out02_page_3_image_9.png"/>
-					<image src="out02_page_3_image_10.png"/>
+					<image width="0.8" src="fuvest/2021/fase01/q18e.png" />
 				</option>
 			</options>
 		</objective_question>
 	</question_group>
-	
-		<question_group>
+
+	<question_group>
 		<objective_question number="19">
-			<classification subject="Geography:Human:Urbanization"/>
+			<classification subject="Geography:Human:Urbanization" />
 			<statement>
-				<image src="out03_page_1_image_1.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q19.png" />
 				<cite>Henri Lefebvre. A revolução urbana. Adaptado.</cite>
 				<p>O esquema apresenta a linha de urbanização da sociedade, que vai de 0 a 100%.</p>
 				<p>Considerando os referenciais trazidos no esquema, fazem parte do contexto identificado na chamada "zona crítica":</p>
@@ -523,8 +593,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="20">
-			<classification subject="Geography:Geopolitics"/>
+			<classification subject="Geography:Geopolitics" />
 			<statement>
 				<p>O acordo entre o Mercosul e a União Europeia está sendo discutido há cerca de 20 anos e prevê, entre outros elementos, a redução progressiva das tarifas de exportação entre os blocos. O Brasil, que é um grande exportador de produtos de origem agrícola para o mercado europeu, teria redução tarifária para a exportação de produtos como carnes, açúcar e etanol, dentre outros. Para a ratificação do acordo, o parlamento europeu aprovou uma resolução que manifesta a importância do compromisso dos países do Mercosul com a implementação do Acordo de Paris.</p>
 				<p>A relutância em ratificar o acordo entre Mercosul e União Europeia, por parte de alguns países da UE em 2020, deveu-se, entre outros fatores,</p>
@@ -553,12 +626,14 @@
 				<p>UE: União Europeia</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="21">
-			<classification subject="Geography:Physical:Hydrology"/>
+			<classification subject="Geography:Physical:Hydrology" />
 			<statement>
 				<quote>
 					<p>O Sistema Aquífero Guarani abrange parte dos territórios da Argentina, do Brasil, do Paraguai e do Uruguai. Possui um volume acumulado de 37.000 $km^{3}$ e área estimada de 1.087.000 km². Na parte brasileira estende-se por oito Estados: Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Santa Catarina e São Paulo.</p>
-					
 				</quote>
 				<cite>Disponível em https://www.mma.gov.br/</cite>
 				<p>Sobre os aquíferos e seus usos para atividades humanas, é correto afirmar:</p>
@@ -581,12 +656,14 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="22">
-			<classification subject="Geography:Physical:Climatology"/>
+			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<quote>
 					<p>O Monte Everest é o pico mais elevado do planeta, localizado na cordilheira do Himalaia, na fronteira da China e Nepal, com 8.848 metros de altitude. Possui cinco estações meteorológicas em diferentes altitudes funcionando desde 2019, entre elas a estação mais elevada do planeta (8.430 m), que registra dados valiosos para a climatologia. Esse projeto foi liderado pelo Dr. Paul Andrew Mayewski, geógrafo e climatologista, cuja equipe projetou e treinou por meses para instalar a estação meteorológica em tal condição adversa em menos de 90 minutos.</p>
-					
 				</quote>
 				<cite>Disponível em https://www.climadeensinar.com.br/. Adaptado.</cite>
 				<p>A dificuldade de instalação da estação na altitude citada deve-se</p>
@@ -609,14 +686,17 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="23">
-			<classification subject="Biology:Ecology:Ecosystems and Biomes"/>
+			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<quote>
 					<p>Segundo o Atlas de Serpentes Brasileiras, a jararaca (nome científico Bothrops jararaca) encontra-se com as ocorrências registradas em uma extensa faixa do Brasil relativa a diferentes Biomas, onde se alimenta de anfíbios, roedores e outros animais. A espécie ocorre nas áreas apontadas, sendo encontrada em zonas florestadas ou modificadas pela ação humana.</p>
 				</quote>
 				<cite>Fonte: Atlas de Serpentes Brasileiras (2019) e IBGE (2020). Adaptado.</cite>
-				<image src="out03_page_2_image_1.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q23.png" />
 				<p>Sobre as serpentes Bothrops jararaca e os principais biomas de ocorrência, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -637,8 +717,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="24">
-			<classification subject="Biology:Ecology:Ecosystems and Biomes"/>
+			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>Na transição do Cerrado para a Mata Atlântica, ocorre uma substituição da vegetação, que resulta em mudanças na frequência de certas características das plantas.</p>
 				<p>Identifique duas mudanças decorrentes dessa transição.</p>
@@ -661,11 +744,14 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="25">
-			<classification subject="Biology:Ecology:Environmental Impacts"/>
+			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>O tempo de decomposição dos diferentes resíduos sólidos condiciona a destinação de cada tipo, visando a diminuir os impactos ambientais causados por seu descarte. O gráfico mostra dois grupos de resíduos sólidos (X e Y) produzidos pela população humana, com diferentes tempos de decomposição.</p>
-				<image src="out03_page_2_image_2.png"/>
+				<image width="0.7" src="fuvest/2021/fase01/q25.png" />
 				<p>Com base nessas informações e nos seus conhecimentos, é correto afirmar que as</p>
 			</statement>
 			<options>
@@ -689,11 +775,14 @@
 				<p>Considere que os resíduos dos grupos X e Y foram expostos às mesmas condições, sem decomposição acelerada.</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="26">
-			<classification subject="Biology:Ecology:Population Dynamics"/>
+			<classification subject="Biology:Ecology:Population Dynamics" />
 			<statement>
 				<p>Os gráficos mostram a variação nas taxas de emigração, imigração, mortalidade e natalidade de uma dada população de mamíferos ao longo de 20 anos.</p>
-				<image src="out03_page_3_image_2.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q26.png" />
 				<p>Com base nesses gráficos, o tamanho dessa população deve</p>
 			</statement>
 			<options>
@@ -714,8 +803,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="27">
-			<classification subject="Biology:Genetics:Biotechnology"/>
+			<classification subject="Biology:Genetics:Biotechnology" />
 			<statement>
 				<p>Uma variedade de milho (Milho Bt) foi modificada com a inserção de genes da bactéria Bacillus thuringiensis, que produzem proteínas Cry, tóxicas para insetos como as lagartas que atacam suas lavouras. Essas proteínas bloqueiam o trato digestório dos insetos, levando-os à morte. Em aves e mamíferos que também se alimentam de milho, as proteínas Cry são inativadas durante a digestão ácida, perdendo sua ação sobre esses animais.</p>
 				<p>A alternativa que indica corretamente um aspecto positivo e um negativo dos efeitos desta modificação genética do milho para o ser humano é:</p>
@@ -723,96 +815,150 @@
 			<options>
 				<table>
 					<header>
-						<cell><p>Aspecto positivo</p></cell>
-						<cell><p>Aspecto negativo</p></cell>
+						<cell>
+							<p>Aspecto positivo</p>
+						</cell>
+						<cell>
+							<p>Aspecto negativo</p>
+						</cell>
 					</header>
 					<option label="A" is_correct="false">
-						<cell><p>Aumento do valor nutricional do milho.</p></cell>
-						<cell><p>Possibilidade de desenvolvimento de alergia à proteína Cry em pessoas vulneráveis.</p></cell>
+						<cell>
+							<p>Aumento do valor nutricional do milho.</p>
+						</cell>
+						<cell>
+							<p>Possibilidade de desenvolvimento de alergia à proteína Cry em pessoas vulneráveis.</p>
+						</cell>
 					</option>
 					<option label="B" is_correct="false">
-						<cell><p>Menor tempo de maturação dos grãos.</p></cell>
-						<cell><p>Possibilidade de invasão da vegetação nativa pela planta transgênica.</p></cell>
+						<cell>
+							<p>Menor tempo de maturação dos grãos.</p>
+						</cell>
+						<cell>
+							<p>Possibilidade de invasão da vegetação nativa pela planta transgênica.</p>
+						</cell>
 					</option>
 					<option label="C" is_correct="false">
-						<cell><p>Facilitação da polinização das plantas.</p></cell>
-						<cell><p>Risco de extinção local de aves e mamíferos insetívoros.</p></cell>
+						<cell>
+							<p>Facilitação da polinização das plantas.</p>
+						</cell>
+						<cell>
+							<p>Risco de extinção local de aves e mamíferos insetívoros.</p>
+						</cell>
 					</option>
 					<option label="D" is_correct="false">
-						<cell><p>Economia de água pela redução da irrigação.</p></cell>
-						<cell><p>Maior exposição dos agricultores a agrotóxicos.</p></cell>
+						<cell>
+							<p>Economia de água pela redução da irrigação.</p>
+						</cell>
+						<cell>
+							<p>Maior exposição dos agricultores a agrotóxicos.</p>
+						</cell>
 					</option>
 					<option label="E" is_correct="true">
-						<cell><p>Maior produtividade das lavouras de milho.</p></cell>
-						<cell><p>Possibilidade de surgimento de lagartas resistentes à proteína Cry.</p></cell>
+						<cell>
+							<p>Maior produtividade das lavouras de milho.</p>
+						</cell>
+						<cell>
+							<p>Possibilidade de surgimento de lagartas resistentes à proteína Cry.</p>
+						</cell>
 					</option>
 				</table>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="28">
-			<classification subject="Biology:Genetics:Mendelian Genetics"/>
+			<classification subject="Biology:Genetics:Mendelian Genetics" />
 			<statement>
 				<p>A genealogia a seguir representa uma família em que aparecem pessoas afetadas por adrenoleucodistrofia. A mulher II.2 está grávida e ainda não sabe o sexo do bebê.</p>
-				<image src="out03_page_3_image_1.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q28.png" />
 				<p>A relação correta entre o padrão de herança desta forma de adrenoleucodistrofia e a probabilidade de que a criança seja afetada é:</p>
 			</statement>
 			<options>
 				<table>
 					<header>
-						<cell><p>Padrão de herança</p></cell>
-						<cell><p>Probabilidade de ser afetada</p></cell>
+						<cell>
+							<p>Padrão de herança</p>
+						</cell>
+						<cell>
+							<p>Probabilidade de ser afetada</p>
+						</cell>
 					</header>
 					<option label="A" is_correct="false">
-						<cell><p>Ligado ao X recessivo</p></cell>
-						<cell><p>50% caso seja menino</p></cell>
+						<cell>
+							<p>Ligado ao X recessivo</p>
+						</cell>
+						<cell>
+							<p>50% caso seja menino</p>
+						</cell>
 					</option>
 					<option label="B" is_correct="true">
-						<cell><p>Ligado ao X recessivo</p></cell>
-						<cell><p>25% caso seja menino</p></cell>
+						<cell>
+							<p>Ligado ao X recessivo</p>
+						</cell>
+						<cell>
+							<p>25% caso seja menino</p>
+						</cell>
 					</option>
 					<option label="C" is_correct="false">
-						<cell><p>Ligado ao Y</p></cell>
-						<cell><p>100% caso seja menino</p></cell>
+						<cell>
+							<p>Ligado ao Y</p>
+						</cell>
+						<cell>
+							<p>100% caso seja menino</p>
+						</cell>
 					</option>
 					<option label="D" is_correct="false">
-						<cell><p>Autossômico recessivo</p></cell>
-						<cell><p>75% em qualquer caso</p></cell>
+						<cell>
+							<p>Autossômico recessivo</p>
+						</cell>
+						<cell>
+							<p>75% em qualquer caso</p>
+						</cell>
 					</option>
 					<option label="E" is_correct="false">
-						<cell><p>Autossômico recessivo</p></cell>
-						<cell><p>12,5% em qualquer caso</p></cell>
+						<cell>
+							<p>Autossômico recessivo</p>
+						</cell>
+						<cell>
+							<p>12,5% em qualquer caso</p>
+						</cell>
 					</option>
 				</table>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="29">
-			<classification subject="Biology:Cell:Division (Mitosis and Meiosis)"/>
+			<classification subject="Biology:Cell:Division (Mitosis and Meiosis)" />
 			<statement>
 				<p>Considere dois genes (A e B) localizados em cromossomos diferentes e seus respectivos alelos (A, a, B, b). Uma representação possível desses alelos durante a mitose, imediatamente antes da metáfase, é:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<image src="out03_page_3_image_5.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q29a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="out03_page_3_image_7.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q29b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="out03_page_3_image_9.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q29c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out03_page_3_image_6.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q29d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="out03_page_3_image_8.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q29e.png" />
 				</option>
 			</options>
 		</objective_question>
 	</question_group>
-	
-		<question_group>
+
+	<question_group>
 		<objective_question number="30">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>O gás carbônico atmosférico reage com a água do mar conforme detalhado em (I):</p>
 				<p>(I) $CO_{2}+H_{2}O\rightleftharpoons H_{2}CO_{3}\rightleftharpoons HCO_{3}^{-}+H^{+}$</p>
@@ -838,8 +984,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="31">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Considere três espécies de plantas (X, Y e Z) e suas características:</p>
 				<ul>
@@ -872,11 +1021,14 @@
 				<p>Considere o bicarbonato solúvel e o carbonato de cálcio insolúvel.</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="32">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A determinação do sexo em embriões de tartaruga-de-couro depende da temperatura a que o ovo foi exposto. Isso está relacionado à ação da enzima aromatase, que converte a testosterona em estradiol. A expressão gênica e a atividade dessa enzima nas gônadas são dependentes da temperatura, conforme indicado na figura.</p>
-				<image src="out04_1.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q32.png" />
 				<cite>Fonte: doi: 10.3389/fphys. 2020.00035</cite>
 				<p>Sobre a determinação do sexo em tartarugas-de-couro, é correto afirmar:</p>
 			</statement>
@@ -898,54 +1050,108 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="33">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>No que diz respeito a infecções sexualmente transmissíveis (ISTs), identifique a relação correta entre grupo causador, um dos seus sintomas e se possui ou não vacina preventiva.</p>
 			</statement>
 			<options>
 				<table>
 					<header>
-						<cell><p>IST</p></cell>
-						<cell><p>Causador</p></cell>
-						<cell><p>Um dos possíveis sintomas</p></cell>
-						<cell><p>Possui vacina?</p></cell>
+						<cell>
+							<p>IST</p>
+						</cell>
+						<cell>
+							<p>Causador</p>
+						</cell>
+						<cell>
+							<p>Um dos possíveis sintomas</p>
+						</cell>
+						<cell>
+							<p>Possui vacina?</p>
+						</cell>
 					</header>
 					<option label="A" is_correct="false">
-						<cell><p>Gonorreia</p></cell>
-						<cell><p>Neisseria gonorrhoeae (bactéria)</p></cell>
-						<cell><p>Ardor na uretra e secreção purulenta</p></cell>
-						<cell><p>Sim</p></cell>
+						<cell>
+							<p>Gonorreia</p>
+						</cell>
+						<cell>
+							<p>Neisseria gonorrhoeae (bactéria)</p>
+						</cell>
+						<cell>
+							<p>Ardor na uretra e secreção purulenta</p>
+						</cell>
+						<cell>
+							<p>Sim</p>
+						</cell>
 					</option>
 					<option label="B" is_correct="false">
-						<cell><p>Hepatite C</p></cell>
-						<cell><p>HCV (bactéria)</p></cell>
-						<cell><p>Comprometimento da função do fígado</p></cell>
-						<cell><p>Não</p></cell>
+						<cell>
+							<p>Hepatite C</p>
+						</cell>
+						<cell>
+							<p>HCV (bactéria)</p>
+						</cell>
+						<cell>
+							<p>Comprometimento da função do fígado</p>
+						</cell>
+						<cell>
+							<p>Não</p>
+						</cell>
 					</option>
 					<option label="C" is_correct="false">
-						<cell><p>AIDS</p></cell>
-						<cell><p>HIV (virus)</p></cell>
-						<cell><p>Erupção cutânea</p></cell>
-						<cell><p>Sim</p></cell>
+						<cell>
+							<p>AIDS</p>
+						</cell>
+						<cell>
+							<p>HIV (virus)</p>
+						</cell>
+						<cell>
+							<p>Erupção cutânea</p>
+						</cell>
+						<cell>
+							<p>Sim</p>
+						</cell>
 					</option>
 					<option label="D" is_correct="false">
-						<cell><p>Sífilis</p></cell>
-						<cell><p>Treponema pallidum (verme)</p></cell>
-						<cell><p>Ferida na genitália externa (cancro)</p></cell>
-						<cell><p>Não</p></cell>
+						<cell>
+							<p>Sífilis</p>
+						</cell>
+						<cell>
+							<p>Treponema pallidum (verme)</p>
+						</cell>
+						<cell>
+							<p>Ferida na genitália externa (cancro)</p>
+						</cell>
+						<cell>
+							<p>Não</p>
+						</cell>
 					</option>
 					<option label="E" is_correct="true">
-						<cell><p>Condiloma acuminado (crista de galo)</p></cell>
-						<cell><p>HPV (virus)</p></cell>
-						<cell><p>Verrugas na região genital</p></cell>
-						<cell><p>Sim</p></cell>
+						<cell>
+							<p>Condiloma acuminado (crista de galo)</p>
+						</cell>
+						<cell>
+							<p>HPV (virus)</p>
+						</cell>
+						<cell>
+							<p>Verrugas na região genital</p>
+						</cell>
+						<cell>
+							<p>Sim</p>
+						</cell>
 					</option>
 				</table>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="34">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<verse>
 					<title>Canto V Estância 81</title>
@@ -979,8 +1185,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="35">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A exploração da prata americana pelos espanhóis no século XVI teve grande importância na história mundial porque</p>
 			</statement>
@@ -1002,8 +1211,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="36">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<quote>
 					<p>A base física do Brasil, ao principiar o século XVIII, era profundamente diversa daquela que, mesmo numa interpretação liberal do Tratado de Tordesilhas, fora assentada no diploma de 1494. A expansão ao longo do litoral levara ao Oiapoc, no norte, e ao Prata, no sul. O rush do ouro estava determinando a ampliação da área oeste do mesmo modo por que a "droga do sertão" explicava a façanha da incorporação do mundo amazônico. Toda uma geografia nova, política, social e econômica se estava escrevendo na América portuguesa [...].</p>
@@ -1029,8 +1241,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="37">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A economia do Império do Brasil foi caracterizada por:</p>
 			</statement>
@@ -1052,8 +1267,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="38">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A Cabanagem foi uma revolta social ocorrida no norte do Brasil entre 1835 e 1840 e se insere em um contexto frequentemente chamado de "Período Regencial". Trata-se de uma revolta que, junto a outras do mesmo período, tipifica</p>
 			</statement>
@@ -1075,8 +1293,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="39">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<quote>
 					<p>Uma das folhas de ontem estampou (...) o programa da recepção presidencial em que, diante do corpo diplomático, da mais fina sociedade do Rio de Janeiro, aqueles que deviam dar ao país o exemplo das maneiras mais distintas e dos costumes mais reservados elevaram o Corta-jaca à altura de uma instituição social. Mas o Corta-jaca de que eu ouvira falar há muito tempo, que vem a ser ele, Sr. Presidente? A mais baixa, a mais chula, a mais grosseira de todas as danças selvagens, a irmã gêmea do batuque, do cateretê e do samba. Mas nas recepções presidenciais o "Corta-jaca" é executado com todas as honras da música de Wagner, e não se quer que a consciência deste país se revolte, que as nossas faces se enrubesçam e que a mocidade se ria!</p>
@@ -1102,8 +1323,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="40">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A ascensão de regimes autoritários na Europa nas primeiras décadas do século XX teve o amparo de milícias que arregimentaram uma legião de indivíduos de origem social heterogênea. Dentre estes grupos, destaca(m)-se:</p>
 			</statement>
@@ -1125,11 +1349,14 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="41">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A imagem é considerada uma das referências do movimento artístico e cultural denominado Renascimento. Analise-a atentamente.</p>
-				<image src="out04_3.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q41.png" />
 				<caption>A Primavera, Sandro Botticelli, século XV.</caption>
 				<p>Essa imagem pode ser considerada renascentista porque</p>
 			</statement>
@@ -1152,116 +1379,250 @@
 			</options>
 		</objective_question>
 	</question_group>
-	
-	
-	
-		<question_group>
+
+	<question_group>
 		<objective_question number="42">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Leia com atenção os dados do quadro e da tabela, relativos à epidemia de gripe espanhola na cidade de São Paulo, em 1918.</p>
 				<header>Quadro: Município de São Paulo: Características distritais por volta de 1918.</header>
 				<table>
 					<header>
-						<cell><p>Grupo Distrital</p></cell>
-						<cell><p>Distritos</p></cell>
-						<cell><p>Características Topográficas</p></cell>
-						<cell><p>Classes Sociais predominantes</p></cell>
-						<cell><p>Tipos de Moradia</p></cell>
-						<cell><p>Benefícios Existentes</p></cell>
+						<cell>
+							<p>Grupo Distrital</p>
+						</cell>
+						<cell>
+							<p>Distritos</p>
+						</cell>
+						<cell>
+							<p>Características Topográficas</p>
+						</cell>
+						<cell>
+							<p>Classes Sociais predominantes</p>
+						</cell>
+						<cell>
+							<p>Tipos de Moradia</p>
+						</cell>
+						<cell>
+							<p>Benefícios Existentes</p>
+						</cell>
 					</header>
 					<row>
-						<cell><p>Central</p></cell>
-						<cell><p>Sé e Consolação.</p></cell>
-						<cell><p>Terrenos altos e patamares.</p></cell>
-						<cell><p>Burguesia e classes médias.</p></cell>
-						<cell><p>Mansões, sobrados e edificios administrativos.</p></cell>
-						<cell><p>Sistemas de água e esgoto abrangentes, luz elétrica, telefone, linhas de bonde, ruas movimentadas e arborizadas.</p></cell>
+						<cell>
+							<p>Central</p>
+						</cell>
+						<cell>
+							<p>Sé e Consolação.</p>
+						</cell>
+						<cell>
+							<p>Terrenos altos e patamares.</p>
+						</cell>
+						<cell>
+							<p>Burguesia e classes médias.</p>
+						</cell>
+						<cell>
+							<p>Mansões, sobrados e edificios administrativos.</p>
+						</cell>
+						<cell>
+							<p>Sistemas de água e esgoto abrangentes, luz elétrica, telefone, linhas de bonde, ruas movimentadas e arborizadas.</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Intermediário</p></cell>
-						<cell><p>Liberdade, Bela Vista, Santa Efigênia e Santa Cecilia.</p></cell>
-						<cell><p>Colinas e patamares.</p></cell>
-						<cell><p>Classes médias e principalmente proletariado.</p></cell>
-						<cell><p>Sobrados, chalés e cortiços.</p></cell>
-						<cell><p>Bondes, água, esgoto, luz e telefone apenas nas áreas próximas do distrito anterior.</p></cell>
+						<cell>
+							<p>Intermediário</p>
+						</cell>
+						<cell>
+							<p>Liberdade, Bela Vista, Santa Efigênia e Santa Cecilia.</p>
+						</cell>
+						<cell>
+							<p>Colinas e patamares.</p>
+						</cell>
+						<cell>
+							<p>Classes médias e principalmente proletariado.</p>
+						</cell>
+						<cell>
+							<p>Sobrados, chalés e cortiços.</p>
+						</cell>
+						<cell>
+							<p>Bondes, água, esgoto, luz e telefone apenas nas áreas próximas do distrito anterior.</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Periférico</p></cell>
-						<cell><p>Bom Retiro, Brás, Mooca e Belenzinho.</p></cell>
-						<cell><p>Terraços fluviais de baixadas relativamente enxutas e planícies sujeitas a inundações periódicas.</p></cell>
-						<cell><p>Proletariado.</p></cell>
-						<cell><p>Habitações coletivas e algumas vilas operárias.</p></cell>
-						<cell><p>Bondes, iluminação elétrica apenas nas principais vias públicas; serviços precários de água e esgoto.</p></cell>
+						<cell>
+							<p>Periférico</p>
+						</cell>
+						<cell>
+							<p>Bom Retiro, Brás, Mooca e Belenzinho.</p>
+						</cell>
+						<cell>
+							<p>Terraços fluviais de baixadas relativamente enxutas e planícies sujeitas a inundações periódicas.</p>
+						</cell>
+						<cell>
+							<p>Proletariado.</p>
+						</cell>
+						<cell>
+							<p>Habitações coletivas e algumas vilas operárias.</p>
+						</cell>
+						<cell>
+							<p>Bondes, iluminação elétrica apenas nas principais vias públicas; serviços precários de água e esgoto.</p>
+						</cell>
 					</row>
 				</table>
 				<header>Tabela: Mortalidade Gripal no Município de São Paulo por distrito (15/10 a 19/12/1918).</header>
 				<table>
 					<header>
-						<cell><p>Distritos</p></cell>
-						<cell><p>População</p></cell>
-						<cell><p>Óbitos gripais</p></cell>
-						<cell><p>Mortalidade por 1.000 habitantes</p></cell>
+						<cell>
+							<p>Distritos</p>
+						</cell>
+						<cell>
+							<p>População</p>
+						</cell>
+						<cell>
+							<p>Óbitos gripais</p>
+						</cell>
+						<cell>
+							<p>Mortalidade por 1.000 habitantes</p>
+						</cell>
 					</header>
 					<row>
-						<cell><p>Consolação</p></cell>
-						<cell><p>41.960</p></cell>
-						<cell><p>254</p></cell>
-						<cell><p>6,05</p></cell>
+						<cell>
+							<p>Consolação</p>
+						</cell>
+						<cell>
+							<p>41.960</p>
+						</cell>
+						<cell>
+							<p>254</p>
+						</cell>
+						<cell>
+							<p>6,05</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Sé</p></cell>
-						<cell><p>9.993</p></cell>
-						<cell><p>64</p></cell>
-						<cell><p>6,40</p></cell>
+						<cell>
+							<p>Sé</p>
+						</cell>
+						<cell>
+							<p>9.993</p>
+						</cell>
+						<cell>
+							<p>64</p>
+						</cell>
+						<cell>
+							<p>6,40</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Bela Vista</p></cell>
-						<cell><p>40.652</p></cell>
-						<cell><p>312</p></cell>
-						<cell><p>7,67</p></cell>
+						<cell>
+							<p>Bela Vista</p>
+						</cell>
+						<cell>
+							<p>40.652</p>
+						</cell>
+						<cell>
+							<p>312</p>
+						</cell>
+						<cell>
+							<p>7,67</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Liberdade</p></cell>
-						<cell><p>35.368</p></cell>
-						<cell><p>217</p></cell>
-						<cell><p>6,14</p></cell>
+						<cell>
+							<p>Liberdade</p>
+						</cell>
+						<cell>
+							<p>35.368</p>
+						</cell>
+						<cell>
+							<p>217</p>
+						</cell>
+						<cell>
+							<p>6,14</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Santa Cecília</p></cell>
-						<cell><p>49.285</p></cell>
-						<cell><p>374</p></cell>
-						<cell><p>7,59</p></cell>
+						<cell>
+							<p>Santa Cecília</p>
+						</cell>
+						<cell>
+							<p>49.285</p>
+						</cell>
+						<cell>
+							<p>374</p>
+						</cell>
+						<cell>
+							<p>7,59</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Santa Efigênia</p></cell>
-						<cell><p>37.670</p></cell>
-						<cell><p>357</p></cell>
-						<cell><p>9,48</p></cell>
+						<cell>
+							<p>Santa Efigênia</p>
+						</cell>
+						<cell>
+							<p>37.670</p>
+						</cell>
+						<cell>
+							<p>357</p>
+						</cell>
+						<cell>
+							<p>9,48</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Belenzinho</p></cell>
-						<cell><p>41.698</p></cell>
-						<cell><p>557</p></cell>
-						<cell><p>13,36</p></cell>
+						<cell>
+							<p>Belenzinho</p>
+						</cell>
+						<cell>
+							<p>41.698</p>
+						</cell>
+						<cell>
+							<p>557</p>
+						</cell>
+						<cell>
+							<p>13,36</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Bom Retiro</p></cell>
-						<cell><p>27.101</p></cell>
-						<cell><p>291</p></cell>
-						<cell><p>10,74</p></cell>
+						<cell>
+							<p>Bom Retiro</p>
+						</cell>
+						<cell>
+							<p>27.101</p>
+						</cell>
+						<cell>
+							<p>291</p>
+						</cell>
+						<cell>
+							<p>10,74</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Brás</p></cell>
-						<cell><p>61.057</p></cell>
-						<cell><p>674</p></cell>
-						<cell><p>11,04</p></cell>
+						<cell>
+							<p>Brás</p>
+						</cell>
+						<cell>
+							<p>61.057</p>
+						</cell>
+						<cell>
+							<p>674</p>
+						</cell>
+						<cell>
+							<p>11,04</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Mooca</p></cell>
-						<cell><p>62.993</p></cell>
-						<cell><p>860</p></cell>
-						<cell><p>13,65</p></cell>
+						<cell>
+							<p>Mooca</p>
+						</cell>
+						<cell>
+							<p>62.993</p>
+						</cell>
+						<cell>
+							<p>860</p>
+						</cell>
+						<cell>
+							<p>13,65</p>
+						</cell>
 					</row>
 				</table>
 				<cite>Fonte: Claudio Bertolli Filho. A gripe espanhola em São Paulo, 1918. Epidemia e sociedade. Rio de Janeiro: Paz e Terra, 2003, p. 47 e p. 91 (adaptado).</cite>
@@ -1285,8 +1646,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="43">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Leia o texto:</p>
 				<quote>
@@ -1313,8 +1677,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="44">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<quote>
 					<p>[No Brasil], a transição da predominância indígena para a africana na composição da força de trabalho escrava ocorreu aos poucos ao longo de aproximadamente meio século. Quando os senhores de engenho, individualmente, acumulavam recursos financeiros suficientes, compravam alguns cativos africanos, e iam acrescentando outros à medida que capital e crédito tornavam-se disponíveis. Em fins do século XVI, a mão de obra dos engenhos era mista do ponto de vista racial, e a proporção foi mudando crescentemente em favor dos africanos importados e sua prole.</p>
@@ -1340,8 +1707,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="45">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Considere as seguintes afirmações:</p>
 				<p>I. Uma pessoa em um trampolim é lançada para o alto. No ponto mais alto de sua trajetória, sua aceleração será nula, o que dá a sensação de "gravidade zero".</p>
@@ -1367,11 +1737,14 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="46">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Um vídeo bastante popular na Internet mostra um curioso experimento em que uma garrafa de água pendurada por uma corda é mantida suspensa por um palito de dente apoiado em uma mesa.</p>
-				<image src="out05_2_photo_and_diagram.png" />
+				<image width="0.8" src="fuvest/2021/fase01/q46.png" />
 				<p>O "truque" só é possível pelo uso de outros palitos, formando um tipo de treliça. A figura à direita da foto mostra uma visão lateral do conjunto, destacando duas das forças que atuam sobre o palito 1. Nesta figura, $\vec{F}$ é a força que o palito 2 exerce sobre o palito 1 (aplicada a uma distância L do ponto A na borda da mesa), $\vec{P}$ é a componente vertical da força que a corda exerce sobre o palito 1 (aplicada a uma distância d do ponto A) e $\theta$ é o ângulo entre a direção da força $\vec{F}$ e a vertical. Para que o conjunto se mantenha estático, porém na iminência de rotacionar, a relação entre os módulos de $\vec{F}$ e $\vec{P}$ deve ser:</p>
 			</statement>
 			<options>
@@ -1396,11 +1769,14 @@
 				<p>Despreze o peso dos palitos em relação aos módulos das forças $\vec{F}$ e $\vec{P}$.</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="47">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Os smartphones modernos vêm equipados com um acelerômetro, dispositivo que mede acelerações a que o aparelho está submetido. O gráfico foi gerado a partir de dados extraídos por um aplicativo do acelerômetro de um smartphone pendurado por um fio e colocado para oscilar sob a ação da gravidade. O gráfico mostra os dados de uma das componentes da aceleração (corrigidos por um valor de referência constante) em função do tempo.</p>
-				<image src="out05_3_graph.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q47.png" />
 				<p>Com base nos dados do gráfico e considerando que o movimento do smartphone seja o de um pêndulo simples a ângulos pequenos, o comprimento do fio é de aproximadamente:</p>
 			</statement>
 			<options>
@@ -1426,8 +1802,11 @@
 				<p>Aceleração da gravidade: $g=10~m/s^{2}$</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="48">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Uma comunidade rural tem um consumo de energia elétrica de 2 MWh por mês. Para suprir parte dessa demanda, os moradores têm interesse em instalar uma miniusina hidrelétrica em uma queda d'água de 15 m de altura com vazão de 10 litros por segundo. O restante do consumo seria complementado com painéis de energia solar que produzem 40 kWh de energia por mês cada um.</p>
 				<p>Considerando que a miniusina hidrelétrica opere 24h por dia com 100% de eficiência, o número mínimo de painéis solares necessários para suprir a demanda da comunidade seria de:</p>
@@ -1456,11 +1835,14 @@
 				<p>Aceleração da gravidade: $g=10~m/s^{2}$.</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="49">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Ondas estacionárias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogênea, fixa em dois pontos separados por uma distância L, e pondo-a a vibrar. A extremidade à direita é acoplada a um gerador de frequências, enquanto a outra extremidade está sujeita a uma força tensional produzida ao se pendurar à corda um objeto de massa $m_{0}$ mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequência do gerador para $f_{1}$, obtém-se na corda uma onda estacionária que vibra em seu primeiro harmônico.</p>
-				<image src="out05_3_diagram_wave.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q49.png" />
 				<p>Ao trocarmos o objeto pendurado por outro de massa M, observa-se que a frequência do gerador para que a corda continue a vibrar no primeiro harmônico deve ser ajustada para $2f_{1}$. Com isso, é correto concluir que a razão $M/m_{0}$ deve ser:</p>
 			</statement>
 			<options>
@@ -1485,11 +1867,14 @@
 				<p>A velocidade da onda propagando-se em uma corda é diretamente proporcional à raiz quadrada da tensão sob a qual a corda está submetida.</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="50">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Um mol de um gás ideal percorre o processo cíclico ABCA em um diagrama P-V, conforme mostrado na figura, sendo que a etapa AB é isobárica, a etapa BC é isocórica e a etapa CA é isotérmica.</p>
-				<image src="out05_3_pv_diagram.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q50.png" />
 				<p>Considere as seguintes afirmações:</p>
 				<p>I. O gás libera calor tanto na etapa BC quanto na etapa CA.</p>
 				<p>II. O módulo do trabalho realizado pelo gás é não nulo tanto na etapa AB quanto na etapa BC.</p>
@@ -1515,39 +1900,42 @@
 			</options>
 		</objective_question>
 	</question_group>
-	
-		<question_group>
+
+	<question_group>
 		<objective_question number="51">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>O olho humano constitui uma complexa estrutura capaz de controlar a luz recebida e produzir imagens nítidas. Em pessoas com visão normal, o olho é capaz de acomodar o cristalino para focalizar sobre a retina a luz que vem dos objetos, desde que não estejam muito próximos. Pessoas míopes, por outro lado, apresentam dificuldades em enxergar de longe. Ao focalizar objetos situados além do chamado ponto remoto (PR), a imagem forma-se à frente da retina, conforme ilustrado na figura.</p>
-				<image src="out06_1_myopia_diagram.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q51.png" />
 				<p>Neste caso, lentes corretivas são necessárias a fim de que o indivíduo observe o objeto de forma nítida.</p>
 				<p>Qual arranjo esquemático melhor descreve a correção realizada por uma lente receitada por um oftalmologista no caso de um indivíduo míope?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image src="out06_1_option_A.png"/>
+					<image width="0.7" src="fuvest/2021/fase01/q51a.png" />
 				</option>
 				<option label="B" is_correct="true">
-					<image src="out06_1_option_B.png"/>
+					<image width="0.7" src="fuvest/2021/fase01/q51b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="out06_1_option_C.png"/>
+					<image width="0.7" src="fuvest/2021/fase01/q51c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out06_1_option_D.png"/>
+					<image width="0.7" src="fuvest/2021/fase01/q51d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image src="out06_1_option_E.png"/>
+					<image width="0.7" src="fuvest/2021/fase01/q51e.png" />
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="52">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Dois balões negativamente carregados são utilizados para induzir cargas em latas metálicas, alinhadas e em contato, que, inicialmente, estavam eletricamente neutras.</p>
-				<image src="out06_1_induction.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q52.png" />
 				<p>Conforme mostrado na figura, os balões estão próximos, mas jamais chegam a tocar as latas. Nessa configuração, as latas 1, 2 e 3 terão, respectivamente, carga total:</p>
 			</statement>
 			<options>
@@ -1573,11 +1961,14 @@
 				<p>Suponha que o ar no entorno seja um isolante perfeito.</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="53">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Em uma luminária de mesa, há duas lâmpadas que podem ser acesas individualmente ou ambas ao mesmo tempo, com cada uma funcionando sob a tensão nominal determinada pelo fabricante, de modo que a intensidade luminosa de cada lâmpada seja sempre a mesma.</p>
-				<image src="out06_1_circuits.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q53.png" />
 				<p>Entre os circuitos apresentados, indique aquele que corresponde a um arranjo que permite o funcionamento conforme essa descrição.</p>
 			</statement>
 			<options>
@@ -1602,11 +1993,14 @@
 				<p>Suponha que as lâmpadas funcionem de maneira ôhmica, ou seja, da mesma forma que um resistor.</p>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="54">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Uma esfera metálica de massa m e carga elétrica +q descansa sobre um piso horizontal isolante, em uma região em que há um campo elétrico uniforme e também horizontal, de intensidade E, conforme mostrado na figura. Em certo instante, com auxílio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a ação da gravidade, a uma altura total h, sem nunca abandonar a região de campo elétrico uniforme.</p>
-				<image src="out06_2_work_force.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q54.png" />
 				<p>Ao longo do movimento descrito, os trabalhos realizados pela força gravitacional e pela força elétrica sobre a esfera são, respectivamente:</p>
 			</statement>
 			<options>
@@ -1627,8 +2021,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="55">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente $4 \times 10^{26}$ W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de $5 \times 10^{9}$ anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de</p>
 			</statement>
@@ -1656,6 +2053,7 @@
 			</assumptions>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<context>
 			<header>TEXTO PARA AS QUESTÕES DE 56 A 58</header>
@@ -1670,8 +2068,9 @@
 			</quote>
 			<cite>Scientific American. 1 July 2020. Adaptado.</cite>
 		</context>
+
 		<objective_question number="56">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Segundo o texto, conhecer a composição de elementos químicos que constituem as estrelas é fundamental, pois ela, entre outros aspectos,</p>
 			</statement>
@@ -1693,8 +2092,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="57">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>No texto, o astrofísico Martin Asplund emprega a frase "The sun is a fundamental yardstick" (L. 15), por considerar o Sol</p>
 			</statement>
@@ -1716,8 +2116,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="58">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Conforme o texto, um critério tradicionalmente utilizado por astrônomos para avaliar estrelas envolve</p>
 			</statement>
@@ -1740,6 +2141,7 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<context>
 			<header>TEXTO PARA AS QUESTÕES 59 E 60</header>
@@ -1754,8 +2156,9 @@
 			</quote>
 			<cite>Financial Times. 5 February 2020. Adaptado.</cite>
 		</context>
+
 		<objective_question number="59">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Conforme o texto, um aspecto associado ao caráter efêmero da popularidade de um usuário da internet, relativo ao uso de plataformas como TikTok, é</p>
 			</statement>
@@ -1777,8 +2180,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="60">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>No texto, a referência a um jardim de verão ao entardecer, repleto de vagalumes, sugere que, para os adolescentes, as mídias sociais</p>
 			</statement>
@@ -1801,9 +2205,10 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<objective_question number="61">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<verse>
 					<p>I ain't gonna work on Maggie's farm no more</p>
@@ -1850,8 +2255,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="62">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Leia os provérbios:</p>
 				<p>1. Don't count your chickens before they lay eggs.</p>
@@ -1878,8 +2286,8 @@
 			</options>
 		</objective_question>
 	</question_group>
-	
-		<question_group>
+
+	<question_group>
 		<context>
 			<header>TEXTO PARA AS QUESTÕES 63 A 65</header>
 			<quote>
@@ -1887,8 +2295,9 @@
 			</quote>
 			<cite>Tommaso Koch. "O Coringa completa 80 anos e na Espanha ganha duas HQs, que inspiram debates filosóficos sobre a liberdade". El País. Junho/2020.</cite>
 		</context>
+
 		<objective_question number="63">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>No fragmento "ao tropeçar, cravava sua própria adaga no peito." (L. 8-9), a oração em negrito abrange, simultaneamente, as noções de</p>
 			</statement>
@@ -1910,8 +2319,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="64">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>As vírgulas em "E depois, o silêncio." (L. 1) e em "Mas seu rosto continua sorrindo, para sempre." (L. 2-3) são usadas, respectivamente, com a mesma finalidade que as vírgulas em</p>
 			</statement>
@@ -1933,8 +2343,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="65">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Em "Seu carisma seduziu a editora DC Comics, que impôs o acréscimo de um quadrinho." (L. 12-13), o vocábulo "que" possui a mesma função sintática desempenhada no texto por</p>
 			</statement>
@@ -1957,9 +2368,10 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<objective_question number="66">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<quote>
 					<p>Posso furar os olhos do povo? Esta frase besta foi repetida muitas vezes e, em falta de coisa melhor, aceitei-a. Sem dúvida. As mulheres hoje não vivem como antigamente, escondidas, evitando os homens. Tudo é descoberto, cara a cara. Uma pessoa topa outra. Se gostou, gostou; se não gostou, até logo. E eu de fato não tinha visto nada. As aparências mentem. A terra não é redonda? Esta prova da inocência de Marina me pareceu considerável. Tantos indivíduos condenados injustamente neste mundo ruim! O retirante que fora encontrado violando a filha de quatro anos- estava aí um exemplo. As vizinhas tinham visto o homem afastando as pernas da menina, todo o mundo pensava que ele era um monstro. Engano. Quem pode lá jurar que isto é assim ou assado? Procurei mesmo capacitar-me de que Julião Tavares não existia. Julião Tavares era uma sensação. Uma sensação desagradável, que eu pretendia afastar de minha casa quando me juntasse àquela sensação agradável que ali estava a choramingar.</p>
@@ -1985,8 +2397,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="67">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<quote>
 					<p>Terça é dia de Veneza revelar as atrações de seu festival anual, cuja 77º edição começa no dia 2 de setembro, com a dramédia "Lacci", do romano Daniele Luchetti, seguindo até 12/9, com 50 produções internacionais e uma expectativa (extraoficial) de colocar "West Side Story", de Steven Spielberg, na ribalta.</p>
@@ -2013,6 +2428,7 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<context>
 			<header>TEXTO PARA AS QUESTÕES 68 E 69</header>
@@ -2042,8 +2458,9 @@
 			</verse>
 			<cite>Cecilia Meireles, Romanceiro da Inconfidência.</cite>
 		</context>
+
 		<objective_question number="68">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Ao substituir a pessoa verbal utilizada para se referir ao substantivo "palavras" pela 3ª pessoa do plural, os verbos dos versos "sois de vento, ides no vento," (v. 4) / "Perdão podíeis ter sido!" (v. 12) / "Éreis um sopro na aragem..." (v. 20) seriam conjugados conforme apresentado na alternativa:</p>
 			</statement>
@@ -2065,8 +2482,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="69">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A "estranha potência" que a voz lírica ressalta nas palavras decorre de uma combinação entre</p>
 			</statement>
@@ -2089,9 +2507,10 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<objective_question number="70">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<verse>
 					<title>Alferes, Ouro Preto em sombras</title>
@@ -2127,8 +2546,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="71">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>I</p>
 				<quote>
@@ -2162,6 +2584,7 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<context>
 			<header>TEXTO PARA AS QUESTÕES 72 A 74</header>
@@ -2170,8 +2593,9 @@
 			</quote>
 			<cite>Bernardo Carvalho, Nove noites. Adaptado.</cite>
 		</context>
+
 		<objective_question number="72">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Sem prejuízo de sentido e fazendo as adaptações necessárias, é possível substituir as expressões em destaque no texto ("paternalismo ingênuo", "historinha", "idiota", "insistência bovina"), respectivamente, por</p>
 			</statement>
@@ -2193,8 +2617,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="73">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>As respostas do narrador às perguntas de Leusipo são uma tentativa de disfarçar o caráter</p>
 			</statement>
@@ -2216,8 +2641,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="74">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Na cena apresentada, que explora o desconforto gerado pela difícil interlocução com o indígena, o narrador</p>
 			</statement>
@@ -2240,9 +2666,10 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<objective_question number="75">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<quote>
 					<p>Rubião fitava a enseada, eram oito horas da manhã. Quem o visse, com os polegares metidos no cordão do chambre, à janela de uma grande casa de Botafogo, cuidaria que ele admirava aquele pedaço de água quieta; mas em verdade vos digo que pensava em outra coisa. Cotejava o passado com o presente. Que era, há um ano? Professor. Que é agora? Capitalista. Olha para si, para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristiano Palha), para a casa, para o jardim, para a enseada, para os morros e para o céu; e tudo, desde as chinelas até o céu, tudo entra na mesma sensação de propriedade.</p>
@@ -2270,10 +2697,10 @@
 			</options>
 		</objective_question>
 	</question_group>
-	
-		<question_group>
+
+	<question_group>
 		<objective_question number="76">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<verse>
 					<title>Remissão</title>
@@ -2313,10 +2740,13 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="77">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
-				<image src="out08_1_mafalda.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q77.png" />
 				<cite>Mafalda, Quino.</cite>
 				<p>O efeito de humor presente nas falas das personagens decorre</p>
 			</statement>
@@ -2339,6 +2769,7 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<context>
 			<header>TEXTO PARA AS QUESTÕES 78 A 80</header>
@@ -2372,8 +2803,9 @@
 			<cite>João Cabral de Melo Neto, A Educação pela Pedra.</cite>
 			<p>*banguê: engenho de açúcar primitivo movido a força animal.</p>
 		</context>
+
 		<objective_question number="78">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Os últimos quatro versos do poema rompem com a série de contrapontos entre a usina e o banguê, pois</p>
 			</statement>
@@ -2395,8 +2827,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="79">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Na oração "que ela dura" (v. 4), o pronome sublinhado</p>
 			</statement>
@@ -2418,11 +2851,14 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="80">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Observe o diagrama que mostra, de forma simplificada, o processo de fabricação do açúcar.</p>
-				<image src="out08_2_sugar_process.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q80.png" />
 				<cite>Disponível em https://sistemas.eel.usp.br/. Adaptado.</cite>
 				<p>Considerando essas informações e seu conhecimento sobre separação de misturas e transformações químicas e físicas, no trecho grifado no poema ("a usina o leva a sublimar em cristal"), o termo sublimar é usado</p>
 			</statement>
@@ -2445,11 +2881,12 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<objective_question number="81">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
-				<image src="out08_2_meme.png"/>
+				<image width="0.5" src="fuvest/2021/fase01/q81.png" />
 				<cite>Disponível em: https://twitter.com/DoutorQuimica/</cite>
 				<p>O meme ao lado brinca com conceitos de química em um jogo popular, cujo objetivo é que os jogadores descubram o impostor entre os tripulantes de naves e estações espaciais. Nele um dos elementos é considerado o impostor por sua característica química diferente.</p>
 				<p>Nesse contexto, é correto afirmar que o impostor seria o elemento:</p>
@@ -2472,69 +2909,142 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="82">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
+				<image width="0.8" src="fuvest/2021/fase01/q82.png" />
 				<p>Um experimento expôs uma barra de titânio (Ti) pura e ligas desse material com 0,01% de diferentes metais nobres a soluções de ácido sulfúrico em ebulição para entender o efeito anticorrosivo desses metais no titânio. O resultado é mostrado na tabela a seguir:</p>
 				<table>
 					<header>
-						<cell><p>Metal presente na liga com o Ti (0,01%)</p></cell>
-						<cell><p>Taxa de corrosão do titânio em $H_{2}SO_{4}$ em ebulição (em quantidade por tempo)</p></cell>
+						<cell />
+						<cell>
+							<p>Metal presente na liga com o Ti (0,01%)</p>
+						</cell>
+						<cell>
+							<p>Taxa de corrosão do titânio em $H_{2}SO_{4}$ em ebulição (em quantidade por tempo)</p>
+						</cell>
 					</header>
 					<row>
-						<cell></cell>
-						<cell><p>$H_{2}SO_{4}$ 1%</p></cell>
-						<cell><p>$H_{2}SO_{4}$ 10%</p></cell>
+						<cell />
+						<cell>
+							<p>$H_{2}SO_{4}$ 1%</p>
+						</cell>
+						<cell>
+							<p>$H_{2}SO_{4}$ 10%</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Paládio (Pd)</p></cell>
-						<cell><p>&lt;2</p></cell>
-						<cell><p>26</p></cell>
+						<cell>
+							<p>Paládio (Pd)</p>
+						</cell>
+						<cell>
+							<p>&lt;2</p>
+						</cell>
+						<cell>
+							<p>26</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Ródio (Rh)</p></cell>
-						<cell><p>&lt;2</p></cell>
-						<cell><p>145</p></cell>
+						<cell>
+							<p>Ródio (Rh)</p>
+						</cell>
+						<cell>
+							<p>&lt;2</p>
+						</cell>
+						<cell>
+							<p>145</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Platina (Pt)</p></cell>
-						<cell><p>&lt;2</p></cell>
-						<cell><p>166</p></cell>
+						<cell>
+							<p>Platina (Pt)</p>
+						</cell>
+						<cell>
+							<p>&lt;2</p>
+						</cell>
+						<cell>
+							<p>166</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Rutênio (Ru)</p></cell>
-						<cell><p>&lt;2</p></cell>
-						<cell><p>187</p></cell>
+						<cell>
+							<p>Rutênio (Ru)</p>
+						</cell>
+						<cell>
+							<p>&lt;2</p>
+						</cell>
+						<cell>
+							<p>187</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Irídio (Ir)</p></cell>
-						<cell><p>&lt;2</p></cell>
-						<cell><p>359</p></cell>
+						<cell>
+							<p>Irídio (Ir)</p>
+						</cell>
+						<cell>
+							<p>&lt;2</p>
+						</cell>
+						<cell>
+							<p>359</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Ósmio (Os)</p></cell>
-						<cell><p>5</p></cell>
-						<cell><p>480</p></cell>
+						<cell>
+							<p>Ósmio (Os)</p>
+						</cell>
+						<cell>
+							<p>5</p>
+						</cell>
+						<cell>
+							<p>480</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Rênio (Re)</p></cell>
-						<cell><p>*</p></cell>
-						<cell><p>235</p></cell>
+						<cell>
+							<p>Rênio (Re)</p>
+						</cell>
+						<cell>
+							<p>*</p>
+						</cell>
+						<cell>
+							<p>235</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Cobre (Cu)</p></cell>
-						<cell><p>*</p></cell>
-						<cell><p>470</p></cell>
+						<cell>
+							<p>Cobre (Cu)</p>
+						</cell>
+						<cell>
+							<p>*</p>
+						</cell>
+						<cell>
+							<p>470</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Ouro (Au)</p></cell>
-						<cell><p>*</p></cell>
-						<cell><p>1050</p></cell>
+						<cell>
+							<p>Ouro (Au)</p>
+						</cell>
+						<cell>
+							<p>*</p>
+						</cell>
+						<cell>
+							<p>1050</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>Ti Puro</p></cell>
-						<cell><p>460</p></cell>
-						<cell><p>3950</p></cell>
+						<cell>
+							<p>Ti Puro</p>
+						</cell>
+						<cell>
+							<p>460</p>
+						</cell>
+						<cell>
+							<p>3950</p>
+						</cell>
 					</row>
 				</table>
 				<p>*Não foi possível medir.</p>
@@ -2559,40 +3069,64 @@
 			</options>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<context>
 			<header>ENUNCIADOS PARA AS QUESTÕES 83 E 84</header>
 			<p>Um dos indicadores de qualidade de mel é a presença do composto orgânico hidroximetilfurfural (HMF), formado a partir de certos açúcares, como a frutose ($C_{6}H_{12}O_{6}$). A tabela resume os teores de HMF permitidos de acordo com a legislação brasileira e recomendações internacionais.</p>
 			<table>
 				<header>
-					<cell><p>Teor de HMF (mg de HMF por kg de mel)</p></cell>
-					<cell><p>Utilização conforme legislação</p></cell>
+					<cell>
+						<p>Teor de HMF (mg de HMF por kg de mel)</p>
+					</cell>
+					<cell>
+						<p>Utilização conforme legislação</p>
+					</cell>
 				</header>
 				<row>
-					<cell><p>Conforme a legislação brasileira (Portaria Nº 6 do Ministério da Agricultura de 1985).</p></cell>
+					<cell />
+					<cell>
+						<p>Conforme a legislação brasileira (Portaria Nº 6 do Ministério da Agricultura de 1985).</p>
+					</cell>
 				</row>
 				<row>
-					<cell><p>Até 40 mg/kg</p></cell>
-					<cell><p>Mel de mesa, utilizado para consumo humano direto.</p></cell>
+					<cell>
+						<p>Até 40 mg/kg</p>
+					</cell>
+					<cell>
+						<p>Mel de mesa, utilizado para consumo humano direto.</p>
+					</cell>
 				</row>
 				<row>
-					<cell><p>Até 60 mg/kg</p></cell>
-					<cell><p>Mel industrial e/ou subprodutos.</p></cell>
+					<cell>
+						<p>Até 60 mg/kg</p>
+					</cell>
+					<cell>
+						<p>Mel industrial e/ou subprodutos.</p>
+					</cell>
 				</row>
 				<row>
-					<cell><p>Conforme a recomendação internacional contida no Codex Alimentarius (FAO).</p></cell>
+					<cell />
+					<cell>
+						<p>Conforme a recomendação internacional contida no Codex Alimentarius (FAO).</p>
+					</cell>
 				</row>
 				<row>
-					<cell><p>Até 80 mg/kg</p></cell>
-					<cell><p>Para utilização de mel produzido em países com clima tropical.</p></cell>
+					<cell>
+						<p>Até 80 mg/kg</p>
+					</cell>
+					<cell>
+						<p>Para utilização de mel produzido em países com clima tropical.</p>
+					</cell>
 				</row>
 			</table>
 			<p>Uma das possíveis rotas para a formação do HMF a partir da frutose é mostrada, de forma simplificada, no esquema:</p>
-			<image src="out08_3_hmf_formation.png"/>
+			<image width="0.8" src="fuvest/2021/fase01/q83.png" />
 			<p>Nas setas, são mostradas as perdas de moléculas ou grupos químicos em cada etapa. Por exemplo, entre as espécies 1 e 2, ocorrem a saída de uma molécula de água e a formação de uma ligação dupla entre carbonos.</p>
 		</context>
+
 		<objective_question number="83">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>De acordo com o esquema mostrado, as perdas indicadas como I e II correspondem a:</p>
 			</statement>
@@ -2614,8 +3148,9 @@
 				</option>
 			</options>
 		</objective_question>
+
 		<objective_question number="84">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Um frasco contendo 500 g de mel produzido no Brasil foi analisado e concluiu-se que 0,2 milimol de frutose foi convertido em HMF. Considerando apenas esse parâmetro de qualidade e tendo como referência os teores recomendados por órgãos nacionais e internacionais, mostrados na tabela, é correto afirmar que esse mel</p>
 			</statement>
@@ -2643,12 +3178,13 @@
 			</assumptions>
 		</objective_question>
 	</question_group>
+
 	<question_group>
 		<objective_question number="85">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Observe a representação a seguir, em que os círculos brancos representam uma espécie química (molécula ou íon molecular) e os círculos coloridos, outra.</p>
-				<image src="out08_3_polymerization.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q85.png" />
 				<p>Essa representação pode ser corretamente associada à</p>
 			</statement>
 			<options>
@@ -2670,23 +3206,13 @@
 			</options>
 		</objective_question>
 	</question_group>
-	
-		<question_group>
+
+	<question_group>
 		<objective_question number="86">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>No fragmento a seguir, o autor explora conceitos químicos na forma de poesia:</p>
-				<verse>
-					<title>Químico apaixonado</title>
-					<p>Sua presença é "$C_{2}H_{5}OH(l)+3O_{2}(g) \rightarrow 2CO_{2}(g)+3H_{2}O(g)$" de sentimento</p>
-					<p>É explosão de "$C_{6}H_{12}O_{6}(aq)+6O_{2}(g) \rightarrow 6CO_{2}(g)+6H_{2}O(l)+ATP$" de pensamento</p>
-					<p>É Sinergia</p>
-					<p>Sua ausência, meu desalento</p>
-					<p>"$4Fe(s)+3O_{2}(g) \rightarrow 2Fe_{2}O_{3}(s)$" o meu ser</p>
-					<p>Um modelo incompleto,</p>
-					<p>Impede-me de viver</p>
-					<p>Morte em pleno deserto.</p>
-				</verse>
+				<image width="0.8" src="fuvest/2021/fase01/q86.png" />
 				<cite>Wilmo Ernesto Francisco Junior, Ciência em prosa e verso - Acepipes para quem ousa gostar (ou ensinar), 2018 (adaptado), apud Lopes, M.J.M. Dissertação de Mestrado, 2019. Disponível em http://www.repositorio.ufal.br/.</cite>
 				<p>Sobre os conceitos mencionados, foram feitas as seguintes afirmações:</p>
 				<p>I. A equação química mostrada na linha 2 pode ser associada à liberação de energia, pois corresponde à reação de fotossíntese com consumo de gás carbônico.</p>
@@ -2712,8 +3238,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="87">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Para estudar equilíbrio químico de íons $Co^{2+}$ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação:</p>
 				<p>$[Co(H_{2}O)_{6}]^{2+}(aq) + 4Cl^{-}(aq) \rightleftharpoons [CoCl_{4}]^{2-}(aq) + 6H_{2}O(l)$</p>
@@ -2722,52 +3251,116 @@
 				<p>Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto(II), de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada.</p>
 				<table>
 					<header>
-						<cell><p>Ensaio</p></cell>
-						<cell><p>Sal adicionado</p></cell>
-						<cell><p>Cor inicial</p></cell>
-						<cell><p>Cor final</p></cell>
+						<cell>
+							<p>Ensaio</p>
+						</cell>
+						<cell>
+							<p>Sal adicionado</p>
+						</cell>
+						<cell>
+							<p>Cor inicial</p>
+						</cell>
+						<cell>
+							<p>Cor final</p>
+						</cell>
 					</header>
 					<row>
-						<cell><p>1</p></cell>
-						<cell><p>Nenhum</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Vermelha</p></cell>
+						<cell>
+							<p>1</p>
+						</cell>
+						<cell>
+							<p>Nenhum</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>2</p></cell>
-						<cell><p>KCl</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Azul</p></cell>
+						<cell>
+							<p>2</p>
+						</cell>
+						<cell>
+							<p>KCl</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>3</p></cell>
-						<cell><p>$Na_{2}SO_{4}$</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Vermelha</p></cell>
+						<cell>
+							<p>3</p>
+						</cell>
+						<cell>
+							<p>$Na_{2}SO_{4}$</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>4</p></cell>
-						<cell><p>CuCl</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Vermelha</p></cell>
+						<cell>
+							<p>4</p>
+						</cell>
+						<cell>
+							<p>CuCl</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>5</p></cell>
-						<cell><p>$K_{2}SO_{4}$</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>?</p></cell>
+						<cell>
+							<p>5</p>
+						</cell>
+						<cell>
+							<p>$K_{2}SO_{4}$</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>?</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>6</p></cell>
-						<cell><p>AgCl</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>?</p></cell>
+						<cell>
+							<p>6</p>
+						</cell>
+						<cell>
+							<p>AgCl</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>?</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>7</p></cell>
-						<cell><p>NaCl</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>?</p></cell>
+						<cell>
+							<p>7</p>
+						</cell>
+						<cell>
+							<p>NaCl</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>?</p>
+						</cell>
 					</row>
 				</table>
 				<p>A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é:</p>
@@ -2775,47 +3368,66 @@
 			<options>
 				<table>
 					<header>
-						<cell></cell>
-						<cell><p>Cor final obtida no:</p></cell>
+						<cell />
+						<cell />
+						<cell>
+							<p>Cor final obtida no:</p>
+						</cell>
 					</header>
-					<!--
-					<row>
-						<cell></cell>
-						<cell><p>Ensaio 5</p></cell>
-						<cell><p>Ensaio 6</p></cell>
-						<cell><p>Ensaio 7</p></cell>
-					</row>
-					<row>
-						<cell></cell>
-						<cell><p>Adição de $K_{2}SO_{4}$</p></cell>
-						<cell><p>Adição de AgCl</p></cell>
-						<cell><p>Adição de NaCl</p></cell>
-					</row>
-					-->
 					<option label="A" is_correct="false">
-						<cell><p>Azul</p></cell>
-						<cell><p>Azul</p></cell>
-						<cell><p>Vermelha</p></cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
 					</option>
 					<option label="B" is_correct="false">
-						<cell><p>Azul</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Azul</p></cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
 					</option>
 					<option label="C" is_correct="false">
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Azul</p></cell>
-						<cell><p>Azul</p></cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
 					</option>
 					<option label="D" is_correct="true">
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Azul</p></cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
 					</option>
 					<option label="E" is_correct="false">
-						<cell><p>Vermelha</p></cell>
-						<cell><p>Azul</p></cell>
-						<cell><p>Vermelha</p></cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
+						<cell>
+							<p>Azul</p>
+						</cell>
+						<cell>
+							<p>Vermelha</p>
+						</cell>
 					</option>
 				</table>
 			</options>
@@ -2824,58 +3436,88 @@
 				<p>Solubilidade dos sais em g/100 mL de água a 20 °C</p>
 				<table>
 					<row>
-						<cell><p>AgCl</p></cell>
-						<cell><p>$1,9 \times 10^{-4}$</p></cell>
-						<cell><p>NaCl</p></cell>
-						<cell><p>35,9</p></cell>
+						<cell>
+							<p>AgCl</p>
+						</cell>
+						<cell>
+							<p>$1,9 \times 10^{-4}$</p>
+						</cell>
+						<cell>
+							<p>NaCl</p>
+						</cell>
+						<cell>
+							<p>35,9</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>CuCl</p></cell>
-						<cell><p>$9,9 \times 10^{-3}$</p></cell>
-						<cell><p>$Na_{2}SO_{4}$</p></cell>
-						<cell><p>13,9</p></cell>
+						<cell>
+							<p>CuCl</p>
+						</cell>
+						<cell>
+							<p>$9,9 \times 10^{-3}$</p>
+						</cell>
+						<cell>
+							<p>$Na_{2}SO_{4}$</p>
+						</cell>
+						<cell>
+							<p>13,9</p>
+						</cell>
 					</row>
 					<row>
-						<cell><p>KCl</p></cell>
-						<cell><p>34,2</p></cell>
-						<cell><p>$K_{2}SO_{4}$</p></cell>
-						<cell><p>11,1</p></cell>
+						<cell>
+							<p>KCl</p>
+						</cell>
+						<cell>
+							<p>34,2</p>
+						</cell>
+						<cell>
+							<p>$K_{2}SO_{4}$</p>
+						</cell>
+						<cell>
+							<p>11,1</p>
+						</cell>
 					</row>
 				</table>
 			</assumptions>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="88">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A reação de Maillard, que ocorre entre aminoácidos e carboidratos redutores, é a responsável por formar espécies que geram compostos coloridos que conferem o sabor característico de diversos alimentos assados. Um exemplo é a reação entre a glicina e um carboidrato redutor mostrada na equação em que R representa uma cadeia genérica:</p>
-				<image src="out09_2_maillard_1.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q88_1.png" />
 				<p>Um aminoácido específico (Composto 1), ao reagir com o carboidrato redutor, pode gerar o Composto 2, levando à formação de acrilamida, uma espécie potencialmente carcinogênica, conforme mostrado na equação:</p>
-				<image src="out09_2_maillard_2.png"/>
+				<image width="0.8" src="fuvest/2021/fase01/q88_2.png" />
 				<p>A estrutura do aminoácido marcado como Composto 1 e que é capaz de gerar esse intermediário de espécies carcinogênicas é:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image src="out09_2_option_A.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q88a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image src="out09_2_option_B.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q88b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image src="out09_2_option_C.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q88c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image src="out09_2_option_D.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q88d.png" />
 				</option>
 				<option label="E" is_correct="true">
-					<image src="out09_2_option_E.png"/>
+					<image width="0.5" src="fuvest/2021/fase01/q88e.png" />
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="89">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>Em aquários de água marinha, é comum o uso do equipamento chamado "Skimmer", aparato em que a água recebe uma torrente de bolhas de ar, como representado na figura, levando a matéria orgânica até a superfície, onde pode ser removida. Essa matéria orgânica eliminada é composta por moléculas orgânicas com parte apolar e parte polar, enquanto as bolhas formadas têm caráter apolar. Esse aparelho, no entanto, tem rendimento muito menor em aquários de água doce (retira menos quantidade de material orgânico por período de uso).</p>
-				<image src="out09_2_skimmer.png"/>
+				<image width="0.5" src="fuvest/2021/fase01/q89.png" />
 				<cite>Disponível em https://blog.marinedepot.com/. Adaptado.</cite>
 				<p>Considerando que todas as outras condições são mantidas, o menor rendimento desse aparato em água doce do que em água salgada pode ser explicado porque</p>
 			</statement>
@@ -2897,8 +3539,11 @@
 				</option>
 			</options>
 		</objective_question>
+	</question_group>
+
+	<question_group>
 		<objective_question number="90">
-			<classification subject="Unknown"/>
+			<classification subject="Unknown" />
 			<statement>
 				<p>A destilação é um processo utilizado para separar compostos presentes em uma mistura com base nas suas propriedades físicas como, por exemplo, a diferença de temperatura de ebulição, a uma dada pressão, entre os componentes da mistura.</p>
 				<p>Recentemente esse termo passou a figurar em estudos de poluição ambiental, nos quais o termo "destilação global" é utilizado para explicar a presença de compostos voláteis, como os pesticidas organoclorados, em águas e gelos de regiões polares, ainda que estes compostos nunca tenham sido produzidos ou utilizados nessas regiões. Com base no princípio da técnica da destilação, como pode ser explicada a presença desses pesticidas na Antártica e no Ártico?</p>
@@ -2922,6 +3567,4 @@
 			</options>
 		</objective_question>
 	</question_group>
-	
-	
 </exam>

@@ -1,9 +1,11 @@
 __pycache__
+.zed
 output
 manual
 old
 modelos
 provas
+*.txt
 *.aux
 *.log
 *.pdf

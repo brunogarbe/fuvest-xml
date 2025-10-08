@@ -4,11 +4,10 @@
 		<objective_question number="1">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Em Xangai, uma loja especializada em café oferece uma opção diferente para adoçar a bebida. A chamada sweet little rain consiste em uma xícara de café sobre a qual é pendurado um algodão-doce, material rico em sacarose, o que passa a impressão de existir uma nuvem pairando sobre o café, conforme ilustrado na imagem.</p>
+				<p>Em Xangai, uma loja especializada em café oferece uma opção diferente para adoçar a bebida. A chamada <i>sweet little rain</i> consiste em uma xícara de café sobre a qual é pendurado um algodão-doce, material rico em sacarose, o que passa a impressão de existir uma nuvem pairando sobre o café, conforme ilustrado na imagem.</p>
 				<image width="0.4" src="fuvest/2020/fase01/q01.png" />
 				<cite>Disponível em https://www.boredpanda.com/. </cite>
-				<p>O café quente é então adicionado na xícara e, passado um tempo, gotículas começam a pingar sobre a bebida, simulando uma chuva doce e reconfortante. </p>
-				<p>A adição de café quente inicia o processo descrito, pois </p>
+				<p>O café quente é então adicionado na xícara e, passado um tempo, gotículas começam a pingar sobre a bebida, simulando uma chuva doce e reconfortante. A adição de café quente inicia o processo descrito, pois </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -38,9 +37,7 @@
 		<objective_question number="2">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Equipamentos domésticos chamados de vaporizadores para roupa utilizam o vapor de água gerado por um sistema de resistências elétricas a partir de água líquida. </p>
-				<p>Um equipamento com potência nominal de 1.600 W foi utilizado para passar roupas por 20 minutos, consumindo 540 mL de água. </p>
-				<p>Em relação ao gasto total de energia do equipamento, o gasto de energia utilizado apenas para vaporizar a água, após ela já ter atingido a temperatura de ebulição, equivale a, aproximadamente,</p>
+				<p>Equipamentos domésticos chamados de vaporizadores para roupa utilizam o vapor de água gerado por um sistema de resistências elétricas a partir de água líquida. Um equipamento com potência nominal de 1.600 W foi utilizado para passar roupas por 20 minutos, consumindo 540 mL de água. Em relação ao gasto total de energia do equipamento, o gasto de energia utilizado apenas para vaporizar a água, após ela já ter atingido a temperatura de ebulição, equivale a, aproximadamente,</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -73,31 +70,26 @@
 			<statement>
 				<image src="fuvest/2020/fase01/q03.png" />
 				<quote>
-					<p>Pesquisadores (...) conseguiram controlar reações químicas de um modo inovador. </p>
-					<p>Usaram feixes de laser para promover um esbarrão entre dois átomos e uni-los, criando uma molécula. </p>
-					<p>Utilizando pinças ópticas (feixes de laser altamente focados capazes de aprisionar objetos microscópicos), os pesquisadores empurraram um átomo do elemento químico césio (Cs) contra um átomo de sódio (Na) até que colidissem. </p>
-					<p>Um terceiro laser foi lançado sobre ambos, fornecendo energia extra para criar a molécula NaCs. </p>
-					<p>Na natureza, as moléculas formam-se a partir da interação de átomos por acaso. </p>
-					<p>Por suas características químicas, césio e sódio jamais originariam uma molécula espontaneamente. (...) </p>
+					<p>Pesquisadores (...) conseguiram controlar reações químicas de um modo inovador. Usaram feixes de laser para promover um esbarrão entre dois átomos e uni-los, criando uma molécula. Utilizando pinças ópticas (feixes de laser altamente focados capazes de aprisionar objetos microscópicos), os pesquisadores empurraram um átomo do elemento químico césio (<c>Cs</c>) contra um átomo de sódio (<c>Na</c>) até que colidissem. Um terceiro laser foi lançado sobre ambos, fornecendo energia extra para criar a molécula <c>NaCs</c>. Na natureza, as moléculas formam-se a partir da interação de átomos por acaso. Por suas características químicas, césio e sódio jamais originariam uma molécula espontaneamente. (...) </p>
 				</quote>
 				<cite>Molécula criada em laboratório. Disponível em http://revistapesquisa.fapesp.br/. Adaptado. </cite>
 				<p>Com base nas informações do texto e em seus conhecimentos, é correto afirmar que </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>o Cs é um elemento químico radioativo e, devido a essa característica química, a molécula de NaCs não se formaria sem esse modo inovador (L.2), que estabiliza o decaimento. </p>
+					<p>o <c>Cs</c> é um elemento químico radioativo e, devido a essa característica química, a molécula de <c>NaCs</c> não se formaria sem esse modo inovador (L.2), que estabiliza o decaimento. </p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>o raio atômico do Na é maior que o do Cs, portanto, a sua energia de ionização também é maior.  O esbarrão (L.3) entre os átomos retira um elétron do Na, permitindo a ligação. </p>
+					<p>o raio atômico do <c>Na</c> é maior que o do <c>Cs</c>, portanto, a sua energia de ionização também é maior.  O esbarrão (L.3) entre os átomos retira um elétron do <c>Na</c>, permitindo a ligação. </p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>o terceiro laser (L.8) usado no experimento serviu para retirar um nêutron do Cs, tornando-o um cátion e possibilitando a reação com o Na. </p>
+					<p>o terceiro laser (L.8) usado no experimento serviu para retirar um nêutron do <c>Cs</c>, tornando-o um cátion e possibilitando a reação com o <c>Na</c>. </p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>na natureza, com esses elementos se esbarrando por acaso (L.10-11), a tendência seria formar CsNa, e não NaCs, justificando o caráter inovador do experimento. </p>
+					<p>na natureza, com esses elementos se esbarrando por acaso (L.10-11), a tendência seria formar <c>CsNa</c>, e não <c>NaCs</c>, justificando o caráter inovador do experimento. </p>
 				</option>
 				<option label="E" is_correct="true">
-					<p>o Cs e o Na não formariam uma molécula espontaneamente (L.11-12), uma vez que ambos têm grande tendência a formarem cátions e ligações iônicas. </p>
+					<p>o <c>Cs</c> e o <c>Na</c> não formariam uma molécula espontaneamente (L.11-12), uma vez que ambos têm grande tendência a formarem cátions e ligações iônicas. </p>
 				</option>
 			</options>
 		</objective_question>
@@ -107,8 +99,7 @@
 		<objective_question number="4">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Ao se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. </p>
-				<p>Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada. </p>
+				<p>Ao se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada. </p>
 				<image width="0.8" src="fuvest/2020/fase01/q04.png" />
 				<p>Considerando as informações apresentadas no texto e no quadro, a principal razão para a diferença de coloração descrita é que a fração oleosa </p>
 			</statement>
@@ -130,7 +121,7 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Massas molares (g/mol): Licopeno = 537; betanina = 551. [cite: 394, 395]</p>
+				<p>Massas molares (g/mol): Licopeno = 537; betanina = 551.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -145,19 +136,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>limoneno → p-cimeno → α-terpineno</p>
+					<p><c>limoneno ⇌ p-cimeno → α-terpineno</c></p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>limoneno --(catalisador)--&gt; p-cimeno + α-terpineno</p>
+					<p><c>limoneno →[p-cimeno (catalisador)] α-terpineno</c></p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>limoneno + p-cimeno → α-terpineno</p>
+					<p><c>limoneno + p-cimeno ⇌ α-terpineno</c></p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>limoneno --(catalisador)--&gt; α-terpineno + p-cimeno</p>
+					<p><c>limoneno →[α-terpineno (catalisador)] p-cimeno</c></p>
 				</option>
 				<option label="E" is_correct="true">
-					<p>limoneno → α-terpineno → p-cimeno</p>
+					<p><c>limoneno → α-terpineno → p-cimeno</c></p>
 				</option>
 			</options>
 		</objective_question>
@@ -167,11 +158,9 @@
 		<objective_question number="6">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Os chamados "remédios homeopáticos" são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais.  A dosagem utilizada desses produtos é da ordem de poucos mL. </p>
-				<p>Uma das técnicas de diluição homeopática é chamada de diluição centesimal (CH), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema). </p>
-				<p>Alguns desses produtos homeopáticos são produzidos com até 200 diluições centesimais sequenciais (200CH). </p>
+				<p>Os chamados <q>remédios homeopáticos</q> são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais.  A dosagem utilizada desses produtos é da ordem de poucos mL. Uma das técnicas de diluição homeopática é chamada de diluição centesimal (<c>CH</c>), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema). </p>
 				<image width="0.6" src="fuvest/2020/fase01/q06.png" />
-				<p>Considerando uma solução de partida de 100 mL com concentração 1 mol/L de princípio ativo, a partir de qual diluição centesimal a solução passa a não ter, em média, nem mesmo uma molécula do princípio ativo? </p>
+				<p>Alguns desses produtos homeopáticos são produzidos com até 200 diluições centesimais sequenciais (<c>200CH</c>). Considerando uma solução de partida de 100 mL com concentração 1 mol/L de princípio ativo, a partir de qual diluição centesimal a solução passa a não ter, em média, nem mesmo uma molécula do princípio ativo? </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -191,7 +180,7 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Número de Avogadro = 6 x 10²³. </p>
+				<p>Número de Avogadro = <m>6 x 10^{23}</m>. </p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -200,26 +189,25 @@
 		<objective_question number="7">
 			<classification subject="Unknown" />
 			<statement>
-				<p>O gás hélio disponível comercialmente pode ser gerado pelo decaimento radioativo, sobretudo do urânio, conforme esquematizado pela série de decaimento. </p>
-				<p>Desde a formação da Terra, há 4,5 bilhões de anos, apenas metade do ²³⁸U decaiu para a formação de He. </p>
+				<p>O gás hélio disponível comercialmente pode ser gerado pelo decaimento radioativo, sobretudo do urânio, conforme esquematizado pela série de decaimento. Desde a formação da Terra, há 4,5 bilhões de anos, apenas metade do <c>^{238}U</c> decaiu para a formação de <c>He</c>. </p>
 				<image width="0.9" src="fuvest/2020/fase01/q07.png" />
 				<p>Com base nessas informações e em seus conhecimentos, é correto afirmar: </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>O decaimento de um átomo de ²³⁸U produz, ao final da série de decaimento, apenas um átomo de He. </p>
+					<p>O decaimento de um átomo de <c>^{238}U</c> produz, ao final da série de decaimento, apenas um átomo de <c>He</c>.</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p>O decaimento do ²³⁸U para ²³⁴U gera a mesma quantidade de He que o decaimento do ²³⁴U para ²³⁰Th. </p>
+					<p>O decaimento do <c>^{238}U</c> para <c>^{234}U</c> gera a mesma quantidade de <c>He</c> que o decaimento do <c>^{234}U</c> para <c>^{230}Th</c>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Daqui a 4,5 bilhões de anos, a quantidade de He no planeta Terra será o dobro da atual. </p>
+					<p>Daqui a 4,5 bilhões de anos, a quantidade de He no planeta Terra será o dobro da atual.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>O decaimento do ²³⁸U para ²³⁴U gera a mesma quantidade de He que o decaimento do ²¹⁴Pb para ²¹⁴Po. </p>
+					<p>O decaimento do <c>^{238}U</c> para <c>^{234}U</c> gera a mesma quantidade de <c>He</c> que o decaimento do <c>^{214}Pb</c> para <c>^{214}Po</c>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>A produção de He ocorre pela sequência de decaimento a partir do ²⁰⁶Pb. </p>
+					<p>A produção de <c>He</c> ocorre pela sequência de decaimento a partir do <c>^{206}Pb</c>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -229,11 +217,8 @@
 		<objective_question number="8">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Os movimentos das moléculas antes e depois de uma reação química obedecem aos princípios físicos de colisões.</p>
-				<p>Para tanto, cada átomo é representado como um corpo pontual com uma certa massa, ocupando uma posição no espaço e com uma determinada velocidade (representada na forma vetorial).</p>
-				<p>Costumeiramente, os corpos pontuais são representados como esferas com diâmetros proporcionais à massa atômica.</p>
-				<p>As colisões ocorrem conservando a quantidade de movimento.</p>
-				<p>Considerando um referencial no qual as moléculas neutras encontram-se paradas antes e após a colisão, a alternativa que melhor representa o arranjo de íons e moléculas instantes antes e instantes depois de uma colisão que leva à reação $$F⁻ + H₃CCl → CH₃F + Cl⁻$$ é</p>
+				<p>Os movimentos das moléculas antes e depois de uma reação química obedecem aos princípios físicos de colisões. Para tanto, cada átomo é representado como um corpo pontual com uma certa massa, ocupando uma posição no espaço e com uma determinada velocidade (representada na forma vetorial). Costumeiramente, os corpos pontuais são representados como esferas com diâmetros proporcionais à massa atômica. As colisões ocorrem conservando a quantidade de movimento.</p>
+				<p>Considerando um referencial no qual as moléculas neutras encontram-se paradas antes e após a colisão, a alternativa que melhor representa o arranjo de íons e moléculas instantes antes e instantes depois de uma colisão que leva à reação <chem>F- + H3CCl → CH3F + Cl-</chem> é</p>
 			</statement>
 			<options>
 				<table>
@@ -298,10 +283,7 @@
 		<objective_question number="9">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Quando o nosso corpo é lesionado por uma pancada, logo se cria um hematoma que, ao longo do tempo, muda de cor. </p>
-				<p>Inicialmente, o hematoma torna-se avermelhado pelo acúmulo de hemoglobina. Em seguida, surge uma coloração azulada, decorrente da perda do O₂ ligado ao Fe do grupo heme. </p>
-				<p>Essa coloração torna-se, então, esverdeada (biliverdina) e, após isso, surge um tom amarelado na pele (bilirrubina). </p>
-				<p>Essa sequência de cores ocorre pela transformação do grupo heme da hemoglobina, como representado a seguir: </p>
+				<p>Quando o nosso corpo é lesionado por uma pancada, logo se cria um hematoma que, ao longo do tempo, muda de cor. Inicialmente, o hematoma torna-se avermelhado pelo acúmulo de hemoglobina. Em seguida, surge uma coloração azulada, decorrente da perda do O₂ ligado ao Fe do grupo heme. Essa coloração torna-se, então, esverdeada (biliverdina) e, após isso, surge um tom amarelado na pele (bilirrubina). Essa sequência de cores ocorre pela transformação do grupo heme da hemoglobina, como representado a seguir: </p>
 				<image width="0.8" src="fuvest/2020/fase01/q09.png" />
 				<p>Com base nas informações e nas representações, é correto afirmar: </p>
 			</statement>
@@ -310,7 +292,7 @@
 					<p>A conversão da biliverdina em bilirrubina ocorre por meio de uma redução. </p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>A biliverdina, assim como a hemoglobina, é capaz de transportar O₂ para as células do corpo, pois há oxigênio ligado na molécula. </p>
+					<p>A biliverdina, assim como a hemoglobina, é capaz de transportar <c>O2</c> para as células do corpo, pois há oxigênio ligado na molécula. </p>
 				</option>
 				<option label="C" is_correct="false">
 					<p>As três estruturas apresentadas contêm o grupo funcional amida. </p>
@@ -361,11 +343,9 @@
 		<objective_question number="11">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Em supermercados, é comum encontrar alimentos chamados de liofilizados, como frutas, legumes e carnes. Alimentos liofilizados continuam próprios para consumo após muito tempo, mesmo sem refrigeração.</p>
-				<p>O termo "liofilizado", nesses alimentos, refere-se ao processo de congelamento e posterior desidratação por sublimação da água. Para que a sublimação da água ocorra, é necessária uma combinação de condições, como mostra o gráfico de pressão por temperatura, em que as linhas representam transições de fases.</p>
+				<p>Em supermercados, é comum encontrar alimentos chamados de liofilizados, como frutas, legumes e carnes. Alimentos liofilizados continuam próprios para consumo após muito tempo, mesmo sem refrigeração. O termo <q>liofilizado</q>, nesses alimentos, refere-se ao processo de congelamento e posterior desidratação por sublimação da água. Para que a sublimação da água ocorra, é necessária uma combinação de condições, como mostra o gráfico de pressão por temperatura, em que as linhas representam transições de fases.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q11.png" />
-				<p>Apesar de ser um processo que requer, industrialmente, uso de certa tecnologia, existem evidências de que os povos pré-colombianos que viviam nas regiões mais altas dos Andes conseguiam liofilizar alimentos, possibilitando estocá-los por mais tempo.</p>
-				<p>Assinale a alternativa que explica como ocorria o processo de liofilização natural: </p>
+				<p>Apesar de ser um processo que requer, industrialmente, uso de certa tecnologia, existem evidências de que os povos pré-colombianos que viviam nas regiões mais altas dos Andes conseguiam liofilizar alimentos, possibilitando estocá-los por mais tempo. Assinale a alternativa que explica como ocorria o processo de liofilização natural: </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -392,12 +372,12 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>Para exemplificar probabilidade, um grupo de estudantes fez uma atividade envolvendo química, conforme o procedimento descrito.</p>
-				<p>Cada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de HCl e NaOH em diversas concentrações.</p>
+				<p>Cada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de <c>HCl</c> e <c>NaOH</c> em diversas concentrações.</p>
 				<p>Cada estudante deveria jogar apenas uma vez dois dados, um amarelo e um vermelho, ambos contendo os números de 1 a 6.</p>
 				<ul>
-					<li>Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração $10^{-n}$ mol/L, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de $10^{-1}$ mol/L; se saísse 6, a solução seria de $10^{-6}$ mol/L).</li>
-					<li>Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por NaOH, totalizando assim 1,0 L de solução.</li>
-					<li>O estudante deveria observar a cor da solução ao final do experimento.</li>
+					<li><p>Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração <m>10^{-n}</m> mol/L, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de <m>10^{-1}</m> mol/L; se saísse 6, a solução seria de <m>10^{-6}</m> mol/L).</p></li>
+					<li><p>Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por <c>NaOH</c>, totalizando assim 1,0 L de solução.</p></li>
+					<li><p>O estudante deveria observar a cor da solução ao final do experimento.</p></li>
 				</ul>
 				<p>A professora mostrou a tabela com alguns valores de pH resultantes conforme os números tirados nos dados. Ela pediu, então, aos estudantes que utilizassem seus conhecimentos e a tabela para prever em quais combinações de dados a cor final do indicador seria vermelha.</p>
 				<image src="fuvest/2020/fase01/q12_1.png" />
@@ -405,19 +385,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>1/12 </p>
+					<p>1/12</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>1/6 [cite: 121, 123]</p>
+					<p>1/6</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>1/4 [cite: 122, 124]</p>
+					<p>1/4</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>11/36 </p>
+					<p>11/36</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>5/12 </p>
+					<p>5/12</p>
 				</option>
 			</options>
 			<assumptions>
@@ -485,9 +465,8 @@
 		<objective_question number="15">
 			<classification subject="Unknown" />
 			<statement>
-				<p>O cilindro de papelão central de uma fita crepe tem raio externo de 3 cm. A fita tem espessura de 0,01 cm e dá 100 voltas completas.</p>
+				<p>O cilindro de papelão central de uma fita crepe tem raio externo de 3 cm. A fita tem espessura de 0,01 cm e dá 100 voltas completas. Considerando que, a cada volta, o raio externo do rolo é aumentado no valor da espessura da fita, o comprimento total da fita é de, aproximadamente,</p>
 				<image width="0.7" src="fuvest/2020/fase01/q15.png" />
-				<p>Considerando that, a cada volta, o raio externo do rolo é aumentado no valor da espessura da fita, o comprimento total da fita é de, aproximadamente, [cite: 130, 131, 134]</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -507,7 +486,7 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>π ≅ 3,14. </p>
+				<p><m>π \approx 3,14</m>.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -516,25 +495,25 @@
 		<objective_question number="16">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam-se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada configuração desse objeto, associa-se θ, a medida do menor ângulo interno do paralelogramo. A área da região delimitada pelo paralelogramo quando $\theta = 90^{\circ}$ é A.</p>
+				<p>Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam-se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada configuração desse objeto, associa-se <m>θ</m>, a medida do menor ângulo interno do paralelogramo. A área da região delimitada pelo paralelogramo quando <m>\theta = 90^{\circ}</m> é A.</p>
 				<image src="fuvest/2020/fase01/q16.png" />
-				<p>Para que a área da região delimitada pelo paralelogramo seja A/2, o valor de θ é, necessariamente, igual a </p>
+				<p>Para que a área da região delimitada pelo paralelogramo seja <m>A/2</m>, o valor de <m>θ</m> é, necessariamente, igual a </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$15^{\circ}$.</p>
+					<p><m>15^{\circ}</m>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$22,5^{\circ}$. </p>
+					<p><m>22,5^{\circ}</m>. </p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>$30^{\circ}$.</p>
+					<p><m>30^{\circ}</m>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$45^{\circ}$. </p>
+					<p><m>45^{\circ}</m>. </p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$60^{\circ}$.</p>
+					<p><m>60^{\circ}</m>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -570,7 +549,7 @@
 		<objective_question number="18">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A dona de uma lanchonete observou que, vendendo um combo a R\$ 10,00, 200 deles são vendidos por dia, e que, para cada redução de R$ 1,00 nesse preço, ela vende 100 combos a mais.</p>
+				<p>A dona de uma lanchonete observou que, vendendo um combo a R$ 10,00, 200 deles são vendidos por dia, e que, para cada redução de R$ 1,00 nesse preço, ela vende 100 combos a mais.</p>
 				<p>Nessas condições, qual é a máxima arrecadação diária que ela espera obter com a venda desse combo? </p>
 			</statement>
 			<options>
@@ -597,7 +576,7 @@
 		<objective_question number="19">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A função E de Euler determina, para cada número natural n, a quantidade de números naturais menores do que n cujo máximo divisor comum com n é igual a 1. Por exemplo, E(6)=2 pois os números menores do que 6 com tal propriedade são 1 e 5. Qual o valor máximo de E(n), para n de 20 a 25? </p>
+				<p>A função <m>E</m> de Euler determina, para cada número natural <m>n</m>, a quantidade de números naturais menores do que <m>n</m> cujo máximo divisor comum com <m>n</m> é igual a 1. Por exemplo, <m>E(6)=2</m> pois os números menores do que 6 com tal propriedade são 1 e 5. Qual o valor máximo de <m>E(n)</m>, para n de 20 a 25? </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -623,7 +602,7 @@
 		<objective_question number="20">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Se $3x^2 - 9x + 7 = (x-a)^3 - (x-b)^3$, para todo número real x, o valor de $a+b$ é </p>
+				<p>Se <m>3x^2 - 9x + 7 = (x-a)^3 - (x-b)^3</m>, para todo número real <m>x</m>, o valor de <m>a+b</m> é </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -676,7 +655,7 @@
 		<objective_question number="22">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Um ponto (x, y) do plano cartesiano pertence ao conjunto F se é equidistante dos eixos OX e OY e pertence ao círculo de equação $x^2 + y^2 - 2x - 6y + 2 = 0$. É correto afirmar que F</p>
+				<p>Um ponto <m>(x, y)</m> do plano cartesiano pertence ao conjunto <m>F</m> se é equidistante dos eixos <m>OX</m> e <m>OY</m> e pertence ao círculo de equação <m>x^2 + y^2 - 2x - 6y + 2 = 0</m>. É correto afirmar que <m>F</m></p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -702,7 +681,7 @@
 		<objective_question number="23">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Uma cidade é dividida em dois Setores: o Setor Sul, com área de $10~km^2$, e o Setor Norte, com área de $30~km^2$. Após um final de semana, foram divulgados os seguintes totais pluviométricos:</p>
+				<p>Uma cidade é dividida em dois Setores: o Setor Sul, com área de <m>10~km^2</m>, e o Setor Norte, com área de <m>30~km^2</m>. Após um final de semana, foram divulgados os seguintes totais pluviométricos:</p>
 				<table>
 					<header>
 						<cell>
@@ -766,23 +745,23 @@
 			<statement>
 				<image width="0.9" src="fuvest/2020/fase01/q24.png" />
 				<cite>Bill Waterson, Calvin and Hobbes. Disponível em https://www.gocomics.com/.</cite>
-				<p>As possíveis soluções, em polegadas (inches, em inglês), para o problema matemático proposto no quadrinho, no caso em que os pontos A, B e C estão em uma mesma reta, são</p>
+				<p>As possíveis soluções, em polegadas (<i>inches</i>, em inglês), para o problema matemático proposto no quadrinho, no caso em que os pontos <m>A</m>, <m>B</m> e <m>C</m> estão em uma mesma reta, são</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>5/3 e 10.</p>
+					<p><m>\frac{10}{3}</m> e 10.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>10/3, 5 e 10.</p>
+					<p><m>\frac{10}{3}</m>, 5 e 10.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>5/3, 10/3 e 10.</p>
+					<p><m>\frac{5}{3}</m>, <m>10/3</m> e 10.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>5/3 e 10.</p>
+					<p><m>\frac{5}{3}</m> e 10.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>10/3 e 5.</p>
+					<p><m>\frac{10}{3}</m> e 5.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -792,11 +771,11 @@
 		<context>
 			<p>Assigning female genders to digital assistants such as Apple's Siri and Amazon's Alexa is helping entrench harmful gender biases, according to a UN agency.</p>
 			<p>Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries - including outright abusive ones - reinforce ideas of women as subservient.</p>
-			<p>"Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager-to-please helpers, available at the touch of a button or with a blunt voice command like 'hey' or 'OK'", the report said.</p>
-			<p>"The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment."</p>
-			<p>The Unesco publication was entitled "I'd Blush if I Could"; a reference to the response Apple's Siri assistant offers to the phrase: "You're a slut." Amazon's Alexa will respond: "Well, thanks for the feedback."</p>
-			<p>The paper said such firms were "staffed by overwhelmingly male engineering teams" and have built Al (Artificial Intelligence) systems that "cause their feminised digital assistants to greet verbal abuse with catch-me-if-you-can flirtation".</p>
-			<p>Saniye Gülser Corat, Unesco's director for gender equality, said: "The world needs to pay much closer attention to how, when and whether Al technologies are gendered and, crucially, who is gendering them."</p>
+			<p><q>Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager-to-please helpers, available at the touch of a button or with a blunt voice command like 'hey' or 'OK'</q>, the report said.</p>
+			<p><q>The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.</q></p>
+			<p>The Unesco publication was entitled <q>I'd Blush if I Could</q>; a reference to the response Apple's Siri assistant offers to the phrase: <q>You're a slut.</q> Amazon's Alexa will respond: <q>Well, thanks for the feedback.</q></p>
+			<p>The paper said such firms were <q>staffed by overwhelmingly male engineering teams</q> and have built Al (Artificial Intelligence) systems that <q>cause their feminised digital assistants to greet verbal abuse with catch-me-if-you-can flirtation</q>.</p>
+			<p>Saniye Gülser Corat, Unesco's director for gender equality, said: <q>The world needs to pay much closer attention to how, when and whether Al technologies are gendered and, crucially, who is gendering them.</q></p>
 			<cite>The Guardian, May, 2019. Adaptado.</cite>
 		</context>
 
@@ -827,7 +806,7 @@
 		<objective_question number="26">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Segundo o texto, o título do relatório publicado pela Unesco "I'd Blush if I Could", no que diz respeito aos assistentes digitais, indica</p>
+				<p>Segundo o texto, o título do relatório publicado pela Unesco <q>I'd Blush if I Could</q>, no que diz respeito aos assistentes digitais, indica</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -883,19 +862,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>repetição da palavra "never".</p>
+					<p>repetição da palavra <q>never</q>.</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p>ambiguidade gerada pela expressão "buy her flowers".</p>
+					<p>ambiguidade gerada pela expressão <q>buy her flowers</q>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>asserção "your wife says".</p>
+					<p>asserção <q>your wife says</q>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>contradição presente na frase "To be honest".</p>
+					<p>contradição presente na frase <q>To be honest</q>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>pergunta "is that true?".</p>
+					<p>pergunta <q>is that true?</q>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -907,7 +886,7 @@
 			<p>But in order to replace existing silicon-chip or magnetic-tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package.</p>
 			<p>That's where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA-storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA.</p>
 			<p>If successful, DNA storage could be the answer to a uniquely 21st-century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip-grade silicon by 2040.</p>
-			<p>"Today's technology is already close to the physical limits of scaling," says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. "DNA has an information-storage density several orders of magnitude higher than any other known storage technology."</p>
+			<p><q>Today's technology is already close to the physical limits of scaling,</q> says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. <q>DNA has an information-storage density several orders of magnitude higher than any other known storage technology.</q></p>
 			<p>How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years.</p>
 			<cite>Wired, June, 2018. Disponível em https://www.wired.com/. Adaptado.</cite>
 		</context>
@@ -1005,7 +984,7 @@
 	<question_group>
 		<context>
 			<quote>
-				<p>Os textos literários são obras de discurso, a que falta a imediata referencialidade da linguagem corrente; poéticos, abolem, "destroem" o mundo circundante, cotidiano, graças à função irrealizante da imaginação que os constrói. E prendem-nos na teia de sua linguagem, a que devem o poder de apelo estético que nos enleia; seduz-nos o mundo outro, irreal, neles configurado (...). No entanto, da adesão a esse "mundo de papel", quando retornamos ao real, nossa experiência, ampliada e renovada pela experiência da obra, à luz do que nos revelou, possibilita redescobri-lo, sentindo-o e pensando-o de maneira diferente e nova. A ilusão, a mentira, o fingimento da ficção, aclara o real ao desligar-se dele, transfigurando-o; e aclara-o já pelo insight que em nós provocou.</p>
+				<p>Os textos literários são obras de discurso, a que falta a imediata referencialidade da linguagem corrente; poéticos, abolem, <q>destroem</q> o mundo circundante, cotidiano, graças à função irrealizante da imaginação que os constrói. E prendem-nos na teia de sua linguagem, a que devem o poder de apelo estético que nos enleia; seduz-nos o mundo outro, irreal, neles configurado (...). No entanto, da adesão a esse <q>mundo de papel</q>, quando retornamos ao real, nossa experiência, ampliada e renovada pela experiência da obra, à luz do que nos revelou, possibilita redescobri-lo, sentindo-o e pensando-o de maneira diferente e nova. A ilusão, a mentira, o fingimento da ficção, aclara o real ao desligar-se dele, transfigurando-o; e aclara-o já pelo insight que em nós provocou.</p>
 			</quote>
 			<cite>Benedito Nunes, "Ética e leitura", de Crivo de Papel.</cite>
 			<quote>
@@ -1054,7 +1033,7 @@
 		<objective_question number="32">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Em Claro Enigma, a ideia de engano surge sob a perspectiva do sujeito maduro, já afastado das ilusões, como se lê no verso-síntese "Tu não me enganas, mundo, e não te engano a ti." ("Legado"). O excerto de "Cantiga de enganar" apresenta a relação do eu com o mundo mediada</p>
+				<p>Em Claro Enigma, a ideia de engano surge sob a perspectiva do sujeito maduro, já afastado das ilusões, como se lê no verso-síntese <q>Tu não me enganas, mundo, e não te engano a ti.</q> (<q>Legado</q>). O excerto de <q>Cantiga de enganar</q> apresenta a relação do eu com o mundo mediada</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1102,7 +1081,7 @@
 		<objective_question number="34">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Se o discurso literário "aclara o real ao desligar-se dele, transfigurando-o", pode-se dizer que Luís da Silva, o narrador-protagonista de Angústia, já não se comove com a leitura de "histórias fáceis, sem almas complicadas" porque</p>
+				<p>Se o discurso literário <q>aclara o real ao desligar-se dele, transfigurando-o</q>, pode-se dizer que Luís da Silva, o narrador-protagonista de Angústia, já não se comove com a leitura de <q>histórias fáceis, sem almas complicadas</q> porque</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1154,26 +1133,26 @@
 			<statement>
 				<p>Leia o trecho extraído de uma notícia veiculada na internet:</p>
 				<quote>
-					<p>"O carro furou o pneu e bateu no meio fio, então eles foram obrigados a parar. O refém conseguiu acionar a população, que depois pegou dois dos três indivíduos e tentaram linchar eles. O outro conseguiu fugir, mas foi preso moments depois por uma viatura do 5º BPM", afirmou o major.</p>
+					<p><q>O carro furou o pneu e bateu no meio fio, então eles foram obrigados a parar. O refém conseguiu acionar a população, que depois pegou dois dos três indivíduos e tentaram linchar eles. O outro conseguiu fugir, mas foi preso moments depois por uma viatura do 5º BPM</q>, afirmou o major.</p>
 				</quote>
 				<cite>Disponível em https://www.gp1.com.br/.</cite>
 				<p>No português do Brasil, a função sintática do sujeito não possui, necessariamente, uma natureza de agente, ainda que o verbo esteja na voz ativa, tal como encontrado em:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>"O carro furou o pneu".</p>
+					<p><q>O carro furou o pneu</q>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>"e bateu no meio fio".</p>
+					<p><q>e bateu no meio fio</q>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>"O refém conseguiu acionar a população".</p>
+					<p><q>O refém conseguiu acionar a população</q>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>"tentaram linchar eles".</p>
+					<p><q>tentaram linchar eles</q>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>"afirmou o major".</p>
+					<p><q>afirmou o major</q>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1209,13 +1188,13 @@
 					<p>aborda o tema da memória, considerada uma faculdade que torna o ser humano menos amargo e sombrio.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>enfoca a hesitação do eu lírico diante das palavras, o que vem expresso pela repetição da palavra "talvez".</p>
+					<p>enfoca a hesitação do eu lírico diante das palavras, o que vem expresso pela repetição da palavra <q>talvez</q>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>apresenta natureza romântica, sendo as palavras "amora" e "amargo" metáforas do sentimento amoroso.</p>
+					<p>apresenta natureza romântica, sendo as palavras <q>amora</q> e <q>amargo</q> metáforas do sentimento amoroso.</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>possui reiterações sonoras que resultam em uma tensão inusitada entre os termos "amor" e "amar".</p>
+					<p>possui reiterações sonoras que resultam em uma tensão inusitada entre os termos <q>amor</q> e <q>amar</q>.</p>
 				</option>
 				<option label="E" is_correct="false">
 					<p>ressalta os significados das palavras tal como se verificam no seu uso mais corrente.</p>
@@ -1230,19 +1209,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>a palavra "amora" é substantivo, e "amargo", adjetivo.</p>
+					<p>a palavra <q>amora</q> é substantivo, e <q>amargo</q>, adjetivo.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>o verbo "amar" ameniza o amargor da palavra "amargo".</p>
+					<p>o verbo <q>amar</q> ameniza o amargor da palavra <q>amargo</q>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>o substantivo "corpo" apresenta sentido denotativo.</p>
+					<p>o substantivo <q>corpo</q> apresenta sentido denotativo.</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>o substantivo "amor" intensifica o dulçor da palavra "amora".</p>
+					<p>o substantivo <q>amor</q> intensifica o dulçor da palavra <q>amora</q>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>o verbo "amar" e o substantivo "amor" são intercambiáveis.</p>
+					<p>o verbo <q>amar</q> e o substantivo <q>amor</q> são intercambiáveis.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1313,7 +1292,7 @@
 			<statement>
 				<p>O Twitter é uma das redes sociais mais importantes no Brasil e no mundo. (...) Um estudo identificou que as fake news são 70% mais propensas a serem retweetadas do que fatos verdadeiros. (...) Outra conclusão importante do trabalho diz respeito aos famosos bots: ao contrário do que muitos pensam, esses robôs não são os grandes responsáveis por disseminar notícias falsas. Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.</p>
 				<cite>Super Interessante, "No Twitter, fake news se espalham 6 vezes mais rápido que notícias verdadeiras". Maio/2019.</cite>
-				<p>No período "Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.", os dois-pontos são utilizados para introduzir uma</p>
+				<p>No período <q>Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.</q>, os dois-pontos são utilizados para introduzir uma</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1340,29 +1319,29 @@
 			<classification subject="Unknown" />
 			<statement>
 				<quote>
-					<p>Agora, o Manuel Fulô, este, sim! Um sujeito pingadinho, quase menino "pepino que encorujou desde pequeno" - cara de bobo de fazenda, do segundo tipo -; porque toda fazenda tem o seu bobo, que é, ou um velhote baixote, de barba rara no queixo, ou um eterno rapazola, meio surdo, gago, glabro e alvar. Mas gostava de fechar a cara e roncar voz, todo enfarruscado, para mostrar brabeza, e só por descuido sorria, um sorriso manhoso de dono de hotel. E, em suas feições de caburé insalubre, amigavam-se as marcas do sangue aimoré e do gálico herdado: cabelo preto, corrido, que boi lambeu; dentes de fio em meia-lua; malares pontudos; lobo da orelha aderente; testa curta, fugidia; olhinhos de viés e nariz peba, mongol.</p>
+					<p>Agora, o Manuel Fulô, este, sim! Um sujeito pingadinho, quase menino <q>pepino que encorujou desde pequeno</q> - cara de bobo de fazenda, do segundo tipo -; porque toda fazenda tem o seu bobo, que é, ou um velhote baixote, de barba rara no queixo, ou um eterno rapazola, meio surdo, gago, glabro e alvar. Mas gostava de fechar a cara e roncar voz, todo enfarruscado, para mostrar brabeza, e só por descuido sorria, um sorriso manhoso de dono de hotel. E, em suas feições de caburé insalubre, amigavam-se as marcas do sangue aimoré e do gálico herdado: cabelo preto, corrido, que boi lambeu; dentes de fio em meia-lua; malares pontudos; lobo da orelha aderente; testa curta, fugidia; olhinhos de viés e nariz peba, mongol.</p>
 				</quote>
 				<cite>Guimarães Rosa, "Corpo fechado", de Sagarana.</cite>
-				<footnote>sem pelos, sem barba</footnote>
-				<footnote>tolo</footnote>
-				<footnote>mestiço</footnote>
+				<footnote>* sem pelos, sem barba</footnote>
+				<footnote>** tolo</footnote>
+				<footnote>*** mestiço</footnote>
 				<p>O retrato de Manuel Fulô, tal como aparece no fragmento, permite afirmar que</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>há clara antipatia do narrador para com a personagem, que por isso é caracterizada como "bobo de fazenda".</p>
+					<p>há clara antipatia do narrador para com a personagem, que por isso é caracterizada como <q>bobo de fazenda</q>.</p>
 				</option>
 				<option label="B" is_correct="true">
 					<p>estão presentes traços de diferentes etnias, de modo a refletir a mescla de culturas própria ao estilo do livro.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>a expressão "caburé insalubre" denota o determinismo biológico que norteia o livro.</p>
+					<p>a expressão <q>caburé insalubre</q> denota o determinismo biológico que norteia o livro.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>é irônico o trecho "para mostrar brabeza", pois ao fim da narrativa Manuel Fulô sofre derrota na luta física.</p>
+					<p>é irônico o trecho <q>para mostrar brabeza</q>, pois ao fim da narrativa Manuel Fulô sofre derrota na luta física.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>se apontam em sua fisionomia os "olhinhos de viés" para caracterizar a personagem como ingênua.</p>
+					<p>se apontam em sua fisionomia os <q>olhinhos de viés</q> para caracterizar a personagem como ingênua.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1373,26 +1352,26 @@
 			<classification subject="Unknown" />
 			<statement>
 				<quote>
-					<p>O feminismo negro não é uma luta meramente identitária, até porque branquitude e masculinidade também são identidades. Pensar feminismos negros é pensar projetos democráticos. Hoje afirmo isso com muita tranquilidade, mas minha experiência de vida foi marcada pelo incômodo de uma incompreensão fundamental. Não que eu buscasse respostas para tudo. Na maior parte da minha infância e adolescência, não tinha consciência de mim. Não sabia por que sentia vergonha de levantar a mão quando a professora fazia uma pergunta já supondo que eu não saberia a resposta. Por que eu ficava isolada na hora do recreio. Por que os meninos diziam na minha cara que não queriam formar par com a "neguinha" na festa junina. Eu me sentia estranha e inadequada, e, na maioria das vezes, fazia as coisas no automático, me esforçando para não ser notada.</p>
+					<p>O feminismo negro não é uma luta meramente identitária, até porque branquitude e masculinidade também são identidades. Pensar feminismos negros é pensar projetos democráticos. Hoje afirmo isso com muita tranquilidade, mas minha experiência de vida foi marcada pelo incômodo de uma incompreensão fundamental. Não que eu buscasse respostas para tudo. Na maior parte da minha infância e adolescência, não tinha consciência de mim. Não sabia por que sentia vergonha de levantar a mão quando a professora fazia uma pergunta já supondo que eu não saberia a resposta. Por que eu ficava isolada na hora do recreio. Por que os meninos diziam na minha cara que não queriam formar par com a <q>neguinha</q> na festa junina. Eu me sentia estranha e inadequada, e, na maioria das vezes, fazia as coisas no automático, me esforçando para não ser notada.</p>
 				</quote>
 				<cite>Djamila Ribeiro, Quem tem medo do feminismo negro?.</cite>
-				<p>O trecho que melhor define a "incompreensão fundamental" (L.6) referida pela autora é:</p>
+				<p>O trecho que melhor define a <q>incompreensão fundamental</q> (L.6) referida pela autora é:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>"não que eu buscasse respostas para tudo" (L.6-7).</p>
+					<p><q>não que eu buscasse respostas para tudo</q> (L.6-7).</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p>"não tinha consciência de mim" (L.8).</p>
+					<p><q>não tinha consciência de mim</q> (L.8).</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>"Por que eu ficava isolada na hora do recreio" (L.10-11).</p>
+					<p><q>Por que eu ficava isolada na hora do recreio</q> (L.10-11).</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>"me esforçando para não ser notada" (L.15).</p>
+					<p><q>me esforçando para não ser notada</q> (L.15).</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>"sentia vergonha de levantar a mão" (L.8-9).</p>
+					<p><q>sentia vergonha de levantar a mão</q> (L.8-9).</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1410,7 +1389,7 @@
 		<objective_question number="44">
 			<classification subject="Unknown" />
 			<statement>
-				<p>No excerto, o autor recorre à intertextualidade, dialogando com a comédia de Molière, Tartufo (1664), cuja personagem central é um impostor da fé. Tal é a fama da peça que o nome próprio se incorporou ao vocabulário, inclusive em português, como substantivo comum, para designar o "indivíduo hipócrita" ou o "falso devoto". No contexto maior do romance, sugere-se que a tartufice</p>
+				<p>No excerto, o autor recorre à intertextualidade, dialogando com a comédia de Molière, Tartufo (1664), cuja personagem central é um impostor da fé. Tal é a fama da peça que o nome próprio se incorporou ao vocabulário, inclusive em português, como substantivo comum, para designar o <q>indivíduo hipócrita</q> ou o <q>falso devoto</q>. No contexto maior do romance, sugere-se que a tartufice</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1434,7 +1413,7 @@
 		<objective_question number="45">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Considerando o contexto, o trecho "E não se pense que este nome a alegrou, posto que a lisonjeasse" (L.10-11) pode ser reescrito, sem prejuízo de sentido, da seguinte maneira: E não se pense que este nome a alegrou,</p>
+				<p>Considerando o contexto, o trecho <q>E não se pense que este nome a alegrou, posto que a lisonjeasse</q> (L.10-11) pode ser reescrito, sem prejuízo de sentido, da seguinte maneira: E não se pense que este nome a alegrou,</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -1461,7 +1440,8 @@
 			<classification subject="Unknown" />
 			<statement>
 				<quote>
-					<p>Hoje fizeram o enterro de Bela. Todos na Chácara se convenceram de que ela estava morta, menos eu. Se eu pudesse não deixaria enterrá-la ainda. Disse isso mesmo a vovó, mas ela disse que não se pode fazer assim. Bela estava igualzinha à que ela era no dia em que chegou da Formação, só um pouquinho mais magra. Todos dizem que o sofrimento da morte é a luta da alma para se largar do corpo. Eu perguntei a vovó: "Como é que a alma dela saiu sem o menor sofrimento, sem ela fazer uma caretinha que fosse?". Vovó disse que tudo isso é mistério, que nunca a gente pode saber essas coisas com certeza. Uns sofrem muito quando a alma se despega do corpo, outros morrem de repente sem sofrer.</p>
+					<p>Hoje fizeram o enterro de Bela. Todos na Chácara se convenceram de que ela estava morta, menos eu. Se eu pudesse não deixaria enterrá-la ainda. Disse isso mesmo a vovó, mas ela disse que não se pode fazer assim. Bela estava igualzinha à que ela era no dia em que chegou da Formação, só um pouquinho mais magra.</p>
+					<p>Todos dizem que o sofrimento da morte é a luta da alma para se largar do corpo. Eu perguntei a vovó: <q>Como é que a alma dela saiu sem o menor sofrimento, sem ela fazer uma caretinha que fosse?</q>. Vovó disse que tudo isso é mistério, que nunca a gente pode saber essas coisas com certeza. Uns sofrem muito quando a alma se despega do corpo, outros morrem de repente sem sofrer.</p>
 				</quote>
 				<cite>Helena Morley, Minha Vida de Menina.</cite>
 				<verse>
@@ -1527,8 +1507,8 @@
 					<p>Louvado seja Deus, que o acabei.</p>
 				</verse>
 				<cite>Gregório de Matos</cite>
-				<footnote>louvor</footnote>
-				<footnote>grande</footnote>
+				<footnote>* louvor</footnote>
+				<footnote>** grande</footnote>
 				<verse>
 					<title>Tipo zero</title>
 					<p>Você é um tipo que não tem tipo</p>
@@ -1809,7 +1789,7 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>descarte de garrafas PET e sacolas plásticas, aumentando a cadeia de produção de microplásticos.</p>
+					<p>descarte de garrafas <i>PET</i> e sacolas plásticas, aumentando a cadeia de produção de microplásticos.</p>
 				</option>
 				<option label="B" is_correct="false">
 					<p>aumento de intervenções de engenharia, como a construção de pontes e dragagens.</p>
@@ -1950,7 +1930,7 @@
 		<objective_question number="61">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A chamada "questão trabalhista" no Brasil foi objeto de conflitos, debates e regulamentações entre os anos 1920 e 1946. Identifique uma das dimensões deste processo.</p>
+				<p>A chamada <q>questão trabalhista</q> no Brasil foi objeto de conflitos, debates e regulamentações entre os anos 1920 e 1946. Identifique uma das dimensões deste processo.</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2163,23 +2143,23 @@
 			<classification subject="Unknown" />
 			<statement>
 				<quote>
-					<p>De acordo com o historiador Martyn Lyons, "nos temores contemporâneos em relação ao acesso ilimitado a sites perigosos da Internet, e às dificuldades enfrentadas por governos de diversos países no policiamento da distribuição da informação, ouve-se o eco do pânico causado pela invenção da imprensa".</p>
+					<p>De acordo com o historiador Martyn Lyons, <q>nos temores contemporâneos em relação ao acesso ilimitado a sites perigosos da Internet, e às dificuldades enfrentadas por governos de diversos países no policiamento da distribuição da informação, ouve-se o eco do pânico causado pela invenção da imprensa</q>.</p>
 				</quote>
 				<cite>Martyn Lyons, A história da leitura de Gutenberg a Bill Gates, RJ: Casa da Palavra, 1999.</cite>
-				<p>Escolha a alternativa que demonstre corretamente os elementos de continuidade e de descontinuidade entre a "revolução do impresso" e a "revolução eletrônica" apontados pelo autor.</p>
+				<p>Escolha a alternativa que demonstre corretamente os elementos de continuidade e de descontinuidade entre a <q>revolução do impresso</q> e a <q>revolução eletrônica</q> apontados pelo autor.</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>As chamadas "revolução do impresso" e "revolução eletrônica" não somente favoreceram a multiplicação e democratização do acesso à informação como também auxiliaram a formação de um público mais vasto e mais crítico.</p>
+					<p>As chamadas <q>revolução do impresso</q> e <q>revolução eletrônica</q> não somente favoreceram a multiplicação e democratização do acesso à informação como também auxiliaram a formação de um público mais vasto e mais crítico.</p>
 				</option>
 				<option label="B" is_correct="false">
 					<p>A implementação das novas tecnologias de comunicação eliminou a diferença entre os usuários e os excluídos do universo da cultura escrita, tal como se prometera no início de sua adoção.</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>A manutenção de índices elevados de circulação de fake news nas redes sociais demonstra que a "revolução da comunicação" depende de quem domina e de quem usa as tecnologias.</p>
+					<p>A manutenção de índices elevados de circulação de fake news nas redes sociais demonstra que a <q>revolução da comunicação</q> depende de quem domina e de quem usa as tecnologias.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>Diferentemente do Index Librorum Prohibitorum promulgado para a atuação da Inquisição no controle da expansão do Protestantismo durante o século XVI, os atuais marcos regulatórios da Internet limitam-se ao controle da pornografia.</p>
+					<p>Diferentemente do <i>Index Librorum Prohibitorum</i> promulgado para a atuação da Inquisição no controle da expansão do Protestantismo durante o século XVI, os atuais marcos regulatórios da Internet limitam-se ao controle da pornografia.</p>
 				</option>
 				<option label="E" is_correct="false">
 					<p>O advento da tipografia não foi necessariamente revolucionário, pois não mudou a natureza nem o assunto dos livros; já a tecnologia digital suprimiu todas as formas anteriores de comunicação, da oral à impressa.</p>
@@ -2192,7 +2172,7 @@
 		<objective_question number="69">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Em julho de 1969, os astronautas Neil Armstrong e Buzz Aldrin fizeram o primeiro pouso tripulado na superfície da Lua, enquanto seu colega Michael Collins permaneceu a bordo do módulo de comando Columbia em órbita lunar. Considerando que o Columbia estivesse em uma órbita perfeitamente circular a uma altitude de 260 km acima da superfície da Lua, o tempo decorrido (em horas terrestres h) entre duas passagens do Columbia exatamente acima do mesmo ponto da superfície lunar seria de</p>
+				<p>Em julho de 1969, os astronautas Neil Armstrong e Buzz Aldrin fizeram o primeiro pouso tripulado na superfície da Lua, enquanto seu colega Michael Collins permaneceu a bordo do módulo de comando <i>Columbia</i> em órbita lunar. Considerando que o <i>Columbia</i> estivesse em uma órbita perfeitamente circular a uma altitude de 260 km acima da superfície da Lua, o tempo decorrido (em horas terrestres h) entre duas passagens do <i>Columbia</i> exatamente acima do mesmo ponto da superfície lunar seria de</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2224,24 +2204,24 @@
 		<objective_question number="70">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Em 20 de maio de 2019, as unidades de base do Sistema Internacional de Unidades (SI) passaram a ser definidas a partir de valores exatos de algumas constantes físicas. Entre elas, está a constante de Planck h, que relaciona a energia E de um fóton (quantum de radiação eletromagnética) com a sua frequência f na forma $E = hf$.</p>
+				<p>Em 20 de maio de 2019, as unidades de base do Sistema Internacional de Unidades (SI) passaram a ser definidas a partir de valores exatos de algumas constantes físicas. Entre elas, está a constante de Planck <m>h</m>, que relaciona a energia <m>E</m> de um fóton (<i>quantum</i> de radiação eletromagnética) com a sua frequência <m>f</m> na forma <m>E = hf</m>.</p>
 				<p>A unidade da constante de Planck em termos das unidades de base do SI (quilograma, metro e segundo) é:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>$kg \cdot m^2/s$</p>
+					<p><m>kg \cdot m^2/s</m></p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$kg \cdot s/m^2$</p>
+					<p><m>kg \cdot s/m^2</m></p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$m^2 \cdot s/kg$</p>
+					<p><m>m^2 \cdot s/kg</m></p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$kg \cdot s/m$</p>
+					<p><m>kg \cdot s/m</m></p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$kg \cdot m^2/s^3$</p>
+					<p><m>kg \cdot m^2/s^3</m></p>
 				</option>
 			</options>
 		</objective_question>
@@ -2251,7 +2231,7 @@
 		<objective_question number="71">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam com a distância d entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para expressar a perda L, em decibéis (dB), do sinal em função de d, no espaço livre de obstáculos, é dada pela expressão $L = 20 \log_{10} (4\pi d/\lambda)$, em que $\lambda$ é o comprimento de onda do sinal. O gráfico a seguir mostra L (em dB) versus d (em metros) para um determinado comprimento de onda $\lambda$.</p>
+				<p>A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam com a distância <m>d</m> entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para expressar a perda <m>L</m>, em decibéis (dB), do sinal em função de <m>d</m>, no espaço livre de obstáculos, é dada pela expressão <math end=','>L = 20 \log_{10} (4\pi d/\lambda)</math>em que <m>\lambda</m> é o comprimento de onda do sinal. O gráfico a seguir mostra <m>L</m> (em dB) versus <m>d</m> (em metros) para um determinado comprimento de onda <m>\lambda</m>.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q71.png" />
 				<p>Com base no gráfico, a frequência do sinal é aproximadamente</p>
 			</statement>
@@ -2288,19 +2268,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$51~m/s$ e $51~m/s$</p>
+					<p>51 m/s e 51 m/s</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$51~m/s$ e $57~m/s$</p>
+					<p>51 m/s e 57 m/s</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$57~m/s$ e $57~m/s$</p>
+					<p> 57 m/s e 57 m/s</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>$57~m/s$ e $68~m/s$</p>
+					<p>57 m/s e 68 m/s</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$68~m/s$ e $68~m/s$</p>
+					<p>68 m/s e 68 m/s</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2344,19 +2324,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$30~N/m$</p>
+					<p>30 N/m</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$80~N/m$</p>
+					<p>80 N/m</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>$90~N/m$</p>
+					<p>90 N/m</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$160~N/m$</p>
+					<p>160 N/m</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$180~N/m$</p>
+					<p>180 N/m</p>
 				</option>
 			</options>
 			<assumptions>
@@ -2370,7 +2350,7 @@
 		<objective_question number="75">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Um fabricante projetou resistores para utilizar em uma lâmpada de resistência L. Cada um deles deveria ter resistência R. Após a fabricação, ele notou que alguns deles foram projetados erroneamente, de forma que cada um deles possui uma resistência $R_D = R/2$. Tendo em vista que a lâmpada queimará se for percorrida por uma corrente elétrica superior a $V/(R+L)$, em qual(is) dos circuitos a lâmpada queimará?</p>
+				<p>Um fabricante projetou resistores para utilizar em uma lâmpada de resistência <m>L</m>. Cada um deles deveria ter resistência <m>R</m>. Após a fabricação, ele notou que alguns deles foram projetados erroneamente, de forma que cada um deles possui uma resistência <m>R_D = R/2</m>. Tendo em vista que a lâmpada queimará se for percorrida por uma corrente elétrica superior a <m>V/(R+L)</m>, em qual(is) dos circuitos a lâmpada queimará?</p>
 				<image src="fuvest/2020/fase01/q75.png" />
 			</statement>
 			<options>
@@ -2397,27 +2377,27 @@
 		<objective_question number="76">
 			<classification subject="Unknown" />
 			<statement>
-				<p>No dia 10 de abril de 2019, a equipe do Event Horizon Telescope (EHT, "Telescópio Horizonte de Eventos") divulgou a primeira imagem de um buraco negro, localizado no centro da galáxia M87, obtida por um conjunto de telescópios com diâmetro efetivo equivalente ao da Terra, de 12.700 km.</p>
+				<p>No dia 10 de abril de 2019, a equipe do <i>Event Horizon Telescope</i> (EHT, <q>Telescópio Horizonte de Eventos</q>) divulgou a primeira imagem de um buraco negro, localizado no centro da galáxia M87, obtida por um conjunto de telescópios com diâmetro efetivo equivalente ao da Terra, de 12.700 km.</p>
 				<p>Devido ao fenômeno físico da difração, instrumentos óticos possuem um limite de resolução angular, que corresponde à mínima separação angular entre dois objetos que podem ser identificados separadamente quando observados à distância.</p>
 				<p>O gráfico mostra o limite de resolução de um telescópio, medido em radianos, como função do seu diâmetro, para ondas luminosas de comprimento de onda de 1,3 mm, igual ao daquelas captadas pelo EHT. Note a escala logarítmica dos eixos do gráfico.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q76.png" />
-				<p>Sabe-se que o tamanho equivalente a um pixel na foto do buraco negro corresponde ao valor da menor distância entre dois objetos naquela galáxia para que eles possam ser identificados separadamente pelo EHT. Com base nas informações anteriores e na análise do gráfico, e sabendo que a distância da Terra até a galáxia M87 é de $5 \times 10^{20}$ km, indique o valor mais próximo do tamanho do pixel.</p>
+				<p>Sabe-se que o tamanho equivalente a um pixel na foto do buraco negro corresponde ao valor da menor distância entre dois objetos naquela galáxia para que eles possam ser identificados separadamente pelo EHT. Com base nas informações anteriores e na análise do gráfico, e sabendo que a distância da Terra até a galáxia M87 é de <m>5 \times 10^{20}</m> km, indique o valor mais próximo do tamanho do pixel.</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$5 \times 10^1$ km</p>
+					<p><m>5 \times 10^1</m> km</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$5 \times 10^4$ km</p>
+					<p><m>5 \times 10^4</m> km</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$5 \times 10^7$ km</p>
+					<p><m>5 \times 10^7</m> km</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>$5 \times 10^{10}$ km</p>
+					<p><m>5 \times 10^{10}</m> km</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$5 \times 10^{13}$ km</p>
+					<p><m>5 \times 10^{13}</m> km</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2427,9 +2407,9 @@
 		<objective_question number="77">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Um solenoide muito longo é percorrido por uma corrente elétrica I, conforme mostra a figura 1. Em um determinado instante, uma partícula de carga q positiva desloca-se com velocidade instantânea v perpendicular ao eixo do solenoide, na presença de um campo elétrico na direção do eixo do solenoide. A figura 2 ilustra essa situação, em uma seção reta definida por um plano que contém o eixo do solenoide.</p>
+				<p>Um solenoide muito longo é percorrido por uma corrente elétrica <m>I</m>, conforme mostra a figura 1. Em um determinado instante, uma partícula de carga <m>q</m> positiva desloca-se com velocidade instantânea <m>v</m> perpendicular ao eixo do solenoide, na presença de um campo elétrico na direção do eixo do solenoide. A figura 2 ilustra essa situação, em uma seção reta definida por um plano que contém o eixo do solenoide.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q77_1.png" />
-				<p>O diagrama que representa corretamente as forças elétrica $F_E$ e magnética $F_B$ atuando sobre a partícula é:</p>
+				<p>O diagrama que representa corretamente as forças elétrica <m>F_E</m> e magnética <m>F_B</m> atuando sobre a partícula é:</p>
 				<image width="0.8" src="fuvest/2020/fase01/q77_2.png" />
 			</statement>
 			<options>
@@ -2484,26 +2464,26 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>Um pêndulo simples é composto por uma haste metálica leve, presa a um eixo bem lubrificado, e por uma esfera pequena de massa muito maior que a da haste, presa à sua extremidade oposta. O período P para pequenas oscilações de um pêndulo é proporcional à raiz quadrada da razão entre o comprimento da haste metálica e a aceleração da gravidade local. Considere este pêndulo nas três situações:</p>
-				<p>1. Em um laboratório localizado ao nível do mar, na Antártida, a uma temperatura de $0^{\circ}C$.</p>
+				<p>1. Em um laboratório localizado ao nível do mar, na Antártida, a uma temperatura de <m>0^{\circ}C</m>.</p>
 				<p>2. No mesmo laboratório, mas agora a uma temperatura de 250 Κ.</p>
-				<p>3. Em um laboratório no qual a temperatura é de $32^{\circ}F$ em uma base lunar, cuja aceleração da gravidade é igual a um sexto daquela da Terra.</p>
-				<p>Indique a alternativa correta a respeito da comparação entre os períodos de oscilação $P_1$, $P_2$ e $P_3$ do pêndulo nas situações 1, 2 e 3, respectivamente.</p>
+				<p>3. Em um laboratório no qual a temperatura é de <m>32^{\circ}F</m> em uma base lunar, cuja aceleração da gravidade é igual a um sexto daquela da Terra.</p>
+				<p>Indique a alternativa correta a respeito da comparação entre os períodos de oscilação <m>P_1</m>, <m>P_2</m> e <m>P_3</m> do pêndulo nas situações 1, 2 e 3, respectivamente.</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$P_1 &lt; P_2 &lt; P_3$</p>
+					<p><m>P_1 &lt; P_2 &lt; P_3</m></p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$P_1 = P_3 &lt; P_2$</p>
+					<p><m>P_1 = P_3 &lt; P_2</m></p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>$P_2 &lt; P_1 &lt; P_3$</p>
+					<p><m>P_2 &lt; P_1 &lt; P_3</m></p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$P_3 &lt; P_2 &lt; P_1$</p>
+					<p><m>P_3 &lt; P_2 &lt; P_1</m></p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$P_1 &lt; P_2 = P_3$</p>
+					<p><m>P_1 &lt; P_2 = P_3</m></p>
 				</option>
 			</options>
 		</objective_question>
@@ -2513,7 +2493,7 @@
 		<objective_question number="80">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Segundo o Instituto Nacional de Meteorologia (INMET), foram registradas temperaturas reduzidas no mês de junho de 2016, tal como na madrugada do dia 13, em que se alcançou a mínima de $3,5^{\circ}C$ na estação meteorológica da Serra da Cantareira, na cidade de São Paulo. Além disso, de acordo com o Instituto, também ocorreram precipitações acima da média, com mais de 200 mm no total daquele mês.</p>
+				<p>Segundo o Instituto Nacional de Meteorologia (INMET), foram registradas temperaturas reduzidas no mês de junho de 2016, tal como na madrugada do dia 13, em que se alcançou a mínima de <m>3,5^{\circ}C</m> na estação meteorológica da Serra da Cantareira, na cidade de São Paulo. Além disso, de acordo com o Instituto, também ocorreram precipitações acima da média, com mais de 200 mm no total daquele mês.</p>
 				<image width="0.9" src="fuvest/2020/fase01/q80.png" />
 				<cite>Disponível em https://www.meteo.psu.edu/. Adaptado.</cite>
 				<p>Associando a representação esquemática aos eventos descritos, analise as seguintes afirmações:</p>
@@ -2635,7 +2615,7 @@
 		<objective_question number="84">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Brasil: Estabelecimentos de agricultura familiar e não familiar</p>
+				<header>Brasil: Estabelecimentos de agricultura familiar e não familiar</header>
 				<image width="0.8" src="fuvest/2020/fase01/q84.png" />
 				<cite>Hervé Théry e Neli Aparecida Mello-Théry. Atlas do Brasil: disparidades e dinâmicas do território. 3ª edição, 2018. Adaptado.</cite>
 				<p>Sobre a produção agrícola brasileira e os dados apresentados nos cartogramas, é correto afirmar:</p>
@@ -2726,7 +2706,7 @@
 			<classification subject="Unknown" />
 			<statement>
 				<quote>
-					<p>Em Barcelona, em 2012 e 2013, a cada 15 minutos uma família recebia ordem de despejo. Desde então, o panorama da habitação mudou totalmente. "(...) Estamos assistindo uma onda de especulação imobiliária (...) que agora se foca no aluguel", explica Daniel Pardo da Associação de Moradores para um Turismo Sustentável. "Este fenômeno pôs em marcha um processo acelerado e violento de expulsão de inquilinos", acrescenta. Onde a pressão da especulação imobiliária internacional e a indústria do turismo causaram um aumento substancial nos preços dos aluguéis, os catalães têm hoje de gastar mais de 46% dos seus salários com o aluguel. Para os jovens até os 35 anos, a taxa de esforço aumenta até os 65% (...). "Não queremos que os habitantes de Barcelona sejam substituídos por pessoas com maior poder de compra", diz a porta-voz do Sindicato dos Inquilinos. Só em Barcelona, 15 fundos de investimento imobiliário possuem 3.000 apartamentos.</p>
+					<p>Em Barcelona, em 2012 e 2013, a cada 15 minutos uma família recebia ordem de despejo. Desde então, o panorama da habitação mudou totalmente. <q>(...) Estamos assistindo uma onda de especulação imobiliária (...) que agora se foca no aluguel</q>, explica Daniel Pardo da Associação de Moradores para um Turismo Sustentável. <q>Este fenômeno pôs em marcha um processo acelerado e violento de expulsão de inquilinos</q>, acrescenta. Onde a pressão da especulação imobiliária internacional e a indústria do turismo causaram um aumento substancial nos preços dos aluguéis, os catalães têm hoje de gastar mais de 46% dos seus salários com o aluguel. Para os jovens até os 35 anos, a taxa de esforço aumenta até os 65% (...). <q>Não queremos que os habitantes de Barcelona sejam substituídos por pessoas com maior poder de compra</q>, diz a porta-voz do Sindicato dos Inquilinos. Só em Barcelona, 15 fundos de investimento imobiliário possuem 3.000 apartamentos.</p>
 				</quote>
 				<cite>"Os habitantes querem a sua cidade de volta". Reportagem de Ulrike Prinz para o Goethe-Institut Madrid. Maio/2018. Adaptado.</cite>
 				<p>Os conceitos que explicam as dinâmicas urbanas descritas no excerto são:</p>
@@ -2759,19 +2739,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>I - uma aproximação do Brasil em relação à posição dos EUA. II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+					<p>I - uma aproximação do Brasil em relação à posição dos EUA.</p>
+					<p>II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>I - um distanciamento do Brasil em relação à posição da Palestina e uma aproximação em relação ao conjunto de países árabes. II - uma potencial aproximação do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+					<p>I - um distanciamento do Brasil em relação à posição da Palestina e uma aproximação em relação ao conjunto de países árabes.</p>
+					<p>II - uma potencial aproximação do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>I - um distanciamento do Brasil em relação à posição de Israel e uma aproximação em relação aos palestinos. II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+					<p>I - um distanciamento do Brasil em relação à posição de Israel e uma aproximação em relação aos palestinos.</p>
+					<p>II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>I - um distanciamento do Brasil em relação à posição dos EUA. II - uma potencial aproximação do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+					<p>I - um distanciamento do Brasil em relação à posição dos EUA.</p>
+					<p>II - uma potencial aproximação do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>I - uma aproximação do Brasil em relação à posição da Síria. II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
+					<p>I - uma aproximação do Brasil em relação à posição da Síria.</p>
+					<p>II - um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU.</p>
 				</option>
 			</options>
 		</objective_question>

@@ -34,11 +34,12 @@ DEFAULT_PREAMBLE = """\\documentclass[11pt,a4paper,twocolumn]{article}
 \\usepackage[utf8]{inputenc}
 \\usepackage{geometry}			% page size and margins
 \\usepackage{graphicx}   	% for images
-\\usepackage{wrapfig}    	% for pictures wraping
-\\usepackage{tabularx}   	% flexible tables
+\\usepackage{wrapfig}    	% for pictures wrapingb
+\\usepackage{tabularx}   	% flexible tablesbb
 \\usepackage{array}      	% improved column definitions
 \\usepackage{tcolorbox}  	% for boxes of text
 \\usepackage{csquotes}     % for typesetting quotes
+\\usepackage{mhchem}
 \\usepackage{amsmath}
 \\usepackage{mathspec}			% allow you to use open-type fonts
 \\usepackage{setspace}     % for line spacing
@@ -163,6 +164,64 @@ def convert_quotes_to_latex(input_string):
 
     return final_string
 
+
+def clean_text(text: str) -> str:
+    # Dictionary of characters to escape
+    escape_map = {
+        '&': r'\&',
+        '%': r'\%',
+        '$': r'\$',
+        '#': r'\#',
+        '_': r'\_',
+        '{': r'\{',
+        '}': r'\}',
+        '→': r'->',
+        '⇌': r'<=>',
+        '~': r'\textasciitilde{}',
+        '^': r'\textasciicircum{}',
+        '\\': r'\textbackslash{}',
+    }
+
+    # Create a regex from the keys of the map
+    escape_regex = re.compile('|'.join(map(re.escape, escape_map.keys())))
+
+    # Perform the replacement
+    fully_escaped_text = escape_regex.sub(lambda mo: escape_map[mo.group(0)], text)
+
+    return fully_escaped_text
+
+def clean_chemistry(text: str) -> str:
+    print("#", text)
+    # Dictionary of characters to escape
+    escape_map = {
+        'α': r'\alpha',
+        '→': r'->',
+        '⇌': r'<=>',
+
+    }
+
+    # Create a regex from the keys of the map
+    escape_regex = re.compile('|'.join(map(re.escape, escape_map.keys())))
+
+    # Perform the replacement
+    fully_escaped_text = escape_regex.sub(lambda mo: escape_map[mo.group(0)], text)
+
+    return fully_escaped_text
+
+def clean_math(text: str) -> str:
+    print("#", text)
+    # Dictionary of characters to escape
+    escape_map = {
+        'π': r'\pi',
+    }
+
+    # Create a regex from the keys of the map
+    escape_regex = re.compile('|'.join(map(re.escape, escape_map.keys())))
+
+    # Perform the replacement
+    fully_escaped_text = escape_regex.sub(lambda mo: escape_map[mo.group(0)], text)
+
+    return fully_escaped_text
 
 def markdown_to_latex(text: str) -> str:
     """
@@ -438,7 +497,7 @@ def render_header(header_el) -> str:
 #########################################################################################################################
 # Render the <p> tag
 
-def render_paragraph(p_el) -> str:
+def render_paragraph(p_elem) -> str:
     # https://www.overleaf.com/learn/latex/Typesetting_quotations
     # Text, ``text in English double quotes'', `text in English single quotes'.
     # https://www.reddit.com/r/LaTeX/comments/11crv0h/problems_with_the_quotation_marks/
@@ -450,12 +509,61 @@ def render_paragraph(p_el) -> str:
 # Use two backticks (``) for the opening quote.
 # Use two apostrophes ('') for the closing quote.
 # Example: ``This is a double quote.''
+#
+    parts = []
 
-    #print('teste', list(p_el.itertext()))
-    text = "".join(p_el.itertext()).strip()
+    # Add text that appears directly inside <p> before first child
+    if p_elem.text:
+        #print("before", p_elem.text)
+        text = clean_text(p_elem.text)
+        parts.append(text)
+
+    # Iterate over child elements
+    for child in p_elem:
+        if child.tag == "b":
+            #print("bold", p_elem.text)
+            parts.append(f"\\textbf{{{child.text}}}")
+        elif child.tag == "u":
+            parts.append(f"\\underline{{{child.text}}}")
+        elif child.tag == "i":
+            parts.append(f"\\textit{{{child.text}}}")
+        elif child.tag == "q":
+            parts.append(f"“{child.text}”")
+        elif child.tag == "m":
+            text = clean_math(child.text)
+            parts.append(f"${text}$")
+        elif child.tag == "math":
+            text = clean_math(child.text)
+            parts.append(f"$${text}$$")
+        elif child.tag == "c":
+            text = clean_chemistry(child.text)
+            parts.append(f"\\ce{{{text}}}")
+        elif child.tag == "chem":
+            text = clean_chemistry(child.text)
+            parts.append(f"$$\\ce{{{text}}}$$")
+        elif child.tag == "ref":
+            parts.append(f"[REF: {child.text}]")
+        else:
+            text = clean_text(etree.tostring(child, encoding='unicode'))
+            parts.append(text)
+
+        # After child, add its trailing text if present
+        if child.tail:
+            text = clean_text(child.tail)
+            parts.append(text)
+
+    #return "".join(parts)
+
+    # for child in p_el:
+    #     print(child, etree.tostring(child).decode('utf-8'))
+
+    # print('teste', list(p_el.itertext()))
+    #text = "".join(p_elem.itertext()).strip()
+    text = "".join(parts)
     #print('0', text)
     #return markdown_to_latex(escape_latex(text)) + "\n\n"
-    return markdown_to_latex(text) + "\n\n"
+    #return markdown_to_latex(text) + "\n\n"
+    return text + "\n\n"
 
 def render_inline_paragraph(p_el) -> str:
     text = "".join(p_el.itertext()).strip()
@@ -502,22 +610,33 @@ def render_verse(q_el) -> str:
     parts = []
     parts.append("\\begin{verseblock}\n")
 
-    header_ps = q_el.find("./header")
-    if header_ps is not None:
-        text = "".join(header_ps.itertext()).strip()
-        parts.append(markdown_to_latex(text) + "\\\\\n")
-
-    inner_ps = q_el.findall("./p")
-    if inner_ps:
-        for p in inner_ps:
-            text = "".join(p.itertext()).strip()
+    for child in q_el:
+        if child.tag == "title":
+            text = "\\textbf{" + clean_text("".join(child.itertext()).strip()) + "}"
             parts.append(markdown_to_latex(text) + "\\\\\n")
+        elif child.tag == "p":
+            text = clean_text("".join(child.itertext()).strip())
+            parts.append(markdown_to_latex(text) + "\\\\\n")
+        else:
+            raise ValueError("Tag not recognized!")
 
-    author_el = q_el.find("./author")
-    if author_el is not None and (author_el.text or "").strip():
-        author = strip_md_italics(author_el.text or "")
-        #parts.append("\\begin{flushright}\\textit{" + escape_latex(author) + "}\\end{flushright}\n")
-        parts.append("\\quoteauthor{" + escape_latex(author) + "}\n")
+    # header_ps = q_el.find("./title")
+    # if header_ps is not None:
+    #     text = "".join(header_ps.itertext()).strip()
+    #     parts.append(markdown_to_latex(text) + "\\\\\n")
+
+    # inner_ps = q_el.findall("./p")
+    # if inner_ps:
+    #     for p in inner_ps:
+    #         text = "".join(p.itertext()).strip()
+    #         parts.append(markdown_to_latex(text) + "\\\\\n")
+
+
+    # author_el = q_el.find("./author")
+    # if author_el is not None and (author_el.text or "").strip():
+    #     author = strip_md_italics(author_el.text or "")
+    #     #parts.append("\\begin{flushright}\\textit{" + escape_latex(author) + "}\\end{flushright}\n")
+    #     parts.append("\\quoteauthor{" + escape_latex(author) + "}\n")
 
     parts.append("\\end{verseblock}\n")
     parts.append("\n")
@@ -664,8 +783,21 @@ def render_list(ul_el) -> str:
     parts = []
     parts.append("\\begin{itemize}\n")
     for li in ul_el.findall("./li"):
-        txt = "".join(li.itertext()).strip()
-        parts.append("\\item " + markdown_to_latex(txt) + "\n")
+        #txt = "".join(li.itertext()).strip()
+        # parts.append(render_paragraph(p))
+        print(li, dir(li))
+        parts.append("\\item ")
+        # render paragrphs
+        for child in li:
+            if child.tag == "p":
+                #print("bold", p_elem.text)
+                parts.append(render_paragraph(child))
+            elif child.tag == "image":
+                raise NotImplementedError("image not implemented!")
+            else:
+                raise ValueError("Tag not recognized!")
+        #parts.append("\\item " + render_paragraph(li.child) + "\n")
+        #parts.append("\n")
     parts.append("\\end{itemize}\n\n")
     return "".join(parts)
 

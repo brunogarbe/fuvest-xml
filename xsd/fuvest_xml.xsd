@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
 	<!-- Classification restriction -->
@@ -393,7 +393,7 @@
 	
 	<!-- Subject attribute for classification -->
 	<xs:complexType name="SubjectAttribute">
-		<xs:attribute name="subject" type="Classification" />
+		<xs:attribute name="subject" type="Classification"/>
 	</xs:complexType>
 	
 	<!-- Percentage restriction -->
@@ -406,11 +406,41 @@
 		</xs:restriction>
 	</xs:simpleType>
 	
+	<xs:complexType name="Paragraph" mixed="true">
+  <xs:choice minOccurs="0" maxOccurs="unbounded">
+    <xs:element name="b" type="xs:string"/>
+    <xs:element name="i" type="xs:string"/>
+    <xs:element name="u" type="xs:string"/>
+    <xs:element name="q" type="xs:string"/>
+    <xs:element name="m" type="xs:string"/>
+    <xs:element name="math">
+				 <xs:complexType>
+				<xs:simpleContent>
+					<xs:extension base="xs:string">
+						<xs:attribute name="end" type="xs:string" use="optional"/>
+					</xs:extension>
+				</xs:simpleContent>
+			</xs:complexType>
+			</xs:element>
+    <xs:element name="c" type="xs:string"/>
+    <xs:element name="chem" type="xs:string"/>
+    <xs:element name="ref" type="xs:string"/>
+  </xs:choice>
+</xs:complexType>
+	
 	<!-- Paragraphs -->
 	<xs:complexType name="Paragraphs">
 		<xs:sequence>
-			<xs:element name="p" type="xs:string" maxOccurs="unbounded" />
+			<xs:element name="p" type="Paragraph"/>
 		</xs:sequence>
+	</xs:complexType>
+	
+		<!-- Option -->
+	<xs:complexType name="Paragraphs2">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element name="p" type="Paragraph"/>
+			<xs:element name="image" type="Image"/>
+		</xs:choice>
 	</xs:complexType>
 	
 	<!-- Quote -->
@@ -418,7 +448,7 @@
 		<xs:sequence>
 			<xs:element name="title" type="xs:string" minOccurs="0" maxOccurs="1"/>
 			<xs:choice minOccurs="0" maxOccurs="unbounded">
-				<xs:element name="p" type="xs:string" />
+				<xs:element name="p" type="Paragraph"/>
 				<xs:element name="image" type="Image"/>
 			</xs:choice>
 		</xs:sequence>
@@ -434,16 +464,16 @@
 	
 	<!-- Image -->
 	<xs:complexType name="Image">
-		<xs:attribute name="src" type="xs:string" use="required" />
-		<xs:attribute name="size" type="xs:string" />
-		<xs:attribute name="width" type="xs:string" />
-		<xs:attribute name="wrap" type="xs:boolean" />
+		<xs:attribute name="src" type="xs:string" use="required"/>
+		<xs:attribute name="size" type="xs:string"/>
+		<xs:attribute name="width" type="xs:string"/>
+		<xs:attribute name="wrap" type="xs:boolean"/>
 	</xs:complexType>
 	
 	<!-- Unordered List -->
 	<xs:complexType name="UnorderedList">
 		<xs:sequence>
-			<xs:element name="li" type="xs:string" maxOccurs="unbounded" />
+			<xs:element name="li" type="Paragraphs2" maxOccurs="unbounded"/>
 		</xs:sequence>
 	</xs:complexType>
 	
@@ -451,7 +481,7 @@
 	<xs:complexType name="Cell">
 	
 		<xs:choice minOccurs="0" maxOccurs="1">
-			<xs:element name="p" type="xs:string" />
+			<xs:element name="p" type="Paragraph"/>
 			<xs:element name="image" type="Image"/>
 		</xs:choice>
 		
@@ -482,30 +512,30 @@
 			<xs:element name="row" maxOccurs="unbounded" type="CellRow"/>
 		</xs:sequence>
 		
-		<xs:attribute name="width" 			type="Percentage" />
-		<xs:attribute name="columns" 		type="xs:string" />
+		<xs:attribute name="width" type="Percentage"/>
+		<xs:attribute name="columns" type="xs:string"/>
 	</xs:complexType>
 	
 	<!-- Reusable definition for a statemend childs -->
 	<xs:complexType name="StatementChilds">
 		<xs:choice maxOccurs="unbounded">
-			<xs:element name="quote" 	type="Quote"/>
-			<xs:element name="verse" 	type="Verse"/>
+			<xs:element name="quote" type="Quote"/>
+			<xs:element name="verse" type="Verse"/>
 			<xs:element name="header" type="xs:string"/>
 			<xs:element name="caption" type="xs:string"/>
-			<xs:element name="cite"   type="xs:string"/>
-			<xs:element name="p" 			type="xs:string"/>
-			<xs:element name="footnote"	type="xs:string"/>
-			<xs:element name="image" 	type="Image"/>
-			<xs:element name="ul" 		type="UnorderedList"/>
-			<xs:element name="table" 	type="Table"/>
+			<xs:element name="cite" type="xs:string"/>
+			<xs:element name="p" type="Paragraph"/>
+			<xs:element name="footnote" type="xs:string"/>
+			<xs:element name="image" type="Image"/>
+			<xs:element name="ul" type="UnorderedList"/>
+			<xs:element name="table" type="Table"/>
 		</xs:choice>
 	</xs:complexType>
 	
 	<!-- Option -->
 	<xs:complexType name="Option">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
-			<xs:element name="p" type="xs:string"/>
+			<xs:element name="p" type="Paragraph"/>
 			<xs:element name="image" type="Image"/>
 		</xs:choice>
 		
@@ -527,10 +557,10 @@
 					</xs:sequence>
 					
 					<!-- label atribute for option tag -->
-					<xs:attribute name="label" type="xs:string" use="required" />
+					<xs:attribute name="label" type="xs:string" use="required"/>
 					
 					<!-- is_correct atribute for option tag -->
-					<xs:attribute name="is_correct" type="xs:boolean" use="required" />
+					<xs:attribute name="is_correct" type="xs:boolean" use="required"/>
 				</xs:complexType>
 			</xs:element>
 		</xs:sequence>
@@ -552,7 +582,7 @@
 	<!-- Part -->
 	<xs:complexType name="Part">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
-			<xs:element name="p" type="xs:string"/>
+			<xs:element name="p" type="Paragraph"/>
 			<xs:element name="image" type="Image"/>
 		</xs:choice>
 	</xs:complexType>
@@ -579,15 +609,15 @@
 					<xs:complexType>
 						<xs:sequence>
 							<xs:element name="classification" type="SubjectAttribute" maxOccurs="unbounded"/>
-							<xs:element name="statement" 			type="StatementChilds"/>
-							<xs:element name="options" 				type="Options"/>					
-							<xs:element name="assumptions"  	type="StatementChilds" minOccurs="0"/>
+							<xs:element name="statement" type="StatementChilds"/>
+							<xs:element name="options" type="Options"/>					
+							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
 						</xs:sequence>
 						
 						<!-- Attributes -->
-						<xs:attribute name="number" 				type="xs:integer" use="required" />
-						<xs:attribute name="null" 					type="xs:boolean" />
-						<xs:attribute name="success_rate" 	type="Percentage" />
+						<xs:attribute name="number" type="xs:integer" use="required"/>
+						<xs:attribute name="null" type="xs:boolean"/>
+						<xs:attribute name="success_rate" type="Percentage"/>
 					</xs:complexType>
 				</xs:element>
 				
@@ -596,15 +626,15 @@
 					<xs:complexType>
 						<xs:sequence>
 							<xs:element name="classification" type="SubjectAttribute" maxOccurs="unbounded"/>
-							<xs:element name="statement" 			type="StatementChilds"/>
-							<xs:element name="parts" 					type="Parts"/>					
-							<xs:element name="assumptions"  	type="StatementChilds" minOccurs="0"/>
+							<xs:element name="statement" type="StatementChilds"/>
+							<xs:element name="parts" type="Parts"/>					
+							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
 						</xs:sequence>
 						
 						<!-- Attributes -->
-						<xs:attribute name="number" 				type="xs:integer" use="required"/>
-						<xs:attribute name="null" 					type="xs:boolean" />
-						<xs:attribute name="success_rate" 	type="Percentage" />
+						<xs:attribute name="number" type="xs:integer" use="required"/>
+						<xs:attribute name="null" type="xs:boolean"/>
+						<xs:attribute name="success_rate" type="Percentage"/>
 					</xs:complexType>
 				</xs:element>
 			
@@ -616,25 +646,25 @@
 	<xs:element name="exam">
 		<xs:complexType>
 			<xs:choice maxOccurs="unbounded">
-				<xs:element name="question_group" type="QuestionGroup" />
+				<xs:element name="question_group" type="QuestionGroup"/>
 				<xs:element name="subject">
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element name="question_group" type="QuestionGroup" maxOccurs="unbounded" />
+							<xs:element name="question_group" type="QuestionGroup" maxOccurs="unbounded"/>
 						</xs:sequence>
-						<xs:attribute name="name" type="xs:string" use="required" />
+						<xs:attribute name="name" type="xs:string" use="required"/>
 					</xs:complexType>
 				</xs:element>
 			</xs:choice>
 			
 			<!-- Attributes for the exam tag -->
-			<xs:attribute name="name" 			type="xs:string" 	use="required" />
-			<xs:attribute name="year" 			type="xs:gYear" 	use="required" />
-			<xs:attribute name="phase" 			type="xs:string" 	use="required" />
-			<xs:attribute name="day" 				type="xs:integer" use="required" />
-			<xs:attribute name="variation" 	type="xs:string" 	use="required" />
-			<xs:attribute name="date" 			type="xs:date" 		use="required" />
-			<xs:attribute name="lang" 			type="xs:string" 	use="required" />
+			<xs:attribute name="name" type="xs:string" use="required"/>
+			<xs:attribute name="year" type="xs:gYear" use="required"/>
+			<xs:attribute name="phase" type="xs:string" use="required"/>
+			<xs:attribute name="day" type="xs:integer" use="required"/>
+			<xs:attribute name="variation" type="xs:string" use="required"/>
+			<xs:attribute name="date" type="xs:date" use="required"/>
+			<xs:attribute name="lang" type="xs:string" use="required"/>
 			
 		</xs:complexType>
 	</xs:element>

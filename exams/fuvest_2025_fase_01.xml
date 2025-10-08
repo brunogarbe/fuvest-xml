@@ -2265,7 +2265,7 @@
 		<objective_question number="69" success_rate="25.9">
 			<classification subject="Math:Algebra:Quadratic" />
 			<statement>
-				<p>No plano cartesiano Oxy, o gráfico que melhor representa a função $f(x)=|x^{2}+5x-6|-5x+6$ é dado por</p>
+				<p>No plano cartesiano Oxy, o gráfico que melhor representa a função <m>f(x)=|x^{2}+5x-6|-5x+6</m> é dado por</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">

@@ -121,18 +121,13 @@ DEFAULT_PREAMBLE = """\\documentclass[11pt,a4paper,twocolumn]{article}
 
 """
 
-
-
 # Global variable
 global_graphics_dir = None
-
 
 import re
 
 # To handle nested emphasis like **_bold italic_** → \textbf{\textit{...}}, we need to be more careful.
-
 # Instead of a single regex pass, we can apply ordered substitutions that allow nesting. The trick is to convert the inner (* or _ italics) before the outer (** or __ bold). That way, when bold wraps around an italic segment, LaTeX nesting is preserved.
-
 # Here’s the improved function:
 
 def convert_quotes_to_latex(input_string):
@@ -191,7 +186,7 @@ def clean_text(text: str) -> str:
     return fully_escaped_text
 
 def clean_chemistry(text: str) -> str:
-    print("#", text)
+    #print("#", text)
     # Dictionary of characters to escape
     escape_map = {
         'α': r'\alpha',
@@ -209,7 +204,7 @@ def clean_chemistry(text: str) -> str:
     return fully_escaped_text
 
 def clean_math(text: str) -> str:
-    print("#", text)
+    #print("#", text)
     # Dictionary of characters to escape
     escape_map = {
         'π': r'\pi',
@@ -497,19 +492,8 @@ def render_header(header_el) -> str:
 #########################################################################################################################
 # Render the <p> tag
 
-def render_paragraph(p_elem) -> str:
-    # https://www.overleaf.com/learn/latex/Typesetting_quotations
-    # Text, ``text in English double quotes'', `text in English single quotes'.
-    # https://www.reddit.com/r/LaTeX/comments/11crv0h/problems_with_the_quotation_marks/
-    # For single quotes:
-# Use a single backtick (`) for the opening quote.
-# Use a single apostrophe (') for the closing quote.
-# Example: `This is a single quote.'
-# For double quotes:
-# Use two backticks (``) for the opening quote.
-# Use two apostrophes ('') for the closing quote.
-# Example: ``This is a double quote.''
-#
+def render_paragraph(p_elem, inline=False) -> str:
+
     parts = []
 
     # Add text that appears directly inside <p> before first child
@@ -533,8 +517,10 @@ def render_paragraph(p_elem) -> str:
             text = clean_math(child.text)
             parts.append(f"${text}$")
         elif child.tag == "math":
+            end_symbol = child.get("end", "").strip()
+            #print('!', end_symbol, type(end_symbol))
             text = clean_math(child.text)
-            parts.append(f"$${text}$$")
+            parts.append(f"\n$${text} {end_symbol}$$\n")
         elif child.tag == "c":
             text = clean_chemistry(child.text)
             parts.append(f"\\ce{{{text}}}")
@@ -552,7 +538,7 @@ def render_paragraph(p_elem) -> str:
             text = clean_text(child.tail)
             parts.append(text)
 
-    #return "".join(parts)
+    # return "".join(parts)
 
     # for child in p_el:
     #     print(child, etree.tostring(child).decode('utf-8'))
@@ -563,7 +549,9 @@ def render_paragraph(p_elem) -> str:
     #print('0', text)
     #return markdown_to_latex(escape_latex(text)) + "\n\n"
     #return markdown_to_latex(text) + "\n\n"
-    return text + "\n\n"
+    end_par = "\n\n" if inline == False else "\\\\"
+
+    return text + end_par
 
 def render_inline_paragraph(p_el) -> str:
     text = "".join(p_el.itertext()).strip()

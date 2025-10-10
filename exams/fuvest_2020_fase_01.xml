@@ -99,7 +99,7 @@
 		<objective_question number="4">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Ao se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada. </p>
+				<p>Ao se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q04.png" />
 				<p>Considerando as informações apresentadas no texto e no quadro, a principal razão para a diferença de coloração descrita é que a fração oleosa </p>
 			</statement>
@@ -136,19 +136,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><c>limoneno ⇌ p-cimeno → α-terpineno</c></p>
+					<p>
+						<c>limoneno ⇌ p-cimeno → α-terpineno</c>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><c>limoneno →[p-cimeno (catalisador)] α-terpineno</c></p>
+					<p>
+						<c>limoneno →[p-cimeno (catalisador)] α-terpineno</c>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><c>limoneno + p-cimeno ⇌ α-terpineno</c></p>
+					<p>
+						<c>limoneno + p-cimeno ⇌ α-terpineno</c>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><c>limoneno →[α-terpineno (catalisador)] p-cimeno</c></p>
+					<p>
+						<c>limoneno →[α-terpineno (catalisador)] p-cimeno</c>
+					</p>
 				</option>
 				<option label="E" is_correct="true">
-					<p><c>limoneno → α-terpineno → p-cimeno</c></p>
+					<p>
+						<c>limoneno → α-terpineno → p-cimeno</c>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -158,9 +168,9 @@
 		<objective_question number="6">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Os chamados <q>remédios homeopáticos</q> são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais.  A dosagem utilizada desses produtos é da ordem de poucos mL. Uma das técnicas de diluição homeopática é chamada de diluição centesimal (<c>CH</c>), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema). </p>
+				<p>Os chamados <q>remédios homeopáticos</q> são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais.  A dosagem utilizada desses produtos é da ordem de poucos mL. Uma das técnicas de diluição homeopática é chamada de diluição centesimal (<c>CH</c>), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema).</p>
 				<image width="0.6" src="fuvest/2020/fase01/q06.png" />
-				<p>Alguns desses produtos homeopáticos são produzidos com até 200 diluições centesimais sequenciais (<c>200CH</c>). Considerando uma solução de partida de 100 mL com concentração 1 mol/L de princípio ativo, a partir de qual diluição centesimal a solução passa a não ter, em média, nem mesmo uma molécula do princípio ativo? </p>
+				<p>Alguns desses produtos homeopáticos são produzidos com até 200 diluições centesimais sequenciais (<c>200CH</c>). Considerando uma solução de partida de 100 mL com concentração 1 mol/L de princípio ativo, a partir de qual diluição centesimal a solução passa a não ter, em média, nem mesmo uma molécula do princípio ativo?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -283,7 +293,7 @@
 		<objective_question number="9">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Quando o nosso corpo é lesionado por uma pancada, logo se cria um hematoma que, ao longo do tempo, muda de cor. Inicialmente, o hematoma torna-se avermelhado pelo acúmulo de hemoglobina. Em seguida, surge uma coloração azulada, decorrente da perda do O₂ ligado ao Fe do grupo heme. Essa coloração torna-se, então, esverdeada (biliverdina) e, após isso, surge um tom amarelado na pele (bilirrubina). Essa sequência de cores ocorre pela transformação do grupo heme da hemoglobina, como representado a seguir: </p>
+				<p>Quando o nosso corpo é lesionado por uma pancada, logo se cria um hematoma que, ao longo do tempo, muda de cor. Inicialmente, o hematoma torna-se avermelhado pelo acúmulo de hemoglobina. Em seguida, surge uma coloração azulada, decorrente da perda do <c>O2</c> ligado ao <c>Fe</c> do grupo heme. Essa coloração torna-se, então, esverdeada (biliverdina) e, após isso, surge um tom amarelado na pele (bilirrubina). Essa sequência de cores ocorre pela transformação do grupo heme da hemoglobina, como representado a seguir: </p>
 				<image width="0.8" src="fuvest/2020/fase01/q09.png" />
 				<p>Com base nas informações e nas representações, é correto afirmar: </p>
 			</statement>
@@ -311,13 +321,13 @@
 		<objective_question number="10">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A reação de cetonas com hidrazinas, representada pela equação química </p>
+				<p>A reação de cetonas com hidrazinas, representada pela equação química</p>
 				<image src="fuvest/2020/fase01/q10_1.png" />
 				<p>pode ser explorada para a quantificação de compostos cetônicos gerados, por exemplo, pela respiração humana. Para tanto, uma hidrazina específica, a 2,4-dinitrofenilhidrazina, é utilizada como reagente, gerando um produto que possui cor intensa.</p>
 				<image src="fuvest/2020/fase01/q10_2.png" />
-				<p>Considere que a 2,4-dinitrofenilhidrazina seja utilizada para quantificar o seguinte composto: </p>
+				<p>Considere que a 2,4-dinitrofenilhidrazina seja utilizada para quantificar o seguinte composto:</p>
 				<image width="0.5" src="fuvest/2020/fase01/q10_3.png" />
-				<p>Nesse caso, a estrutura do composto colorido formado será: </p>
+				<p>Nesse caso, a estrutura do composto colorido formado será:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -345,7 +355,7 @@
 			<statement>
 				<p>Em supermercados, é comum encontrar alimentos chamados de liofilizados, como frutas, legumes e carnes. Alimentos liofilizados continuam próprios para consumo após muito tempo, mesmo sem refrigeração. O termo <q>liofilizado</q>, nesses alimentos, refere-se ao processo de congelamento e posterior desidratação por sublimação da água. Para que a sublimação da água ocorra, é necessária uma combinação de condições, como mostra o gráfico de pressão por temperatura, em que as linhas representam transições de fases.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q11.png" />
-				<p>Apesar de ser um processo que requer, industrialmente, uso de certa tecnologia, existem evidências de que os povos pré-colombianos que viviam nas regiões mais altas dos Andes conseguiam liofilizar alimentos, possibilitando estocá-los por mais tempo. Assinale a alternativa que explica como ocorria o processo de liofilização natural: </p>
+				<p>Apesar de ser um processo que requer, industrialmente, uso de certa tecnologia, existem evidências de que os povos pré-colombianos que viviam nas regiões mais altas dos Andes conseguiam liofilizar alimentos, possibilitando estocá-los por mais tempo. Assinale a alternativa que explica como ocorria o processo de liofilização natural:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -375,13 +385,19 @@
 				<p>Cada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de <c>HCl</c> e <c>NaOH</c> em diversas concentrações.</p>
 				<p>Cada estudante deveria jogar apenas uma vez dois dados, um amarelo e um vermelho, ambos contendo os números de 1 a 6.</p>
 				<ul>
-					<li><p>Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração <m>10^{-n}</m> mol/L, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de <m>10^{-1}</m> mol/L; se saísse 6, a solução seria de <m>10^{-6}</m> mol/L).</p></li>
-					<li><p>Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por <c>NaOH</c>, totalizando assim 1,0 L de solução.</p></li>
-					<li><p>O estudante deveria observar a cor da solução ao final do experimento.</p></li>
+					<li>
+						<p>Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração <m>10^{-n}</m> mol/L, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de <m>10^{-1}</m> mol/L; se saísse 6, a solução seria de <m>10^{-6}</m> mol/L).</p>
+					</li>
+					<li>
+						<p>Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por <c>NaOH</c>, totalizando assim 1,0 L de solução.</p>
+					</li>
+					<li>
+						<p>O estudante deveria observar a cor da solução ao final do experimento.</p>
+					</li>
 				</ul>
 				<p>A professora mostrou a tabela com alguns valores de pH resultantes conforme os números tirados nos dados. Ela pediu, então, aos estudantes que utilizassem seus conhecimentos e a tabela para prever em quais combinações de dados a cor final do indicador seria vermelha.</p>
 				<image src="fuvest/2020/fase01/q12_1.png" />
-				<p>A probabilidade de, após realizar o procedimento descrito, a solução final preparada por um estudante ser vermelha é de: </p>
+				<p>A probabilidade de, após realizar o procedimento descrito, a solução final preparada por um estudante ser vermelha é de:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -401,7 +417,7 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Considere a seguinte relação entre pH do meio e coloração do indicador alaranjado de metila: </p>
+				<p>Considere a seguinte relação entre pH do meio e coloração do indicador alaranjado de metila:</p>
 				<image src="fuvest/2020/fase01/q12_2.png" />
 			</assumptions>
 		</objective_question>
@@ -439,7 +455,7 @@
 		<objective_question number="14">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Se, em 15 anos, o salário mínimo teve um aumento nominal de 300% e a inflação foi de 100%, é correto afirmar que o aumento real do salário mínimo, nesse período, foi de </p>
+				<p>Se, em 15 anos, o salário mínimo teve um aumento nominal de 300% e a inflação foi de 100%, é correto afirmar que o aumento real do salário mínimo, nesse período, foi de</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -486,7 +502,8 @@
 				</option>
 			</options>
 			<assumptions>
-				<p><m>π \approx 3,14</m>.</p>
+				<p>
+					<m>π \approx 3,14</m>.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -495,25 +512,30 @@
 		<objective_question number="16">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam-se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada configuração desse objeto, associa-se <m>θ</m>, a medida do menor ângulo interno do paralelogramo. A área da região delimitada pelo paralelogramo quando <m>\theta = 90^{\circ}</m> é A.</p>
+				<p>Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam-se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada configuração desse objeto, associa-se <m>θ</m>, a medida do menor ângulo interno do paralelogramo. A área da região delimitada pelo paralelogramo quando <m>θ = 90°</m> é A.</p>
 				<image src="fuvest/2020/fase01/q16.png" />
 				<p>Para que a área da região delimitada pelo paralelogramo seja <m>A/2</m>, o valor de <m>θ</m> é, necessariamente, igual a </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>15^{\circ}</m>.</p>
+					<p>
+						<m>15°</m>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>22,5^{\circ}</m>. </p>
+					<p>
+						<m>22,5°</m>. </p>
 				</option>
 				<option label="C" is_correct="true">
-					<p><m>30^{\circ}</m>.</p>
+					<p>
+						<m>30°</m>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>45^{\circ}</m>. </p>
+					<p>
+						<m>45°</m>. </p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>60^{\circ}</m>.</p>
+					<p>
+						<m>60°</m>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -629,7 +651,7 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>Uma agência de turismo vendeu um total de 78 passagens para os destinos: Lisboa, Paris e Roma. Sabe-se que o número de passagens vendidas para Paris foi o dobro do número de passagens vendidas para os outros dois destinos conjuntamente. Sabe-se também que, para Roma, foram vendidas duas passagens a mais que a metade das vendidas para Lisboa.</p>
-				<p>Qual foi o total de passagens vendidas, conjuntamente, para Paris e Roma? </p>
+				<p>Qual foi o total de passagens vendidas, conjuntamente, para Paris e Roma?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -655,7 +677,8 @@
 		<objective_question number="22">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Um ponto <m>(x, y)</m> do plano cartesiano pertence ao conjunto <m>F</m> se é equidistante dos eixos <m>OX</m> e <m>OY</m> e pertence ao círculo de equação <m>x^2 + y^2 - 2x - 6y + 2 = 0</m>. É correto afirmar que <m>F</m></p>
+				<p>Um ponto <m>(x, y)</m> do plano cartesiano pertence ao conjunto <m>F</m> se é equidistante dos eixos <m>OX</m> e <m>OY</m> e pertence ao círculo de equação <m>x^2 + y^2 - 2x - 6y + 2 = 0</m>. É correto afirmar que <m>F</m>
+				</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -681,7 +704,7 @@
 		<objective_question number="23">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Uma cidade é dividida em dois Setores: o Setor Sul, com área de <m>10~km^2</m>, e o Setor Norte, com área de <m>30~km^2</m>. Após um final de semana, foram divulgados os seguintes totais pluviométricos:</p>
+				<p>Uma cidade é dividida em dois Setores: o Setor Sul, com área de 10 km², e o Setor Norte, com área de 30 km². Após um final de semana, foram divulgados os seguintes totais pluviométricos:</p>
 				<table>
 					<header>
 						<cell>
@@ -749,19 +772,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p><m>\frac{10}{3}</m> e 10.</p>
+					<p>
+						<m>\frac{10}{3}</m> e 10.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>\frac{10}{3}</m>, 5 e 10.</p>
+					<p>
+						<m>\frac{10}{3}</m>, 5 e 10.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>\frac{5}{3}</m>, <m>10/3</m> e 10.</p>
+					<p>
+						<m>\frac{5}{3}</m>, <m>\frac{10}{3}</m> e 10.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>\frac{5}{3}</m> e 10.</p>
+					<p>
+						<m>\frac{5}{3}</m> e 10.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>\frac{10}{3}</m> e 5.</p>
+					<p>
+						<m>\frac{10}{3}</m> e 5.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -769,13 +797,20 @@
 
 	<question_group>
 		<context>
-			<p>Assigning female genders to digital assistants such as Apple's Siri and Amazon's Alexa is helping entrench harmful gender biases, according to a UN agency.</p>
-			<p>Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries - including outright abusive ones - reinforce ideas of women as subservient.</p>
-			<p><q>Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager-to-please helpers, available at the touch of a button or with a blunt voice command like 'hey' or 'OK'</q>, the report said.</p>
-			<p><q>The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.</q></p>
-			<p>The Unesco publication was entitled <q>I'd Blush if I Could</q>; a reference to the response Apple's Siri assistant offers to the phrase: <q>You're a slut.</q> Amazon's Alexa will respond: <q>Well, thanks for the feedback.</q></p>
-			<p>The paper said such firms were <q>staffed by overwhelmingly male engineering teams</q> and have built Al (Artificial Intelligence) systems that <q>cause their feminised digital assistants to greet verbal abuse with catch-me-if-you-can flirtation</q>.</p>
-			<p>Saniye Gülser Corat, Unesco's director for gender equality, said: <q>The world needs to pay much closer attention to how, when and whether Al technologies are gendered and, crucially, who is gendering them.</q></p>
+			<quote>
+				<p>Assigning female genders to digital assistants such as Apple's Siri and Amazon's Alexa is helping entrench harmful gender biases, according to a UN agency.</p>
+				<p>Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries - including outright abusive ones - reinforce ideas of women as subservient.</p>
+				<p>
+					<q>Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager-to-please helpers, available at the touch of a button or with a blunt voice command like 'hey' or 'OK'</q>, the report said.</p>
+				<p>
+					<q>The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.</q>
+				</p>
+				<p>The Unesco publication was entitled <q>I'd Blush if I Could</q>; a reference to the response Apple's Siri assistant offers to the phrase: <q>You're a slut.</q> Amazon's Alexa will respond: <q>Well, thanks for the feedback.</q>
+				</p>
+				<p>The paper said such firms were <q>staffed by overwhelmingly male engineering teams</q> and have built Al (Artificial Intelligence) systems that <q>cause their feminised digital assistants to greet verbal abuse with catch-me-if-you-can flirtation</q>.</p>
+				<p>Saniye Gülser Corat, Unesco's director for gender equality, said: <q>The world needs to pay much closer attention to how, when and whether Al technologies are gendered and, crucially, who is gendering them.</q>
+				</p>
+			</quote>
 			<cite>The Guardian, May, 2019. Adaptado.</cite>
 		</context>
 
@@ -886,7 +921,9 @@
 			<p>But in order to replace existing silicon-chip or magnetic-tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package.</p>
 			<p>That's where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA-storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA.</p>
 			<p>If successful, DNA storage could be the answer to a uniquely 21st-century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip-grade silicon by 2040.</p>
-			<p><q>Today's technology is already close to the physical limits of scaling,</q> says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. <q>DNA has an information-storage density several orders of magnitude higher than any other known storage technology.</q></p>
+			<p>
+				<q>Today's technology is already close to the physical limits of scaling,</q> says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. <q>DNA has an information-storage density several orders of magnitude higher than any other known storage technology.</q>
+			</p>
 			<p>How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years.</p>
 			<cite>Wired, June, 2018. Disponível em https://www.wired.com/. Adaptado.</cite>
 		</context>
@@ -1133,26 +1170,32 @@
 			<statement>
 				<p>Leia o trecho extraído de uma notícia veiculada na internet:</p>
 				<quote>
-					<p><q>O carro furou o pneu e bateu no meio fio, então eles foram obrigados a parar. O refém conseguiu acionar a população, que depois pegou dois dos três indivíduos e tentaram linchar eles. O outro conseguiu fugir, mas foi preso moments depois por uma viatura do 5º BPM</q>, afirmou o major.</p>
+					<p>
+						<q>O carro furou o pneu e bateu no meio fio, então eles foram obrigados a parar. O refém conseguiu acionar a população, que depois pegou dois dos três indivíduos e tentaram linchar eles. O outro conseguiu fugir, mas foi preso moments depois por uma viatura do 5º BPM</q>, afirmou o major.</p>
 				</quote>
 				<cite>Disponível em https://www.gp1.com.br/.</cite>
 				<p>No português do Brasil, a função sintática do sujeito não possui, necessariamente, uma natureza de agente, ainda que o verbo esteja na voz ativa, tal como encontrado em:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p><q>O carro furou o pneu</q>.</p>
+					<p>
+						<q>O carro furou o pneu</q>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><q>e bateu no meio fio</q>.</p>
+					<p>
+						<q>e bateu no meio fio</q>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><q>O refém conseguiu acionar a população</q>.</p>
+					<p>
+						<q>O refém conseguiu acionar a população</q>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><q>tentaram linchar eles</q>.</p>
+					<p>
+						<q>tentaram linchar eles</q>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><q>afirmou o major</q>.</p>
+					<p>
+						<q>afirmou o major</q>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1234,7 +1277,7 @@
 				<p>Mas mais frágil fica a bota.</p>
 			</verse>
 			<cite>Gonçalo M. Tavares, 1: poemas.</cite>
-			<footnote>*sesta: repouso após o almoço.</footnote>
+			<footnote symbol="*">sesta: repouso após o almoço.</footnote>
 		</context>
 
 		<objective_question number="39">
@@ -1322,9 +1365,9 @@
 					<p>Agora, o Manuel Fulô, este, sim! Um sujeito pingadinho, quase menino <q>pepino que encorujou desde pequeno</q> - cara de bobo de fazenda, do segundo tipo -; porque toda fazenda tem o seu bobo, que é, ou um velhote baixote, de barba rara no queixo, ou um eterno rapazola, meio surdo, gago, glabro e alvar. Mas gostava de fechar a cara e roncar voz, todo enfarruscado, para mostrar brabeza, e só por descuido sorria, um sorriso manhoso de dono de hotel. E, em suas feições de caburé insalubre, amigavam-se as marcas do sangue aimoré e do gálico herdado: cabelo preto, corrido, que boi lambeu; dentes de fio em meia-lua; malares pontudos; lobo da orelha aderente; testa curta, fugidia; olhinhos de viés e nariz peba, mongol.</p>
 				</quote>
 				<cite>Guimarães Rosa, "Corpo fechado", de Sagarana.</cite>
-				<footnote>* sem pelos, sem barba</footnote>
-				<footnote>** tolo</footnote>
-				<footnote>*** mestiço</footnote>
+				<footnote symbol="*">sem pelos, sem barba</footnote>
+				<footnote symbol="**">tolo</footnote>
+				<footnote symbol="***">mestiço</footnote>
 				<p>O retrato de Manuel Fulô, tal como aparece no fragmento, permite afirmar que</p>
 			</statement>
 			<options>
@@ -1359,19 +1402,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><q>não que eu buscasse respostas para tudo</q> (L.6-7).</p>
+					<p>
+						<q>não que eu buscasse respostas para tudo</q> (L.6-7).</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p><q>não tinha consciência de mim</q> (L.8).</p>
+					<p>
+						<q>não tinha consciência de mim</q> (L.8).</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><q>Por que eu ficava isolada na hora do recreio</q> (L.10-11).</p>
+					<p>
+						<q>Por que eu ficava isolada na hora do recreio</q> (L.10-11).</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><q>me esforçando para não ser notada</q> (L.15).</p>
+					<p>
+						<q>me esforçando para não ser notada</q> (L.15).</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><q>sentia vergonha de levantar a mão</q> (L.8-9).</p>
+					<p>
+						<q>sentia vergonha de levantar a mão</q> (L.8-9).</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1507,8 +1555,8 @@
 					<p>Louvado seja Deus, que o acabei.</p>
 				</verse>
 				<cite>Gregório de Matos</cite>
-				<footnote>* louvor</footnote>
-				<footnote>** grande</footnote>
+				<footnote symbol="*">louvor</footnote>
+				<footnote symbol="**">grande</footnote>
 				<verse>
 					<title>Tipo zero</title>
 					<p>Você é um tipo que não tem tipo</p>
@@ -2209,19 +2257,26 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p><m>kg \cdot m^2/s</m></p>
+					<p>kg· m²/s</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>kg \cdot s/m^2</m></p>
+					<p>kg· s/m²</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>m^2 \cdot s/kg</m></p>
+					<p>
+						<m>m^2 \cdot s/kg</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>kg \cdot s/m</m></p>
+					<p>
+						<m>kg \cdot s/m</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>kg \cdot m^2/s^3</m></p>
+					<p>
+						<m>kg \cdot m^2/s^3</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2231,7 +2286,7 @@
 		<objective_question number="71">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam com a distância <m>d</m> entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para expressar a perda <m>L</m>, em decibéis (dB), do sinal em função de <m>d</m>, no espaço livre de obstáculos, é dada pela expressão <math end=','>L = 20 \log_{10} (4\pi d/\lambda)</math>em que <m>\lambda</m> é o comprimento de onda do sinal. O gráfico a seguir mostra <m>L</m> (em dB) versus <m>d</m> (em metros) para um determinado comprimento de onda <m>\lambda</m>.</p>
+				<p>A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam com a distância <m>d</m> entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para expressar a perda <m>L</m>, em decibéis (dB), do sinal em função de <m>d</m>, no espaço livre de obstáculos, é dada pela expressão <math end=",">L = 20 \log_{10} (4\pi d/\lambda)</math>em que <m>\lambda</m> é o comprimento de onda do sinal. O gráfico a seguir mostra <m>L</m> (em dB) versus <m>d</m> (em metros) para um determinado comprimento de onda <m>\lambda</m>.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q71.png" />
 				<p>Com base no gráfico, a frequência do sinal é aproximadamente</p>
 			</statement>
@@ -2385,19 +2440,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>5 \times 10^1</m> km</p>
+					<p>
+						<m>5 \times 10^1</m> km</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>5 \times 10^4</m> km</p>
+					<p>
+						<m>5 \times 10^4</m> km</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>5 \times 10^7</m> km</p>
+					<p>
+						<m>5 \times 10^7</m> km</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p><m>5 \times 10^{10}</m> km</p>
+					<p>
+						<m>5 \times 10^{10}</m> km</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>5 \times 10^{13}</m> km</p>
+					<p>
+						<m>5 \times 10^{13}</m> km</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2471,19 +2531,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>P_1 &lt; P_2 &lt; P_3</m></p>
+					<p>
+						<m>P_1 &lt; P_2 &lt; P_3</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>P_1 = P_3 &lt; P_2</m></p>
+					<p>
+						<m>P_1 = P_3 &lt; P_2</m>
+					</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p><m>P_2 &lt; P_1 &lt; P_3</m></p>
+					<p>
+						<m>P_2 &lt; P_1 &lt; P_3</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>P_3 &lt; P_2 &lt; P_1</m></p>
+					<p>
+						<m>P_3 &lt; P_2 &lt; P_1</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>P_1 &lt; P_2 = P_3</m></p>
+					<p>
+						<m>P_1 &lt; P_2 = P_3</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>

@@ -414,14 +414,14 @@
     <xs:element name="q" type="xs:string"/>
     <xs:element name="m" type="xs:string"/>
     <xs:element name="math">
-				 <xs:complexType>
+			<xs:complexType>
 				<xs:simpleContent>
 					<xs:extension base="xs:string">
 						<xs:attribute name="end" type="xs:string" use="optional"/>
 					</xs:extension>
 				</xs:simpleContent>
 			</xs:complexType>
-			</xs:element>
+		</xs:element>
     <xs:element name="c" type="xs:string"/>
     <xs:element name="chem" type="xs:string"/>
     <xs:element name="ref" type="xs:string"/>
@@ -525,7 +525,15 @@
 			<xs:element name="caption" type="xs:string"/>
 			<xs:element name="cite" type="xs:string"/>
 			<xs:element name="p" type="Paragraph"/>
-			<xs:element name="footnote" type="xs:string"/>
+			<xs:element name="footnote">
+				<xs:complexType>
+					<xs:simpleContent>
+						<xs:extension base="xs:string">
+							<xs:attribute name="symbol" type="xs:string" use="optional"/>
+						</xs:extension>
+					</xs:simpleContent>
+				</xs:complexType>
+			</xs:element>
 			<xs:element name="image" type="Image"/>
 			<xs:element name="ul" type="UnorderedList"/>
 			<xs:element name="table" type="Table"/>

@@ -5,26 +5,28 @@
 			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
 				<image width="0.5" src="fuvest/2021/fase01/q01.png" />
-				<p>A figura ilustra graficamente uma região de um bairro, com ruas ortogonais entre si. </p>
-				<p>O ponto X indica um condomínio residencial, e o ponto Y indica a entrada de um parque. </p>
-				<p>Três moradores realizam caminhos diferentes para chegar ao ponto Y, partindo do ponto X, ilustrados com cores diferentes. </p>
-				<p>Se a, b e c representam as distâncias percorridas por esses moradores nesses caminhos, é correto afirmar que </p>
+				<p>A figura ilustra graficamente uma região de um bairro, com ruas ortogonais entre si. O ponto <m>X</m> indica um condomínio residencial, e o ponto <m>Y</m> indica a entrada de um parque. Três moradores realizam caminhos diferentes para chegar ao ponto <m>Y</m>, partindo do ponto <m>X</m>, ilustrados com cores diferentes. Se <m>a</m>, <m>b</m> e <m>c</m> representam as distâncias percorridas por esses moradores nesses caminhos, é correto afirmar que </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$a=b=c$.</p>
+					<p>
+						<m>a = b = c</m>.</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p>$b=c&lt;a$.</p>
+					<p>
+						<m>b = c &lt; a</m>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$c&lt;b&lt;a$ </p>
+					<p>
+						<m>c &lt; b &lt; a</m>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$b&lt;c=a$.</p>
+					<p>
+						<m>b &lt; c = a</m>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$c&lt;a=b$.</p>
+					<p>
+						<m>c &lt; a = b</m>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -34,7 +36,7 @@
 		<objective_question number="2">
 			<classification subject="Math:Algebra:Graphing" />
 			<statement>
-				<p>Qual dos gráficos representa uma relação entre as grandezas x e y em que y sempre diminui na medida em que x aumenta? </p>
+				<p>Qual dos gráficos representa uma relação entre as grandezas <m>x</m> e <m>y</m> em que <m>y</m> sempre diminui na medida em que <m>x</m> aumenta? </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -71,7 +73,7 @@
 					<p>Existem, no máximo, 7 trilhões de números primos. </p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Todo número da forma $2^{n}+1$, $n\in\mathbb{N}$ é primo. </p>
+					<p>Todo número da forma <m>2^{n}+1</m>, <m>n\in\mathbb{N}</m> é primo. </p>
 				</option>
 				<option label="D" is_correct="true">
 					<p>Entre 24 e 36, existem somente 2 números primos. </p>
@@ -88,25 +90,32 @@
 			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
 				<image width="0.5" src="fuvest/2021/fase01/q04.png" />
-				<p>Três triângulos equiláteros e dois quadrados formam uma figura plana, como ilustrado. </p>
-				<p>Seus centros são os vértices de um pentágono irregular, que está destacado na figura. </p>
-				<p>Se T é a área de cada um dos triângulos e Q a área de cada um dos quadrados, a área desse pentágono é </p>
+				<p>Três triângulos equiláteros e dois quadrados formam uma figura plana, como ilustrado. Seus centros são os vértices de um pentágono irregular, que está destacado na figura. Se <m>T</m> é a área de cada um dos triângulos e <m>Q</m> a área de cada um dos quadrados, a área desse pentágono é</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$T+Q$ </p>
+					<p>
+						<m>T + Q</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$\frac{1}{2}T+\frac{1}{2}Q$. </p>
+					<p>
+						<m>\frac{1}{2}T + \frac{1}{2}Q</m>.</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>$T+\frac{1}{2}Q$ </p>
+					<p>
+						<m>T + \frac{1}{2}Q</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$\frac{1}{3}T+\frac{1}{4}Q$ </p>
+					<p>
+						<m>\frac{1}{3}T + \frac{1}{4}Q</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$\frac{1}{3}T+\frac{1}{2}Q$ </p>
+					<p>
+						<m>\frac{1}{3}T + \frac{1}{2}Q</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -116,25 +125,33 @@
 		<objective_question number="5">
 			<classification subject="Math:Financial" />
 			<statement>
-				<p>Um comerciante adotou como forma de pagamento uma máquina de cartões, cuja operadora cobra uma taxa de 6% em cada venda. </p>
-				<p>Para continuar recebendo exatamente o mesmo valor por cada produto, ele resolveu aplicar um reajuste nos preços de todos os produtos da loja. </p>
-				<p>Se P era o valor de uma mercadoria antes da adoção da máquina, o novo valor V deve ser calculado por </p>
+				<p>Um comerciante adotou como forma de pagamento uma máquina de cartões, cuja operadora cobra uma taxa de 6% em cada venda. Para continuar recebendo exatamente o mesmo valor por cada produto, ele resolveu aplicar um reajuste nos preços de todos os produtos da loja. Se <m>P</m> era o valor de uma mercadoria antes da adoção da máquina, o novo valor <m>V</m> deve ser calculado por </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$V=P+0,06$ </p>
+					<p>
+						<m>V = P + 0,06</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$V=0,94\cdot1,06\cdot P$ </p>
+					<p>
+						<m>V = 0,94\cdot 1,06\cdot P</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$V=1,6\cdot P$ </p>
+					<p>
+						<m>V = 1,6\cdot P</m>
+					</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>$V=\frac{P}{0,94}$ </p>
+					<p>
+						<m>V = \frac{P}{0,94}</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$V=0,94\cdot P$ </p>
+					<p>
+						<m>V = 0,94\cdot P</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -144,9 +161,7 @@
 		<objective_question number="6">
 			<classification subject="Math:Algebra:Linear Equations" />
 			<statement>
-				<p>Uma treinadora de basquete aplica o seguinte sistema de pontuação em seus treinos de arremesso à cesta: cada jogadora recebe 5 pontos por arremesso acertado e perde 2 pontos por arremesso errado. </p>
-				<p>Ao fim de 50 arremessos, uma das jogadoras contabilizou 124 pontos. </p>
-				<p>Qual é a diferença entre as quantidades de arremessos acertados e errados dessa jogadora? </p>
+				<p>Uma treinadora de basquete aplica o seguinte sistema de pontuação em seus treinos de arremesso à cesta: cada jogadora recebe 5 pontos por arremesso acertado e perde 2 pontos por arremesso errado. Ao fim de 50 arremessos, uma das jogadoras contabilizou 124 pontos. Qual é a diferença entre as quantidades de arremessos acertados e errados dessa jogadora? </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -172,8 +187,7 @@
 		<objective_question number="7">
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
-				<p>Alice quer construir um paralelepipedo reto retângulo de dimensões $60~cm\times24~cm\times18$ cm, com a menor quantidade possível de cubos idênticos cujas medidas das arestas são números naturais. </p>
-				<p>Quantos cubos serão necessários para construir esse paralelepipedo? </p>
+				<p>Alice quer construir um paralelepipedo reto retângulo de dimensões 60 cm × 24 cm × 18 cm, com a menor quantidade possível de cubos idênticos cujas medidas das arestas são números naturais. Quantos cubos serão necessários para construir esse paralelepipedo? </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -199,8 +213,8 @@
 		<objective_question number="8">
 			<classification subject="Math:Combinatorics" />
 			<statement>
-				<p>Um aplicativo de videoconferências estabelece, para cada reunião, um código de 10 letras, usando um alfabeto completo de 26 letras. </p>
-				<p>A quantidade de códigos distintos possíveis está entre </p>
+				<p>Um aplicativo de videoconferências estabelece, para cada reunião, um código de 10 letras, usando um alfabeto completo de 26 letras.</p>
+				<p>A quantidade de códigos distintos possíveis está entre</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -220,8 +234,12 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>$log_{10}13\cong1,114$ </p>
-				<p>$1~bilhao=10^{9}$ </p>
+				<p>
+					<m>log_{10}13\cong1,114</m>
+				</p>
+				<p>
+					<m>1~bilhao=10^{9}</m>
+				</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -231,10 +249,7 @@
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q09.png" />
-				<p>Na figura, os segmentos AC e DE são paralelos entre si e perpendiculares ao segmento CD; </p>
-				<p>o ponto B pertence ao segmento AC; F é o ponto médio do segmento AB; </p>
-				<p>e ABE é um triângulo equilátero. Além disso, o segmento BC mede 10 unidades de comprimento e o segmento AE mede 6 unidades de comprimento. </p>
-				<p>A medida do segmento DF, em unidades de comprimento, é igual a </p>
+				<p>Na figura, os segmentos <m>AC</m> e <m>DE</m> são paralelos entre si e perpendiculares ao segmento <m>CD</m>; o ponto <m>B</m> pertence ao segmento <m>AC</m>; <m>F</m> é o ponto médio do segmento <m>AB</m>; e <m>ABE</m> é um triângulo equilátero. Além disso, o segmento <m>BC</m> mede 10 unidades de comprimento e o segmento <m>AE</m> mede 6 unidades de comprimento. A medida do segmento <m>DF</m>, em unidades de comprimento, é igual a </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -261,27 +276,32 @@
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<image width="0.5" src="fuvest/2021/fase01/q10.png" />
-				<p>A região hachurada do plano cartesiano xOy contida no círculo de centro na origem O e raio 1, mostrada na figura, pode ser descrita por </p>
+				<p>A região hachurada do plano cartesiano <m>xOy</m> contida no círculo de centro na origem <m>O</m> e raio 1, mostrada na figura, pode ser descrita por </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$\{(x,y);x^{2}+y^{2}\le1~e~y-x\le1\}$. </p>
+					<p>
+						<m>\{(x,y); x^{2}+y^{2} \le1~e~y-x\le1\}</m>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$\{(x,y);x^{2}+y^{2}\ge1~e~y+x\ge1\}$. </p>
+					<p>
+						<m>\{(x,y); x^{2}+y^{2} \ge1~e~y+x\ge1\}</m>.</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>$\{(x,y);x^{2}+y^{2}\le1~e~y-x\ge1\}$. </p>
+					<p>
+						<m>\{(x,y); x^{2}+y^{2} \le1~e~y-x\ge1\}</m>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$\{(x,y);x^{2}+y^{2}\le1~e~y+x\ge1\}$. </p>
+					<p>
+						<m>\{(x,y); x^{2}+y^{2} \le1~e~y+x\ge1\}</m>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$\{(x,y);x^{2}+y^{2}\ge1~e~y+x\le1\}$. </p>
+					<p>
+						<m>\{(x,y); x^{2}+y^{2} \ge1~e~y+x\le1\}</m>.</p>
 				</option>
 			</options>
 			<assumptions>
-				<p>O circulo de centro O e raio 1 é o conjunto de todos os pontos do plano que estão a uma distância de O menor do que ou igual a 1. </p>
+				<p>O circulo de centro <m>O</m> e raio 1 é o conjunto de todos os pontos do plano que estão a uma distância de <m>O</m> menor do que ou igual a 1. </p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -290,23 +310,28 @@
 		<objective_question number="11">
 			<classification subject="Math:Algebra:Quadratic" />
 			<statement>
-				<p>Se f: R → R e g: R → R são funções dadas por $f(x)=c+x^{2}$, onde $c\in\mathbb{R},$ e $g(x)=x,$ seus gráficos se intersectam quando, e somente quando,</p>
+				<p>Se <m>f: R → R e g: R → R</m> são funções dadas por <m>f(x)=c+x^{2}</m>, onde <m>c\in\mathbb{R}</m>, e <m>g(x)=x</m>, seus gráficos se intersectam quando, e somente quando,</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>$c\le\frac{1}{4}$</p>
+					<p>
+						<m>c \le \frac{1}{4}</m>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$c\ge\frac{1}{4}.$</p>
+					<p>
+						<m>c \ge \frac{1}{4}</m>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$c\le\frac{1}{2}.$</p>
+					<p>
+						<m>c \le \frac{1}{2}</m>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$c\ge\frac{1}{2},$</p>
+					<p>
+						<m>c \ge \frac{1}{2}</m>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$c\le1.$</p>
+					<p>
+						<m>c \le 1</m>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -316,7 +341,7 @@
 		<objective_question number="12">
 			<classification subject="Math:Trigonometry:Similar Triangles" />
 			<statement>
-				<p>Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm.  A partir desta peça, ele precisa extrair o maior quadrado possível, de tal forma que um dos ângulos retos do quadrado coincida com o ângulo reto do triângulo.  A medida do lado do quadrado desejado pelo marceneiro está mais próxima de </p>
+				<p>Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm.  A partir desta peça, ele precisa extrair o maior quadrado possível, de tal forma que um dos ângulos retos do quadrado coincida com o ângulo reto do triângulo.  A medida do lado do quadrado desejado pelo marceneiro está mais próxima de</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -342,7 +367,7 @@
 		<objective_question number="13">
 			<classification subject="Geography:Cartography" />
 			<statement>
-				<p>Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km.  O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45° L e então retorna ao Polo Norte por esse meridiano tem comprimento total de </p>
+				<p>Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km.  O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45°L e então retorna ao Polo Norte por esse meridiano tem comprimento total de </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -368,38 +393,32 @@
 		<objective_question number="14">
 			<classification subject="Geography:Cartography:Map Projections and Scales" />
 			<statement>
-				<quote>
-					<title>Projeção de Mercator</title>
-					<image width="0.5" src="fuvest/2021/fase01/q14_1.png" />
-					<p>Apresentada pela primeira vez no século XVI. </p>
-				</quote>
-				<quote>
-					<title>Projeção de Gall-Peters</title>
-					<image width="0.5" src="fuvest/2021/fase01/q14_2.png" />
-					<p>Elaborada pela primeira vez no século XIX. </p>
-				</quote>
-				<quote>
-					<title>Projeção de Robinson</title>
-					<image width="0.5" src="fuvest/2021/fase01/q14_3.png" />
-					<p>Elaborada em 1963. </p>
-				</quote>
+				<header>Projeção de Mercator</header>
+				<image width="0.5" src="fuvest/2021/fase01/q14_1.png" />
+				<p>Apresentada pela primeira vez no século XVI.</p>
+				<header>Projeção de Gall-Peters</header>
+				<image width="0.5" src="fuvest/2021/fase01/q14_2.png" />
+				<p>Elaborada pela primeira vez no século XIX.</p>
+				<header>Projeção de Robinson</header>
+				<image width="0.5" src="fuvest/2021/fase01/q14_3.png" />
+				<p>Elaborada em 1963.</p>
 				<p>Sobre as projeções cartográficas apresentadas, suas formas e dimensões, é correto afirmar: </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>Interesses geopolíticos e comerciais forçaram distorções na projeção de Mercator, para fazer parecer mais curto o caminho ao novo continente, elemento corrigido a partir do século XIX, na projeção de Gall-Peters. </p>
+					<p>Interesses geopolíticos e comerciais forçaram distorções na projeção de Mercator, para fazer parecer mais curto o caminho ao novo continente, elemento corrigido a partir do século XIX, na projeção de Gall-Peters.</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p>As três projeções apresentam distorções, uma vez que a Terra tem forma aproximada de um geoide e sua projeção num plano ficará distorcida. </p>
+					<p>As três projeções apresentam distorções, uma vez que a Terra tem forma aproximada de um geoide e sua projeção num plano ficará distorcida.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>As projeções de Mercator e Gall-Peters apresentam distorções pela falta de recursos técnicos no período em que foram feitas, mas o avanço computacional do século XX permitiu o fim das distorções na projeção de Robinson. </p>
+					<p>As projeções de Mercator e Gall-Peters apresentam distorções pela falta de recursos técnicos no período em que foram feitas, mas o avanço computacional do século XX permitiu o fim das distorções na projeção de Robinson.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>A projeção de Gall-Peters não apresentava distorções no momento de sua elaboração, mas a descoberta da Antártica e da Oceania, logo após sua proposição, forçou a adaptação e induziu distorções. </p>
+					<p>A projeção de Gall-Peters não apresentava distorções no momento de sua elaboração, mas a descoberta da Antártica e da Oceania, logo após sua proposição, forçou a adaptação e induziu distorções.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Todas as projeções apresentam distorções, uma vez que o formato da Terra não era conhecido até o século XX, o que gerou dúvidas sobre como essa projeção deveria ser executada. </p>
+					<p>Todas as projeções apresentam distorções, uma vez que o formato da Terra não era conhecido até o século XX, o que gerou dúvidas sobre como essa projeção deveria ser executada.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -411,10 +430,10 @@
 			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
 				<quote>
-					<p>A criação do Banco da Amazônia e da Superintendência do Desenvolvimento da Amazônia (SUDAM) preconizou uma política de concessão de incentivos fiscais aos empresários, especialmente das regiões mais ricas do país, para que deixassem de pagar 50% do imposto de renda, desde que o dinheiro fosse depositado naquele banco para financiar projetos de desenvolvimento no estado do Amazonas.  Os investimentos orientaram-se de preferência para a agropecuária, de modo que um grande número de empresários e de empresas, especialmente do Sudeste do Brasil, sem tradição no ramo, tornaram-se proprietários de terras e empresários rurais.  Em princípio a aquisição de terras pelos grandes capitalistas do Sudeste animou o mercado imobiliário. </p>
+					<p>A criação do Banco da Amazônia e da Superintendência do Desenvolvimento da Amazônia (SUDAM) preconizou uma política de concessão de incentivos fiscais aos empresários, especialmente das regiões mais ricas do país, para que deixassem de pagar 50% do imposto de renda, desde que o dinheiro fosse depositado naquele banco para financiar projetos de desenvolvimento no estado do Amazonas.  Os investimentos orientaram-se de preferência para a agropecuária, de modo que um grande número de empresários e de empresas, especialmente do Sudeste do Brasil, sem tradição no ramo, tornaram-se proprietários de terras e empresários rurais.  Em princípio a aquisição de terras pelos grandes capitalistas do Sudeste animou o mercado imobiliário.</p>
 				</quote>
-				<cite>José de Sousa Martins. O Poder do Atraso. Adaptado. </cite>
-				<p>Assinale a alternativa que apresenta a combinação correta entre o período a que se refere o texto e as implicações, territoriais e sociais, observadas nas áreas onde a política de incentivos fiscais entrou em operação. </p>
+				<cite>José de Sousa Martins. O Poder do Atraso. Adaptado.</cite>
+				<p>Assinale a alternativa que apresenta a combinação correta entre o período a que se refere o texto e as implicações, territoriais e sociais, observadas nas áreas onde a política de incentivos fiscais entrou em operação.</p>
 			</statement>
 			<options>
 				<table>
@@ -482,9 +501,9 @@
 		<objective_question number="16">
 			<classification subject="Geography:Geopolitics" />
 			<statement>
-				<header>Observe o mapa com dados de 2020: </header>
+				<p>Observe o mapa com dados de 2020:</p>
 				<image width="0.8" src="fuvest/2021/fase01/q16.png" />
-				<p>Os países destacados em amarelo no mapa referem-se: </p>
+				<p>Os países destacados em amarelo no mapa referem-se:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -510,10 +529,10 @@
 		<objective_question number="17">
 			<classification subject="Geography:Physical:Geology" />
 			<statement>
-				<header>Terremoto no estado da Bahia </header>
+				<header>Terremoto no estado da Bahia</header>
 				<image width="0.7" src="fuvest/2021/fase01/q17.png" />
 				<cite>Disponivel em https://www.instagram.com/CEhFFU/ Adaptado. </cite>
-				<p>O terremoto indicado na figura ocorreu no estado da Bahia no dia 30/08/2020, com magnitude 4,6 na escala Richter, atingindo cidades do Vale do Jiquiriçá e do Recôncavo Baiano.  Sobre terremotos em geral, e sobre este especificamente, é correto afirmar: </p>
+				<p>O terremoto indicado na figura ocorreu no estado da Bahia no dia 30/08/2020, com magnitude 4,6 na escala Richter, atingindo cidades do Vale do Jiquiriçá e do Recôncavo Baiano.  Sobre terremotos em geral, e sobre este especificamente, é correto afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -541,10 +560,10 @@
 			<classification subject="Geography:Human:Urbanization" />
 			<statement>
 				<quote>
-					<p>A linha de fronteira hoje possui uma definição essencialmente econômica - como a fronteira da lucratividade-mas adquire uma expressão geográfica bastante acentuada em diferentes escalas espaciais.  Isto é, basicamente, o que a fronteira do século XIX e a assim chamada fronteira urbana têm em comum.  Na realidade, ambas estão associadas à acumulação e expansão do capital.  Mas enquanto a fronteira do século XIX representou a realização de uma expansão geográfica absoluta na escala do território como a principal expressão espacial da acumulação de capital, a renovação urbana representa o exemplo mais desenvolvido da rediferenciação do espaço geográfico com vista ao mesmo resultado. </p>
+					<p>A linha de fronteira hoje possui uma definição essencialmente econômica - como a fronteira da lucratividade-mas adquire uma expressão geográfica bastante acentuada em diferentes escalas espaciais.  Isto é, basicamente, o que a fronteira do século XIX e a assim chamada fronteira urbana têm em comum.  Na realidade, ambas estão associadas à acumulação e expansão do capital.  Mas enquanto a fronteira do século XIX representou a realização de uma expansão geográfica absoluta na escala do território como a principal expressão espacial da acumulação de capital, a renovação urbana representa o exemplo mais desenvolvido da rediferenciação do espaço geográfico com vista ao mesmo resultado.</p>
 				</quote>
-				<cite>Neil Smith. Gentrificação, a fronteira e a reestruturação do espaço urbano, 1986. Adaptado. </cite>
-				<p>O excerto relaciona a dinâmica geográfica dos Estados Unidos no século XIX à do final do século XX.  As imagens correspondentes a cada um dos momentos apresentados pelo excerto são identificadas em: </p>
+				<cite>Neil Smith. Gentrificação, a fronteira e a reestruturação do espaço urbano, 1986. Adaptado.</cite>
+				<p>O excerto relaciona a dinâmica geográfica dos Estados Unidos no século XIX à do final do século XX.  As imagens correspondentes a cada um dos momentos apresentados pelo excerto são identificadas em:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -572,8 +591,7 @@
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q19.png" />
 				<cite>Henri Lefebvre. A revolução urbana. Adaptado.</cite>
-				<p>O esquema apresenta a linha de urbanização da sociedade, que vai de 0 a 100%.</p>
-				<p>Considerando os referenciais trazidos no esquema, fazem parte do contexto identificado na chamada "zona crítica":</p>
+				<p>O esquema apresenta a linha de urbanização da sociedade, que vai de 0 a 100%. Considerando os referenciais trazidos no esquema, fazem parte do contexto identificado na chamada <q>zona crítica</q>:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -599,8 +617,8 @@
 		<objective_question number="20">
 			<classification subject="Geography:Geopolitics" />
 			<statement>
-				<p>O acordo entre o Mercosul e a União Europeia está sendo discutido há cerca de 20 anos e prevê, entre outros elementos, a redução progressiva das tarifas de exportação entre os blocos. O Brasil, que é um grande exportador de produtos de origem agrícola para o mercado europeu, teria redução tarifária para a exportação de produtos como carnes, açúcar e etanol, dentre outros. Para a ratificação do acordo, o parlamento europeu aprovou uma resolução que manifesta a importância do compromisso dos países do Mercosul com a implementação do Acordo de Paris.</p>
-				<p>A relutância em ratificar o acordo entre Mercosul e União Europeia, por parte de alguns países da UE em 2020, deveu-se, entre outros fatores,</p>
+				<p>O acordo entre o Mercosul e a União Europeia está sendo discutido há cerca de 20 anos e prevê, entre outros elementos, a redução progressiva das tarifas de exportação entre os blocos. O Brasil, que é um grande exportador de produtos de origem agrícola para o mercado europeu, teria redução tarifária para a exportação de produtos como carnes, açúcar e etanol, dentre outros.</p>
+				<p>Para a ratificação do acordo, o parlamento europeu aprovou uma resolução que manifesta a importância do compromisso dos países do Mercosul com a implementação do Acordo de Paris. A relutância em ratificar o acordo entre Mercosul e União Europeia, por parte de alguns países da UE em 2020, deveu-se, entre outros fatores,</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -695,6 +713,7 @@
 				<quote>
 					<p>Segundo o Atlas de Serpentes Brasileiras, a jararaca (nome científico Bothrops jararaca) encontra-se com as ocorrências registradas em uma extensa faixa do Brasil relativa a diferentes Biomas, onde se alimenta de anfíbios, roedores e outros animais. A espécie ocorre nas áreas apontadas, sendo encontrada em zonas florestadas ou modificadas pela ação humana.</p>
 				</quote>
+				<header>Brasil: Distribuição da Bothrops jararaca</header>
 				<cite>Fonte: Atlas de Serpentes Brasileiras (2019) e IBGE (2020). Adaptado.</cite>
 				<image width="0.8" src="fuvest/2021/fase01/q23.png" />
 				<p>Sobre as serpentes Bothrops jararaca e os principais biomas de ocorrência, é correto afirmar:</p>
@@ -961,9 +980,11 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>O gás carbônico atmosférico reage com a água do mar conforme detalhado em (I):</p>
-				<p>(I) $CO_{2}+H_{2}O\rightleftharpoons H_{2}CO_{3}\rightleftharpoons HCO_{3}^{-}+H^{+}$</p>
+				<p>(I) <c>CO_{2}+H_{2}O\rightleftharpoons H_{2}CO_{3}\rightleftharpoons HCO_{3}^{-}+H^{+}</c>
+				</p>
 				<p>As condições ambientais causadas pelo aumento de gás carbônico na atmosfera influenciam em processos caracterizados pela reação (II) durante o desenvolvimento de diversos organismos marinhos:</p>
-				<p>(II) $Ca^{2+}+CO_{3}^{2-}\rightleftharpoons CaCO_{3}$</p>
+				<p>(II) <c>Ca^{2+}+CO_{3}^{2-}\rightleftharpoons CaCO_{3}</c>
+				</p>
 				<p>Tendo por base essas afirmações, assinale a alternativa correta:</p>
 			</statement>
 			<options>
@@ -992,10 +1013,15 @@
 			<statement>
 				<p>Considere três espécies de plantas (X, Y e Z) e suas características:</p>
 				<ul>
-					<li>A planta X não possui flores, mas é polinizada pelo vento. Além disso, não possui frutos, mas suas sementes são dispersas por aves.
+					<li>
+						<p>A planta X não possui flores, mas é polinizada pelo vento. Além disso, não possui frutos, mas suas sementes são dispersas por aves.</p>
 					</li>
-					<li>A planta Y não possui flores, nem sementes, nem frutos.		</li>
-					<li>A planta Z possui flores e é polinizada por aves. Além disso, possui frutos e suas sementes são dispersas por aves.			</li>
+					<li>
+						<p>A planta Y não possui flores, nem sementes, nem frutos.</p>
+					</li>
+					<li>
+						<p>A planta Z possui flores e é polinizada por aves. Além disso, possui frutos e suas sementes são dispersas por aves.</p>
+					</li>
 				</ul>
 				<p>A que grupos pertencem as plantas X, Y e Z, respectivamente?</p>
 			</statement>
@@ -1273,7 +1299,7 @@
 		<objective_question number="38">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A Cabanagem foi uma revolta social ocorrida no norte do Brasil entre 1835 e 1840 e se insere em um contexto frequentemente chamado de "Período Regencial". Trata-se de uma revolta que, junto a outras do mesmo período, tipifica</p>
+				<p>A Cabanagem foi uma revolta social ocorrida no norte do Brasil entre 1835 e 1840 e se insere em um contexto frequentemente chamado de <q>Período Regencial</q>. Trata-se de uma revolta que, junto a outras do mesmo período, tipifica</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1385,246 +1411,10 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>Leia com atenção os dados do quadro e da tabela, relativos à epidemia de gripe espanhola na cidade de São Paulo, em 1918.</p>
-				<header>Quadro: Município de São Paulo: Características distritais por volta de 1918.</header>
-				<table>
-					<header>
-						<cell>
-							<p>Grupo Distrital</p>
-						</cell>
-						<cell>
-							<p>Distritos</p>
-						</cell>
-						<cell>
-							<p>Características Topográficas</p>
-						</cell>
-						<cell>
-							<p>Classes Sociais predominantes</p>
-						</cell>
-						<cell>
-							<p>Tipos de Moradia</p>
-						</cell>
-						<cell>
-							<p>Benefícios Existentes</p>
-						</cell>
-					</header>
-					<row>
-						<cell>
-							<p>Central</p>
-						</cell>
-						<cell>
-							<p>Sé e Consolação.</p>
-						</cell>
-						<cell>
-							<p>Terrenos altos e patamares.</p>
-						</cell>
-						<cell>
-							<p>Burguesia e classes médias.</p>
-						</cell>
-						<cell>
-							<p>Mansões, sobrados e edificios administrativos.</p>
-						</cell>
-						<cell>
-							<p>Sistemas de água e esgoto abrangentes, luz elétrica, telefone, linhas de bonde, ruas movimentadas e arborizadas.</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Intermediário</p>
-						</cell>
-						<cell>
-							<p>Liberdade, Bela Vista, Santa Efigênia e Santa Cecilia.</p>
-						</cell>
-						<cell>
-							<p>Colinas e patamares.</p>
-						</cell>
-						<cell>
-							<p>Classes médias e principalmente proletariado.</p>
-						</cell>
-						<cell>
-							<p>Sobrados, chalés e cortiços.</p>
-						</cell>
-						<cell>
-							<p>Bondes, água, esgoto, luz e telefone apenas nas áreas próximas do distrito anterior.</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Periférico</p>
-						</cell>
-						<cell>
-							<p>Bom Retiro, Brás, Mooca e Belenzinho.</p>
-						</cell>
-						<cell>
-							<p>Terraços fluviais de baixadas relativamente enxutas e planícies sujeitas a inundações periódicas.</p>
-						</cell>
-						<cell>
-							<p>Proletariado.</p>
-						</cell>
-						<cell>
-							<p>Habitações coletivas e algumas vilas operárias.</p>
-						</cell>
-						<cell>
-							<p>Bondes, iluminação elétrica apenas nas principais vias públicas; serviços precários de água e esgoto.</p>
-						</cell>
-					</row>
-				</table>
-				<header>Tabela: Mortalidade Gripal no Município de São Paulo por distrito (15/10 a 19/12/1918).</header>
-				<table>
-					<header>
-						<cell>
-							<p>Distritos</p>
-						</cell>
-						<cell>
-							<p>População</p>
-						</cell>
-						<cell>
-							<p>Óbitos gripais</p>
-						</cell>
-						<cell>
-							<p>Mortalidade por 1.000 habitantes</p>
-						</cell>
-					</header>
-					<row>
-						<cell>
-							<p>Consolação</p>
-						</cell>
-						<cell>
-							<p>41.960</p>
-						</cell>
-						<cell>
-							<p>254</p>
-						</cell>
-						<cell>
-							<p>6,05</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Sé</p>
-						</cell>
-						<cell>
-							<p>9.993</p>
-						</cell>
-						<cell>
-							<p>64</p>
-						</cell>
-						<cell>
-							<p>6,40</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Bela Vista</p>
-						</cell>
-						<cell>
-							<p>40.652</p>
-						</cell>
-						<cell>
-							<p>312</p>
-						</cell>
-						<cell>
-							<p>7,67</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Liberdade</p>
-						</cell>
-						<cell>
-							<p>35.368</p>
-						</cell>
-						<cell>
-							<p>217</p>
-						</cell>
-						<cell>
-							<p>6,14</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Santa Cecília</p>
-						</cell>
-						<cell>
-							<p>49.285</p>
-						</cell>
-						<cell>
-							<p>374</p>
-						</cell>
-						<cell>
-							<p>7,59</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Santa Efigênia</p>
-						</cell>
-						<cell>
-							<p>37.670</p>
-						</cell>
-						<cell>
-							<p>357</p>
-						</cell>
-						<cell>
-							<p>9,48</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Belenzinho</p>
-						</cell>
-						<cell>
-							<p>41.698</p>
-						</cell>
-						<cell>
-							<p>557</p>
-						</cell>
-						<cell>
-							<p>13,36</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Bom Retiro</p>
-						</cell>
-						<cell>
-							<p>27.101</p>
-						</cell>
-						<cell>
-							<p>291</p>
-						</cell>
-						<cell>
-							<p>10,74</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Brás</p>
-						</cell>
-						<cell>
-							<p>61.057</p>
-						</cell>
-						<cell>
-							<p>674</p>
-						</cell>
-						<cell>
-							<p>11,04</p>
-						</cell>
-					</row>
-					<row>
-						<cell>
-							<p>Mooca</p>
-						</cell>
-						<cell>
-							<p>62.993</p>
-						</cell>
-						<cell>
-							<p>860</p>
-						</cell>
-						<cell>
-							<p>13,65</p>
-						</cell>
-					</row>
-				</table>
+				<caption>Quadro: Município de São Paulo: Características distritais por volta de 1918.</caption>
+				<image width="0.8" src="fuvest/2021/fase01/q42_1.png" />
+				<caption>Tabela: Mortalidade Gripal no Município de São Paulo por distrito (15/10 a 19/12/1918).</caption>
+				<image width="0.8" src="fuvest/2021/fase01/q42_2.png" />
 				<cite>Fonte: Claudio Bertolli Filho. A gripe espanhola em São Paulo, 1918. Epidemia e sociedade. Rio de Janeiro: Paz e Terra, 2003, p. 47 e p. 91 (adaptado).</cite>
 				<p>Considerando as informações apresentadas, é correto afirmar:</p>
 			</statement>
@@ -1745,28 +1535,38 @@
 			<statement>
 				<p>Um vídeo bastante popular na Internet mostra um curioso experimento em que uma garrafa de água pendurada por uma corda é mantida suspensa por um palito de dente apoiado em uma mesa.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q46.png" />
-				<p>O "truque" só é possível pelo uso de outros palitos, formando um tipo de treliça. A figura à direita da foto mostra uma visão lateral do conjunto, destacando duas das forças que atuam sobre o palito 1. Nesta figura, $\vec{F}$ é a força que o palito 2 exerce sobre o palito 1 (aplicada a uma distância L do ponto A na borda da mesa), $\vec{P}$ é a componente vertical da força que a corda exerce sobre o palito 1 (aplicada a uma distância d do ponto A) e $\theta$ é o ângulo entre a direção da força $\vec{F}$ e a vertical. Para que o conjunto se mantenha estático, porém na iminência de rotacionar, a relação entre os módulos de $\vec{F}$ e $\vec{P}$ deve ser:</p>
+				<p>O <q>truque</q> só é possível pelo uso de outros palitos, formando um tipo de treliça. A figura à direita da foto mostra uma visão lateral do conjunto, destacando duas das forças que atuam sobre o palito 1. Nesta figura, <m>\vec{F}</m> é a força que o palito 2 exerce sobre o palito 1 (aplicada a uma distância <m>L</m> do ponto <m>A</m> na borda da mesa), <m>\vec{P}</m> é a componente vertical da força que a corda exerce sobre o palito 1 (aplicada a uma distância <m>d</m> do ponto <m>A</m>) e <m>\theta</m> é o ângulo entre a direção da força <m>\vec{F}</m> e a vertical. Para que o conjunto se mantenha estático, porém na iminência de rotacionar, a relação entre os módulos de <m>\vec{F}</m> e <m>\vec{P}</m> deve ser:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>$|\vec{F}|=\frac{|\vec{P}|d}{L~cos(\theta)}$</p>
+					<p>
+						<m>|\vec{F}|=\frac{|\vec{P}|d}{L~cos(\theta)}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$|\vec{F}|=\frac{|\vec{P}|d}{L~sen(\theta)}$</p>
+					<p>
+						<m>|\vec{F}|=\frac{|\vec{P}|d}{L~sen(\theta)}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$|\vec{F}|=|\vec{P}|cos(\theta)$</p>
+					<p>
+						<m>|\vec{F}|=|\vec{P}|cos(\theta)</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$|\vec{F}|=\frac{|\vec{P}|L~cos(\theta)}{d}$</p>
+					<p>
+						<m>|\vec{F}|=\frac{|\vec{P}|L~cos(\theta)}{d}</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$|\vec{F}|=\frac{|\vec{P}|L~sen(\theta)}{d}$</p>
+					<p>
+						<m>|\vec{F}|=\frac{|\vec{P}|L~sen(\theta)}{d}</m>
+					</p>
 				</option>
 			</options>
 			<assumptions>
 				<header>Note e adote:</header>
-				<p>Despreze o peso dos palitos em relação aos módulos das forças $\vec{F}$ e $\vec{P}$.</p>
+				<p>Despreze o peso dos palitos em relação aos módulos das forças <m>\vec{F}</m> e <m>\vec{P}</m>.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -1798,8 +1598,9 @@
 			</options>
 			<assumptions>
 				<header>Note e adote:</header>
-				<p>Use $\pi=3$</p>
-				<p>Aceleração da gravidade: $g=10~m/s^{2}$</p>
+				<p>Use <m>\pi=3</m>
+				</p>
+				<p>Aceleração da gravidade: <m>g=10</m>m/s²</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -1830,9 +1631,9 @@
 			</options>
 			<assumptions>
 				<header>Note e adote:</header>
-				<p>Densidade da água: $1~kg/litro$</p>
+				<p>Densidade da água: 1~kg/litro</p>
 				<p>1 mês = 30 dias.</p>
-				<p>Aceleração da gravidade: $g=10~m/s^{2}$.</p>
+				<p>Aceleração da gravidade: <m>g=10~m/s²</m>.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -1934,7 +1735,7 @@
 		<objective_question number="52">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Dois balões negativamente carregados são utilizados para induzir cargas em latas metálicas, alinhadas e em contato, que, inicialmente, estavam eletricamente neutras.</p>
+				<p>Dois balões negativamente carregados são utilizados para induzir cargas em latas metálicas, alinhadas e em contato, que, <u>inicialmente</u>, estavam eletricamente neutras.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q52.png" />
 				<p>Conforme mostrado na figura, os balões estão próximos, mas jamais chegam a tocar as latas. Nessa configuração, as latas 1, 2 e 3 terão, respectivamente, carga total:</p>
 			</statement>
@@ -1999,25 +1800,35 @@
 		<objective_question number="54">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Uma esfera metálica de massa m e carga elétrica +q descansa sobre um piso horizontal isolante, em uma região em que há um campo elétrico uniforme e também horizontal, de intensidade E, conforme mostrado na figura. Em certo instante, com auxílio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a ação da gravidade, a uma altura total h, sem nunca abandonar a região de campo elétrico uniforme.</p>
+				<p>Uma esfera metálica de massa <m>m</m> e carga elétrica <m>+q</m> descansa sobre um piso horizontal isolante, em uma região em que há um campo elétrico uniforme e também horizontal, de intensidade <m>E</m>, conforme mostrado na figura. Em certo instante, com auxílio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a ação da gravidade, a uma altura total <m>h</m>, sem nunca abandonar a região de campo elétrico uniforme.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q54.png" />
 				<p>Ao longo do movimento descrito, os trabalhos realizados pela força gravitacional e pela força elétrica sobre a esfera são, respectivamente:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$mgh$ e $qEh$</p>
+					<p>
+						<m>mgh</m> e <m>qEh</m>
+					</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p>$-mgh$ e $0$</p>
+					<p>
+						<m>-mgh</m> e <m>0</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$0$ e $-qEh$</p>
+					<p>
+						<m>0</m> e <m>-qEh</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$-mgh$ e $-qEh$</p>
+					<p>
+						<m>-mgh</m> e <m>-qEh</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$mgh$ e $0$</p>
+					<p>
+						<m>mgh</m> e <m>0</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2027,36 +1838,40 @@
 		<objective_question number="55">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente $4 \times 10^{26}$ W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de $5 \times 10^{9}$ anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de</p>
+				<p>A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente <m>4 \times 10^{26}</m> W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de <m>5 \times 10^{9}</m> anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$10^{7} kg$</p>
+					<p>
+						<m>10^{7}</m> kg.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$10^{17} kg$</p>
+					<p>
+						<m>10^{17}</m> kg.</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>$10^{27} kg$</p>
+					<p>
+						<m>10^{27}</m> kg.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$10^{37} kg$</p>
+					<p>
+						<m>10^{37}</m> kg.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$10^{47} kg$</p>
+					<p>
+						<m>10^{47}</m> kg.</p>
 				</option>
 			</options>
 			<assumptions>
 				<header>Note e adote:</header>
-				<p>Velocidade da luz no vácuo: $3 \times 10^{8} m/s$</p>
-				<p>Considere que um ano tem cerca de $3 \times 10^{7} s$.</p>
+				<p>Velocidade da luz no vácuo: <m>3 \times 10^{8}</m> m/s</p>
+				<p>Considere que um ano tem cerca de <m>3 \times 10^{7}</m> s.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES DE 56 A 58</header>
 			<quote>
 				<p>As astronomers gaze into the depths of space, they do so with unease: They don't know precisely what the universe is made of.</p>
 				<p>Surprisingly, no one knows the stars' exact chemical composition: how many carbon, nitrogen and oxygen atoms they have relative to hydrogen, the most common element.</p>
@@ -2096,7 +1911,7 @@
 		<objective_question number="57">
 			<classification subject="Unknown" />
 			<statement>
-				<p>No texto, o astrofísico Martin Asplund emprega a frase "The sun is a fundamental yardstick" (L. 15), por considerar o Sol</p>
+				<p>No texto, o astrofísico Martin Asplund emprega a frase <q>The sun is a fundamental yardstick</q> (L. 15), por considerar o Sol</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2144,7 +1959,6 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 59 E 60</header>
 			<quote>
 				<p>I knew TikTok existed, but I didn't fully understand what it was until a few months ago. I also realized that something radical, yet largely invisible, is happening on the internet - with implications we still don't understand.</p>
 				<p>When I was growing up, I took it for granted that the people who became famous enough to be listened to by a crowd had worked hard for that accolade and generally operated with the support of an institution or an established industry. The idea that I, as a teenager in my bedroom, might suddenly communicate with 100,000 people or more, would have seemed bizarre.</p>
@@ -2164,7 +1978,8 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>a falta de conhecimento técnico dos adolescentes para o manejo de hardware.</p>
+					<p>a falta de conhecimento técnico dos adolescentes para o manejo de <i>hardware.</i>
+					</p>
 				</option>
 				<option label="B" is_correct="true">
 					<p>a perda de interesse do público pelas publicações até então atrativas.</p>
@@ -2289,9 +2104,8 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 63 A 65</header>
 			<quote>
-				<p>Uma última gargalhada estrondosa. E depois, o silêncio. O palhaço jazia imóvel no chão. Mas seu rosto continua sorrindo, para sempre. Porque a carreira original do Coringa era para durar apenas 30 páginas. O tempo de envenenar Gotham, sequestrar Robin, enfiar um par de sopapos no Homem-Morcego e disparar o primeiro "vou te matar" da sua relação. Na briga final do Batman nº 1, o "horripilante bufão" sofria um final digno de sua desumana ironia: ao tropeçar, cravava sua própria adaga no peito. Assim decidiram e desenharam seus pais, os artistas Bill Finger, Bob Kane e Jerry Robinson. Entretanto, o criminoso mostrou, já em sua primeira aventura, um enorme talento para se rebelar contra a ordem estabelecida. Seu carisma seduziu a editora DC Comics, que impôs o acréscimo de um quadrinho. Já dentro da ambulância, vinha à tona "um dado desconcertante". E então um médico sentenciava: "Continua vivo. E vai sobreviver!".</p>
+				<p>Uma última gargalhada estrondosa. E depois, o silêncio. O palhaço jazia imóvel no chão. Mas seu rosto continua sorrindo, para sempre. Porque a carreira original do Coringa era para durar apenas 30 páginas. O tempo de envenenar Gotham, sequestrar Robin, enfiar um par de sopapos no Homem-Morcego e disparar o primeiro <q>vou te matar</q> da sua relação. Na briga final do Batman nº 1, o <q>horripilante bufão</q> sofria um final digno de sua desumana ironia: ao tropeçar, cravava sua própria adaga no peito. Assim decidiram e desenharam seus pais, os artistas Bill Finger, Bob Kane e Jerry Robinson. Entretanto, o criminoso mostrou, já em sua primeira aventura, um enorme talento para se rebelar contra a ordem estabelecida. Seu carisma seduziu a editora DC Comics, que impôs o acréscimo de um quadrinho. Já dentro da ambulância, vinha à tona "um dado desconcertante". E então um médico sentenciava: <q>Continua vivo. E vai sobreviver!</q>.</p>
 			</quote>
 			<cite>Tommaso Koch. "O Coringa completa 80 anos e na Espanha ganha duas HQs, que inspiram debates filosóficos sobre a liberdade". El País. Junho/2020.</cite>
 		</context>
@@ -2299,7 +2113,7 @@
 		<objective_question number="63">
 			<classification subject="Unknown" />
 			<statement>
-				<p>No fragmento "ao tropeçar, cravava sua própria adaga no peito." (L. 8-9), a oração em negrito abrange, simultaneamente, as noções de</p>
+				<p>No fragmento <q>ao tropeçar, cravava sua própria adaga no peito.</q> (L. 8-9), a oração em negrito abrange, simultaneamente, as noções de</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2323,23 +2137,28 @@
 		<objective_question number="64">
 			<classification subject="Unknown" />
 			<statement>
-				<p>As vírgulas em "E depois, o silêncio." (L. 1) e em "Mas seu rosto continua sorrindo, para sempre." (L. 2-3) são usadas, respectivamente, com a mesma finalidade que as vírgulas em</p>
+				<p>As vírgulas em <q>E depois, o silêncio.</q> (L. 1) e em <q>Mas seu rosto continua sorrindo, para sempre.</q> (L. 2-3) são usadas, respectivamente, com a mesma finalidade que as vírgulas em</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>"Após a queda, tomaram mais cuidado." e "Quanto mais espaço, mais liberdade.".</p>
+					<p>
+						<q>Após a queda, tomaram mais cuidado.</q> e <q>Quanto mais espaço, mais liberdade.</q>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>"Aos estrangeiros, ofereceram iguarias." e "Limpavam a casa, e preparávamos as refeições.".</p>
+					<p>
+						<q>Aos estrangeiros, ofereceram iguarias.</q> e <q>Limpavam a casa, e preparávamos as refeições.</q>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>"Colheram trigo e nós, algodão." e "Eles se encontraram nas férias, mas não viajaram.".</p>
+					<p>
+						<q>Colheram trigo e nós, algodão.</q> e <q>Eles se encontraram nas férias, mas não viajaram.</q>.</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>"Para meus amigos, o melhor." e "Organizava tudo, cautelosamente.".</p>
+					<p>
+						<q>Para meus amigos, o melhor.</q> e <q>Organizava tudo, cautelosamente.</q>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>"Viu o espetáculo, considerado o maior fenômeno de bilheteria." e ""Conheço muito bem', afirmou o rapaz.".</p>
+					<p>
+						<q>Viu o espetáculo, considerado o maior fenômeno de bilheteria.</q> e <q>'Conheço muito bem', afirmou o rapaz.</q>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2347,23 +2166,28 @@
 		<objective_question number="65">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Em "Seu carisma seduziu a editora DC Comics, que impôs o acréscimo de um quadrinho." (L. 12-13), o vocábulo "que" possui a mesma função sintática desempenhada no texto por</p>
+				<p>Em <q>Seu carisma seduziu a editora DC Comics, que impôs o acréscimo de um quadrinho.</q> (L. 12-13), o vocábulo <q>que</q> possui a mesma função sintática desempenhada no texto por</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>"imóvel" (L. 2).</p>
+					<p>
+						<q>imóvel</q> (L. 2).</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>"Robin" (L. 5).</p>
+					<p>
+						<q>Robin</q> (L. 5).</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>"seus pais" (L. 9).</p>
+					<p>
+						<q>seus pais</q> (L. 9).</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>"se" (L. 12).</p>
+					<p>
+						<q>se</q> (L. 12).</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>"vivo" (L. 15).</p>
+					<p>
+						<q>vivo</q> (L. 15).</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2404,26 +2228,31 @@
 			<classification subject="Unknown" />
 			<statement>
 				<quote>
-					<p>Terça é dia de Veneza revelar as atrações de seu festival anual, cuja 77º edição começa no dia 2 de setembro, com a dramédia "Lacci", do romano Daniele Luchetti, seguindo até 12/9, com 50 produções internacionais e uma expectativa (extraoficial) de colocar "West Side Story", de Steven Spielberg, na ribalta.</p>
+					<p>Terça é dia de Veneza revelar as atrações de seu festival anual, cuja 77º edição começa no dia 2 de setembro, com a dramédia <q>Lacci</q>, do romano Daniele Luchetti, seguindo até 12/9, com 50 produções internacionais e uma expectativa (extraoficial) de colocar <q>West Side Story</q>, de Steven Spielberg, na ribalta.</p>
 				</quote>
 				<cite>Rodrigo Fonseca. "À espera dos rugidos de Veneza". O Estado de S. Paulo. Julho/2020. Adaptado.</cite>
-				<p>Um processo de formação de palavras em língua portuguesa é o cruzamento vocabular, em que são misturadas pelo menos duas palavras na formação de uma terceira. A força expressiva dessa nova palavra resulta da síntese de significados e do inesperado da combinação, como é o caso de "dramédia" no texto. Ocorre esse mesmo tipo de formação em</p>
+				<p>Um processo de formação de palavras em língua portuguesa é o cruzamento vocabular, em que são misturadas pelo menos duas palavras na formação de uma terceira. A força expressiva dessa nova palavra resulta da síntese de significados e do inesperado da combinação, como é o caso de <q>dramédia</q> no texto. Ocorre esse mesmo tipo de formação em</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>"deleitura" e "namorido".</p>
+					<p>
+						<q>deleitura</q> e <q>namorido</q>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>"passatempo" e "microvestido".</p>
+					<p>
+						<q>passatempo</q> e <q>microvestido</q>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>"hidrelétrica" e "sabiamente".</p>
+					<p>
+						<q>hidrelétrica</q> e <q>sabiamente</q>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>"arenista" e "girassol".</p>
+					<p>
+						<q>arenista</q> e <q>girassol</q>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>"planalto" e "multicor".</p>
+					<p>
+						<q>planalto</q> e <q>multicor</q>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2431,7 +2260,6 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 68 E 69</header>
 			<verse>
 				<title>Romance LIII ou Das Palavras Aéreas</title>
 				<p>Ai, palavras, ai, palavras,</p>
@@ -2446,15 +2274,15 @@
 				<p>Ai, palavras, ai, palavras,</p>
 				<p>que estranha potência, a vossa!</p>
 				<p>Perdão podíeis ter sido!</p>
-				<p>- sois madeira que se corta,</p>
-				<p>- sois vinte degraus de escada,</p>
-				<p>- sois um pedaço de corda...</p>
-				<p>- sois povo pelas janelas,</p>
+				<p>— sois madeira que se corta,</p>
+				<p>— sois vinte degraus de escada,</p>
+				<p>— sois um pedaço de corda...</p>
+				<p>— sois povo pelas janelas,</p>
 				<p>cortejo, bandeiras, tropa...</p>
 				<p>Ai, palavras, ai, palavras,</p>
 				<p>que estranha potência, a vossa!</p>
 				<p>Éreis um sopro na aragem...</p>
-				<p>- sois um homem que se enforca!</p>
+				<p>— sois um homem que se enforca!</p>
 			</verse>
 			<cite>Cecilia Meireles, Romanceiro da Inconfidência.</cite>
 		</context>
@@ -2462,7 +2290,7 @@
 		<objective_question number="68">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Ao substituir a pessoa verbal utilizada para se referir ao substantivo "palavras" pela 3ª pessoa do plural, os verbos dos versos "sois de vento, ides no vento," (v. 4) / "Perdão podíeis ter sido!" (v. 12) / "Éreis um sopro na aragem..." (v. 20) seriam conjugados conforme apresentado na alternativa:</p>
+				<p>Ao substituir a pessoa verbal utilizada para se referir ao substantivo <q>palavras</q> pela 3ª pessoa do plural, os verbos dos versos <q>sois de vento, ides no vento,</q> (v. 4) / <q>Perdão podíeis ter sido!</q> (v. 12) / <q>Éreis um sopro na aragem...</q> (v. 20) seriam conjugados conforme apresentado na alternativa:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -2486,7 +2314,7 @@
 		<objective_question number="69">
 			<classification subject="Unknown" />
 			<statement>
-				<p>A "estranha potência" que a voz lírica ressalta nas palavras decorre de uma combinação entre</p>
+				<p>A <q>estranha potência</q> que a voz lírica ressalta nas palavras decorre de uma combinação entre</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2526,7 +2354,7 @@
 					<p>Maior que a voz do rei.</p>
 				</verse>
 				<cite>Aldir Blanc e João Bosco, trecho da canção "Alferes", de 1973.</cite>
-				<p>A imagem de Tiradentes - a quem Cecilia Meireles qualificou "o Alferes imortal, radiosa expressão dos mais altos sonhos desta cidade, do Brasil e do próprio mundo", em palestra feita em Ouro Preto torna a aparecer como símbolo da luta pela liberdade em vários momentos da cultura nacional. Os versos do letrista Aldir Blanc evocam, em novo contexto, o mártir sonhador para resistir ao discurso</p>
+				<p>A imagem de Tiradentes — a quem Cecilia Meireles qualificou <q>o Alferes imortal, radiosa expressão dos mais altos sonhos desta cidade, do Brasil e do próprio mundo</q>, em palestra feita em Ouro Preto — torna a aparecer como símbolo da luta pela liberdade em vários momentos da cultura nacional. Os versos do letrista Aldir Blanc evocam, em novo contexto, o mártir sonhador para resistir ao discurso</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2554,13 +2382,13 @@
 			<statement>
 				<p>I</p>
 				<quote>
-					<p>- Traiste-me, Sem Medo. Tu traíste-me. (...)</p>
+					<p>— Traiste-me, Sem Medo. Tu traíste-me. (...)</p>
 					<p>Sabes o que tu és afinal, Sem Medo? És um ciumento. Chego a pensar se não és homossexual. Tu querias-me só, como tu. Um solitário do Mayombe. (...) Desprezo-te. (...) Nunca me verás atrás de uma garrafa vazia. (...) Cada sucesso que eu tiver, será a paga da tua bofetada, pois não serei um falhado como tu.</p>
 				</quote>
 				<cite>Pepetela, Mayombe. Adaptado.</cite>
 				<p>II</p>
 				<quote>
-					<p>Peço-te perdão, Sem Medo. Não te compreendi, fui um imbecil. E quis igualar o inigualável.</p>
+					<p>— Peço-te perdão, Sem Medo. Não te compreendi, fui um imbecil. E quis igualar o inigualável.</p>
 				</quote>
 				<cite>Pepetela, Mayombe.</cite>
 				<p>Esses excertos de Mayombe referem-se a conversas entre as personagens Comissário e Sem Medo em momentos distintos do romance. Em I e II, as falas do Comissário revelam, respectivamente,</p>
@@ -2587,9 +2415,8 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 72 A 74</header>
 			<quote>
-				<p>Leusipo perguntou o que eu tinha ido fazer na aldeia. Preferi achar que o tom era amistoso e, no meu paternalismo ingênuo, comecei a lhe explicar o que era um romance. Eu tentava convencê-lo de que não havia motivo para preocupação. Tudo o que eu queria saber já era conhecido. E ele me perguntava: "Então, por que você quer saber, se já sabe?" Tentei lhe explicar que pretendia escrever um livro e mais uma vez o que era um romance, o que era um livro de ficção (e mostrava o que tinha nas mãos), que seria tudo historinha, sem nenhuma consequência na realidade. Ele seguia incrédulo. Fazia-se de desentendido, mas na verdade só queria me intimidar. As minhas explicações sobre o romance eram inúteis. Eu tentava dizer que, para os brancos que não acreditam em deuses, a ficção servia de mitologia, era o equivalente dos mitos dos índios, e antes mesmo de terminar a frase, já não sabia se o idiota era ele ou eu. Ele não dizia nada a não ser: "O que você quer com o passado?". Repetia. E, diante da sua insistência bovina, tive de me render à evidência de que eu não sabia responder à sua pergunta.</p>
+				<p>Leusipo perguntou o que eu tinha ido fazer na aldeia. Preferi achar que o tom era amistoso e, no meu <u>paternalismo</u> ingênuo, comecei a lhe explicar o que era um romance. Eu tentava convencê-lo de que não havia motivo para preocupação. Tudo o que eu queria saber já era conhecido. E ele me perguntava: <q>Então, por que você quer saber, se já sabe?</q> Tentei lhe explicar que pretendia escrever um livro e mais uma vez o que era um romance, o que era um livro de ficção (e mostrava o que tinha nas mãos), que seria tudo <u>historinha</u>, sem nenhuma consequência na realidade. Ele seguia incrédulo. Fazia-se de <u>desentendido</u>, mas na verdade só queria me intimidar. As minhas explicações sobre o romance eram inúteis. Eu tentava dizer que, para os brancos que não acreditam em deuses, a ficção servia de mitologia, era o equivalente dos mitos dos índios, e antes mesmo de terminar a frase, já não sabia se o idiota era ele ou eu. Ele não dizia nada a não ser: <q>O que você quer com o passado?</q>. Repetia. E, diante da sua insistência <u>bovina</u>, tive de me render à evidência de que eu não sabia responder à sua pergunta.</p>
 			</quote>
 			<cite>Bernardo Carvalho, Nove noites. Adaptado.</cite>
 		</context>
@@ -2672,27 +2499,27 @@
 			<classification subject="Unknown" />
 			<statement>
 				<quote>
-					<p>Rubião fitava a enseada, eram oito horas da manhã. Quem o visse, com os polegares metidos no cordão do chambre, à janela de uma grande casa de Botafogo, cuidaria que ele admirava aquele pedaço de água quieta; mas em verdade vos digo que pensava em outra coisa. Cotejava o passado com o presente. Que era, há um ano? Professor. Que é agora? Capitalista. Olha para si, para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristiano Palha), para a casa, para o jardim, para a enseada, para os morros e para o céu; e tudo, desde as chinelas até o céu, tudo entra na mesma sensação de propriedade.</p>
-					<p>- Vejam como Deus escreve direito por linhas tortas, pensa ele. Se mana Piedade tem casado com Quincas Borba, apenas me daria uma esperança colateral. Não casou; ambos morreram, e aqui está tudo comigo; de modo que o que parecia uma desgraça...</p>
+					<p>Rubião fitava a enseada, — eram oito horas da manhã. Quem o visse, com os polegares metidos no cordão do chambre, à janela de uma grande casa de Botafogo, cuidaria que ele admirava aquele pedaço de água quieta; mas em verdade vos digo que pensava em outra coisa. Cotejava o passado com o presente. Que era, há um ano? Professor. Que é agora? Capitalista. Olha para si, para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristiano Palha), para a casa, para o jardim, para a enseada, para os morros e para o céu; e tudo, desde as chinelas até o céu, tudo entra na mesma sensação de propriedade.</p>
+					<p>— Vejam como Deus escreve direito por linhas tortas, pensa ele. Se mana Piedade tem casado com Quincas Borba, apenas me daria uma esperança colateral. Não casou; ambos morreram, e aqui está tudo comigo; de modo que o que parecia uma desgraça...</p>
 				</quote>
 				<cite>Machado de Assis, Quincas Borba.</cite>
 				<p>O primeiro capítulo de Quincas Borba já apresenta ao leitor um elemento que será fundamental na construção do romance:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>a contemplação das paisagens naturais, como se lê em "ele admirava aquele pedaço de água quieta".</p>
+					<p>a contemplação das paisagens naturais, como se lê em <q>ele admirava aquele pedaço de água quieta</q>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>a presença de um narrador-personagem, como se lê em "em verdade vos digo que pensava em outra coisa".</p>
+					<p>a presença de um narrador-personagem, como se lê em <q>em verdade vos digo que pensava em outra coisa</q>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>a sobriedade do protagonista ao avaliar o seu percurso, como se lê em "Cotejava o passado com o presente".</p>
+					<p>a sobriedade do protagonista ao avaliar o seu percurso, como se lê em <q>Cotejava o passado com o presente</q>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>o sentido místico e fatalista que rege os destinos, como se lê em "Deus escreve direito por linhas tortas".</p>
+					<p>o sentido místico e fatalista que rege os destinos, como se lê em <q>Deus escreve direito por linhas tortas</q>.</p>
 				</option>
 				<option label="E" is_correct="true">
-					<p>a reversibilidade entre o cômico e o trágico, como se lê em "de modo que o que parecia uma desgraça...".</p>
+					<p>a reversibilidade entre o cômico e o trágico, como se lê em <q>de modo que o que parecia uma desgraça...</q>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2720,7 +2547,9 @@
 					<p>se evapora no fundo do teu ser?</p>
 				</verse>
 				<cite>Carlos Drummond de Andrade, Claro enigma.</cite>
-				<p>Claro enigma apresenta, por meio do lirismo reflexivo, o posicionamento do escritor perante a sua condição no mundo. Considerando-o como representativo desse seu aspecto, o poema "Remissão"</p>
+				<p>
+					<i>Claro enigma</i> apresenta, por meio do lirismo reflexivo, o posicionamento do escritor perante a sua condição no mundo. Considerando-o como representativo desse seu aspecto, o poema <q>Remissão</q>
+				</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -2772,7 +2601,6 @@
 
 	<question_group>
 		<context>
-			<header>TEXTO PARA AS QUESTÕES 78 A 80</header>
 			<verse>
 				<title>Psicanálise do açúcar</title>
 				<p>O açúcar cristal, ou açúcar de usina,</p>
@@ -2801,7 +2629,7 @@
 				<p>quer inverno ou verão mele o açúcar.</p>
 			</verse>
 			<cite>João Cabral de Melo Neto, A Educação pela Pedra.</cite>
-			<p>*banguê: engenho de açúcar primitivo movido a força animal.</p>
+			<footnote symbol="*">banguê: engenho de açúcar primitivo movido a força animal.</footnote>
 		</context>
 
 		<objective_question number="78">
@@ -2831,23 +2659,23 @@
 		<objective_question number="79">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Na oração "que ela dura" (v. 4), o pronome sublinhado</p>
+				<p>Na oração "que <u>ela</u> dura" (v. 4), o pronome sublinhado</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
 					<p>não tem referente.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>retoma a palavra "usina" (v. 1).</p>
+					<p>retoma a palavra <q>usina</q> (v. 1).</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>pode ser substituído por "ele", referindo-se a "açúcar" (v. 1).</p>
+					<p>pode ser substituído por <q>ele</q>, referindo-se a <q>açúcar</q> (v. 1).</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>refere-se à "mais instável das brancuras" (v. 2).</p>
+					<p>refere-se à <q>mais instável das brancuras</q> (v. 2).</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>equivale à palavra "censura" (v. 10).</p>
+					<p>equivale à palavra <q>censura</q> (v. 10).</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2860,7 +2688,7 @@
 				<p>Observe o diagrama que mostra, de forma simplificada, o processo de fabricação do açúcar.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q80.png" />
 				<cite>Disponível em https://sistemas.eel.usp.br/. Adaptado.</cite>
-				<p>Considerando essas informações e seu conhecimento sobre separação de misturas e transformações químicas e físicas, no trecho grifado no poema ("a usina o leva a sublimar em cristal"), o termo sublimar é usado</p>
+				<p>Considerando essas informações e seu conhecimento sobre separação de misturas e transformações químicas e físicas, no trecho grifado no poema (<q>a usina o leva a sublimar em cristal</q>), o termo sublimar é usado</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2893,19 +2721,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>H, por ser um elemento com grande tendência a fazer ligação covalente em uma família com tendência a fazer ligação iônica.</p>
+					<p>
+						<c>H</c>, por ser um elemento com grande tendência a fazer ligação covalente em uma família com tendência a fazer ligação iônica.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>Na, por ser o único que pode ser obtido em sua forma metálica, ao contrário dos demais membros da família, que formam apenas óxidos.</p>
+					<p>
+						<c>Na</c>, por ser o único que pode ser obtido em sua forma metálica, ao contrário dos demais membros da família, que formam apenas óxidos.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>K, por ter raio atômico atipicamente grande, sendo maior do que os elementos abaixo dele na tabela periódica.</p>
+					<p>
+						<c>K</c>, por ter raio atômico atipicamente grande, sendo maior do que os elementos abaixo dele na tabela periódica.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>Cs, por pertencer à família 2 da tabela periódica, enquanto os demais pertencem à 1, formando cátions +2.</p>
+					<p>
+						<c>Cs</c>, por pertencer à família 2 da tabela periódica, enquanto os demais pertencem à 1, formando cátions +2.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Fr, por reagir violentamente com a água, devido ao seu pequeno raio atômico, liberando muito calor, diferentemente dos demais elementos da família.</p>
+					<p>
+						<c>Fr</c>, por reagir violentamente com a água, devido ao seu pequeno raio atômico, liberando muito calor, diferentemente dos demais elementos da família.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2916,7 +2749,7 @@
 			<classification subject="Unknown" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q82.png" />
-				<p>Um experimento expôs uma barra de titânio (Ti) pura e ligas desse material com 0,01% de diferentes metais nobres a soluções de ácido sulfúrico em ebulição para entender o efeito anticorrosivo desses metais no titânio. O resultado é mostrado na tabela a seguir:</p>
+				<p>Um experimento expôs uma barra de titânio (<c>Ti</c>) pura e ligas desse material com 0,01% de diferentes metais nobres a soluções de ácido sulfúrico em ebulição para entender o efeito anticorrosivo desses metais no titânio. O resultado é mostrado na tabela a seguir:</p>
 				<table>
 					<header>
 						<cell />
@@ -2924,21 +2757,23 @@
 							<p>Metal presente na liga com o Ti (0,01%)</p>
 						</cell>
 						<cell>
-							<p>Taxa de corrosão do titânio em $H_{2}SO_{4}$ em ebulição (em quantidade por tempo)</p>
+							<p>Taxa de corrosão do titânio em <c>H2SO4</c> em ebulição (em quantidade por tempo)</p>
 						</cell>
 					</header>
 					<row>
 						<cell />
 						<cell>
-							<p>$H_{2}SO_{4}$ 1%</p>
+							<p>
+								<c>H2SO4</c> 1%</p>
 						</cell>
 						<cell>
-							<p>$H_{2}SO_{4}$ 10%</p>
+							<p>
+								<c>H2SO4</c> 10%</p>
 						</cell>
 					</row>
 					<row>
 						<cell>
-							<p>Paládio (Pd)</p>
+							<p>Paládio (<c>Pd</c>)</p>
 						</cell>
 						<cell>
 							<p>&lt;2</p>
@@ -2949,7 +2784,7 @@
 					</row>
 					<row>
 						<cell>
-							<p>Ródio (Rh)</p>
+							<p>Ródio (<c>Rh</c>)</p>
 						</cell>
 						<cell>
 							<p>&lt;2</p>
@@ -3072,7 +2907,6 @@
 
 	<question_group>
 		<context>
-			<header>ENUNCIADOS PARA AS QUESTÕES 83 E 84</header>
 			<p>Um dos indicadores de qualidade de mel é a presença do composto orgânico hidroximetilfurfural (HMF), formado a partir de certos açúcares, como a frutose ($C_{6}H_{12}O_{6}$). A tabela resume os teores de HMF permitidos de acordo com a legislação brasileira e recomendações internacionais.</p>
 			<table>
 				<header>
@@ -3132,19 +2966,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$1 \times H_{2}O$ e $1 \times -CH_{2}$</p>
+					<p>1 × <c>H2O</c> e 1 × <c>-CH2</c>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$2 \times OH^{-}$</p>
+					<p>2 × <c>OH-</c>
+					</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p>$2 \times H_{2}O$</p>
+					<p>2 × <c>H2O</c>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$1 \times -CH_{2}$ e $1 \times OH^{-}$</p>
+					<p>1 × <c>-CH2</c> e 1 × <c>OH-</c>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$1 \times H_{2}O$ e $1 \times OH^{-}$</p>
+					<p>1 × <c>H2O</c> e 1 × <c>OH-</c>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -3245,10 +3084,13 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>Para estudar equilíbrio químico de íons $Co^{2+}$ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação:</p>
-				<p>$[Co(H_{2}O)_{6}]^{2+}(aq) + 4Cl^{-}(aq) \rightleftharpoons [CoCl_{4}]^{2-}(aq) + 6H_{2}O(l)$</p>
+				<p>
+					<chem>[Co(H_{2}O)_{6}]^{2+}(aq) + 4Cl^{-}(aq) \rightleftharpoons [CoCl_{4}]^{2-}(aq) + 6H_{2}O(l)</chem>
+				</p>
 				<p>Vermelho $\rightleftharpoons$ Azul</p>
-				<p>Nesse equilíbrio, o composto de cobalto com água, $[Co(H_{2}O)_{6}]^{2+}(aq)$ apresenta coloração vermelha, enquanto o composto com cloretos, $[CoCl_{4}]^{2-}(aq)$, possui coloração azul.</p>
-				<p>Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto(II), de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada.</p>
+				<p>Nesse equilíbrio, o composto de cobalto com água, <c>[Co(H_{2}O)_{6}]^{2+}(aq)</c> apresenta coloração vermelha, enquanto o composto com cloretos, <c>[CoCl_{4}]^{2-}(aq)</c>, possui coloração azul.</p>
+				<p>Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto(II), de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado.</p>
+				<p>Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada.</p>
 				<table>
 					<header>
 						<cell>
@@ -3516,7 +3358,7 @@
 		<objective_question number="89">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Em aquários de água marinha, é comum o uso do equipamento chamado "Skimmer", aparato em que a água recebe uma torrente de bolhas de ar, como representado na figura, levando a matéria orgânica até a superfície, onde pode ser removida. Essa matéria orgânica eliminada é composta por moléculas orgânicas com parte apolar e parte polar, enquanto as bolhas formadas têm caráter apolar. Esse aparelho, no entanto, tem rendimento muito menor em aquários de água doce (retira menos quantidade de material orgânico por período de uso).</p>
+				<p>Em aquários de água marinha, é comum o uso do equipamento chamado <q>Skimmer</q>, aparato em que a água recebe uma torrente de bolhas de ar, como representado na figura, levando a matéria orgânica até a superfície, onde pode ser removida. Essa matéria orgânica eliminada é composta por moléculas orgânicas com parte apolar e parte polar, enquanto as bolhas formadas têm caráter apolar. Esse aparelho, no entanto, tem rendimento muito menor em aquários de água doce (retira menos quantidade de material orgânico por período de uso).</p>
 				<image width="0.5" src="fuvest/2021/fase01/q89.png" />
 				<cite>Disponível em https://blog.marinedepot.com/. Adaptado.</cite>
 				<p>Considerando que todas as outras condições são mantidas, o menor rendimento desse aparato em água doce do que em água salgada pode ser explicado porque</p>
@@ -3546,7 +3388,7 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>A destilação é um processo utilizado para separar compostos presentes em uma mistura com base nas suas propriedades físicas como, por exemplo, a diferença de temperatura de ebulição, a uma dada pressão, entre os componentes da mistura.</p>
-				<p>Recentemente esse termo passou a figurar em estudos de poluição ambiental, nos quais o termo "destilação global" é utilizado para explicar a presença de compostos voláteis, como os pesticidas organoclorados, em águas e gelos de regiões polares, ainda que estes compostos nunca tenham sido produzidos ou utilizados nessas regiões. Com base no princípio da técnica da destilação, como pode ser explicada a presença desses pesticidas na Antártica e no Ártico?</p>
+				<p>Recentemente esse termo passou a figurar em estudos de poluição ambiental, nos quais o termo <q>destilação global</q> é utilizado para explicar a presença de compostos voláteis, como os pesticidas organoclorados, em águas e gelos de regiões polares, ainda que estes compostos nunca tenham sido produzidos ou utilizados nessas regiões. Com base no princípio da técnica da destilação, como pode ser explicada a presença desses pesticidas na Antártica e no Ártico?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">

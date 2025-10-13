@@ -154,7 +154,7 @@ def main():
                         print("-" * 60)
                 total_errors += len(errors)
             else:
-                print(f"[OK] {file} válido ✅")
+                print(Fore.GREEN + "[OK] " +  Style.RESET_ALL + f"{file} válido!")
 
     if total_errors > 0:
         print(f"\nTotal de erros encontrados: {total_errors}")

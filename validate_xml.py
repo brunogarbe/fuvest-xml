@@ -3,6 +3,9 @@ import glob
 import os
 from lxml import etree
 import sys
+from colorama import Fore, Back, Style
+from colorama import init
+init()
 
 
 def load_file_lines(path):
@@ -156,7 +159,7 @@ def main():
     if total_errors > 0:
         print(f"\nTotal de erros encontrados: {total_errors}")
     else:
-        print("\nTodos os arquivos são válidos! 🎉")
+        print("\nTodos os arquivos são válidos!")
 
 
 if __name__ == "__main__":

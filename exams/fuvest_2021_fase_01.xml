@@ -395,13 +395,13 @@
 			<statement>
 				<header>Projeção de Mercator</header>
 				<image width="0.5" src="fuvest/2021/fase01/q14_1.png" />
-				<p>Apresentada pela primeira vez no século XVI.</p>
+				<p align="center">Apresentada pela primeira vez no século XVI.</p>
 				<header>Projeção de Gall-Peters</header>
 				<image width="0.5" src="fuvest/2021/fase01/q14_2.png" />
-				<p>Elaborada pela primeira vez no século XIX.</p>
+				<p align="center">Elaborada pela primeira vez no século XIX.</p>
 				<header>Projeção de Robinson</header>
 				<image width="0.5" src="fuvest/2021/fase01/q14_3.png" />
-				<p>Elaborada em 1963.</p>
+				<p align="center">Elaborada em 1963.</p>
 				<p>Sobre as projeções cartográficas apresentadas, suas formas e dimensões, é correto afirmar: </p>
 			</statement>
 			<options>
@@ -1012,17 +1012,17 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>Considere três espécies de plantas (X, Y e Z) e suas características:</p>
-				<ul>
-					<li>
+				<list>
+					<item>
 						<p>A planta X não possui flores, mas é polinizada pelo vento. Além disso, não possui frutos, mas suas sementes são dispersas por aves.</p>
-					</li>
-					<li>
+					</item>
+					<item>
 						<p>A planta Y não possui flores, nem sementes, nem frutos.</p>
-					</li>
-					<li>
+					</item>
+					<item>
 						<p>A planta Z possui flores e é polinizada por aves. Além disso, possui frutos e suas sementes são dispersas por aves.</p>
-					</li>
-				</ul>
+					</item>
+				</list>
 				<p>A que grupos pertencem as plantas X, Y e Z, respectivamente?</p>
 			</statement>
 			<options>

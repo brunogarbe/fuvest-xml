@@ -607,11 +607,11 @@
 			<classification subject="Math:Algebra:Functions" />
 			<statement>
 				<p>Em uma feira de produtos orgânicos é vendido arroz a granel. A gerente da feira decidiu oferecer descontos progressivos na venda de arroz, de acordo com os seguintes critérios:</p>
-				<ul>
-					<li>Quem comprar exatamente 1 kg de arroz paga R$ 5,00.</li>
-					<li>Quanto maior for a quantidade que o cliente comprar, maior será o total a pagar.</li>
-					<li>Quanto maior for a quantidade que o cliente comprar, menor será o valor por quilo.</li>
-				</ul>
+				<list>
+					<item><p>Quem comprar exatamente 1 kg de arroz paga R$ 5,00.</p></item>
+					<item><p>Quanto maior for a quantidade que o cliente comprar, maior será o total a pagar.</p></item>
+					<item><p>Quanto maior for a quantidade que o cliente comprar, menor será o valor por quilo.</p></item>
+				</list>
 				<p>Cada uma das alternativas listadas apresenta uma possível fórmula para o total que o cliente irá pagar, em reais, se comprar uma quantidade x, em quilos, de arroz. A única alternativa que atende aos critérios estabelecidos é:</p>
 			</statement>
 			<options>
@@ -2373,12 +2373,12 @@ propriedades químicas dessas moléculas.</p>
 				<p>A descrição matemática da refração é feita pela lei de Snell, conforme apresentada a seguir:</p>
 				<p>$n_{i,\lambda}sen\theta_{i}=n_{r,\lambda}sen\theta_{r}$]</p>
 				<p>em que:</p>
-				<ul>
-					<li>$n_{i,\lambda}$ é o índice de refração da luz de comprimento de onda λ no meio incidente,</li>
-					<li>$\theta_{i}$ é o ângulo que o raio incidente faz com a reta normal à interface,</li>
-					<li>$n_{r,\lambda}$ o índice de refração da mesma luz no meio refratado e </li>
-					<li>$\theta_{r}$ é o ângulo que o raio refratado faz com a reta normal à interface.</li>
-				</ul>
+				<list>
+					<item><p>$n_{i,\lambda}$ é o índice de refração da luz de comprimento de onda λ no meio incidente,</p></item>
+					<item><p>$\theta_{i}$ é o ângulo que o raio incidente faz com a reta normal à interface,</p></item>
+					<item><p>$n_{r,\lambda}$ o índice de refração da mesma luz no meio refratado e </p></item>
+					<item><p>$\theta_{r}$ é o ângulo que o raio refratado faz com a reta normal à interface.</p></item>
+				</list>
 				<p>O índice de refração do ar pode ser tomado como igual a 1 para qualquer comprimento de onda. </p>
 				<p>Com base nessas informações, a relação correta entre os índices de refração dos raios das cores 1 $(n_{1})$, 2 $(n_{2})$ e 3 $(n_{3})$ no vidro é dada por: </p>
 			</statement>

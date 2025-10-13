@@ -503,10 +503,10 @@
 				<p>A inclinação $i$ da rampa em porcentagem (%) é calculada dividindo a altura $h$ do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal $c$, em metros, e multiplicando o resultado por 100. A figura a seguir mostra uma rampa de dois segmentos.</p>
 				<image width="0.8" src="fuvest/2025/fase01/q16.png" />
 				<p>Determinada rampa de dois segmentos foi construída da seguinte maneira:</p>
-				<ul>
-					<li>o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;</li>
-					<li>o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.</li>
-				</ul>
+				<list>
+					<item><p>o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;</p></item>
+					<item><p>o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.</p></item>
+				</list>
 				<p>Com base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?</p>
 			</statement>
 			<options>

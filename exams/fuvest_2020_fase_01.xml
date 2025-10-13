@@ -384,17 +384,17 @@
 				<p>Para exemplificar probabilidade, um grupo de estudantes fez uma atividade envolvendo química, conforme o procedimento descrito.</p>
 				<p>Cada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de <c>HCl</c> e <c>NaOH</c> em diversas concentrações.</p>
 				<p>Cada estudante deveria jogar apenas uma vez dois dados, um amarelo e um vermelho, ambos contendo os números de 1 a 6.</p>
-				<ul>
-					<li>
+				<list>
+					<item>
 						<p>Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração <m>10^{-n}</m> mol/L, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de <m>10^{-1}</m> mol/L; se saísse 6, a solução seria de <m>10^{-6}</m> mol/L).</p>
-					</li>
-					<li>
+					</item>
+					<item>
 						<p>Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por <c>NaOH</c>, totalizando assim 1,0 L de solução.</p>
-					</li>
-					<li>
+					</item>
+					<item>
 						<p>O estudante deveria observar a cor da solução ao final do experimento.</p>
-					</li>
-				</ul>
+					</item>
+				</list>
 				<p>A professora mostrou a tabela com alguns valores de pH resultantes conforme os números tirados nos dados. Ela pediu, então, aos estudantes que utilizassem seus conhecimentos e a tabela para prever em quais combinações de dados a cor final do indicador seria vermelha.</p>
 				<image src="fuvest/2020/fase01/q12_1.png" />
 				<p>A probabilidade de, após realizar o procedimento descrito, a solução final preparada por um estudante ser vermelha é de:</p>
@@ -2257,7 +2257,8 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>kg· m²/s</m>
+					<p>
+						kg· m²/s
 					</p>
 				</option>
 				<option label="B" is_correct="false">

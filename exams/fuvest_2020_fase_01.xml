@@ -1277,7 +1277,7 @@
 				<p>Mas mais frágil fica a bota.</p>
 			</verse>
 			<cite>Gonçalo M. Tavares, 1: poemas.</cite>
-			<footnote symbol="*">sesta: repouso após o almoço.</footnote>
+			<footnote id="*">sesta: repouso após o almoço.</footnote>
 		</context>
 
 		<objective_question number="39">
@@ -1365,9 +1365,9 @@
 					<p>Agora, o Manuel Fulô, este, sim! Um sujeito pingadinho, quase menino <q>pepino que encorujou desde pequeno</q> - cara de bobo de fazenda, do segundo tipo -; porque toda fazenda tem o seu bobo, que é, ou um velhote baixote, de barba rara no queixo, ou um eterno rapazola, meio surdo, gago, glabro e alvar. Mas gostava de fechar a cara e roncar voz, todo enfarruscado, para mostrar brabeza, e só por descuido sorria, um sorriso manhoso de dono de hotel. E, em suas feições de caburé insalubre, amigavam-se as marcas do sangue aimoré e do gálico herdado: cabelo preto, corrido, que boi lambeu; dentes de fio em meia-lua; malares pontudos; lobo da orelha aderente; testa curta, fugidia; olhinhos de viés e nariz peba, mongol.</p>
 				</quote>
 				<cite>Guimarães Rosa, "Corpo fechado", de Sagarana.</cite>
-				<footnote symbol="*">sem pelos, sem barba</footnote>
-				<footnote symbol="**">tolo</footnote>
-				<footnote symbol="***">mestiço</footnote>
+				<footnote id="*">sem pelos, sem barba</footnote>
+				<footnote id="**">tolo</footnote>
+				<footnote id="***">mestiço</footnote>
 				<p>O retrato de Manuel Fulô, tal como aparece no fragmento, permite afirmar que</p>
 			</statement>
 			<options>
@@ -1555,8 +1555,8 @@
 					<p>Louvado seja Deus, que o acabei.</p>
 				</verse>
 				<cite>Gregório de Matos</cite>
-				<footnote symbol="*">louvor</footnote>
-				<footnote symbol="**">grande</footnote>
+				<footnote id="*">louvor</footnote>
+				<footnote id="**">grande</footnote>
 				<verse>
 					<title>Tipo zero</title>
 					<p>Você é um tipo que não tem tipo</p>

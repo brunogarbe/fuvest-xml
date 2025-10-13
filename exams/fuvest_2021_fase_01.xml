@@ -2615,7 +2615,7 @@
 				<p>em que o cristal é capaz de censura:</p>
 				<p>pois o tal fundo mascavo logo aflora</p>
 				<p>quer inverno ou verão mele o açúcar.</p>
-				<p>Só os banguês que-ainda purgam ainda</p>
+				<p>Só os banguês<ref id="1"/> que-ainda purgam ainda</p>
 				<p>o açúcar bruto com barro, de mistura;</p>
 				<p>a usina já não o purga: da infância,</p>
 				<p>não de depois de adulto, ela o educa;</p>
@@ -2629,7 +2629,7 @@
 				<p>quer inverno ou verão mele o açúcar.</p>
 			</verse>
 			<cite>João Cabral de Melo Neto, A Educação pela Pedra.</cite>
-			<footnote symbol="*">banguê: engenho de açúcar primitivo movido a força animal.</footnote>
+			<footnote id="1">banguê: engenho de açúcar primitivo movido a força animal.</footnote>
 		</context>
 
 		<objective_question number="78">

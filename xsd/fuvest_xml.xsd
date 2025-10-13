@@ -348,11 +348,11 @@
 				<xs:element name="i" 		type="ItalicType"/>
 				<xs:element name="u" 		type="UnderlineType"/>
 				<xs:element name="q" 		type="QuoteType"/>
-				<xs:element name="m" 		type="xs:string"/>
-				<xs:element name="math" 	type="xs:string"/>
-				<xs:element name="c" 		type="xs:string"/>
-				<xs:element name="chem" 	type="xs:string"/>
-				<xs:element name="ref" 		type="xs:string"/>
+				<xs:element name="m" 		type="TextOnlyType"/>
+				<xs:element name="math" 	type="DisplayMathType"/>
+				<xs:element name="c" 		type="TextOnlyType"/>
+				<xs:element name="chem" 	type="DisplayMathType"/>
+				<xs:element name="ref" 		type="OnlyAttributeType"/>
 			</xs:choice>
 		</xs:sequence>
 	</xs:complexType>
@@ -363,15 +363,15 @@
 		<xs:sequence minOccurs="0" maxOccurs="unbounded">
 			<!-- Allow nested inline content inside <b> if desired -->
 			<xs:choice>
-				<xs:element name="b" 			type="BoldType"/>
-				<xs:element name="i" 			type="ItalicType"/>
-				<xs:element name="u" 			type="UnderlineType"/>
-				<xs:element name="q" 			type="QuoteType"/>
-				<xs:element name="m" 			type="xs:string"/>
-				<xs:element name="math" 	type="xs:string"/>
-				<xs:element name="c" 			type="xs:string"/>
-				<xs:element name="chem" 	type="xs:string"/>
-				<xs:element name="ref" 		type="xs:string"/>
+				<xs:element name="b" 		type="BoldType"/>
+				<xs:element name="i" 		type="ItalicType"/>
+				<xs:element name="u" 		type="UnderlineType"/>
+				<xs:element name="q" 		type="QuoteType"/>
+				<xs:element name="m" 		type="TextOnlyType"/>
+				<xs:element name="math" 	type="DisplayMathType"/>
+				<xs:element name="c" 		type="TextOnlyType"/>
+				<xs:element name="chem" 	type="DisplayMathType"/>
+				<xs:element name="ref" 		type="OnlyAttributeType"/>
 			</xs:choice>
 		</xs:sequence>
 	</xs:complexType>
@@ -381,15 +381,15 @@
 	<xs:complexType name="UnderlineType" mixed="true">
 		<xs:sequence minOccurs="0" maxOccurs="unbounded">
 			<xs:choice>
-				<xs:element name="b" 			type="BoldType"/>
-				<xs:element name="i" 			type="ItalicType"/>
-				<xs:element name="q" 			type="QuoteType"/>
-				<xs:element name="m" 			type="xs:string"/>
-				<xs:element name="math" 	type="xs:string"/>
-				<xs:element name="c" 			type="xs:string"/>
-				<xs:element name="chem" 	type="xs:string"/>
-				<xs:element name="ref" 		type="xs:string"/>
-				<xs:element name="u" 			type="UnderlineType"/>
+				<xs:element name="b" 		type="BoldType"/>
+				<xs:element name="i" 		type="ItalicType"/>
+				<xs:element name="q" 		type="QuoteType"/>
+				<xs:element name="m" 		type="TextOnlyType"/>
+				<xs:element name="math" 	type="DisplayMathType"/>
+				<xs:element name="c" 		type="TextOnlyType"/>
+				<xs:element name="chem" 	type="DisplayMathType"/>
+				<xs:element name="ref" 		type="OnlyAttributeType"/>
+				<xs:element name="u" 		type="UnderlineType"/>
 			</xs:choice>
 		</xs:sequence>
 	</xs:complexType>
@@ -399,15 +399,15 @@
 	<xs:complexType name="QuoteType" mixed="true">
 		<xs:sequence minOccurs="0" maxOccurs="unbounded">
 			<xs:choice>
-				<xs:element name="b" type="BoldType"/>
-				<xs:element name="i" 			type="ItalicType"/>
-				<xs:element name="u" type="UnderlineType"/>
-				<xs:element name="m" type="xs:string"/>
-				<xs:element name="math" type="xs:string"/>
-				<xs:element name="c" type="xs:string"/>
-				<xs:element name="chem" type="xs:string"/>
-				<xs:element name="ref" type="xs:string"/>
-				<xs:element name="q" type="QuoteType"/>
+				<xs:element name="b" 		type="BoldType"/>
+				<xs:element name="i" 		type="ItalicType"/>
+				<xs:element name="u" 		type="UnderlineType"/>
+				<xs:element name="m" 		type="TextOnlyType"/>
+				<xs:element name="math" 	type="DisplayMathType"/>
+				<xs:element name="c" 		type="TextOnlyType"/>
+				<xs:element name="chem" 	type="DisplayMathType"/>
+				<xs:element name="ref" 		type="OnlyAttributeType"/>
+				<xs:element name="q" 		type="QuoteType"/>
 			</xs:choice>
 		</xs:sequence>
 		<xs:attribute name="cite" type="xs:anyURI" use="optional"/>
@@ -434,7 +434,7 @@
 	
 	<!-- ref -->
 	<xs:complexType name="OnlyAttributeType">
-		<xs:attribute name="id" type="xs:ID" use="required"/>
+		<xs:attribute name="id" type="xs:string" use="required"/>
 	</xs:complexType>
 	<xs:element name="ref" type="OnlyAttributeType"/>
 	
@@ -492,8 +492,8 @@
 	<!-- Verse -->
 	<xs:complexType name="Verse">
 		<xs:sequence>
-			<xs:element name="title" type="xs:string" minOccurs="0" maxOccurs="1"/>
-			<xs:element name="p" type="xs:string" maxOccurs="unbounded"/>
+			<xs:element name="title" type="ParagraphType" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="p" type="ParagraphType" maxOccurs="unbounded"/>
 		</xs:sequence>
 	</xs:complexType>
 	
@@ -577,7 +577,7 @@
 				<xs:complexType>
 					<xs:simpleContent>
 						<xs:extension base="xs:string">
-							<xs:attribute name="symbol" type="xs:string" use="optional"/>
+							<xs:attribute name="id" type="xs:string" use="required"/>
 						</xs:extension>
 					</xs:simpleContent>
 				</xs:complexType>

@@ -39,7 +39,7 @@ DEFAULT_PREAMBLE = """\\documentclass[11pt,a4paper,twocolumn]{article}
 \\usepackage{array}      	% improved column definitions
 \\usepackage{tcolorbox}  	% for boxes of text
 \\usepackage{csquotes}     % for typesetting quotes
-\\usepackage{mhchem}
+\\usepackage[version=4,textfontname=Libertinus Serif,mathfontname=Libertinus Serif]{mhchem}
 \\usepackage{amsmath}
 \\usepackage{mathspec}			% allow you to use open-type fonts
 \\usepackage{setspace}     % for line spacing
@@ -123,43 +123,74 @@ DEFAULT_PREAMBLE = """\\documentclass[11pt,a4paper,twocolumn]{article}
 
 # Global variable
 global_graphics_dir = None
+global_footnote_struct = {}
 
-import re
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <header> tag
 
-# To handle nested emphasis like **_bold italic_** → \textbf{\textit{...}}, we need to be more careful.
-# Instead of a single regex pass, we can apply ordered substitutions that allow nesting. The trick is to convert the inner (* or _ italics) before the outer (** or __ bold). That way, when bold wraps around an italic segment, LaTeX nesting is preserved.
-# Here’s the improved function:
+FOOTNOTES_SYMBOLS = [
+    '*',
+    '**',
+    '***',
+    '****',
+    '*****',
+]
 
-def convert_quotes_to_latex(input_string):
-    """
-    Replaces standard double quotes (") in a string with LaTeX-style
-    double quotes ('' and ´´) based on their context.
+def reset_footnotes():
+    global global_footnote_struct
+    global_footnote_struct = {}
 
-    An opening quote is assumed to be a `"` followed by an alphanumeric
-    character. A closing quote is assumed to be a `"` that follows an
-    alphanumeric character or a punctuation mark.
+def add_footnote(id):
+    global global_footnote_struct
+    s = len(global_footnote_struct)
+    if s >= len(FOOTNOTES_SYMBOLS):
+        raise ValueError("Footnote overboard!")
+    global_footnote_struct[id] = FOOTNOTES_SYMBOLS[s]
+    return FOOTNOTES_SYMBOLS[s]
 
-    Args:
-        input_string: The string containing standard double quotes to be converted.
+# --- LaTeX helpers ---
 
-    Returns:
-        A new string with the double quotes replaced by their LaTeX equivalents.
-    """
-    # Replace opening quotes: " followed by a word character (alphanumeric/underscore).
-    # This uses a positive lookahead `(?=\w)` to match a quote that is
-    # followed by a word character without including it in the match.
-    temp_string = re.sub(r'"(?=\w)', "\u201C", input_string)
-    temp_string = re.sub(r"'(?=\w)", "\u2018", temp_string)
+# LATEX_SPECIALS = {
+#     "&": r"\&",
+#     "%": r"\%",
+#     "#": r"\#",
+#     "_": r"\_",
+#     "{": r"\{",
+#     "}": r"\}",
+#     "~": r"\textasciitilde{}",
+#     "^": r"\textasciicircum{}",
+#     "\\": r"\textbackslash{}",
+# }
 
-    # Replace closing quotes: a word character or punctuation followed by ".
-    # This uses a positive lookbehind `(?<=\w|[.,?!;:])` to match a quote
-    # that is preceded by a word/punctuation character without including it.
-    final_string = re.sub(r'(?<=\w|[.,?!;:])"', "\u201D", temp_string)
-    final_string = re.sub(r"(?<=\w|[.,?!;:])'", "\u2019", final_string)
+# def escape_latex(text: str) -> str:
+#     """Escape LaTeX special chars but **leave $ intact** to preserve math already provided in the XML."""
+#     if not text:
+#         return ""
+#     # First, we might want to preserve verbatim $...$ math by splitting on $ pairs
+#     # But that's fragile; better: just do not escape '$' at all.
+#     # Also normalize Windows newlines
+#     text = text.replace("\r\n", "\n")
+#     # Replace special characters
+#     out = []
+#     for ch in text:
+#         if ch in LATEX_SPECIALS:
+#             out.append(LATEX_SPECIALS[ch])
+#         else:
+#             out.append(ch)
+#     return "".join(out)
 
-    return final_string
-
-
+# def strip_md_italics(text: str) -> str:
+#     """If the whole text is wrapped in underscores like _foo_, trim those underscores."""
+#     if text is None:
+#         return ""
+#     stripped = text.strip()
+#     if len(stripped) >= 2 and stripped[0] == "_" and stripped[-1] == "_":
+#         return stripped[1:-1].strip()
+#     return stripped
+#
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <header> tag
+#
 def clean_text(text: str) -> str:
     # Dictionary of characters to escape
     escape_map = {
@@ -185,6 +216,9 @@ def clean_text(text: str) -> str:
 
     return fully_escaped_text
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <header> tag
+#
 def clean_chemistry(text: str) -> str:
     #print("#", text)
     # Dictionary of characters to escape
@@ -192,7 +226,6 @@ def clean_chemistry(text: str) -> str:
         'α': r'\alpha',
         '→': r'->',
         '⇌': r'<=>',
-
     }
 
     # Create a regex from the keys of the map
@@ -203,6 +236,9 @@ def clean_chemistry(text: str) -> str:
 
     return fully_escaped_text
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <header> tag
+#
 def clean_math(text: str) -> str:
     #print("#", text)
     # Dictionary of characters to escape
@@ -218,216 +254,16 @@ def clean_math(text: str) -> str:
 
     return fully_escaped_text
 
-def markdown_to_latex(text: str) -> str:
-    """
-    Converts a Markdown-formatted string to a LaTeX-formatted string.
-
-    This function handles:
-    - Strong emphasis: **text** or __text__ becomes \\textbf{text}
-    - Emphasis: *text* or _text_ becomes \\textit{text}
-    - Underline: <u>text</u> becomes \\underline{text}
-    - Math environments: $...$ and $$...$$ are preserved.
-    - Escaping of special LaTeX characters (&, %, $, #, _, {, }, ~, ^, \\)
-      outside of math environments.
-
-    Args:
-        text: The input string formatted in Markdown.
-
-    Returns:
-        A string formatted for use in a LaTeX document.
-    """
-    if not text:
-        return ""
-
-    #print('######################################################################################')
-    #print('1', text)
-
-    # --- 1. Protect Math Environments ---
-    # We find all math blocks, replace them with a unique placeholder,
-    # and store the original math content to be restored later. This prevents
-    # the special characters inside math from being escaped.
-    math_placeholders = []
-    def _replace_math_with_placeholder(match):
-        math_content = match.group(0)
-        # Use a placeholder that contains no special LaTeX characters.
-        placeholder = f"MATHPLACEHOLDER{len(math_placeholders)}"
-        math_placeholders.append(math_content)
-        return placeholder
-
-    # Replace both inline ($...$) and display ($$...$$) math blocks.
-    # The DOTALL flag allows '.' to match newlines within display math.
-    text_no_math = re.sub(r'\$\$.*?\$\$|\$.*?\$', _replace_math_with_placeholder, text, flags=re.DOTALL)
-    #print(text_no_math)
-
-    # process que inline quotes
-    # list_words = text_no_math.split()
-    # for word in list_words:
-        # if word.startswith('"'):
-
-    #print('2', text_no_math)
-
-
-    # TODO: --
-
-    # --- 2. Convert Markdown to LaTeX ---
-    # The order of these replacements is crucial. We parse from the longest,
-    # most specific markers (like ***) to the shortest, least specific (*).
-    # This prevents parts of a larger marker from being incorrectly matched.
-    processed_text = convert_quotes_to_latex(text_no_math)
-
-    # Bold and Italic (e.g., ***text*** or ___text___)
-    processed_text = re.sub(r'\*\*\*(.+?)\*\*\*', r'\\textbf{\\textit{\1}}', processed_text, flags=re.DOTALL)
-    processed_text = re.sub(r'___(.+?)___', r'\\textbf{\\underline{\1}}', processed_text, flags=re.DOTALL)
-
-    # Strong emphasis (bold)
-    processed_text = re.sub(r'\*\*(.+?)\*\*', r'\\textbf{\1}', processed_text, flags=re.DOTALL)
-    processed_text = re.sub(r'__(.+?)__', r'\\underline{\1}', processed_text, flags=re.DOTALL)
-
-    # Emphasis (italic)
-    processed_text = re.sub(r'\*(.+?)\*', r'\\textit{\1}', processed_text, flags=re.DOTALL)
-    processed_text = re.sub(r'_(.+?)_', r'\\textit{\1}', processed_text, flags=re.DOTALL)
-
-    #print('3', processed_text)
-
-    # Underline (using a common HTML-like convention)
-    processed_text = re.sub(r'<u>(.*?)</u>', r'\\underline{\1}', processed_text, flags=re.DOTALL)
-
-
-    # --- 3. Escape Remaining Special LaTeX Characters ---
-    # Now that Markdown is converted, any remaining special characters must be escaped
-    # so they are displayed literally in LaTeX. We must be careful not to escape
-    # the backslashes in the LaTeX commands we just added (e.g., in `\textbf`).
-
-    # Temporarily protect the LaTeX commands we've just created.
-    latex_command_placeholders = []
-    def _replace_latex_command_with_placeholder(match):
-        command = match.group(0)
-        # Use a placeholder that contains no special LaTeX characters.
-        placeholder = f"LATEXCOMMANDHOLDER{len(latex_command_placeholders)}"
-        latex_command_placeholders.append(command)
-        return placeholder
-
-    # NOTE: This regex for capturing command blocks is simple and will fail on
-    # deeply nested commands (e.g., `\textbf{some {nested} text}`). However, the
-    # markdown conversion above does not produce such structures.
-    processed_text = re.sub(r'\\(textbf|textit|underline)\{.*?\}', _replace_latex_command_with_placeholder, processed_text, flags=re.DOTALL)
-
-    # Dictionary of characters to escape
-    escape_map = {
-        '&': r'\&',
-        '%': r'\%',
-        '$': r'\$',
-        '#': r'\#',
-        '_': r'\_',
-        '{': r'\{',
-        '}': r'\}',
-        '~': r'\textasciitilde{}',
-        '^': r'\textasciicircum{}',
-        '\\': r'\textbackslash{}',
-    }
-
-    # Create a regex from the keys of the map
-    escape_regex = re.compile('|'.join(map(re.escape, escape_map.keys())))
-
-    # Perform the replacement
-    fully_escaped_text = escape_regex.sub(lambda mo: escape_map[mo.group(0)], processed_text)
-
-    # --- 4. Restore All Placeholders ---
-    # Restore the protected LaTeX commands first.
-    for i, command in reversed(list(enumerate(latex_command_placeholders))):
-        placeholder = f"LATEXCOMMANDHOLDER{i}"
-        fully_escaped_text = fully_escaped_text.replace(placeholder, command)
-
-    #print(math_placeholders)
-
-    # Restore the protected math content.
-    for i, math_content in reversed(list(enumerate(math_placeholders))):
-        placeholder = f"MATHPLACEHOLDER{i}"
-        fully_escaped_text = fully_escaped_text.replace(placeholder, math_content)
-
-    return fully_escaped_text
-
-
-
-
-def markdown_to_latex2(md: str) -> str:
-    """Convert Markdown-formatted text to LaTeX, with nested * / _ emphasis and math support."""
-
-    #print('######################################################################################')
-    #print('1', md)
-
-    # --- Step 1: Temporarily protect math ($...$, $$...$$) ---
-    math_blocks = {}
-
-    def protect_math(match):
-        key = f"__MATHBLOCK{len(math_blocks)}__"
-        math_blocks[key] = match.group(0)
-        return key
-
-    protected = re.sub(r"\$\$.*?\$\$", protect_math, md, flags=re.DOTALL)
-    protected = re.sub(r"\$[^$]+\$", protect_math, protected)
-
-    tex = protected
-
-    #print('2', tex)
-
-    # --- Step 2: Headings ---
-    # tex = re.sub(r"^###### (.+)$", "\\subsubsubsection{\\1}", tex, flags=re.MULTILINE)
-    # tex = re.sub(r"^##### (.+)$", "\\paragraph{\\1}", tex, flags=re.MULTILINE)
-    # tex = re.sub(r"^#### (.+)$", "\\subsubsection{\\1}", tex, flags=re.MULTILINE)
-    # tex = re.sub(r"^### (.+)$", "\\subsection{\\1}", tex, flags=re.MULTILINE)
-    # tex = re.sub(r"^## (.+)$", "\\section{\\1}", tex, flags=re.MULTILINE)
-    # tex = re.sub(r"^# (.+)$", "\\section*{\\1}", tex, flags=re.MULTILINE)
-
-    # --- Step 3: Emphasis (ordered for nesting) ---
-    # Italics (*...* or _..._)
-    tex = re.sub(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)", "\\textit{\\1}", tex)
-    #tex = re.sub(r"(?<!_)_(?!_)(.+?)(?<!_)_(?!_)", "\\textit{\\1}", tex)
-
-    # Bold (**...** or __...__)
-    #tex = re.sub(r"\*\*(.+?)\*\*", "\textbf{\1}", tex)
-    #tex = re.sub(r"__(.+?)__", "\textbf{\1}", tex)
-
-    # Inline code
-    #tex = re.sub(r"`([^`]+)`", "\texttt{\1}", tex)
-
-    #print('3', tex)
-
-    # Links and images
-    # tex = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)", "\\includegraphics[width=0.6\\linewidth]{\\2}", tex)
-    # tex = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", "\\href{\\2}{\\1}", tex)
-
-    # Blockquotes
-    # tex = re.sub(r"^> (.+)$", "\\begin{quote}\\1\\end{quote}", tex, flags=re.MULTILINE)
-
-    # --- Step 4: Lists ---
-    def convert_list(match):
-        items = match.group(0).strip().splitlines()
-        latex_items = ["\\item " + re.sub(r"^[-*+] ", "", item).strip() for item in items]
-        return "\\begin{itemize}\n" + "\n".join(latex_items) + "\n\\end{itemize}"
-
-    tex = re.sub(r"((?:^[-*+] .+\n?)+)", convert_list, tex, flags=re.MULTILINE)
-
-    def convert_enum(match):
-        items = match.group(0).strip().splitlines()
-        latex_items = ["\\item " + re.sub(r"^\d+\. ", "", item).strip() for item in items]
-        return "\\begin{enumerate}\n" + "\n".join(latex_items) + "\n\\end{enumerate}"
-
-    tex = re.sub(r"((?:^\d+\. .+\n?)+)", convert_enum, tex, flags=re.MULTILINE)
-
-    # --- Step 5: Restore math ---
-    for key, val in math_blocks.items():
-        tex = tex.replace(key, val)
-
-    return tex
-
-
-
-
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <header> tag
+#
 def read_xml(xml_path: Path) -> etree._ElementTree:
     parser = etree.XMLParser(remove_blank_text=True)
     return etree.parse(str(xml_path), parser)
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <header> tag
+#
 def validate_xml(doc: etree._ElementTree, xsd_path: Path) -> None:
     xmlschema_doc = etree.parse(str(xsd_path))
     xmlschema = etree.XMLSchema(xmlschema_doc)
@@ -439,86 +275,55 @@ def validate_xml(doc: etree._ElementTree, xsd_path: Path) -> None:
             messages.append(f"  Line {e.line}, Col {e.column}: {e.message}")
         raise ValueError("\n".join(messages))
 
-# --- LaTeX helpers ---
-
-LATEX_SPECIALS = {
-    "&": r"\&",
-    "%": r"\%",
-    "#": r"\#",
-    "_": r"\_",
-    "{": r"\{",
-    "}": r"\}",
-    "~": r"\textasciitilde{}",
-    "^": r"\textasciicircum{}",
-    "\\": r"\textbackslash{}",
-}
-
-def escape_latex(text: str) -> str:
-    """Escape LaTeX special chars but **leave $ intact** to preserve math already provided in the XML."""
-    if not text:
-        return ""
-    # First, we might want to preserve verbatim $...$ math by splitting on $ pairs
-    # But that's fragile; better: just do not escape '$' at all.
-    # Also normalize Windows newlines
-    text = text.replace("\r\n", "\n")
-    # Replace special characters
-    out = []
-    for ch in text:
-        if ch in LATEX_SPECIALS:
-            out.append(LATEX_SPECIALS[ch])
-        else:
-            out.append(ch)
-    return "".join(out)
-
-def strip_md_italics(text: str) -> str:
-    """If the whole text is wrapped in underscores like _foo_, trim those underscores."""
-    if text is None:
-        return ""
-    stripped = text.strip()
-    if len(stripped) >= 2 and stripped[0] == "_" and stripped[-1] == "_":
-        return stripped[1:-1].strip()
-    return stripped
-
-
-#########################################################################################################################
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
 # Render the <header> tag
 
-def render_header(header_el) -> str:
-    text = "".join(header_el.itertext()).strip()
-    #print('0', text)
-    #return markdown_to_latex(escape_latex(text)) + "\n\n"
-    return "\\textbf{" + markdown_to_latex(text) + "}\n\n"
+def render_header(p_elem) -> str:
 
-#########################################################################################################################
+    text = render_inline(p_elem)
+    return f"\\textbf{{{text}}}\n\n"
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
 # Render the <p> tag
 
 def render_paragraph(p_elem, inline=False) -> str:
+
+    text = render_inline(p_elem)
+    end_par = "\n\n" if inline == False else "\\\\"
+
+    return text + end_par
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render inline elements
+
+def render_inline(p_elem) -> str:
 
     parts = []
 
     # Add text that appears directly inside <p> before first child
     if p_elem.text:
-        #print("before", p_elem.text)
         text = clean_text(p_elem.text)
         parts.append(text)
 
     # Iterate over child elements
     for child in p_elem:
         if child.tag == "b":
-            #print("bold", p_elem.text)
-            parts.append(f"\\textbf{{{child.text}}}")
+            text = render_inline(child)
+            parts.append(f"\\textbf{{{text}}}")
         elif child.tag == "u":
-            parts.append(f"\\underline{{{child.text}}}")
+            text = render_inline(child)
+            parts.append(f"\\underline{{{text}}}")
         elif child.tag == "i":
-            parts.append(f"\\textit{{{child.text}}}")
+            text = render_inline(child)
+            parts.append(f"\\textit{{{text}}}")
         elif child.tag == "q":
-            parts.append(f"“{child.text}”")
+            text = render_inline(child)
+            parts.append(f"“{text}”")
         elif child.tag == "m":
             text = clean_math(child.text)
             parts.append(f"${text}$")
         elif child.tag == "math":
             end_symbol = child.get("end", "").strip()
-            #print('!', end_symbol, type(end_symbol))
             text = clean_math(child.text)
             parts.append(f"\n$${text} {end_symbol}$$\n")
         elif child.tag == "c":
@@ -528,7 +333,9 @@ def render_paragraph(p_elem, inline=False) -> str:
             text = clean_chemistry(child.text)
             parts.append(f"$$\\ce{{{text}}}$$")
         elif child.tag == "ref":
-            parts.append(f"[REF: {child.text}]")
+            end_symbol = child.get("id", "").strip()
+            symbol = add_footnote(id)
+            parts.append(f"$^{{\mathrm{{{symbol}}} }}$")
         else:
             text = clean_text(etree.tostring(child, encoding='unicode'))
             parts.append(text)
@@ -538,29 +345,15 @@ def render_paragraph(p_elem, inline=False) -> str:
             text = clean_text(child.tail)
             parts.append(text)
 
-    # return "".join(parts)
-
-    # for child in p_el:
-    #     print(child, etree.tostring(child).decode('utf-8'))
-
-    # print('teste', list(p_el.itertext()))
-    #text = "".join(p_elem.itertext()).strip()
     text = "".join(parts)
-    #print('0', text)
-    #return markdown_to_latex(escape_latex(text)) + "\n\n"
-    #return markdown_to_latex(text) + "\n\n"
-    end_par = "\n\n" if inline == False else "\\\\"
+    return text
 
-    return text + end_par
-
-def render_inline_paragraph(p_el) -> str:
-    text = "".join(p_el.itertext()).strip()
-    return markdown_to_latex(text)
-
-
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+#  Render the <cite> tag
+#
 def render_cite(p_el) -> str:
     text = "".join(p_el.itertext()).strip()
-    return "\\quoteauthor{" + markdown_to_latex(text) + "}\n\n"
+    return "\\quoteauthor{" + clean_text(text) + "}\n\n"
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
 # Render the <quote> tag
@@ -581,11 +374,11 @@ def render_quote(q_el) -> str:
         for p in inner_ps:
             parts.append(render_paragraph(p))
 
-    author_el = q_el.find("./author")
-    if author_el is not None and (author_el.text or "").strip():
-        author = strip_md_italics(author_el.text or "")
-        #parts.append("\\begin{flushright}\\textit{" + escape_latex(author) + "}\\end{flushright}\n")
-        parts.append("\\quoteauthor{" + escape_latex(author) + "}\n")
+    # author_el = q_el.find("./author")
+    # if author_el is not None and (author_el.text or "").strip():
+    #     author = strip_md_italics(author_el.text or "")
+    #     #parts.append("\\begin{flushright}\\textit{" + escape_latex(author) + "}\\end{flushright}\n")
+    #     parts.append("\\quoteauthor{" + escape_latex(author) + "}\n")
 
     parts.append("\\end{displayquote}\n")
     parts.append("\n")
@@ -600,31 +393,13 @@ def render_verse(q_el) -> str:
 
     for child in q_el:
         if child.tag == "title":
-            text = "\\textbf{" + clean_text("".join(child.itertext()).strip()) + "}"
-            parts.append(markdown_to_latex(text) + "\\\\\n")
+            text = render_inline(child)
+            parts.append("\\textbf{" + text + "}\\\\\n")
         elif child.tag == "p":
-            text = clean_text("".join(child.itertext()).strip())
-            parts.append(markdown_to_latex(text) + "\\\\\n")
+            text = render_inline(child)
+            parts.append(text + "\\\\\n")
         else:
             raise ValueError("Tag not recognized!")
-
-    # header_ps = q_el.find("./title")
-    # if header_ps is not None:
-    #     text = "".join(header_ps.itertext()).strip()
-    #     parts.append(markdown_to_latex(text) + "\\\\\n")
-
-    # inner_ps = q_el.findall("./p")
-    # if inner_ps:
-    #     for p in inner_ps:
-    #         text = "".join(p.itertext()).strip()
-    #         parts.append(markdown_to_latex(text) + "\\\\\n")
-
-
-    # author_el = q_el.find("./author")
-    # if author_el is not None and (author_el.text or "").strip():
-    #     author = strip_md_italics(author_el.text or "")
-    #     #parts.append("\\begin{flushright}\\textit{" + escape_latex(author) + "}\\end{flushright}\n")
-    #     parts.append("\\quoteauthor{" + escape_latex(author) + "}\n")
 
     parts.append("\\end{verseblock}\n")
     parts.append("\n")
@@ -643,6 +418,9 @@ def xml_to_python_boolean(xml_string):
         # You might raise an error, return None, or a default boolean
         raise ValueError(f"Invalid boolean string: {xml_string}")
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <image> tag
+
 def render_image(img_el) -> str:
      # get the <image> tag attributes
     src = img_el.get("src", "").strip()
@@ -651,8 +429,6 @@ def render_image(img_el) -> str:
     wrap = xml_to_python_boolean(img_el.get("wrap", "false").strip())
     width = img_el.get("width", "1.0").strip()
 
-
-    #print(wrap, type(wrap))
     # get the image path
     img_path = global_graphics_dir / src
 
@@ -669,6 +445,9 @@ def render_image(img_el) -> str:
 
     return "".join(parts)
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the <image> tag
+#
 def render_inline_image(img_el) -> str:
     # get the <image> tag attributes
     src = img_el.get("src", "").strip()
@@ -770,7 +549,7 @@ def render_table(table_el) -> str:
 def render_list(ul_el) -> str:
     parts = []
     parts.append("\\begin{itemize}\n")
-    for li in ul_el.findall("./li"):
+    for li in ul_el.findall("./item"):
         #txt = "".join(li.itertext()).strip()
         # parts.append(render_paragraph(p))
         print(li, dir(li))
@@ -810,7 +589,7 @@ def render_assumptions(assumptions_el) -> str:
     return "".join(parts)
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
-# Render the options tag
+# number_to_letter auxiliar function
 
 def number_to_letter(number):
   """
@@ -826,6 +605,9 @@ def number_to_letter(number):
     raise ValueError("Input number must be between 1 and 26.")
   return chr(64 + number)
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# Render the options tag
+#
 def render_options(options_el) -> str:
     # We will render as enumerate with labels (A), (B), ...
     parts = []
@@ -917,7 +699,7 @@ def render_statement_child(el) -> str:
         return render_image(el)
     elif tag == "table":
         return render_table(el)
-    elif tag == "ul":
+    elif tag == "list":
         return render_list(el)
     elif tag == "caption":
         return render_header(el)
@@ -927,7 +709,7 @@ def render_statement_child(el) -> str:
         raise ValueError("Tag not recognized!" + etree.tostring(el).decode('utf-8'))
 
 
-#########################################################################################################################
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
 # Render the <statement> tag
 
 def render_statement(stmt_el) -> str:
@@ -1011,7 +793,7 @@ def create_latex(doc: etree._ElementTree) -> str:
     # Header
     preamble = [DEFAULT_PREAMBLE]
 
-    title_line = f"{markdown_to_latex(name)}"
+    title_line = f"{clean_text(name)}"
     #subtitle = " ".join(filter(None, [markdown_to_latex(phase), markdown_to_latex(day), markdown_to_latex(variation)]))
     title_full = title_line #+ (f" --- {subtitle}" if subtitle else "")
 
@@ -1026,6 +808,10 @@ def create_latex(doc: etree._ElementTree) -> str:
 
     # Inner function to process question_groups tags
     def process_question_group(parent):
+
+        # reset the footnote structure
+        reset_footnotes()
+
         obj_questions = parent.findall("./objective_question")
         min_question=1000
         max_question=0
@@ -1046,7 +832,7 @@ def create_latex(doc: etree._ElementTree) -> str:
             else:
                 raise ValueError("Tag not recognized!")
 
-    # Context blocks can appear as siblings to question_group, handle flexibly
+    # Iterate over the exam child tags
     for child in root:
         if child.tag == "subject":
             for sub_child in child:
@@ -1054,6 +840,9 @@ def create_latex(doc: etree._ElementTree) -> str:
 
         elif child.tag == "question_group":
             process_question_group(child)
+
+        else:
+            raise ValueError("Tag not recognized!")
 
     # Ending
     ending = []

@@ -2,6 +2,7 @@ import argparse
 import glob
 import os
 from lxml import etree
+import sys
 
 
 def load_file_lines(path):
@@ -117,36 +118,40 @@ def validate_xml(schema_file, xml_file, detailed=False):
 
 
 def main():
+    print(sys.argv)
+
     parser = argparse.ArgumentParser(description="Valida XML contra XSD e regras extras")
-    parser.add_argument("xml", help="Arquivo XML ou máscara (ex: *.xml)")
+    parser.add_argument("xml", help="Arquivo XML ou máscara (ex: *.xml)", nargs='+')
     parser.add_argument("--schema", default=r".\xsd\fuvest_xml.xsd",
                         help="Arquivo XSD (default: .\\xsd\\fuvest_xml.xsd)")
     parser.add_argument("--detailed", action="store_true",
                         help="Mostra trecho do XML onde o erro ocorreu")
+
     args = parser.parse_args()
 
     if not os.path.exists(args.schema):
         print(f"[ERRO] Schema não encontrado: {args.schema}")
         return
 
-    files = glob.glob(args.xml)
-    if not files:
-        print(f"[ERRO] Nenhum arquivo encontrado para '{args.xml}'")
-        return
+    for input_address in args.xml:
+        files = glob.glob(input_address)
+        if not files:
+            print(f"[ERRO] Nenhum arquivo encontrado para '{args.xml}'")
+            return
 
-    total_errors = 0
-    for file in files:
-        errors = validate_xml(args.schema, file, detailed=args.detailed)
-        if errors:
-            print(f"\n[ERROS] {file}:")
-            for err in errors:
-                print(f"  Linha {err['line']}, Coluna {err['column']}: {err['message']}")
-                if args.detailed and "context" in err:
-                    print(err["context"])
-                    print("-" * 60)
-            total_errors += len(errors)
-        else:
-            print(f"[OK] {file} válido ✅")
+        total_errors = 0
+        for file in files:
+            errors = validate_xml(args.schema, file, detailed=args.detailed)
+            if errors:
+                print(f"\n[ERROS] {file}:")
+                for err in errors:
+                    print(f"  Linha {err['line']}, Coluna {err['column']}: {err['message']}")
+                    if args.detailed and "context" in err:
+                        print(err["context"])
+                        print("-" * 60)
+                total_errors += len(errors)
+            else:
+                print(f"[OK] {file} válido ✅")
 
     if total_errors > 0:
         print(f"\nTotal de erros encontrados: {total_errors}")

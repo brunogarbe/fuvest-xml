@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <exam name="FUVEST" year="2022" phase="1" day="1" variation="V" date="2021-01-10" lang="pt">
 	<question_group>
-		<context>
-			<p>A deficiência na enzima G6PD é uma condição recessiva ligada ao cromossomo X, que pode ser diagnosticada no teste do pezinho expandido. Pessoas com deficiência nesta enzima são suscetíveis à anemia hemolítica ao serem expostas à cloroquina ou primaquina, drogas amplamente prescritas por médicos no tratamento da malária. No Brasil, a prevalência de deficiência em G6PD na população geral varia de acordo com as áreas mostradas no mapa:</p>
-			<image width="0.8" src="fuvest/2022/fase01/q01.png" />
-		</context>
-
 		<objective_question number="01">
 			<classification />
 			<statement>
+				<p>A deficiência na enzima G6PD é uma condição recessiva ligada ao cromossomo X, que pode ser diagnosticada no teste do pezinho expandido. Pessoas com deficiência nesta enzima são suscetíveis à anemia hemolítica ao serem expostas à cloroquina ou primaquina, drogas amplamente prescritas por médicos no tratamento da malária. No Brasil, a prevalência de deficiência em G6PD na população geral varia de acordo com as áreas mostradas no mapa:</p>
+				<image width="0.8" src="fuvest/2022/fase01/q01.png" />
 				<p>Indique a afirmação correta sobre a segurança da prescrição de cloroquina nesse contexto.</p>
 			</statement>
 			<options>
@@ -29,20 +26,19 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>População de três regiões brasileiras: Norte $=18$ milhões; Nordeste $=58$ milhões; Centro-Oeste $=17$ milhões.</p>
+				<p>População de três regiões brasileiras: Norte = 18 milhões; Nordeste = 58 milhões; Centro-Oeste = 17 milhões.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Por mais bem informado que você possa ser, não dá para baixar a guarda. Mas por que as notícias falsas mesmo aquelas mais improváveis parecem tão convincentes para tantas pessoas? Van Bavel, professor de psicologia e ciência neural da Universidade de Nova York, se especializou em entender como as crenças políticas e identidades de grupo influenciam a mente, e descobriu que a identificação com posições políticas pode interferir em como o cérebro processa as informações. Tendemos a rejeitar fatos que ameaçam nosso senso de identidade e sempre buscar informações que confirmem nossas próprias crenças, seja por meio de memórias seletivas, leituras de fontes que estão do nosso lado ou mesmo interpretando os fatos de determinada maneira. Isso tudo está relacionado a não querermos ter nossas ideias, gostos, identidade questionados, e por isso temos dificuldade em aceitar o que contradiz aquilo em que acreditamos.</p>
-			<p>Ana Prado. "A ciência explica por que caímos en fake news". Superinteressante. 15/06/2018. Adaptado.</p>
-		</context>
-
 		<objective_question number="02">
 			<classification />
 			<statement>
+				<quote>
+					<p>Por mais bem informado que você possa ser, não dá para baixar a guarda. Mas por que as notícias falsas mesmo aquelas mais improváveis parecem tão convincentes para tantas pessoas? Van Bavel, professor de psicologia e ciência neural da Universidade de Nova York, se especializou em entender como as crenças políticas e identidades de grupo influenciam a mente, e descobriu que a identificação com posições políticas pode interferir em como o cérebro processa as informações. Tendemos a rejeitar fatos que ameaçam nosso senso de identidade e sempre buscar informações que confirmem nossas próprias crenças, seja por meio de memórias seletivas, leituras de fontes que estão do nosso lado ou mesmo interpretando os fatos de determinada maneira. Isso tudo está relacionado a não querermos ter nossas ideias, gostos, identidade questionados, e por isso temos dificuldade em aceitar o que contradiz aquilo em que acreditamos.</p>
+				</quote>
+				<cite>Ana Prado. "A ciência explica por que caímos en fake news". Superinteressante. 15/06/2018. Adaptado.</cite>
 				<p>De acordo com o texto,</p>
 			</statement>
 			<options>
@@ -66,13 +62,10 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Nas histórias em quadrinhos, o Pantera Negra ganha habilidades físicas e mentais sobre-humanas ao ingerir ou aplicar sobre seu corpo uma solução da erva em formato de coração, cujos efeitos perduram durante a vida do herói, mas não são transmitidos aos descendentes. Essa planta cresce em Wakanda, região da África equatorial oriental, onde um meteorito contendo um metal chamado Vibranium caiu há 10 mil anos e provocou mutações na planta.</p>
-		</context>
-
 		<objective_question number="03">
 			<classification />
 			<statement>
+				<p>Nas histórias em quadrinhos, o Pantera Negra ganha habilidades físicas e mentais sobre-humanas ao ingerir ou aplicar sobre seu corpo uma solução da erva em formato de coração, cujos efeitos perduram durante a vida do herói, mas não são transmitidos aos descendentes. Essa planta cresce em Wakanda, região da África equatorial oriental, onde um meteorito contendo um metal chamado Vibranium caiu há 10 mil anos e provocou mutações na planta.</p>
 				<p>Uma explicação coerente com o conhecimento científico para o que ocorreu nessa situação ficcional é que a erva</p>
 			</statement>
 			<options>
@@ -96,13 +89,10 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<image width="0.8" src="fuvest/2022/fase01/q04.png" />
-		</context>
-
 		<objective_question number="04">
 			<classification />
 			<statement>
+				<image width="0.8" src="fuvest/2022/fase01/q04.png" />
 				<p>Considerando a ironia da tirinha, é possível inferir que</p>
 			</statement>
 			<options>
@@ -126,45 +116,39 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em $(nm/s)^2$ na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q05.png" />
-		</context>
-
 		<objective_question number="05">
 			<classification />
 			<statement>
+				<p>O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em $(nm/s)^2$ na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q05.png" />
 				<p>Sobre o estudo descrito, o que é possível inferir a partir dos dados apresentados?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>Em nenhum sábado, a energia sísmica média registrada superou 380 $(nm/s)^2$.</p>
+					<p>Em nenhum sábado, a energia sísmica média registrada superou 380~(nm/s)².</p>
 				</option>
 				<option label="B" is_correct="false">
 					<p>Em todos os dias úteis da semana, pelo menos 20% das pessoas permaneceram o tempo todo em casa.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Em alguns dos dias de domingo ou feriado, a energia sísmica média foi maior do que 600 $(nm/s)^2$.</p>
+					<p>Em alguns dos dias de domingo ou feriado, a energia sísmica média foi maior do que 600~(nm/s)².</p>
 				</option>
 				<option label="D" is_correct="false">
 					<p>Em dias úteis da semana, a energia sísmica média foi maior ou igual do que em sábados, domingos e feriados, para o mesmo número de pessoas que saiu de casa em um dia.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Aos sábados, uma medição de energia sísmica média de 190 $(nm/s)^2$ indica que mais de 60% das pessoas saíram de casa nesse dia.</p>
+					<p>Aos sábados, uma medição de energia sísmica média de 190~(nm/s)² indica que mais de 60% das pessoas saíram de casa nesse dia.</p>
 				</option>
 			</options>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Os mapas mostram uma parte do município de São Paulo. O mapa I refere-se à população vacinada contra Sars-Cov-2; o mapa II refere-se à taxa de mortalidade por COVID-19; e o mapa III refere-se ao Índice de Desenvolvimento Humano. Tons mais claros indicam valores menores e tons mais escuros, valores maiores.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q06.png" />
-		</context>
-
 		<objective_question number="06">
 			<classification />
 			<statement>
+				<p>Os mapas mostram uma parte do município de São Paulo. O mapa I refere-se à população vacinada contra Sars-Cov-2; o mapa II refere-se à taxa de mortalidade por COVID-19; e o mapa III refere-se ao Índice de Desenvolvimento Humano. Tons mais claros indicam valores menores e tons mais escuros, valores maiores.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q06.png" />
 				<p>A partir desses dados, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -188,44 +172,43 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Um aumento no consumo de água e produtos agrícolas por parte da população brasileira geralmente vem atrelado a um aumento na pressão exercida sobre o meio ambiente.</p>
-		</context>
-
 		<objective_question number="07">
 			<classification />
 			<statement>
+				<p>Um aumento no consumo de água e produtos agrícolas por parte da população brasileira geralmente vem atrelado a um aumento na pressão exercida sobre o meio ambiente.</p>
 				<p>Selecione a alternativa que apresenta duas soluções sustentáveis, de amplo alcance nacional e economicamente viáveis, para diminuir a expansão dos cultivos sobre a vegetação nativa e para garantir recursos hídricos de qualidade para as gerações futuras.</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>I - Aumento da exportação de produtos agropecuários.II - Criação em larga escala de represas de pequeno porte.</p>
+					<p>I - Aumento da exportação de produtos agropecuários.</p>
+					<p>II - Criação em larga escala de represas de pequeno porte.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>I - Aumento progressivo da produtividade dos cultivos já existentes.II - Programa amplo de preservação de matas ciliares.</p>
+					<p>I - Aumento progressivo da produtividade dos cultivos já existentes.</p>
+					<p>II - Programa amplo de preservação de matas ciliares.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>I - Diminuição do comércio interno de produtos agrícolas.II - Aumento da utilização dos aquíferos para abastecimento dos cultivos.</p>
+					<p>I - Diminuição do comércio interno de produtos agrícolas.</p>
+					<p>II - Aumento da utilização dos aquíferos para abastecimento dos cultivos.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>I - Aumento da exportação de produtos agropecuários.II - Programa amplo de preservação de matas ciliares.</p>
+					<p>I - Aumento da exportação de produtos agropecuários.</p>
+					<p>II - Programa amplo de preservação de matas ciliares.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>I - Diminuição do comércio interno de produtos agrícolas.II - Criação em larga escala de represas de pequeno porte.</p>
+					<p>I - Diminuição do comércio interno de produtos agrícolas.</p>
+					<p>II - Criação em larga escala de represas de pequeno porte.</p>
 				</option>
 			</options>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Os gráficos mostram três trajetórias distintas com relação ao número de espécies animais e vegetais, após desmatamento de áreas da floresta Amazônica:</p>
-			<image width="0.8" src="fuvest/2022/fase01/q08.png" />
-		</context>
-
 		<objective_question number="08">
 			<classification />
 			<statement>
+				<p>Os gráficos mostram três trajetórias distintas com relação ao número de espécies animais e vegetais, após desmatamento de áreas da floresta Amazônica:</p>
+				<image width="0.8" src="fuvest/2022/fase01/q08.png" />
 				<p>Após os desmatamentos, os gráficos I, II e III correspondem, respectivamente, a uma área que foi</p>
 			</statement>
 			<options>
@@ -249,14 +232,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O gráfico representa o volume celular de um protozoário ciliado em um gradiente de salinidade:</p>
-			<image width="0.8" src="fuvest/2022/fase01/q09.png" />
-		</context>
-
 		<objective_question number="09">
 			<classification />
 			<statement>
+				<p>O gráfico representa o volume celular de um protozoário ciliado em um gradiente de salinidade:</p>
+				<image width="0.8" src="fuvest/2022/fase01/q09.png" />
 				<p>A partir desses dados, é correto afirmar que o protozoário ciliado é</p>
 			</statement>
 			<options>
@@ -283,14 +263,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O gráfico mostra linhas de tendência de cinco parâmetros da água (eixo y), medidos por pesquisadores, durante os estágios iniciais do processo de eutrofização de uma lagoa, a partir do momento em que começou a haver aporte de esgoto não tratado e antes de haver a estabilização do sistema. Entretanto, os técnicos da companhia de saneamento notaram que nem todas as tendências mostradas no gráfico estão corretas.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q10.png" />
-		</context>
-
 		<objective_question number="10">
 			<classification />
 			<statement>
+				<p>O gráfico mostra linhas de tendência de cinco parâmetros da água (eixo y), medidos por pesquisadores, durante os estágios iniciais do processo de eutrofização de uma lagoa, a partir do momento em que começou a haver aporte de esgoto não tratado e antes de haver a estabilização do sistema. Entretanto, os técnicos da companhia de saneamento notaram que nem todas as tendências mostradas no gráfico estão corretas.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q10.png" />
 				<p>São corretas apenas as linhas de tendência representadas em</p>
 			</statement>
 			<options>
@@ -314,14 +291,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O gráfico representa a proporção de células em diferentes fases do ciclo celular de dois tecidos humanos (1 e 2), bem como o efeito do tratamento do tecido 2 com uma substância que afeta a divisão celular:</p>
-			<image width="0.8" src="fuvest/2022/fase01/q11.png" />
-		</context>
-
 		<objective_question number="11">
 			<classification />
 			<statement>
+				<p>O gráfico representa a proporção de células em diferentes fases do ciclo celular de dois tecidos humanos (1 e 2), bem como o efeito do tratamento do tecido 2 com uma substância que afeta a divisão celular:</p>
+				<image width="0.8" src="fuvest/2022/fase01/q11.png" />
 				<p>Os tecidos 1 e 2 e uma aplicação médica do efeito do tratamento são, respectivamente:</p>
 			</statement>
 			<options>
@@ -345,15 +319,12 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Analise o esquema e as estruturas (X, Y e Z) da planta para completar a frase a seguir.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q12.png" />
-		</context>
-
 		<objective_question number="12">
 			<classification />
 			<statement>
-				<p>Às 14h de um dia ensolarado, em condições hídricas ótimas, a estrutura identificada por __I__ encontra-se __II__, possibilitando a absorção de água do solo e entrada de $CO_2$, que é utilizado pela estrutura representada por __III__ para realização da fotossíntese.</p>
+				<p>Analise o esquema e as estruturas (X, Y e Z) da planta para completar a frase a seguir.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q12.png" />
+				<p>Às 14h de um dia ensolarado, em condições hídricas ótimas, a estrutura identificada por __I__ encontra-se __II__, possibilitando a absorção de água do solo e entrada de <c>CO2</c>, que é utilizado pela estrutura representada por __III__ para realização da fotossíntese.</p>
 				<p>As lacunas I, II e III podem ser preenchidas corretamente por:</p>
 			</statement>
 			<options>
@@ -377,14 +348,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O esquema a seguir representa o aparecimento de bactérias mutantes em uma colônia e o resultado de sua exposição a quatro diferentes condições de cultura:</p>
-			<image width="0.8" src="fuvest/2022/fase01/q13.png" />
-		</context>
-
 		<objective_question number="13">
 			<classification />
 			<statement>
+				<p>O esquema a seguir representa o aparecimento de bactérias mutantes em uma colônia e o resultado de sua exposição a quatro diferentes condições de cultura:</p>
+				<image width="0.8" src="fuvest/2022/fase01/q13.png" />
 				<p>Assinale a alternativa com a relação correta entre as mutações e as condições de cultura.</p>
 			</statement>
 			<options>
@@ -408,14 +376,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O quadrinho a seguir mostra uma paródia entre situações cotidianas e descobertas científicas.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q14.png" />
-		</context>
-
 		<objective_question number="14">
 			<classification />
 			<statement>
+				<p>O quadrinho a seguir mostra uma paródia entre situações cotidianas e descobertas científicas.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q14.png" />
 				<p>Quais feitos científicos de Mendeleev, de Watson e Crick e de Thomson estão relacionados com o quadrinho?</p>
 			</statement>
 			<options>
@@ -439,15 +404,14 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>No texto do filósofo francês Maurice Merleau-Ponty é estabelecida uma conexão entre as relações sociais e a racionalidade dos indivíduos:</p>
-			<p>A sociedade humana não é uma comunidade de espíritos racionais, só se pode compreendê-la assim nos países favorecidos, em que o equilíbrio vital e econômico foi obtido localmente e por certo tempo.</p>
-			<p>Maurice Merleau-Ponty, Fenomenologia da percepção, p.89.</p>
-		</context>
-
 		<objective_question number="15">
 			<classification />
 			<statement>
+				<quote>
+					<p>No texto do filósofo francês Maurice Merleau-Ponty é estabelecida uma conexão entre as relações sociais e a racionalidade dos indivíduos:</p>
+					<p>A sociedade humana não é uma comunidade de espíritos racionais, só se pode compreendê-la assim nos países favorecidos, em que o equilíbrio vital e econômico foi obtido localmente e por certo tempo.</p>
+				</quote>
+				<cite>Maurice Merleau-Ponty, Fenomenologia da percepção, p.89.</cite>
 				<p>Qual sentença, se tomada como verdadeira, reforça a posição exprimida pelo filósofo no trecho?</p>
 			</statement>
 			<options>
@@ -471,19 +435,16 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>A figura sintetiza, de forma simplificada, a variação da pressão sanguínea (mmHg), da velocidade de circulação sanguínea $(cm/s)$ e da área total $(cm^2)$ em relação aos diversos tipos de vasos do sistema sanguíneo humano (artérias, arteríolas, capilares, vênulas e veias):</p>
-			<image width="0.8" src="fuvest/2022/fase01/q16.png" />
-		</context>
-
 		<objective_question number="16">
 			<classification />
 			<statement>
+				<p>A figura sintetiza, de forma simplificada, a variação da pressão sanguínea (mmHg), da velocidade de circulação sanguínea (cm/s) e da área total (cm²) em relação aos diversos tipos de vasos do sistema sanguíneo humano (artérias, arteríolas, capilares, vênulas e veias):</p>
+				<image width="0.8" src="fuvest/2022/fase01/q16.png" />
 				<p>Com base na figura, é correto afirmar que</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>a velocidade aumenta nas vênulas, o que permite às hemoglobinas descarregarem o $O_2$.</p>
+					<p>a velocidade aumenta nas vênulas, o que permite às hemoglobinas descarregarem o <c>O2</c>.</p>
 				</option>
 				<option label="B" is_correct="false">
 					<p>a pressão sanguínea cai nos capilares, vênulas e veias pela presença de válvulas nesses vasos.</p>
@@ -503,10 +464,11 @@
 
 	<question_group>
 		<context>
-			<p>TEXTO PARA AS QUESTÕES 17 E 18</p>
-			<p>No modelo hegemônico, quase todo o treinamento é reservado para o desenvolvimento muscular, sobrando muito pouco tempo para a mobilidade, a flexibilidade, o treino restaurativo, o relaxamento e o treinamento cardiovascular. Na teoria, seria algo em torno de 70% para o fortalecimento, 20% para o cárdio e 10% para a flexibilidade e outros. Na prática, muitos alunos direcionam 100% do tempo para o fortalecimento.</p>
-			<p>Como a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o "coração" de um treinamento consciente e saudável, essa ordem deveria ser revista.</p>
-			<p>Nuno Cobra Jr. "Fitness não é saúde". Uol. 06/05/2021. Adaptado.</p>
+			<quote>
+				<p>No modelo hegemônico, quase todo o treinamento é reservado para o desenvolvimento muscular, sobrando muito pouco tempo para a mobilidade, a flexibilidade, o treino restaurativo, o relaxamento e o treinamento cardiovascular. Na teoria, seria algo em torno de 70% para o fortalecimento, 20% para o cárdio e 10% para a flexibilidade e outros. Na prática, muitos alunos direcionam 100% do tempo para o fortalecimento.</p>
+				<p>Como a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o "coração" de um treinamento consciente e saudável, essa ordem deveria ser revista.</p>
+			</quote>
+			<cite>Nuno Cobra Jr. "Fitness não é saúde". Uol. 06/05/2021. Adaptado.</cite>
 		</context>
 
 		<objective_question number="17">
@@ -516,19 +478,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>Ainda que a prática cardiovascular seja infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, essa ordem deveria ser revista, podendo ser considerada o "coração" de um treinamento consciente e saudável.</p>
+					<p>Ainda que a prática cardiovascular seja infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, essa ordem deveria ser revista, podendo ser considerada o <q>coração</q> de um treinamento consciente e saudável.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>Para evitar que a prática cardiovascular se torne infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o "coração" de um treinamento consciente e saudável, essa ordem deveria ser revista.</p>
+					<p>Para evitar que a prática cardiovascular se torne infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o <q>coração</q> de um treinamento consciente e saudável, essa ordem deveria ser revista.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Quando a prática cardiovascular for infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, essa ordem deveria ser revista, podendo ser considerada o "coração" de um treinamento consciente e saudável.</p>
+					<p>Quando a prática cardiovascular for infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, essa ordem deveria ser revista, podendo ser considerada o <q>coração</q> de um treinamento consciente e saudável.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>Quanto mais a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o "coração" de um treinamento consciente e saudável, essa ordem deveria ser revista.</p>
+					<p>Quanto mais a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o <q>coração</q> de um treinamento consciente e saudável, essa ordem deveria ser revista.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Essa ordem deveria ser revista: a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o "coração" de um treinamento consciente e saudável.</p>
+					<p>Essa ordem deveria ser revista: a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o <q>coração</q> de um treinamento consciente e saudável.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -536,36 +498,36 @@
 		<objective_question number="18">
 			<classification />
 			<statement>
-				<p>Dentre as expressões destacadas, a que exerce a mesma função sintática do termo sublinhado em "o treino restaurativo, o relaxamento e o _treinamento cardiovascular_" é:</p>
+				<p>Dentre as expressões destacadas, a que exerce a mesma função sintática do termo sublinhado em <q>o treino restaurativo, o relaxamento e o <u>treinamento cardiovascular</u>
+					</q> é:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>um atleta de seleção precisa de _treinamento intenso_.</p>
+					<p>um atleta de seleção precisa de <u>treinamento intenso</u>.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>_o amor ao esporte_ é fundamental para o atleta.</p>
+					<p>
+						<u>o amor ao esporte</u> é fundamental para o atleta.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>a população incorpora radicalmente _atitudes saudáveis_.</p>
+					<p>a população incorpora radicalmente <u>atitudes saudáveis</u>.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>muitas pessoas se beneficiam de _alimentos verdes_.</p>
+					<p>muitas pessoas se beneficiam de <u>alimentos verdes</u>.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>_todo tipo de atividade física_ faz bem à saúde mental.</p>
+					<p>
+						<u>todo tipo de atividade física</u> faz bem à saúde mental.</p>
 				</option>
 			</options>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Por narrativas paralelas entende-se um procedimento literário segundo o qual dois ou mais fios narrativos pertencentes a níveis distintos de realidade se desenrolam intercaladamente formando um todo.</p>
-		</context>
-
 		<objective_question number="19">
 			<classification />
 			<statement>
+				<p>Por narrativas paralelas entende-se um procedimento literário segundo o qual dois ou mais fios narrativos pertencentes a níveis distintos de realidade se desenrolam intercaladamente formando um todo.</p>
 				<p>Considerando-se a sua estrutura, as duas narrativas que podem ser identificadas com base nessa definição são:</p>
 			</statement>
 			<options>
@@ -590,26 +552,28 @@
 
 	<question_group>
 		<context>
-			<p>LEIA OS SEGUINTES TEXTOS DE MACHADO DE ASSIS PARA RESPONDER ÀS QUESTÕES DE 20 A 22:</p>
-			<p>I.</p>
-			<p>Suave mari magno*</p>
-			<p>Lembra-me que, em certo dia, Na rua, ao sol de verão, Envenenado morria Um pobre cão.</p>
-			<p>Arfava, espumava e ria, De um riso espúrio e bufão, Ventre e pernas sacudia Na convulsão.</p>
-			<p>Nenhum, nenhum curioso Passava, sem se deter, Silencioso,</p>
-			<p>Junto ao cão que ia morrer, Como se lhe desse gozo Ver padecer.</p>
-			<p>Machado de Assis. Ocidentais.</p>
-			<p>*Expressão latina, retirada de Lucrécio (Da natureza das coisas), a qual aparece no seguinte trecho: Suave, mari magno, turbantibus aequora ventis/ E terra magnum alterius spectare laborem. ("É agradável, enquanto no mar revoltoso os ventos levantam as águas, observar da terra os grandes esforços de um outro.").</p>
-			<p>II.</p>
-			<p>Tão certo é que a paisagem depende do ponto de vista, e que o melhor modo de apreciar o chicote é ter-lhe o cabo na mão.</p>
-			<p>Machado de Assis. Quincas Borba, cap. XVIII.</p>
-			<p>III.</p>
-			<p>Sofia soltou um grito de horror e acordou. Tinha ao pé do leito o marido:</p>
-			<p>- Que foi? perguntou ele.</p>
-			<p>- Ah! respirou Sofia. Gritei, não gritei?</p>
-			<p>(...)</p>
-			<p>- Sonhei que estavam matando você.</p>
-			<p>Palha ficou enternecido. Havê-la feito padecer por ele, ainda que em sonhos, encheu-o de piedade, mas de uma piedade gostosa, um sentimento particular, íntimo, profundo, que o faria desejar outros pesadelos, para que o assassinassem aos olhos dela, e para que ela gritasse angustiada, convulsa, cheia de dor e de pavor.</p>
-			<p>Machado de Assis. Quincas Borba, cap. CLXI.</p>
+			<quote>
+				<p>I.</p>
+				<p>Suave mari magno<ref id="ref1" />
+				</p>
+				<p>Lembra-me que, em certo dia, Na rua, ao sol de verão, Envenenado morria Um pobre cão.</p>
+				<p>Arfava, espumava e ria, De um riso espúrio e bufão, Ventre e pernas sacudia Na convulsão.</p>
+				<p>Nenhum, nenhum curioso Passava, sem se deter, Silencioso,</p>
+				<p>Junto ao cão que ia morrer, Como se lhe desse gozo Ver padecer.</p>
+				<p>Machado de Assis. Ocidentais.</p>
+				<p>II.</p>
+				<p>Tão certo é que a paisagem depende do ponto de vista, e que o melhor modo de apreciar o chicote é ter-lhe o cabo na mão.</p>
+				<p>Machado de Assis. Quincas Borba, cap. XVIII.</p>
+				<p>III.</p>
+				<p>Sofia soltou um grito de horror e acordou. Tinha ao pé do leito o marido:</p>
+				<p>- Que foi? perguntou ele.</p>
+				<p>- Ah! respirou Sofia. Gritei, não gritei?</p>
+				<p>(...)</p>
+				<p>- Sonhei que estavam matando você.</p>
+				<p>Palha ficou enternecido. Havê-la feito padecer por ele, ainda que em sonhos, encheu-o de piedade, mas de uma piedade gostosa, um sentimento particular, íntimo, profundo, que o faria desejar outros pesadelos, para que o assassinassem aos olhos dela, e para que ela gritasse angustiada, convulsa, cheia de dor e de pavor.</p>
+			</quote>
+			<cite>Machado de Assis. Quincas Borba, cap. CLXI.</cite>
+			<footnote id="ref1">Expressão latina, retirada de Lucrécio (Da natureza das coisas), a qual aparece no seguinte trecho: Suave, mari magno, turbantibus aequora ventis/ E terra magnum alterius spectare laborem. ("É agradável, enquanto no mar revoltoso os ventos levantam as águas, observar da terra os grandes esforços de um outro.").</footnote>
 		</context>
 
 		<objective_question number="20">
@@ -686,22 +650,21 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Largo em sentir, em respirar sucinto,Peno, e calo, tão fino, e tão atento,Que fazendo disfarce do tormentoMostro que o não padeço, e sei que o sinto.</p>
-			<p>O mal, que fora encubro, ou que desminto,Dentro no coração é que o sustento: Com que, para penar é sentimento, Para não se entender, é labirinto.</p>
-			<p>Ninguém sufoca a voz nos seus retiros;Da tempestade é o estrondo efeito: Lá tem ecos a terra, o mar suspiros.</p>
-			<p>Mas oh do meu segredo alto conceito!Pois não me chegam a vir à boca os tiros Dos combates que vão dentro no peito.</p>
-			<p>Gregório de Matos e Guerra</p>
-		</context>
-
 		<objective_question number="23">
 			<classification />
 			<statement>
+				<quote>
+					<p>Largo em sentir, em respirar sucinto,Peno, e calo, tão fino, e tão atento,Que fazendo disfarce do tormentoMostro que o não padeço, e sei que o sinto.</p>
+					<p>O mal, que fora encubro, ou que desminto,Dentro no coração é que o sustento: Com que, para penar é sentimento, Para não se entender, é labirinto.</p>
+					<p>Ninguém sufoca a voz nos seus retiros;Da tempestade é o estrondo efeito: Lá tem ecos a terra, o mar suspiros.</p>
+					<p>Mas oh do meu segredo alto conceito!Pois não me chegam a vir à boca os tiros Dos combates que vão dentro no peito.</p>
+				</quote>
+				<cite>Gregório de Matos e Guerra</cite>
 				<p>No soneto, o eu lírico:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>expressa um conflito que confirma a imagem pública do poeta, conhecido pelo epíteto de "o Boca do Inferno".</p>
+					<p>expressa um conflito que confirma a imagem pública do poeta, conhecido pelo epíteto de <q>o Boca do Inferno</q>.</p>
 				</option>
 				<option label="B" is_correct="false">
 					<p>opta por sufocar a própria voz como estratégia apaziguadora de suas perturbações de foro íntimo.</p>
@@ -720,18 +683,17 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Nun Álvares Pereira</p>
-			<p>Que auréola te cerca?É a espada que, volteando, Faz que o ar alto perca Seu azul negro e brando.</p>
-			<p>Mas que espada é que, erguida, Faz esse halo no céu?É Excalibur, a ungida, Que o Rei Artur te deu.</p>
-			<p>'Sperança consumada, S. Portugal em ser, Ergue a luz da tua espada Para a estrada se ver!</p>
-			<p>Fernando Pessoa. In: "A Coroa", Parte I, Mensagem.</p>
-			<p>A primeira parte de Mensagem, organizada como um correlativo poético do Brasão das Armas de Portugal, perfila uma série de figuras míticas e históricas que teriam sido responsáveis pela formação nacional portuguesa.</p>
-		</context>
-
 		<objective_question number="24">
 			<classification />
 			<statement>
+				<quote>
+					<p>Nun Álvares Pereira</p>
+					<p>Que auréola te cerca?É a espada que, volteando, Faz que o ar alto perca Seu azul negro e brando.</p>
+					<p>Mas que espada é que, erguida, Faz esse halo no céu?É Excalibur, a ungida, Que o Rei Artur te deu.</p>
+					<p>'Sperança consumada, S. Portugal em ser, Ergue a luz da tua espada Para a estrada se ver!</p>
+					<p>Fernando Pessoa. In: <q>A Coroa</q>, Parte I, Mensagem.</p>
+					<p>A primeira parte de Mensagem, organizada como um correlativo poético do Brasão das Armas de Portugal, perfila uma série de figuras míticas e históricas que teriam sido responsáveis pela formação nacional portuguesa.</p>
+				</quote>
 				<p>A seleção de Nun Álvares Pereira para ocupar o lugar da Coroa</p>
 			</statement>
 			<options>
@@ -756,15 +718,16 @@
 
 	<question_group>
 		<context>
-			<p>TEXTO PARA AS QUESTÕES 25 E 26</p>
-			<p>A taxação de livros tem um efeito cascata que acaba custando caro não apenas ao leitor, como também ao mercado editorial que há anos não anda bem das pernas - e, em última instância, ao desenvolvimento econômico do país. A gente explica. Taxar um produto significa, quase sempre, um aumento no valor do produto final. Isso porque ao menos uma parte desse imposto será repassada ao consumidor, especialmente se considerarmos que as editoras e livrarias enfrentam há anos uma crise que agora está intensificada pela pandemia e não poderiam retirar o valor desse imposto de seu já apertado lucro. Livros mais caros também resultam em queda de vendas, que, por sua vez, enfraquece ainda mais editoras e as impede de investir em novas publicações - especialmente aquelas de menor apelo comercial, mas igualmente importantes para a pluralidade de ideias. Já deu para perceber a confusão, não é? Mas, além disso, qual seria o custo de uma sociedade com menos leitores e menos livros?</p>
-			<p>Taís Ilhéu. "Por que taxar os livros pode gerar retrocesso social e econômico no país". Guia do Estudante. Setembro/2020. Adaptado.</p>
+			<quote>
+				<p>A taxação de livros tem um efeito cascata que acaba custando caro não apenas ao leitor, como também ao mercado editorial que há anos não anda bem das pernas - e, em última instância, ao desenvolvimento econômico do país. A gente explica. Taxar um produto significa, quase sempre, um aumento no valor do produto final. Isso porque ao menos uma parte desse imposto será repassada ao consumidor, especialmente se considerarmos que as editoras e livrarias enfrentam há anos uma crise que agora está intensificada pela pandemia e não poderiam retirar o valor desse imposto de seu já apertado lucro. Livros mais caros também resultam em queda de vendas, que, por sua vez, enfraquece ainda mais editoras e as impede de investir em novas publicações - especialmente aquelas de menor apelo comercial, mas igualmente importantes para a pluralidade de ideias. Já deu para perceber a confusão, não é? Mas, além disso, qual seria o custo de uma sociedade com menos leitores e menos livros?</p>
+			</quote>
+			<cite>Taís Ilhéu. "Por que taxar os livros pode gerar retrocesso social e econômico no país". Guia do Estudante. Setembro/2020. Adaptado.</cite>
 		</context>
 
 		<objective_question number="25">
 			<classification />
 			<statement>
-				<p>De acordo com o texto, os eventos sequenciais aos quais alude a expressão "efeito cascata" são:</p>
+				<p>De acordo com o texto, os eventos sequenciais aos quais alude a expressão <q>efeito cascata</q> são:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -789,7 +752,7 @@
 			<classification />
 			<statement>
 				<p>No texto, OS pronomes em negrito referem-se, respectivamente, a:</p>
-				<p>(Nota: Os pronomes não estão em negrito no documento original. A questão refere-se a pronomes como "que" em "mercado editorial que", "seu" em "seu já apertado lucro", "que" em "crise que agora está intensificada", e "aquelas" em "especialmente aquelas de menor apelo")</p>
+				<p>(Nota: Os pronomes não estão em negrito no documento original. A questão refere-se a pronomes como <q>que</q> em <q>mercado editorial que</q>, <q>seu</q> em <q>seu já apertado lucro</q>, <q>que</q> em <q>crise que agora está intensificada</q>, e <q>aquelas</q> em <q>especialmente aquelas de menor apelo</q>)</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -812,14 +775,13 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Chega um momento em que a tensão eu/mundo se exprime mediante uma perspectiva crítica, imanente à escrita, o que torna o romance não mais uma variante literária da rotina social, mas o seu avesso; logo, o oposto do discurso ideológico do homem médio. O romancista "imitaria" a vida, sim, mas qual vida? Aquela cujo sentido dramático escapa a homens e mulheres entorpecidos ou automatizados por seus hábitos cotidianos. A vida como objeto de busca e construção, e não a vida como encadeamento de tempos vazios e inertes. Caso essa pobre vida-morte deva ser tematizada, ela aparecerá como tal, degradada, sem a aura positiva com que as palavras "realismo" e "realidade" são usadas nos discursos que fazem a apologia conformista da "vida como ela é". A escrita da resistência, a narrativa atravessada pela tensão crítica, mostra, sem retórica nem alarde ideológico, que essa "vida como ela é" é, quase sempre, o ramerrão de um mecanismo alienante, precisamente o contrário da vida plena e digna de ser vivida. É nesse sentido que se pode dizer que a narrativa descobre a vida verdadeira, e que esta abraça e transcende a vida real. A literatura, com ser ficção, resiste à mentira. É nesse horizonte que o espaço da literatura, considerado em geral como lugar da fantasia, pode ser o lugar da verdade mais exigente.</p>
-			<p>Alfredo Bosi. "Narrativa e resistência". Adaptado.</p>
-		</context>
-
 		<objective_question number="27">
 			<classification />
 			<statement>
+				<quote>
+					<p>Chega um momento em que a tensão eu/mundo se exprime mediante uma perspectiva crítica, imanente à escrita, o que torna o romance não mais uma variante literária da rotina social, mas o seu avesso; logo, o oposto do discurso ideológico do homem médio. O romancista <q>imitaria</q> a vida, sim, mas qual vida? Aquela cujo sentido dramático escapa a homens e mulheres entorpecidos ou automatizados por seus hábitos cotidianos. A vida como objeto de busca e construção, e não a vida como encadeamento de tempos vazios e inertes. Caso essa pobre vida-morte deva ser tematizada, ela aparecerá como tal, degradada, sem a aura positiva com que as palavras <q>realismo</q> e <q>realidade</q> são usadas nos discursos que fazem a apologia conformista da <q>vida como ela é</q>. A escrita da resistência, a narrativa atravessada pela tensão crítica, mostra, sem retórica nem alarde ideológico, que essa <q>vida como ela é</q> é, quase sempre, o ramerrão de um mecanismo alienante, precisamente o contrário da vida plena e digna de ser vivida. É nesse sentido que se pode dizer que a narrativa descobre a vida verdadeira, e que esta abraça e transcende a vida real. A literatura, com ser ficção, resiste à mentira. É nesse horizonte que o espaço da literatura, considerado em geral como lugar da fantasia, pode ser o lugar da verdade mais exigente.</p>
+				</quote>
+				<cite>Alfredo Bosi. "Narrativa e resistência". Adaptado.</cite>
 				<p>O conceito de resistência, expresso pela tensão do indivíduo perante o mundo, adquire perspectiva crítica na escrita do romance quando o autor</p>
 			</statement>
 			<options>
@@ -844,9 +806,10 @@
 
 	<question_group>
 		<context>
-			<p>TEXTO PARA AS QUESTÕES 28 E 29</p>
-			<p>A escrita faz de tal modo parte de nossa civilização que poderia servir de definição dela própria. A história da humanidade se divide em duas imensas eras: antes e a partir da escrita. Talvez venha o dia de uma terceira era depois da escrita. Vivemos os séculos da civilização escrita. Todas as nossas sociedades baseiam-se no escrito. A lei escrita substitui a lei oral, o contrato escrito substitui a convenção verbal, a religião escrita se seguiu à tradição lendária. E sobretudo não existe história que não se funde sobre textos.</p>
-			<p>Charles Higounet. A história da escrita. Adaptado.</p>
+			<quote>
+				<p>A escrita faz de tal modo parte de nossa civilização que poderia servir de definição dela própria. A história da humanidade se divide em duas imensas eras: antes e a partir da escrita. Talvez venha o dia de uma terceira era depois da escrita. Vivemos os séculos da civilização escrita. Todas as nossas sociedades baseiam-se no escrito. A lei escrita substitui a lei oral, o contrato escrito substitui a convenção verbal, a religião escrita se seguiu à tradição lendária. E sobretudo não existe história que não se funde sobre textos.</p>
+			</quote>
+			<cite>Charles Higounet. A história da escrita. Adaptado.</cite>
 		</context>
 
 		<objective_question number="28">
@@ -876,7 +839,7 @@
 		<objective_question number="29">
 			<classification />
 			<statement>
-				<p>A locução conjuntiva "de tal modo...que" e o advérbio "sobretudo", respectivamente, expressam noção de:</p>
+				<p>A locução conjuntiva <q>de tal modo...que</q> e o advérbio <q>sobretudo</q>, respectivamente, expressam noção de:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -899,14 +862,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Atualmente, no Brasil, coexistem dois sistemas de placas de identificação de automóveis: o padrão Mercosul (o mais recente) e aquele que se iniciou em 1990 (o sistema anterior, usado ainda pela maioria dos carros em circulação). No sistema anterior, utilizavam-se 3 letras (em um alfabeto de 26 letras) seguidas de 4 algarismos (de 0 a 9). No padrão Mercosul adotado no Brasil para automóveis, são usadas 4 letras e 3 algarismos, com 3 letras nas primeiras 3 posições e a quarta letra na quinta posição, podendo haver repetições de letras ou de números. A figura ilustra os dois tipos de placas.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q30.png" />
-		</context>
-
 		<objective_question number="30">
 			<classification />
 			<statement>
+				<p>Atualmente, no Brasil, coexistem dois sistemas de placas de identificação de automóveis: o padrão Mercosul (o mais recente) e aquele que se iniciou em 1990 (o sistema anterior, usado ainda pela maioria dos carros em circulação). No sistema anterior, utilizavam-se 3 letras (em um alfabeto de 26 letras) seguidas de 4 algarismos (de 0 a 9). No padrão Mercosul adotado no Brasil para automóveis, são usadas 4 letras e 3 algarismos, com 3 letras nas primeiras 3 posições e a quarta letra na quinta posição, podendo haver repetições de letras ou de números. A figura ilustra os dois tipos de placas.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q30.png" />
 				<p>Dessa forma, o número de placas possíveis do padrão Mercosul brasileiro de automóveis é maior do que o do sistema anterior em</p>
 			</statement>
 			<options>
@@ -930,14 +890,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O sistema de numeração conhecido como chinês científico (ou em barras) surgiu provavelmente há mais de dois milênios. O sistema é essencialmente posicional, de base 10, com o primeiro algarismo à direita representando a unidade. A primeira linha horizontal de símbolos da figura mostra como se representam os algarismos 1, 2, 3, 4, 5, 6, 7, 8 e 9 quando aparecem em posições ímpares (unidades, centenas etc.), e a segunda linha quando tais algarismos aparecem em posições pares (dezenas, milhares etc.). Nesse sistema, passou-se a usar um círculo para representar o algarismo zero a partir da Dinastia Sung (960-1126).</p>
-			<image width="0.8" src="fuvest/2022/fase01/q31.png" />
-		</context>
-
 		<objective_question number="31">
 			<classification />
 			<statement>
+				<p>O sistema de numeração conhecido como chinês científico (ou em barras) surgiu provavelmente há mais de dois milênios. O sistema é essencialmente posicional, de base 10, com o primeiro algarismo à direita representando a unidade. A primeira linha horizontal de símbolos da figura mostra como se representam os algarismos 1, 2, 3, 4, 5, 6, 7, 8 e 9 quando aparecem em posições ímpares (unidades, centenas etc.), e a segunda linha quando tais algarismos aparecem em posições pares (dezenas, milhares etc.). Nesse sistema, passou-se a usar um círculo para representar o algarismo zero a partir da Dinastia Sung (960-1126).</p>
+				<image width="0.8" src="fuvest/2022/fase01/q31.png" />
 				<p>Assinale a alternativa que representa o número 91625 nesse sistema de numeração.</p>
 			</statement>
 			<options>
@@ -990,7 +947,7 @@
 		<objective_question number="33">
 			<classification />
 			<statement>
-				<p>Uma indústria produz três modelos de cadeiras (indicadas por $M_1, M_2$ e $M_3$), cada um deles em duas opções de cores: preta e vermelha (indicadas por P e V, respectivamente). A tabela mostra o número de cadeiras produzidas semanalmente conforme a cor e o modelo:</p>
+				<p>Uma indústria produz três modelos de cadeiras (indicadas por <m>M_1</m>, <m>M_2</m> e <m>M_3</m>), cada um deles em duas opções de cores: preta e vermelha (indicadas por P e V, respectivamente). A tabela mostra o número de cadeiras produzidas semanalmente conforme a cor e o modelo:</p>
 				<table>
 					<header>
 						<cell>
@@ -1005,7 +962,9 @@
 					</header>
 					<row>
 						<cell>
-							<p>$M_1$</p>
+							<p>
+								<m>M_1</m>
+							</p>
 						</cell>
 						<cell>
 							<p>500</p>
@@ -1016,7 +975,9 @@
 					</row>
 					<row>
 						<cell>
-							<p>$M_2$</p>
+							<p>
+								<m>M_2</m>
+							</p>
 						</cell>
 						<cell>
 							<p>400</p>
@@ -1027,7 +988,9 @@
 					</row>
 					<row>
 						<cell>
-							<p>$M_3$</p>
+							<p>
+								<m>M_3</m>
+							</p>
 						</cell>
 						<cell>
 							<p>250</p>
@@ -1037,7 +1000,7 @@
 						</cell>
 					</row>
 				</table>
-				<p>As porcentagens de cadeiras com defeito são de 2% do modelo $M_1$, 5% do modelo $M_2$ e 8% do modelo $M_3$. As cadeiras que não apresentam defeito são denominadas boas.</p>
+				<p>As porcentagens de cadeiras com defeito são de 2% do modelo <m>M_1</m>, 5% do modelo <m>M_2</m> e 8% do modelo <m>M_3</m>. As cadeiras que não apresentam defeito são denominadas boas.</p>
 				<p>A tabela que indica o número de cadeiras produzidas semanalmente com defeito (D) e boas (B), de acordo com a cor, é:</p>
 			</statement>
 			<options>
@@ -1137,8 +1100,7 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
-				<p>Em poliedros convexos, vale a relação de Euler $F - A + V = 2$, em que F é o número de faces, A é o número de arestas e V é o número de vértices do poliedro.</p>
+				<p>Em poliedros convexos, vale a relação de Euler <m>F - A + V = 2</m>, em que <m>F</m> é o número de faces, <m>A</m> é o número de arestas e <m>V</m> é o número de vértices do poliedro.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -1147,25 +1109,35 @@
 		<objective_question number="37">
 			<classification />
 			<statement>
-				<p>A figura mostra um quadrado e um círculo, ambos com centro no ponto O. O quadrado tem lado medindo 1 unidade de medida (u.m.) e o círculo tem raio igual a 2 u.m. O ponto A está sobre o contorno do quadrado, o ponto B está sobre o contorno do círculo, e o segmento AB tem tamanho 2 u.m.</p>
+				<p>A figura mostra um quadrado e um círculo, ambos com centro no ponto O. O quadrado tem lado medindo 1 unidade de medida (u.m.) e o círculo tem raio igual a 2 u.m. O ponto <m>A</m> está sobre o contorno do quadrado, o ponto <m>B</m> está sobre o contorno do círculo, e o segmento <m>AB</m> tem tamanho 2 u.m.</p>
 				<image width="0.8" src="fuvest/2022/fase01/q37.png" />
-				<p>Quando o ângulo $\theta=A\hat{O}B$ for máximo, seu cosseno será:</p>
+				<p>Quando o ângulo <m>\theta=A\hat{O}B</m> for máximo, seu cosseno será:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$\frac{1}{8}$</p>
+					<p>
+						<m>\frac{1}{8}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$\frac{1}{4}$</p>
+					<p>
+						<m>\frac{1}{4}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$\frac{3}{8}$</p>
+					<p>
+						<m>\frac{3}{8}</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$\frac{\sqrt{2}}{2}$</p>
+					<p>
+						<m>\frac{\sqrt{2}}{2}</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$\frac{\sqrt{3}}{2}$</p>
+					<p>
+						<m>\frac{\sqrt{3}}{2}</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1175,7 +1147,7 @@
 		<objective_question number="38">
 			<classification />
 			<statement>
-				<p>Suponha que o polinômio $p(x)=x^3+mx-2$, em que m é um número real, tenha uma raiz real dupla a e uma raiz real simples b. O valor da soma de m com a é:</p>
+				<p>Suponha que o polinômio <m>p(x)=x^3+mx-2</m>, em que <m>m</m> é um número real, tenha uma raiz real dupla a e uma raiz real simples <m>b</m>. O valor da soma de <m>m</m> com <m>a</m> é:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1207,19 +1179,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$20\pi + 30(3+\sqrt{2})$</p>
+					<p>
+						<m>20\pi + 30(3+\sqrt{2})</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$20\pi + 30(4+\sqrt{2})$</p>
+					<p>
+						<m>20\pi + 30(4+\sqrt{2})</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$25\pi + 15(4+\sqrt{2})$</p>
+					<p>
+						<m>25\pi + 15(4+\sqrt{2})</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$25\pi + 30(4+\sqrt{2})$</p>
+					<p>
+						<m>25\pi + 30(4+\sqrt{2})</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$25\pi + 30(4+2\sqrt{2})$</p>
+					<p>
+						<m>25\pi + 30(4+2\sqrt{2})</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1257,9 +1239,9 @@
 		<objective_question number="41">
 			<classification />
 			<statement>
-				<p>A quantidade de bactérias em um líquido é diretamente proporcional à medida da turbidez desse líquido. O gráfico mostra, em escala logarítmica, o crescimento da turbidez x de um líquido ao longo do tempo t (medido em minutos), isto é, mostra $log_{10}x$ em função de t. Os dados foram coletados de 30 em 30 minutos, e uma curva de interpolação foi obtida para inferir valores intermediários.</p>
+				<p>A quantidade de bactérias em um líquido é diretamente proporcional à medida da turbidez desse líquido. O gráfico mostra, em escala logarítmica, o crescimento da turbidez <m>x</m> de um líquido ao longo do tempo <m>t</m> (medido em minutos), isto é, mostra <m>log_{10}x</m> em função de <m>t</m>. Os dados foram coletados de 30 em 30 minutos, e uma curva de interpolação foi obtida para inferir valores intermediários.</p>
 				<image width="0.8" src="fuvest/2022/fase01/q41.png" />
-				<p>Com base no gráfico, em quantas vezes a população de bactérias aumentou, do instante $t_0$ para o instante $t_1$?</p>
+				<p>Com base no gráfico, em quantas vezes a população de bactérias aumentou, do instante <m>t_0</m> para o instante <m>t_1</m>?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1283,21 +1265,23 @@
 
 	<question_group>
 		<context>
-			<p>TEXTO PARA AS QUESTÕES DE 42 A 44</p>
 			<image width="0.8" src="fuvest/2022/fase01/q42-44.png" />
-			<p>Fatbergs are a growing scourge infesting cities around the world— some are more than 800 feet long and weigh more than four humpback whales. These gross globs, which can cause sewer systems to block up and even overflow, have been plaguing the U.S., Great Britain and Australia for the past decade, forcing governments and utilities companies to send workers down into the sewers armed with water hoses, vacuums and scrapers with the unenviable task of prying them loose.</p>
-			<p>"It is hard not to think of [fatbergs] as a tangible symbol of the way we live now, the ultimate product of our disposable, out of sight, out of mind culture," wrote journalist Tim Adams in The Guardian.</p>
-			<p>At their core, fatbergs are the accumulation of oil and grease that's been poured down the drain, congealing around flushed nonbiological waste like tampons, condoms and baby wipes. When fat sticks to the side of sewage pipes, the wipes and other detritus get stuck, accumulating layer upon layer of gunk in a sort of slimy snowball effect. Fatbergs also collect other kinds of debris—London fatbergs have been cracked open to reveal pens, false teeth and even watches.</p>
-			<p>Restaurants are a big contributor to fatbergs: Thames Water, the London utilities company, found nine out of 10 fast-food eateries lacked adequate grease traps to stop fat from entering the sewers. Homeowners also contribute to the problem by pouring grease and fat down the sink.</p>
-			<p>Even though its component materials are soft, fatbergs themselves can be tough as rocks. Researchers have found a host of dangerous bacteria in fatbergs, including listeria and e.coli. Fatbergs are notorious for their fetid smell, which can make even the hardiest sewer workers gag, and chipping away at one can release noxious gases.</p>
-			<p>The key to fatberg prevention is remembering the four Ps: Pee, poo, puke and (toilet) paper are the only things that should be flushed.</p>
-			<p>Newsweek, 14 March, 2019. Adaptado.</p>
+			<quote>
+				<p>Fatbergs are a growing scourge infesting cities around the world— some are more than 800 feet long and weigh more than four humpback whales. These gross globs, which can cause sewer systems to block up and even overflow, have been plaguing the U.S., Great Britain and Australia for the past decade, forcing governments and utilities companies to send workers down into the sewers armed with water hoses, vacuums and scrapers with the unenviable task of prying them loose.</p>
+				<p>"It is hard not to think of [fatbergs] as a tangible symbol of the way we live now, the ultimate product of our disposable, out of sight, out of mind culture," wrote journalist Tim Adams in The Guardian.</p>
+				<p>At their core, fatbergs are the accumulation of oil and grease that's been poured down the drain, congealing around flushed nonbiological waste like tampons, condoms and baby wipes. When fat sticks to the side of sewage pipes, the wipes and other detritus get stuck, accumulating layer upon layer of gunk in a sort of slimy snowball effect. Fatbergs also collect other kinds of debris—London fatbergs have been cracked open to reveal pens, false teeth and even watches.</p>
+				<p>Restaurants are a big contributor to fatbergs: Thames Water, the London utilities company, found nine out of 10 fast-food eateries lacked adequate grease traps to stop fat from entering the sewers. Homeowners also contribute to the problem by pouring grease and fat down the sink.</p>
+				<p>Even though its component materials are soft, fatbergs themselves can be tough as rocks. Researchers have found a host of dangerous bacteria in fatbergs, including listeria and e.coli. Fatbergs are notorious for their fetid smell, which can make even the hardiest sewer workers gag, and chipping away at one can release noxious gases.</p>
+				<p>The key to fatberg prevention is remembering the four Ps: Pee, poo, puke and (toilet) paper are the only things that should be flushed.</p>
+			</quote>
+			<cite>Newsweek, 14 March, 2019. Adaptado.</cite>
 		</context>
 
 		<objective_question number="42">
 			<classification />
 			<statement>
-				<p>O texto informa que, na opinião do jornalista Tim Adams, os fatbergs</p>
+				<p>O texto informa que, na opinião do jornalista Tim Adams, os <i>fatbergs</i>
+				</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1321,7 +1305,7 @@
 		<objective_question number="43">
 			<classification />
 			<statement>
-				<p>De acordo com o texto, o processo de bloqueio do fluxo de esgoto, provocado pelos fatbergs, ocorre</p>
+				<p>De acordo com o texto, o processo de bloqueio do fluxo de esgoto, provocado pelos <i>fatbergs</i>, ocorre</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1369,12 +1353,13 @@
 
 	<question_group>
 		<context>
-			<p>TEXTO PARA AS QUESTÕES DE 45 A 47</p>
-			<p>If you take a look at my smartphone, you'll know that I like to order out. But am I helping the small local businesses? You would think that if you own a restaurant you'd be thrilled to have an outsourced service that would take care of your delivery operations while leveraging their marketing might to expand your businesses' brand. However, restaurant owners have complained of lack of quality control once their food goes out the door. They don't like that the delivery people are the face of their product when it gets into the customer's hand. Some of the delivery services have been accused of listing restaurants on their apps without the owners' permission, and oftentimes publish menu items and prices that are incorrect or out of date.</p>
-			<p>But there is another reason why restaurant owners aren't fond of delivery services. It's the costs, which, for some, are becoming unsustainable. Even with the increased revenues from the delivery services, the fees wind up killing a restaurant's margins to the extent that it's at best marginally profitable.</p>
-			<p>Therefore, some restaurants are pushing harder to drive orders from their own websites and offering special deals for customers that use their in-house delivery people. The simple fact is that these delivery apps are here to stay. They are enormously popular and have significantly grown. I believe that restaurant owners that resist these apps are hurting their brands by missing out on potential customers.</p>
-			<p>The good news is that the delivery platforms are not as evil as some would portray them. They have some skin in the game. They are competing against other services. They want their listed restaurants to profit. Maybe instead of fighting, the nation's restaurant industry needs to proactively embrace the delivery service industry and figure out ways to profitably work together.</p>
-			<p>The Guardian. 02 December, 2020. Adaptado.</p>
+			<quote>
+				<p>If you take a look at my smartphone, you'll know that I like to order out. But am I helping the small local businesses? You would think that if you own a restaurant you'd be thrilled to have an outsourced service that would take care of your delivery operations while leveraging their marketing might to expand your businesses' brand. However, restaurant owners have complained of lack of quality control once their food goes out the door. They don't like that the delivery people are the face of their product when it gets into the customer's hand. Some of the delivery services have been accused of listing restaurants on their apps without the owners' permission, and oftentimes publish menu items and prices that are incorrect or out of date.</p>
+				<p>But there is another reason why restaurant owners aren't fond of delivery services. It's the costs, which, for some, are becoming unsustainable. Even with the increased revenues from the delivery services, the fees wind up killing a restaurant's margins to the extent that it's at best marginally profitable.</p>
+				<p>Therefore, some restaurants are pushing harder to drive orders from their own websites and offering special deals for customers that use their in-house delivery people. The simple fact is that these delivery apps are here to stay. They are enormously popular and have significantly grown. I believe that restaurant owners that resist these apps are hurting their brands by missing out on potential customers.</p>
+				<p>The good news is that the delivery platforms are not as evil as some would portray them. They have some skin in the game. They are competing against other services. They want their listed restaurants to profit. Maybe instead of fighting, the nation's restaurant industry needs to proactively embrace the delivery service industry and figure out ways to profitably work together.</p>
+			</quote>
+			<cite>The Guardian. 02 December, 2020. Adaptado.</cite>
 		</context>
 
 		<objective_question number="45">
@@ -1428,7 +1413,7 @@
 		<objective_question number="47">
 			<classification />
 			<statement>
-				<p>Em "I believe that restaurant owners that resist these apps are _hurting_ their brands by missing out on potential customers" (3º parágrafo), a expressão sublinhada pode ser substituída, sem prejuízo de sentido, por:</p>
+				<p>Em <q>I believe that restaurant owners that resist these apps are <u>hurting</u> their brands by missing out on potential customers</q> (3º parágrafo), a expressão sublinhada pode ser substituída, sem prejuízo de sentido, por:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1451,14 +1436,13 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Lying, thinkingLast nightHow to find my soul a homeWhere water is not thirstyAnd bread loaf is not stoneI came up with one thingAnd I don't believe I'm wrongThat nobody,But nobodyCan make it out here alone</p>
-			<p>Alone - Maya Angelou</p>
-		</context>
-
 		<objective_question number="48">
 			<classification />
 			<statement>
+				<quote>
+					<p>Lying, thinkingLast nightHow to find my soul a homeWhere water is not thirstyAnd bread loaf is not stoneI came up with one thingAnd I don't believe I'm wrongThat nobody,But nobodyCan make it out here alone</p>
+				</quote>
+				<cite>Alone - Maya Angelou</cite>
 				<p>Os versos do poema</p>
 			</statement>
 			<options>
@@ -1482,13 +1466,10 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<image width="0.8" src="fuvest/2022/fase01/q49.png" />
-		</context>
-
 		<objective_question number="49">
 			<classification />
 			<statement>
+				<image width="0.8" src="fuvest/2022/fase01/q49.png" />
 				<p>Considerando os elementos visuais e verbais da figura, é possível interpretar a fala da mulher como</p>
 			</statement>
 			<options>
@@ -1515,7 +1496,7 @@
 		<objective_question number="50">
 			<classification />
 			<statement>
-				<p>Um bom café deve ser preparado a uma temperatura pouco acima de $80^{\circ}C$. Para evitar queimaduras na boca, deve ser consumido a uma temperatura mais baixa. Uma xícara contém 60 mL de café a uma temperatura de $80^{\circ}C$. Qual a quantidade de leite gelado (a uma temperatura de $5^{\circ}C$) deve ser misturada ao café para que a temperatura final do café com leite seja de $65^{\circ}C$?</p>
+				<p>Um bom café deve ser preparado a uma temperatura pouco acima de 80°C. Para evitar queimaduras na boca, deve ser consumido a uma temperatura mais baixa. Uma xícara contém 60 mL de café a uma temperatura de $80°C. Qual a quantidade de leite gelado (a uma temperatura de 5°C) deve ser misturada ao café para que a temperatura final do café com leite seja de 65°C?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1535,7 +1516,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Considere que o calor específico e a densidade do café e do leite sejam idênticos.</p>
 			</assumptions>
 		</objective_question>
@@ -1568,17 +1548,13 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Uma bola de bilhar vermelha está inicialmente em repouso a 40 cm de duas das bordas (lateral e superior da figura) de uma mesa de bilhar, como mostra a figura. Uma bola branca de mesma massa e tamanho é lançada em direção à vermelha com velocidade $\vec{v}_{0}$ paralela à borda lateral. As duas bolas colidem e, algum tempo depois, a bola vermelha está prestes a cair na caçapa posicionada na junção das duas bordas. No mesmo instante, a bola branca toca a borda superior da mesa a uma distância d da bola vermelha, conforme figura.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q52.png" />
-			<p>Note e adote:</p>
-			<p>Despreze efeitos dissipativos (como deslizamentos com atrito) e considere a colisão entre as bolas como sendo perfeitamente elástica.</p>
-			<p>Considere que o diâmetro das bolas seja muito menor que as distâncias mencionadas e que não ocorram outras colisões intermediárias.</p>
-		</context>
-
 		<objective_question number="52">
 			<classification />
 			<statement>
+				<p>Uma bola de bilhar vermelha está inicialmente em repouso a 40 cm de duas das bordas (lateral e superior da figura) de uma mesa de bilhar, como mostra a figura. Uma bola branca de mesma massa e tamanho é lançada em direção à vermelha com velocidade $\vec{v}_{0}$ paralela à borda lateral. As duas bolas colidem e, algum tempo depois, a bola vermelha está prestes a cair na caçapa posicionada na junção das duas bordas. No mesmo instante, a bola branca toca a borda superior da mesa a uma distância d da bola vermelha, conforme figura.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q52.png" />
+				<p>Despreze efeitos dissipativos (como deslizamentos com atrito) e considere a colisão entre as bolas como sendo perfeitamente elástica.</p>
+				<p>Considere que o diâmetro das bolas seja muito menor que as distâncias mencionadas e que não ocorram outras colisões intermediárias.</p>
 				<p>O valor de d é aproximadamente:</p>
 			</statement>
 			<options>
@@ -1626,24 +1602,18 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Despreze efeitos de atrito.</p>
-				<p>Aceleração da gravidade: $g=10~m/s^{2}$.</p>
+				<p>Aceleração da gravidade: <m>g=10</m>~m/s².</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Dois fios muito longos transportam, cada um deles, uma corrente elétrica de intensidade I, conforme indicado na figura. Uma partícula de carga +Q, situada a uma distância R de cada um dos fios, move-se com velocidade constante $\vec{V}$ ao longo da direção z.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q54.png" />
-			<p>Note e adote:</p>
-			<p>O campo magnético produzido por um fio muito longo transportando uma corrente de valor I tem módulo aproximadamente dado por $\mu_{0}I/2\pi r$, sendo r a distância do fio até o ponto e $\mu_{0}$ corresponde a constante de permeabilidade magnética.</p>
-		</context>
-
 		<objective_question number="54">
 			<classification />
 			<statement>
+				<p>Dois fios muito longos transportam, cada um deles, uma corrente elétrica de intensidade I, conforme indicado na figura. Uma partícula de carga <m>+Q</m>, situada a uma distância <m>R</m> de cada um dos fios, move-se com velocidade constante <m>\vec{V}</m> ao longo da direção <m>z</m>.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q54.png" />
 				<p>O módulo e sentido da força magnética atuando sobre a carga devido ao campo magnético produzido pelos fios são dados por:</p>
 			</statement>
 			<options>
@@ -1651,30 +1621,34 @@
 					<p>0</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$QV\mu_{0}I/\pi R$ e aponta na direção -y</p>
+					<p>
+						<m>QV\mu_{0}I/\pi R</m> e aponta na direção -y</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$QV\mu_{0}I/\pi R$ e aponta na direção y</p>
+					<p>
+						<m>QV\mu_{0}I/\pi R</m> e aponta na direção y</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$QV\mu_{0}I/\pi R$ e aponta na direção -x</p>
+					<p>
+						<m>QV\mu_{0}I/\pi R</m> e aponta na direção -x</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$QV\mu_{0}I/\pi R$ e aponta na direção x</p>
+					<p>
+						<m>QV\mu_{0}I/\pi R</m> e aponta na direção x</p>
 				</option>
 			</options>
+			<assumptions>
+				<p>O campo magnético produzido por um fio muito longo transportando uma corrente de valor I tem módulo aproximadamente dado por $\mu_{0}I/2\pi r$, sendo r a distância do fio até o ponto e <m>\mu_{0}</m> corresponde a constante de permeabilidade magnética.</p>
+			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Um componente eletrônico tem curva característica mostrada no gráfico a seguir:</p>
-			<image width="0.8" src="fuvest/2022/fase01/q55.png" />
-		</context>
-
 		<objective_question number="55">
 			<classification />
 			<statement>
+				<p>Um componente eletrônico tem curva característica mostrada no gráfico a seguir:</p>
+				<image width="0.8" src="fuvest/2022/fase01/q55.png" />
 				<p>A resistência elétrica do componente na região em que ele se comporta como um resistor ôhmico vale aproximadamente:</p>
 			</statement>
 			<options>
@@ -1698,17 +1672,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O canhão de Newton, esquematizado na figura, é um experimento mental imaginado por Isaac Newton para mostrar que sua lei da gravitação era universal. Disparando o canhão horizontalmente do alto de uma montanha, a bala cairia na Terra em virtude da força da gravidade. Com uma maior velocidade inicial, a bala iria mais longe antes de retornar à Terra. Com a velocidade certa, o projétil daria uma volta completa em torno da Terra, sempre "caindo" sob ação da gravidade, mas nunca alcançando a Terra. Newton concluiu que esse movimento orbital seria da mesma natureza do movimento da Lua em torno da Terra.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q56.png" />
-			<p>Note e adote:</p>
-			<p>Despreze a resistência do ar.</p>
-			<p>Aceleração da gravidade: $g=10~m/s^{2}$.</p>
-		</context>
-
 		<objective_question number="56">
 			<classification />
 			<statement>
+				<p>O canhão de Newton, esquematizado na figura, é um experimento mental imaginado por Isaac Newton para mostrar que sua lei da gravitação era universal. Disparando o canhão horizontalmente do alto de uma montanha, a bala cairia na Terra em virtude da força da gravidade. Com uma maior velocidade inicial, a bala iria mais longe antes de retornar à Terra. Com a velocidade certa, o projétil daria uma volta completa em torno da Terra, sempre "caindo" sob ação da gravidade, mas nunca alcançando a Terra. Newton concluiu que esse movimento orbital seria da mesma natureza do movimento da Lua em torno da Terra.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q56.png" />
 				<p>Qual deveria ser a velocidade inicial de um projétil lançado horizontalmente do alto do Everest (a uma distância aproximada de 6.400 km do centro da Terra) para colocá-lo em órbita em torno da Terra?</p>
 			</statement>
 			<options>
@@ -1728,6 +1696,10 @@
 					<p>8.000 km/s</p>
 				</option>
 			</options>
+			<assumptions>
+				<p>Despreze a resistência do ar.</p>
+				<p>Aceleração da gravidade: <m>g=10</m>~m/s².</p>
+			</assumptions>
 		</objective_question>
 	</question_group>
 
@@ -1755,20 +1727,16 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>O valor obtido, embora da ordem de magnitude correta, não é o mesmo calculado por estimativas mais precisas.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Uma mancha de petróleo com mais de 3000 km de extensão se espalhou por praias e manguezais da costa da região nordeste e parte do sudeste, atingindo áreas marinhas protegidas como o Parque Nacional Marinho de Abrolhos, um dos principais bancos de corais e berço de biodiversidade do Atlântico Sul. Desde que foi detectada pela primeira vez, no dia 30 de agosto de 2019, a mancha de petróleo atingiu cerca de 900 locais em mais de 127 municípios em 11 estados. A origem do petróleo está estimada em algum local a leste do litoral do estado de Pernambuco, distante, aproximadamente, 600 km da linha de costa.</p>
-		</context>
-
 		<objective_question number="58">
 			<classification />
 			<statement>
+				<p>Uma mancha de petróleo com mais de 3000 km de extensão se espalhou por praias e manguezais da costa da região nordeste e parte do sudeste, atingindo áreas marinhas protegidas como o Parque Nacional Marinho de Abrolhos, um dos principais bancos de corais e berço de biodiversidade do Atlântico Sul. Desde que foi detectada pela primeira vez, no dia 30 de agosto de 2019, a mancha de petróleo atingiu cerca de 900 locais em mais de 127 municípios em 11 estados. A origem do petróleo está estimada em algum local a leste do litoral do estado de Pernambuco, distante, aproximadamente, 600 km da linha de costa.</p>
 				<p>Com base em seus conhecimentos sobre o litoral brasileiro e as correntes marítimas superficiais que margeiam a costa, assinale a alternativa correta que aponta o fator que contribuiu para a dispersão do petróleo.</p>
 			</statement>
 			<options>
@@ -1818,15 +1786,12 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Eventos climáticos extremos marcaram este ano com vários exemplos no mundo, atingindo populações inteiras, tanto em ambientes rurais como urbanos. Dentre esses eventos, pode-se destacar as inundações na Alemanha no mês de julho, com regiões acometidas por fortes chuvas.</p>
-			<p>Área urbana de Schuld, Oeste da Alemanha, antes (à esquerda) e depois (à direita) da inundação de julho/2021.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q60.png" />
-		</context>
-
 		<objective_question number="60">
 			<classification />
 			<statement>
+				<p>Eventos climáticos extremos marcaram este ano com vários exemplos no mundo, atingindo populações inteiras, tanto em ambientes rurais como urbanos. Dentre esses eventos, pode-se destacar as inundações na Alemanha no mês de julho, com regiões acometidas por fortes chuvas.</p>
+				<p>Área urbana de Schuld, Oeste da Alemanha, antes (à esquerda) e depois (à direita) da inundação de julho/2021.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q60.png" />
 				<p>Um dos motivos que podem ser relacionados ao evento de inundação da área destacada é:</p>
 			</statement>
 			<options>
@@ -1850,14 +1815,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O mapa mostra a topografia, os aspectos da paisagem e o tipo de cobertura vegetal da superfície numa determinada área, com um observador que, localizado próximo ao leito do rio, vê a paisagem direcionando seu olhar para o quadrante nordeste.</p>
-			<image width="0.8" src="fuvest/2022/fase01/q61.png" />
-		</context>
-
 		<objective_question number="61">
 			<classification />
 			<statement>
+				<p>O mapa mostra a topografia, os aspectos da paisagem e o tipo de cobertura vegetal da superfície numa determinada área, com um observador que, localizado próximo ao leito do rio, vê a paisagem direcionando seu olhar para o quadrante nordeste.</p>
+				<image width="0.8" src="fuvest/2022/fase01/q61.png" />
 				<p>O cenário a ser visto pelo observador, considerando os aspectos evidenciados no mapa, é:</p>
 				<p>(Nota: As alternativas para esta questão são imagens e não foram fornecidas no documento.)</p>
 			</statement>
@@ -1882,14 +1844,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>No dia 23 de março de 2021 o mega navio Ever Given, de 220.000 toneladas e 400 m de comprimento, encalhou no Canal de Suez no Egito em rota para o porto de Rotterdam, Holanda, ficando atravessado e preso pelas extremidades. O navio reflutuou no dia 29 do mesmo mês em razão das condições de vento e maré, além da operação promovida por rebocadores.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q62_1.png" />
-		</context>
-
 		<objective_question number="62">
 			<classification />
 			<statement>
+				<p>No dia 23 de março de 2021 o mega navio Ever Given, de 220.000 toneladas e 400 m de comprimento, encalhou no Canal de Suez no Egito em rota para o porto de Rotterdam, Holanda, ficando atravessado e preso pelas extremidades. O navio reflutuou no dia 29 do mesmo mês em razão das condições de vento e maré, além da operação promovida por rebocadores.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q62_1.png" />
 				<p>Com base nos dados fornecidos e em seus conhecimentos, pode-se atribuir o reflutuamento do Ever Given às seguintes condições:</p>
 			</statement>
 			<options>
@@ -1913,15 +1872,12 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Uma forma de conservação do Cerrado é a prática de queimadas controladas que simulam o ciclo natural do fogo. Observe a imagem que retrata os efeitos visuais de uma queimada controlada em um trecho de Cerrado da Estação Ecológica de Santa Bárbara, no interior do estado de São Paulo.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q63.png" />
-			<p>Nessa área foram conduzidos experimentos com queimadas controladas, e os resultados sugerem que essa prática é benéfica para a flora, cujas plantas rebrotam rapidamente depois da passagem do fogo. Nos grupos vegetais em que as queimadas produziram mais efeitos positivos foi registrado até um discreto aumento de espécies vegetais. Antes das queimadas, os pesquisadores contabilizaram 38 espécies de gramíneas e 68 de outras ervas. Depois, esses números subiram para 44 e 74, respectivamente.</p>
-		</context>
-
 		<objective_question number="63">
 			<classification />
 			<statement>
+				<p>Uma forma de conservação do Cerrado é a prática de queimadas controladas que simulam o ciclo natural do fogo. Observe a imagem que retrata os efeitos visuais de uma queimada controlada em um trecho de Cerrado da Estação Ecológica de Santa Bárbara, no interior do estado de São Paulo.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q63.png" />
+				<p>Nessa área foram conduzidos experimentos com queimadas controladas, e os resultados sugerem que essa prática é benéfica para a flora, cujas plantas rebrotam rapidamente depois da passagem do fogo. Nos grupos vegetais em que as queimadas produziram mais efeitos positivos foi registrado até um discreto aumento de espécies vegetais. Antes das queimadas, os pesquisadores contabilizaram 38 espécies de gramíneas e 68 de outras ervas. Depois, esses números subiram para 44 e 74, respectivamente.</p>
 				<p>No bioma Cerrado, de acordo com a informação do texto, a prática de queimadas controladas</p>
 			</statement>
 			<options>
@@ -1945,14 +1901,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Conforme definição da Organização Internacional do Trabalho (OIT), o trabalho de cuidado envolve dois tipos de atividades: as diretas, como alimentar um bebê ou cuidar de um doente, e as indiretas, como cozinhar ou limpar. O gráfico apresenta a desigualdade de gênero no trabalho de cuidado no mundo, expressa pela diferença entre homens e mulheres quanto ao tempo e à remuneração.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q64.png" />
-		</context>
-
 		<objective_question number="64">
 			<classification />
 			<statement>
+				<p>Conforme definição da Organização Internacional do Trabalho (OIT), o trabalho de cuidado envolve dois tipos de atividades: as diretas, como alimentar um bebê ou cuidar de um doente, e as indiretas, como cozinhar ou limpar. O gráfico apresenta a desigualdade de gênero no trabalho de cuidado no mundo, expressa pela diferença entre homens e mulheres quanto ao tempo e à remuneração.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q64.png" />
 				<p>A partir dos dados apresentados, é correto afirmar que as regiões com maior e menor desigualdade são, respectivamente:</p>
 			</statement>
 			<options>
@@ -1976,17 +1929,18 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Texto 1</p>
-			<p>Minha pele, LuandaAntessala, AruandaTipo T'Challa, WakandaVeneno Black MambaBandoleiro em bandoQué o comando dessas banda?'Sa noite cês vão ver mais sangueDo que Hotel Ruanda</p>
-			<p>Texto 2</p>
-			<p>Não sei onde ela tinha ido à escola, mas ela sabia ler e escrever. Saber escrever era algo perigoso se você tinha um pai exilado no Burundi. Logo começam a suspeitar que está se correspondendo com os tutsis que preparam seu retorno a Ruanda, que você é uma espia dando informações aos que estão desse lado da fronteira e poderia facilitar a volta dos tutsis.</p>
-			<p>Esses textos foram retirados, respectivamente, da música "Pantera Negra", de Emicida, e do livro "A mulher de pés descalços", de Scholastique Mukasonga, e fazem referência à guerra civil em Ruanda.</p>
-		</context>
-
 		<objective_question number="65">
 			<classification />
 			<statement>
+				<quote>
+					<title>Texto 1</title>
+					<p>Minha pele, LuandaAntessala, AruandaTipo T'Challa, WakandaVeneno Black MambaBandoleiro em bandoQué o comando dessas banda?'Sa noite cês vão ver mais sangueDo que Hotel Ruanda</p>
+				</quote>
+				<quote>
+					<title>Texto 2</title>
+					<p>Não sei onde ela tinha ido à escola, mas ela sabia ler e escrever. Saber escrever era algo perigoso se você tinha um pai exilado no Burundi. Logo começam a suspeitar que está se correspondendo com os tutsis que preparam seu retorno a Ruanda, que você é uma espia dando informações aos que estão desse lado da fronteira e poderia facilitar a volta dos tutsis.</p>
+				</quote>
+				<p>Esses textos foram retirados, respectivamente, da música <q>Pantera Negra</q>, de Emicida, e do livro <q>A mulher de pés descalços</q>, de Scholastique Mukasonga, e fazem referência à guerra civil em Ruanda.</p>
 				<p>Sobre esse conflito, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2010,14 +1964,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>A pandemia da COVID-19 acendeu o alerta sobre os impactos que a rápida disseminação de enfermidades produz em um mundo cada vez mais globalizado. Além disso, ressaltou a importância das pesquisas científicas na descoberta, tratamento e controle de doenças tropicais negligenciadas, muitas delas recorrentes em diferentes países do mundo. Os mapas a seguir indicam as taxas de incidência de doenças tropicais negligenciadas (total de casos por milhão de habitantes) e o Produto Interno Bruto (PIB) per capita dos respectivos países.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q66.png" />
-		</context>
-
 		<objective_question number="66">
 			<classification />
 			<statement>
+				<p>A pandemia da COVID-19 acendeu o alerta sobre os impactos que a rápida disseminação de enfermidades produz em um mundo cada vez mais globalizado. Além disso, ressaltou a importância das pesquisas científicas na descoberta, tratamento e controle de doenças tropicais negligenciadas, muitas delas recorrentes em diferentes países do mundo. Os mapas a seguir indicam as taxas de incidência de doenças tropicais negligenciadas (total de casos por milhão de habitantes) e o Produto Interno Bruto (PIB) per capita dos respectivos países.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q66.png" />
 				<p>Em relação à incidência de doenças tropicais negligenciadas, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2041,13 +1992,12 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>A escassez global de semicondutores continua a ter estranhas repercussões, sobretudo do ponto de vista geopolítico. Há um ano as indústrias lutam para se abastecer com chips eletrônicos que equipam aparelhos do dia a dia, de computadores a torradeiras, passando pelas máquinas de lavar e consoles de videogames. O episódio atual, no entanto, surge em um contexto marcado por um questionamento geral a respeito dos benefícios da globalização e do declínio da atividade industrial no Ocidente.</p>
-		</context>
-
 		<objective_question number="67">
 			<classification />
 			<statement>
+				<quote>
+					<p>A escassez global de semicondutores continua a ter estranhas repercussões, sobretudo do ponto de vista geopolítico. Há um ano as indústrias lutam para se abastecer com chips eletrônicos que equipam aparelhos do dia a dia, de computadores a torradeiras, passando pelas máquinas de lavar e consoles de videogames. O episódio atual, no entanto, surge em um contexto marcado por um questionamento geral a respeito dos benefícios da globalização e do declínio da atividade industrial no Ocidente.</p>
+				</quote>
 				<p>O texto refere-se a uma questão geopolítica contemporânea: a disputa pelos semicondutores na indústria mundial. Sobre esse assunto, indique a alternativa correta:</p>
 			</statement>
 			<options>
@@ -2071,14 +2021,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>A produção do vidro tem por base a modificação da estrutura cristalina do quartzo ($SiO_2$) por meio do seu aquecimento e da adição de óxidos alcalinos, dentre eles o $Na_2O$. Esse processo adiciona cátions sódio à estrutura do quartzo, tornando-a amorfa. Alguns vidros, como os utilizados em telas de smartphones, passam ainda por processo de troca iônica para aumentar a resistência a quedas e riscos. Para isso, o vidro é banhado em uma solução salina contendo íons potássio. Dessa forma, o potássio substitui o sódio na estrutura, sem que o volume do vidro se altere.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q68.png" />
-		</context>
-
 		<objective_question number="68">
 			<classification />
 			<statement>
+				<p>A produção do vidro tem por base a modificação da estrutura cristalina do quartzo (<c>SiO2</c>) por meio do seu aquecimento e da adição de óxidos alcalinos, dentre eles o <c>Na2O</c>. Esse processo adiciona cátions sódio à estrutura do quartzo, tornando-a amorfa. Alguns vidros, como os utilizados em telas de smartphones, passam ainda por processo de troca iônica para aumentar a resistência a quedas e riscos. Para isso, o vidro é banhado em uma solução salina contendo íons potássio. Dessa forma, o potássio substitui o sódio na estrutura, sem que o volume do vidro se altere.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q68.png" />
 				<p>Com base nessas informações, é correto afirmar que os íons potássio</p>
 			</statement>
 			<options>
@@ -2102,15 +2049,12 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Uma das formulações para os adesivos "silicones" usados na construção civil é chamada de "silicone acético". Essa nomenclatura é utilizada porque o componente ativo libera ácido acético durante a formação do precursor, espécie que promoverá a polimerização, como representado genericamente a seguir.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q69.png" />
-		</context>
-
 		<objective_question number="69">
 			<classification />
 			<statement>
-				<p>Considerando essas informações, qual dos componentes ativos a seguir faria com que a formulação fosse considerada como "silicone acético"?</p>
+				<p>Uma das formulações para os adesivos <q>silicones</q> usados na construção civil é chamada de <q>silicone acético</q>. Essa nomenclatura é utilizada porque o componente ativo libera ácido acético durante a formação do precursor, espécie que promoverá a polimerização, como representado genericamente a seguir.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q69.png" />
+				<p>Considerando essas informações, qual dos componentes ativos a seguir faria com que a formulação fosse considerada como <q>silicone acético</q>?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2134,8 +2078,7 @@
 
 	<question_group>
 		<context>
-			<p>TEXTO PARA AS QUESTÕES 70 E 71</p>
-			<p>Oxigênio $(O_2)$ e ozônio $(O_3)$ estão em constante processo de consumo e produção na estratosfera, como representado pelas equações químicas a seguir. As reações I e II ilustram etapas da produção de ozônio a partir de oxigênio, e a reação III mostra a restauração de oxigênio a partir de ozônio.</p>
+			<p>Oxigênio (<c>O2</c>) e ozônio (<c>O_3</c>) estão em constante processo de consumo e produção na estratosfera, como representado pelas equações químicas a seguir. As reações I e II ilustram etapas da produção de ozônio a partir de oxigênio, e a reação III mostra a restauração de oxigênio a partir de ozônio.</p>
 			<table>
 				<row>
 					<cell>
@@ -2147,7 +2090,8 @@
 				</row>
 				<row>
 					<cell>
-						<p>I: $O_2 \rightarrow 2 O^{\cdot}$</p>
+						<p>I: <c>O2 \rightarrow 2 O·</c>
+						</p>
 					</cell>
 					<cell>
 						<p>-118</p>
@@ -2155,15 +2099,19 @@
 				</row>
 				<row>
 					<cell>
-						<p>II: $2 O_2 + 2 O^{\cdot} \rightarrow 2 O_3$</p>
+						<p>II: <c>2 O2 + 2 O· \rightarrow 2 O3</c>
+						</p>
 					</cell>
 					<cell>
-						<p>$\Delta H_{II}$</p>
+						<p>
+							<m>\Delta H_{II}</m>
+						</p>
 					</cell>
 				</row>
 				<row>
 					<cell>
-						<p>III: $2 O_3 \rightarrow 3 O_2$</p>
+						<p>III: <c>2 O3 \rightarrow 3 O2</c>
+						</p>
 					</cell>
 					<cell>
 						<p>+21</p>
@@ -2179,19 +2127,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$3 O \rightarrow O_3$</p>
+					<p>
+						<c>3 O \rightarrow O3</c>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$4 O_2 \rightarrow 4 O_3$</p>
+					<p>
+						<c>4 O2 \rightarrow 4 O3</c>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$2 O_3 \rightarrow 3 O_2$</p>
+					<p>
+						<c>2 O3 \rightarrow 3 O2</c>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$3 O_2 \rightarrow 2 O_3$</p>
+					<p>
+						<c>3 O2 \rightarrow 2 O3</c>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$3 O_3 \rightarrow 2 O_2$</p>
+					<p>
+						<c>3 O3 \rightarrow 2 O2</c>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2199,7 +2157,7 @@
 		<objective_question number="71">
 			<classification />
 			<statement>
-				<p>O $\Delta H$, relacionado à reação II, pode ser calculado a partir dos dados fornecidos para as reações I e III. O valor de $\Delta H_{II}$, em kcal/mol de $O_2$ consumido, é igual a:</p>
+				<p>O <m>\Delta H</m>, relacionado à reação II, pode ser calculado a partir dos dados fornecidos para as reações I e III. O valor de <m>\Delta H_{II}</m>, em kcal/mol de <c>O2</c> consumido, é igual a:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2225,42 +2183,44 @@
 		<objective_question number="72">
 			<classification />
 			<statement>
-				<p>Alguns equipamentos de visão noturna têm seu funcionamento baseado no efeito fotoelétrico, uma das primeiras descobertas que contribuíram para o surgimento da mecânica quântica. Nesses equipamentos, fótons de frequência f emitidos por um objeto incidem sobre uma superfície metálica. Elétrons são então liberados da superfície e acelerados por um campo elétrico. Em seguida, o sinal eletrônico é amplificado e produz uma imagem do objeto. Diferentemente do que a física clássica prevê, apenas os elétrons com energia hf acima de uma certa energia mínima $E_0$ são liberados da superfície metálica. Considerando a incidência de fótons com frequência da ordem de $10^{14} Hz$, a ordem de grandeza do valor limite de $E_0$ para que o equipamento funcione deve ser:</p>
+				<p>Alguns equipamentos de visão noturna têm seu funcionamento baseado no efeito fotoelétrico, uma das primeiras descobertas que contribuíram para o surgimento da mecânica quântica. Nesses equipamentos, fótons de frequência f emitidos por um objeto incidem sobre uma superfície metálica. Elétrons são então liberados da superfície e acelerados por um campo elétrico. Em seguida, o sinal eletrônico é amplificado e produz uma imagem do objeto. Diferentemente do que a física clássica prevê, apenas os elétrons com energia hf acima de uma certa energia mínima <m>E_0</m> são liberados da superfície metálica. Considerando a incidência de fótons com frequência da ordem de <m>10^{14}</m>~Hz, a ordem de grandeza do valor limite de <m>E_0</m> para que o equipamento funcione deve ser:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$10^{-50} J$</p>
+					<p>
+						<m>10^{-50}</m>~J</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$10^{-40} J$</p>
+					<p>
+						<m>10^{-40}</m>~J</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$10^{-30} J$</p>
+					<p>
+						<m>10^{-30}</m>~J</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$10^{-20} J$</p>
+					<p>
+						<m>10^{-20}</m>~J</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$10^{-10} J$</p>
+					<p>
+						<m>10^{-10}</m>~J</p>
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
-				<p>Constante de Planck: $h=6,63 \times 10^{-34} J \cdot s$</p>
+				<p>Constante de Planck: <m>h=6,63 \times 10^{-34} J \cdot s</m>
+				</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>As reações de hidrólise de ésteres, quando realizadas em meio aquoso, podem ser catalisadas pela adição de ácido, sendo a reação mais lenta em meios próximos da neutralidade.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q73.png" />
-			<p>Duas reações idênticas para a hidrólise desse éster foram realizadas nas mesmas condições, variando apenas o pH do meio: uma delas foi conduzida em pH=2 e outra em pH=6.</p>
-		</context>
-
 		<objective_question number="73">
 			<classification />
 			<statement>
+				<p>As reações de hidrólise de ésteres, quando realizadas em meio aquoso, podem ser catalisadas pela adição de ácido, sendo a reação mais lenta em meios próximos da neutralidade.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q73.png" />
+				<p>Duas reações idênticas para a hidrólise desse éster foram realizadas nas mesmas condições, variando apenas o pH do meio: uma delas foi conduzida em pH=2 e outra em pH=6.</p>
 				<p>Qual dos seguintes diagramas representa de forma mais adequada a quantidade de ácido graxo formada em função do tempo de reação para as hidrólises em pH=2 e pH=6?</p>
 			</statement>
 			<options>
@@ -2287,43 +2247,48 @@
 		<objective_question number="74">
 			<classification />
 			<statement>
-				<p>Cálculos renais, conhecidos popularmente por "pedras nos rins", consistem principalmente em oxalato de cálcio, $CaC_2O_4$, espécie cuja constante de solubilidade $(K_{ps})$ é de aproximadamente $2 \times 10^{-9}$. Os íons oxalato, presentes em muitos vegetais, reagem com os íons cálcio para formar oxalato de cálcio, que pode gradualmente se acumular nos rins. Supondo que a concentração de íons cálcio no plasma sanguíneo seja de cerca de $5 \times 10^{-3} mol/L$, qual seria a concentração mínima, em mol/L, de íons oxalato para que $CaC_2O_4$ precipitasse?</p>
+				<p>Cálculos renais, conhecidos popularmente por <q>pedras nos rins</q>, consistem principalmente em oxalato de cálcio, <c>CaC2O4</c>, espécie cuja constante de solubilidade (<m>K_{ps}</m>) é de aproximadamente <m>2 \times 10^{-9}</m>. Os íons oxalato, presentes em muitos vegetais, reagem com os íons cálcio para formar oxalato de cálcio, que pode gradualmente se acumular nos rins. Supondo que a concentração de íons cálcio no plasma sanguíneo seja de cerca de <m>5 \times 10^{-3}</m>~mol/L, qual seria a concentração mínima, em mol/L, de íons oxalato para que <m>CaC2O4</m> precipitasse?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$4 \times 10^{-13}$</p>
+					<p>
+						<m>4 \times 10^{-13}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$10 \times 10^{-12}$</p>
+					<p>
+						<m>10 \times 10^{-12}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$4 \times 10^{-7}$</p>
+					<p>
+						<m>4 \times 10^{-7}</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$2,5 \times 10^{-6}$</p>
+					<p>
+						<m>2,5 \times 10^{-6}</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$1 \times 10^{-5}$</p>
+					<p>
+						<m>1 \times 10^{-5}</m>
+					</p>
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Desconsidere a presença de quaisquer outros íons e considere que a concentração no plasma é determinante para a precipitação do oxalato.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Um marcador radioativo ($^{24}Na$) foi injetado em um ponto de um cano de água subterrâneo e, na sequência, com um detector sobre o solo, foi medida a radioatividade ao longo do percurso do cano. A figura a seguir esquematiza o local de injeção do marcador e o perfil da radioatividade detectada ao longo do cano.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q75.png" />
-			<p>Note e adote:</p>
-			<p>Tempo de meia-vida do $^{24}Na = 15$ horas.</p>
-		</context>
-
 		<objective_question number="75">
 			<classification />
 			<statement>
+				<p>Um marcador radioativo (<c>^{24}Na</c>) foi injetado em um ponto de um cano de água subterrâneo e, na sequência, com um detector sobre o solo, foi medida a radioatividade ao longo do percurso do cano. A figura a seguir esquematiza o local de injeção do marcador e o perfil da radioatividade detectada ao longo do cano.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q75.png" />
+				<p>Tempo de meia-vida do <c>^{24}Na = 15</c> horas.</p>
 				<p>Assinale a alternativa que melhor explica o perfil da radioatividade.</p>
 			</statement>
 			<options>
@@ -2347,14 +2312,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O hidróxido de alumínio $(Al(OH)_3)$, ao precipitar em solução aquosa, forma um sólido gelatinoso que pode ser usado como agente floculante no tratamento de água. Essa precipitação pode ocorrer pela adição de um hidróxido solúvel a uma solução aquosa ácida contendo um sal de alumínio solúvel, como o $AlCl_3$. Entretanto, adicionando-se excesso de hidróxido ao meio, há a formação de íons $Al(OH)_4^{-}$, espécie solúvel em água, e o precipitado se solubiliza novamente. Dessa forma, dependendo do pH do meio, uma dentre as espécies $Al(OH)_4^{-}(aq)$, $Al(OH)_3(s)$ e $Al^{3+}(aq)$ estará presente na solução em quantidade maior que as demais, como exemplificado no esquema.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q76.png" />
-		</context>
-
 		<objective_question number="76">
 			<classification />
 			<statement>
+				<p>O hidróxido de alumínio (<c>Al(OH)3</c>), ao precipitar em solução aquosa, forma um sólido gelatinoso que pode ser usado como agente floculante no tratamento de água. Essa precipitação pode ocorrer pela adição de um hidróxido solúvel a uma solução aquosa ácida contendo um sal de alumínio solúvel, como o <c>AlCl3</c>. Entretanto, adicionando-se excesso de hidróxido ao meio, há a formação de íons <c>Al(OH4)-</c>, espécie solúvel em água, e o precipitado se solubiliza novamente. Dessa forma, dependendo do pH do meio, uma dentre as espécies <c>Al(OH)4-(aq)</c>, <c>Al(OH)3(s)</c> e <c>Al3+(aq)</c> estará presente na solução em quantidade maior que as demais, como exemplificado no esquema.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q76.png" />
 				<p>A alternativa que mostra corretamente qual das espécies estará em quantidade maior que as duas outras em cada faixa de pH é:</p>
 			</statement>
 			<options>
@@ -2385,19 +2347,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>$1,4~mg/kg$</p>
+					<p>1,4~mg/kg</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>$1,6~mg/kg$</p>
+					<p>1,6~mg/kg</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>$2,0~mg/kg$</p>
+					<p>2,0~mg/kg</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>$2,2~mg/kg$</p>
+					<p>2,2~mg/kg</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>$2,5~mg/kg$</p>
+					<p>2,5~mg/kg</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2407,17 +2369,17 @@
 		<objective_question number="78">
 			<classification />
 			<statement>
-				<p>O cátion $Ba^{2+}$ pode apresentar toxicidade aos humanos, dependendo de sua concentração e forma química. Por exemplo, $BaSO_4$ é pouco tóxico, sendo usado como contraste radiológico, por ser insolúvel em solução aquosa, enquanto $BaCO_3$ e $Ba(NO_3)_2$ são muito tóxicos, pois liberam $Ba^{2+}$ no organismo. Em um laboratório foram feitos dois testes de solubilidade para identificar o conteúdo de três frascos não rotulados que poderiam ser de $Ba(NO_3)_2$, $BaCO_3$ ou $BaSO_4$. Os resultados dos dois testes de solubilidade são apresentados a seguir.</p>
+				<p>O cátion <c>Ba2+</c> pode apresentar toxicidade aos humanos, dependendo de sua concentração e forma química. Por exemplo, <c>BaSO4</c> é pouco tóxico, sendo usado como contraste radiológico, por ser insolúvel em solução aquosa, enquanto <c>BaCO3</c> e <c>Ba(NO3)2</c> são muito tóxicos, pois liberam <c>Ba2+</c> no organismo. Em um laboratório foram feitos dois testes de solubilidade para identificar o conteúdo de três frascos não rotulados que poderiam ser de <c>Ba(NO3)2</c>, <c>BaCO3</c> ou <c>BaSO4</c>. Os resultados dos dois testes de solubilidade são apresentados a seguir.</p>
 				<table>
 					<row>
 						<cell>
 							<p>Frasco</p>
 						</cell>
 						<cell>
-							<p>Teste I: Adição de $H_2O$ destilada à temperatura ambiente</p>
+							<p>Teste I: Adição de <c>H2O</c> destilada à temperatura ambiente</p>
 						</cell>
 						<cell>
-							<p>Teste II: Adição de HCl diluído à temperatura ambiente</p>
+							<p>Teste II: Adição de <c>HCl</c> diluído à temperatura ambiente</p>
 						</cell>
 					</row>
 					<row>
@@ -2458,33 +2420,37 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>1: $BaSO_4$, 2: $BaCO_3$, 3: $Ba(NO_3)_2$</p>
+					<p>1: <c>BaSO4</c>, 2: <c>BaCO3</c>, 3: <c>Ba(NO3)2</c>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>1: $BaCO_3$, 2: $BaSO_4$, 3: $Ba(NO_3)_2$</p>
+					<p>1: <c>BaCO3</c>, 2: <c>BaSO4</c>, 3: <c>Ba(NO3)2</c>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>1: $Ba(NO_3)_2$, 2: $BaCO_3$, 3: $BaSO_4$</p>
+					<p>1: <c>Ba(NO3)2</c>, 2: <c>BaCO3</c>, 3: <c>BaSO4</c>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>1: $BaSO_4$, 2: $Ba(NO_3)_2$, 3: $BaCO_3$</p>
+					<p>1: <c>BaSO4</c>, 2: <c>Ba(NO3)2</c>, 3: <c>BaCO3</c>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>1: $BaCO_3$, 2: $Ba(NO_3)_2$, 3: $BaSO_4$</p>
+					<p>1: <c>BaCO3</c>, 2: <c>Ba(NO3)2</c>, 3: <c>BaSO4</c>
+					</p>
 				</option>
 			</options>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Ao opor operários sob vigilância e operários a domicílio, a fábrica reduziu os seus custos sem se ver necessariamente obrigada a adotar uma tecnologia mais eficaz. O argumento da superioridade tecnológica não é, portanto, nem necessário nem suficiente para explicar o advento e o êxito da fábrica.</p>
-			<p>Stephen Marglin. "Origens e funções do parcelamento das tarefas". Revista de Administração de Empresas, v.18, nº4. Rio de Janeiro, 1978, p.14. Adaptado.</p>
-		</context>
-
 		<objective_question number="79">
 			<classification />
 			<statement>
+				<quote>
+					<p>Ao opor operários sob vigilância e operários a domicílio, a fábrica reduziu os seus custos sem se ver necessariamente obrigada a adotar uma tecnologia mais eficaz. O argumento da superioridade tecnológica não é, portanto, nem necessário nem suficiente para explicar o advento e o êxito da fábrica.</p>
+				</quote>
+				<cite>Stephen Marglin. "Origens e funções do parcelamento das tarefas". Revista de Administração de Empresas, v.18, nº4. Rio de Janeiro, 1978, p.14. Adaptado.</cite>
 				<p>De acordo com o economista norte-americano, o triunfo da organização econômica fabril deve ser compreendido</p>
 			</statement>
 			<options>
@@ -2508,14 +2474,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<image width="0.7" src="fuvest/2022/fase01/q80.png" />
-			<p>Cândido Portinari. "Os retirantes" (1944). In: Marilia Balbi. Portinari: pintor do Brasil. São Paulo: Boitempo, 2003, p. 142.</p>
-		</context>
-
 		<objective_question number="80">
 			<classification />
 			<statement>
+				<image width="0.7" src="fuvest/2022/fase01/q80.png" />
+				<cite>Cândido Portinari. "Os retirantes" (1944). In: Marilia Balbi. Portinari: pintor do Brasil. São Paulo: Boitempo, 2003, p. 142.</cite>
 				<p>Identifique a alternativa mais adequada para expressar as relações entre arte e sociedade no quadro:</p>
 			</statement>
 			<options>
@@ -2539,16 +2502,15 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Antônio Vicente Mendes Maciel, Conselheiro de alcunha, (...) era cearense e nasceu (...) a 13 de março de 1830. (...) Aprendeu a ler, escrever e contar. (...) Andou estudando latim, enxertando frases da lingua de Horácio nos seus longos "conselhos", geralmente baseados na Bíblia sagrada, que conhecia razoavelmente. (...) Era apenas um peregrino, acompanhado de numeroso séquito; pequenos agricultores, negros 13 de Maio, caboclos de aldeamentos, gente sem recursos, doentes. (...)</p>
-			<p>Em 1893 (...) Antônio Vicente se estabeleceu em Canudos (...). Rebatizou a localidade, dando-lhe o nome de Belo Monte. Criou um clima de tranquilidade local. Respeitavam-no. Seu monarquismo era utopia.</p>
-			<p>De vários pontos do sertão apareciam os conselheiristas (...). Caminhavam para lá movidos pela fé. Queriam morar ali, sem pensar em conquistar novas terras. Nem restaurar a monarquia. Cá de fora, não entenderam assim. Interesses políticos e patrimoniais deram novos rumos e destino sangrento ao sertão do Conselheiro. (...)</p>
-			<p>José Calazans. "O Bom Jesus do sertão". Caderno Mais, Folha de S. Paulo. São Paulo, 21/09/1997.</p>
-		</context>
-
 		<objective_question number="81">
 			<classification />
 			<statement>
+				<quote>
+					<p>Antônio Vicente Mendes Maciel, Conselheiro de alcunha, (...) era cearense e nasceu (...) a 13 de março de 1830. (...) Aprendeu a ler, escrever e contar. (...) Andou estudando latim, enxertando frases da lingua de Horácio nos seus longos "conselhos", geralmente baseados na Bíblia sagrada, que conhecia razoavelmente. (...) Era apenas um peregrino, acompanhado de numeroso séquito; pequenos agricultores, negros 13 de Maio, caboclos de aldeamentos, gente sem recursos, doentes. (...)</p>
+					<p>Em 1893 (...) Antônio Vicente se estabeleceu em Canudos (...). Rebatizou a localidade, dando-lhe o nome de Belo Monte. Criou um clima de tranquilidade local. Respeitavam-no. Seu monarquismo era utopia.</p>
+					<p>De vários pontos do sertão apareciam os conselheiristas (...). Caminhavam para lá movidos pela fé. Queriam morar ali, sem pensar em conquistar novas terras. Nem restaurar a monarquia. Cá de fora, não entenderam assim. Interesses políticos e patrimoniais deram novos rumos e destino sangrento ao sertão do Conselheiro. (...)</p>
+				</quote>
+				<cite>José Calazans. "O Bom Jesus do sertão". Caderno Mais, Folha de S. Paulo. São Paulo, 21/09/1997.</cite>
 				<p>O texto sugere que Antonio Conselheiro</p>
 			</statement>
 			<options>
@@ -2572,14 +2534,13 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Se vamos à essência da nossa formação, veremos que na realidade nos constituímos para fornecer açúcar, tabaco, alguns outros gêneros; mais tarde ouro e diamantes; depois, algodão, e em seguida café, para o comércio europeu.</p>
-			<p>Caio Prado Jr. Formação do Brasil Contemporâneo. São Paulo: Companhia das Letras, 2011, p. 29.</p>
-		</context>
-
 		<objective_question number="82">
 			<classification />
 			<statement>
+				<quote>
+					<p>Se vamos à essência da nossa formação, veremos que na realidade nos constituímos para fornecer açúcar, tabaco, alguns outros gêneros; mais tarde ouro e diamantes; depois, algodão, e em seguida café, para o comércio europeu.</p>
+				</quote>
+				<cite>Caio Prado Jr. Formação do Brasil Contemporâneo. São Paulo: Companhia das Letras, 2011, p. 29.</cite>
 				<p>Sobre o sentido da colonização do Brasil, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2655,14 +2616,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<image width="0.7" src="fuvest/2022/fase01/q85.png" />
-			<p>O "Homem Vitruviano" foi desenhado por Leonardo da Vinci (1452-1519) com base em um tratado sobre Arquitetura escrito e ilustrado por Marcus Vitruvius no século I a.C., na Roma Antiga. A obra ganhou versões impressas e traduções nos séculos XV e XVI.</p>
-		</context>
-
 		<objective_question number="85">
 			<classification />
 			<statement>
+				<image width="0.7" src="fuvest/2022/fase01/q85.png" />
+				<p>O <q>Homem Vitruviano</q> foi desenhado por Leonardo da Vinci (1452-1519) com base em um tratado sobre Arquitetura escrito e ilustrado por Marcus Vitruvius no século I a.C., na Roma Antiga. A obra ganhou versões impressas e traduções nos séculos XV e XVI.</p>
 				<p>O desenho de Da Vinci expressa propostas do movimento Renascentista ao</p>
 			</statement>
 			<options>
@@ -2712,15 +2670,14 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>Martin Fierro acredita na importância da contribuição intelectual da América, prévia tesourada a todo cordão umbilical. Acentuar e generalizar para as demais manifestações intelectuais o movimento de independência iniciado, no idioma, por Ruben Darío, não significa, entretanto, que haveremos de renunciar, nem muito menos que finjamos desconhecer que todas as manhãs nos servimos de um creme dental sueco, de umas toalhas francesas e de um sabonete inglês. Martín Fierro tem fé em nossa fonética, em nossa visão, em nossas maneiras, em nosso ouvido, em nossa capacidade digestiva e de assimilação.</p>
-			<p>"Manifesto Martín Fierro", de Oliverio Girondo, 15/5/1924.</p>
-			<p>A revista de vanguarda literária Martín Fierro foi fundada em Buenos Aires, na Argentina, em 1924. O "Manifesto", publicado no seu nº 4, apresentava sintonias com o movimento modernista paulistano, ao</p>
-		</context>
-
 		<objective_question number="87">
 			<classification />
 			<statement>
+				<quote>
+					<p>Martin Fierro acredita na importância da contribuição intelectual da América, prévia tesourada a todo cordão umbilical. Acentuar e generalizar para as demais manifestações intelectuais o movimento de independência iniciado, no idioma, por Ruben Darío, não significa, entretanto, que haveremos de renunciar, nem muito menos que finjamos desconhecer que todas as manhãs nos servimos de um creme dental sueco, de umas toalhas francesas e de um sabonete inglês. Martín Fierro tem fé em nossa fonética, em nossa visão, em nossas maneiras, em nosso ouvido, em nossa capacidade digestiva e de assimilação.</p>
+				</quote>
+				<cite>"Manifesto Martín Fierro", de Oliverio Girondo, 15/5/1924.</cite>
+				<p>A revista de vanguarda literária Martín Fierro foi fundada em Buenos Aires, na Argentina, em 1924. O "Manifesto", publicado no seu nº 4, apresentava sintonias com o movimento modernista paulistano, ao</p>
 				<p>A revista de vanguarda literária Martín Fierro foi fundada em Buenos Aires, na Argentina, em 1924. O "Manifesto", publicado no seu nº 4, apresentava sintonias com o movimento modernista paulistano, ao</p>
 			</statement>
 			<options>
@@ -2744,14 +2701,11 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>As fotos de Robert Capa e de Yevgeny Khaldei foram produzidas para documentar eventos da Segunda Guerra Mundial.</p>
-			<image width="0.7" src="fuvest/2022/fase01/q88_1.png" />
-		</context>
-
 		<objective_question number="88">
 			<classification />
 			<statement>
+				<p>As fotos de Robert Capa e de Yevgeny Khaldei foram produzidas para documentar eventos da Segunda Guerra Mundial.</p>
+				<image width="0.7" src="fuvest/2022/fase01/q88_1.png" />
 				<p>Referem-se, respectivamente,</p>
 			</statement>
 			<options>
@@ -2775,17 +2729,18 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>No cerne da ideologia Bannon há uma série de contrastes extraordinariamente simplificadores entre bom e mau, sagrado e profano. Essa série semiótica cria perigosos outros, cuja existência contínua ameaça a boa gente que constitui o que Bannon descreve como a "verdadeira América"(...). Numa ordem social democrática, o conflito entre oponentes partidários é agonístico, não antagonístico. Bannon vê de outra forma. Não há espaço para a cortesia em seu universo (...).</p>
-			<p>Jeffrey Alexander. "Vociferando contra o iluminismo: A ideologia de Steve Bannon".</p>
-			<p>O antagonismo é a luta entre inimigos, enquanto o agonismo representa a luta entre adversários. (...) o propósito da política democrática é transformar antagonismo em agonismo. Isso demanda oferecer canais por meio dos quais às paixões coletivas serão dados mecanismos de expressarem-se sobre questões que, ainda que permitindo possibilidade suficiente de identificação, não construirão o opositor como inimigo, mas como adversário.</p>
-			<p>Chantal Mouffe. "Por um modelo agonístico de democracia".</p>
-			<p>A primeira citação foi retirada de um texto em que o sociólogo Jeffrey Alexander desenvolve o que compreende ser a ideologia de Steve Bannon, assessor do ex-presidente norte-americano Donald Trump. A segunda citação foi extraída de um artigo em que a cientista política Chantal Mouffe desenvolve a noção de "pluralismo agonístico".</p>
-		</context>
-
 		<objective_question number="89">
 			<classification />
 			<statement>
+				<quote>
+					<p>No cerne da ideologia Bannon há uma série de contrastes extraordinariamente simplificadores entre bom e mau, sagrado e profano. Essa série semiótica cria perigosos outros, cuja existência contínua ameaça a boa gente que constitui o que Bannon descreve como a <q>verdadeira América</q>(...). Numa ordem social democrática, o conflito entre oponentes partidários é agonístico, não antagonístico. Bannon vê de outra forma. Não há espaço para a cortesia em seu universo (...).</p>
+				</quote>
+				<cite>Jeffrey Alexander. "Vociferando contra o iluminismo: A ideologia de Steve Bannon".</cite>
+				<quote>
+					<p>O antagonismo é a luta entre inimigos, enquanto o agonismo representa a luta entre adversários. (...) o propósito da política democrática é transformar antagonismo em agonismo. Isso demanda oferecer canais por meio dos quais às paixões coletivas serão dados mecanismos de expressarem-se sobre questões que, ainda que permitindo possibilidade suficiente de identificação, não construirão o opositor como inimigo, mas como adversário.</p>
+				</quote>
+				<cite>Chantal Mouffe. "Por um modelo agonístico de democracia".</cite>
+				<p>A primeira citação foi retirada de um texto em que o sociólogo Jeffrey Alexander desenvolve o que compreende ser a ideologia de Steve Bannon, assessor do ex-presidente norte-americano Donald Trump. A segunda citação foi extraída de um artigo em que a cientista política Chantal Mouffe desenvolve a noção de <q>pluralismo agonístico</q>.</p>
 				<p>A partir da perspectiva apresentada nas citações, é correto afirmar que a ideologia de Steve Bannon</p>
 			</statement>
 			<options>
@@ -2809,15 +2764,14 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<p>O IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional e a Prefeitura da Cidade do Rio de Janeiro envidaram esforços no sentido de deixar exposta para a contemplação da população parte do Sítio Arqueológico do Cais do Valongo, com o objetivo de apresentar ao visitante, através daquele pequeno, mas representativo espaço, a materialização do momento mais trágico da nossa história, fazendo com que ele não seja esquecido. (...)</p>
-			<p>A história do Cais do Valongo e do seu entorno está indissoluvelmente ligada à história universal, por ter sido a porta de entrada do maior volume de africanos escravizados nas Américas. O Rio de Janeiro era, então, a mais afro-atlântica das cidades costeiras do território brasileiro (...).</p>
-			<p>O texto integra a proposta elaborada pelo IPHAN, em 2016, para inscrição do Sítio Arqueológico do Cais do Valongo na lista do Patrimônio Mundial.</p>
-		</context>
-
 		<objective_question number="90">
 			<classification />
 			<statement>
+				<quote>
+					<p>O IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional e a Prefeitura da Cidade do Rio de Janeiro envidaram esforços no sentido de deixar exposta para a contemplação da população parte do Sítio Arqueológico do Cais do Valongo, com o objetivo de apresentar ao visitante, através daquele pequeno, mas representativo espaço, a materialização do momento mais trágico da nossa história, fazendo com que ele não seja esquecido. (...)</p>
+					<p>A história do Cais do Valongo e do seu entorno está indissoluvelmente ligada à história universal, por ter sido a porta de entrada do maior volume de africanos escravizados nas Américas. O Rio de Janeiro era, então, a mais afro-atlântica das cidades costeiras do território brasileiro (...).</p>
+				</quote>
+				<p>O texto integra a proposta elaborada pelo IPHAN, em 2016, para inscrição do Sítio Arqueológico do Cais do Valongo na lista do Patrimônio Mundial.</p>
 				<p>Com base no documento, a história do Cais do Valongo se entrelaça à história universal, pois se relaciona ao</p>
 			</statement>
 			<options>

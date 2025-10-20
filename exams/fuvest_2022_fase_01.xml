@@ -38,7 +38,7 @@
 				<quote>
 					<p>Por mais bem informado que você possa ser, não dá para baixar a guarda. Mas por que as notícias falsas mesmo aquelas mais improváveis parecem tão convincentes para tantas pessoas? Van Bavel, professor de psicologia e ciência neural da Universidade de Nova York, se especializou em entender como as crenças políticas e identidades de grupo influenciam a mente, e descobriu que a identificação com posições políticas pode interferir em como o cérebro processa as informações. Tendemos a rejeitar fatos que ameaçam nosso senso de identidade e sempre buscar informações que confirmem nossas próprias crenças, seja por meio de memórias seletivas, leituras de fontes que estão do nosso lado ou mesmo interpretando os fatos de determinada maneira. Isso tudo está relacionado a não querermos ter nossas ideias, gostos, identidade questionados, e por isso temos dificuldade em aceitar o que contradiz aquilo em que acreditamos.</p>
 				</quote>
-				<cite>Ana Prado. "A ciência explica por que caímos en fake news". Superinteressante. 15/06/2018. Adaptado.</cite>
+				<cite>Ana Prado. <q>A ciência explica por que caímos en fake news</q>. Superinteressante. 15/06/2018. Adaptado.</cite>
 				<p>De acordo com o texto,</p>
 			</statement>
 			<options>
@@ -119,7 +119,7 @@
 		<objective_question number="05">
 			<classification />
 			<statement>
-				<p>O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em $(nm/s)^2$ na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas.</p>
+				<p>O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em (nm/s)² na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas.</p>
 				<image width="0.8" src="fuvest/2022/fase01/q05.png" />
 				<p>Sobre o estudo descrito, o que é possível inferir a partir dos dados apresentados?</p>
 			</statement>
@@ -466,9 +466,9 @@
 		<context>
 			<quote>
 				<p>No modelo hegemônico, quase todo o treinamento é reservado para o desenvolvimento muscular, sobrando muito pouco tempo para a mobilidade, a flexibilidade, o treino restaurativo, o relaxamento e o treinamento cardiovascular. Na teoria, seria algo em torno de 70% para o fortalecimento, 20% para o cárdio e 10% para a flexibilidade e outros. Na prática, muitos alunos direcionam 100% do tempo para o fortalecimento.</p>
-				<p>Como a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o "coração" de um treinamento consciente e saudável, essa ordem deveria ser revista.</p>
+				<p>Como a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o <q>coração</q> de um treinamento consciente e saudável, essa ordem deveria ser revista.</p>
 			</quote>
-			<cite>Nuno Cobra Jr. "Fitness não é saúde". Uol. 06/05/2021. Adaptado.</cite>
+			<cite>Nuno Cobra Jr. <q>Fitness não é saúde</q>. Uol. 06/05/2021. Adaptado.</cite>
 		</context>
 
 		<objective_question number="17">
@@ -573,7 +573,7 @@
 				<p>Palha ficou enternecido. Havê-la feito padecer por ele, ainda que em sonhos, encheu-o de piedade, mas de uma piedade gostosa, um sentimento particular, íntimo, profundo, que o faria desejar outros pesadelos, para que o assassinassem aos olhos dela, e para que ela gritasse angustiada, convulsa, cheia de dor e de pavor.</p>
 			</quote>
 			<cite>Machado de Assis. Quincas Borba, cap. CLXI.</cite>
-			<footnote id="ref1">Expressão latina, retirada de Lucrécio (Da natureza das coisas), a qual aparece no seguinte trecho: Suave, mari magno, turbantibus aequora ventis/ E terra magnum alterius spectare laborem. ("É agradável, enquanto no mar revoltoso os ventos levantam as águas, observar da terra os grandes esforços de um outro.").</footnote>
+			<footnote id="ref1">Expressão latina, retirada de Lucrécio (Da natureza das coisas), a qual aparece no seguinte trecho: Suave, mari magno, turbantibus aequora ventis/ E terra magnum alterius spectare laborem. (<q>É agradável, enquanto no mar revoltoso os ventos levantam as águas, observar da terra os grandes esforços de um outro.</q>).</footnote>
 		</context>
 
 		<objective_question number="20">
@@ -721,7 +721,7 @@
 			<quote>
 				<p>A taxação de livros tem um efeito cascata que acaba custando caro não apenas ao leitor, como também ao mercado editorial que há anos não anda bem das pernas - e, em última instância, ao desenvolvimento econômico do país. A gente explica. Taxar um produto significa, quase sempre, um aumento no valor do produto final. Isso porque ao menos uma parte desse imposto será repassada ao consumidor, especialmente se considerarmos que as editoras e livrarias enfrentam há anos uma crise que agora está intensificada pela pandemia e não poderiam retirar o valor desse imposto de seu já apertado lucro. Livros mais caros também resultam em queda de vendas, que, por sua vez, enfraquece ainda mais editoras e as impede de investir em novas publicações - especialmente aquelas de menor apelo comercial, mas igualmente importantes para a pluralidade de ideias. Já deu para perceber a confusão, não é? Mas, além disso, qual seria o custo de uma sociedade com menos leitores e menos livros?</p>
 			</quote>
-			<cite>Taís Ilhéu. "Por que taxar os livros pode gerar retrocesso social e econômico no país". Guia do Estudante. Setembro/2020. Adaptado.</cite>
+			<cite>Taís Ilhéu. <q>Por que taxar os livros pode gerar retrocesso social e econômico no país</q>. Guia do Estudante. Setembro/2020. Adaptado.</cite>
 		</context>
 
 		<objective_question number="25">
@@ -781,7 +781,7 @@
 				<quote>
 					<p>Chega um momento em que a tensão eu/mundo se exprime mediante uma perspectiva crítica, imanente à escrita, o que torna o romance não mais uma variante literária da rotina social, mas o seu avesso; logo, o oposto do discurso ideológico do homem médio. O romancista <q>imitaria</q> a vida, sim, mas qual vida? Aquela cujo sentido dramático escapa a homens e mulheres entorpecidos ou automatizados por seus hábitos cotidianos. A vida como objeto de busca e construção, e não a vida como encadeamento de tempos vazios e inertes. Caso essa pobre vida-morte deva ser tematizada, ela aparecerá como tal, degradada, sem a aura positiva com que as palavras <q>realismo</q> e <q>realidade</q> são usadas nos discursos que fazem a apologia conformista da <q>vida como ela é</q>. A escrita da resistência, a narrativa atravessada pela tensão crítica, mostra, sem retórica nem alarde ideológico, que essa <q>vida como ela é</q> é, quase sempre, o ramerrão de um mecanismo alienante, precisamente o contrário da vida plena e digna de ser vivida. É nesse sentido que se pode dizer que a narrativa descobre a vida verdadeira, e que esta abraça e transcende a vida real. A literatura, com ser ficção, resiste à mentira. É nesse horizonte que o espaço da literatura, considerado em geral como lugar da fantasia, pode ser o lugar da verdade mais exigente.</p>
 				</quote>
-				<cite>Alfredo Bosi. "Narrativa e resistência". Adaptado.</cite>
+				<cite>Alfredo Bosi. <q>Narrativa e resistência</q>. Adaptado.</cite>
 				<p>O conceito de resistência, expresso pela tensão do indivíduo perante o mundo, adquire perspectiva crítica na escrita do romance quando o autor</p>
 			</statement>
 			<options>
@@ -1212,7 +1212,7 @@
 			<classification />
 			<statement>
 				<p>Em fevereiro de 2021, um grupo de físicos da Universidade Federal de Minas Gerais (UFMG) publicou um artigo que foi capa da importante revista Nature. O texto a seguir foi retirado de uma reportagem do site da UFMG sobre o artigo:</p>
-				<p>O nanoscópio, prossegue Ado Jorio (professor da UFMG), ilumina a amostra com um microscópio óptico usual. O foco da luz tem o tamanho de um círculo de 1 micrômetro de diâmetro. "O que o nanoscópio faz é inserir uma nanoantena, que tem uma ponta com diâmetro de 10 nanômetros, dentro desse foco de 1 micrômetro e escanear essa ponta. A imagem com resolução nanométrica é formada por esse processo de escaneamento da nanoantena, que localiza o campo eletromagnético da luz em seu ápice", afirma o professor.</p>
+				<p>O nanoscópio, prossegue Ado Jorio (professor da UFMG), ilumina a amostra com um microscópio óptico usual. O foco da luz tem o tamanho de um círculo de 1 micrômetro de diâmetro. <q>O que o nanoscópio faz é inserir uma nanoantena, que tem uma ponta com diâmetro de 10 nanômetros, dentro desse foco de 1 micrômetro e escanear essa ponta. A imagem com resolução nanométrica é formada por esse processo de escaneamento da nanoantena, que localiza o campo eletromagnético da luz em seu ápice</q>, afirma o professor.</p>
 				<p>Com base nos dados mencionados no texto, a razão entre o diâmetro do foco da luz de um microscópio óptico usual e o diâmetro da ponta da nanoantena utilizada no nanoscópio é da ordem de:</p>
 			</statement>
 			<options>
@@ -1496,7 +1496,7 @@
 		<objective_question number="50">
 			<classification />
 			<statement>
-				<p>Um bom café deve ser preparado a uma temperatura pouco acima de 80°C. Para evitar queimaduras na boca, deve ser consumido a uma temperatura mais baixa. Uma xícara contém 60 mL de café a uma temperatura de $80°C. Qual a quantidade de leite gelado (a uma temperatura de 5°C) deve ser misturada ao café para que a temperatura final do café com leite seja de 65°C?</p>
+				<p>Um bom café deve ser preparado a uma temperatura pouco acima de 80°C. Para evitar queimaduras na boca, deve ser consumido a uma temperatura mais baixa. Uma xícara contém 60 mL de café a uma temperatura de 80°C. Qual a quantidade de leite gelado (a uma temperatura de 5°C) deve ser misturada ao café para que a temperatura final do café com leite seja de 65°C?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2510,7 +2510,7 @@
 					<p>Em 1893 (...) Antônio Vicente se estabeleceu em Canudos (...). Rebatizou a localidade, dando-lhe o nome de Belo Monte. Criou um clima de tranquilidade local. Respeitavam-no. Seu monarquismo era utopia.</p>
 					<p>De vários pontos do sertão apareciam os conselheiristas (...). Caminhavam para lá movidos pela fé. Queriam morar ali, sem pensar em conquistar novas terras. Nem restaurar a monarquia. Cá de fora, não entenderam assim. Interesses políticos e patrimoniais deram novos rumos e destino sangrento ao sertão do Conselheiro. (...)</p>
 				</quote>
-				<cite>José Calazans. "O Bom Jesus do sertão". Caderno Mais, Folha de S. Paulo. São Paulo, 21/09/1997.</cite>
+				<cite>José Calazans. <q>O Bom Jesus do sertão</q>. Caderno Mais, Folha de S. Paulo. São Paulo, 21/09/1997.</cite>
 				<p>O texto sugere que Antonio Conselheiro</p>
 			</statement>
 			<options>
@@ -2676,7 +2676,7 @@
 				<quote>
 					<p>Martin Fierro acredita na importância da contribuição intelectual da América, prévia tesourada a todo cordão umbilical. Acentuar e generalizar para as demais manifestações intelectuais o movimento de independência iniciado, no idioma, por Ruben Darío, não significa, entretanto, que haveremos de renunciar, nem muito menos que finjamos desconhecer que todas as manhãs nos servimos de um creme dental sueco, de umas toalhas francesas e de um sabonete inglês. Martín Fierro tem fé em nossa fonética, em nossa visão, em nossas maneiras, em nosso ouvido, em nossa capacidade digestiva e de assimilação.</p>
 				</quote>
-				<cite>"Manifesto Martín Fierro", de Oliverio Girondo, 15/5/1924.</cite>
+				<cite><q>Manifesto Martín Fierro</q>, de Oliverio Girondo, 15/5/1924.</cite>
 				<p>A revista de vanguarda literária Martín Fierro foi fundada em Buenos Aires, na Argentina, em 1924. O "Manifesto", publicado no seu nº 4, apresentava sintonias com o movimento modernista paulistano, ao</p>
 				<p>A revista de vanguarda literária Martín Fierro foi fundada em Buenos Aires, na Argentina, em 1924. O "Manifesto", publicado no seu nº 4, apresentava sintonias com o movimento modernista paulistano, ao</p>
 			</statement>
@@ -2735,11 +2735,11 @@
 				<quote>
 					<p>No cerne da ideologia Bannon há uma série de contrastes extraordinariamente simplificadores entre bom e mau, sagrado e profano. Essa série semiótica cria perigosos outros, cuja existência contínua ameaça a boa gente que constitui o que Bannon descreve como a <q>verdadeira América</q>(...). Numa ordem social democrática, o conflito entre oponentes partidários é agonístico, não antagonístico. Bannon vê de outra forma. Não há espaço para a cortesia em seu universo (...).</p>
 				</quote>
-				<cite>Jeffrey Alexander. "Vociferando contra o iluminismo: A ideologia de Steve Bannon".</cite>
+				<cite>Jeffrey Alexander. <q>Vociferando contra o iluminismo: A ideologia de Steve Bannon</q>.</cite>
 				<quote>
 					<p>O antagonismo é a luta entre inimigos, enquanto o agonismo representa a luta entre adversários. (...) o propósito da política democrática é transformar antagonismo em agonismo. Isso demanda oferecer canais por meio dos quais às paixões coletivas serão dados mecanismos de expressarem-se sobre questões que, ainda que permitindo possibilidade suficiente de identificação, não construirão o opositor como inimigo, mas como adversário.</p>
 				</quote>
-				<cite>Chantal Mouffe. "Por um modelo agonístico de democracia".</cite>
+				<cite>Chantal Mouffe. <q>Por um modelo agonístico de democracia</q>.</cite>
 				<p>A primeira citação foi retirada de um texto em que o sociólogo Jeffrey Alexander desenvolve o que compreende ser a ideologia de Steve Bannon, assessor do ex-presidente norte-americano Donald Trump. A segunda citação foi extraída de um artigo em que a cientista política Chantal Mouffe desenvolve a noção de <q>pluralismo agonístico</q>.</p>
 				<p>A partir da perspectiva apresentada nas citações, é correto afirmar que a ideologia de Steve Bannon</p>
 			</statement>

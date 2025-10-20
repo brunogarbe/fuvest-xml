@@ -410,7 +410,7 @@
 				<xs:element name="q" 		type="QuoteType"/>
 			</xs:choice>
 		</xs:sequence>
-		<xs:attribute name="cite" type="xs:anyURI" use="optional"/>
+		<!-- <xs:attribute name="cite" type="xs:anyURI" use="optional"/> -->
 	</xs:complexType>
 	<xs:element name="q" type="QuoteType"/>
 	
@@ -457,6 +457,7 @@
 		<xs:attributeGroup  ref="AlignAttribute" />
 	</xs:complexType>
 	<xs:element name="p" type="ParagraphType"/>
+	<xs:element name="cite" type="ParagraphType"/>
 	
 	<!-- Header -->
 	<xs:complexType name="HeaderType" mixed="true">
@@ -571,15 +572,26 @@
 			<xs:element name="verse" type="Verse"/>
 			<xs:element ref="header"/>
 			<xs:element name="caption" type="xs:string"/>
-			<xs:element name="cite" type="xs:string"/>
+			<xs:element ref="cite"/>
+			
 			<xs:element ref="p"/>
 			<xs:element name="footnote">
-				<xs:complexType>
-					<xs:simpleContent>
-						<xs:extension base="xs:string">
-							<xs:attribute name="id" type="xs:string" use="required"/>
-						</xs:extension>
-					</xs:simpleContent>
+				<xs:complexType mixed="true">
+					<xs:sequence minOccurs="0" maxOccurs="unbounded">
+						<xs:choice>
+							<xs:element ref="b"/>
+							<xs:element ref="i"/>
+							<xs:element ref="u"/>
+							<xs:element ref="q"/>
+							<xs:element ref="m"/>
+							<xs:element ref="math"/>
+							<xs:element ref="c"/>
+							<xs:element ref="chem"/>
+							<xs:element ref="ref"/>
+						</xs:choice>
+					</xs:sequence>
+					
+					<xs:attribute name="id" type="xs:string" use="required"/>
 				</xs:complexType>
 			</xs:element>
 			<xs:element name="image" type="Image"/>

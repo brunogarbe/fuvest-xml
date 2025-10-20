@@ -335,7 +335,7 @@ def render_inline(p_elem) -> str:
         elif child.tag == "ref":
             end_symbol = child.get("id", "").strip()
             symbol = add_footnote(id)
-            parts.append(f"$^{{\mathrm{{{symbol}}} }}$")
+            parts.append(f"$^{{\\mathrm{{{symbol}}} }}$")
         else:
             text = clean_text(etree.tostring(child, encoding='unicode'))
             parts.append(text)

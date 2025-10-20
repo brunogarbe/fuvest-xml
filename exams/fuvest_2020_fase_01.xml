@@ -2,7 +2,7 @@
 <exam name="FUVEST" year="2019" phase="1" day="1" variation="V" date="2019-11-24" lang="pt-br">
 	<question_group>
 		<objective_question number="1">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>Em Xangai, uma loja especializada em café oferece uma opção diferente para adoçar a bebida. A chamada <i>sweet little rain</i> consiste em uma xícara de café sobre a qual é pendurado um algodão-doce, material rico em sacarose, o que passa a impressão de existir uma nuvem pairando sobre o café, conforme ilustrado na imagem.</p>
 				<image width="0.4" src="fuvest/2020/fase01/q01.png" />
@@ -35,7 +35,7 @@
 
 	<question_group>
 		<objective_question number="2">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Physical:Thermochemistry" />
 			<statement>
 				<p>Equipamentos domésticos chamados de vaporizadores para roupa utilizam o vapor de água gerado por um sistema de resistências elétricas a partir de água líquida. Um equipamento com potência nominal de 1.600 W foi utilizado para passar roupas por 20 minutos, consumindo 540 mL de água. Em relação ao gasto total de energia do equipamento, o gasto de energia utilizado apenas para vaporizar a água, após ela já ter atingido a temperatura de ebulição, equivale a, aproximadamente,</p>
 			</statement>
@@ -66,7 +66,7 @@
 
 	<question_group>
 		<objective_question number="3">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Atomistics:Chemical Bonds" />
 			<statement>
 				<image src="fuvest/2020/fase01/q03.png" />
 				<quote>
@@ -97,7 +97,7 @@
 
 	<question_group>
 		<objective_question number="4">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>Ao se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q04.png" />
@@ -128,7 +128,7 @@
 
 	<question_group>
 		<objective_question number="5">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:ChemicalKinetics" />
 			<statement>
 				<p>Numa determinada condição experimental e com o catalisador adequado, ocorre uma reação, conforme representada no gráfico, que relaciona porcentagem do composto pelo tempo de reação. </p>
 				<image width="0.7" src="fuvest/2020/fase01/q05.png" />
@@ -166,7 +166,7 @@
 
 	<question_group>
 		<objective_question number="6">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>Os chamados <q>remédios homeopáticos</q> são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais.  A dosagem utilizada desses produtos é da ordem de poucos mL. Uma das técnicas de diluição homeopática é chamada de diluição centesimal (<c>CH</c>), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema).</p>
 				<image width="0.6" src="fuvest/2020/fase01/q06.png" />
@@ -197,7 +197,7 @@
 
 	<question_group>
 		<objective_question number="7">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Modern:NuclearPhysics" />
 			<statement>
 				<p>O gás hélio disponível comercialmente pode ser gerado pelo decaimento radioativo, sobretudo do urânio, conforme esquematizado pela série de decaimento. Desde a formação da Terra, há 4,5 bilhões de anos, apenas metade do <c>^{238}U</c> decaiu para a formação de <c>He</c>. </p>
 				<image width="0.9" src="fuvest/2020/fase01/q07.png" />
@@ -225,7 +225,7 @@
 
 	<question_group>
 		<objective_question number="8">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Energy and Momentum Methods" />
 			<statement>
 				<p>Os movimentos das moléculas antes e depois de uma reação química obedecem aos princípios físicos de colisões. Para tanto, cada átomo é representado como um corpo pontual com uma certa massa, ocupando uma posição no espaço e com uma determinada velocidade (representada na forma vetorial). Costumeiramente, os corpos pontuais são representados como esferas com diâmetros proporcionais à massa atômica. As colisões ocorrem conservando a quantidade de movimento.</p>
 				<p>Considerando um referencial no qual as moléculas neutras encontram-se paradas antes e após a colisão, a alternativa que melhor representa o arranjo de íons e moléculas instantes antes e instantes depois de uma colisão que leva à reação <chem>F- + H3CCl → CH3F + Cl-</chem> é</p>
@@ -291,7 +291,7 @@
 
 	<question_group>
 		<objective_question number="9">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Biochemistry" />
 			<statement>
 				<p>Quando o nosso corpo é lesionado por uma pancada, logo se cria um hematoma que, ao longo do tempo, muda de cor. Inicialmente, o hematoma torna-se avermelhado pelo acúmulo de hemoglobina. Em seguida, surge uma coloração azulada, decorrente da perda do <c>O2</c> ligado ao <c>Fe</c> do grupo heme. Essa coloração torna-se, então, esverdeada (biliverdina) e, após isso, surge um tom amarelado na pele (bilirrubina). Essa sequência de cores ocorre pela transformação do grupo heme da hemoglobina, como representado a seguir: </p>
 				<image width="0.8" src="fuvest/2020/fase01/q09.png" />
@@ -319,7 +319,7 @@
 
 	<question_group>
 		<objective_question number="10">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>A reação de cetonas com hidrazinas, representada pela equação química</p>
 				<image src="fuvest/2020/fase01/q10_1.png" />
@@ -351,7 +351,7 @@
 
 	<question_group>
 		<objective_question number="11">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Thermodynamics" />
 			<statement>
 				<p>Em supermercados, é comum encontrar alimentos chamados de liofilizados, como frutas, legumes e carnes. Alimentos liofilizados continuam próprios para consumo após muito tempo, mesmo sem refrigeração. O termo <q>liofilizado</q>, nesses alimentos, refere-se ao processo de congelamento e posterior desidratação por sublimação da água. Para que a sublimação da água ocorra, é necessária uma combinação de condições, como mostra o gráfico de pressão por temperatura, em que as linhas representam transições de fases.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q11.png" />
@@ -379,7 +379,7 @@
 
 	<question_group>
 		<objective_question number="12">
-			<classification subject="Unknown" />
+			<classification subject="Math:Probability" />
 			<statement>
 				<p>Para exemplificar probabilidade, um grupo de estudantes fez uma atividade envolvendo química, conforme o procedimento descrito.</p>
 				<p>Cada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de <c>HCl</c> e <c>NaOH</c> em diversas concentrações.</p>
@@ -425,7 +425,7 @@
 
 	<question_group>
 		<objective_question number="13">
-			<classification subject="Unknown" />
+			<classification subject="Math:Probability" />
 			<statement>
 				<p>Carros que saem da cidade A rumo a alguma das cidades turísticas E, F e G fazem caminhos diversos, passando por pelo menos uma das cidades B, C e D, apenas no sentido indicado pelas setas, como mostra a figura. Os números indicados nas setas são as probabilidades, dentre esses carros, de se ir de uma cidade a outra.</p>
 				<image width="0.7" src="fuvest/2020/fase01/q13.png" />
@@ -453,7 +453,7 @@
 
 	<question_group>
 		<objective_question number="14">
-			<classification subject="Unknown" />
+			<classification subject="Math:Financial" />
 			<statement>
 				<p>Se, em 15 anos, o salário mínimo teve um aumento nominal de 300% e a inflação foi de 100%, é correto afirmar que o aumento real do salário mínimo, nesse período, foi de</p>
 			</statement>
@@ -479,7 +479,7 @@
 
 	<question_group>
 		<objective_question number="15">
-			<classification subject="Unknown" />
+			<classification subject="Math:Algebra:Sequences and Series" />
 			<statement>
 				<p>O cilindro de papelão central de uma fita crepe tem raio externo de 3 cm. A fita tem espessura de 0,01 cm e dá 100 voltas completas. Considerando que, a cada volta, o raio externo do rolo é aumentado no valor da espessura da fita, o comprimento total da fita é de, aproximadamente,</p>
 				<image width="0.7" src="fuvest/2020/fase01/q15.png" />
@@ -510,7 +510,7 @@
 
 	<question_group>
 		<objective_question number="16">
-			<classification subject="Unknown" />
+			<classification subject="Math:Trigonometry" />
 			<statement>
 				<p>Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam-se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada configuração desse objeto, associa-se <m>θ</m>, a medida do menor ângulo interno do paralelogramo. A área da região delimitada pelo paralelogramo quando <m>θ = 90°</m> é A.</p>
 				<image src="fuvest/2020/fase01/q16.png" />
@@ -543,7 +543,7 @@
 
 	<question_group>
 		<objective_question number="17">
-			<classification subject="Unknown" />
+			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>A menor esfera na qual um paralelepípedo reto-retângulo de medidas 7 cm x 4 cm x 4 cm está inscrito tem diâmetro de </p>
 			</statement>
@@ -569,7 +569,7 @@
 
 	<question_group>
 		<objective_question number="18">
-			<classification subject="Unknown" />
+			<classification subject="Math:Algebra:Quadratic" />
 			<statement>
 				<p>A dona de uma lanchonete observou que, vendendo um combo a R$ 10,00, 200 deles são vendidos por dia, e que, para cada redução de R$ 1,00 nesse preço, ela vende 100 combos a mais.</p>
 				<p>Nessas condições, qual é a máxima arrecadação diária que ela espera obter com a venda desse combo? </p>
@@ -596,7 +596,7 @@
 
 	<question_group>
 		<objective_question number="19">
-			<classification subject="Unknown" />
+			<classification subject="Math:Number Sets" />
 			<statement>
 				<p>A função <m>E</m> de Euler determina, para cada número natural <m>n</m>, a quantidade de números naturais menores do que <m>n</m> cujo máximo divisor comum com <m>n</m> é igual a 1. Por exemplo, <m>E(6)=2</m> pois os números menores do que 6 com tal propriedade são 1 e 5. Qual o valor máximo de <m>E(n)</m>, para n de 20 a 25? </p>
 			</statement>
@@ -622,7 +622,7 @@
 
 	<question_group>
 		<objective_question number="20">
-			<classification subject="Unknown" />
+			<classification subject="Math:Algebra:Polynomials" />
 			<statement>
 				<p>Se <m>3x^2 - 9x + 7 = (x-a)^3 - (x-b)^3</m>, para todo número real <m>x</m>, o valor de <m>a+b</m> é </p>
 			</statement>
@@ -648,7 +648,7 @@
 
 	<question_group>
 		<objective_question number="21">
-			<classification subject="Unknown" />
+			<classification subject="Math:Algebra:Linear Equations" />
 			<statement>
 				<p>Uma agência de turismo vendeu um total de 78 passagens para os destinos: Lisboa, Paris e Roma. Sabe-se que o número de passagens vendidas para Paris foi o dobro do número de passagens vendidas para os outros dois destinos conjuntamente. Sabe-se também que, para Roma, foram vendidas duas passagens a mais que a metade das vendidas para Lisboa.</p>
 				<p>Qual foi o total de passagens vendidas, conjuntamente, para Paris e Roma?</p>
@@ -675,7 +675,7 @@
 
 	<question_group>
 		<objective_question number="22">
-			<classification subject="Unknown" />
+			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>Um ponto <m>(x, y)</m> do plano cartesiano pertence ao conjunto <m>F</m> se é equidistante dos eixos <m>OX</m> e <m>OY</m> e pertence ao círculo de equação <m>x^2 + y^2 - 2x - 6y + 2 = 0</m>. É correto afirmar que <m>F</m>
 				</p>
@@ -702,7 +702,7 @@
 
 	<question_group>
 		<objective_question number="23">
-			<classification subject="Unknown" />
+			<classification subject="Math:Statistics" />
 			<statement>
 				<p>Uma cidade é dividida em dois Setores: o Setor Sul, com área de 10 km², e o Setor Norte, com área de 30 km². Após um final de semana, foram divulgados os seguintes totais pluviométricos:</p>
 				<table>
@@ -764,7 +764,7 @@
 
 	<question_group>
 		<objective_question number="24">
-			<classification subject="Unknown" />
+			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
 				<image width="0.9" src="fuvest/2020/fase01/q24.png" />
 				<cite>Bill Waterson, Calvin and Hobbes. Disponível em https://www.gocomics.com/.</cite>
@@ -815,7 +815,7 @@
 		</context>
 
 		<objective_question number="25">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Conforme o texto, em relação às mulheres, um efeito decorrente do fato de assistentes digitais reforçarem estereótipos de gênero é</p>
 			</statement>
@@ -839,7 +839,7 @@
 		</objective_question>
 
 		<objective_question number="26">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Segundo o texto, o título do relatório publicado pela Unesco <q>I'd Blush if I Could</q>, no que diz respeito aos assistentes digitais, indica</p>
 			</statement>
@@ -863,7 +863,7 @@
 		</objective_question>
 
 		<objective_question number="27">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>De acordo com o texto, na opinião de Saniye Gülser Corat, tecnologias que envolvem Inteligência Artificial, entre outros aspectos,</p>
 			</statement>
@@ -889,7 +889,7 @@
 
 	<question_group>
 		<objective_question number="28">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<image width="0.8" src="fuvest/2020/fase01/q28.png" />
 				<cite>Disponível em https://www.facebook.com/groups/englishmemes/.</cite>
@@ -929,7 +929,7 @@
 		</context>
 
 		<objective_question number="29">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Afirma-se no texto que, no futuro, a tecnologia de gravação em moléculas de DNA</p>
 			</statement>
@@ -953,7 +953,7 @@
 		</objective_question>
 
 		<objective_question number="30">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Conforme o texto, cientistas preveem que, em pouco mais de 20 anos,</p>
 			</statement>
@@ -979,7 +979,7 @@
 
 	<question_group>
 		<objective_question number="31">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<verse>
 					<title>Harlem</title>
@@ -1068,7 +1068,7 @@
 		</context>
 
 		<objective_question number="32">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil" />
 			<statement>
 				<p>Em Claro Enigma, a ideia de engano surge sob a perspectiva do sujeito maduro, já afastado das ilusões, como se lê no verso-síntese <q>Tu não me enganas, mundo, e não te engano a ti.</q> (<q>Legado</q>). O excerto de <q>Cantiga de enganar</q> apresenta a relação do eu com o mundo mediada</p>
 			</statement>
@@ -1092,7 +1092,7 @@
 		</objective_question>
 
 		<objective_question number="33">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil" />
 			<statement>
 				<p>O argumento de Benedito Nunes, em torno da natureza artística da literatura, leva a considerar que a obra só assume função transformadora se</p>
 			</statement>
@@ -1116,7 +1116,7 @@
 		</objective_question>
 
 		<objective_question number="34">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil" />
 			<statement>
 				<p>Se o discurso literário <q>aclara o real ao desligar-se dele, transfigurando-o</q>, pode-se dizer que Luís da Silva, o narrador-protagonista de Angústia, já não se comove com a leitura de <q>histórias fáceis, sem almas complicadas</q> porque</p>
 			</statement>
@@ -1140,7 +1140,7 @@
 		</objective_question>
 
 		<objective_question number="35">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil" />
 			<statement>
 				<p>Para Graciliano Ramos, Angústia não faz concessão ao gosto do público na medida em que compõe uma atmosfera</p>
 			</statement>
@@ -1166,7 +1166,7 @@
 
 	<question_group>
 		<objective_question number="36">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>Leia o trecho extraído de uma notícia veiculada na internet:</p>
 				<quote>
@@ -1222,7 +1222,7 @@
 		</context>
 
 		<objective_question number="37">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>É correto afirmar que o poema</p>
 			</statement>
@@ -1246,7 +1246,7 @@
 		</objective_question>
 
 		<objective_question number="38">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>Tal como se lê no poema,</p>
 			</statement>
@@ -1281,7 +1281,7 @@
 		</context>
 
 		<objective_question number="39">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>Considerando que se trata de um texto literário, uma interpretação que seja capaz de captar a sua complexidade abordará o poema como</p>
 			</statement>
@@ -1305,7 +1305,7 @@
 		</objective_question>
 
 		<objective_question number="40">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>O ditado popular que se relaciona melhor com o poema é:</p>
 			</statement>
@@ -1331,7 +1331,7 @@
 
 	<question_group>
 		<objective_question number="41">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Syntax:Punctuation" />
 			<statement>
 				<p>O Twitter é uma das redes sociais mais importantes no Brasil e no mundo. (...) Um estudo identificou que as fake news são 70% mais propensas a serem retweetadas do que fatos verdadeiros. (...) Outra conclusão importante do trabalho diz respeito aos famosos bots: ao contrário do que muitos pensam, esses robôs não são os grandes responsáveis por disseminar notícias falsas. Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.</p>
 				<cite>Super Interessante, "No Twitter, fake news se espalham 6 vezes mais rápido que notícias verdadeiras". Maio/2019.</cite>
@@ -1359,7 +1359,7 @@
 
 	<question_group>
 		<objective_question number="42">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil" />
 			<statement>
 				<quote>
 					<p>Agora, o Manuel Fulô, este, sim! Um sujeito pingadinho, quase menino <q>pepino que encorujou desde pequeno</q> - cara de bobo de fazenda, do segundo tipo -; porque toda fazenda tem o seu bobo, que é, ou um velhote baixote, de barba rara no queixo, ou um eterno rapazola, meio surdo, gago, glabro e alvar. Mas gostava de fechar a cara e roncar voz, todo enfarruscado, para mostrar brabeza, e só por descuido sorria, um sorriso manhoso de dono de hotel. E, em suas feições de caburé insalubre, amigavam-se as marcas do sangue aimoré e do gálico herdado: cabelo preto, corrido, que boi lambeu; dentes de fio em meia-lua; malares pontudos; lobo da orelha aderente; testa curta, fugidia; olhinhos de viés e nariz peba, mongol.</p>
@@ -1392,7 +1392,7 @@
 
 	<question_group>
 		<objective_question number="43">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
 					<p>O feminismo negro não é uma luta meramente identitária, até porque branquitude e masculinidade também são identidades. Pensar feminismos negros é pensar projetos democráticos. Hoje afirmo isso com muita tranquilidade, mas minha experiência de vida foi marcada pelo incômodo de uma incompreensão fundamental. Não que eu buscasse respostas para tudo. Na maior parte da minha infância e adolescência, não tinha consciência de mim. Não sabia por que sentia vergonha de levantar a mão quando a professora fazia uma pergunta já supondo que eu não saberia a resposta. Por que eu ficava isolada na hora do recreio. Por que os meninos diziam na minha cara que não queriam formar par com a <q>neguinha</q> na festa junina. Eu me sentia estranha e inadequada, e, na maioria das vezes, fazia as coisas no automático, me esforçando para não ser notada.</p>
@@ -1435,7 +1435,7 @@
 		</context>
 
 		<objective_question number="44">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil" />
 			<statement>
 				<p>No excerto, o autor recorre à intertextualidade, dialogando com a comédia de Molière, Tartufo (1664), cuja personagem central é um impostor da fé. Tal é a fama da peça que o nome próprio se incorporou ao vocabulário, inclusive em português, como substantivo comum, para designar o <q>indivíduo hipócrita</q> ou o <q>falso devoto</q>. No contexto maior do romance, sugere-se que a tartufice</p>
 			</statement>
@@ -1459,7 +1459,7 @@
 		</objective_question>
 
 		<objective_question number="45">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
 				<p>Considerando o contexto, o trecho <q>E não se pense que este nome a alegrou, posto que a lisonjeasse</q> (L.10-11) pode ser reescrito, sem prejuízo de sentido, da seguinte maneira: E não se pense que este nome a alegrou,</p>
 			</statement>
@@ -1485,7 +1485,7 @@
 
 	<question_group>
 		<objective_question number="46">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil" />
 			<statement>
 				<quote>
 					<p>Hoje fizeram o enterro de Bela. Todos na Chácara se convenceram de que ela estava morta, menos eu. Se eu pudesse não deixaria enterrá-la ainda. Disse isso mesmo a vovó, mas ela disse que não se pode fazer assim. Bela estava igualzinha à que ela era no dia em que chegou da Formação, só um pouquinho mais magra.</p>
@@ -1535,7 +1535,7 @@
 
 	<question_group>
 		<objective_question number="47">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil" />
 			<statement>
 				<verse>
 					<title>A certa personagem desvanecida</title>
@@ -1608,7 +1608,7 @@
 		</context>
 
 		<objective_question number="48">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Geopolitics" />
 			<statement>
 				<p>O autor expressa preocupação com o fato de que as soluções para o problema apontado passam por um esforço multinacional, em face ao crescente número de governos isolacionistas, porque</p>
 			</statement>
@@ -1632,7 +1632,7 @@
 		</objective_question>
 
 		<objective_question number="49">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Fungi" />
 			<statement>
 				<p>Várias espécies do gênero Candida, que pertence ao grupo de fungos unicelulares, reproduzem-se por brotamento (gemulação), espalhando-se rapidamente. No grupo dos fungos pluricelulares, a rápida colonização de novos ambientes deve-se, em grande parte, ao fato de que esse grupo possui</p>
 			</statement>
@@ -1658,7 +1658,7 @@
 
 	<question_group>
 		<objective_question number="50">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>Boa parte da floresta amazônica brasileira cresce sobre solos pobres. Sua exuberância, portanto, deve-se ao fato de que uma grande proporção dos nutrientes advindos da própria floresta retorna à vegetação. Quando se derruba a floresta de uma área de dezenas de quilômetros quadrados e, em seguida, ateia-se fogo no local como preparo para o plantio, esse ciclo é interrompido, o que causa uma série de efeitos.</p>
 				<p>Identifique corretamente a relação dos efeitos mencionados em I, II e III com a derrubada e a queima da floresta.</p>
@@ -1695,7 +1695,7 @@
 
 	<question_group>
 		<objective_question number="51">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Zoology:Invertebrates" />
 			<statement>
 				<p>Qual das curvas representa o crescimento de um inseto hemimetábolo, desde seu nascimento até a fase adulta?</p>
 			</statement>
@@ -1721,7 +1721,7 @@
 
 	<question_group>
 		<objective_question number="52">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Cell:Structures and Organelles" />
 			<statement>
 				<p>Analise o esquema de uma célula adulta.</p>
 				<image width="0.6" src="fuvest/2020/fase01/q52.png" />
@@ -1749,7 +1749,7 @@
 
 	<question_group>
 		<objective_question number="53">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Genetics" />
 			<statement>
 				<p>Analise a seguinte genealogia de uma doença:</p>
 				<image width="0.8" src="fuvest/2020/fase01/q53.png" />
@@ -1777,7 +1777,7 @@
 
 	<question_group>
 		<objective_question number="54">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Cell:Structures and Organelles" />
 			<statement>
 				<p>Analise os esquemas simplificados das células 1 e 2:</p>
 				<image width="0.9" src="fuvest/2020/fase01/q54.png" />
@@ -1805,7 +1805,7 @@
 
 	<question_group>
 		<objective_question number="55">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Genetics:DNA and RNA Structure" />
 			<statement>
 				<p>Considere uma sequência de DNA com 100 pares de bases de comprimento contendo 32 timinas. Quantas citosinas, guaninas e adeninas essa sequência terá, respectivamente?</p>
 			</statement>
@@ -1831,7 +1831,7 @@
 
 	<question_group>
 		<objective_question number="56">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>A combinação entre baixa biodiversidade, altas concentrações de poluentes e baixas concentrações de oxigênio dissolvido, que é verificada nos rios que passam por grandes centros urbanos no Brasil, deve-se principalmente à (ao)</p>
 			</statement>
@@ -1857,7 +1857,7 @@
 
 	<question_group>
 		<objective_question number="57">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Genetics:Biotechnology" />
 			<statement>
 				<quote>
 					<p>Um paciente, com câncer sanguíneo (linfoma) e infectado por HIV, fez quimioterapia e recebeu um transplante de células-tronco da medula óssea de um doador resistente ao HIV. Como resultado, tanto o câncer como o HIV retroagiram neste paciente. O receptor mais usado pelo HIV para entrar nas células do corpo é o CCR5. Um pequeno número de pessoas resistentes ao HIV tem duas cópias mutadas do gene do receptor CCR5. Isso significa que o vírus não pode penetrar nas células sanguíneas do corpo que costumam ser infectadas. O paciente recebeu células-tronco da medula óssea de um doador que tem essa mutação genética específica, o que fez com que também ficasse resistente ao HIV.</p>
@@ -1887,7 +1887,7 @@
 
 	<question_group>
 		<objective_question number="58">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Pre-Cabral" />
 			<statement>
 				<quote>
 					<p>Pesquisadores do Museu Nacional, no Rio de Janeiro, encontraram o crânio e uma parte do fêmur de Luzia, o esqueleto humano mais antigo descoberto na América que revolucionou as teorias científicas sobre a ocupação do continente. Os fósseis foram achados há alguns dias (não foi divulgado quando) junto aos escombros do edifício, parcialmente destruído por um incêndio em 2 de setembro. O crânio está fragmentado, porque a cola que mantinha os seus pedaços juntos se foi com o calor, mas a equipe está bastante otimista com suas condições.</p>
@@ -1917,7 +1917,7 @@
 
 	<question_group>
 		<objective_question number="59">
-			<classification subject="Unknown" />
+			<classification subject="History:Medieval" />
 			<statement>
 				<quote>
 					<p>Afirmo, portanto, que tínhamos atingido já o ano bem farto da Encarnação do Filho de Deus, de 1348, quando, na mui excelsa cidade de Florença, (...) sobreveio a mortífera pestilência. (...) apareciam no começo, tanto em homens como nas mulheres, ou na virilha ou na axila, algumas inchações (...) chamava-as o populacho de bubões (...).</p>
@@ -1947,7 +1947,7 @@
 
 	<question_group>
 		<objective_question number="60">
-			<classification subject="Unknown" />
+			<classification subject="History:Medieval" />
 			<statement>
 				<p>A imagem a seguir refere-se às principais rotas de comércio da África do Norte e Ocidental, no século XV.</p>
 				<image width="0.9" src="fuvest/2020/fase01/q60.png" />
@@ -1976,7 +1976,7 @@
 
 	<question_group>
 		<objective_question number="61">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Vargas Era" />
 			<statement>
 				<p>A chamada <q>questão trabalhista</q> no Brasil foi objeto de conflitos, debates e regulamentações entre os anos 1920 e 1946. Identifique uma das dimensões deste processo.</p>
 			</statement>
@@ -2002,7 +2002,7 @@
 
 	<question_group>
 		<objective_question number="62">
-			<classification subject="Unknown" />
+			<classification subject="History:Modern" />
 			<statement>
 				<p>A representação cartográfica a seguir refere-se à viagem de circunavegação, iniciada em Sanlúcar de Barrameda, na Andaluzia, em 20 de setembro de 1519, e comandada pelo português Fernão de Magalhães, a serviço da monarquia da Espanha. A despeito da repercussão da viagem para o desenvolvimento dos conhecimentos náuticos e para a exploração do Oceano Pacífico, Battista Agnese foi um dos poucos cartógrafos a registrar a empreitada de Magalhães.</p>
 				<image width="0.9" src="fuvest/2020/fase01/q62.png" />
@@ -2031,7 +2031,7 @@
 
 	<question_group>
 		<objective_question number="63">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<p>As tentativas holandesas de conquista dos territórios portugueses na América tinham por objetivo central</p>
 			</statement>
@@ -2057,7 +2057,7 @@
 
 	<question_group>
 		<objective_question number="64">
-			<classification subject="Unknown" />
+			<classification subject="History:Ancient:Mesopotamia and Egypt" />
 			<statement>
 				<quote>
 					<p>Ao primeiro brilho da alvorada chegou do horizonte uma nuvem negra, que era conduzida [pelo] senhor da tempestade (...). Surgiram então os deuses do abismo; Nergal destruiu as barragens que represavam as águas do inferno; Ninurta, o deus da guerra, pôs abaixo os diques (...). Por seis dias e seis noites os ventos sopraram; enxurradas, inundações e torrentes assolaram o mundo; a tempestade e o dilúvio explodiam em fúria como dois exércitos em guerra. Na alvorada do sétimo dia o temporal (...) amainou (...) o dilúvio serenou (...) toda a humanidade havia virado argila (...). Na montanha de Nisir o barco ficou preso (...). Na alvorada do sétimo dia eu soltei uma pomba e deixei que se fosse. Ela voou para longe, mas, não encontrando um lugar para pousar, retornou. Então soltei um corvo. A ave viu que as águas haviam abaixado; ela comeu, (...) grasnou e não mais voltou para o barco. Eu então abri todas as portas e janelas, expondo a nave aos quatro ventos. Preparei um sacrifício e derramei vinho sobre o topo da montanha em oferenda aos deuses (...).</p>
@@ -2087,7 +2087,7 @@
 
 	<question_group>
 		<objective_question number="65">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Military Dictatorship:Redemocratization" />
 			<statement>
 				<verse>
 					<p>Depois de 20 anos na escola</p>
@@ -2128,7 +2128,7 @@
 
 	<question_group>
 		<objective_question number="66">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Military Dictatorship" />
 			<statement>
 				<quote>
 					<p>Documentos da Agência Central de Inteligência Americana (CIA) mostram que o Brasil quis liderar a Operação Condor e só não conseguiu porque enfrentou resistência dos outros países membros Argentina, Chile, Uruguai, Paraguai e Bolívia. (...) Os documentos da CIA fazem parte do Projeto de Desclassificação Argentina (The Dirty War, 1976-1983), do governo americano, e incluem mais de 40 mil páginas. Duas dezenas delas fazem menções ao Brasil (...).</p>
@@ -2158,7 +2158,7 @@
 
 	<question_group>
 		<objective_question number="67">
-			<classification subject="Unknown" />
+			<classification subject="History:Modern" />
 			<statement>
 				<quote>
 					<p>A entrega pacífica do governo a um adversário pressupunha um elevado nível de automoderação. O mesmo determinou a boa vontade de um governo em não usar os seus grandes recursos do poder na humilhação ou destruição de predecessores hostis ou opositores (...). As técnicas militares deram lugar às técnicas verbais do debate feitas de retórica e de persuasão, a maior parte das quais exigia mais contenção geral, identificando, de modo nítido, esta mudança com um avanço da civilização.</p>
@@ -2188,7 +2188,7 @@
 
 	<question_group>
 		<objective_question number="68">
-			<classification subject="Unknown" />
+			<classification subject="History:Contemporary" />
 			<statement>
 				<quote>
 					<p>De acordo com o historiador Martyn Lyons, <q>nos temores contemporâneos em relação ao acesso ilimitado a sites perigosos da Internet, e às dificuldades enfrentadas por governos de diversos países no policiamento da distribuição da informação, ouve-se o eco do pânico causado pela invenção da imprensa</q>.</p>
@@ -2218,7 +2218,7 @@
 
 	<question_group>
 		<objective_question number="69">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Gravitation" />
 			<statement>
 				<p>Em julho de 1969, os astronautas Neil Armstrong e Buzz Aldrin fizeram o primeiro pouso tripulado na superfície da Lua, enquanto seu colega Michael Collins permaneceu a bordo do módulo de comando <i>Columbia</i> em órbita lunar. Considerando que o <i>Columbia</i> estivesse em uma órbita perfeitamente circular a uma altitude de 260 km acima da superfície da Lua, o tempo decorrido (em horas terrestres h) entre duas passagens do <i>Columbia</i> exatamente acima do mesmo ponto da superfície lunar seria de</p>
 			</statement>
@@ -2250,7 +2250,7 @@
 
 	<question_group>
 		<objective_question number="70">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Modern:QuantumMechanics" />
 			<statement>
 				<p>Em 20 de maio de 2019, as unidades de base do Sistema Internacional de Unidades (SI) passaram a ser definidas a partir de valores exatos de algumas constantes físicas. Entre elas, está a constante de Planck <m>h</m>, que relaciona a energia <m>E</m> de um fóton (<i>quantum</i> de radiação eletromagnética) com a sua frequência <m>f</m> na forma <m>E = hf</m>.</p>
 				<p>A unidade da constante de Planck em termos das unidades de base do SI (quilograma, metro e segundo) é:</p>
@@ -2285,7 +2285,7 @@
 
 	<question_group>
 		<objective_question number="71">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Waves" />
 			<statement>
 				<p>A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam com a distância <m>d</m> entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para expressar a perda <m>L</m>, em decibéis (dB), do sinal em função de <m>d</m>, no espaço livre de obstáculos, é dada pela expressão <math end=",">L = 20 \log_{10} (4\pi d/\lambda)</math>em que <m>\lambda</m> é o comprimento de onda do sinal. O gráfico a seguir mostra <m>L</m> (em dB) versus <m>d</m> (em metros) para um determinado comprimento de onda <m>\lambda</m>.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q71.png" />
@@ -2318,7 +2318,7 @@
 
 	<question_group>
 		<objective_question number="72">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Kinematics of Particles" />
 			<statement>
 				<p>Um estímulo nervoso em um dos dedos do pé de um indivíduo demora cerca de 30 ms para chegar ao cérebro. Nos membros inferiores, o pulso elétrico, que conduz a informação do estímulo, é transmitido pelo nervo ciático, chegando à base do tronco em 20 ms. Da base do tronco ao cérebro, o pulso é conduzido na medula espinhal. Considerando que a altura média do brasileiro é de 1,70 m e supondo uma razão média de 0,6 entre o comprimento dos membros inferiores e a altura de uma pessoa, pode-se concluir que as velocidades médias de propagação do pulso nervoso desde os dedos do pé até o cérebro e da base do tronco até o cérebro são, respectivamente:</p>
 			</statement>
@@ -2344,7 +2344,7 @@
 
 	<question_group>
 		<objective_question number="73">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Gravitation" />
 			<statement>
 				<p>A velocidade de escape de um corpo celeste é a mínima velocidade que um objeto deve ter nas proximidades da superfície desse corpo para escapar de sua atração gravitacional. Com base nessa informação e em seus conhecimentos sobre a interpretação cinética da temperatura, considere as seguintes afirmações a respeito da relação entre a velocidade de escape e a atmosfera de um corpo celeste.</p>
 				<p>I. Corpos celestes com mesma velocidade de escape retêm atmosferas igualmente densas, independentemente da temperatura de cada corpo.</p>
@@ -2374,7 +2374,7 @@
 
 	<question_group>
 		<objective_question number="74">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Um equipamento de bungee jumping está sendo projetado para ser utilizado em um viaduto de 30 m de altura. O elástico utilizado tem comprimento relaxado de 10 m. Qual deve ser o mínimo valor da constante elástica desse elástico para que ele possa ser utilizado com segurança no salto por uma pessoa cuja massa, somada à do equipamento de proteção a ela conectado, seja de 120 kg?</p>
 			</statement>
@@ -2404,7 +2404,7 @@
 
 	<question_group>
 		<objective_question number="75">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Electromagnetism:Circuits" />
 			<statement>
 				<p>Um fabricante projetou resistores para utilizar em uma lâmpada de resistência <m>L</m>. Cada um deles deveria ter resistência <m>R</m>. Após a fabricação, ele notou que alguns deles foram projetados erroneamente, de forma que cada um deles possui uma resistência <m>R_D = R/2</m>. Tendo em vista que a lâmpada queimará se for percorrida por uma corrente elétrica superior a <m>V/(R+L)</m>, em qual(is) dos circuitos a lâmpada queimará?</p>
 				<image src="fuvest/2020/fase01/q75.png" />
@@ -2431,7 +2431,7 @@
 
 	<question_group>
 		<objective_question number="76">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Optics:PhysicalOptics" />
 			<statement>
 				<p>No dia 10 de abril de 2019, a equipe do <i>Event Horizon Telescope</i> (EHT, <q>Telescópio Horizonte de Eventos</q>) divulgou a primeira imagem de um buraco negro, localizado no centro da galáxia M87, obtida por um conjunto de telescópios com diâmetro efetivo equivalente ao da Terra, de 12.700 km.</p>
 				<p>Devido ao fenômeno físico da difração, instrumentos óticos possuem um limite de resolução angular, que corresponde à mínima separação angular entre dois objetos que podem ser identificados separadamente quando observados à distância.</p>
@@ -2466,7 +2466,7 @@
 
 	<question_group>
 		<objective_question number="77">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Electromagnetism:Magnetism" />
 			<statement>
 				<p>Um solenoide muito longo é percorrido por uma corrente elétrica <m>I</m>, conforme mostra a figura 1. Em um determinado instante, uma partícula de carga <m>q</m> positiva desloca-se com velocidade instantânea <m>v</m> perpendicular ao eixo do solenoide, na presença de um campo elétrico na direção do eixo do solenoide. A figura 2 ilustra essa situação, em uma seção reta definida por um plano que contém o eixo do solenoide.</p>
 				<image width="0.8" src="fuvest/2020/fase01/q77_1.png" />
@@ -2495,7 +2495,7 @@
 
 	<question_group>
 		<objective_question number="78">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Kinematics of Particles" />
 			<statement>
 				<p>Um drone voando na horizontal, em relação ao solo (como indicado pelo sentido da seta na figura), deixa cair um pacote de livros. A melhor descrição da trajetória realizada pelo pacote de livros, segundo um observador em repouso no solo, é dada pelo percurso descrito na</p>
 				<image width="0.8" src="fuvest/2020/fase01/q78.png" />
@@ -2522,7 +2522,7 @@
 
 	<question_group>
 		<objective_question number="79">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics" />
 			<statement>
 				<p>Um pêndulo simples é composto por uma haste metálica leve, presa a um eixo bem lubrificado, e por uma esfera pequena de massa muito maior que a da haste, presa à sua extremidade oposta. O período P para pequenas oscilações de um pêndulo é proporcional à raiz quadrada da razão entre o comprimento da haste metálica e a aceleração da gravidade local. Considere este pêndulo nas três situações:</p>
 				<p>1. Em um laboratório localizado ao nível do mar, na Antártida, a uma temperatura de <m>0^{\circ}C</m>.</p>
@@ -2562,7 +2562,7 @@
 
 	<question_group>
 		<objective_question number="80">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>Segundo o Instituto Nacional de Meteorologia (INMET), foram registradas temperaturas reduzidas no mês de junho de 2016, tal como na madrugada do dia 13, em que se alcançou a mínima de <m>3,5^{\circ}C</m> na estação meteorológica da Serra da Cantareira, na cidade de São Paulo. Além disso, de acordo com o Instituto, também ocorreram precipitações acima da média, com mais de 200 mm no total daquele mês.</p>
 				<image width="0.9" src="fuvest/2020/fase01/q80.png" />
@@ -2595,7 +2595,7 @@
 
 	<question_group>
 		<objective_question number="81">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>Um vídeo do astrônomo Carl Sagan em seu programa dos anos 1980, Cosmos, conta a história de Eratóstenes, demonstrando como os gregos antigos já haviam descoberto que a Terra é uma esfera (geoide). Para fazer isso, Eratóstenes observou a sombra de duas colunas no solstício de verão; uma coluna foi colocada em Alexandria e outra em Siena (atualmente Assuan), ambas no Egito. Ele notou que em Siena, ao meio dia, o Sol ficava em seu ponto mais alto e a coluna lá instalada projetava uma sombra com ângulo diferente daquela projetada em Alexandria. Sagan explica então que, se a Terra fosse plana, ambas as estruturas produziriam sombras iguais, mas como o planeta é esférico, o sombreamento varia.</p>
 				<cite>Disponível em https://revistagalileu.globo.com/. Adaptado. 2019.</cite>
@@ -2625,7 +2625,7 @@
 
 	<question_group>
 		<objective_question number="82">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Physical:Biogeography" />
 			<statement>
 				<p>Em reportagem publicada em 2018, a revista FAPESP apresenta uma pesquisa da Superintendência de Controle de Endemias (SUCEN) que usou informações de data e local de mortes de macacos por um determinado vírus. A partir do estudo, construiu-se um modelo epidemiológico que descreve o sentido de deslocamento e os corredores ecológicos funcionais (corredores prováveis) do vírus.</p>
 				<image src="fuvest/2020/fase01/q82.png" />
@@ -2654,7 +2654,7 @@
 
 	<question_group>
 		<objective_question number="83">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Brazil:Environmental Issues" />
 			<statement>
 				<quote>
 					<p>O processo de desertificação é definido como a degradação ambiental e socioambiental, particularmente nas zonas áridas, semiáridas e subúmidas, resultantes de vários fatores e vetores, incluindo as variações e alterações climáticas e as atividades humanas.</p>
@@ -2684,7 +2684,7 @@
 
 	<question_group>
 		<objective_question number="84">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
 				<header>Brasil: Estabelecimentos de agricultura familiar e não familiar</header>
 				<image width="0.8" src="fuvest/2020/fase01/q84.png" />
@@ -2713,7 +2713,7 @@
 
 	<question_group>
 		<objective_question number="85">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Geopolitics" />
 			<statement>
 				<quote>
 					<p>É de grande relevância aqui o fato de que uma grande proporção do trânsito de internet do mundo passa pelos Estados Unidos (...). Isso significa que a NSA (a agência de segurança nacional dos EUA) poderia acessar uma quantidade alarmante de ligações telefônicas simplesmente escolhendo as instalações certas. O que é ainda mais inacreditável: essas instalações não passam de alguns prédios, conhecidos como "hotéis de telecomunicação", que hospedam os principais centros de conexão de internet e telefonia do planeta todo.</p>
@@ -2744,7 +2744,7 @@
 
 	<question_group>
 		<objective_question number="86">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Human" />
 			<statement>
 				<quote>
 					<p>O Ciclone Tropical Idai atingiu o litoral de Moçambique na noite de quinta-feira (21/03/2019), provocando grandes danos na cidade de Beira. Cerca de 500 mil pessoas ficaram sem energia, afetando também o setor de comunicações.</p>
@@ -2774,7 +2774,7 @@
 
 	<question_group>
 		<objective_question number="87">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Human:Urbanization" />
 			<statement>
 				<quote>
 					<p>Em Barcelona, em 2012 e 2013, a cada 15 minutos uma família recebia ordem de despejo. Desde então, o panorama da habitação mudou totalmente. <q>(...) Estamos assistindo uma onda de especulação imobiliária (...) que agora se foca no aluguel</q>, explica Daniel Pardo da Associação de Moradores para um Turismo Sustentável. <q>Este fenômeno pôs em marcha um processo acelerado e violento de expulsão de inquilinos</q>, acrescenta. Onde a pressão da especulação imobiliária internacional e a indústria do turismo causaram um aumento substancial nos preços dos aluguéis, os catalães têm hoje de gastar mais de 46% dos seus salários com o aluguel. Para os jovens até os 35 anos, a taxa de esforço aumenta até os 65% (...). <q>Não queremos que os habitantes de Barcelona sejam substituídos por pessoas com maior poder de compra</q>, diz a porta-voz do Sindicato dos Inquilinos. Só em Barcelona, 15 fundos de investimento imobiliário possuem 3.000 apartamentos.</p>
@@ -2804,7 +2804,7 @@
 
 	<question_group>
 		<objective_question number="88">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Geopolitics" />
 			<statement>
 				<p>Dois eventos marcaram a diplomacia brasileira em relação ao Oriente Médio no início de 2019. Um deles foi o voto contra a resolução da ONU que pedia a desocupação militar das Colinas de Gola e sua devolução à Síria. Outro evento foi o anúncio de transferência da embaixada brasileira de Tel Aviv para Jerusalém, mesmo não tendo sido levada adiante até setembro de 2019. Em relação a esses eventos, é correto afirmar que eles representam</p>
 			</statement>
@@ -2835,7 +2835,7 @@
 
 	<question_group>
 		<objective_question number="89">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Physical:Geomorphology" />
 			<statement>
 				<p>No Brasil, várias cidades registram ocupação irregular de encostas em áreas sujeitas a deslizamentos de terra (também chamados de escorregamentos). O Instituto de Pesquisas Tecnológicas (IPT) trabalha no levantamento, mapeamento, recuperação e estabilização dessas áreas de risco. Um exemplo deste trabalho foram aqueles executados desde a década de 1970 referentes aos deslizamentos dos morros de Santos e São Vicente-SP, cuja região é acometida há tempos por esses problemas, inclusive com a ocorrência de vítimas fatais. Para investigar os deslizamentos de terra nas áreas serranas tropicais brasileiras, o Instituto realizou levantamentos topográficos, geológicos e geomorfológicos, estudando também a distribuição dos tipos de vegetação existentes e as categorias de ocupação urbana dos morros.</p>
 				<p>Representação de deslizamento de terra (escorregamento) na região de Santos e São Vicente</p>
@@ -2865,7 +2865,7 @@
 
 	<question_group>
 		<objective_question number="90">
-			<classification subject="Unknown" />
+			<classification subject="Geography:Physical:Biogeography" />
 			<statement>
 				<p>Se muita gente hoje enxerga a Terra como um sistema dinâmico de conexões entre atmosfera, águas, rochas e biodiversidade, isso se deve, em larga medida, a Alexander von Humboldt (1769-1859). O vulcão Chimborazo (6.268 m de altitude), no atual Equador, foi utilizado por Humboldt como exemplo para apresentar com clareza, pela primeira vez, como cada faixa altitudinal em regiões montanhosas é um microcosmo de climas e biodiversidade.</p>
 				<cite>Disponível em https://www1.folha.uol.com.br/ciencia/. Adaptado.</cite>

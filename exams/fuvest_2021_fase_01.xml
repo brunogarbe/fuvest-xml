@@ -427,7 +427,6 @@
 	<question_group>
 		<objective_question number="15">
 			<classification subject="History:Brazil:Military Dictatorship" />
-			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
 				<quote>
 					<p>A criação do Banco da Amazônia e da Superintendência do Desenvolvimento da Amazônia (SUDAM) preconizou uma política de concessão de incentivos fiscais aos empresários, especialmente das regiões mais ricas do país, para que deixassem de pagar 50% do imposto de renda, desde que o dinheiro fosse depositado naquele banco para financiar projetos de desenvolvimento no estado do Amazonas.  Os investimentos orientaram-se de preferência para a agropecuária, de modo que um grande número de empresários e de empresas, especialmente do Sudeste do Brasil, sem tradição no ramo, tornaram-se proprietários de terras e empresários rurais.  Em princípio a aquisição de terras pelos grandes capitalistas do Sudeste animou o mercado imobiliário.</p>
@@ -557,7 +556,6 @@
 	<question_group>
 		<objective_question number="18">
 			<classification subject="History:Contemporary" />
-			<classification subject="Geography:Human:Urbanization" />
 			<statement>
 				<quote>
 					<p>A linha de fronteira hoje possui uma definição essencialmente econômica - como a fronteira da lucratividade-mas adquire uma expressão geográfica bastante acentuada em diferentes escalas espaciais.  Isto é, basicamente, o que a fronteira do século XIX e a assim chamada fronteira urbana têm em comum.  Na realidade, ambas estão associadas à acumulação e expansão do capital.  Mas enquanto a fronteira do século XIX representou a realização de uma expansão geográfica absoluta na escala do território como a principal expressão espacial da acumulação de capital, a renovação urbana representa o exemplo mais desenvolvido da rediferenciação do espaço geográfico com vista ao mesmo resultado.</p>
@@ -977,7 +975,7 @@
 
 	<question_group>
 		<objective_question number="30">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:ChemicalEquilibrium" />
 			<statement>
 				<p>O gás carbônico atmosférico reage com a água do mar conforme detalhado em (I):</p>
 				<p>(I) <c>CO_{2}+H_{2}O\rightleftharpoons H_{2}CO_{3}\rightleftharpoons HCO_{3}^{-}+H^{+}</c>
@@ -1009,7 +1007,7 @@
 
 	<question_group>
 		<objective_question number="31">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Botany:Major Plant Groups" />
 			<statement>
 				<p>Considere três espécies de plantas (X, Y e Z) e suas características:</p>
 				<list>
@@ -1051,7 +1049,7 @@
 
 	<question_group>
 		<objective_question number="32">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Human:Endocrine System" />
 			<statement>
 				<p>A determinação do sexo em embriões de tartaruga-de-couro depende da temperatura a que o ovo foi exposto. Isso está relacionado à ação da enzima aromatase, que converte a testosterona em estradiol. A expressão gênica e a atividade dessa enzima nas gônadas são dependentes da temperatura, conforme indicado na figura.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q32.png" />
@@ -1080,7 +1078,7 @@
 
 	<question_group>
 		<objective_question number="33">
-			<classification subject="Unknown" />
+			<classification subject="Biology:Human:Immune System" />
 			<statement>
 				<p>No que diz respeito a infecções sexualmente transmissíveis (ISTs), identifique a relação correta entre grupo causador, um dos seus sintomas e se possui ou não vacina preventiva.</p>
 			</statement>
@@ -1177,7 +1175,7 @@
 
 	<question_group>
 		<objective_question number="34">
-			<classification subject="Unknown" />
+			<classification subject="History:Modern" />
 			<statement>
 				<verse>
 					<title>Canto V Estância 81</title>
@@ -1215,7 +1213,7 @@
 
 	<question_group>
 		<objective_question number="35">
-			<classification subject="Unknown" />
+			<classification subject="History:Modern" />
 			<statement>
 				<p>A exploração da prata americana pelos espanhóis no século XVI teve grande importância na história mundial porque</p>
 			</statement>
@@ -1241,7 +1239,7 @@
 
 	<question_group>
 		<objective_question number="36">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
 					<p>A base física do Brasil, ao principiar o século XVIII, era profundamente diversa daquela que, mesmo numa interpretação liberal do Tratado de Tordesilhas, fora assentada no diploma de 1494. A expansão ao longo do litoral levara ao Oiapoc, no norte, e ao Prata, no sul. O rush do ouro estava determinando a ampliação da área oeste do mesmo modo por que a "droga do sertão" explicava a façanha da incorporação do mundo amazônico. Toda uma geografia nova, política, social e econômica se estava escrevendo na América portuguesa [...].</p>
@@ -1271,7 +1269,7 @@
 
 	<question_group>
 		<objective_question number="37">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Empire of Brazil" />
 			<statement>
 				<p>A economia do Império do Brasil foi caracterizada por:</p>
 			</statement>
@@ -1297,7 +1295,7 @@
 
 	<question_group>
 		<objective_question number="38">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Empire of Brazil" />
 			<statement>
 				<p>A Cabanagem foi uma revolta social ocorrida no norte do Brasil entre 1835 e 1840 e se insere em um contexto frequentemente chamado de <q>Período Regencial</q>. Trata-se de uma revolta que, junto a outras do mesmo período, tipifica</p>
 			</statement>
@@ -1323,7 +1321,7 @@
 
 	<question_group>
 		<objective_question number="39">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Old Republic" />
 			<statement>
 				<quote>
 					<p>Uma das folhas de ontem estampou (...) o programa da recepção presidencial em que, diante do corpo diplomático, da mais fina sociedade do Rio de Janeiro, aqueles que deviam dar ao país o exemplo das maneiras mais distintas e dos costumes mais reservados elevaram o Corta-jaca à altura de uma instituição social. Mas o Corta-jaca de que eu ouvira falar há muito tempo, que vem a ser ele, Sr. Presidente? A mais baixa, a mais chula, a mais grosseira de todas as danças selvagens, a irmã gêmea do batuque, do cateretê e do samba. Mas nas recepções presidenciais o "Corta-jaca" é executado com todas as honras da música de Wagner, e não se quer que a consciência deste país se revolte, que as nossas faces se enrubesçam e que a mocidade se ria!</p>
@@ -1353,7 +1351,7 @@
 
 	<question_group>
 		<objective_question number="40">
-			<classification subject="Unknown" />
+			<classification subject="History:Contemporary:WorldWars" />
 			<statement>
 				<p>A ascensão de regimes autoritários na Europa nas primeiras décadas do século XX teve o amparo de milícias que arregimentaram uma legião de indivíduos de origem social heterogênea. Dentre estes grupos, destaca(m)-se:</p>
 			</statement>
@@ -1379,7 +1377,7 @@
 
 	<question_group>
 		<objective_question number="41">
-			<classification subject="Unknown" />
+			<classification subject="History:Modern:Renaissance and Reformation" />
 			<statement>
 				<p>A imagem é considerada uma das referências do movimento artístico e cultural denominado Renascimento. Analise-a atentamente.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q41.png" />
@@ -1408,7 +1406,7 @@
 
 	<question_group>
 		<objective_question number="42">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Old Republic" />
 			<statement>
 				<p>Leia com atenção os dados do quadro e da tabela, relativos à epidemia de gripe espanhola na cidade de São Paulo, em 1918.</p>
 				<caption>Quadro: Município de São Paulo: Características distritais por volta de 1918.</caption>
@@ -1440,7 +1438,7 @@
 
 	<question_group>
 		<objective_question number="43">
-			<classification subject="Unknown" />
+			<classification subject="History:Ancient:Greece" />
 			<statement>
 				<p>Leia o texto:</p>
 				<quote>
@@ -1471,7 +1469,7 @@
 
 	<question_group>
 		<objective_question number="44">
-			<classification subject="Unknown" />
+			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
 					<p>[No Brasil], a transição da predominância indígena para a africana na composição da força de trabalho escrava ocorreu aos poucos ao longo de aproximadamente meio século. Quando os senhores de engenho, individualmente, acumulavam recursos financeiros suficientes, compravam alguns cativos africanos, e iam acrescentando outros à medida que capital e crédito tornavam-se disponíveis. Em fins do século XVI, a mão de obra dos engenhos era mista do ponto de vista racial, e a proporção foi mudando crescentemente em favor dos africanos importados e sua prole.</p>
@@ -1501,7 +1499,7 @@
 
 	<question_group>
 		<objective_question number="45">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
 				<p>Considere as seguintes afirmações:</p>
 				<p>I. Uma pessoa em um trampolim é lançada para o alto. No ponto mais alto de sua trajetória, sua aceleração será nula, o que dá a sensação de "gravidade zero".</p>
@@ -1531,7 +1529,7 @@
 
 	<question_group>
 		<objective_question number="46">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Equilibrium of Rigid Bodies" />
 			<statement>
 				<p>Um vídeo bastante popular na Internet mostra um curioso experimento em que uma garrafa de água pendurada por uma corda é mantida suspensa por um palito de dente apoiado em uma mesa.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q46.png" />
@@ -1573,7 +1571,7 @@
 
 	<question_group>
 		<objective_question number="47">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Waves:MechanicalWaves" />
 			<statement>
 				<p>Os smartphones modernos vêm equipados com um acelerômetro, dispositivo que mede acelerações a que o aparelho está submetido. O gráfico foi gerado a partir de dados extraídos por um aplicativo do acelerômetro de um smartphone pendurado por um fio e colocado para oscilar sob a ação da gravidade. O gráfico mostra os dados de uma das componentes da aceleração (corrigidos por um valor de referência constante) em função do tempo.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q47.png" />
@@ -1607,7 +1605,7 @@
 
 	<question_group>
 		<objective_question number="48">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Uma comunidade rural tem um consumo de energia elétrica de 2 MWh por mês. Para suprir parte dessa demanda, os moradores têm interesse em instalar uma miniusina hidrelétrica em uma queda d'água de 15 m de altura com vazão de 10 litros por segundo. O restante do consumo seria complementado com painéis de energia solar que produzem 40 kWh de energia por mês cada um.</p>
 				<p>Considerando que a miniusina hidrelétrica opere 24h por dia com 100% de eficiência, o número mínimo de painéis solares necessários para suprir a demanda da comunidade seria de:</p>
@@ -1640,7 +1638,7 @@
 
 	<question_group>
 		<objective_question number="49">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Waves:MechanicalWaves" />
 			<statement>
 				<p>Ondas estacionárias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogênea, fixa em dois pontos separados por uma distância L, e pondo-a a vibrar. A extremidade à direita é acoplada a um gerador de frequências, enquanto a outra extremidade está sujeita a uma força tensional produzida ao se pendurar à corda um objeto de massa $m_{0}$ mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequência do gerador para $f_{1}$, obtém-se na corda uma onda estacionária que vibra em seu primeiro harmônico.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q49.png" />
@@ -1672,7 +1670,7 @@
 
 	<question_group>
 		<objective_question number="50">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Thermodynamics:Laws of Thermodynamics" />
 			<statement>
 				<p>Um mol de um gás ideal percorre o processo cíclico ABCA em um diagrama P-V, conforme mostrado na figura, sendo que a etapa AB é isobárica, a etapa BC é isocórica e a etapa CA é isotérmica.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q50.png" />
@@ -1704,7 +1702,7 @@
 
 	<question_group>
 		<objective_question number="51">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Optics:GeometricOptics" />
 			<statement>
 				<p>O olho humano constitui uma complexa estrutura capaz de controlar a luz recebida e produzir imagens nítidas. Em pessoas com visão normal, o olho é capaz de acomodar o cristalino para focalizar sobre a retina a luz que vem dos objetos, desde que não estejam muito próximos. Pessoas míopes, por outro lado, apresentam dificuldades em enxergar de longe. Ao focalizar objetos situados além do chamado ponto remoto (PR), a imagem forma-se à frente da retina, conforme ilustrado na figura.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q51.png" />
@@ -1733,7 +1731,7 @@
 
 	<question_group>
 		<objective_question number="52">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Electromagnetism:Electrostatics" />
 			<statement>
 				<p>Dois balões negativamente carregados são utilizados para induzir cargas em latas metálicas, alinhadas e em contato, que, <u>inicialmente</u>, estavam eletricamente neutras.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q52.png" />
@@ -1766,7 +1764,7 @@
 
 	<question_group>
 		<objective_question number="53">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Electromagnetism:Circuits" />
 			<statement>
 				<p>Em uma luminária de mesa, há duas lâmpadas que podem ser acesas individualmente ou ambas ao mesmo tempo, com cada uma funcionando sob a tensão nominal determinada pelo fabricante, de modo que a intensidade luminosa de cada lâmpada seja sempre a mesma.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q53.png" />
@@ -1798,7 +1796,7 @@
 
 	<question_group>
 		<objective_question number="54">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Uma esfera metálica de massa <m>m</m> e carga elétrica <m>+q</m> descansa sobre um piso horizontal isolante, em uma região em que há um campo elétrico uniforme e também horizontal, de intensidade <m>E</m>, conforme mostrado na figura. Em certo instante, com auxílio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a ação da gravidade, a uma altura total <m>h</m>, sem nunca abandonar a região de campo elétrico uniforme.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q54.png" />
@@ -1836,7 +1834,7 @@
 
 	<question_group>
 		<objective_question number="55">
-			<classification subject="Unknown" />
+			<classification subject="Physics:Modern:SpecialRelativity" />
 			<statement>
 				<p>A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente <m>4 \times 10^{26}</m> W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de <m>5 \times 10^{9}</m> anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de</p>
 			</statement>
@@ -1885,7 +1883,7 @@
 		</context>
 
 		<objective_question number="56">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Segundo o texto, conhecer a composição de elementos químicos que constituem as estrelas é fundamental, pois ela, entre outros aspectos,</p>
 			</statement>
@@ -1909,7 +1907,7 @@
 		</objective_question>
 
 		<objective_question number="57">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>No texto, o astrofísico Martin Asplund emprega a frase <q>The sun is a fundamental yardstick</q> (L. 15), por considerar o Sol</p>
 			</statement>
@@ -1933,7 +1931,7 @@
 		</objective_question>
 
 		<objective_question number="58">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Conforme o texto, um critério tradicionalmente utilizado por astrônomos para avaliar estrelas envolve</p>
 			</statement>
@@ -1972,7 +1970,7 @@
 		</context>
 
 		<objective_question number="59">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Conforme o texto, um aspecto associado ao caráter efêmero da popularidade de um usuário da internet, relativo ao uso de plataformas como TikTok, é</p>
 			</statement>
@@ -1997,7 +1995,7 @@
 		</objective_question>
 
 		<objective_question number="60">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>No texto, a referência a um jardim de verão ao entardecer, repleto de vagalumes, sugere que, para os adolescentes, as mídias sociais</p>
 			</statement>
@@ -2023,7 +2021,7 @@
 
 	<question_group>
 		<objective_question number="61">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<verse>
 					<p>I ain't gonna work on Maggie's farm no more</p>
@@ -2074,7 +2072,7 @@
 
 	<question_group>
 		<objective_question number="62">
-			<classification subject="Unknown" />
+			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Leia os provérbios:</p>
 				<p>1. Don't count your chickens before they lay eggs.</p>
@@ -2111,7 +2109,7 @@
 		</context>
 
 		<objective_question number="63">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>No fragmento <q>ao tropeçar, cravava sua própria adaga no peito.</q> (L. 8-9), a oração em negrito abrange, simultaneamente, as noções de</p>
 			</statement>
@@ -2135,7 +2133,7 @@
 		</objective_question>
 
 		<objective_question number="64">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Syntax:Punctuation" />
 			<statement>
 				<p>As vírgulas em <q>E depois, o silêncio.</q> (L. 1) e em <q>Mas seu rosto continua sorrindo, para sempre.</q> (L. 2-3) são usadas, respectivamente, com a mesma finalidade que as vírgulas em</p>
 			</statement>
@@ -2164,7 +2162,7 @@
 		</objective_question>
 
 		<objective_question number="65">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>Em <q>Seu carisma seduziu a editora DC Comics, que impôs o acréscimo de um quadrinho.</q> (L. 12-13), o vocábulo <q>que</q> possui a mesma função sintática desempenhada no texto por</p>
 			</statement>
@@ -2195,7 +2193,7 @@
 
 	<question_group>
 		<objective_question number="66">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
 					<p>Posso furar os olhos do povo? Esta frase besta foi repetida muitas vezes e, em falta de coisa melhor, aceitei-a. Sem dúvida. As mulheres hoje não vivem como antigamente, escondidas, evitando os homens. Tudo é descoberto, cara a cara. Uma pessoa topa outra. Se gostou, gostou; se não gostou, até logo. E eu de fato não tinha visto nada. As aparências mentem. A terra não é redonda? Esta prova da inocência de Marina me pareceu considerável. Tantos indivíduos condenados injustamente neste mundo ruim! O retirante que fora encontrado violando a filha de quatro anos- estava aí um exemplo. As vizinhas tinham visto o homem afastando as pernas da menina, todo o mundo pensava que ele era um monstro. Engano. Quem pode lá jurar que isto é assim ou assado? Procurei mesmo capacitar-me de que Julião Tavares não existia. Julião Tavares era uma sensação. Uma sensação desagradável, que eu pretendia afastar de minha casa quando me juntasse àquela sensação agradável que ali estava a choramingar.</p>
@@ -2225,7 +2223,7 @@
 
 	<question_group>
 		<objective_question number="67">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Morphology" />
 			<statement>
 				<quote>
 					<p>Terça é dia de Veneza revelar as atrações de seu festival anual, cuja 77º edição começa no dia 2 de setembro, com a dramédia <q>Lacci</q>, do romano Daniele Luchetti, seguindo até 12/9, com 50 produções internacionais e uma expectativa (extraoficial) de colocar <q>West Side Story</q>, de Steven Spielberg, na ribalta.</p>
@@ -2288,7 +2286,7 @@
 		</context>
 
 		<objective_question number="68">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Morphology:Verbs" />
 			<statement>
 				<p>Ao substituir a pessoa verbal utilizada para se referir ao substantivo <q>palavras</q> pela 3ª pessoa do plural, os verbos dos versos <q>sois de vento, ides no vento,</q> (v. 4) / <q>Perdão podíeis ter sido!</q> (v. 12) / <q>Éreis um sopro na aragem...</q> (v. 20) seriam conjugados conforme apresentado na alternativa:</p>
 			</statement>
@@ -2312,7 +2310,7 @@
 		</objective_question>
 
 		<objective_question number="69">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<p>A <q>estranha potência</q> que a voz lírica ressalta nas palavras decorre de uma combinação entre</p>
 			</statement>
@@ -2338,7 +2336,7 @@
 
 	<question_group>
 		<objective_question number="70">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<verse>
 					<title>Alferes, Ouro Preto em sombras</title>
@@ -2378,7 +2376,7 @@
 
 	<question_group>
 		<objective_question number="71">
-			<classification subject="Unknown" />
+			<classification subject="Literature:World Literature" />
 			<statement>
 				<p>I</p>
 				<quote>
@@ -2422,7 +2420,7 @@
 		</context>
 
 		<objective_question number="72">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
 				<p>Sem prejuízo de sentido e fazendo as adaptações necessárias, é possível substituir as expressões em destaque no texto ("paternalismo ingênuo", "historinha", "idiota", "insistência bovina"), respectivamente, por</p>
 			</statement>
@@ -2446,7 +2444,7 @@
 		</objective_question>
 
 		<objective_question number="73">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<p>As respostas do narrador às perguntas de Leusipo são uma tentativa de disfarçar o caráter</p>
 			</statement>
@@ -2470,7 +2468,7 @@
 		</objective_question>
 
 		<objective_question number="74">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<p>Na cena apresentada, que explora o desconforto gerado pela difícil interlocução com o indígena, o narrador</p>
 			</statement>
@@ -2496,7 +2494,7 @@
 
 	<question_group>
 		<objective_question number="75">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil:Realism and Naturalism" />
 			<statement>
 				<quote>
 					<p>Rubião fitava a enseada, — eram oito horas da manhã. Quem o visse, com os polegares metidos no cordão do chambre, à janela de uma grande casa de Botafogo, cuidaria que ele admirava aquele pedaço de água quieta; mas em verdade vos digo que pensava em outra coisa. Cotejava o passado com o presente. Que era, há um ano? Professor. Que é agora? Capitalista. Olha para si, para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristiano Palha), para a casa, para o jardim, para a enseada, para os morros e para o céu; e tudo, desde as chinelas até o céu, tudo entra na mesma sensação de propriedade.</p>
@@ -2527,7 +2525,7 @@
 
 	<question_group>
 		<objective_question number="76">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<verse>
 					<title>Remissão</title>
@@ -2573,7 +2571,7 @@
 
 	<question_group>
 		<objective_question number="77">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q77.png" />
 				<cite>Mafalda, Quino.</cite>
@@ -2615,7 +2613,7 @@
 				<p>em que o cristal é capaz de censura:</p>
 				<p>pois o tal fundo mascavo logo aflora</p>
 				<p>quer inverno ou verão mele o açúcar.</p>
-				<p>Só os banguês<ref id="1"/> que-ainda purgam ainda</p>
+				<p>Só os banguês<ref id="1" /> que-ainda purgam ainda</p>
 				<p>o açúcar bruto com barro, de mistura;</p>
 				<p>a usina já não o purga: da infância,</p>
 				<p>não de depois de adulto, ela o educa;</p>
@@ -2633,7 +2631,7 @@
 		</context>
 
 		<objective_question number="78">
-			<classification subject="Unknown" />
+			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<p>Os últimos quatro versos do poema rompem com a série de contrapontos entre a usina e o banguê, pois</p>
 			</statement>
@@ -2657,7 +2655,7 @@
 		</objective_question>
 
 		<objective_question number="79">
-			<classification subject="Unknown" />
+			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>Na oração "que <u>ela</u> dura" (v. 4), o pronome sublinhado</p>
 			</statement>
@@ -2683,7 +2681,7 @@
 
 	<question_group>
 		<objective_question number="80">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>Observe o diagrama que mostra, de forma simplificada, o processo de fabricação do açúcar.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q80.png" />
@@ -2712,7 +2710,7 @@
 
 	<question_group>
 		<objective_question number="81">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Atomistics:Periodic Table" />
 			<statement>
 				<image width="0.5" src="fuvest/2021/fase01/q81.png" />
 				<cite>Disponível em: https://twitter.com/DoutorQuimica/</cite>
@@ -2746,7 +2744,7 @@
 
 	<question_group>
 		<objective_question number="82">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Inorganic:RedoxReactions" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q82.png" />
 				<p>Um experimento expôs uma barra de titânio (<c>Ti</c>) pura e ligas desse material com 0,01% de diferentes metais nobres a soluções de ácido sulfúrico em ebulição para entender o efeito anticorrosivo desses metais no titânio. O resultado é mostrado na tabela a seguir:</p>
@@ -2960,7 +2958,7 @@
 		</context>
 
 		<objective_question number="83">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Organic:FunctionalGroups" />
 			<statement>
 				<p>De acordo com o esquema mostrado, as perdas indicadas como I e II correspondem a:</p>
 			</statement>
@@ -2989,7 +2987,7 @@
 		</objective_question>
 
 		<objective_question number="84">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>Um frasco contendo 500 g de mel produzido no Brasil foi analisado e concluiu-se que 0,2 milimol de frutose foi convertido em HMF. Considerando apenas esse parâmetro de qualidade e tendo como referência os teores recomendados por órgãos nacionais e internacionais, mostrados na tabela, é correto afirmar que esse mel</p>
 			</statement>
@@ -3020,7 +3018,7 @@
 
 	<question_group>
 		<objective_question number="85">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>Observe a representação a seguir, em que os círculos brancos representam uma espécie química (molécula ou íon molecular) e os círculos coloridos, outra.</p>
 				<image width="0.8" src="fuvest/2021/fase01/q85.png" />
@@ -3048,7 +3046,7 @@
 
 	<question_group>
 		<objective_question number="86">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Atomistics:Atomic Models" />
 			<statement>
 				<p>No fragmento a seguir, o autor explora conceitos químicos na forma de poesia:</p>
 				<image width="0.8" src="fuvest/2021/fase01/q86.png" />
@@ -3081,7 +3079,7 @@
 
 	<question_group>
 		<objective_question number="87">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:ChemicalEquilibrium" />
 			<statement>
 				<p>Para estudar equilíbrio químico de íons $Co^{2+}$ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação:</p>
 				<p>
@@ -3326,7 +3324,7 @@
 
 	<question_group>
 		<objective_question number="88">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>A reação de Maillard, que ocorre entre aminoácidos e carboidratos redutores, é a responsável por formar espécies que geram compostos coloridos que conferem o sabor característico de diversos alimentos assados. Um exemplo é a reação entre a glicina e um carboidrato redutor mostrada na equação em que R representa uma cadeia genérica:</p>
 				<image width="0.8" src="fuvest/2021/fase01/q88_1.png" />
@@ -3356,7 +3354,7 @@
 
 	<question_group>
 		<objective_question number="89">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>Em aquários de água marinha, é comum o uso do equipamento chamado <q>Skimmer</q>, aparato em que a água recebe uma torrente de bolhas de ar, como representado na figura, levando a matéria orgânica até a superfície, onde pode ser removida. Essa matéria orgânica eliminada é composta por moléculas orgânicas com parte apolar e parte polar, enquanto as bolhas formadas têm caráter apolar. Esse aparelho, no entanto, tem rendimento muito menor em aquários de água doce (retira menos quantidade de material orgânico por período de uso).</p>
 				<image width="0.5" src="fuvest/2021/fase01/q89.png" />
@@ -3385,7 +3383,7 @@
 
 	<question_group>
 		<objective_question number="90">
-			<classification subject="Unknown" />
+			<classification subject="Chemistry:General" />
 			<statement>
 				<p>A destilação é um processo utilizado para separar compostos presentes em uma mistura com base nas suas propriedades físicas como, por exemplo, a diferença de temperatura de ebulição, a uma dada pressão, entre os componentes da mistura.</p>
 				<p>Recentemente esse termo passou a figurar em estudos de poluição ambiental, nos quais o termo <q>destilação global</q> é utilizado para explicar a presença de compostos voláteis, como os pesticidas organoclorados, em águas e gelos de regiões polares, ainda que estes compostos nunca tenham sido produzidos ou utilizados nessas regiões. Com base no princípio da técnica da destilação, como pode ser explicada a presença desses pesticidas na Antártica e no Ártico?</p>

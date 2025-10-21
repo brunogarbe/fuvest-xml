@@ -5,6 +5,7 @@
 	<xs:simpleType name="Classification">
 		<xs:restriction base="xs:string">
 			<xs:enumeration value="Unknown"/>
+			
 			<!-- Math -->
 			<xs:enumeration value="Math"/>
 			<xs:enumeration value="Math:Concepts"/>
@@ -109,6 +110,7 @@
 			<xs:enumeration value="Physics:Modern:SpecialRelativity"/>
 			<xs:enumeration value="Physics:Modern:QuantumMechanics"/>
 			<xs:enumeration value="Physics:Modern:NuclearPhysics"/>
+			
 			<!-- Chemistry -->
 			<xs:enumeration value="Chemistry:Atomistics"/>
 			<xs:enumeration value="Chemistry:Atomistics:Atomic Models"/>
@@ -135,6 +137,7 @@
 			<xs:enumeration value="Chemistry:Biochemistry:Carbohydrates"/>
 			<xs:enumeration value="Chemistry:Biochemistry:Lipids"/>
 			<xs:enumeration value="Chemistry:Biochemistry:Proteins"/>
+			
 			<!-- Biology -->
 			<xs:enumeration value="Biology:Biochemistry:Lipids"/>
 			<xs:enumeration value="Biology:Cell"/>
@@ -204,6 +207,7 @@
 			<xs:enumeration value="Biology:Ecology:Biogeochemical Cycles"/>
 			<xs:enumeration value="Biology:Ecology:Biodiversity and Conservation"/>
 			<xs:enumeration value="Biology:Ecology:Environmental Impacts"/>
+			
 			<!-- History -->
 			<xs:enumeration value="History:Ancient"/>
 			<xs:enumeration value="History:Ancient:Mesopotamia and Egypt"/>
@@ -240,6 +244,7 @@
 			<xs:enumeration value="History:Brazil:Military Dictatorship:Redemocratization"/>
 			<xs:enumeration value="History:Brazil:Military Dictatorship:Diretas Já"/>
 			<xs:enumeration value="History:Brazil:New Republic"/>
+			
 			<!-- Geography -->
 			<xs:enumeration value="Geography:Physical"/>
 			<xs:enumeration value="Geography:Physical:Geology"/>
@@ -279,6 +284,7 @@
 			<!--
 			<xs:enumeration value="Philosophy:General Philosophy"/><xs:enumeration value="Philosophy:Ethics"/><xs:enumeration value="Sociology:General Sociology"/><xs:enumeration value="Philosophy:General:Metaphysics"/><xs:enumeration value="Philosophy:General:Epistemology"/><xs:enumeration value="Philosophy:General:Logic"/><xs:enumeration value="Philosophy:Ethics:ClassicalEthics"/><xs:enumeration value="Philosophy:Ethics:ModernEthics"/><xs:enumeration value="Philosophy:Politics:ClassicalPoliticalThought"/><xs:enumeration value="Philosophy:Politics:ModernPoliticalThought"/><xs:enumeration value="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)"/><xs:enumeration value="Sociology:General:SocialStructure and Stratification"/><xs:enumeration value="Sociology:General:Culture, Identity and Socialization"/>
 			-->
+			
 			<!-- Portuguese -->
 			<xs:enumeration value="Portuguese:Grammar:Phonology"/>
 			<xs:enumeration value="Portuguese:Grammar:Phonology:Accents"/>
@@ -297,9 +303,11 @@
 			<xs:enumeration value="Portuguese:Grammar:Syntax:Punctuation"/>
 			<xs:enumeration value="Portuguese:Grammar:Semantics and Stylistics"/>
 			<xs:enumeration value="Portuguese:Text Interpretation"/>
+			
 			<!-- English -->
 			<xs:enumeration value="English:Grammar"/>
 			<xs:enumeration value="English:Reading Comprehension"/>
+			
 			<!-- Literature -->
 			<xs:enumeration value="Literature:Brazil"/>
 			<xs:enumeration value="Literature:Brazil:Romanticism"/>
@@ -338,81 +346,8 @@
 		</xs:restriction>
 	</xs:simpleType>
 	
+	
 	<!-- ===================== Inline Elements ===================== -->
-	<!-- Bold -->
-	<xs:complexType name="BoldType" mixed="true">
-		<xs:sequence minOccurs="0" maxOccurs="unbounded">
-			<!-- Allow nested inline content inside <b> if desired -->
-			<xs:choice>
-				<xs:element name="b" 		type="BoldType"/>
-				<xs:element name="i" 		type="ItalicType"/>
-				<xs:element name="u" 		type="UnderlineType"/>
-				<xs:element name="q" 		type="QuoteType"/>
-				<xs:element name="m" 		type="TextOnlyType"/>
-				<xs:element name="math" 	type="DisplayMathType"/>
-				<xs:element name="c" 		type="TextOnlyType"/>
-				<xs:element name="chem" 	type="DisplayMathType"/>
-				<xs:element name="ref" 		type="OnlyAttributeType"/>
-			</xs:choice>
-		</xs:sequence>
-	</xs:complexType>
-	<xs:element name="b" type="BoldType"/>
-	
-	<!-- Italic -->
-	<xs:complexType name="ItalicType" mixed="true">
-		<xs:sequence minOccurs="0" maxOccurs="unbounded">
-			<!-- Allow nested inline content inside <b> if desired -->
-			<xs:choice>
-				<xs:element name="b" 		type="BoldType"/>
-				<xs:element name="i" 		type="ItalicType"/>
-				<xs:element name="u" 		type="UnderlineType"/>
-				<xs:element name="q" 		type="QuoteType"/>
-				<xs:element name="m" 		type="TextOnlyType"/>
-				<xs:element name="math" 	type="DisplayMathType"/>
-				<xs:element name="c" 		type="TextOnlyType"/>
-				<xs:element name="chem" 	type="DisplayMathType"/>
-				<xs:element name="ref" 		type="OnlyAttributeType"/>
-			</xs:choice>
-		</xs:sequence>
-	</xs:complexType>
-	<xs:element name="i" type="ItalicType"/>
-	
-	<!-- Underline -->
-	<xs:complexType name="UnderlineType" mixed="true">
-		<xs:sequence minOccurs="0" maxOccurs="unbounded">
-			<xs:choice>
-				<xs:element name="b" 		type="BoldType"/>
-				<xs:element name="i" 		type="ItalicType"/>
-				<xs:element name="q" 		type="QuoteType"/>
-				<xs:element name="m" 		type="TextOnlyType"/>
-				<xs:element name="math" 	type="DisplayMathType"/>
-				<xs:element name="c" 		type="TextOnlyType"/>
-				<xs:element name="chem" 	type="DisplayMathType"/>
-				<xs:element name="ref" 		type="OnlyAttributeType"/>
-				<xs:element name="u" 		type="UnderlineType"/>
-			</xs:choice>
-		</xs:sequence>
-	</xs:complexType>
-	<xs:element name="u" type="UnderlineType"/>
-	
-	<!-- Quote -->
-	<xs:complexType name="QuoteType" mixed="true">
-		<xs:sequence minOccurs="0" maxOccurs="unbounded">
-			<xs:choice>
-				<xs:element name="b" 		type="BoldType"/>
-				<xs:element name="i" 		type="ItalicType"/>
-				<xs:element name="u" 		type="UnderlineType"/>
-				<xs:element name="m" 		type="TextOnlyType"/>
-				<xs:element name="math" 	type="DisplayMathType"/>
-				<xs:element name="c" 		type="TextOnlyType"/>
-				<xs:element name="chem" 	type="DisplayMathType"/>
-				<xs:element name="ref" 		type="OnlyAttributeType"/>
-				<xs:element name="q" 		type="QuoteType"/>
-			</xs:choice>
-		</xs:sequence>
-		<!-- <xs:attribute name="cite" type="xs:anyURI" use="optional"/> -->
-	</xs:complexType>
-	<xs:element name="q" type="QuoteType"/>
 	
 	<!-- Inline math -->
 	<xs:simpleType name="TextOnlyType">
@@ -438,7 +373,43 @@
 	</xs:complexType>
 	<xs:element name="ref" type="OnlyAttributeType"/>
 	
+	<!-- Inline Nested Elements -->
+	<xs:complexType name="InlineType" mixed="true">
+		<xs:sequence minOccurs="0" maxOccurs="unbounded">
+			<!-- Allow nested inline content inside <b> if desired -->
+			<xs:choice>
+				<xs:element ref="b"/>
+				<xs:element ref="i"/>
+				<xs:element ref="u"/>
+				<xs:element ref="q"/>
+				<xs:element ref="m"/>
+				<xs:element ref="math"/>
+				<xs:element ref="c"/>
+				<xs:element ref="chem"/>
+				<xs:element ref="ref"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="b" type="InlineType"/>
+	<xs:element name="i" type="InlineType"/>
+	<xs:element name="u" type="InlineType"/>
+	<xs:element name="q" type="InlineType"/>
+	
+	
+	<!-- ===================== Image ===================== -->
+	
+	<!-- Image -->
+	<xs:complexType name="ImageType">
+		<xs:attribute name="src" type="xs:string" use="required"/>
+		<xs:attribute name="size" type="xs:string"/>
+		<xs:attribute name="width" type="xs:string"/>
+		<xs:attribute name="wrap" type="xs:boolean"/>
+	</xs:complexType>
+	<xs:element name="image" type="ImageType"/>
+	
+	
 	<!-- ===================== Paragraph with Mixed Content ===================== -->
+	
 	<xs:complexType name="ParagraphType" mixed="true">
 		<xs:sequence minOccurs="0" maxOccurs="unbounded">
 			<xs:choice>
@@ -458,9 +429,11 @@
 	</xs:complexType>
 	<xs:element name="p" type="ParagraphType"/>
 	<xs:element name="cite" type="ParagraphType"/>
-	
-	<!-- Header -->
-	<xs:complexType name="HeaderType" mixed="true">
+	<xs:element name="header" type="ParagraphType"/>
+	<xs:element name="caption" type="ParagraphType"/>
+
+	<!-- Footnote -->
+	<xs:complexType name="FootnoteType" mixed="true">
 		<xs:sequence minOccurs="0" maxOccurs="unbounded">
 			<xs:choice>
 				<xs:element ref="b"/>
@@ -474,66 +447,66 @@
 				<xs:element ref="ref"/>
 			</xs:choice>
 		</xs:sequence>
+		
 		<!-- Example optional attributes for paragraph styling/ids -->
-		<xs:attributeGroup  ref="AlignAttribute" />
+		<xs:attribute name="id" type="xs:string" use="required"/>
 	</xs:complexType>
-	<xs:element name="header" type="HeaderType"/>
+	<xs:element name="footnote" type="FootnoteType"/>
+
+
+	<!-- ===================== Complex types ===================== -->
 	
 	<!-- Quote -->
-	<xs:complexType name="Quote">
+	<xs:complexType name="ComplexDisplayType">
 		<xs:sequence>
-			<xs:element name="title" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="title" type="ParagraphType" minOccurs="0" maxOccurs="1"/>
 			<xs:choice minOccurs="0" maxOccurs="unbounded">
 				<xs:element ref="p"/>
-				<xs:element name="image" type="Image"/>
+				<xs:element ref="image"/>
 			</xs:choice>
 		</xs:sequence>
 	</xs:complexType>
+	<xs:element name="quote" type="ComplexDisplayType"/>
+	<xs:element name="verse" type="ComplexDisplayType"/>
 	
-	<!-- Verse -->
-	<xs:complexType name="Verse">
-		<xs:sequence>
-			<xs:element name="title" type="ParagraphType" minOccurs="0" maxOccurs="1"/>
-			<xs:element name="p" type="ParagraphType" maxOccurs="unbounded"/>
-		</xs:sequence>
-	</xs:complexType>
 	
-	<!-- Image -->
-	<xs:complexType name="Image">
-		<xs:attribute name="src" type="xs:string" use="required"/>
-		<xs:attribute name="size" type="xs:string"/>
-		<xs:attribute name="width" type="xs:string"/>
-		<xs:attribute name="wrap" type="xs:boolean"/>
-	</xs:complexType>
+	<!-- ===================== Lists ===================== -->
 	
-	<!-- Unordered List -->
-	<xs:complexType name="UnorderedList">
+	<!-- List -->
+	<xs:complexType name="ListType">
 		<xs:sequence>
 			<xs:element name="item" maxOccurs="unbounded">
 				<xs:complexType>
 					<xs:choice minOccurs="0" maxOccurs="unbounded">
 						<xs:element ref="p"/>
-						<xs:element name="image" type="Image"/>
+						<xs:element ref="image"/>
 					</xs:choice>
 				</xs:complexType>
 			</xs:element>
 		</xs:sequence>
+		
 		<!-- Attributes -->
-		<xs:attribute name="ListType" use="optional">
+		<xs:attribute name="type" use="optional">
 			<xs:simpleType>
 				<xs:restriction base="xs:string">
 					<xs:enumeration value="alpha"/>
+					<xs:enumeration value="arabic"/>
 					<xs:enumeration value="roman"/>
+					<xs:enumeration value="bullet"/>
 				</xs:restriction>
 			</xs:simpleType>
 		</xs:attribute>
 	</xs:complexType>
+	<xs:element name="list" type="ListType"/>
+	
+	
+	<!-- ===================== Tables ===================== -->
 	
 	<!-- Cell -->
-	<xs:complexType name="Cell">
+	<xs:complexType name="CellType">
 		<xs:choice minOccurs="0" maxOccurs="1">
 			<xs:element ref="p"/>
-			<xs:element name="image" type="Image"/>
+			<xs:element ref="image"/>
 		</xs:choice>
 		<!-- Attributes -->
 		<xs:attribute name="align">
@@ -547,65 +520,54 @@
 		</xs:attribute>
 	</xs:complexType>
 	
-	<!-- Cells -->
-	<xs:complexType name="CellRow">
+	<!-- Cell Rows -->
+	<xs:complexType name="CellRowType">
 		<xs:sequence>
-			<xs:element name="cell" type="Cell" maxOccurs="unbounded"/>
+			<xs:element name="cell" type="CellType" maxOccurs="unbounded"/>
 		</xs:sequence>
 	</xs:complexType>
 	
 	<!-- Table -->
-	<xs:complexType name="Table">
+	<xs:complexType name="TableType">
 		<xs:sequence>
 			<!-- <xs:element name="caption" type="xs:string" minOccurs="0" maxOccurs="1" /> -->
-			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRow"/>
-			<xs:element name="row" maxOccurs="unbounded" type="CellRow"/>
+			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRowType"/>
+			<xs:element name="row" maxOccurs="unbounded" type="CellRowType"/>
 		</xs:sequence>
 		<xs:attribute name="width" type="Percentage"/>
 		<xs:attribute name="columns" type="xs:string"/>
 	</xs:complexType>
+	<xs:element name="table" type="TableType"/>
+	
+	
+	<!-- ===================== Statement Childs ===================== -->
 	
 	<!-- Reusable definition for a statemend childs -->
 	<xs:complexType name="StatementChilds">
 		<xs:choice maxOccurs="unbounded">
-			<xs:element name="quote" type="Quote"/>
-			<xs:element name="verse" type="Verse"/>
+			<xs:element ref="quote"/>
+			<xs:element ref="verse"/>
 			<xs:element ref="header"/>
-			<xs:element name="caption" type="xs:string"/>
+			<xs:element ref="caption"/>
 			<xs:element ref="cite"/>
-			
 			<xs:element ref="p"/>
-			<xs:element name="footnote">
-				<xs:complexType mixed="true">
-					<xs:sequence minOccurs="0" maxOccurs="unbounded">
-						<xs:choice>
-							<xs:element ref="b"/>
-							<xs:element ref="i"/>
-							<xs:element ref="u"/>
-							<xs:element ref="q"/>
-							<xs:element ref="m"/>
-							<xs:element ref="math"/>
-							<xs:element ref="c"/>
-							<xs:element ref="chem"/>
-							<xs:element ref="ref"/>
-						</xs:choice>
-					</xs:sequence>
-					
-					<xs:attribute name="id" type="xs:string" use="required"/>
-				</xs:complexType>
-			</xs:element>
-			<xs:element name="image" type="Image"/>
-			<xs:element name="list" type="UnorderedList"/>
-			<xs:element name="table" type="Table"/>
+			<xs:element ref="footnote"/>
+			<xs:element ref="image"/>
+			<xs:element ref="list"/>
+			<xs:element ref="table"/>
 		</xs:choice>
 	</xs:complexType>
 	
+	
+	<!-- ===================== Options ===================== -->
+	
 	<!-- Option -->
 	<xs:complexType name="Option">
-		<xs:choice minOccurs="0" maxOccurs="unbounded">
+		<xs:choice minOccurs="1" maxOccurs="unbounded">
 			<xs:element ref="p"/>
-			<xs:element name="image" type="Image"/>
+			<xs:element ref="image"/>
 		</xs:choice>
+		
 		<!-- label atribute for option tag -->
 		<xs:attribute name="label" type="xs:string" use="required"/>
 		<!-- is_correct atribute for option tag -->
@@ -615,11 +577,11 @@
 	<!-- Table Options -->
 	<xs:complexType name="TableOptions">
 		<xs:sequence>
-			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRow"/>
+			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRowType"/>
 			<xs:element name="option" maxOccurs="unbounded">
 				<xs:complexType>
 					<xs:sequence>
-						<xs:element name="cell" maxOccurs="unbounded" type="Cell"/>
+						<xs:element name="cell" maxOccurs="unbounded" type="CellType"/>
 					</xs:sequence>
 					<!-- label atribute for option tag -->
 					<xs:attribute name="label" type="xs:string" use="required"/>
@@ -641,11 +603,14 @@
 		</xs:choice>
 	</xs:complexType>
 	
+	
+	<!-- ===================== Parts ===================== -->
+	
 	<!-- Part -->
 	<xs:complexType name="Part">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
 			<xs:element ref="p"/>
-			<xs:element name="image" type="Image"/>
+			<xs:element ref="image"/>
 		</xs:choice>
 	</xs:complexType>
 	
@@ -655,6 +620,9 @@
 			<xs:element name="part" maxOccurs="unbounded" type="Part"/>
 		</xs:sequence>
 	</xs:complexType>
+	
+	
+	<!-- ===================== Question Group ===================== -->
 	
 	<!-- Reusable definition for a group of questions -->
 	<xs:complexType name="QuestionGroup">
@@ -696,6 +664,9 @@
 		</xs:sequence>
 	</xs:complexType>
 	
+	
+	<!-- ===================== Exam ===================== -->
+	
 	<!-- Definition for the root element 'exam' -->
 	<xs:element name="exam">
 		<xs:complexType>
@@ -710,6 +681,7 @@
 					</xs:complexType>
 				</xs:element>
 			</xs:choice>
+			
 			<!-- Attributes for the exam tag -->
 			<xs:attribute name="name" type="xs:string" use="required"/>
 			<xs:attribute name="year" type="xs:gYear" use="required"/>

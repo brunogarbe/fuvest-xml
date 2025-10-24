@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <exam name="FUVEST" year="2022" phase="1" day="1" variation="V" date="2021-01-10" lang="pt">
 	<question_group>
-		<objective_question number="01">
+		<objective_question number="01" success_rate="54.4">
 			<classification subject="Biology:Zoology" />
 			<statement>
 				<p>A deficiência na enzima G6PD é uma condição recessiva ligada ao cromossomo X, que pode ser diagnosticada no teste do pezinho expandido. Pessoas com deficiência nesta enzima são suscetíveis à anemia hemolítica ao serem expostas à cloroquina ou primaquina, drogas amplamente prescritas por médicos no tratamento da malária. No Brasil, a prevalência de deficiência em G6PD na população geral varia de acordo com as áreas mostradas no mapa:</p>
@@ -32,7 +32,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="02">
+		<objective_question number="02" success_rate="84.6">
 			<classification subject="Biology:Botany:Photosynthesis" />
 			<statement>
 				<quote>
@@ -62,7 +62,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="03">
+		<objective_question number="03" success_rate="31.9">
 			<classification subject="Biology:Genetics:Gene Expression and Regulation" />
 			<statement>
 				<p>Nas histórias em quadrinhos, o Pantera Negra ganha habilidades físicas e mentais sobre-humanas ao ingerir ou aplicar sobre seu corpo uma solução da erva em formato de coração, cujos efeitos perduram durante a vida do herói, mas não são transmitidos aos descendentes. Essa planta cresce em Wakanda, região da África equatorial oriental, onde um meteorito contendo um metal chamado Vibranium caiu há 10 mil anos e provocou mutações na planta.</p>
@@ -89,7 +89,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="04">
+		<objective_question number="04" success_rate="84.9">
 			<classification subject="Biology:Evolution:Speciation and Phylogeny" />
 			<statement>
 				<image width="0.8" src="fuvest/2022/fase01/q04.png" />
@@ -116,7 +116,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="05">
+		<objective_question number="05" success_rate="62.5">
 			<classification subject="Biology:Genetics:Mendelian Genetics" />
 			<statement>
 				<p>O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em (nm/s)² na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas.</p>
@@ -144,7 +144,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="06">
+		<objective_question number="06" success_rate="93.9">
 			<classification subject="Biology:Ecology" />
 			<statement>
 				<p>Os mapas mostram uma parte do município de São Paulo. O mapa I refere-se à população vacinada contra Sars-Cov-2; o mapa II refere-se à taxa de mortalidade por COVID-19; e o mapa III refere-se ao Índice de Desenvolvimento Humano. Tons mais claros indicam valores menores e tons mais escuros, valores maiores.</p>
@@ -172,7 +172,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="07">
+		<objective_question number="07" success_rate="68.3">
 			<classification subject="Biology:Human:Reproductive System" />
 			<statement>
 				<p>Um aumento no consumo de água e produtos agrícolas por parte da população brasileira geralmente vem atrelado a um aumento na pressão exercida sobre o meio ambiente.</p>
@@ -204,7 +204,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="08">
+		<objective_question number="08" success_rate="60.3">
 			<classification subject="Biology:Cell:Structures and Organelles" />
 			<statement>
 				<p>Os gráficos mostram três trajetórias distintas com relação ao número de espécies animais e vegetais, após desmatamento de áreas da floresta Amazônica:</p>
@@ -232,7 +232,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="09">
+		<objective_question number="09" success_rate="18.1">
 			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>O gráfico representa o volume celular de um protozoário ciliado em um gradiente de salinidade:</p>
@@ -263,7 +263,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="10">
+		<objective_question number="10" success_rate="48.3">
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>O gráfico mostra linhas de tendência de cinco parâmetros da água (eixo y), medidos por pesquisadores, durante os estágios iniciais do processo de eutrofização de uma lagoa, a partir do momento em que começou a haver aporte de esgoto não tratado e antes de haver a estabilização do sistema. Entretanto, os técnicos da companhia de saneamento notaram que nem todas as tendências mostradas no gráfico estão corretas.</p>
@@ -291,7 +291,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="11">
+		<objective_question number="11" success_rate="52.9">
 			<classification subject="Biology:Human:Immune System" />
 			<statement>
 				<p>O gráfico representa a proporção de células em diferentes fases do ciclo celular de dois tecidos humanos (1 e 2), bem como o efeito do tratamento do tecido 2 com uma substância que afeta a divisão celular:</p>
@@ -319,7 +319,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="12">
+		<objective_question number="12" success_rate="76.5">
 			<classification subject="Physics:Mechanics:Kinematics of Particles" />
 			<statement>
 				<p>Analise o esquema e as estruturas (X, Y e Z) da planta para completar a frase a seguir.</p>
@@ -348,7 +348,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="13">
+		<objective_question number="13" success_rate="60.1">
 			<classification subject="Physics:Waves:SoundWaves" />
 			<statement>
 				<p>O esquema a seguir representa o aparecimento de bactérias mutantes em uma colônia e o resultado de sua exposição a quatro diferentes condições de cultura:</p>
@@ -376,7 +376,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="14">
+		<objective_question number="14" success_rate="92.6">
 			<classification subject="Physics:Mechanics:Fluid Dynamics" />
 			<statement>
 				<p>O quadrinho a seguir mostra uma paródia entre situações cotidianas e descobertas científicas.</p>
@@ -404,7 +404,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="15">
+		<objective_question number="15" success_rate="58.0">
 			<classification subject="Physics:Electromagnetism:Magnetism" />
 			<statement>
 				<quote>
@@ -435,7 +435,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="16">
+		<objective_question number="16" success_rate="54.9">
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>A figura sintetiza, de forma simplificada, a variação da pressão sanguínea (mmHg), da velocidade de circulação sanguínea (cm/s) e da área total (cm²) em relação aos diversos tipos de vasos do sistema sanguíneo humano (artérias, arteríolas, capilares, vênulas e veias):</p>
@@ -471,7 +471,7 @@
 			<cite>Nuno Cobra Jr. <q>Fitness não é saúde</q>. Uol. 06/05/2021. Adaptado.</cite>
 		</context>
 
-		<objective_question number="17">
+		<objective_question number="17" success_rate="77.6">
 			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer" />
 			<statement>
 				<p>Sem alteração de sentido, o segundo parágrafo do texto poderia ser reescrito da seguinte maneira:</p>
@@ -495,7 +495,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="18">
+		<objective_question number="18" success_rate="62.9">
 			<classification subject="Physics:Mechanics:Kinematics of Particles" />
 			<statement>
 				<p>Dentre as expressões destacadas, a que exerce a mesma função sintática do termo sublinhado em <q>o treino restaurativo, o relaxamento e o <u>treinamento cardiovascular</u>
@@ -524,7 +524,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="19">
+		<objective_question number="19" success_rate="45.6">
 			<classification subject="Physics:Optics:GeometricOptics" />
 			<statement>
 				<p>Por narrativas paralelas entende-se um procedimento literário segundo o qual dois ou mais fios narrativos pertencentes a níveis distintos de realidade se desenrolam intercaladamente formando um todo.</p>
@@ -576,7 +576,7 @@
 			<footnote id="ref1">Expressão latina, retirada de Lucrécio (Da natureza das coisas), a qual aparece no seguinte trecho: Suave, mari magno, turbantibus aequora ventis/ E terra magnum alterius spectare laborem. (<q>É agradável, enquanto no mar revoltoso os ventos levantam as águas, observar da terra os grandes esforços de um outro.</q>).</footnote>
 		</context>
 
-		<objective_question number="20">
+		<objective_question number="20" success_rate="28.6">
 			<classification subject="Physics:Mechanics:Gravitation" />
 			<statement>
 				<p>A visão do eu-lírico no texto I</p>
@@ -600,7 +600,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="21">
+		<objective_question number="21" success_rate="75.4">
 			<classification subject="Physics:Modern:NuclearPhysics" />
 			<statement>
 				<p>No texto II, a analogia construída a partir da imagem do chicote pretende sugerir que</p>
@@ -624,7 +624,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="22">
+		<objective_question number="22" success_rate="80.0">
 			<classification subject="Physics:Electromagnetism:Circuits" />
 			<statement>
 				<p>No texto III, ao analisar a interioridade de Palha, o narrador descobre, no pensamento oculto do negociante,</p>
@@ -650,7 +650,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="23">
+		<objective_question number="23" success_rate="44.9">
 			<classification subject="Chemistry:General:ChemicalKinetics" />
 			<statement>
 				<quote>
@@ -683,7 +683,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="24">
+		<objective_question number="24" success_rate="25.8">
 			<classification subject="Chemistry:Atomistics:Chemical Bonds" />
 			<statement>
 				<quote>
@@ -724,7 +724,7 @@
 			<cite>Taís Ilhéu. <q>Por que taxar os livros pode gerar retrocesso social e econômico no país</q>. Guia do Estudante. Setembro/2020. Adaptado.</cite>
 		</context>
 
-		<objective_question number="25">
+		<objective_question number="25" success_rate="85.0">
 			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>De acordo com o texto, os eventos sequenciais aos quais alude a expressão <q>efeito cascata</q> são:</p>
@@ -748,7 +748,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="26">
+		<objective_question number="26" success_rate="72.6">
 			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>No texto, OS pronomes em negrito referem-se, respectivamente, a:</p>
@@ -775,7 +775,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="27">
+		<objective_question number="27" success_rate="57.0">
 			<classification subject="Chemistry:Physical:Electrochemistry" />
 			<statement>
 				<quote>
@@ -812,7 +812,7 @@
 			<cite>Charles Higounet. A história da escrita. Adaptado.</cite>
 		</context>
 
-		<objective_question number="28">
+		<objective_question number="28" success_rate="85.1">
 			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>A escrita poderia servir de definição da nossa civilização, uma vez que</p>
@@ -836,7 +836,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="29">
+		<objective_question number="29" success_rate="65.4">
 			<classification subject="Chemistry:Organic:Isomerism" />
 			<statement>
 				<p>A locução conjuntiva <q>de tal modo...que</q> e o advérbio <q>sobretudo</q>, respectivamente, expressam noção de:</p>
@@ -862,7 +862,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="30">
+		<objective_question number="30" success_rate="56.4">
 			<classification subject="Chemistry:Atomistics" />
 			<statement>
 				<p>Atualmente, no Brasil, coexistem dois sistemas de placas de identificação de automóveis: o padrão Mercosul (o mais recente) e aquele que se iniciou em 1990 (o sistema anterior, usado ainda pela maioria dos carros em circulação). No sistema anterior, utilizavam-se 3 letras (em um alfabeto de 26 letras) seguidas de 4 algarismos (de 0 a 9). No padrão Mercosul adotado no Brasil para automóveis, são usadas 4 letras e 3 algarismos, com 3 letras nas primeiras 3 posições e a quarta letra na quinta posição, podendo haver repetições de letras ou de números. A figura ilustra os dois tipos de placas.</p>
@@ -890,7 +890,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="31">
+		<objective_question number="31" success_rate="55.1">
 			<classification subject="Chemistry:Inorganic:Acids and Bases" />
 			<statement>
 				<p>O sistema de numeração conhecido como chinês científico (ou em barras) surgiu provavelmente há mais de dois milênios. O sistema é essencialmente posicional, de base 10, com o primeiro algarismo à direita representando a unidade. A primeira linha horizontal de símbolos da figura mostra como se representam os algarismos 1, 2, 3, 4, 5, 6, 7, 8 e 9 quando aparecem em posições ímpares (unidades, centenas etc.), e a segunda linha quando tais algarismos aparecem em posições pares (dezenas, milhares etc.). Nesse sistema, passou-se a usar um círculo para representar o algarismo zero a partir da Dinastia Sung (960-1126).</p>
@@ -918,7 +918,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="32">
+		<objective_question number="32" success_rate="66.9">
 			<classification subject="Chemistry:General:ChemicalEquilibrium" />
 			<statement>
 				<p>Um vídeo tem três minutos de duração. Se o vídeo for reproduzido, desde o seu início, com velocidade de 1,5 vezes a velocidade original, o tempo de reprodução do vídeo inteiro será de</p>
@@ -944,7 +944,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="33">
+		<objective_question number="33" success_rate="73.3">
 			<classification subject="Chemistry:Physical:Thermochemistry" />
 			<statement>
 				<p>Uma indústria produz três modelos de cadeiras (indicadas por <m>M_1</m>, <m>M_2</m> e <m>M_3</m>), cada um deles em duas opções de cores: preta e vermelha (indicadas por P e V, respectivamente). A tabela mostra o número de cadeiras produzidas semanalmente conforme a cor e o modelo:</p>
@@ -1024,7 +1024,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="34">
+		<objective_question number="34" success_rate="59.5">
 			<classification subject="Math:Probability" />
 			<statement>
 				<p>Os funcionários de um salão de beleza compraram um presente no valor de R$ 200,00 para a recepcionista do estabelecimento. No momento da divisão igualitária do valor, dois deles desistiram de participar e, por causa disso, cada pessoa que ficou no grupo precisou pagar R$ 5,00 a mais que a quantia originalmente prevista.</p>
@@ -1051,7 +1051,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="35">
+		<objective_question number="35" success_rate="41.9">
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>Uma empresa construiu um poço para armazenar água de reúso. O custo para construir o primeiro metro foi de R$ 1.000,00, e cada novo metro custou R$ 200,00 a mais do que o imediatamente anterior. Se o custo total da construção foi de R$ 48.600,00, a profundidade do poço é:</p>
@@ -1077,7 +1077,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="36">
+		<objective_question number="36" success_rate="26.8">
 			<classification subject="Math:Algebra:Logarithmic" />
 			<statement>
 				<p>Um deltaedro é um poliedro cujas faces são todas triângulos equiláteros. Se um deltaedro convexo possui 8 vértices, então o número de faces desse deltaedro é:</p>
@@ -1106,7 +1106,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="37">
+		<objective_question number="37" success_rate="14.8">
 			<classification subject="Math:Trigonometry" />
 			<statement>
 				<p>A figura mostra um quadrado e um círculo, ambos com centro no ponto O. O quadrado tem lado medindo 1 unidade de medida (u.m.) e o círculo tem raio igual a 2 u.m. O ponto <m>A</m> está sobre o contorno do quadrado, o ponto <m>B</m> está sobre o contorno do círculo, e o segmento <m>AB</m> tem tamanho 2 u.m.</p>
@@ -1144,7 +1144,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="38">
+		<objective_question number="38" success_rate="18.3">
 			<classification subject="Math:Financial" />
 			<statement>
 				<p>Suponha que o polinômio <m>p(x)=x^3+mx-2</m>, em que <m>m</m> é um número real, tenha uma raiz real dupla a e uma raiz real simples <m>b</m>. O valor da soma de <m>m</m> com <m>a</m> é:</p>
@@ -1170,7 +1170,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="39">
+		<objective_question number="39" success_rate="39.0">
 			<classification subject="Math:Combinatorics" />
 			<statement>
 				<p>Quatro tanques cilíndricos são vistos de cima (em planta baixa) conforme a figura. Todos têm 10 m de raio e seus centros se posicionam em vértices dos dois quadrados tracejados adjacentes, ambos com 30 m de lado. Uma fita de isolamento, esticada e paralela ao solo, envolve os 4 tanques, dando uma volta completa (linha em laranja na figura).</p>
@@ -1208,7 +1208,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="40">
+		<objective_question number="40" success_rate="35.1">
 			<classification subject="Math:Number Sets" />
 			<statement>
 				<p>Em fevereiro de 2021, um grupo de físicos da Universidade Federal de Minas Gerais (UFMG) publicou um artigo que foi capa da importante revista Nature. O texto a seguir foi retirado de uma reportagem do site da UFMG sobre o artigo:</p>
@@ -1236,7 +1236,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="41">
+		<objective_question number="41" success_rate="40.7">
 			<classification subject="Math:Algebra:Polynomials" />
 			<statement>
 				<p>A quantidade de bactérias em um líquido é diretamente proporcional à medida da turbidez desse líquido. O gráfico mostra, em escala logarítmica, o crescimento da turbidez <m>x</m> de um líquido ao longo do tempo <m>t</m> (medido em minutos), isto é, mostra <m>log_{10}x</m> em função de <m>t</m>. Os dados foram coletados de 30 em 30 minutos, e uma curva de interpolação foi obtida para inferir valores intermediários.</p>
@@ -1277,7 +1277,7 @@
 			<cite>Newsweek, 14 March, 2019. Adaptado.</cite>
 		</context>
 
-		<objective_question number="42">
+		<objective_question number="42" success_rate="82.9">
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>O texto informa que, na opinião do jornalista Tim Adams, os <i>fatbergs</i>
@@ -1302,7 +1302,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="43">
+		<objective_question number="43" success_rate="87.3">
 			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
 				<p>De acordo com o texto, o processo de bloqueio do fluxo de esgoto, provocado pelos <i>fatbergs</i>, ocorre</p>
@@ -1326,7 +1326,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="44">
+		<objective_question number="44" success_rate="53.4">
 			<classification subject="Math:Algebra:Linear Equations" />
 			<statement>
 				<p>Considerado o contexto, os quatro elementos associados à prevenção dos fatbergs têm em comum o fato de</p>
@@ -1362,7 +1362,7 @@
 			<cite>The Guardian. 02 December, 2020. Adaptado.</cite>
 		</context>
 
-		<objective_question number="45">
+		<objective_question number="45" success_rate="81.6">
 			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<p>De acordo com o texto, para os proprietários de restaurante, a principal vantagem dos aplicativos de entrega de comida é que eles</p>
@@ -1386,7 +1386,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="46">
+		<objective_question number="46" success_rate="77.0">
 			<classification subject="History:Brazil:Empire of Brazil" />
 			<statement>
 				<p>Segundo o texto, uma das soluções encontradas pelos donos de restaurante para amenizar os problemas com os serviços de entrega é</p>
@@ -1410,7 +1410,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="47">
+		<objective_question number="47" success_rate="84.1">
 			<classification subject="History:Contemporary:ColdWar" />
 			<statement>
 				<p>Em <q>I believe that restaurant owners that resist these apps are <u>hurting</u> their brands by missing out on potential customers</q> (3º parágrafo), a expressão sublinhada pode ser substituída, sem prejuízo de sentido, por:</p>
@@ -1436,7 +1436,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="48">
+		<objective_question number="48" success_rate="58.5">
 			<classification subject="History:Brazil:Populist Republic" />
 			<statement>
 				<quote>
@@ -1466,7 +1466,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="49">
+		<objective_question number="49" success_rate="96.4">
 			<classification subject="History:Brazil:New Republic" />
 			<statement>
 				<image width="0.8" src="fuvest/2022/fase01/q49.png" />
@@ -1493,7 +1493,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="50">
+		<objective_question number="50" success_rate="60.8">
 			<classification subject="History:Ancient:Rome" />
 			<statement>
 				<p>Um bom café deve ser preparado a uma temperatura pouco acima de 80°C. Para evitar queimaduras na boca, deve ser consumido a uma temperatura mais baixa. Uma xícara contém 60 mL de café a uma temperatura de 80°C. Qual a quantidade de leite gelado (a uma temperatura de 5°C) deve ser misturada ao café para que a temperatura final do café com leite seja de 65°C?</p>
@@ -1522,7 +1522,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="51">
+		<objective_question number="51" success_rate="60.2">
 			<classification subject="History:Medieval" />
 			<statement>
 				<p>Uma criança deixa cair de uma mesma altura duas maçãs, uma delas duas vezes mais pesada do que a outra. Ignorando a resistência do ar e desprezando as dimensões das maçãs frente à altura inicial, o que é correto afirmar a respeito das energias cinéticas das duas maçãs na iminência de atingirem o solo?</p>
@@ -1548,7 +1548,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="52">
+		<objective_question number="52" success_rate="43.2">
 			<classification subject="History:Modern" />
 			<statement>
 				<p>Uma bola de bilhar vermelha está inicialmente em repouso a 40 cm de duas das bordas (lateral e superior da figura) de uma mesa de bilhar, como mostra a figura. Uma bola branca de mesma massa e tamanho é lançada em direção à vermelha com velocidade $\vec{v}_{0}$ paralela à borda lateral. As duas bolas colidem e, algum tempo depois, a bola vermelha está prestes a cair na caçapa posicionada na junção das duas bordas. No mesmo instante, a bola branca toca a borda superior da mesa a uma distância d da bola vermelha, conforme figura.</p>
@@ -1578,7 +1578,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="53">
+		<objective_question number="53" success_rate="55.4">
 			<classification subject="History:Contemporary" />
 			<statement>
 				<p>Considere a situação indicada na figura, em que um motor, com o auxílio de uma polia, ergue verticalmente uma caixa de massa 12 kg. A caixa contém materiais frágeis e deve ser erguida com velocidade constante. Qual é a magnitude da força vertical que o motor deve exercer para realizar a tarefa?</p>
@@ -1609,7 +1609,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="54">
+		<objective_question number="54" null="true">
 			<classification subject="History:Brazil:Old Republic" />
 			<statement>
 				<p>Dois fios muito longos transportam, cada um deles, uma corrente elétrica de intensidade I, conforme indicado na figura. Uma partícula de carga <m>+Q</m>, situada a uma distância <m>R</m> de cada um dos fios, move-se com velocidade constante <m>\vec{V}</m> ao longo da direção <m>z</m>.</p>
@@ -1644,7 +1644,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="55">
+		<objective_question number="55" success_rate="41.5">
 			<classification subject="History:Contemporary:WorldWars" />
 			<statement>
 				<p>Um componente eletrônico tem curva característica mostrada no gráfico a seguir:</p>
@@ -1672,7 +1672,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="56">
+		<objective_question number="56" success_rate="13.3">
 			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>O canhão de Newton, esquematizado na figura, é um experimento mental imaginado por Isaac Newton para mostrar que sua lei da gravitação era universal. Disparando o canhão horizontalmente do alto de uma montanha, a bala cairia na Terra em virtude da força da gravidade. Com uma maior velocidade inicial, a bala iria mais longe antes de retornar à Terra. Com a velocidade certa, o projétil daria uma volta completa em torno da Terra, sempre "caindo" sob ação da gravidade, mas nunca alcançando a Terra. Newton concluiu que esse movimento orbital seria da mesma natureza do movimento da Lua em torno da Terra.</p>
@@ -1704,7 +1704,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="57">
+		<objective_question number="57" success_rate="58.6">
 			<classification subject="Geography:Human:Urbanization" />
 			<statement>
 				<p>Em virtude do movimento das placas tectônicas, a distância entre a América do Sul e a África aumenta, nos dias atuais, cerca de 2,0 cm a cada ano. Supondo que essa velocidade tivesse sido constante ao longo do tempo, e tomando uma distância atual de cerca de 5.000 km entre os limites dessas duas massas continentais, indique a melhor estimativa para quanto tempo teria transcorrido desde quando ambas estavam unidas em um único supercontinente.</p>
@@ -1733,7 +1733,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="58">
+		<objective_question number="58" success_rate="57.6">
 			<classification subject="Geography:Cartography:Map Projections and Scales" />
 			<statement>
 				<p>Uma mancha de petróleo com mais de 3000 km de extensão se espalhou por praias e manguezais da costa da região nordeste e parte do sudeste, atingindo áreas marinhas protegidas como o Parque Nacional Marinho de Abrolhos, um dos principais bancos de corais e berço de biodiversidade do Atlântico Sul. Desde que foi detectada pela primeira vez, no dia 30 de agosto de 2019, a mancha de petróleo atingiu cerca de 900 locais em mais de 127 municípios em 11 estados. A origem do petróleo está estimada em algum local a leste do litoral do estado de Pernambuco, distante, aproximadamente, 600 km da linha de costa.</p>
@@ -1760,7 +1760,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="59">
+		<objective_question number="59" success_rate="66.3">
 			<classification subject="Geography:Geopolitics:Global Conflicts" />
 			<statement>
 				<p>A escala cartográfica expressa as dimensões presentes em um mapa e a sua correspondência no terreno, ou seja, é uma abstração adotada que permite transpor a realidade terrestre para o mapa mantendo as proporções. Considerando a distância de 6 cm entre dois municípios em um mapa com escala numérica de 1: 1.000.000, qual é a distância, em linha reta, entre eles?</p>
@@ -1786,7 +1786,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="60">
+		<objective_question number="60" success_rate="46.1">
 			<classification subject="Geography:Human:Economic and Agricultural" />
 			<statement>
 				<p>Eventos climáticos extremos marcaram este ano com vários exemplos no mundo, atingindo populações inteiras, tanto em ambientes rurais como urbanos. Dentre esses eventos, pode-se destacar as inundações na Alemanha no mês de julho, com regiões acometidas por fortes chuvas.</p>
@@ -1815,7 +1815,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="61">
+		<objective_question number="61" success_rate="48.5">
 			<classification subject="Geography:Physical:Geomorphology" />
 			<statement>
 				<p>O mapa mostra a topografia, os aspectos da paisagem e o tipo de cobertura vegetal da superfície numa determinada área, com um observador que, localizado próximo ao leito do rio, vê a paisagem direcionando seu olhar para o quadrante nordeste.</p>
@@ -1844,7 +1844,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="62">
+		<objective_question number="62" success_rate="42.9">
 			<classification subject="Geography:Brazil:Environmental Issues" />
 			<statement>
 				<p>No dia 23 de março de 2021 o mega navio Ever Given, de 220.000 toneladas e 400 m de comprimento, encalhou no Canal de Suez no Egito em rota para o porto de Rotterdam, Holanda, ficando atravessado e preso pelas extremidades. O navio reflutuou no dia 29 do mesmo mês em razão das condições de vento e maré, além da operação promovida por rebocadores.</p>
@@ -1872,7 +1872,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="63">
+		<objective_question number="63" success_rate="90.9">
 			<classification subject="Geography:Human:Population and Demographics" />
 			<statement>
 				<p>Uma forma de conservação do Cerrado é a prática de queimadas controladas que simulam o ciclo natural do fogo. Observe a imagem que retrata os efeitos visuais de uma queimada controlada em um trecho de Cerrado da Estação Ecológica de Santa Bárbara, no interior do estado de São Paulo.</p>
@@ -1901,7 +1901,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="64">
+		<objective_question number="64" success_rate="89.7">
 			<classification subject="Geography:Brazil:Physical:Climatology" />
 			<statement>
 				<p>Conforme definição da Organização Internacional do Trabalho (OIT), o trabalho de cuidado envolve dois tipos de atividades: as diretas, como alimentar um bebê ou cuidar de um doente, e as indiretas, como cozinhar ou limpar. O gráfico apresenta a desigualdade de gênero no trabalho de cuidado no mundo, expressa pela diferença entre homens e mulheres quanto ao tempo e à remuneração.</p>
@@ -1929,7 +1929,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="65">
+		<objective_question number="65" success_rate="64.8">
 			<classification subject="Geography:Geopolitics:International Organizations" />
 			<statement>
 				<quote>
@@ -1964,7 +1964,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="66">
+		<objective_question number="66" success_rate="81.6">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>A pandemia da COVID-19 acendeu o alerta sobre os impactos que a rápida disseminação de enfermidades produz em um mundo cada vez mais globalizado. Além disso, ressaltou a importância das pesquisas científicas na descoberta, tratamento e controle de doenças tropicais negligenciadas, muitas delas recorrentes em diferentes países do mundo. Os mapas a seguir indicam as taxas de incidência de doenças tropicais negligenciadas (total de casos por milhão de habitantes) e o Produto Interno Bruto (PIB) per capita dos respectivos países.</p>
@@ -1992,7 +1992,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="67">
+		<objective_question number="67" success_rate="33.1">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<quote>
@@ -2021,7 +2021,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="68">
+		<objective_question number="68" success_rate="42.4">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>A produção do vidro tem por base a modificação da estrutura cristalina do quartzo (<c>SiO2</c>) por meio do seu aquecimento e da adição de óxidos alcalinos, dentre eles o <c>Na2O</c>. Esse processo adiciona cátions sódio à estrutura do quartzo, tornando-a amorfa. Alguns vidros, como os utilizados em telas de smartphones, passam ainda por processo de troca iônica para aumentar a resistência a quedas e riscos. Para isso, o vidro é banhado em uma solução salina contendo íons potássio. Dessa forma, o potássio substitui o sódio na estrutura, sem que o volume do vidro se altere.</p>
@@ -2049,7 +2049,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="69">
+		<objective_question number="69" success_rate="24.8">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Uma das formulações para os adesivos <q>silicones</q> usados na construção civil é chamada de <q>silicone acético</q>. Essa nomenclatura é utilizada porque o componente ativo libera ácido acético durante a formação do precursor, espécie que promoverá a polimerização, como representado genericamente a seguir.</p>
@@ -2120,7 +2120,7 @@
 			</table>
 		</context>
 
-		<objective_question number="70">
+		<objective_question number="70" success_rate="72.7">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>A reação global balanceada, composta pelas etapas I e II, que representa a formação de ozônio é:</p>
@@ -2154,7 +2154,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="71">
+		<objective_question number="71" success_rate="17.0">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>O <m>\Delta H</m>, relacionado à reação II, pode ser calculado a partir dos dados fornecidos para as reações I e III. O valor de <m>\Delta H_{II}</m>, em kcal/mol de <c>O2</c> consumido, é igual a:</p>
@@ -2180,7 +2180,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="72">
+		<objective_question number="72" success_rate="59.7">
 			<classification subject="Literature:Brazil" />
 			<statement>
 				<p>Alguns equipamentos de visão noturna têm seu funcionamento baseado no efeito fotoelétrico, uma das primeiras descobertas que contribuíram para o surgimento da mecânica quântica. Nesses equipamentos, fótons de frequência f emitidos por um objeto incidem sobre uma superfície metálica. Elétrons são então liberados da superfície e acelerados por um campo elétrico. Em seguida, o sinal eletrônico é amplificado e produz uma imagem do objeto. Diferentemente do que a física clássica prevê, apenas os elétrons com energia hf acima de uma certa energia mínima <m>E_0</m> são liberados da superfície metálica. Considerando a incidência de fótons com frequência da ordem de <m>10^{14}</m>~Hz, a ordem de grandeza do valor limite de <m>E_0</m> para que o equipamento funcione deve ser:</p>
@@ -2215,7 +2215,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="73">
+		<objective_question number="73" success_rate="52.6">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<p>As reações de hidrólise de ésteres, quando realizadas em meio aquoso, podem ser catalisadas pela adição de ácido, sendo a reação mais lenta em meios próximos da neutralidade.</p>
@@ -2244,7 +2244,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="74">
+		<objective_question number="74" success_rate="34.0">
 			<classification subject="Portuguese:Grammar:Morphology:Verbs" />
 			<statement>
 				<p>Cálculos renais, conhecidos popularmente por <q>pedras nos rins</q>, consistem principalmente em oxalato de cálcio, <c>CaC2O4</c>, espécie cuja constante de solubilidade (<m>K_{ps}</m>) é de aproximadamente <m>2 \times 10^{-9}</m>. Os íons oxalato, presentes em muitos vegetais, reagem com os íons cálcio para formar oxalato de cálcio, que pode gradualmente se acumular nos rins. Supondo que a concentração de íons cálcio no plasma sanguíneo seja de cerca de <m>5 \times 10^{-3}</m>~mol/L, qual seria a concentração mínima, em mol/L, de íons oxalato para que <m>CaC2O4</m> precipitasse?</p>
@@ -2283,7 +2283,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="75">
+		<objective_question number="75" success_rate="30.5">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<p>Um marcador radioativo (<c>^{24}Na</c>) foi injetado em um ponto de um cano de água subterrâneo e, na sequência, com um detector sobre o solo, foi medida a radioatividade ao longo do percurso do cano. A figura a seguir esquematiza o local de injeção do marcador e o perfil da radioatividade detectada ao longo do cano.</p>
@@ -2312,7 +2312,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="76">
+		<objective_question number="76" success_rate="39.8">
 			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>O hidróxido de alumínio (<c>Al(OH)3</c>), ao precipitar em solução aquosa, forma um sólido gelatinoso que pode ser usado como agente floculante no tratamento de água. Essa precipitação pode ocorrer pela adição de um hidróxido solúvel a uma solução aquosa ácida contendo um sal de alumínio solúvel, como o <c>AlCl3</c>. Entretanto, adicionando-se excesso de hidróxido ao meio, há a formação de íons <c>Al(OH4)-</c>, espécie solúvel em água, e o precipitado se solubiliza novamente. Dessa forma, dependendo do pH do meio, uma dentre as espécies <c>Al(OH)4-(aq)</c>, <c>Al(OH)3(s)</c> e <c>Al3+(aq)</c> estará presente na solução em quantidade maior que as demais, como exemplificado no esquema.</p>
@@ -2340,7 +2340,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="77">
+		<objective_question number="77" success_rate="30.2">
 			<classification subject="Literature:Brazil:Realism and Naturalism" />
 			<statement>
 				<p>Para o monitoramento ambiental no entorno de um posto de gasolina, coletou-se uma amostra de solo que foi submetida de forma integral à análise de naftaleno, um composto presente na gasolina. A concentração encontrada foi de 2,0 mg de naftaleno por kg de solo úmido. Sabendo que essa amostra de solo contém 20% de água, qual é o resultado dessa análise por kg de solo seco?</p>
@@ -2366,7 +2366,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="78">
+		<objective_question number="78" success_rate="47.2">
 			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>O cátion <c>Ba2+</c> pode apresentar toxicidade aos humanos, dependendo de sua concentração e forma química. Por exemplo, <c>BaSO4</c> é pouco tóxico, sendo usado como contraste radiológico, por ser insolúvel em solução aquosa, enquanto <c>BaCO3</c> e <c>Ba(NO3)2</c> são muito tóxicos, pois liberam <c>Ba2+</c> no organismo. Em um laboratório foram feitos dois testes de solubilidade para identificar o conteúdo de três frascos não rotulados que poderiam ser de <c>Ba(NO3)2</c>, <c>BaCO3</c> ou <c>BaSO4</c>. Os resultados dos dois testes de solubilidade são apresentados a seguir.</p>
@@ -2444,7 +2444,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="79">
+		<objective_question number="79" success_rate="38.4">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
@@ -2474,7 +2474,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="80">
+		<objective_question number="80" success_rate="96.7">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<image width="0.7" src="fuvest/2022/fase01/q80.png" />
@@ -2502,7 +2502,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="81">
+		<objective_question number="81" success_rate="78.9">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<quote>
@@ -2534,7 +2534,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="82">
+		<objective_question number="82" success_rate="88.7">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
@@ -2564,7 +2564,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="83">
+		<objective_question number="83" success_rate="55.6">
 			<classification subject="Literature:World Literature" />
 			<statement>
 				<p>A revolta dos Malês, ocorrida em Salvador em 1835,</p>
@@ -2590,7 +2590,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="84">
+		<objective_question number="84" success_rate="21.3">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<p>A respeito da Guerra do Peloponeso no séc. V a.C., é correto afirmar:</p>
@@ -2616,7 +2616,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="85">
+		<objective_question number="85" success_rate="85.5">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<image width="0.7" src="fuvest/2022/fase01/q85.png" />
@@ -2644,7 +2644,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="86">
+		<objective_question number="86" success_rate="21.0">
 			<classification subject="Literature:World Literature" />
 			<statement>
 				<p>A noção de ditadura variou ao longo da História e dependeu das características políticas de cada sociedade. A esse respeito, assinale a alternativa correta:</p>
@@ -2670,7 +2670,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="87">
+		<objective_question number="87" success_rate="71.9">
 			<classification subject="Literature:World Literature" />
 			<statement>
 				<quote>
@@ -2702,7 +2702,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="88">
+		<objective_question number="88" success_rate="50.3">
 			<classification subject="Portuguese:Grammar:Morphology" />
 			<statement>
 				<p>As fotos de Robert Capa e de Yevgeny Khaldei foram produzidas para documentar eventos da Segunda Guerra Mundial.</p>
@@ -2730,7 +2730,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="89">
+		<objective_question number="89" success_rate="55.5">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
@@ -2765,7 +2765,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="90">
+		<objective_question number="90" success_rate="88.0">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<quote>

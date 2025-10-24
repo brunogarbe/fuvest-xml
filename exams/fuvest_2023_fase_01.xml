@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <exam name="FUVEST" year="2023" phase="objective" day="1" variation="V" date="2022-12-04" lang="pt-br">
 	<question_group>
-		<objective_question number="01">
+		<objective_question number="01" success_rate="94.5">
 			<classification subject="Sociology:General:SocialStructure and Stratification" />
 			<statement>
 				<quote>
@@ -33,7 +33,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="02">
+		<objective_question number="02" success_rate="90.6">
 			<classification subject="Sociology:General:SocialStructure and Stratification" />
 			<statement>
 				<quote>
@@ -64,7 +64,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="03">
+		<objective_question number="03" success_rate="45.3">
 			<classification subject="History:Brazil:Old Republic" />
 			<statement>
 				<quote>
@@ -94,7 +94,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="04">
+		<objective_question number="04" success_rate="55.9">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<verse>
@@ -151,7 +151,7 @@
 			<cite>SOUZA, Jessé. Como o racismo criou o Brasil. Rio de Janeiro: Estação Brasil, 2021.</cite>
 		</context>
 
-		<objective_question number="05">
+		<objective_question number="05" success_rate="84.3">
 			<classification subject="Sociology:General:SocialStructure and Stratification" />
 			<statement>
 				<p>De acordo com o texto, o uso de <q>colaborador</q> no lugar de <q>trabalhador</q>, no campo das relações de trabalho, indica</p>
@@ -175,7 +175,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="06">
+		<objective_question number="06" success_rate="45.6">
 			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>O uso dos verbos <q>passar</q> (2º parágrafo) e <q>tentar</q> (3º parágrafo) no texto, em sua forma pronominal, revela</p>
@@ -206,7 +206,7 @@
 			<cite>Disponível em https://tirasarmandinho.tumblr.com/. Adaptado.</cite>
 		</context>
 
-		<objective_question number="07">
+		<objective_question number="07" success_rate="75.7">
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
 				<p>Os verbos <q>detonar</q> e <q>avariar</q>, no texto, são exemplos de</p>
@@ -230,7 +230,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="08">
+		<objective_question number="08" success_rate="57.3">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>Da leitura da tira, depreende-se que</p>
@@ -256,7 +256,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="09">
+		<objective_question number="09" success_rate="42.8">
 			<classification subject="Geography:Physical:Geomorphology" />
 			<statement>
 				<image src="fuvest/2023/fase01/q09.png" />
@@ -283,7 +283,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="10">
+		<objective_question number="10" success_rate="57.8">
 			<classification subject="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)" />
 			<statement>
 				<quote>
@@ -317,7 +317,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="11">
+		<objective_question number="11" success_rate="72.2">
 			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>Os cães podem ser treinados para identificar certas substâncias, dentre elas, a cocaína. Contudo, no treinamento, os cães não precisam ser expostos à cocaína para aprenderem a reconhecer o seu odor. O treinamento pode ser realizado com o benzoato de metila, um éster de odor pungente, produto volátil da degradação da cocaína.</p>
@@ -345,7 +345,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="12">
+		<objective_question number="12" success_rate="54.4">
 			<classification subject="Chemistry:Physical" />
 			<statement>
 				<p>Em um estudo, pesquisadores mostraram que a energia de interação (E) de <c>SO3</c> com diversas espécies tem relação com a distância da ligação <m>S=O</m> (<m>D_{S=O}</m>), como representado na figura.</p>
@@ -375,7 +375,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="13">
+		<objective_question number="13" success_rate="34.0">
 			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer" />
 			<statement>
 				<p>Diversos processos na indústria de óleo e gás podem envolver misturas de gases a diferentes temperaturas. Um sistema isolado é composto por dois compartimentos de mesmo volume: o primeiro é ocupado por <m>n_{1}=1</m> mol e o segundo é ocupado por <m>n_{2}=2</m> mols de um gás ideal monoatômico. Inicialmente cada compartimento encontra-se em equilíbrio térmico, com temperatura <m>T_{1}=4T</m> e <m>T_{2}=T</m> respectivamente, conforme mostra a figura:</p>
@@ -406,7 +406,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="14">
+		<objective_question number="14" success_rate="26.3">
 			<classification subject="Chemistry:Inorganic:Acids and Bases" />
 			<statement>
 				<p>O odor característico de peixes deve-se à base metilamina (<c>CH3-NH2</c>). Esse odor pode ser minimizado lavando-se o peixe, por exemplo, com suco de limão. Assinale a alternativa que apresenta a estrutura de um dos produtos dessa reação ácido-base.</p>
@@ -432,7 +432,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="15">
+		<objective_question number="15" success_rate="82.0">
 			<classification subject="Biology:Evolution:Theories of Evolution" />
 			<statement>
 				<p>A figura representa três momentos sucessivos da população adulta de uma determinada espécie de peixe em uma região na qual há atividade pesqueira. O momento I representa a composição da população adulta antes da pesca. No momento II, observam-se os sobreviventes adultos logo após a pesca. O momento III representa os indivíduos adultos após alguns ciclos de reprodução.</p>
@@ -460,7 +460,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="16">
+		<objective_question number="16" success_rate="88.1">
 			<classification subject="Geography:Human:Economic and Agricultural" />
 			<statement>
 				<quote>
@@ -490,7 +490,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="17">
+		<objective_question number="17" success_rate="51.1">
 			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>Poluentes orgânicos persistentes (POPs) são compostos que persistem no ambiente por longos períodos, ou seja, são pouco degradados naturalmente, magnificam-se ao longo da teia trófica e provocam efeitos adversos à saúde e ao meio ambiente. Entre eles estão alguns compostos orgânicos clorados utilizados como pesticidas e isolantes de chamas.</p>
@@ -518,7 +518,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="18">
+		<objective_question number="18" success_rate="60.2">
 			<classification subject="Geography:Brazil:Environmental Issues" />
 			<statement>
 				<p>Observe a imagem de satélite a seguir:</p>
@@ -546,7 +546,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="19">
+		<objective_question number="19" success_rate="63.6">
 			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
 				<image src="fuvest/2023/fase01/q19.png" />
@@ -573,7 +573,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="20">
+		<objective_question number="20" success_rate="44.1">
 			<classification subject="Biology:Genetics:Biotechnology" />
 			<statement>
 				<quote>
@@ -603,7 +603,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="21">
+		<objective_question number="21" success_rate="42.4">
 			<classification subject="Math:Algebra:Functions" />
 			<statement>
 				<p>Em uma feira de produtos orgânicos é vendido arroz a granel. A gerente da feira decidiu oferecer descontos progressivos na venda de arroz, de acordo com os seguintes critérios:</p>
@@ -635,7 +635,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="22">
+		<objective_question number="22" success_rate="50.1">
 			<classification subject="Math:Algebra:Sequences and Series" />
 			<statement>
 				<p>Joana comprou um celular e dividiu o pagamento em 24 parcelas mensais que formam uma progressão aritmética crescente. As três primeiras parcelas foram de R$ 120,00, R$ 126,00 e R$ 132,00. Sabendo que, ao final, constatou-se que Joana não pagou a 19ª parcela, o valor pago por ela foi:</p>
@@ -661,7 +661,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="23">
+		<objective_question number="23" success_rate="49.9">
 			<classification subject="Chemistry:Physical:Electrochemistry" />
 			<statement>
 				<p>Alguns aviões empregam fibra de carbono em uma porcentagem significativa de suas estruturas, tornando-as muito menos densas. Partes da estrutura, no entanto, são compostas por metais. Devido à baixa densidade, o alumínio seria uma boa alternativa de metal a ser usado. Entretanto, quando em contato com fibra de carbono, o alumínio é corroído. Esse processo é denominado corrosão galvânica e acontece quando dois materiais que possuem potencial elétrico diferentes são colocados em contato com um eletrólito, como uma solução salina. Para abordar esse problema, pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura a seguir.</p>
@@ -689,7 +689,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="24">
+		<objective_question number="24" success_rate="35.2">
 			<classification subject="Math:Algebra:Linear Equations" />
 			<statement>
 				<p>André e Bianca possuem automóveis que podem ser abastecidos com etanol, gasolina ou uma mistura dos dois combustíveis. Em um mesmo posto de combustível, André abasteceu seu carro com 18 litros da bomba de etanol e 32 litros da bomba de gasolina; já Bianca abasteceu seu carro com 30 litros da bomba de etanol e 20 litros da bomba de gasolina. Sabendo que o valor total pago por André foi 10% maior do que o pago por Bianca, a razão entre os preços, por litro, de etanol e de gasolina é:</p>
@@ -715,7 +715,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="25">
+		<objective_question number="25" success_rate="40.0">
 			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>Combustíveis fósseis, como o diesel, contém em sua composição uma fração de enxofre. Durante o processo de combustão, o enxofre é convertido em <c>SO2</c> tornando-se um poluente ambiental. Em postos de combustível, normalmente são comercializados dois tipos de diesel, o Diesel S10 e o Diesel S500. O primeiro contém 10 ppm de enxofre, e o segundo, 500 ppm de enxofre.</p>
@@ -741,7 +741,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Massas molares (g/mol): O=16; S=32.</p>
 				<p>1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.</p>
 			</assumptions>
@@ -749,7 +748,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="26">
+		<objective_question number="26" success_rate="69.9">
 			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>A tabela fornece informações sobre fatores ambientais relacionados a duas regiões de floresta, uma com alto grau de degradação (I) e outra com baixo grau de degradação (II).</p>
@@ -844,7 +843,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="27">
+		<objective_question number="27" success_rate="47.1">
 			<classification subject="Geography:Brazil:Physical:Climatology" />
 			<statement>
 				<p>O estado de São Paulo, por suas características climáticas, apresenta, no outono e no inverno, probabilidade de ocorrência de geada.</p>
@@ -872,7 +871,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="28">
+		<objective_question number="28" success_rate="42.8">
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>O gráfico mostra a variação no número de folhas de uma espécie de árvore ao longo do ano, bem como a variação da temperatura mínima e da pluviosidade no local em que há presença dessa planta.</p>
@@ -928,7 +927,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="29">
+		<objective_question number="29" success_rate="28.7">
 			<classification subject="Biology:Botany:Plant Physiology" />
 			<statement>
 				<p>A figura a seguir ilustra o xiquexique, um cacto nativo da Caatinga.</p>
@@ -961,7 +960,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="30">
+		<objective_question number="30" success_rate="65.8">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
@@ -991,7 +990,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="31">
+		<objective_question number="31" success_rate="59.8">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>O filósofo David Hume apresenta a seguinte relação entre sensações (ou, em suas palavras, sentimentos) e ideias:</p>
@@ -1040,7 +1039,7 @@
 			<cite>Disponível em https://www.vice.com/. March, 2022. Adaptado.</cite>
 		</context>
 
-		<objective_question number="32">
+		<objective_question number="32" success_rate="65.2">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>De acordo com o texto, os estudos sobre as propriedades do som</p>
@@ -1064,7 +1063,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="33">
+		<objective_question number="33" success_rate="75.6">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Na frase <q>there are certain musical techniques that are generally used to convey certain moods</q> (2º parágrafo), a palavra <q>convey</q> poderia ser substituída, sem prejuízo de sentido, por</p>
@@ -1088,7 +1087,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="34">
+		<objective_question number="34" success_rate="70.8">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>De acordo com o texto, os aspectos físicos relacionados com elementos tanto do som quanto da música são</p>
@@ -1114,7 +1113,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="35">
+		<objective_question number="35" success_rate="81.3">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<quote>
@@ -1145,7 +1144,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="36">
+		<objective_question number="36" success_rate="21.2">
 			<classification subject="Math:Algebra:Exponential" />
 			<classification subject="Physics:Waves:SoundWaves" />
 			<statement>
@@ -1174,7 +1173,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="37">
+		<objective_question number="37" success_rate="49.2">
 			<classification subject="Portuguese:Text Interpretation" />
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
@@ -1246,7 +1245,7 @@
 			<cite>Fernando Pessoa. Mensagem.</cite>
 		</context>
 
-		<objective_question number="38">
+		<objective_question number="38" success_rate="44.0">
 			<classification subject="Literature:Brazil:Modernism" />
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
@@ -1271,7 +1270,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="39">
+		<objective_question number="39" success_rate="21.8">
 			<classification subject="Literature:Brazil:Modernism" />
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
@@ -1298,7 +1297,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="40">
+		<objective_question number="40" success_rate="79.4">
 			<classification subject="History:Brazil:Old Republic" />
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
@@ -1330,7 +1329,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="41">
+		<objective_question number="41" success_rate="49.8">
 			<classification subject="Portuguese:Text Interpretation" />
 			<classification subject="Sociology:General:Culture, Identity and Socialization" />
 			<statement>
@@ -1361,7 +1360,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="42">
+		<objective_question number="42" success_rate="75.8">
 			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
@@ -1391,7 +1390,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="43">
+		<objective_question number="43" success_rate="81.4">
 			<classification subject="History:Brazil:Vargas Era" />
 			<classification subject="Sociology:General:Culture, Identity and Socialization" />
 			<classification subject="Portuguese:Text Interpretation" />
@@ -1429,7 +1428,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="44">
+		<objective_question number="44" success_rate="28.0">
 			<classification subject="Literature:Brazil:Modernism" />
 			<classification subject="History:Brazil:Old Republic" />
 			<statement>
@@ -1468,7 +1467,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="45">
+		<objective_question number="45" success_rate="76.7">
 			<classification subject="History:Contemporary" />
 			<statement>
 				<quote>
@@ -1499,7 +1498,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="46">
+		<objective_question number="46" success_rate="37.4">
 			<classification subject="History:Ancient:Greece" />
 			<statement>
 				<quote>
@@ -1529,7 +1528,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="47">
+		<objective_question number="47" success_rate="84.6">
 			<classification subject="History:Modern:Absolutism and Enlightenment" />
 			<statement>
 				<quote>
@@ -1562,7 +1561,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="48">
+		<objective_question number="48" success_rate="67.4">
 			<classification subject="History:Brazil:Populist Republic" />
 			<statement>
 				<image src="fuvest/2023/fase01/q48_1.png" />
@@ -1595,7 +1594,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="49">
+		<objective_question number="49" success_rate="80.9">
 			<classification subject="History:Contemporary:ColdWar" />
 			<statement>
 				<image src="fuvest/2023/fase01/q49.png" />
@@ -1627,7 +1626,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="50">
+		<objective_question number="50" success_rate="93.1">
 			<classification subject="Portuguese:Text Interpretation" />
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
@@ -1656,7 +1655,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="51">
+		<objective_question number="51" success_rate="82.4">
 			<classification subject="Geography:Cartography:Map Projections and Scales" />
 			<classification subject="Geography:Geopolitics:Global Conflicts" />
 			<statement>
@@ -1690,7 +1689,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="52">
+		<objective_question number="52" success_rate="56.1">
 			<classification subject="Geography:Geopolitics:Global Conflicts" />
 			<statement>
 				<p>Recentemente a região do Sahel, na África, vivenciou golpes de Estado em quatro países: Sudão, Mali, Chade e Burkina Faso.</p>
@@ -1717,7 +1716,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="53">
+		<objective_question number="53" success_rate="44.5">
 			<classification subject="Geography:Human:Population and Demographics" />
 			<classification subject="History:Contemporary" />
 			<statement>
@@ -1747,7 +1746,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="54">
+		<objective_question number="54" success_rate="78.4">
 			<classification subject="Physics:Mechanics:Friction" />
 			<statement>
 				<image src="fuvest/2023/fase01/q54.png" />
@@ -1813,7 +1812,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="55">
+		<objective_question number="55" success_rate="62.0">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
@@ -1844,7 +1843,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="56">
+		<objective_question number="56" success_rate="77.5">
 			<classification subject="Chemistry:General:ChemicalKinetics" />
 			<statement>
 				<p>O cientista Richard Feynman, prêmio Nobel de Física em 1965, fez comentários sobre o processo de combustão em uma entrevista chamada Fun to Imagine. Segundo ele, à primeira vista, é impressionante pensar que os átomos de carbono de uma árvore não entram em combustão com o oxigênio da atmosfera de forma espontânea, já que existe uma grande afinidade entre essas espécies para a formação de <c>CO2</c>. Entretanto, quando a reação tem início, o fogo se espalha facilmente.</p>
@@ -1871,7 +1870,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="57">
+		<objective_question number="57" success_rate="48.7">
 			<classification subject="Chemistry:Atomistics" />
 			<classification subject="Biology:Ecology:Biogeochemical Cycles" />
 			<statement>
@@ -1900,7 +1899,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="58">
+		<objective_question number="58" success_rate="29.3">
 			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>O gráfico mostra a quantidade de emissão de $CO_{2}$ (em bilhões de toneladas) em função do ano.</p>
@@ -1929,7 +1928,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="59">
+		<objective_question number="59" success_rate="69.7">
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
@@ -1960,7 +1959,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="60">
+		<objective_question number="60" success_rate="70.7">
 			<classification subject="Geography:Brazil:Environmental Issues" />
 			<classification subject="Biology:Ecology:Biogeochemical Cycles" />
 			<statement>
@@ -1989,7 +1988,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="61">
+		<objective_question number="61" success_rate="53.2">
 			<classification subject="Biology:Ecology:Population Dynamics" />
 			<classification subject="Biology:Evolution" />
 			<statement>
@@ -2019,7 +2018,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="62">
+		<objective_question number="62" success_rate="71.0">
 			<classification subject="Biology:Ecology:Population Dynamics" />
 			<statement>
 				<p>Os gráficos mostram a variação da biomassa de duas populações (A e B) de uma planta herbácea ao longo da sucessão primária. Em ambos os casos, em um dado momento indicado no gráfico, ocorre a chegada de indivíduos de uma outra espécie que interagem com essa planta na comunidade.</p>
@@ -2047,7 +2046,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="63">
+		<objective_question number="63" success_rate="68.6">
 			<classification subject="Biology:Cell:Structures and Organelles" />
 			<classification subject="Biology:Human:Immune System" />
 			<statement>
@@ -2078,7 +2077,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="64">
+		<objective_question number="64" success_rate="89.1">
 			<classification subject="Biology:Ecology:Biodiversity and Conservation" />
 			<classification subject="Geography:Brazil:Physical:Biogeography" />
 			<statement>
@@ -2106,7 +2105,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="65">
+		<objective_question number="65" success_rate="34.1">
 			<classification subject="Geography:Physical:Geology" />
 			<statement>
 				<p>A superfície terrestre muda conforme a frequência e a magnitude de processos naturais, sendo alguns mais contínuos e outros mais irregulares.</p>
@@ -2134,7 +2133,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="66">
+		<objective_question number="66" success_rate="21.0">
 			<classification subject="Physics:Electromagnetism:Electrostatics" />
 			<statement>
 				<p>O Brasil é o país recordista mundial em queda de raios, com uma estimativa de mais de 70 milhões de eventos desse tipo por ano.</p>
@@ -2160,7 +2159,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="67">
+		<objective_question number="67" success_rate="34.1">
 			<classification subject="Physics:Electromagnetism:Circuits" />
 			<statement>
 				<p>Termistores são termômetros baseados na variação da resistência elétrica com a temperatura e são utilizados em diversos equipamentos, como termômetros digitais domésticos, automóveis, refrigeradores e fornos.</p>
@@ -2202,7 +2201,7 @@
 			<cite>The New Yorker. Abril, 2022. Adaptado.</cite>
 		</context>
 
-		<objective_question number="68">
+		<objective_question number="68" success_rate="81.2">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>No texto, a expressão <q>dark doldrums</q> descreve</p>
@@ -2226,7 +2225,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="69">
+		<objective_question number="69" success_rate="65.6">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Na frase <q>But typical models exhaust their stored energy after only three or four hours of maximum output, and-as every smartphone owner knows-their capacity dwindles with each recharge.</q> (2º parágrafo), "dwindles" poderia ser substituído, sem prejuízo de sentido, por</p>
@@ -2250,7 +2249,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="70">
+		<objective_question number="70" success_rate="69.6">
 			<classification subject="English:Reading Comprehension" />
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
@@ -2277,7 +2276,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="71">
+		<objective_question number="71" success_rate="24.9">
 			<classification subject="Chemistry:Physical:Thermochemistry" />
 			<classification subject="Physics:Modern:NuclearPhysics" />
 			<statement>
@@ -2307,7 +2306,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="72">
+		<objective_question number="72" success_rate="42.7">
 			<classification subject="Chemistry:Physical:Thermochemistry" />
 			<statement>
 				<quote>
@@ -2341,7 +2340,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="73" null="false">
+		<objective_question number="73"  success_rate="32.9">
 			<classification subject="Physics:Optics:GeometricOptics" />
 			<statement>
 				<p>A figura ilustra de maneira simplificada o fenômeno da dispersão da luz branca ao incidir sobre um prisma de vidro a partir do ar, mostrando apenas raios refratados correspondentes a três cores diferentes.</p>
@@ -2382,7 +2381,7 @@
 			</assumptions>
 		</objective_question>
 
-		<objective_question number="74" null="false">
+		<objective_question number="74"  success_rate="64.8">
 			<classification subject="Chemistry:Inorganic:Acids and Bases" />
 			<statement>
 				<p>A obra <q>Rosa e Azul</q>, também conhecida como "As Meninas Cahen d'Anvers", é uma pintura a óleo de Pierre-Auguste Renoir. </p>
@@ -2446,7 +2445,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="75" null="false">
+		<objective_question number="75"  success_rate="71.1">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<image src="fuvest/2023/fase01/q75.png" />
@@ -2472,7 +2471,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="76" null="false">
+		<objective_question number="76"  success_rate="64.9">
 			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
 				<p>Os lagartos do gênero Basiliscus têm a capacidade incomum de correr sobre a água. </p>
@@ -2502,7 +2501,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="77" null="false">
+		<objective_question number="77" success_rate="24.3">
 			<classification subject="Physics:Mechanics:Energy and Momentum Methods" />
 			<statement>
 				<p>Um tradicional brinquedo infantil, conhecido como bate-bate, é composto por duas esferas (bolinhas) de massas iguais conectadas cada qual por uma corda e amarradas num ponto comum. </p>
@@ -2535,7 +2534,7 @@
 			</assumptions>
 		</objective_question>
 
-		<objective_question number="78" null="false">
+		<objective_question number="78" success_rate="33.2">
 			<classification subject="Physics:Mechanics:Gravitation" />
 			<statement>
 				<p>O telescópio espacial James Webb, lançado em dezembro de 2021, move-se nas proximidades de um ponto especial chamado ponto de Lagrange, sobre o qual um objeto orbita o Sol com o mesmo período de translação que a Terra.</p>
@@ -2567,7 +2566,7 @@
 			</assumptions>
 		</objective_question>
 
-		<objective_question number="79" null="false">
+		<objective_question number="79"  success_rate="38.1">
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<classification subject="Physics:Thermodynamics" />
 			<statement>
@@ -2599,7 +2598,7 @@
 			</assumptions>
 		</objective_question>
 
-		<objective_question number="80" null="false">
+		<objective_question number="80" success_rate="30.1">
 			<classification subject="Chemistry:General:ChemicalEquilibrium" />
 			<classification subject="Chemistry:Biochemistry:Proteins" />
 			<statement>
@@ -2632,7 +2631,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="81">
+		<objective_question number="81" success_rate="71.4">
 			<classification subject="Biology:Human:Endocrine System" />
 			<classification subject="Biology:Human:Homeostasis and Regulation" />
 			<statement>
@@ -2662,7 +2661,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="82">
+		<objective_question number="82" success_rate="23.2">
 			<classification subject="Geography:Human:Population and Demographics" />
 			<statement>
 				<p>O gráfico a seguir apresenta o registro histórico e a projeção do total de mortes e nascimentos em certa região do mundo em dado período:</p>
@@ -2691,7 +2690,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="83">
+		<objective_question number="83" success_rate="18.0">
 			<classification subject="Biology:Genetics:Mendelian Genetics" />
 			<statement>
 				<p>O heredograma a seguir mostra o aparecimento de AME (atrofia muscular espinhal) em um menino, filho de um casal de primos.</p>
@@ -2720,7 +2719,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="84">
+		<objective_question number="84" success_rate="32.3">
 			<classification subject="Math:Combinatorics:Combinations" />
 			<statement>
 				<p>Um professor precisa elaborar uma prova multidisciplinar que consta de duas questões de Matemática e seis de Física. Ele deve escolher questões de um banco de dados que contém três questões de Matemática e oito de Física.</p>
@@ -2747,7 +2746,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="85">
+		<objective_question number="85" success_rate="41.1">
 			<classification subject="Math:Algebra:Logarithmic" />
 			<statement>
 				<p>A FIFA (Federação Internacional de Futebol) implementou, em 2018, a versão mais recente do ranking das seleções. Suponha que as seleções A e B, com pontuações <m>P_A</m> e <m>P_B</m>, respectivamente, disputarão uma final de Copa do Mundo. A pontuação atualizada da seleção A após a partida será dada por</p>
@@ -2815,7 +2814,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="86">
+		<objective_question number="86" success_rate="57.3">
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Para medir o volume de uma pedra com formato irregular, Ana utilizou um recipiente cilíndrico de raio <m>r = 8</m>~cm e com água até a altura de 20~cm. Após colocar a pedra no recipiente, a altura da água subiu para 23,5~cm.</p>
@@ -2843,7 +2842,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="87">
+		<objective_question number="87" success_rate="36.8">
 			<classification subject="Math:Number Sets" />
 			<statement>
 				<p>Dado um número natural <m>n \ge 2</m>, o primorial de <m>n</m>, denotado por <m>n#</m>, é o produto de todos os números primos menores que ou iguais a <m>n</m>. Por exemplo, <m>6\# = 2 \cdot 3 \cdot 5 = 30</m>.</p>
@@ -2870,7 +2869,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="88">
+		<objective_question number="88" success_rate="48.0">
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>Considere a região do plano cartesiano</p>
@@ -2900,7 +2899,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="89">
+		<objective_question number="89" success_rate="22.1">
 			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
 				<p>Um ladrilhamento é chamado de uniforme se é composto por polígonos regulares que preenchem todo o plano sem sobreposição e, além disso, o padrão é o mesmo em cada vértice. Para classificá-los, utilizamos uma notação dada por uma sequência de números que é definida desta forma: escolhemos um vértice qualquer e indicamos o número de lados de cada polígono que contém este vértice, seguindo o sentido anti-horário, iniciando com os polígonos de menos lados, conforme os exemplos:</p>
@@ -2930,7 +2929,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="90">
+		<objective_question number="90" success_rate="25.8">
 			<classification subject="Math:Algebra:Logarithmic" />
 			<statement>
 				<p>No plano cartesiano, os pontos (3,2) e (5,4) pertencem ao gráfico da função dada por</p>

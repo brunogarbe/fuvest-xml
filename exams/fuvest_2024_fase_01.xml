@@ -26,7 +26,7 @@
 			<cite>Conceição Evaristo. Jornal O Globo, 31/12/2019.</cite>
 		</context>
 
-		<objective_question number="01">
+		<objective_question number="01" success_rate="76.6">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>O verso "É tempo de formar novos quilombos" é um exemplo de</p>
@@ -50,7 +50,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="02">
+		<objective_question number="02" success_rate="65.9">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>Considerando o enfoque do texto na denúncia social, o eu lírico revela, predominantemente,</p>
@@ -76,7 +76,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="03">
+		<objective_question number="03" success_rate="90.5">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>A arte foi e ainda pode ser utilizada para criar, reforçar e disseminar ideias, valores e estereótipos, mas também pode colocá-los em discussão.</p>
@@ -113,7 +113,7 @@
 			<cite>Disponível em https://www.tate.org.uk/art/artworks/.</cite>
 		</context>
 
-		<objective_question number="04">
+		<objective_question number="04" success_rate="50.2">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>No anúncio, o segmento "won't bestow mega-buck prices" indica</p>
@@ -137,7 +137,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="05">
+		<objective_question number="05" success_rate="72.1">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Considerado o contexto, a expressão "be worth" tem sentido de</p>
@@ -163,7 +163,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="06">
+		<objective_question number="06" success_rate="66.7">
 			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
@@ -193,7 +193,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="07">
+		<objective_question number="07" success_rate="70.3">
 			<classification subject="History:Brazil:Empire of Brazil" />
 			<statement>
 				<p>A charge de Angelo Agostini foi publicada em 1880, em meio aos debates sobre a Lei dos Sexagenários no parlamento brasileiro.</p>
@@ -222,7 +222,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="08">
+		<objective_question number="08" success_rate="77.1">
 			<classification subject="Geography:Brazil:Human:Population and Demographics" />
 			<statement>
 				<quote>
@@ -256,7 +256,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="09">
+		<objective_question number="09" success_rate="83.8">
 			<classification subject="Geography:Brazil:Human:Population and Demographics" />
 			<statement>
 				<quote>
@@ -292,7 +292,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="10">
+		<objective_question number="10" success_rate="83.3">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
@@ -332,7 +332,7 @@
 			<cite>Disponível em https://www.vice.com/en/article/. Adaptado.</cite>
 		</context>
 
-		<objective_question number="11">
+		<objective_question number="11" success_rate="58.1">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>De acordo com o texto, muitos visitantes das exposições de arte imersivas demonstram</p>
@@ -356,7 +356,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="12">
+		<objective_question number="12" success_rate="54.8">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>O texto apresenta uma crítica às exposições de arte imersivas que está relacionada com</p>
@@ -382,7 +382,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="13">
+		<objective_question number="13" success_rate="20.5">
 			<classification subject="Math:Algebra:Matrices" />
 			<statement>
 				<p>Matrizes podem ser usadas para se obter informações sobre uma rede social. Para compreender como isso pode ser feito, consideremos como exemplo uma pequena rede social formada por 4 pessoas: $P_{1}$, $P_{2}$, $P_{3}$ e $P_{4}$. A matriz associada a essa rede social é a matriz $4\times4$:</p>
@@ -416,7 +416,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="14">
+		<objective_question number="14" success_rate="16.5">
 			<classification subject="Biology:Genetics:Mendelian Genetics" />
 			<statement>
 				<p>Na série ficcional Wandinha, o poder da visão é transmitido entre as bruxas, conforme o modelo genealógico hipotético a seguir:</p>
@@ -444,7 +444,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="15">
+		<objective_question number="15" success_rate="63.6">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<p>Em Dois irmãos, de Milton Hatoum, os gêmeos Yaqub e Omar representam duas personalidades antagônicas que se enfrentam ao longo da narrativa. A rivalidade entre eles tem como resultado:</p>
@@ -470,7 +470,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="16">
+		<objective_question number="16" success_rate="25.6">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<p>A partir da leitura de Dois irmãos, com o foco na questão da paternidade de Nael, narrador do romance, pode-se afirmar:</p>
@@ -496,7 +496,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="17">
+		<objective_question number="17" success_rate="64.4">
 			<classification subject="Biology:Genetics:Mutations" />
 			<statement>
 				<quote>
@@ -526,7 +526,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="18">
+		<objective_question number="18" success_rate="20.9">
 			<classification subject="Biology:Genetics:Biotechnology" />
 			<statement>
 				<p>Em 2023, a imprensa mundial anunciou a criação da almôndega de carne de mamute. A ilustração a seguir resume a biotecnologia envolvida nesse processo.</p>
@@ -555,7 +555,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="19">
+		<objective_question number="19" success_rate="46.4">
 			<classification subject="Chemistry:Biochemistry" />
 			<statement>
 				<p>Olestra é uma gordura artificial com sabor parecido ao do óleo vegetal. Essa substância não é metabolizada pelo organismo humano e, portanto, pode ser usada em dietas de emagrecimento. Seu uso, no entanto, é controverso. Por ser uma molécula semelhante à gordura, ela interage com vitaminas lipossolúveis, transportando-as para fora do organismo, o que pode levar à deficiência destas. Dentre as vitaminas apresentadas, assinale qual delas teria a sua absorção menos prejudicada com a ingestão exagerada de alimentos à base de olestra.</p>
@@ -581,7 +581,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="20">
+		<objective_question number="20" success_rate="45.3">
 			<classification subject="Biology:Human:Digestive System" />
 			<statement>
 				<p>O gráfico a seguir ilustra o perfil de digestão de quatro substâncias no organismo humano, de acordo com a variação do pH.</p>
@@ -609,7 +609,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="21">
+		<objective_question number="21" success_rate="22.5">
 			<classification subject="Chemistry:Inorganic:Acids and Bases" />
 			<statement>
 				<p>Um estudante (FV), intrigado com a escala de pH entre 0 e 14, perguntou a um sistema de inteligência artificial (IA) sobre a possibilidade de existirem valores negativos de pH, conforme descrito na figura:</p>
@@ -637,7 +637,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="22">
+		<objective_question number="22" success_rate="48.5">
 			<classification subject="History:Modern:Absolutism and Enlightenment" />
 			<statement>
 				<quote>
@@ -667,7 +667,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="23">
+		<objective_question number="23" success_rate="32.1">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
@@ -698,7 +698,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="24">
+		<objective_question number="24" success_rate="53.3">
 			<classification subject="Physics:Modern:QuantumMechanics" />
 			<statement>
 				<quote>
@@ -728,7 +728,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="25">
+		<objective_question number="25" success_rate="62.6">
 			<classification subject="Chemistry:Atomistics" />
 			<statement>
 				<p>Quando uma solução de NaCl é colocada em contato com uma chama, observa-se uma luz amarela (figura I). Quando esse mesmo experimento é realizado na presença de uma lâmpada de Na, a chama aparenta estar preta (figura II).</p>
@@ -756,7 +756,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="26">
+		<objective_question number="26" success_rate="48.3">
 			<classification subject="Physics:Thermodynamics" />
 			<statement>
 				<p>Nas embalagens de lâmpadas de LED atuais, está indicada uma "temperatura de cor" (expressa na escala Kelvin), que corresponde à tonalidade da luz emitida pela lâmpada. A "temperatura de cor" não indica a temperatura de operação da lâmpada, servindo apenas como uma referência da cor predominante da radiação eletromagnética termicamente emitida por um corpo a essa dada temperatura. A densidade $\rho(\lambda)$ de energia eletromagnética irradiada é função do comprimento de onda da luz emitida. As curvas presentes nos gráficos das alternativas mostram $\rho(\lambda)$ dividida pelo seu valor máximo $\rho(\lambda_{max})$. O máximo de cada curva corresponde ao comprimento de onda $\lambda_{max}$ predominante da luz irradiada.</p>
@@ -849,7 +849,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="27">
+		<objective_question number="27" success_rate="59.6">
 			<classification subject="Physics:Mechanics:Fluid Dynamics" />
 			<statement>
 				<p>Uma empresa júnior de alunos de engenharia projetou um termômetro mecânico para medir a temperatura do óleo utilizado em máquinas e equipamentos, com base na variação da densidade do óleo com a temperatura. Com essa finalidade, emprega-se um objeto de massa M igual a 18 g e volume de $20~cm^{3}$, que permanece imerso em um óleo e está preso, por um fio, ao fundo da superfície, conforme mostra a figura.</p>
@@ -882,7 +882,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="28">
+		<objective_question number="28" success_rate="53.7">
 			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>A temperatura ideal para uso de um forno a lenha para preparo de pizzas pode ser inferida pela observação da coloração das paredes internas do forno. Abaixo da temperatura ideal, um material particulado preto proveniente da queima da lenha pode ser visto recobrindo as paredes internas. Quando a temperatura ideal é atingida, esse material particulado não é mais observado e a superfície mais clara do interior do forno pode ser vista, como apresentado nas fotos.</p>
@@ -910,7 +910,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="29">
+		<objective_question number="29" success_rate="43.4">
 			<classification subject="Chemistry:Physical:Thermochemistry" />
 			<statement>
 				<p>Fogareiros abastecidos com pequenos botijões de gás são equipamentos corriqueiros em trilhas e escaladas de duração prolongada para possibilitar o cozimento de alimentos. Em geral, esses botijões são abastecidos com propano, isobutano ou n-butano. A tabela mostra a temperatura de ebulição e o calor liberado na combustão desses três gases, à pressão atmosférica.</p>
@@ -983,7 +983,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="30">
+		<objective_question number="30" success_rate="37.4">
 			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura.</p>
@@ -1016,7 +1016,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="31">
+		<objective_question number="31" success_rate="29.0">
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>O reservatório de um caminhão-pipa tem a forma de um cilindro circular reto com eixo horizontal e dimensões internas de 6 metros de comprimento e 2 metros de diâmetro. Uma escola contratou o serviço do caminhão-pipa para abastecer sua caixa d'água. Após o abastecimento, o motorista percebeu que o reservatório do caminhão estava cheio até $3/4$ de sua altura, conforme ilustrado na figura.</p>
@@ -1044,7 +1044,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="32">
+		<objective_question number="32" success_rate="32.9">
 			<classification subject="Biology:Microbiology" />
 			<statement>
 				<p>A tabela a seguir mostra a condição de duas variáveis sociais em quatro cidades urbanas genéricas.</p>
@@ -1199,7 +1199,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="33">
+		<objective_question number="33" success_rate="34.6">
 			<classification subject="Math:Financial" />
 			<statement>
 				<p>Uma empresa farmacêutica produz certo medicamento, o qual é formado por quatro componentes, conforme indicado na tabela I. O custo do grama de cada um dos componentes desse medicamento também é apresentado nessa tabela.</p>
@@ -1331,7 +1331,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="34">
+		<objective_question number="34" success_rate="17.3">
 			<classification subject="Math:Statistics" />
 			<statement>
 				<p>Os conceitos de moda, mediana, média e amplitude definem medidas utilizadas para estudar um conjunto de informações numéricas. Por exemplo, na lista de 5 números (2, 2, 4, 8, 14), temos que a moda é igual a 2, a mediana é igual a 4, a média é igual 6 e a amplitude é igual a 12.</p>
@@ -1358,7 +1358,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="35">
+		<objective_question number="35" success_rate="27.9">
 			<classification subject="Math:Combinatorics" />
 			<statement>
 				<p>Um relógio digital utiliza os seguintes numerais para representar um determinado horário:</p>
@@ -1388,7 +1388,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="36">
+		<objective_question number="36" success_rate="42.3">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
@@ -1418,7 +1418,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="37">
+		<objective_question number="37" success_rate="31.3">
 			<classification subject="Literature:World Literature" />
 			<statement>
 				<p>A respeito dos contos "Nós matamos o Cão Tinhoso!", "Dina", "Papá, cobra e eu" e "Nhinguitimo", de Nós matamos o Cão Tinhoso!, é possível afirmar:</p>
@@ -1444,7 +1444,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="38">
+		<objective_question number="38" success_rate="61.5">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<p>Leia o texto a seguir:</p>
@@ -1476,7 +1476,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="39">
+		<objective_question number="39" success_rate="85.4">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
@@ -1506,7 +1506,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="40">
+		<objective_question number="40" success_rate="73.0">
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>Os jardins de chuva, como o esquematizado na figura, vêm sendo implantados em áreas urbanas como uma alternativa de baixo custo para minimizar alagamentos. São canteiros de plantas que ocupam partes rebaixadas do terreno, com a função de reter parte das águas pluviais e diminuir sua velocidade de escoamento. Para isso, o solo do jardim deve ser preparado a fim de absorver a água e facilitar sua infiltração, direcionando-a ao lençol freático. Outra vantagem desses jardins é a retenção e decomposição de poluentes carreados pelas águas pluviais. Ainda, ao mesclar diversos tipos de plantas, os jardins de chuva atraem animais e aumentam a biodiversidade local.</p>
@@ -1534,7 +1534,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="41">
+		<objective_question number="41" success_rate="32.0">
 			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>As moléculas de água podem conter o isótopo estável mais abundante de oxigênio, ${}^{16}O$, ou o isótopo estável menos abundante, ${}^{18}O$. Essa pequena diferença de massa entre as moléculas de água é suficiente para alterar a sua pressão de vapor. Por esse motivo, a análise de isótopos de oxigênio na água da chuva possibilita a identificação de períodos secos e de períodos chuvosos. A figura ilustra a mudança na constituição isotópica da água da chuva ao longo do tempo como resultado da diferença na pressão de vapor.</p>
@@ -1562,7 +1562,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="42">
+		<objective_question number="42" success_rate="70.3">
 			<classification subject="Geography:Physical" />
 			<statement>
 				<p>Considere os textos a seguir sobre o campo magnético terrestre, essencial para a manutenção da vida no planeta:</p>
@@ -1599,7 +1599,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="43">
+		<objective_question number="43" success_rate="91.8">
 			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<image src="fuvest/2024/fase01/q43.png" />
@@ -1627,7 +1627,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="44">
+		<objective_question number="44" success_rate="55.9">
 			<classification subject="History:Brazil:Vargas Era" />
 			<statement>
 				<quote>
@@ -1657,7 +1657,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="45">
+		<objective_question number="45" success_rate="78.9">
 			<classification subject="History:Contemporary:WorldWars" />
 			<statement>
 				<quote>
@@ -1691,7 +1691,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="46">
+		<objective_question number="46" success_rate="75.2">
 			<classification subject="History:Brazil" />
 			<statement>
 				<p>Observe o mapa da expansão da cafeicultura nos estados de São Paulo e Rio de Janeiro nos séculos XIX e XX.</p>
@@ -1719,7 +1719,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="47">
+		<objective_question number="47" success_rate="44.9">
 			<classification subject="Geography:Human:Economic and Agricultural" />
 			<statement>
 				<image src="fuvest/2024/fase01/q47.png" />
@@ -1746,7 +1746,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="48">
+		<objective_question number="48" success_rate="39.6">
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Uma empresa de alimentos utiliza embalagens, no formato de paralelepipedo reto-retângulo, de dimensões 2 cm x 3 cm x 11 cm, para armazenar biscoitos. Para o transporte desse produto, são utilizadas caixas para acondicionar essas embalagens, também no formato de paralelepipedo reto-retângulo, de dimensões $12~cm\times13~cm\times26$ cm. A imagem a seguir ilustra um paralelepipedo reto-retângulo.</p>
@@ -1774,7 +1774,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="49">
+		<objective_question number="49" success_rate="41.5">
 			<classification subject="Math:Trigonometry" />
 			<statement>
 				<p>No Código de Obras e Edificações da Prefeitura de São Paulo, encontra-se a regulamentação para vagas de estacionamento em um edifício para diferentes tipos de veículos. De acordo com o código, as dimensões de uma vaga de estacionamento são estabelecidas de acordo com o tipo de veículo, conforme a seguinte tabela:</p>
@@ -1875,7 +1875,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="50">
+		<objective_question number="50" success_rate="41.2">
 			<classification subject="Physics:Mechanics:Kinematics of Particles" />
 			<statement>
 				<p>Um carro movimentava-se por uma rua de mão única, com sentido da esquerda para a direita, e deixou no asfalto o padrão de pingos de óleo indicado na figura I.</p>
@@ -1907,7 +1907,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="51">
+		<objective_question number="51" success_rate="45.4">
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia.</p>
@@ -1938,7 +1938,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="52">
+		<objective_question number="52" success_rate="58.2">
 			<classification subject="Geography:Brazil:Human:Culture" />
 			<statement>
 				<quote>
@@ -1980,7 +1980,7 @@
 			<cite>The New York Times. 24 March 2023. Adaptado.</cite>
 		</context>
 
-		<objective_question number="53">
+		<objective_question number="53" success_rate="83.6">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Conforme o texto, um dos motivos para a disparidade relativa à prática de atividades físicas por alunos, segundo o nível de renda, reside</p>
@@ -2004,7 +2004,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="54">
+		<objective_question number="54" success_rate="72.9">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Considerado o contexto, o termo "far", na expressão "far less" (2º parágrafo), expressa</p>
@@ -2030,7 +2030,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="55">
+		<objective_question number="55" success_rate="41.7">
 			<classification subject="Physics:Electromagnetism:Electrostatics" />
 			<statement>
 				<image src="fuvest/2024/fase01/q55a.png" />
@@ -2059,7 +2059,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="56">
+		<objective_question number="56" success_rate="49.9">
 			<classification subject="Chemistry:Atomistics:Chemical Bonds" />
 			<statement>
 				<p>Um tema de grande interesse na química é a ativação seletiva de ligações C-H. Essa ativação permite a substituição de H nessas ligações por outros átomos, como O ou N. A relevância desse tema pode ser verificada em um estudo recentemente publicado no prestigioso periódico Science, que conta com uma egressa da USP dentre seus autores.</p>
@@ -2091,7 +2091,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="57">
+		<objective_question number="57" success_rate="41.8">
 			<classification subject="Physics:Electromagnetism:Circuits" />
 			<statement>
 				<p>A foto a seguir mostra um circuito com três resistores ($R_{1}$, $R_{2}$ e $R_{3}$) conectados em uma protoboard (base de contatos). Nesse tipo de placa, os cinco furos de uma mesma linha (indicados pelos retângulos amarelos) estão em curto, formando os nós do circuito. Os cabos vermelho e preto, por sua vez, estão conectados aos terminais de uma fonte contínua de 5V.</p>
@@ -2119,7 +2119,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="58">
+		<objective_question number="58" success_rate="27.2">
 			<classification subject="Chemistry:Physical:Electrochemistry" />
 			<statement>
 				<p>No processo de compra e venda de artigos de ouro, é comum testar os objetos para verificar se eles realmente são feitos de ouro ou se são alguma falsificação feita com metais menos nobres. Esse teste pode ser feito adicionando um pequeno volume de ácido forte concentrado às raspas do objeto a ser testado, conforme figura a seguir. Caso o objeto seja feito com ouro, as raspas permanecem visíveis, enquanto as raspas de falsificações são dissolvidas.</p>
@@ -2156,7 +2156,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="59">
+		<objective_question number="59" success_rate="35.3">
 			<classification subject="Math:Algebra:Exponential" />
 			<statement>
 				<p>Considere a função f, dada por $f(x)=b^{x}$ com $b&gt;0$, $b\ne1$ e $x\in\mathbb{R}$, e a sua inversa $f^{-1}$. A figura destaca dois pontos, um pertencente ao gráfico de f e outro ao gráfico de $f^{-1}$.</p>
@@ -2184,7 +2184,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="60">
+		<objective_question number="60" success_rate="45.0">
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>Considere o sistema linear</p>
@@ -2212,7 +2212,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="61">
+		<objective_question number="61" success_rate="71.4">
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>O gráfico a seguir representa a curva de biomassa e biodiversidade em diferentes partes do globo.</p>
@@ -2240,7 +2240,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="62">
+		<objective_question number="62" success_rate="72.9">
 			<classification subject="Geography:Brazil:Regional Geography" />
 			<statement>
 				<p>Os domínios morfoclimáticos e fitogeográficos propostos pelo geógrafo Aziz Nacib Ab'Sáber nos anos 1960 continuam válidos na atualidade. Representam um mapeamento do território brasileiro, na escala zonal, onde foram identificados seis grandes domínios, além de uma faixa denominada de transição, que sintetizam os elementos do clima, da vegetação, do solo, do relevo e outros atributos presentes na paisagem.</p>
@@ -2269,7 +2269,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="63">
+		<objective_question number="63" success_rate="28.0">
 			<classification subject="Math:Algebra:Sequences and Series" />
 			<statement>
 				<p>Uma Árvore Pitagórica é uma figura plana que é construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante. Ou seja, em cada nova etapa, aplica-se a etapa anterior em cada um dos novos quadrados obtidos. A figura a seguir exibe as quatro primeiras etapas da construção da Árvore Pitagórica.</p>
@@ -2300,7 +2300,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="64">
+		<objective_question number="64" success_rate="53.4">
 			<classification subject="Biology:Evolution:Speciation and Phylogeny" />
 			<statement>
 				<quote>
@@ -2331,7 +2331,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="65">
+		<objective_question number="65" success_rate="87.4">
 			<classification subject="Geography:Physical:Geology" />
 			<statement>
 				<p>Em fevereiro de 2023, ocorreu uma precipitação pluviométrica extrema no litoral norte de São Paulo, com volume que excedeu os 600 mm de chuva em menos de 24 horas. Foi um dos maiores índices pluviométricos já registrados no Brasil para um dia. Essa grande quantidade de chuva provocou muitos deslizamentos de terra, como o retratado na imagem.</p>
@@ -2359,7 +2359,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="66">
+		<objective_question number="66" success_rate="59.3">
 			<classification subject="Geography:Physical:Geology" />
 			<statement>
 				<p>Observe as ilustrações.</p>
@@ -2387,7 +2387,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="67">
+		<objective_question number="67" success_rate="68.6">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<verse>
@@ -2441,7 +2441,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="68">
+		<objective_question number="68" success_rate="85.1">
 			<classification subject="Biology:Zoology:Invertebrates" />
 			<statement>
 				<verse>
@@ -2486,7 +2486,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="69">
+		<objective_question number="69" success_rate="45.1">
 			<classification subject="Biology:Evolution:Speciation and Phylogeny" />
 			<statement>
 				<image src="fuvest/2024/fase01/q69.png" />
@@ -2513,7 +2513,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="70">
+		<objective_question number="70" success_rate="61.1">
 			<classification subject="Geography:Physical:Hydrology" />
 			<statement>
 				<p>Observe o mapa da distribuição da pesca no globo em toneladas por quilômetro quadrado, por ano.</p>
@@ -2541,7 +2541,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="71">
+		<objective_question number="71" success_rate="50.1">
 			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer" />
 			<statement>
 				<p>Para esfriar um copo contendo 250 mL de água fervente ($100^{\circ}C$), é comum utilizar o seguinte método:</p>
@@ -2576,7 +2576,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="72">
+		<objective_question number="72" success_rate="41.7">
 			<classification subject="Physics:Thermodynamics:Laws of Thermodynamics" />
 			<statement>
 				<p>Um protótipo de máquina térmica caseira baseia-se num motor de quatro etapas e pode ser construído com o auxílio de uma bomba de bicicleta, uma pequena câmara de pneu e um aquecedor térmico. Na primeira etapa, o gás da câmara de pneu é comprimido adiabaticamente. Na segunda etapa, o gás é aquecido isovolumetricamente. Na terceira etapa, o gás sofre uma expansão adiabática e, finalmente, na quarta etapa, um resfriamento isovolumétrico.</p>
@@ -2606,7 +2606,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="73">
+		<objective_question number="73" success_rate="33.2">
 			<classification subject="Physics:Waves:MechanicalWaves" />
 			<statement>
 				<p>Um experimento de demonstração sobre ondas estacionárias faz uso de uma canaleta disposta horizontalmente, contendo grãos de areia fina e seca. Abaixo da canaleta, posiciona-se um alto-falante que transmite um som, produzindo, na canaleta, uma vibração, associada a uma onda estacionária com um comprimento de onda bem definido. O diagrama representa uma imagem digitalizada dos grãos de areia depositados na base da canaleta em um certo instante. Utilize a régua da figura, graduada em centímetros, para assinalar a alternativa que apresenta a melhor aproximação para o valor do comprimento de onda da vibração em questão.</p>
@@ -2636,7 +2636,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="74">
+		<objective_question number="74" success_rate="63.3">
 			<classification subject="Chemistry:General:ChemicalKinetics" />
 			<statement>
 				<p>Apesar de a África ser considerada o berço das civilizações e existirem indícios de conhecimentos elementares de Química no sul do continente cerca de 100.000 anos atrás, os conhecimentos químicos ensinados são eurocentristas. Entretanto, uma das grandes contribuições para o estudo de reatividade química é atribuída ao químico egípcio Ahmed Hassan Zewail, agraciado com o prêmio Nobel em 1999 por seus estudos de reações químicas usando uma técnica conhecida como espectroscopia de femtossegundos. Essa técnica possibilita identificar espécies com tempo de vida curto utilizando pulsos de laser com duração de $10^{-15}$ s.</p>
@@ -2663,7 +2663,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="75">
+		<objective_question number="75" success_rate="69.1">
 			<classification subject="History:Ancient" />
 			<statement>
 				<p>O mapa a seguir retrata o Nordeste da África e a Península Arábica, no século IV.</p>
@@ -2691,7 +2691,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="76">
+		<objective_question number="76" success_rate="46.7">
 			<classification subject="History:Contemporary:ColdWar" />
 			<statement>
 				<quote>
@@ -2725,7 +2725,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="77">
+		<objective_question number="77" success_rate="42.0">
 			<classification subject="History:Contemporary" />
 			<statement>
 				<quote>
@@ -2755,7 +2755,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="78">
+		<objective_question number="78" success_rate="46.1">
 			<classification subject="Geography:Geopolitics:Global Conflicts" />
 			<statement>
 				<p>Observe o mapa a seguir:</p>
@@ -2783,7 +2783,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="79">
+		<objective_question number="79" success_rate="34.4">
 			<classification subject="Geography:Geopolitics:Global Conflicts" />
 			<statement>
 				<quote>
@@ -2813,7 +2813,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="80">
+		<objective_question number="80" success_rate="71.7">
 			<classification subject="Geography:Human:Economic and Agricultural" />
 			<statement>
 				<p>A figura mostra dados do Fundo Monetário Internacional (FMI) sobre a série histórica (1992 e 2010) e uma projeção (2028) dos 10 países com o maior Produto Interno Bruto (PIB).</p>
@@ -2841,7 +2841,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="81">
+		<objective_question number="81" success_rate="50.3">
 			<classification subject="Geography:Brazil:Human:Population and Demographics" />
 			<statement>
 				<quote>
@@ -2891,7 +2891,7 @@
 			<cite>Paulina Chiziane. Balada de amor ao vento, p. 61-62.</cite>
 		</context>
 
-		<objective_question number="82">
+		<objective_question number="82" success_rate="67.2">
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
 				<p>Os trechos transcritos foram retirados dos livros dos moçambicanos Luís Bernardo Honwana e Paulina Chiziane. Em ambos, observa-se a ocorrência da palavra "machamba". A respeito do uso desse termo, é correto afirmar:</p>
@@ -2915,7 +2915,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="83">
+		<objective_question number="83" success_rate="79.4">
 			<classification subject="Literature:World Literature" />
 			<statement>
 				<p>Nos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:</p>
@@ -2941,7 +2941,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="84">
+		<objective_question number="84" success_rate="81.3">
 			<classification subject="Math:Statistics" />
 			<statement>
 				<p>O Atlas da Violência, publicado em 2019 e organizado pelo Instituto de Pesquisa Econômica Aplicada e Fórum Brasileiro de Segurança Pública, apresenta um estudo para melhor compreender a violência no país. Os dados que ali constam referem-se ao período de 2007 a 2017. Um dos capítulos desse documento trata, especificamente, da violência contra a mulher. O gráfico a seguir mostra a evolução da taxa de homicídios de mulheres (equivalente ao número de homicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e nas três unidades federativas com as menores taxas em 2017.</p>
@@ -2969,7 +2969,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="85">
+		<objective_question number="85" success_rate="35.1">
 			<classification subject="Math:Algebra:Sequences and Series" />
 			<statement>
 				<p>Números figurados são números que expressam o total de pontos em certas configurações geométricas. Um exemplo de números figurados são os triangulares, os quais são números naturais que podem ser representados geometricamente na forma de um triângulo. Os quatro primeiros números triangulares estão ilustrados na figura I. Apesar de o número 1 não representar um triângulo, ele é considerado um número triangular.</p>
@@ -2999,7 +2999,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="86">
+		<objective_question number="86" success_rate="84.2">
 			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
@@ -3032,7 +3032,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="87">
+		<objective_question number="87" success_rate="76.0">
 			<classification subject="History:Modern" />
 			<statement>
 				<quote>
@@ -3062,7 +3062,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="88">
+		<objective_question number="88" success_rate="45.3">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<quote>
@@ -3095,7 +3095,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="89">
+		<objective_question number="89" success_rate="70.9">
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
 				<quote>
@@ -3125,7 +3125,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="90">
+		<objective_question number="90" success_rate="24.2">
 			<classification subject="Geography:Brazil:Human:Population and Demographics" />
 			<statement>
 				<header>Texto I</header>

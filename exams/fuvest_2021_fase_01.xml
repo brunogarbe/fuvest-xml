@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <exam name="FUVEST" year="2021" phase="1" day="1" variation="V" date="2021-01-10" lang="pt">
 	<question_group>
-		<objective_question number="1">
+		<objective_question number="1" success_rate="77.9">
 			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
 				<image width="0.5" src="fuvest/2021/fase01/q01.png" />
@@ -33,7 +33,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="2">
+		<objective_question number="2" success_rate="75.2">
 			<classification subject="Math:Algebra:Graphing" />
 			<statement>
 				<p>Qual dos gráficos representa uma relação entre as grandezas <m>x</m> e <m>y</m> em que <m>y</m> sempre diminui na medida em que <m>x</m> aumenta? </p>
@@ -59,7 +59,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="3">
+		<objective_question number="3" success_rate="40.5">
 			<classification subject="Math:Number Sets" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q03.png" />
@@ -86,7 +86,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="4">
+		<objective_question number="4" success_rate="45.2">
 			<classification subject="Math:Geometry:Plane Geometry" />
 			<statement>
 				<image width="0.5" src="fuvest/2021/fase01/q04.png" />
@@ -122,7 +122,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="5">
+		<objective_question number="5" success_rate="30.6">
 			<classification subject="Math:Financial" />
 			<statement>
 				<p>Um comerciante adotou como forma de pagamento uma máquina de cartões, cuja operadora cobra uma taxa de 6% em cada venda. Para continuar recebendo exatamente o mesmo valor por cada produto, ele resolveu aplicar um reajuste nos preços de todos os produtos da loja. Se <m>P</m> era o valor de uma mercadoria antes da adoção da máquina, o novo valor <m>V</m> deve ser calculado por </p>
@@ -158,7 +158,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="6">
+		<objective_question number="6" success_rate="47.3">
 			<classification subject="Math:Algebra:Linear Equations" />
 			<statement>
 				<p>Uma treinadora de basquete aplica o seguinte sistema de pontuação em seus treinos de arremesso à cesta: cada jogadora recebe 5 pontos por arremesso acertado e perde 2 pontos por arremesso errado. Ao fim de 50 arremessos, uma das jogadoras contabilizou 124 pontos. Qual é a diferença entre as quantidades de arremessos acertados e errados dessa jogadora? </p>
@@ -184,7 +184,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="7">
+		<objective_question number="7" success_rate="31.5">
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Alice quer construir um paralelepipedo reto retângulo de dimensões 60 cm × 24 cm × 18 cm, com a menor quantidade possível de cubos idênticos cujas medidas das arestas são números naturais. Quantos cubos serão necessários para construir esse paralelepipedo? </p>
@@ -210,7 +210,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="8">
+		<objective_question number="8" success_rate="12.7">
 			<classification subject="Math:Combinatorics" />
 			<statement>
 				<p>Um aplicativo de videoconferências estabelece, para cada reunião, um código de 10 letras, usando um alfabeto completo de 26 letras.</p>
@@ -245,7 +245,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="9">
+		<objective_question number="9" success_rate="54.2">
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q09.png" />
@@ -272,7 +272,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="10">
+		<objective_question number="10" success_rate="24.6">
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<image width="0.5" src="fuvest/2021/fase01/q10.png" />
@@ -307,7 +307,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="11">
+		<objective_question number="11" success_rate="26.3">
 			<classification subject="Math:Algebra:Quadratic" />
 			<statement>
 				<p>Se <m>f: R → R e g: R → R</m> são funções dadas por <m>f(x)=c+x^{2}</m>, onde <m>c\in\mathbb{R}</m>, e <m>g(x)=x</m>, seus gráficos se intersectam quando, e somente quando,</p>
@@ -338,7 +338,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="12">
+		<objective_question number="12" success_rate="32.2">
 			<classification subject="Math:Trigonometry:Similar Triangles" />
 			<statement>
 				<p>Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm.  A partir desta peça, ele precisa extrair o maior quadrado possível, de tal forma que um dos ângulos retos do quadrado coincida com o ângulo reto do triângulo.  A medida do lado do quadrado desejado pelo marceneiro está mais próxima de</p>
@@ -364,7 +364,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="13">
+		<objective_question number="13" success_rate="37.4">
 			<classification subject="Geography:Cartography" />
 			<statement>
 				<p>Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km.  O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45°L e então retorna ao Polo Norte por esse meridiano tem comprimento total de </p>
@@ -390,7 +390,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="14">
+		<objective_question number="14" success_rate="64.6">
 			<classification subject="Geography:Cartography:Map Projections and Scales" />
 			<statement>
 				<header>Projeção de Mercator</header>
@@ -425,7 +425,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="15">
+		<objective_question number="15" success_rate="50.0">
 			<classification subject="History:Brazil:Military Dictatorship" />
 			<statement>
 				<quote>
@@ -497,7 +497,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="16">
+		<objective_question number="16" success_rate="53.1">
 			<classification subject="Geography:Geopolitics" />
 			<statement>
 				<p>Observe o mapa com dados de 2020:</p>
@@ -525,7 +525,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="17">
+		<objective_question number="17" success_rate="54.8">
 			<classification subject="Geography:Physical:Geology" />
 			<statement>
 				<header>Terremoto no estado da Bahia</header>
@@ -554,7 +554,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="18">
+		<objective_question number="18" success_rate="50.1">
 			<classification subject="History:Contemporary" />
 			<statement>
 				<quote>
@@ -584,7 +584,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="19">
+		<objective_question number="19" success_rate="63.4">
 			<classification subject="Geography:Human:Urbanization" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q19.png" />
@@ -612,7 +612,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="20">
+		<objective_question number="20" success_rate="77.8">
 			<classification subject="Geography:Geopolitics" />
 			<statement>
 				<p>O acordo entre o Mercosul e a União Europeia está sendo discutido há cerca de 20 anos e prevê, entre outros elementos, a redução progressiva das tarifas de exportação entre os blocos. O Brasil, que é um grande exportador de produtos de origem agrícola para o mercado europeu, teria redução tarifária para a exportação de produtos como carnes, açúcar e etanol, dentre outros.</p>
@@ -645,7 +645,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="21">
+		<objective_question number="21" success_rate="66.5">
 			<classification subject="Geography:Physical:Hydrology" />
 			<statement>
 				<quote>
@@ -675,7 +675,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="22">
+		<objective_question number="22" success_rate="89.5">
 			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<quote>
@@ -705,7 +705,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="23">
+		<objective_question number="23" success_rate="93.2">
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<quote>
@@ -737,7 +737,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="24">
+		<objective_question number="24" success_rate="62.9">
 			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
 			<statement>
 				<p>Na transição do Cerrado para a Mata Atlântica, ocorre uma substituição da vegetação, que resulta em mudanças na frequência de certas características das plantas.</p>
@@ -764,7 +764,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="25">
+		<objective_question number="25" success_rate="95.2">
 			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>O tempo de decomposição dos diferentes resíduos sólidos condiciona a destinação de cada tipo, visando a diminuir os impactos ambientais causados por seu descarte. O gráfico mostra dois grupos de resíduos sólidos (X e Y) produzidos pela população humana, com diferentes tempos de decomposição.</p>
@@ -795,7 +795,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="26">
+		<objective_question number="26" success_rate="47.6">
 			<classification subject="Biology:Ecology:Population Dynamics" />
 			<statement>
 				<p>Os gráficos mostram a variação nas taxas de emigração, imigração, mortalidade e natalidade de uma dada população de mamíferos ao longo de 20 anos.</p>
@@ -823,7 +823,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="27">
+		<objective_question number="27" success_rate="80.0">
 			<classification subject="Biology:Genetics:Biotechnology" />
 			<statement>
 				<p>Uma variedade de milho (Milho Bt) foi modificada com a inserção de genes da bactéria Bacillus thuringiensis, que produzem proteínas Cry, tóxicas para insetos como as lagartas que atacam suas lavouras. Essas proteínas bloqueiam o trato digestório dos insetos, levando-os à morte. Em aves e mamíferos que também se alimentam de milho, as proteínas Cry são inativadas durante a digestão ácida, perdendo sua ação sobre esses animais.</p>
@@ -885,7 +885,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="28">
+		<objective_question number="28" success_rate="30.1">
 			<classification subject="Biology:Genetics:Mendelian Genetics" />
 			<statement>
 				<p>A genealogia a seguir representa uma família em que aparecem pessoas afetadas por adrenoleucodistrofia. A mulher II.2 está grávida e ainda não sabe o sexo do bebê.</p>
@@ -948,7 +948,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="29">
+		<objective_question number="29" success_rate="23.4">
 			<classification subject="Biology:Cell:Division (Mitosis and Meiosis)" />
 			<statement>
 				<p>Considere dois genes (A e B) localizados em cromossomos diferentes e seus respectivos alelos (A, a, B, b). Uma representação possível desses alelos durante a mitose, imediatamente antes da metáfase, é:</p>
@@ -974,7 +974,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="30">
+		<objective_question number="30" success_rate="55.1">
 			<classification subject="Chemistry:General:ChemicalEquilibrium" />
 			<statement>
 				<p>O gás carbônico atmosférico reage com a água do mar conforme detalhado em (I):</p>
@@ -1006,7 +1006,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="31">
+		<objective_question number="31" success_rate="70.5">
 			<classification subject="Biology:Botany:Major Plant Groups" />
 			<statement>
 				<p>Considere três espécies de plantas (X, Y e Z) e suas características:</p>
@@ -1048,7 +1048,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="32">
+		<objective_question number="32" success_rate="72.7">
 			<classification subject="Biology:Human:Endocrine System" />
 			<statement>
 				<p>A determinação do sexo em embriões de tartaruga-de-couro depende da temperatura a que o ovo foi exposto. Isso está relacionado à ação da enzima aromatase, que converte a testosterona em estradiol. A expressão gênica e a atividade dessa enzima nas gônadas são dependentes da temperatura, conforme indicado na figura.</p>
@@ -1077,7 +1077,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="33">
+		<objective_question number="33" success_rate="55.1">
 			<classification subject="Biology:Human:Immune System" />
 			<statement>
 				<p>No que diz respeito a infecções sexualmente transmissíveis (ISTs), identifique a relação correta entre grupo causador, um dos seus sintomas e se possui ou não vacina preventiva.</p>
@@ -1174,7 +1174,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="34">
+		<objective_question number="34" success_rate="45.1">
 			<classification subject="History:Modern" />
 			<statement>
 				<verse>
@@ -1212,7 +1212,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="35">
+		<objective_question number="35" success_rate="53.6">
 			<classification subject="History:Modern" />
 			<statement>
 				<p>A exploração da prata americana pelos espanhóis no século XVI teve grande importância na história mundial porque</p>
@@ -1238,7 +1238,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="36">
+		<objective_question number="36" success_rate="47.2">
 			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
@@ -1268,7 +1268,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="37">
+		<objective_question number="37" success_rate="70.5">
 			<classification subject="History:Brazil:Empire of Brazil" />
 			<statement>
 				<p>A economia do Império do Brasil foi caracterizada por:</p>
@@ -1294,7 +1294,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="38">
+		<objective_question number="38" success_rate="68.5">
 			<classification subject="History:Brazil:Empire of Brazil" />
 			<statement>
 				<p>A Cabanagem foi uma revolta social ocorrida no norte do Brasil entre 1835 e 1840 e se insere em um contexto frequentemente chamado de <q>Período Regencial</q>. Trata-se de uma revolta que, junto a outras do mesmo período, tipifica</p>
@@ -1320,7 +1320,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="39">
+		<objective_question number="39" success_rate="40.8">
 			<classification subject="History:Brazil:Old Republic" />
 			<statement>
 				<quote>
@@ -1350,7 +1350,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="40">
+		<objective_question number="40" success_rate="54.5">
 			<classification subject="History:Contemporary:WorldWars" />
 			<statement>
 				<p>A ascensão de regimes autoritários na Europa nas primeiras décadas do século XX teve o amparo de milícias que arregimentaram uma legião de indivíduos de origem social heterogênea. Dentre estes grupos, destaca(m)-se:</p>
@@ -1376,7 +1376,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="41">
+		<objective_question number="41" success_rate="27.1">
 			<classification subject="History:Modern:Renaissance and Reformation" />
 			<statement>
 				<p>A imagem é considerada uma das referências do movimento artístico e cultural denominado Renascimento. Analise-a atentamente.</p>
@@ -1405,7 +1405,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="42">
+		<objective_question number="42" success_rate="89.1">
 			<classification subject="History:Brazil:Old Republic" />
 			<statement>
 				<p>Leia com atenção os dados do quadro e da tabela, relativos à epidemia de gripe espanhola na cidade de São Paulo, em 1918.</p>
@@ -1437,7 +1437,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="43">
+		<objective_question number="43" success_rate="51.1">
 			<classification subject="History:Ancient:Greece" />
 			<statement>
 				<p>Leia o texto:</p>
@@ -1468,7 +1468,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="44">
+		<objective_question number="44" success_rate="56.2">
 			<classification subject="History:Brazil:Colonial Period" />
 			<statement>
 				<quote>
@@ -1498,7 +1498,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="45">
+		<objective_question number="45" success_rate="17.8">
 			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
 				<p>Considere as seguintes afirmações:</p>
@@ -1528,7 +1528,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="46">
+		<objective_question number="46" success_rate="35.3">
 			<classification subject="Physics:Mechanics:Equilibrium of Rigid Bodies" />
 			<statement>
 				<p>Um vídeo bastante popular na Internet mostra um curioso experimento em que uma garrafa de água pendurada por uma corda é mantida suspensa por um palito de dente apoiado em uma mesa.</p>
@@ -1563,14 +1563,13 @@
 				</option>
 			</options>
 			<assumptions>
-				<header>Note e adote:</header>
 				<p>Despreze o peso dos palitos em relação aos módulos das forças <m>\vec{F}</m> e <m>\vec{P}</m>.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<objective_question number="47">
+		<objective_question number="47" success_rate="35.3">
 			<classification subject="Physics:Waves:MechanicalWaves" />
 			<statement>
 				<p>Os smartphones modernos vêm equipados com um acelerômetro, dispositivo que mede acelerações a que o aparelho está submetido. O gráfico foi gerado a partir de dados extraídos por um aplicativo do acelerômetro de um smartphone pendurado por um fio e colocado para oscilar sob a ação da gravidade. O gráfico mostra os dados de uma das componentes da aceleração (corrigidos por um valor de referência constante) em função do tempo.</p>
@@ -1595,7 +1594,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<header>Note e adote:</header>
 				<p>Use <m>\pi=3</m>
 				</p>
 				<p>Aceleração da gravidade: <m>g=10</m>m/s²</p>
@@ -1604,7 +1602,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="48">
+		<objective_question number="48" success_rate="31.6">
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Uma comunidade rural tem um consumo de energia elétrica de 2 MWh por mês. Para suprir parte dessa demanda, os moradores têm interesse em instalar uma miniusina hidrelétrica em uma queda d'água de 15 m de altura com vazão de 10 litros por segundo. O restante do consumo seria complementado com painéis de energia solar que produzem 40 kWh de energia por mês cada um.</p>
@@ -1628,7 +1626,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<header>Note e adote:</header>
 				<p>Densidade da água: 1~kg/litro</p>
 				<p>1 mês = 30 dias.</p>
 				<p>Aceleração da gravidade: <m>g=10~m/s²</m>.</p>
@@ -1637,7 +1634,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="49">
+		<objective_question number="49" success_rate="21.6">
 			<classification subject="Physics:Waves:MechanicalWaves" />
 			<statement>
 				<p>Ondas estacionárias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogênea, fixa em dois pontos separados por uma distância L, e pondo-a a vibrar. A extremidade à direita é acoplada a um gerador de frequências, enquanto a outra extremidade está sujeita a uma força tensional produzida ao se pendurar à corda um objeto de massa $m_{0}$ mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequência do gerador para $f_{1}$, obtém-se na corda uma onda estacionária que vibra em seu primeiro harmônico.</p>
@@ -1662,14 +1659,13 @@
 				</option>
 			</options>
 			<assumptions>
-				<header>Note e adote:</header>
 				<p>A velocidade da onda propagando-se em uma corda é diretamente proporcional à raiz quadrada da tensão sob a qual a corda está submetida.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<objective_question number="50">
+		<objective_question number="50" success_rate="13.5">
 			<classification subject="Physics:Thermodynamics:Laws of Thermodynamics" />
 			<statement>
 				<p>Um mol de um gás ideal percorre o processo cíclico ABCA em um diagrama P-V, conforme mostrado na figura, sendo que a etapa AB é isobárica, a etapa BC é isocórica e a etapa CA é isotérmica.</p>
@@ -1701,7 +1697,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="51">
+		<objective_question number="51" success_rate="37.6">
 			<classification subject="Physics:Optics:GeometricOptics" />
 			<statement>
 				<p>O olho humano constitui uma complexa estrutura capaz de controlar a luz recebida e produzir imagens nítidas. Em pessoas com visão normal, o olho é capaz de acomodar o cristalino para focalizar sobre a retina a luz que vem dos objetos, desde que não estejam muito próximos. Pessoas míopes, por outro lado, apresentam dificuldades em enxergar de longe. Ao focalizar objetos situados além do chamado ponto remoto (PR), a imagem forma-se à frente da retina, conforme ilustrado na figura.</p>
@@ -1730,7 +1726,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="52">
+		<objective_question number="52" success_rate="43.8">
 			<classification subject="Physics:Electromagnetism:Electrostatics" />
 			<statement>
 				<p>Dois balões negativamente carregados são utilizados para induzir cargas em latas metálicas, alinhadas e em contato, que, <u>inicialmente</u>, estavam eletricamente neutras.</p>
@@ -1755,7 +1751,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<header>Note e adote:</header>
 				<p>O contato entre dois objetos metálicos permite a passagem de cargas elétricas entre um e outro.</p>
 				<p>Suponha que o ar no entorno seja um isolante perfeito.</p>
 			</assumptions>
@@ -1763,7 +1758,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="53">
+		<objective_question number="53" success_rate="53.8">
 			<classification subject="Physics:Electromagnetism:Circuits" />
 			<statement>
 				<p>Em uma luminária de mesa, há duas lâmpadas que podem ser acesas individualmente ou ambas ao mesmo tempo, com cada uma funcionando sob a tensão nominal determinada pelo fabricante, de modo que a intensidade luminosa de cada lâmpada seja sempre a mesma.</p>
@@ -1788,14 +1783,13 @@
 				</option>
 			</options>
 			<assumptions>
-				<header>Note e adote:</header>
 				<p>Suponha que as lâmpadas funcionem de maneira ôhmica, ou seja, da mesma forma que um resistor.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<objective_question number="54">
+		<objective_question number="54" success_rate="32.7">
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
 				<p>Uma esfera metálica de massa <m>m</m> e carga elétrica <m>+q</m> descansa sobre um piso horizontal isolante, em uma região em que há um campo elétrico uniforme e também horizontal, de intensidade <m>E</m>, conforme mostrado na figura. Em certo instante, com auxílio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a ação da gravidade, a uma altura total <m>h</m>, sem nunca abandonar a região de campo elétrico uniforme.</p>
@@ -1833,7 +1827,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="55">
+		<objective_question number="55" success_rate="35.6">
 			<classification subject="Physics:Modern:SpecialRelativity" />
 			<statement>
 				<p>A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente <m>4 \times 10^{26}</m> W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de <m>5 \times 10^{9}</m> anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de</p>
@@ -1882,7 +1876,7 @@
 			<cite>Scientific American. 1 July 2020. Adaptado.</cite>
 		</context>
 
-		<objective_question number="56">
+		<objective_question number="56" success_rate="63.6">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Segundo o texto, conhecer a composição de elementos químicos que constituem as estrelas é fundamental, pois ela, entre outros aspectos,</p>
@@ -1906,7 +1900,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="57">
+		<objective_question number="57" success_rate="79.5">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>No texto, o astrofísico Martin Asplund emprega a frase <q>The sun is a fundamental yardstick</q> (L. 15), por considerar o Sol</p>
@@ -1930,7 +1924,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="58">
+		<objective_question number="58" success_rate="85.5">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Conforme o texto, um critério tradicionalmente utilizado por astrônomos para avaliar estrelas envolve</p>
@@ -1969,7 +1963,7 @@
 			<cite>Financial Times. 5 February 2020. Adaptado.</cite>
 		</context>
 
-		<objective_question number="59">
+		<objective_question number="59" success_rate="61.6">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Conforme o texto, um aspecto associado ao caráter efêmero da popularidade de um usuário da internet, relativo ao uso de plataformas como TikTok, é</p>
@@ -1994,7 +1988,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="60">
+		<objective_question number="60" success_rate="68.9">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>No texto, a referência a um jardim de verão ao entardecer, repleto de vagalumes, sugere que, para os adolescentes, as mídias sociais</p>
@@ -2020,7 +2014,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="61">
+		<objective_question number="61" success_rate="59.7">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<verse>
@@ -2071,7 +2065,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="62">
+		<objective_question number="62" success_rate="80.2">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<p>Leia os provérbios:</p>
@@ -2108,7 +2102,7 @@
 			<cite>Tommaso Koch. "O Coringa completa 80 anos e na Espanha ganha duas HQs, que inspiram debates filosóficos sobre a liberdade". El País. Junho/2020.</cite>
 		</context>
 
-		<objective_question number="63">
+		<objective_question number="63" success_rate="32.7">
 			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>No fragmento <q>ao tropeçar, cravava sua própria adaga no peito.</q> (L. 8-9), a oração em negrito abrange, simultaneamente, as noções de</p>
@@ -2132,7 +2126,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="64">
+		<objective_question number="64" success_rate="70.0">
 			<classification subject="Portuguese:Grammar:Syntax:Punctuation" />
 			<statement>
 				<p>As vírgulas em <q>E depois, o silêncio.</q> (L. 1) e em <q>Mas seu rosto continua sorrindo, para sempre.</q> (L. 2-3) são usadas, respectivamente, com a mesma finalidade que as vírgulas em</p>
@@ -2161,7 +2155,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="65">
+		<objective_question number="65" success_rate="26.4">
 			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>Em <q>Seu carisma seduziu a editora DC Comics, que impôs o acréscimo de um quadrinho.</q> (L. 12-13), o vocábulo <q>que</q> possui a mesma função sintática desempenhada no texto por</p>
@@ -2192,7 +2186,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="66">
+		<objective_question number="66" success_rate="48.7">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
@@ -2222,7 +2216,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="67">
+		<objective_question number="67" success_rate="54.2">
 			<classification subject="Portuguese:Grammar:Morphology" />
 			<statement>
 				<quote>
@@ -2285,7 +2279,7 @@
 			<cite>Cecilia Meireles, Romanceiro da Inconfidência.</cite>
 		</context>
 
-		<objective_question number="68">
+		<objective_question number="68" success_rate="33.8">
 			<classification subject="Portuguese:Grammar:Morphology:Verbs" />
 			<statement>
 				<p>Ao substituir a pessoa verbal utilizada para se referir ao substantivo <q>palavras</q> pela 3ª pessoa do plural, os verbos dos versos <q>sois de vento, ides no vento,</q> (v. 4) / <q>Perdão podíeis ter sido!</q> (v. 12) / <q>Éreis um sopro na aragem...</q> (v. 20) seriam conjugados conforme apresentado na alternativa:</p>
@@ -2309,7 +2303,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="69">
+		<objective_question number="69" success_rate="36.4">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<p>A <q>estranha potência</q> que a voz lírica ressalta nas palavras decorre de uma combinação entre</p>
@@ -2335,7 +2329,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="70">
+		<objective_question number="70" success_rate="57.4">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<verse>
@@ -2375,7 +2369,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="71">
+		<objective_question number="71" success_rate="49.0">
 			<classification subject="Literature:World Literature" />
 			<statement>
 				<p>I</p>
@@ -2419,7 +2413,7 @@
 			<cite>Bernardo Carvalho, Nove noites. Adaptado.</cite>
 		</context>
 
-		<objective_question number="72">
+		<objective_question number="72" success_rate="76.4">
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
 				<p>Sem prejuízo de sentido e fazendo as adaptações necessárias, é possível substituir as expressões em destaque no texto ("paternalismo ingênuo", "historinha", "idiota", "insistência bovina"), respectivamente, por</p>
@@ -2443,7 +2437,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="73">
+		<objective_question number="73" success_rate="46.9">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<p>As respostas do narrador às perguntas de Leusipo são uma tentativa de disfarçar o caráter</p>
@@ -2467,7 +2461,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="74">
+		<objective_question number="74" success_rate="49.7">
 			<classification subject="Literature:Brazil:Contemporary" />
 			<statement>
 				<p>Na cena apresentada, que explora o desconforto gerado pela difícil interlocução com o indígena, o narrador</p>
@@ -2493,7 +2487,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="75">
+		<objective_question number="75" success_rate="38.2">
 			<classification subject="Literature:Brazil:Realism and Naturalism" />
 			<statement>
 				<quote>
@@ -2524,7 +2518,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="76">
+		<objective_question number="76" success_rate="51.6">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<verse>
@@ -2570,7 +2564,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="77">
+		<objective_question number="77" success_rate="68.2">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q77.png" />
@@ -2630,7 +2624,7 @@
 			<footnote id="1">banguê: engenho de açúcar primitivo movido a força animal.</footnote>
 		</context>
 
-		<objective_question number="78">
+		<objective_question number="78" success_rate="66.9">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<p>Os últimos quatro versos do poema rompem com a série de contrapontos entre a usina e o banguê, pois</p>
@@ -2654,7 +2648,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="79">
+		<objective_question number="79" success_rate="80.5">
 			<classification subject="Portuguese:Grammar:Syntax" />
 			<statement>
 				<p>Na oração "que <u>ela</u> dura" (v. 4), o pronome sublinhado</p>
@@ -2680,7 +2674,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="80">
+		<objective_question number="80" success_rate="45.8">
 			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>Observe o diagrama que mostra, de forma simplificada, o processo de fabricação do açúcar.</p>
@@ -2709,7 +2703,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="81">
+		<objective_question number="81" success_rate="73.6">
 			<classification subject="Chemistry:Atomistics:Periodic Table" />
 			<statement>
 				<image width="0.5" src="fuvest/2021/fase01/q81.png" />
@@ -2743,7 +2737,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="82">
+		<objective_question number="82" success_rate="47.6">
 			<classification subject="Chemistry:Inorganic:RedoxReactions" />
 			<statement>
 				<image width="0.8" src="fuvest/2021/fase01/q82.png" />
@@ -2957,7 +2951,7 @@
 			<p>Nas setas, são mostradas as perdas de moléculas ou grupos químicos em cada etapa. Por exemplo, entre as espécies 1 e 2, ocorrem a saída de uma molécula de água e a formação de uma ligação dupla entre carbonos.</p>
 		</context>
 
-		<objective_question number="83">
+		<objective_question number="83" success_rate="26.4">
 			<classification subject="Chemistry:Organic:FunctionalGroups" />
 			<statement>
 				<p>De acordo com o esquema mostrado, as perdas indicadas como I e II correspondem a:</p>
@@ -2986,7 +2980,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="84">
+		<objective_question number="84" success_rate="37.4">
 			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
 				<p>Um frasco contendo 500 g de mel produzido no Brasil foi analisado e concluiu-se que 0,2 milimol de frutose foi convertido em HMF. Considerando apenas esse parâmetro de qualidade e tendo como referência os teores recomendados por órgãos nacionais e internacionais, mostrados na tabela, é correto afirmar que esse mel</p>
@@ -3017,7 +3011,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="85">
+		<objective_question number="85" success_rate="47.4">
 			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>Observe a representação a seguir, em que os círculos brancos representam uma espécie química (molécula ou íon molecular) e os círculos coloridos, outra.</p>
@@ -3045,7 +3039,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="86">
+		<objective_question number="86" success_rate="33.9">
 			<classification subject="Chemistry:Atomistics:Atomic Models" />
 			<statement>
 				<p>No fragmento a seguir, o autor explora conceitos químicos na forma de poesia:</p>
@@ -3078,7 +3072,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="87">
+		<objective_question number="87" success_rate="39.9">
 			<classification subject="Chemistry:General:ChemicalEquilibrium" />
 			<statement>
 				<p>Para estudar equilíbrio químico de íons $Co^{2+}$ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação:</p>
@@ -3272,7 +3266,6 @@
 				</table>
 			</options>
 			<assumptions>
-				<header>Note e adote:</header>
 				<p>Solubilidade dos sais em g/100 mL de água a 20 °C</p>
 				<table>
 					<row>
@@ -3323,7 +3316,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="88">
+		<objective_question number="88" success_rate="45.0">
 			<classification subject="Chemistry:Organic:Reactions" />
 			<statement>
 				<p>A reação de Maillard, que ocorre entre aminoácidos e carboidratos redutores, é a responsável por formar espécies que geram compostos coloridos que conferem o sabor característico de diversos alimentos assados. Um exemplo é a reação entre a glicina e um carboidrato redutor mostrada na equação em que R representa uma cadeia genérica:</p>
@@ -3353,7 +3346,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="89">
+		<objective_question number="89" success_rate="40.0">
 			<classification subject="Chemistry:General:Solutions" />
 			<statement>
 				<p>Em aquários de água marinha, é comum o uso do equipamento chamado <q>Skimmer</q>, aparato em que a água recebe uma torrente de bolhas de ar, como representado na figura, levando a matéria orgânica até a superfície, onde pode ser removida. Essa matéria orgânica eliminada é composta por moléculas orgânicas com parte apolar e parte polar, enquanto as bolhas formadas têm caráter apolar. Esse aparelho, no entanto, tem rendimento muito menor em aquários de água doce (retira menos quantidade de material orgânico por período de uso).</p>
@@ -3382,7 +3375,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="90">
+		<objective_question number="90" success_rate="54.6">
 			<classification subject="Chemistry:General" />
 			<statement>
 				<p>A destilação é um processo utilizado para separar compostos presentes em uma mistura com base nas suas propriedades físicas como, por exemplo, a diferença de temperatura de ebulição, a uma dada pressão, entre os componentes da mistura.</p>

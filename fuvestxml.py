@@ -272,6 +272,22 @@ class AbstractWriter(ABC):
         pass
 
     @abstractmethod
+    def ordered_list_start(self) -> str:
+        pass
+
+    @abstractmethod
+    def ordered_list_end(self) -> str:
+        pass
+
+    @abstractmethod
+    def ordered_list_item_start(self) -> str:
+        pass
+
+    @abstractmethod
+    def ordered_list_item_end(self) -> str:
+        pass
+
+    @abstractmethod
     def cite(self, text: str) -> str:
         pass
 
@@ -619,6 +635,23 @@ class LatexWriter(AbstractWriter):
     def list_item_end(self) -> str:
         return ""
 
+    # List
+    @override
+    def ordered_list_start(self) -> str:
+        return "\\begin{enumerate}\n"
+
+    @override
+    def ordered_list_end(self) -> str:
+        return "\\end{enumerate}\n\n"
+
+    @override
+    def ordered_list_item_start(self) -> str:
+        return "\\item "
+
+    @override
+    def ordered_list_item_end(self) -> str:
+        return ""
+
     @override
     def cite(self, text: str) -> str:
         return f"\\quoteauthor{{{text}}}\n\n"
@@ -815,50 +848,56 @@ class XmlConverter:
         body.append(self.writer.preamble(title))
         body.append(self.writer.body_start())
 
-        # Inner function to process question_groups tags
-        def process_question_group(parent):
-            # reset the footnote structure
-            self.reset_footnotes()
-
-            obj_questions = parent.findall("./objective_question")
-            min_question = 1000
-            max_question = 0
-            if len(obj_questions) > 1:
-                for q in obj_questions:
-                    number = int(q.get("number", "").strip())
-                    min_question = min_question if number > min_question else number
-                    max_question = max_question if number < max_question else number
-
-            for child in parent:
-                if child.tag == "context":
-                    body.append(
-                        self.render_context(
-                            child, len(obj_questions), min_question, max_question
-                        )
-                    )
-                elif child.tag == "objective_question":
-                    body.append(self.render_objective_question(child))
-
-                elif child.tag == "discursive_question":
-                    raise NotImplementedError("discursive_question not implemented!")
-
-                else:
-                    raise ValueError("Tag not recognized!")
-
         # Iterate over the exam child tags
         for child in root:
             if child.tag == "subject":
                 for sub_child in child:
-                    process_question_group(sub_child)
+                    body.append(self.render_question_group(sub_child))
 
             elif child.tag == "question_group":
-                process_question_group(child)
+                body.append(self.render_question_group(child))
 
             else:
                 raise ValueError("Tag not recognized!")
 
         # Ending
         body.append(self.writer.body_end())
+
+        return "".join(body)
+
+    #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+    # create_document()
+    # Inner function to process question_groups tags
+    def render_question_group(self, parent):
+        body = []
+
+        # reset the footnote structure
+        self.reset_footnotes()
+
+        obj_questions = parent.findall("./objective_question")
+        min_question = 1000
+        max_question = 0
+        if len(obj_questions) > 1:
+            for q in obj_questions:
+                number = int(q.get("number", "").strip())
+                min_question = min_question if number > min_question else number
+                max_question = max_question if number < max_question else number
+
+        for child in parent:
+            if child.tag == "context":
+                body.append(
+                    self.render_context(
+                        child, len(obj_questions), min_question, max_question
+                    )
+                )
+            elif child.tag == "objective_question":
+                body.append(self.render_objective_question(child))
+
+            elif child.tag == "discursive_question":
+                raise NotImplementedError("discursive_question not implemented!")
+
+            else:
+                raise ValueError("Tag not recognized!")
 
         return "".join(body)
 
@@ -1027,22 +1066,34 @@ class XmlConverter:
         tag = el.tag
         if tag == "p":
             return self.render_paragraph(el)
+
         elif tag == "footnote":
             return self.render_paragraph(el)
+
         elif tag == "header":
             return self.render_header(el)
+
         elif tag == "quote":
             return self.render_display_quote(el)
+
         elif tag == "verse":
             return self.render_verse(el)
+
         elif tag == "image":
             return self.render_image(el)
+
         elif tag == "table":
             return self.render_table(el)
+
         elif tag == "list":
             return self.render_list(el)
+
+        elif tag == "ordered_list":
+            return self.render_ordered_list(el)
+
         elif tag == "caption":
             return self.render_header(el)
+
         elif tag == "cite":
             return self.render_cite(el)
         else:
@@ -1234,13 +1285,38 @@ class XmlConverter:
             for child in li:
                 if child.tag == "p":
                     parts.append(self.render_paragraph(child))
+
                 elif child.tag == "image":
                     raise NotImplementedError("image not implemented!")
+
                 else:
                     raise ValueError("Tag not recognized!")
             parts.append(self.writer.list_item_end())
 
         parts.append(self.writer.list_end())
+        return "".join(parts)
+
+    #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+    # Render the <list> tag
+
+    def render_ordered_list(self, ul_el) -> str:
+        parts = []
+        parts.append(self.writer.ordered_list_start())
+        for li in ul_el.findall("./item"):
+            parts.append(self.writer.ordered_list_item_start())
+            # render paragraphs
+            for child in li:
+                if child.tag == "p":
+                    parts.append(self.render_paragraph(child))
+
+                elif child.tag == "image":
+                    raise NotImplementedError("image not implemented!")
+
+                else:
+                    raise ValueError("Tag not recognized!")
+            parts.append(self.writer.ordered_list_item_end())
+
+        parts.append(self.writer.ordered_list_end())
         return "".join(parts)
 
     #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
@@ -1340,10 +1416,11 @@ class XmlConverter:
 
 
 def read_parser_arguments():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("xml", type=Path, help="Input XML file")
+    parser = argparse.ArgumentParser()
 
-    ap.add_argument(
+    parser.add_argument("xml", type=Path, help="Input XML file")
+
+    parser.add_argument(
         "out",
         type=Path,
         nargs="?",
@@ -1351,34 +1428,34 @@ def read_parser_arguments():
         "If not supplied, it will be derived from input name.",
     )
 
-    fmt_group = ap.add_mutually_exclusive_group()
+    fmt_group = parser.add_mutually_exclusive_group()
     fmt_group.add_argument(
         "--latex", action="store_true", help="Generate LaTeX output (default)"
     )
     fmt_group.add_argument("--html", action="store_true", help="Generate HTML output")
 
-    ap.add_argument(
+    parser.add_argument(
         "--schema",
         type=Path,
         default=Path("./xsd/fuvest_xml.xsd"),
         help="Path to XML Schema file (default: ./xsd/fuvest_xml.xsd)",
     )
 
-    ap.add_argument(
+    parser.add_argument(
         "--graphics-dir",
         type=Path,
         default=Path("../images/"),
         help="Base directory for image sources (default: ../images/)",
     )
 
-    ap.add_argument(
+    parser.add_argument(
         "--output-dir",
         type=Path,
         default=Path("./output/"),
         help="Directory to place the output file (default: ./output/",
     )
 
-    return ap.parse_args()
+    return parser.parse_args()
 
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
@@ -1404,20 +1481,21 @@ def main():
         print(f"ERROR: The file '{args.xml}' does not exists.")
         sys.exit(1)
 
-    # Processor
-    xml_converter = XmlConverter(LatexWriter())
-
-    # Store the graphics_dir path on the global variable
-    xml_converter.global_graphics_dir = args.graphics_dir
-
-    # Load the input XML and validate
-    xml_converter.read_xml(args.xml)
-    xml_converter.validate_xml(args.schema)
-
     if fmt == "latex":
+        # Processor
+        xml_converter = XmlConverter(LatexWriter())
+
+        # Store the graphics_dir path on the global variable
+        xml_converter.global_graphics_dir = args.graphics_dir
+
+        # Load the input XML and validate
+        xml_converter.read_xml(args.xml)
+        xml_converter.validate_xml(args.schema)
+
         tex = xml_converter.create_document()
         args.out.write_text(tex, encoding="utf-8")
         print("Wrote LaTeX to", args.out)
+
     else:
         raise NotImplementedError("html output not implemented!")
 

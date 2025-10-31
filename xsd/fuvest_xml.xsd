@@ -499,6 +499,20 @@
 				</xs:complexType>
 			</xs:element>
 		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="list" type="ListType"/>
+	
+	<xs:complexType name="OrderedListType">
+		<xs:sequence>
+			<xs:element name="item" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:choice minOccurs="0" maxOccurs="unbounded">
+						<xs:element ref="p"/>
+						<xs:element ref="image"/>
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
 		
 		<!-- Attributes -->
 		<xs:attribute name="type" use="optional">
@@ -507,12 +521,11 @@
 					<xs:enumeration value="alpha"/>
 					<xs:enumeration value="arabic"/>
 					<xs:enumeration value="roman"/>
-					<xs:enumeration value="bullet"/>
 				</xs:restriction>
 			</xs:simpleType>
 		</xs:attribute>
 	</xs:complexType>
-	<xs:element name="list" type="ListType"/>
+	<xs:element name="ordered_list" type="OrderedListType"/>
 	
 	
 	<!-- ===================== Tables ===================== -->

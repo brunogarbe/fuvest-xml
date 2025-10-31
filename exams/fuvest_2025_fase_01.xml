@@ -1003,8 +1003,7 @@
 				<p>Alguns corais contêm, em sua estrutura, algas fornecedoras de carboidratos que auxiliam no crescimento e na construção do esqueleto do coral. Os corais, por sua vez, fornecem um ambiente de proteção e importantes nutrientes às algas. As mudanças climáticas globais têm provocado a morte dessas algas e, em muitos casos, a morte dos corais.</p>
 				<p>Assinale a alternativa que representa a relação ecológica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais.</p>
 			</statement>
-			<options>
-				<table>
+			<options_table>
 					<header>
 						<cell>
 							<p>Relação ecológica</p>
@@ -1053,8 +1052,7 @@
 							<p>Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas.</p>
 						</cell>
 					</option>
-				</table>
-			</options>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -1215,33 +1213,35 @@
 		<context>
 			<verse>
 				<title>Bem-vinda!</title>
-				<p>Eram faíscas suas palavras que me queimavam em doses homeopáticas</p>
-				<p>durante todas as noites...</p>
-				<p>Foram longos anos, dia após dia perdendo um pouco mais minha autoestima,</p>
-				<p>abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas</p>
-				<p>fazendo de tudo pra evitar brigas,</p>
-				<p>mas ele sempre dizia que a culpa era minha.</p>
-				<p>Até que um dia, me empurrou, me acuou</p>
-				<p>como se eu pudesse caber em qualquer fresta, encurralada,</p>
-				<p>me mandou ficar calada e, com medo, obedeci.</p>
-				<p>Eu pedia desculpa toda vez depois de falar</p>
-				<p>como se fosse um defeito de nascença querer me colocar.</p>
-				<p>A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias,</p>
-				<p>acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso.</p>
-				<p>Precisei tirar forças de lugares sagrados</p>
-				<p>pra me afastar e reagir, recolher meus pedaços.</p>
-				<p>Meus olhos encheram de mar, eu desaguei,</p>
-				<p>decidi não mais me calar, denunciei!</p>
-				<p>E depois do silêncio quebrado, meus pensamentos em guerra cessaram,</p>
-				<p>recuperei o fôlego e ouvi meu coração sendo grato.</p>
-				<p>Encontrei em mim um porto seguro, entendi que meu corpo é meu lar</p>
-				<p>e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar.</p>
-				<p>Hoje, quando olho pra dentro, vejo uma nova mulher renascendo,</p>
-				<p>eu celebro sua chegada e contemplo essa nova vida.</p>
-				<p>Sem medo, abro a janela de casa</p>
-				<p>e, com olhar de quem há tanto tempo esperava,</p>
-				<p>te pego pela mão e digo:</p>
-				<p>Seja bem-vinda!</p>
+				<stanza>
+				<l>Eram faíscas suas palavras que me queimavam em doses homeopáticas</l>
+				<l>durante todas as noites...</l>
+				<l>Foram longos anos, dia após dia perdendo um pouco mais minha autoestima,</l>
+				<l>abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas</l>
+				<l>fazendo de tudo pra evitar brigas,</l>
+				<l>mas ele sempre dizia que a culpa era minha.</l>
+				<l>Até que um dia, me empurrou, me acuou</l>
+				<l>como se eu pudesse caber em qualquer fresta, encurralada,</l>
+				<l>me mandou ficar calada e, com medo, obedeci.</l>
+				<l>Eu pedia desculpa toda vez depois de falar</l>
+				<l>como se fosse um defeito de nascença querer me colocar.</l>
+				<l>A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias,</l>
+				<l>acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso.</l>
+				<l>Precisei tirar forças de lugares sagrados</l>
+				<l>pra me afastar e reagir, recolher meus pedaços.</l>
+				<l>Meus olhos encheram de mar, eu desaguei,</l>
+				<l>decidi não mais me calar, denunciei!</l>
+				<l>E depois do silêncio quebrado, meus pensamentos em guerra cessaram,</l>
+				<l>recuperei o fôlego e ouvi meu coração sendo grato.</l>
+				<l>Encontrei em mim um porto seguro, entendi que meu corpo é meu lar</l>
+				<l>e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar.</l>
+				<l>Hoje, quando olho pra dentro, vejo uma nova mulher renascendo,</l>
+				<l>eu celebro sua chegada e contemplo essa nova vida.</l>
+				<l>Sem medo, abro a janela de casa</l>
+				<l>e, com olhar de quem há tanto tempo esperava,</l>
+				<l>te pego pela mão e digo:</l>
+				<l>Seja bem-vinda!</l>
+				</stanza>
 			</verse>
 			<cite>Mel Duarte. Colmeia Poemas Reunidos.</cite>
 		</context>
@@ -1361,30 +1361,32 @@
 	<question_group>
 		<context>
 			<verse>
-				<p>Quick, quick, tell me something awful</p>
-				<p>Like you are a poet trapped inside the body of a finance guy</p>
-				<p>Tell me all your secrets, all you'll ever be is</p>
-				<p>My eternal consolation prize</p>
-				<p>You see, I was a debutante in another life, but</p>
-				<p>Now I seem to be scared to go outside</p>
-				<p>If comfort is a construct, I don't believe in good luck</p>
-				<p>Now that I know what's what</p>
-				<p>I hate it here so I will go to secret gardens in my mind</p>
-				<p>People need a key to get to, the only one is mine</p>
-				<p>I read about it in a book when I was a precocious child</p>
-				<p>No mid-sized city hopes and small-town fears</p>
-				<p>I'm there most of the year 'cause I hate it here</p>
-				<p>I hate it here</p>
-				<p>My friends used to play a game where</p>
-				<p>We would pick a decade</p>
-				<p>We wished we could live in instead of this</p>
-				<p>I'd say the 1830s but without all the racists</p>
-				<p>And getting married off for the highest bid</p>
-				<p>Everyone would look down 'cause it wasn't fun now</p>
-				<p>Seems like it was never even fun back then</p>
-				<p>Nostalgia is a mind's trick</p>
-				<p>If I'd been there, I'd hate it</p>
-				<p>It was freezing in the palace</p>
+				<stanza>
+				<l>Quick, quick, tell me something awful</l>
+				<l>Like you are a poet trapped inside the body of a finance guy</l>
+				<l>Tell me all your secrets, all you'll ever be is</l>
+				<l>My eternal consolation prize</l>
+				<l>You see, I was a debutante in another life, but</l>
+				<l>Now I seem to be scared to go outside</l>
+				<l>If comfort is a construct, I don't believe in good luck</l>
+				<l>Now that I know what's what</l>
+				<l>I hate it here so I will go to secret gardens in my mind</l>
+				<l>People need a key to get to, the only one is mine</l>
+				<l>I read about it in a book when I was a precocious child</l>
+				<l>No mid-sized city hopes and small-town fears</l>
+				<l>I'm there most of the year 'cause I hate it here</l>
+				<l>I hate it here</l>
+				<l>My friends used to play a game where</l>
+				<l>We would pick a decade</l>
+				<l>We wished we could live in instead of this</l>
+				<l>I'd say the 1830s but without all the racists</l>
+				<l>And getting married off for the highest bid</l>
+				<l>Everyone would look down 'cause it wasn't fun now</l>
+				<l>Seems like it was never even fun back then</l>
+				<l>Nostalgia is a mind's trick</l>
+				<l>If I'd been there, I'd hate it</l>
+				<l>It was freezing in the palace</l>
+				</stanza>
 			</verse>
 			<cite>"I hate it here", Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).</cite>
 		</context>
@@ -1505,8 +1507,7 @@
 				<p>Sabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade $(EVH_{20})$ era 53,8.</p>
 				<p>Com base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos $(EVM_{19})$ e a expectativa de vida estimada à idade de 20 anos no Brasil $(EVB_{20})$ em 2022.</p>
 			</statement>
-			<options>
-				<table>
+			<options_table>
 					<header>
 						<cell>
 							<p><m>EVM_{19}</m></p>
@@ -1555,8 +1556,7 @@
 							<p>57,1</p>
 						</cell>
 					</option>
-				</table>
-			</options>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -1967,8 +1967,7 @@
 				<p>As massas de duas barras, uma de ferro e outra de aço inoxidável, armazenadas em um mesmo ambiente úmido e na presença de oxigênio, foram monitoradas ao longo do tempo.</p>
 				<p>Assinale a alternativa que representa a variação das massas de ambas as barras ao longo do tempo.</p>
 			</statement>
-			<options>
-				<table>
+			<options_table>
 					<header>
 						<cell>
 							<p>Ferro</p>
@@ -2017,8 +2016,7 @@
 							<image width="0.8" src="fuvest/2025/fase01/q60e2.png" />
 						</cell>
 					</option>
-				</table>
-			</options>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -2028,9 +2026,11 @@
 			<statement>
 				<p>Os versos a seguir pertencem à canção Fall on Me, da banda norte-americana R.E.M., lançada em 1986.</p>
 				<verse>
-					<p>There's a problem, feathers, iron</p>
-					<p>Bargain buildings, weights and pulleys</p>
-					<p>Feathers hit the ground before the weight can leave the air</p>
+					<stanza>
+					<l>There's a problem, feathers, iron</l>
+					<l>Bargain buildings, weights and pulleys</l>
+					<l>Feathers hit the ground before the weight can leave the air</l>
+					</stanza>
 				</verse>
 				<cite>Bill Berry, Peter Buck, Mike Mills e Michael Stipe.</cite>
 				<p>A qual episódio (real ou hipotético) da história da física o trecho da música faz alusão?</p>
@@ -2719,35 +2719,39 @@
 				<p>Leia os trechos das obras Marília de Dirceu e Romanceiro da Inconfidência:</p>
 				<verse>
 					<title>Lira VII (Parte II)</title>
-					<p>Meu prezado Glauceste,</p>
-					<p>Se fazes o conceito</p>
-					<p>Que, bem que réu, abrigo</p>
-					<p>A cândida Virtude no meu peito;</p>
-					<p>Se julgas, digo, que mereço ainda</p>
-					<p>Da tua mão socorro;</p>
-					<p>Ah! Vem dar-mo agora,</p>
-					<p>Agora, sim, que morro!</p>
-					<p>Não quero que, montado</p>
-					<p>No Pégaso fogoso,</p>
-					<p>Venhas com dura lança</p>
-					<p>Ao monstro infame traspassar, raivoso.</p>
-					<p>Deixa que viva a pérfida calúnia,</p>
-					<p>E forje o meu tormento:</p>
-					<p>Com menos, meu Glauceste,</p>
-					<p>Com menos me contento.</p>
+					<stanza>
+					<l>Meu prezado Glauceste,</l>
+					<l>Se fazes o conceito</l>
+					<l>Que, bem que réu, abrigo</l>
+					<l>A cândida Virtude no meu peito;</l>
+					<l>Se julgas, digo, que mereço ainda</l>
+					<l>Da tua mão socorro;</l>
+					<l>Ah! Vem dar-mo agora,</l>
+					<l>Agora, sim, que morro!</l>
+					<l>Não quero que, montado</l>
+					<l>No Pégaso fogoso,</l>
+					<l>Venhas com dura lança</l>
+					<l>Ao monstro infame traspassar, raivoso.</l>
+					<l>Deixa que viva a pérfida calúnia,</l>
+					<l>E forje o meu tormento:</l>
+					<l>Com menos, meu Glauceste,</l>
+					<l>Com menos me contento.</l>
+					</stanza>
 				</verse>
 				<cite>Tomás Antônio Gonzaga. Marilia de Dirceu.</cite>
 				<verse>
 					<title>Romance LXVI ou De Outros Maldizentes</title>
-					<p>— Que fica, na fortaleza,</p>
-					<p>daquele poeta Gonzaga?</p>
-					<p>— Um par de esporas, somente.</p>
-					<p>Um par de esporas de prata.</p>
-					<p>(...)</p>
-					<p>Dizem que tinha um cavalo</p>
-					<p>que Pégaso se chamava.</p>
-					<p>Não pisava neste mundo,</p>
-					<p>mas nos planaltos da Arcádia!</p>
+					<stanza>
+					<l>— Que fica, na fortaleza,</l>
+					<l>daquele poeta Gonzaga?</l>
+					<l>— Um par de esporas, somente.</l>
+					<l>Um par de esporas de prata.</l>
+					<l>(...)</l>
+					<l>Dizem que tinha um cavalo</l>
+					<l>que Pégaso se chamava.</l>
+					<l>Não pisava neste mundo,</l>
+					<l>mas nos planaltos da Arcádia!</l>
+					</stanza>
 				</verse>
 				<cite>Cecilia Meireles. Romanceiro da Inconfidência.</cite>
 				<p>Considerando o substantivo Pégaso, presente nos dois excertos, é correto afirmar:</p>
@@ -2778,22 +2782,24 @@
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<verse>
-					<p>Se a derrama for lançada,</p>
-					<p>há levante, com certeza.</p>
-					<p>Corre-se por essas ruas?</p>
-					<p>Corta-se alguma cabeça?</p>
-					<p>Do cimo de alguma escada,</p>
-					<p>profere-se alguma arenga?</p>
-					<p>Que bandeira se desdobra?</p>
-					<p>Com que figura ou legenda?</p>
-					<p>Coisas da Maçonaria,</p>
-					<p>do Paganismo ou da Igreja?</p>
-					<p>A Santíssima Trindade?</p>
-					<p>Um gênio a quebrar algemas?</p>
-					<p>Atrás de portas fechadas,</p>
-					<p>à luz de velas acesas,</p>
-					<p>entre sigilo e espionagem,</p>
-					<p>acontece a Inconfidência.</p>
+					<stanza>
+					<l>Se a derrama for lançada,</l>
+					<l>há levante, com certeza.</l>
+					<l>Corre-se por essas ruas?</l>
+					<l>Corta-se alguma cabeça?</l>
+					<l>Do cimo de alguma escada,</l>
+					<l>profere-se alguma arenga?</l>
+					<l>Que bandeira se desdobra?</l>
+					<l>Com que figura ou legenda?</l>
+					<l>Coisas da Maçonaria,</l>
+					<l>do Paganismo ou da Igreja?</l>
+					<l>A Santíssima Trindade?</l>
+					<l>Um gênio a quebrar algemas?</l>
+					<l>Atrás de portas fechadas,</l>
+					<l>à luz de velas acesas,</l>
+					<l>entre sigilo e espionagem,</l>
+					<l>acontece a Inconfidência.</l>
+					</stanza>
 				</verse>
 				<p>Os versos de Cecília Meireles, no Romanceiro da Inconfidência, remetem</p>
 			</statement>
@@ -2952,29 +2958,31 @@
 			<classification subject="History:Brazil:Vargas Era" />
 			<statement>
 				<verse>
-					<p>Brasil, meu Brasil brasileiro</p>
-					<p>Meu mulato inzoneiro</p>
-					<p>Vou cantar-te nos meus versos</p>
-					<p>O Brasil, samba que dá</p>
-					<p>Bamboleio, que faz gingar</p>
-					<p>O Brasil do meu amor</p>
-					<p>Terra de Nosso Senhor</p>
-					<p>Brasil, pra mim</p>
-					<p>Ô, abre a cortina do passado</p>
-					<p>Tira a mãe preta do cerrado</p>
-					<p>Bota o Rei Congo no congado</p>
-					<p>Brasil, pra mim (...)</p>
-					<p>Ô! Esse coqueiro que dá coco</p>
-					<p>Onde eu amarro a minha rede</p>
-					<p>Nas noites claras de luar</p>
-					<p>Brasil, pra mim</p>
-					<p>Ô! Ouve essas fontes murmurantes</p>
-					<p>Onde eu mato a minha sede</p>
-					<p>E onde a lua vem brincar</p>
-					<p>Ô! Este Brasil lindo e trigueiro</p>
-					<p>É o meu Brasil, brasileiro</p>
-					<p>Terra de samba e pandeiro</p>
-					<p>Brasil, pra mim</p>
+					<stanza>
+					<l>Brasil, meu Brasil brasileiro</l>
+					<l>Meu mulato inzoneiro</l>
+					<l>Vou cantar-te nos meus versos</l>
+					<l>O Brasil, samba que dá</l>
+					<l>Bamboleio, que faz gingar</l>
+					<l>O Brasil do meu amor</l>
+					<l>Terra de Nosso Senhor</l>
+					<l>Brasil, pra mim</l>
+					<l>Ô, abre a cortina do passado</l>
+					<l>Tira a mãe preta do cerrado</l>
+					<l>Bota o Rei Congo no congado</l>
+					<l>Brasil, pra mim (...)</l>
+					<l>Ô! Esse coqueiro que dá coco</l>
+					<l>Onde eu amarro a minha rede</l>
+					<l>Nas noites claras de luar</l>
+					<l>Brasil, pra mim</l>
+					<l>Ô! Ouve essas fontes murmurantes</l>
+					<l>Onde eu mato a minha sede</l>
+					<l>E onde a lua vem brincar</l>
+					<l>Ô! Este Brasil lindo e trigueiro</l>
+					<l>É o meu Brasil, brasileiro</l>
+					<l>Terra de samba e pandeiro</l>
+					<l>Brasil, pra mim</l>
+					</stanza>
 				</verse>
 				<p>A canção Aquarela do Brasil foi composta por Ari Barroso e lançada no ano de 1939. Sua letra permite identificar temas que guardam afinidades com a política cultural do Estado Novo, podendo ser destacada a</p>
 			</statement>

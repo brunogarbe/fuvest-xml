@@ -428,6 +428,7 @@
 		<xs:attributeGroup  ref="AlignAttribute" />
 	</xs:complexType>
 	<xs:element name="p" type="ParagraphType"/>
+	<xs:element name="l" type="ParagraphType"/>
 	<xs:element name="cite" type="ParagraphType"/>
 	<xs:element name="header" type="ParagraphType"/>
 	<xs:element name="caption" type="ParagraphType"/>
@@ -467,7 +468,21 @@
 		</xs:sequence>
 	</xs:complexType>
 	<xs:element name="quote" type="ComplexDisplayType"/>
-	<xs:element name="verse" type="ComplexDisplayType"/>
+	
+	<xs:complexType name="VerseType">
+		<xs:sequence>
+			<xs:element name="title" type="ParagraphType" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="stanza" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element ref="l" maxOccurs="unbounded"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="verse" type="VerseType"/>
 	
 	
 	<!-- ===================== Lists ===================== -->
@@ -574,8 +589,14 @@
 		<xs:attribute name="is_correct" type="xs:boolean" use="required"/>
 	</xs:complexType>
 	
-	<!-- Table Options -->
-	<xs:complexType name="TableOptions">
+	<!-- Options -->
+	<xs:complexType name="Options">
+		<xs:sequence>
+			<xs:element name="option" maxOccurs="unbounded" type="Option"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="OptionsTable">
 		<xs:sequence>
 			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRowType"/>
 			<xs:element name="option" maxOccurs="unbounded">
@@ -590,17 +611,6 @@
 				</xs:complexType>
 			</xs:element>
 		</xs:sequence>
-	</xs:complexType>
-	
-	<!-- Options -->
-	<xs:complexType name="Options">
-		<xs:choice>
-			<xs:sequence>
-				<xs:element name="option" maxOccurs="unbounded" type="Option"/>
-			</xs:sequence>
-			<!-- Table options tag -->
-			<xs:element name="table" type="TableOptions"/>
-		</xs:choice>
 	</xs:complexType>
 	
 	
@@ -636,7 +646,10 @@
 						<xs:sequence>
 							<xs:element name="classification" type="SubjectAttribute" maxOccurs="unbounded"/>
 							<xs:element name="statement" type="StatementChilds"/>
-							<xs:element name="options" type="Options"/>
+							<xs:choice>
+								<xs:element name="options" type="Options"/>
+								<xs:element name="options_table" type="OptionsTable"/>
+							</xs:choice>
 							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
 						</xs:sequence>
 						<!-- Attributes -->

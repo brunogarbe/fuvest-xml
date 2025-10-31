@@ -44,7 +44,7 @@ FOOTNOTES_SYMBOLS = [
 # number_to_letter auxiliar function
 
 
-def number_to_letter(number):
+def number_to_letter(number) -> str:
     """
     Converts an integer (1-26) to its corresponding uppercase letter (A-Z).
 
@@ -56,7 +56,8 @@ def number_to_letter(number):
     """
     if not 1 <= number <= 26:
         raise ValueError("Input number must be between 1 and 26.")
-    return chr(64 + number)
+
+    return str(chr(64 + number))
 
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
@@ -1428,6 +1429,14 @@ def read_parser_arguments():
         "If not supplied, it will be derived from input name.",
     )
 
+    parser.add_argument(
+        "-v", "--verbose", action="store_true", help="Enable verbose output."
+    )
+
+    parser.add_argument(
+        "-p", "--print", action="store_true", help="Enable verbose output."
+    )
+
     fmt_group = parser.add_mutually_exclusive_group()
     fmt_group.add_argument(
         "--latex", action="store_true", help="Generate LaTeX output (default)"
@@ -1492,9 +1501,16 @@ def main():
         xml_converter.read_xml(args.xml)
         xml_converter.validate_xml(args.schema)
 
+        # Create the document code
         tex = xml_converter.create_document()
-        args.out.write_text(tex, encoding="utf-8")
-        print("Wrote LaTeX to", args.out)
+
+        # select the console or file output
+        if args.print:
+            print(tex)
+
+        else:
+            args.out.write_text(tex, encoding="utf-8")
+            print("Wrote LaTeX to", args.out)
 
     else:
         raise NotImplementedError("html output not implemented!")

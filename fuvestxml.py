@@ -18,6 +18,7 @@ Notes:
 - If <correct_answer> has text, it will be collected for an Answer Key at the end.
 """
 
+import os
 import argparse
 import re
 import sys
@@ -355,6 +356,9 @@ class LatexWriter(AbstractWriter):
 
     def __init__(self):
         self.table_width = 0
+        # for control of the output in a table
+        self.table_counter = 0
+        self.table_num_columns = 0
 
     @override
     def preamble(self, title: str) -> str:
@@ -428,6 +432,8 @@ class LatexWriter(AbstractWriter):
     def options_table_start(self, num_cols: int) -> str:
         parts = []
 
+        self.table_num_columns = num_cols
+
         colspec = "|".join(["X"] * num_cols)
         parts.append("\\begin{center}\n")
         parts.append("\\begin{tabularx}{\\linewidth}{|c|" + colspec + "|}\n")
@@ -437,6 +443,7 @@ class LatexWriter(AbstractWriter):
 
     @override
     def options_table_end(self) -> str:
+        self.table_num_columns = -1
         parts = []
 
         parts.append("\\end{tabularx}\n")
@@ -446,6 +453,7 @@ class LatexWriter(AbstractWriter):
 
     @override
     def options_header_start(self) -> str:
+        self.table_counter = 0
         return ""
 
     @override
@@ -457,6 +465,7 @@ class LatexWriter(AbstractWriter):
 
     @override
     def options_row_start(self, option_text: str) -> str:
+        self.table_counter = 0
         return f" ({option_text}) "
 
     @override
@@ -468,11 +477,17 @@ class LatexWriter(AbstractWriter):
 
     @override
     def options_cell_start(self) -> str:
-        return " & "
+        return ""
 
     @override
     def options_cell_end(self) -> str:
-        return ""
+        # print(self.table_counter, self.table_num_columns)
+        if self.table_counter == (self.table_num_columns - 1):
+            return ""
+        else:
+            # print("*")
+            self.table_counter = self.table_counter + 1
+            return " & "
 
     @override
     def assumptions_start(self) -> str:
@@ -574,6 +589,7 @@ class LatexWriter(AbstractWriter):
     def table_start(self, column_spec: list[str], width: str) -> str:
         colspec = "|".join(column_spec)
         self.table_width = width
+        self.table_num_columns = len(column_spec)
 
         parts = []
         parts.append("\\begin{center}\n")
@@ -589,6 +605,7 @@ class LatexWriter(AbstractWriter):
 
     @override
     def table_end(self) -> str:
+        self.table_num_columns = -1
         parts = []
         if self.table_width == 0:
             parts.append("\\end{tabular}\n")
@@ -602,6 +619,7 @@ class LatexWriter(AbstractWriter):
 
     @override
     def table_row_start(self) -> str:
+        self.table_counter = 0
         return ""
 
     @override
@@ -617,7 +635,13 @@ class LatexWriter(AbstractWriter):
 
     @override
     def table_cell_end(self) -> str:
-        return " & "
+        # print(self.table_counter, self.table_num_columns)
+        if self.table_counter == (self.table_num_columns - 1):
+            return ""
+        else:
+            # print("*")
+            self.table_counter = self.table_counter + 1
+            return " & "
 
     # List
     @override
@@ -755,36 +779,402 @@ class LatexWriter(AbstractWriter):
 
 class HtmlWriter(AbstractWriter):
     """
-    Implements the algorithm using the HTML format.
+    Implements the algorithm using the LaTeX format.
     """
 
     def __init__(self):
-        pass
+        self.table_width = 0
+        # for control of the output in a table
+        self.table_counter = 0
+        self.table_num_columns = 0
 
+    @override
     def preamble(self, title: str) -> str:
-        # <!DOCTYPE html>
-        # <html lang="en">
-        # <head>
-        #     <meta charset="UTF-8">
-        #     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        #     <title>My Basic HTML Page</title>
-        # </head>
-        # # https://www.w3schools.com/tags/tag_meta.asp
-        return "<html>\n<body>\n"
+        parts = ['<!DOCTYPE html>\n<html lang="en">\n\n']
 
+        return "".join(parts)
+
+    @override
     def body_start(self) -> str:
-        return "\\begin{document}\n\n\\maketitle\n\n"
+        return "<body>\n\n"
 
+    @override
     def body_end(self) -> str:
         return "</body>\n</html>\n"
 
-    def clean_text(self, text: str) -> str:
-        pass
+    @override
+    def context_start(self, text: str) -> str:
+        parts = []
+        return "".join(parts)
 
+    @override
+    def context_end(self) -> str:
+        return ""
+
+    @override
+    def question_start(self, number: str) -> str:
+        parts = []
+        return "".join(parts)
+
+    @override
+    def question_end(self) -> str:
+        return ""
+
+    @override
+    def options_regular_start(self) -> str:
+        return '<ol type="A">\n'
+
+    @override
+    def options_regular_end(self) -> str:
+        return "</ol>\n\n"
+
+    @override
+    def options_item_start(self) -> str:
+        return "<li>"
+
+    @override
+    def options_item_end(self) -> str:
+        return "</li>"
+
+    @override
+    def options_table_start(self, num_cols: int) -> str:
+        parts = []
+
+        self.table_num_columns = num_cols
+
+        colspec = "|".join(["X"] * num_cols)
+        parts.append("\\begin{center}\n")
+        parts.append("\\begin{tabularx}{\\linewidth}{|c|" + colspec + "|}\n")
+        parts.append("\\hline\n")
+
+        return "".join(parts)
+
+    @override
+    def options_table_end(self) -> str:
+        self.table_num_columns = -1
+        parts = []
+
+        parts.append("\\end{tabularx}\n")
+        parts.append("\\end{center}\n\n")
+
+        return "".join(parts)
+
+    @override
+    def options_header_start(self) -> str:
+        self.table_counter = 0
+        return ""
+
+    @override
+    def options_header_end(self) -> str:
+        parts = []
+        parts.append("\\\\\n")
+        parts.append("\\hline\n")
+        return "".join(parts)
+
+    @override
+    def options_row_start(self, option_text: str) -> str:
+        self.table_counter = 0
+        return f" ({option_text}) "
+
+    @override
+    def options_row_end(self) -> str:
+        parts = []
+        parts.append("\\\\\n")
+        parts.append("\\hline\n")
+        return "".join(parts)
+
+    @override
+    def options_cell_start(self) -> str:
+        return ""
+
+    @override
+    def options_cell_end(self) -> str:
+        # print(self.table_counter, self.table_num_columns)
+        if self.table_counter == (self.table_num_columns - 1):
+            return ""
+        else:
+            # print("*")
+            self.table_counter = self.table_counter + 1
+            return " & "
+
+    @override
+    def assumptions_start(self) -> str:
+        parts = []
+        return "".join(parts)
+
+    @override
+    def assumptions_end(self) -> str:
+        parts = []
+        return "".join(parts)
+
+    @override
     def paragraph(self, text: str) -> str:
-        start_par = "<p>"
-        end_par = "</p>\n"
-        return start_par + text + end_par
+        return "<p>" + text + "</p>\n"
+
+    @override
+    def header(self, text: str) -> str:
+        return f"\\textbf{{{text}}}\n\n"
+
+    @override
+    def display_quote_start(self) -> str:
+        return ""
+
+    @override
+    def display_quote_end(self) -> str:
+        parts = []
+        return "".join(parts)
+
+    @override
+    def verse_start(self) -> str:
+        return ""
+
+    @override
+    def verse_end(self) -> str:
+        return ""
+
+    @override
+    def verse_title(self, text: str) -> str:
+        return "<h3>" + text + "</h3>\n"
+
+    @override
+    def verse_stanza_start(self) -> str:
+        return "<p>\n"
+
+    @override
+    def verse_stanza_end(self) -> str:
+        return "</p>\n"
+
+    @override
+    def verse_line(self, text: str) -> str:
+        return text + "<br/>\n"
+
+    @override
+    def image(self, img_path: str, wrap: bool, width: str) -> str:
+        parts = []
+        if wrap is True:
+            parts.append("\\begin{wrapfigure}{l}[0pt]{" + width + "\\linewidth}\n")
+            parts.append("\\centering\n")
+            parts.append(
+                "\\includegraphics[width="
+                + size
+                + "]{"
+                + str(img_path).replace("\\", "/")
+                + "}\n"
+            )
+            parts.append("\\end{wrapfigure}\n\n")
+        else:
+            parts.append("\\begin{center}\n")
+            parts.append(
+                "\\includegraphics[width="
+                + width
+                + "\\linewidth]{"
+                + str(img_path).replace("\\", "/")
+                + "}\n"
+            )
+            parts.append("\\end{center}\n\n")
+        return "".join(parts)
+
+    @override
+    def inline_image(self, img_path: str, wrap: bool, width: str) -> str:
+        return (
+            "\\includegraphics[width="
+            + width
+            + "\\linewidth]{"
+            + str(img_path).replace("\\", "/")
+            + "}"
+        )
+
+    # Table
+    @override
+    def table_start(self, column_spec: list[str], width: str) -> str:
+        colspec = "|".join(column_spec)
+        self.table_width = width
+        self.table_num_columns = len(column_spec)
+
+        parts = []
+        parts.append("\\begin{center}\n")
+        if width == 0:
+            parts.append("\\begin{tabular}{|" + colspec + "|}\n")
+        else:
+            width_str = f"{width / 100.0:.2f}"
+            parts.append(
+                "\\begin{tabularx}{" + width_str + "\\linewidth}{|" + colspec + "|}\n"
+            )
+        parts.append("\\hline\n")
+        return "".join(parts)
+
+    @override
+    def table_end(self) -> str:
+        self.table_num_columns = -1
+        parts = []
+        if self.table_width == 0:
+            parts.append("\\end{tabular}\n")
+        else:
+            parts.append("\\end{tabularx}\n")
+        parts.append("\\end{center}\n\n")
+
+        self.table_width = 0
+
+        return "".join(parts)
+
+    @override
+    def table_row_start(self) -> str:
+        self.table_counter = 0
+        return ""
+
+    @override
+    def table_row_end(self) -> str:
+        parts = []
+        parts.append(" \\\\\n")
+        parts.append("\\hline\n")
+        return "".join(parts)
+
+    @override
+    def table_cell_start(self) -> str:
+        return ""
+
+    @override
+    def table_cell_end(self) -> str:
+        # print(self.table_counter, self.table_num_columns)
+        if self.table_counter == (self.table_num_columns - 1):
+            return ""
+        else:
+            # print("*")
+            self.table_counter = self.table_counter + 1
+            return " & "
+
+    # List
+    @override
+    def list_start(self) -> str:
+        return "<ul>\n"
+
+    @override
+    def list_end(self) -> str:
+        return "</ul>\n\n"
+
+    @override
+    def list_item_start(self) -> str:
+        return "<li>"
+
+    @override
+    def list_item_end(self) -> str:
+        return "</li>"
+
+    # List
+    @override
+    def ordered_list_start(self) -> str:
+        return "<ul>\n"
+
+    @override
+    def ordered_list_end(self) -> str:
+        return "</ul>\n\n"
+
+    @override
+    def ordered_list_item_start(self) -> str:
+        return "<li>"
+
+    @override
+    def ordered_list_item_end(self) -> str:
+        return "</li>"
+
+    @override
+    def cite(self, text: str) -> str:
+        return f"\\quoteauthor{{{text}}}\n\n"
+
+    # Inlines
+    @override
+    def bold(self, text: str) -> str:
+        return "<b>" + text + "</b>\n"
+
+    @override
+    def italic(self, text: str) -> str:
+        return "<i>" + text + "</i>\n"
+
+    @override
+    def underline(self, text: str) -> str:
+        return "<u>" + text + "</u>\n"
+
+    @override
+    def quote(self, text: str) -> str:
+        return f"“{text}”"
+
+    @override
+    def math(self, text: str) -> str:
+        return f"${text}$"
+
+    @override
+    def display_math(self, text: str, end_symbol: str) -> str:
+        return f"\n$${text} {end_symbol}$$\n"
+
+    @override
+    def chemistry(self, text: str) -> str:
+        return f"\\ce{{{text}}}"
+
+    @override
+    def display_chemistry(self, text: str) -> str:
+        return f"$$\\ce{{{text}}}$$"
+
+    @override
+    def reference(self, text: str) -> str:
+        return f"$^{{\\mathrm{{{text}}} }}$"
+
+    @override
+    def clean_text(self, text: str) -> str:
+        # Dictionary of characters to escape
+        escape_map = {
+            "&": r"\&",
+            "%": r"\%",
+            "$": r"\$",
+            "#": r"\#",
+            "_": r"\_",
+            "{": r"\{",
+            "}": r"\}",
+            "→": r"->",
+            "⇌": r"<=>",
+            "~": r"\textasciitilde{}",
+            "^": r"\textasciicircum{}",
+            "\\": r"\textbackslash{}",
+        }
+
+        # Create a regex from the keys of the map
+        escape_regex = re.compile("|".join(map(re.escape, escape_map.keys())))
+
+        # Perform the replacement
+        fully_escaped_text = escape_regex.sub(lambda mo: escape_map[mo.group(0)], text)
+
+        return fully_escaped_text
+
+    @override
+    def clean_math(self, text: str) -> str:
+        # Dictionary of characters to escape
+        escape_map = {
+            "π": r"\pi",
+        }
+
+        # Create a regex from the keys of the map
+        escape_regex = re.compile("|".join(map(re.escape, escape_map.keys())))
+
+        # Perform the replacement
+        fully_escaped_text = escape_regex.sub(lambda mo: escape_map[mo.group(0)], text)
+
+        return fully_escaped_text
+
+    @override
+    def clean_chemistry(self, text: str) -> str:
+        # Dictionary of characters to escape
+        escape_map = {
+            "α": r"\alpha",
+            "→": r"->",
+            "⇌": r"<=>",
+        }
+
+        # Create a regex from the keys of the map
+        escape_regex = re.compile("|".join(map(re.escape, escape_map.keys())))
+
+        # Perform the replacement
+        fully_escaped_text = escape_regex.sub(lambda mo: escape_map[mo.group(0)], text)
+
+        return fully_escaped_text
 
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
@@ -813,7 +1203,13 @@ class XmlConverter:
 
     def read_xml(self, xml_path: Path) -> etree._ElementTree:
         parser = etree.XMLParser(remove_blank_text=True)
-        self.input = etree.parse(str(xml_path), parser)
+        self.input = etree.parse(str(xml_path), parser).getroot()
+
+    #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+    # Read a xml file to the input
+
+    def read_xml_from_memory(self, input: etree._ElementTree):
+        self.input = input
 
     #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
     # Validate the xml input to a xml schema
@@ -833,7 +1229,7 @@ class XmlConverter:
     # create_document()
 
     def create_document(self) -> str:
-        root = self.input.getroot()
+        root = self.input
         name = root.get("name", "Exam")
         year = root.get("year", "")
         phase = root.get("phase", "")
@@ -1163,7 +1559,7 @@ class XmlConverter:
                 parts.append(self.writer.verse_stanza_end())
 
             else:
-                raise ValueError("Tag not recognized!")
+                raise ValueError(f"Tag {child.tag} not recognized!")
 
         parts.append(self.writer.verse_end())
         return "".join(parts)
@@ -1181,6 +1577,9 @@ class XmlConverter:
 
         # get the image path
         img_path = self.global_graphics_dir / src
+        # print(img_path)
+        if os.path.exists(img_path):
+            print(f"xxx '{file_path}' exists (could be a file or directory).")
 
         return self.writer.image(img_path, wrap, width)
 
@@ -1513,7 +1912,26 @@ def main():
             print("Wrote LaTeX to", args.out)
 
     else:
-        raise NotImplementedError("html output not implemented!")
+        # Processor
+        xml_converter = XmlConverter(HtmlWriter())
+
+        # Store the graphics_dir path on the global variable
+        xml_converter.global_graphics_dir = args.graphics_dir
+
+        # Load the input XML and validate
+        xml_converter.read_xml(args.xml)
+        xml_converter.validate_xml(args.schema)
+
+        # Create the document code
+        tex = xml_converter.create_document()
+
+        # select the console or file output
+        if args.print:
+            print(tex)
+
+        else:
+            args.out.write_text(tex, encoding="utf-8")
+            print("Wrote LaTeX to", args.out)
 
 
 if __name__ == "__main__":

@@ -8,27 +8,54 @@ import pandas as pd
 from lxml import etree
 import time
 
+from pathlib import Path
+import fuvestxml
+
 from PyQt5.QtWidgets import (
-    QApplication, QMainWindow, QTableView, QHeaderView, QVBoxLayout,
-    QWidget, QMenu, QAction, QSplitter, QLineEdit, QTabWidget,
-    QPlainTextEdit, QTextBrowser, QHBoxLayout, QPushButton, QStatusBar,
-    QFileDialog, QMessageBox, QStyleOptionButton, QStyle
+    QApplication,
+    QMainWindow,
+    QTableView,
+    QHeaderView,
+    QVBoxLayout,
+    QWidget,
+    QMenu,
+    QAction,
+    QSplitter,
+    QLineEdit,
+    QTabWidget,
+    QPlainTextEdit,
+    QTextBrowser,
+    QHBoxLayout,
+    QPushButton,
+    QStatusBar,
+    QFileDialog,
+    QMessageBox,
+    QStyleOptionButton,
+    QStyle,
 )
 from PyQt5.QtCore import Qt, QRect, QSortFilterProxyModel, QRegExp, QVariant
 from PyQt5.QtGui import (
-    QStandardItemModel, QStandardItem, QPainter, QPainterPath,
-    QColor, QSyntaxHighlighter, QTextCharFormat, QFont
+    QStandardItemModel,
+    QStandardItem,
+    QPainter,
+    QPainterPath,
+    QColor,
+    QSyntaxHighlighter,
+    QTextCharFormat,
+    QFont,
 )
 
-#from PyQt5.QtWidgets import QStyleOptionButton, QStyle
+# from PyQt5.QtWidgets import QStyleOptionButton, QStyle
+
 
 # -------------------------------------------------------------------
 # Boolean expression tree (used in global search with AND/OR support)
 # -------------------------------------------------------------------
 class ExprNode:
     """Boolean expression tree node"""
+
     def __init__(self, kind, value=None, left=None, right=None):
-        self.kind = kind    # "term", "and", "or"
+        self.kind = kind  # "term", "and", "or"
         self.value = value  # criterion (for term)
         self.left = left
         self.right = right
@@ -37,9 +64,13 @@ class ExprNode:
         if self.kind == "term":
             return match_func(self.value, *row_vals)
         elif self.kind == "and":
-            return self.left.evaluate(row_vals, match_func) and self.right.evaluate(row_vals, match_func)
+            return self.left.evaluate(row_vals, match_func) and self.right.evaluate(
+                row_vals, match_func
+            )
         elif self.kind == "or":
-            return self.left.evaluate(row_vals, match_func) or self.right.evaluate(row_vals, match_func)
+            return self.left.evaluate(row_vals, match_func) or self.right.evaluate(
+                row_vals, match_func
+            )
         return False
 
 
@@ -49,7 +80,7 @@ class ExprNode:
 class MultiColumnFilterProxy(QSortFilterProxyModel):
     def __init__(self):
         super().__init__()
-        self.filters = {}      # funnel filters
+        self.filters = {}  # funnel filters
         self.expr_root = None  # parsed search expression tree
 
     def set_filter_values(self, column, values):
@@ -64,7 +95,7 @@ class MultiColumnFilterProxy(QSortFilterProxyModel):
     def set_text_filter(self, text: str):
         """Parse text into boolean expression tree"""
         self.expr_root = self._parse_expression(text)
-        print(text, self.expr_root )
+        print(text, self.expr_root)
         self.invalidateFilter()
 
     def data(self, index, role=Qt.DisplayRole):
@@ -75,16 +106,23 @@ class MultiColumnFilterProxy(QSortFilterProxyModel):
         header = self.sourceModel().headerData(index.column(), Qt.Horizontal)
 
         # Center specific columns
-        if role == Qt.TextAlignmentRole and header in ("Select", "year", "question_number"):
+        if role == Qt.TextAlignmentRole and header in (
+            "Select",
+            "year",
+            "question_number",
+        ):
             return Qt.AlignCenter
 
         return super().data(index, role)
-    
+
     # ------------------- Expression Parser -------------------
     def _tokenize(self, text):
         # tokens: words, and, or, (, )
-        tokens = re.findall(r'\(|\)|\w+|\&|\|', text.lower())
-        return ["and" if t in ["and", "&"] else "or" if t in ["or", "|"] else t for t in tokens]
+        tokens = re.findall(r"\(|\)|\w+|\&|\|", text.lower())
+        return [
+            "and" if t in ["and", "&"] else "or" if t in ["or", "|"] else t
+            for t in tokens
+        ]
 
     def _parse_expression(self, text):
         tokens = self._tokenize(text)
@@ -129,7 +167,6 @@ class MultiColumnFilterProxy(QSortFilterProxyModel):
 
         return stack[0] if stack else None
 
-
     # ------------------- Filtering Logic -------------------
     def filterAcceptsRow(self, source_row, parent):
         sm = self.sourceModel()
@@ -145,12 +182,18 @@ class MultiColumnFilterProxy(QSortFilterProxyModel):
 
         # Apply search expression if exists
         if self.expr_root:
-            col_map = {self.sourceModel().headerData(i, Qt.Horizontal): i
-                for i in range(1, self.sourceModel().columnCount())}
+            col_map = {
+                self.sourceModel().headerData(i, Qt.Horizontal): i
+                for i in range(1, self.sourceModel().columnCount())
+            }
 
             def safe_get(colname):
                 ci = col_map.get(colname)
-                return str(sm.index(source_row, ci, parent).data()).lower() if ci is not None else ""
+                return (
+                    str(sm.index(source_row, ci, parent).data()).lower()
+                    if ci is not None
+                    else ""
+                )
 
             year_val = safe_get("year")
             exam_val = safe_get("exam_name")
@@ -158,8 +201,7 @@ class MultiColumnFilterProxy(QSortFilterProxyModel):
             row_text = f"{year_val} {exam_val} {subj_val}"
 
             return self.expr_root.evaluate(
-                (year_val, exam_val, subj_val, row_text),
-                self._match_criterion
+                (year_val, exam_val, subj_val, row_text), self._match_criterion
             )
 
         return True
@@ -169,11 +211,11 @@ class MultiColumnFilterProxy(QSortFilterProxyModel):
             return crit == year_val
         elif crit in ["fuvest", "enem", "unicamp", "ita"]:
             return crit in exam_val
-        else: # crit in ["math:algebra", "math", "biology", "history", "geography"]:
-            #print('################################################################')
-            #print('subj_val', subj_val, type(subj_val), subj_val.startswith(crit), crit)
+        else:  # crit in ["math:algebra", "math", "biology", "history", "geography"]:
+            # print('################################################################')
+            # print('subj_val', subj_val, type(subj_val), subj_val.startswith(crit), crit)
             return subj_val.startswith(crit)
-        #else:
+        # else:
         #    return crit in row_text
 
 
@@ -200,7 +242,7 @@ class XMLHighlighter(QSyntaxHighlighter):
         # Attribute values in quotes
         val_format = QTextCharFormat()
         val_format.setForeground(QColor("darkgreen"))
-        self.val_pattern = QRegExp("\".*\"")
+        self.val_pattern = QRegExp('".*"')
         self.val_format = val_format
 
         # Comments <!-- ... -->
@@ -273,9 +315,6 @@ def find_question_element(source_file: str, qtype: str, qnumber: str):
     return None
 
 
-
-
-
 def get_dataframe():
     schema_path = "./xsd/fuvest_xml.xsd"
     exams_dir = "./exams"
@@ -316,21 +355,22 @@ def get_dataframe():
                     classification = cl.get("subject")
                 text = (q.text or "").strip() if q.text else ""
 
-                rows.append({
-                    "exam_name": exam_name,
-                    "year": exam_year,
-                    "phase": exam_phase,
-                    "question_type": qtag,
-                    "question_number": q_number,
-                    "classification": classification,
-                    "question_text": text,
-                    "source_file": xml_file
-                })
+                rows.append(
+                    {
+                        "exam_name": exam_name,
+                        "year": exam_year,
+                        "phase": exam_phase,
+                        "question_type": qtag,
+                        "question_number": q_number,
+                        "classification": classification,
+                        "question_text": text,
+                        "source_file": xml_file,
+                    }
+                )
 
     elapsed = time.time() - start_time
     print(f"[INFO] Finished processing {total} files in {elapsed:.2f} seconds.")
     return pd.DataFrame(rows)
-
 
 
 def xml_to_html(elem):
@@ -427,7 +467,11 @@ class DataFrameModel(QStandardItemModel):
             return QVariant()
         if self._df.columns[index.column()] == "Selected":
             if role == Qt.CheckStateRole:
-                return Qt.Checked if self._df.iat[index.row(), index.column()] else Qt.Unchecked
+                return (
+                    Qt.Checked
+                    if self._df.iat[index.row(), index.column()]
+                    else Qt.Unchecked
+                )
             return QVariant()
         return super().data(index, role)
 
@@ -436,7 +480,7 @@ class DataFrameModel(QStandardItemModel):
             return False
         if self._df.columns[index.column()] == "Selected":
             if role == Qt.CheckStateRole:
-                self._df.iat[index.row(), index.column()] = (value == Qt.Checked)
+                self._df.iat[index.row(), index.column()] = value == Qt.Checked
                 self.dataChanged.emit(index, index, [Qt.CheckStateRole])
                 return True
         return super().setData(index, value, role)
@@ -447,23 +491,22 @@ class DataFrameModel(QStandardItemModel):
         return df
 
 
-
 # ---------------- FILTER HEADER ----------------
 class FilterHeader(QHeaderView):
     ICON_SIZE = 14
 
     def __init__(self, table_view, proxy, parent=None):
         super().__init__(Qt.Horizontal, parent or table_view)
-        self.table_view = table_view          # QTableView (to check hidden columns if needed)
-        self.proxy = proxy                    # QSortFilterProxyModel
+        self.table_view = table_view  # QTableView (to check hidden columns if needed)
+        self.proxy = proxy  # QSortFilterProxyModel
         self.setSectionsClickable(True)
 
         # Columns that must NOT have funnels
         self.excluded_names = {"Selected", "question_text", "source_file"}
 
         # Maps keyed by *column index* (aligned with model/proxy)
-        self.unique_vals = {}     # col_idx -> set(str)
-        self.selected_vals = {}   # col_idx -> set(str)
+        self.unique_vals = {}  # col_idx -> set(str)
+        self.selected_vals = {}  # col_idx -> set(str)
 
         self.rebuild()  # build maps from the *source* model
 
@@ -499,13 +542,12 @@ class FilterHeader(QHeaderView):
         title = str(self.model().headerData(logicalIndex, Qt.Horizontal))
 
         painter.fillRect(rect, QColor(240, 240, 240))
-        painter.drawText(rect.adjusted(6, 0, -20, 0),
-                        Qt.AlignVCenter | Qt.AlignLeft, title)
+        painter.drawText(
+            rect.adjusted(6, 0, -20, 0), Qt.AlignVCenter | Qt.AlignLeft, title
+        )
 
         # Special: draw a checkbox in the Selected column header
         if title == "Selected":
-            
-
             style = self.style()
             opt = QStyleOptionButton()
 
@@ -514,8 +556,12 @@ class FilterHeader(QHeaderView):
             src_model = proxy.sourceModel()
             total = proxy.rowCount()
             checked = sum(
-                1 for r in range(total)
-                if src_model.data(proxy.mapToSource(proxy.index(r, logicalIndex)), Qt.CheckStateRole) == Qt.Checked
+                1
+                for r in range(total)
+                if src_model.data(
+                    proxy.mapToSource(proxy.index(r, logicalIndex)), Qt.CheckStateRole
+                )
+                == Qt.Checked
             )
 
             if checked == 0:
@@ -523,10 +569,16 @@ class FilterHeader(QHeaderView):
             elif checked == total:
                 opt.state = QStyle.State_On | QStyle.State_Enabled
             else:
-                opt.state = QStyle.State_NoChange | QStyle.State_Enabled  # partially checked
+                opt.state = (
+                    QStyle.State_NoChange | QStyle.State_Enabled
+                )  # partially checked
 
-            opt.rect = QRect(rect.right() - self.ICON_SIZE*2, rect.center().y() - self.ICON_SIZE//2,
-                            self.ICON_SIZE, self.ICON_SIZE)
+            opt.rect = QRect(
+                rect.right() - self.ICON_SIZE * 2,
+                rect.center().y() - self.ICON_SIZE // 2,
+                self.ICON_SIZE,
+                self.ICON_SIZE,
+            )
             style.drawControl(QStyle.CE_CheckBox, opt, painter)
 
             painter.restore()
@@ -540,17 +592,21 @@ class FilterHeader(QHeaderView):
         # (funnel drawing code as before…)
         # ...
 
-
         # # Only draw a funnel/arrow for filterable columns
         # if logicalIndex not in self.unique_vals:
         #     painter.restore()
         #     return
 
-        icon_rect = QRect(rect.right() - self.ICON_SIZE - 4,
-                          rect.center().y() - self.ICON_SIZE // 2,
-                          self.ICON_SIZE, self.ICON_SIZE)
+        icon_rect = QRect(
+            rect.right() - self.ICON_SIZE - 4,
+            rect.center().y() - self.ICON_SIZE // 2,
+            self.ICON_SIZE,
+            self.ICON_SIZE,
+        )
 
-        all_selected = (self.selected_vals[logicalIndex] == self.unique_vals[logicalIndex])
+        all_selected = (
+            self.selected_vals[logicalIndex] == self.unique_vals[logicalIndex]
+        )
         path = QPainterPath()
         if all_selected:
             # ▼
@@ -561,13 +617,18 @@ class FilterHeader(QHeaderView):
             path.closeSubpath()
         else:
             # Funnel
-            x, y, w, h = icon_rect.x(), icon_rect.y(), icon_rect.width(), icon_rect.height()
+            x, y, w, h = (
+                icon_rect.x(),
+                icon_rect.y(),
+                icon_rect.width(),
+                icon_rect.height(),
+            )
             path.moveTo(x, y)
             path.lineTo(x + w, y)
-            path.lineTo(x + w/2 + 3, y + h/2)
-            path.lineTo(x + w/2 + 3, y + h)
-            path.lineTo(x + w/2 - 3, y + h)
-            path.lineTo(x + w/2 - 3, y + h/2)
+            path.lineTo(x + w / 2 + 3, y + h / 2)
+            path.lineTo(x + w / 2 + 3, y + h)
+            path.lineTo(x + w / 2 - 3, y + h)
+            path.lineTo(x + w / 2 - 3, y + h / 2)
             path.closeSubpath()
 
         painter.fillPath(path, Qt.black)
@@ -590,9 +651,12 @@ class FilterHeader(QHeaderView):
             rect = QRect(x, 0, w, h)
 
             # Rect for checkbox
-            checkbox_rect = QRect(rect.right() - self.ICON_SIZE*2,
-                                rect.center().y() - self.ICON_SIZE // 2,
-                                self.ICON_SIZE, self.ICON_SIZE)
+            checkbox_rect = QRect(
+                rect.right() - self.ICON_SIZE * 2,
+                rect.center().y() - self.ICON_SIZE // 2,
+                self.ICON_SIZE,
+                self.ICON_SIZE,
+            )
 
             proxy = self.parent().model()
             src_model = proxy.sourceModel()
@@ -602,15 +666,21 @@ class FilterHeader(QHeaderView):
                 if checkbox_rect.contains(event.pos()):
                     total = proxy.rowCount()
                     checked = sum(
-                        1 for r in range(total)
-                        if src_model.data(proxy.mapToSource(proxy.index(r, logicalIndex)),
-                                        Qt.CheckStateRole) == Qt.Checked
+                        1
+                        for r in range(total)
+                        if src_model.data(
+                            proxy.mapToSource(proxy.index(r, logicalIndex)),
+                            Qt.CheckStateRole,
+                        )
+                        == Qt.Checked
                     )
                     if checked == total:
                         # all selected → deselect all
                         for r in range(total):
                             src_index = proxy.mapToSource(proxy.index(r, logicalIndex))
-                            src_model.setData(src_index, Qt.Unchecked, Qt.CheckStateRole)
+                            src_model.setData(
+                                src_index, Qt.Unchecked, Qt.CheckStateRole
+                            )
                     else:
                         # none/partial → select all
                         for r in range(total):
@@ -636,14 +706,20 @@ class FilterHeader(QHeaderView):
                         if mode == "select":
                             src_model.setData(src_index, Qt.Checked, Qt.CheckStateRole)
                         elif mode == "deselect":
-                            src_model.setData(src_index, Qt.Unchecked, Qt.CheckStateRole)
+                            src_model.setData(
+                                src_index, Qt.Unchecked, Qt.CheckStateRole
+                            )
                         elif mode == "invert":
-                            new_state = Qt.Unchecked if current == Qt.Checked else Qt.Checked
+                            new_state = (
+                                Qt.Unchecked if current == Qt.Checked else Qt.Checked
+                            )
                             src_model.setData(src_index, new_state, Qt.CheckStateRole)
                     self.viewport().update()
 
                 select_all_action.triggered.connect(lambda: apply_selection("select"))
-                deselect_all_action.triggered.connect(lambda: apply_selection("deselect"))
+                deselect_all_action.triggered.connect(
+                    lambda: apply_selection("deselect")
+                )
                 invert_action.triggered.connect(lambda: apply_selection("invert"))
 
                 menu.exec_(event.globalPos())
@@ -656,17 +732,19 @@ class FilterHeader(QHeaderView):
 
         # (funnel detection as before)
         icon_rect = QRect(
-            self.sectionViewportPosition(logicalIndex) + self.sectionSize(logicalIndex) - self.ICON_SIZE - 4,
+            self.sectionViewportPosition(logicalIndex)
+            + self.sectionSize(logicalIndex)
+            - self.ICON_SIZE
+            - 4,
             (self.height() - self.ICON_SIZE) // 2,
-            self.ICON_SIZE, self.ICON_SIZE
+            self.ICON_SIZE,
+            self.ICON_SIZE,
         )
         if icon_rect.contains(event.pos()):
             self._show_filter_menu(logicalIndex, event.globalPos())
             return
 
         super().mousePressEvent(event)
-
-
 
     def _show_filter_menu(self, col, global_pos):
         uniq = self.unique_vals[col]
@@ -693,11 +771,15 @@ class FilterHeader(QHeaderView):
                 if all_action.isChecked():
                     selected = set(uniq)
                     for a in actions:
-                        a.blockSignals(True); a.setChecked(True); a.blockSignals(False)
+                        a.blockSignals(True)
+                        a.setChecked(True)
+                        a.blockSignals(False)
                 else:
                     selected = set()
                     for a in actions:
-                        a.blockSignals(True); a.setChecked(False); a.blockSignals(False)
+                        a.blockSignals(True)
+                        a.setChecked(False)
+                        a.blockSignals(False)
             else:
                 all_action.blockSignals(True)
                 all_action.setChecked(len(selected) == len(uniq))
@@ -719,6 +801,7 @@ class FilterHeader(QHeaderView):
             self.selected_vals[col] = set(self.unique_vals[col])
         self.proxy.clear_all_filters()
         self.viewport().update()
+
 
 # -------------------------------------------------------------------
 # Main Window
@@ -758,8 +841,10 @@ class MainWindow(QMainWindow):
         self.table.setModel(self.proxy)
 
         # Hide technical columns in the *view*
-        header_map = {self.model.headerData(i, Qt.Horizontal): i
-                    for i in range(self.model.columnCount())}
+        header_map = {
+            self.model.headerData(i, Qt.Horizontal): i
+            for i in range(self.model.columnCount())
+        }
         for colname in ["question_text", "source_file"]:
             if colname in header_map:
                 self.table.hideColumn(header_map[colname])
@@ -789,8 +874,8 @@ class MainWindow(QMainWindow):
 
         # RIGHT: HTML tabs
         tabs = QTabWidget()
-        #self.html_code = QPlainTextEdit()
-        #self.html_code.setReadOnly(True)
+        # self.html_code = QPlainTextEdit()
+        # self.html_code.setReadOnly(True)
 
         self.html_code = QPlainTextEdit()
         self.html_code.setReadOnly(True)
@@ -799,7 +884,6 @@ class MainWindow(QMainWindow):
         # Attach syntax highlighter
         self.highlighter = XMLHighlighter(self.html_code.document())
         tabs.addTab(self.html_code, "XML Code")
-
 
         self.html_view = QTextBrowser()
         tabs.addTab(self.html_view, "Rendered")
@@ -822,6 +906,7 @@ class MainWindow(QMainWindow):
             self.header.viewport().update()
             self.search.clear()
             self.update_status()
+
         clear_btn.clicked.connect(clear_all)
 
         # Also update status whenever proxy changes
@@ -838,7 +923,6 @@ class MainWindow(QMainWindow):
         # Start fullscreen
         self.showMaximized()
 
-
     def export_selected(self):
         df_selected = self.model.get_selected_rows()
         if df_selected.empty:
@@ -854,7 +938,7 @@ class MainWindow(QMainWindow):
         # Helper: get local tag name (ignore namespaces if any)
         def local_tag(tag_or_elem):
             t = tag_or_elem.tag if hasattr(tag_or_elem, "tag") else str(tag_or_elem)
-            return t.split('}', 1)[1] if '}' in t else t
+            return t.split("}", 1)[1] if "}" in t else t
 
         # Helper: deep copy element
         def deep_copy(elem):
@@ -870,7 +954,9 @@ class MainWindow(QMainWindow):
             # Try to fetch 'variation' from the first source file (fallback to "")
             variation = ""
             try:
-                first_tree = etree.parse(first["source_file"], etree.XMLParser(recover=True))
+                first_tree = etree.parse(
+                    first["source_file"], etree.XMLParser(recover=True)
+                )
                 variation = first_tree.getroot().get("variation", "") or ""
             except Exception:
                 pass
@@ -881,7 +967,7 @@ class MainWindow(QMainWindow):
                 name=exam_name,
                 year=exam_year,
                 phase=exam_phase,
-                variation=variation
+                variation=variation,
             )
 
             # ---- Group selected rows by source file for stable doc order per file ----
@@ -927,7 +1013,10 @@ class MainWindow(QMainWindow):
                             qid = child.get("id")
                             qnum = child.get("number")
                             # We normalize to the same key that 'wanted' uses
-                            if (tag, str(qid or "")) in wanted or (tag, str(qnum or "")) in wanted:
+                            if (tag, str(qid or "")) in wanted or (
+                                tag,
+                                str(qnum or ""),
+                            ) in wanted:
                                 selected_children.append(child)
 
                     # If this group contributes any selected questions, create an out group
@@ -950,7 +1039,9 @@ class MainWindow(QMainWindow):
 
             # ---- Write file ----
             tree_out = etree.ElementTree(root_out)
-            tree_out.write(path, encoding="utf-8", pretty_print=True, xml_declaration=True)
+            tree_out.write(
+                path, encoding="utf-8", pretty_print=True, xml_declaration=True
+            )
 
             # ---- Validate against XSD (always save; warn if invalid) ----
             try:
@@ -959,31 +1050,28 @@ class MainWindow(QMainWindow):
                 schema = etree.XMLSchema(schema_root)
                 etree.parse(path, etree.XMLParser(schema=schema))
                 QMessageBox.information(
-                    self, "Export",
-                    f"Exported {len(df_selected)} question(s) to:\n{path}\n\n✅ Schema validation passed."
+                    self,
+                    "Export",
+                    f"Exported {len(df_selected)} question(s) to:\n{path}\n\n✅ Schema validation passed.",
                 )
             except etree.XMLSyntaxError as e:
                 QMessageBox.warning(
-                    self, "Export Validation",
-                    f"File exported to {path}, but schema validation failed:\n{e}"
+                    self,
+                    "Export Validation",
+                    f"File exported to {path}, but schema validation failed:\n{e}",
                 )
 
         except Exception as e:
             QMessageBox.critical(self, "Export Failed", str(e))
 
-
-
     def on_search_changed(self, text):
         self.proxy.set_text_filter(text)
         self.update_status()
-
-
 
     def update_status(self, *args):
         shown = self.proxy.rowCount()
         total = self.model.rowCount()
         self.status.showMessage(f"{shown} of {total} rows shown")
-
 
     def row_clicked(self, index):
         # Map from proxy to source row
@@ -991,17 +1079,23 @@ class MainWindow(QMainWindow):
         r = src.row()
 
         # Build a header->column index map so we don't rely on hard-coded positions
-        header_map = {self.model.headerData(i, Qt.Horizontal): i
-                    for i in range(1, self.model.columnCount())}
+        header_map = {
+            self.model.headerData(i, Qt.Horizontal): i
+            for i in range(1, self.model.columnCount())
+        }
 
         def cell(col_name, default=""):
             ci = header_map.get(col_name)
-            return self.model.item(r, ci).text() if ci is not None and self.model.item(r, ci) else default
+            return (
+                self.model.item(r, ci).text()
+                if ci is not None and self.model.item(r, ci)
+                else default
+            )
 
         # Expected columns from your get_dataframe(): adjust names if yours differ
         source_file = cell("source_file")
-        qtype       = cell("question_type")
-        qnumber     = cell("question_number")
+        qtype = cell("question_type")
+        qnumber = cell("question_number")
 
         # Locate the exact question element using full XPath
         elem = find_question_element(source_file, qtype, qnumber)
@@ -1014,12 +1108,47 @@ class MainWindow(QMainWindow):
 
         # Show pretty XML in Code tab
         self.html_code.setPlainText(xml_pretty)
-        self.html_code.setLineWrapMode(QPlainTextEdit.NoWrap)   # avoid wrapped lines
-        self.html_code.setTabStopDistance(4 * self.html_code.fontMetrics().horizontalAdvance(' '))  # 4 spaces for tabs
-
+        self.html_code.setLineWrapMode(QPlainTextEdit.NoWrap)  # avoid wrapped lines
+        self.html_code.setTabStopDistance(
+            4 * self.html_code.fontMetrics().horizontalAdvance(" ")
+        )  # 4 spaces for tabs
 
         # Rendered HTML for the preview tab
-        html_rendered = xml_to_html(elem)
+        html_rendered_old = xml_to_html(elem)
+        print(etree.tostring(elem))
+        print(html_rendered_old)
+
+        # Processor
+        xml_converter = fuvestxml.XmlConverter(fuvestxml.HtmlWriter())
+
+        # Store the graphics_dir path on the global variable
+        xml_converter.global_graphics_dir = Path("../images/")
+        xml_text = (
+            """<exam name="FUVEST" year="2025" phase="objective" day="1" variation="V1" date="2024-11-17" lang="pt-br">\n"""
+            + "<question_group>"
+            + etree.tostring(elem).decode("utf-8")
+            + "</question_group>\n"
+            + "</exam>\n"
+        )
+
+        print(xml_text)
+        root = etree.fromstring(xml_text)
+
+        # Load the input XML and validate
+        xml_converter.read_xml_from_memory(root)
+        # xml_converter.validate_xml(Path("./xsd/fuvest_xml.xsd"))
+
+        # Create the document code
+        html_rendered = xml_converter.create_document()
+        print(html_rendered)
+        # # select the console or file output
+        # if args.print:
+        #     print(tex)
+
+        # else:
+        #     args.out.write_text(tex, encoding="utf-8")
+        #     print("Wrote LaTeX to", args.out)
+
         self.html_view.setHtml(html_rendered)
 
 

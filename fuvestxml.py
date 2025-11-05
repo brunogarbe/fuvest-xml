@@ -790,31 +790,36 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def preamble(self, title: str) -> str:
-        parts = ['<!DOCTYPE html>\n<html lang="en">\n\n']
+        parts = [
+            '<!DOCTYPE html>\n<html lang="en">\n',
+            "<head>",
+            '<link href="../css/basic.css" rel="stylesheet" />\n',
+            '<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>n',
+            "</head>",
+        ]
 
         return "".join(parts)
 
     @override
     def body_start(self) -> str:
-        return "<body>\n\n"
+        return '<body>\n<div class="container">\n\n'
 
     @override
     def body_end(self) -> str:
-        return "</body>\n</html>\n"
+        return "</div>\n</body>\n</html>\n"
 
     @override
     def context_start(self, text: str) -> str:
-        parts = []
+        parts = ['<div class="context-section">\n', f"<h4>{text}</h4>\n"]
         return "".join(parts)
 
     @override
     def context_end(self) -> str:
-        return ""
+        return "</div>\n"
 
     @override
     def question_start(self, number: str) -> str:
-        parts = []
-        return "".join(parts)
+        return "<h2>" + number + "</h2>\n"
 
     @override
     def question_end(self) -> str:
@@ -822,7 +827,7 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def options_regular_start(self) -> str:
-        return '<ol type="A">\n'
+        return '<ol class="options" type="A">\n'
 
     @override
     def options_regular_end(self) -> str:
@@ -838,74 +843,46 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def options_table_start(self, num_cols: int) -> str:
-        parts = []
-
-        self.table_num_columns = num_cols
-
-        colspec = "|".join(["X"] * num_cols)
-        parts.append("\\begin{center}\n")
-        parts.append("\\begin{tabularx}{\\linewidth}{|c|" + colspec + "|}\n")
-        parts.append("\\hline\n")
-
-        return "".join(parts)
+        return '<div class="table-option"><table>\n'
 
     @override
     def options_table_end(self) -> str:
-        self.table_num_columns = -1
-        parts = []
-
-        parts.append("\\end{tabularx}\n")
-        parts.append("\\end{center}\n\n")
-
-        return "".join(parts)
+        return "</table>\n"
 
     @override
     def options_header_start(self) -> str:
-        self.table_counter = 0
-        return ""
+        parts = ["<tr>\n", "<td></td>\n"]
+        return "".join(parts)
 
     @override
     def options_header_end(self) -> str:
-        parts = []
-        parts.append("\\\\\n")
-        parts.append("\\hline\n")
-        return "".join(parts)
+        return "</tr>\n"
 
     @override
     def options_row_start(self, option_text: str) -> str:
-        self.table_counter = 0
-        return f" ({option_text}) "
-
-    @override
-    def options_row_end(self) -> str:
-        parts = []
-        parts.append("\\\\\n")
-        parts.append("\\hline\n")
+        parts = ["<tr>\n", f"<td>({option_text})</td>\n"]
         return "".join(parts)
 
     @override
+    def options_row_end(self) -> str:
+        return "</tr>\n"
+
+    @override
     def options_cell_start(self) -> str:
-        return ""
+        return "<td>\n"
 
     @override
     def options_cell_end(self) -> str:
-        # print(self.table_counter, self.table_num_columns)
-        if self.table_counter == (self.table_num_columns - 1):
-            return ""
-        else:
-            # print("*")
-            self.table_counter = self.table_counter + 1
-            return " & "
+        return "</td>\n"
 
     @override
     def assumptions_start(self) -> str:
-        parts = []
+        parts = ['<div class="assumption-box">\n', "<p><b>Note e adote:</b></p>\n"]
         return "".join(parts)
 
     @override
     def assumptions_end(self) -> str:
-        parts = []
-        return "".join(parts)
+        return "</div>\n"
 
     @override
     def paragraph(self, text: str) -> str:
@@ -913,24 +890,23 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def header(self, text: str) -> str:
-        return f"\\textbf{{{text}}}\n\n"
+        return "<h3>" + text + "</h3>\n"
 
     @override
     def display_quote_start(self) -> str:
-        return ""
+        return "<blockquote>"
 
     @override
     def display_quote_end(self) -> str:
-        parts = []
-        return "".join(parts)
+        return "</blockquote>"
 
     @override
     def verse_start(self) -> str:
-        return ""
+        return '<section class="verse_section">'
 
     @override
     def verse_end(self) -> str:
-        return ""
+        return "</section>"
 
     @override
     def verse_title(self, text: str) -> str:
@@ -951,38 +927,15 @@ class HtmlWriter(AbstractWriter):
     @override
     def image(self, img_path: str, wrap: bool, width: str) -> str:
         parts = []
-        if wrap is True:
-            parts.append("\\begin{wrapfigure}{l}[0pt]{" + width + "\\linewidth}\n")
-            parts.append("\\centering\n")
-            parts.append(
-                "\\includegraphics[width="
-                + size
-                + "]{"
-                + str(img_path).replace("\\", "/")
-                + "}\n"
-            )
-            parts.append("\\end{wrapfigure}\n\n")
-        else:
-            parts.append("\\begin{center}\n")
-            parts.append(
-                "\\includegraphics[width="
-                + width
-                + "\\linewidth]{"
-                + str(img_path).replace("\\", "/")
-                + "}\n"
-            )
-            parts.append("\\end{center}\n\n")
+        parts.append('<div class="image_container">\n')
+        parts.append("<img src=" + str(img_path).replace("\\", "/") + ' width="500">\n')
+        parts.append("</div>\n")
+
         return "".join(parts)
 
     @override
     def inline_image(self, img_path: str, wrap: bool, width: str) -> str:
-        return (
-            "\\includegraphics[width="
-            + width
-            + "\\linewidth]{"
-            + str(img_path).replace("\\", "/")
-            + "}"
-        )
+        return "<img src=" + str(img_path).replace("\\", "/") + ">\n"
 
     # Table
     @override
@@ -990,58 +943,28 @@ class HtmlWriter(AbstractWriter):
         colspec = "|".join(column_spec)
         self.table_width = width
         self.table_num_columns = len(column_spec)
-
-        parts = []
-        parts.append("\\begin{center}\n")
-        if width == 0:
-            parts.append("\\begin{tabular}{|" + colspec + "|}\n")
-        else:
-            width_str = f"{width / 100.0:.2f}"
-            parts.append(
-                "\\begin{tabularx}{" + width_str + "\\linewidth}{|" + colspec + "|}\n"
-            )
-        parts.append("\\hline\n")
-        return "".join(parts)
+        return '<div class="table-section"><table>\n'
 
     @override
     def table_end(self) -> str:
-        self.table_num_columns = -1
-        parts = []
-        if self.table_width == 0:
-            parts.append("\\end{tabular}\n")
-        else:
-            parts.append("\\end{tabularx}\n")
-        parts.append("\\end{center}\n\n")
-
-        self.table_width = 0
-
-        return "".join(parts)
+        return "</table></div>\n"
 
     @override
     def table_row_start(self) -> str:
         self.table_counter = 0
-        return ""
+        return "<tr>\n"
 
     @override
     def table_row_end(self) -> str:
-        parts = []
-        parts.append(" \\\\\n")
-        parts.append("\\hline\n")
-        return "".join(parts)
+        return "</tr>\n"
 
     @override
     def table_cell_start(self) -> str:
-        return ""
+        return "<td>\n"
 
     @override
     def table_cell_end(self) -> str:
-        # print(self.table_counter, self.table_num_columns)
-        if self.table_counter == (self.table_num_columns - 1):
-            return ""
-        else:
-            # print("*")
-            self.table_counter = self.table_counter + 1
-            return " & "
+        return "</td>\n"
 
     # List
     @override
@@ -1079,7 +1002,7 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def cite(self, text: str) -> str:
-        return f"\\quoteauthor{{{text}}}\n\n"
+        return f'<p class="cite_par"><cite>—{text}</cite></p>\n\n'
 
     # Inlines
     @override
@@ -1096,19 +1019,19 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def quote(self, text: str) -> str:
-        return f"“{text}”"
+        return f"<q>{text}</q>"
 
     @override
     def math(self, text: str) -> str:
-        return f"${text}$"
+        return f"\\({text}\\)"
 
     @override
     def display_math(self, text: str, end_symbol: str) -> str:
-        return f"\n$${text} {end_symbol}$$\n"
+        return f"\n\\[{text} {end_symbol}\\]\n"
 
     @override
     def chemistry(self, text: str) -> str:
-        return f"\\ce{{{text}}}"
+        return f"\\({text}\\)"
 
     @override
     def display_chemistry(self, text: str) -> str:
@@ -1579,7 +1502,7 @@ class XmlConverter:
         img_path = self.global_graphics_dir / src
         # print(img_path)
         if os.path.exists(img_path):
-            print(f"xxx '{file_path}' exists (could be a file or directory).")
+            print(f"xxx '{img_path}' exists (could be a file or directory).")
 
         return self.writer.image(img_path, wrap, width)
 
@@ -1599,13 +1522,14 @@ class XmlConverter:
         img_path = self.global_graphics_dir / src
 
         # Use width=\linewidth to fit page
-        return (
-            "\\includegraphics[width="
-            + width
-            + "\\linewidth]{"
-            + str(img_path).replace("\\", "/")
-            + "}"
-        )
+        return self.writer.inline_image(img_path, wrap, width)
+        # return (
+        #     "\\includegraphics[width="
+        #     + width
+        #     + "\\linewidth]{"
+        #     + str(img_path).replace("\\", "/")
+        #     + "}"
+        # )
 
     #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
     # Render the <list> tag

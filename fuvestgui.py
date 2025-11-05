@@ -1122,7 +1122,7 @@ class MainWindow(QMainWindow):
         xml_converter = fuvestxml.XmlConverter(fuvestxml.HtmlWriter())
 
         # Store the graphics_dir path on the global variable
-        xml_converter.global_graphics_dir = Path("../images/")
+        xml_converter.global_graphics_dir = Path("./images/")
         xml_text = (
             """<exam name="FUVEST" year="2025" phase="objective" day="1" variation="V1" date="2024-11-17" lang="pt-br">\n"""
             + "<question_group>"

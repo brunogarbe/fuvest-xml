@@ -44,7 +44,7 @@
 			<classification subject="Biology:Ecology:Environmental Impacts" />
 			<statement>
 				<p>Analise, na figura a seguir, os dados referentes a áreas de garimpo ilegal localizadas em terras indígenas na Amazônia brasileira e sua distância em relação a corpos d'água.</p>
-				<image src="fuvest/2025/fase01/q02.png" />
+				<image html_width="700" src="fuvest/2025/fase01/q02.png" />
 				<p>A partir dos dados apresentados e da realidade socioambiental da Amazônia, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -72,7 +72,7 @@
 			<classification subject="Portuguese:Grammar:Syntax" />
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
-				<image src="fuvest/2025/fase01/q03.png" />
+				<image html_width="600" src="fuvest/2025/fase01/q03.png" />
 				<p>Considerando a charge, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -130,9 +130,9 @@
 			<classification subject="Literature:Brazil:Contemporary" />
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
-				<p>Os quadrinhos a seguir são parte da obra Dois irmãos, de Fábio Moon e Gabriel Bá (2015), uma adaptação do romance Dois irmãos, de Milton Hatoum, para o universo das novelas gráficas (graphic novels).</p>
+				<p>Os quadrinhos a seguir são parte da obra <i>Dois irmãos</i>, de Fábio Moon e Gabriel Bá (2015), uma adaptação do romance Dois irmãos, de Milton Hatoum, para o universo das novelas gráficas (<i>graphic novels</i>).</p>
 				<image width="0.7" src="fuvest/2025/fase01/q05.png" />
-				<p>Considerando as características visuais dos quadrinhos e os traços narrativos do romance Dois irmãos, de Milton Hatoum, é correto afirmar:</p>
+				<p>Considerando as características visuais dos quadrinhos e os traços narrativos do romance <i>Dois irmãos</i>, de Milton Hatoum, é correto afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -142,10 +142,10 @@
 					<p>Ao trabalhar com os contrastes claro x escuro em suas imagens, a novela gráfica enfatiza a diferença étnica e social que fundamenta a rivalidade fraterna entre Yaqub e Omar, um dos eixos estruturais do romance.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Ao utilizar procedimentos como a aproximação (zoom-in) e a fragmentação das imagens, a novela gráfica recria o fluxo de consciência e a atmosfera onírica da narrativa de Hatoum.</p>
+					<p>Ao utilizar procedimentos como a aproximação (<i>zoom-in</i>) e a fragmentação das imagens, a novela gráfica recria o fluxo de consciência e a atmosfera onírica da narrativa de Hatoum.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>A novela gráfica demonstra, por meio de imagens, que o romance Dois irmãos reinventa a tradição da literatura regionalista do Brasil, retratando a opulência da cidade de Manaus ao longo do século XX.</p>
+					<p>A novela gráfica demonstra, por meio de imagens, que o romance <i>Dois irmãos</i> reinventa a tradição da literatura regionalista do Brasil, retratando a opulência da cidade de Manaus ao longo do século XX.</p>
 				</option>
 				<option label="E" is_correct="false">
 					<p>Por meio de recursos estéticos como a fragmentação das imagens, a novela gráfica recupera o ponto de vista fraturado do romance de Hatoum, composto por vários narradores ao longo da história.</p>
@@ -193,8 +193,7 @@
 			<statement>
 				<image width="0.8" src="fuvest/2025/fase01/q07.png" />
 				<p>Falácias são argumentos que podem até parecer à primeira vista bem construídos logicamente, mas são falhos, seja em termos do uso da linguagem, de pertinência temática ou de correção formal. Os primeiros estudos sistemáticos das falácias foram feitos pelo filósofo Aristóteles, que classificou alguns dos argumentos falaciosos mais comuns.</p>
-				<p>No terceiro quadrinho da história, uma personagem se serve de um argumento falacioso bastante conhecido a fim de persuadir o outro.</p>
-				<p>Esse argumento pode ser classificado como um caso de qual tipo de falácia?</p>
+				<p>No terceiro quadrinho da história, uma personagem se serve de um argumento falacioso bastante conhecido a fim de persuadir o outro. Esse argumento pode ser classificado como um caso de qual tipo de falácia?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -223,7 +222,7 @@
 				<quote>
 					<p>Eu não venero a criação mais do que o Criador, mas venero a criatura criada como eu sou, adotando a criação de maneira livre e espontânea, de modo que Ele possa elevar nossa natureza e nos tornar partícipes de Sua natureza divina. Sendo assim, eu me atrevo a fazer uma imagem do Deus invisível não como invisível, mas como tendo se tornado visível por nossa causa, tornando-se carne e sangue. Eu não faço uma imagem da divindade imortal. Eu pinto a carne visível de Deus, pois é impossível representar o espírito e ainda mais Deus, que dá vida ao espírito.</p>
 				</quote>
-				<cite>John Damascene. On holy images. (Adaptado).</cite>
+				<cite>John Damascene. On holy images. Disponível em https://www.gutenberg.org/files/49917/ (Adaptado).</cite>
 				<p>Nessa citação, João Damasceno (675-749), monge e teólogo cristão do período medieval, dirige-se contra o movimento iconoclasta ao</p>
 			</statement>
 			<options>
@@ -252,7 +251,8 @@
 			<statement>
 				<quote>
 					<p>A mídia digital é uma mídia da presença. A sua temporalidade é o presente imediato. A comunicação digital se caracteriza pelo fato de que informações são produzidas, enviadas e recebidas sem mediação por meio de intermediários. Mediação e representação são interpretadas como não transparência e ineficiência, como congestionamento de tempo e de informação.</p>
-					<p>Uma mídia eletrônica de massa clássica como o rádio só permite uma comunicação unilateral. O destinatário da mensagem é condenado à passividade. Hoje não somos mais destinatários e consumidores passivos de informação, mas sim remetentes e produtores ativos. Não nos contentamos mais em consumir informações passivamente, mas sim queremos produzi-las e comunicá-las ativamente nós mesmos. Somos simultaneamente consumidores e produtores.</p>
+					<p>Uma mídia eletrônica de massa clássica como o rádio só permite uma comunicação unilateral. O destinatário da mensagem é condenado à passividade.</p>
+					<p>Hoje não somos mais destinatários e consumidores passivos de informação, mas sim remetentes e produtores ativos. Não nos contentamos mais em consumir informações passivamente, mas sim queremos produzi-las e comunicá-las ativamente nós mesmos. Somos simultaneamente consumidores e produtores.</p>
 				</quote>
 				<cite>HAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora Vozes, 2018. p.35-36 (Adaptado).</cite>
 				<p>Segundo o texto, a mídia digital distingue-se da mídia de massa tradicional por</p>
@@ -319,19 +319,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>seja...seja evidencia a dúvida das autoras quanto aos campos afetados pelo cancelamento.</p>
+					<p><u>seja...seja</u> evidencia a dúvida das autoras quanto aos campos afetados pelo cancelamento.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>que é utilizado para intensificar o valor dos movimentos sociais na luta pela diversidade.</p>
+					<p><u>que</u> é utilizado para intensificar o valor dos movimentos sociais na luta pela diversidade.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>sendo assim indica adesão autoral diante das formas de sanção aplicadas pelos agentes do cancelamento.</p>
+					<p><u>sendo assim</u> indica adesão autoral diante das formas de sanção aplicadas pelos agentes do cancelamento.</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>mas sim ressalta a diferença entre como se pune na cultura do cancelamento e no direito penal.</p>
+					<p><u>mas sim</u> ressalta a diferença entre como se pune na cultura do cancelamento e no direito penal.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>como introduz uma comparação entre distintas ações passíveis de gerar cancelamento.</p>
+					<p><u>como</u> introduz uma comparação entre distintas ações passíveis de gerar cancelamento.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -345,7 +345,7 @@
 				<quote>
 					<p>Em Big Tech: a ascensão dos dados e a morte da política, Morozov estabelece <q>um paralelo com os setores extrativistas de recursos naturais, como o petróleo</q>, colocando <q>no centro da discussão o modo de produção dessa economia, que ele chama de <q>extrativismo de dados</q>. Apesar de a frase 'os dados são o novo petróleo</q> ser um chavão fraco em termos conceituais, Morozov acha o modismo útil para debatermos a matriz extrativista desse modo de produção, em especial a forma como as grandes empresas de tecnologia <q>continuam escavando a nossa psique tal como as empresas de petróleo escavam o solo</q>.</p>
 				</quote>
-				<cite>ZANATTA, Rafael. "Extrativismo Digital". Quatro Cinco Um, 01/04/2019. (Adaptado).</cite>
+				<cite>ZANATTA, Rafael. <q>Extrativismo Digital</q>. Quatro Cinco Um, 01/04/2019. (Adaptado).</cite>
 				<header>Texto 2</header>
 				<quote>
 					<p>Colonialismo de dados é um modo de configurar o mundo inteiro, de tal forma que um recurso novo possa ser extraído e esse recurso é a vida humana a partir da qual se pode extrair um valor econômico. Sustentamos que os modos nos quais este novo colonialismo opera, as escalas nas quais opera diferem do colonialismo histórico que tão bem entendemos. Mas a função, a finalidade subjacente, o núcleo deste novo colonialismo é exatamente o mesmo do colonialismo histórico. É o de despossuir, apropriar-se dos recursos do mundo para o bem de uns poucos, de uma parte do mundo.</p>
@@ -434,7 +434,7 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
-					<p>justice, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism.</p>
+					<p><b>justice</b>, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism.</p>
 					<p>At least since Aristotle, justice has commonly been identified both with obeying law and with treating everyone with fairness. But if law is, and justice is not, entirely a matter of convention, then justice cannot be identified with obeying law.</p>
 				</quote>
 				<cite>The Cambridge Dictionary of Philosophy. General Editor Robert Audi, Cambridge, U.K.: C.U.P., 1999. p.456.</cite>
@@ -535,7 +535,7 @@
 			<statement>
 				<p>A imagem a seguir mostra um cruzamento da Rua da Consolação, na região central da cidade de São Paulo, em que há faixas de pedestre em diferentes direções. Essas faixas agilizam a travessia das ruas. Uma pessoa parte do ponto <m>O</m> e deseja chegar ao ponto <m>C</m>. Para tanto, percorre o trajeto pela faixa que liga <m>O</m> a <m>B</m> e, em seguida, utiliza a faixa que liga <m>B</m> a <m>C</m>. Considere que as coordenadas dos pontos indicados na figura, em metros, são: <m>O(0,0)</m>, <m>B(13,-15)</m> e <m>C(29,-8)</m>.</p>
 				<image width="0.8" src="fuvest/2025/fase01/q17.png" />
-				<p>Seja d a distância, em metros, que essa pessoa deixaria de percorrer se tivesse optado por fazer a travessia pela faixa de pedestre que liga $O$ a $C$. Nesse contexto, é correto afirmar:</p>
+				<p>Seja d a distância, em metros, que essa pessoa deixaria de percorrer se tivesse optado por fazer a travessia pela faixa de pedestre que liga <m>O</m> a <m>C</m>. Nesse contexto, é correto afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -561,30 +561,31 @@
 		<objective_question number="18" success_rate="39.9">
 			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
-				<p>No dia 26 de março de 2024, à 1h29min, aproximadamente, o navio cargueiro MV Dali colidiu com a ponte Francis Scott Key em Baltimore, EUA. O impacto causou o colapso da ponte, tornando-se um dos maiores acidentes marítimos da história norte-americana. A figura a seguir mostra os dados da velocidade do navio em função da hora local. A colisão ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no gráfico.</p>
-				<image src="fuvest/2025/fase01/q18.png" />
+				<p>No dia 26 de março de 2024, à 1h29min, aproximadamente, o navio cargueiro MV Dali colidiu com a ponte Francis Scott Key em Baltimore, EUA. O impacto causou o colapso da ponte, tornando-se um dos maiores acidentes marítimos da história norte-americana.</p>
+				<p>A figura a seguir mostra os dados da velocidade do navio em função da hora local. A colisão ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no gráfico.</p>
+				<image  html_width="700" src="fuvest/2025/fase01/q18.png" />
 				<p>Assumindo que a massa do navio no momento do impacto seja de 100 mil toneladas e, tendo por base os dados do gráfico, a magnitude da força média atuando sobre o navio durante a colisão é de, aproximadamente,</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>7 \times 10^{-2} N</m>.</p>
+					<p><m>7 \times 10^{-2}</m>~N.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>7 \times 10^{0} N</m>.</p>
+					<p><m>7 \times 10^{0}</m>~N.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>7 \times 10^{2} N</m>.</p>
+					<p><m>7 \times 10^{2}</m>~N.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>7 \times 10^{4} N</m>.</p>
+					<p><m>7 \times 10^{4}</m>~N.</p>
 				</option>
 				<option label="E" is_correct="true">
-					<p><m>7 \times 10^{6} N</m>.</p>
+					<p><m>7 \times 10^{6}</m>~N.</p>
 				</option>
 			</options>
 			<assumptions>
 				<p>Considere que a força atuando sobre o navio durante a colisão seja constante e igual à força média.</p>
-				<p>Utilize 1 m.p.h. <m>\approx 0,5</m> m/s</p>
+				<p>Utilize 1~m.p.h. <m>\approx 0,5</m>~m/s</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -594,7 +595,7 @@
 			<classification subject="Physics:Modern:QuantumMechanics" />
 			<statement>
 				<p>O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.</p>
-				<image width="0.8" src="fuvest/2025/fase01/q19.png" />
+				<image width="0.8" html_width="700" src="fuvest/2025/fase01/q19.png" />
 				<p>Quando um fóton com comprimento de onda <m>\lambda_{0}</m> incide sobre uma partícula, ele emerge dessa interação formando um ângulo <m>\theta</m> com sua direção inicial de movimento, e seu novo comprimento de onda <m>\lambda'</m> é dado pela relação <m>\lambda^{\prime}=\lambda_{0}+\frac{\alpha}{m}(1-\cos\theta)</m>, em que <m>\alpha</m> é uma constante positiva e m é a massa da partícula.</p>
 				<p>Com base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.</p>
 			</statement>
@@ -623,7 +624,7 @@
 			<classification subject="Chemistry:Atomistics:Atomic Models" />
 			<statement>
 				<p>A figura a seguir apresenta a evolução dos modelos atômicos, desde o primeiro, proposto por Dalton em 1803, até o de Bohr, proposto em 1913.</p>
-				<image width="0.4" src="fuvest/2025/fase01/q20.png" />
+				<image width="0.4" html_width="300" src="fuvest/2025/fase01/q20.png" />
 				<p>Sobre os quatro modelos atômicos apresentados, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -650,7 +651,8 @@
 		<objective_question number="21" success_rate="47.5">
 			<classification subject="Chemistry:Atomistics:Periodic Table" />
 			<statement>
-				<p>Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons <c>Li+</c> penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons <c>Li+</c> intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta. Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (<c>Na+</c> ou <c>Li+</c>) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é</p>
+				<p>Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons <c>Li+</c> penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons <c>Li+</c> intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.</p>
+				<p>Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (<c>Na+</c> ou <c>Li+</c>) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -670,8 +672,8 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Distribuição eletrônica: $Li = 1s^2 2s^1$; $Na = 1s^2 2s^2 2p^6 3s^1$</p>
-				<p>Massa atômica (u): $Li=7$; $Na=23$</p>
+				<p>Distribuição eletrônica: Li = <m>1s^2 2s^1</m>; Na = <m>1s^2 2s^2 2p^6 3s^1</m></p>
+				<p>Massa atômica (u): Li=7; Na=23</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -682,8 +684,7 @@
 			<statement>
 				<image width="0.7" src="fuvest/2025/fase01/q22.png" />
 				<p>Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração <m>n_1</m>, em direção a um meio 2, com índice de refração <m>n_2</m>, formando com a direção perpendicular à interface entre os meios um ângulo maior do que um certo valor limite <m>\theta_L</m>, tal que <m>\sin\theta_L = n_2/n_1</m>.</p>
-				<p>Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que, conforme mostra a figura, funcione com uma fonte luminosa F fixa na borda.</p>
-				<p>A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1.</p>
+				<p>Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que, conforme mostra a figura, funcione com uma fonte luminosa F fixa na borda. A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1.</p>
 				<table>
 					<row>
 						<cell>
@@ -761,13 +762,14 @@
 			<classification subject="Physics:Electromagnetism:Magnetism" />
 			<classification subject="Physics:Electromagnetism:Waves" />
 			<statement>
+				<p>Considere o texto a seguir.</p>
+				<image width="0.8" src="fuvest/2025/fase01/q23.png" />
 				<quote>
 					<p>Com observações feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia M87, sugerindo que campos magnéticos intensos podem ser comuns a todos os buracos negros.</p>
 					<p>A luz é uma onda eletromagnética que nos permite ver objetos. Por vezes, os campos elétrico e magnético associados à onda oscilam em direções preferenciais, definindo o que chamamos de luz polarizada. Apesar de estarmos rodeados por luz polarizada, aos olhos humanos essa luz é indistinguível da luz dita 'normal'.</p>
 					<p>No plasma que rodeia estes buracos negros, as partículas que giram em torno das linhas de campo magnético conferem-lhe um padrão de polarização com orientação na direção perpendicular ao campo magnético do buraco negro, o que permite aos astrônomos ver com muitos detalhes o que se passa nas regiões dos buracos negros e mapear as suas linhas de campo magnético.</p>
 				</quote>
-				<cite>"Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea", Jornal da USP 29/03/2024. (Adaptado).</cite>
-				<image width="0.8" src="fuvest/2025/fase01/q23.png" />
+				<cite><q>Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea</q>, Jornal da USP 29/03/2024. (Adaptado).</cite>
 				<p>Com base no texto e em seus conhecimentos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -855,7 +857,7 @@
 			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
 				<p>Atualmente 80% do comércio mundial transita pelos mares, principalmente em rotas que passam pelos Canais do Panamá e de Suez. Com a redução das calotas polares, novas rotas estão surgindo no Ártico. Mesmo com sua fragilidade ambiental, a região passou a ser uma nova fronteira para o comércio mundial.</p>
-				<image src="fuvest/2025/fase01/q26.png" />
+				<image html_width="700" src="fuvest/2025/fase01/q26.png" />
 				<p>Com base no texto, na leitura do mapa e em seus conhecimentos sobre as rotas marítimas, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -1089,7 +1091,7 @@
 			<classification subject="Physics:Mechanics:Kinematics of Particles" />
 			<statement>
 				<p>Em um estudo relatado no periódico Physics Today, cientistas belgas mostraram que os pica-paus não dispõem de mecanismos de absorção de choques em seus ossos do crânio, ao contrário do que se acreditava anteriormente. Nos experimentos realizados, verificou-se que o cérebro de um pica-pau pode experimentar desacelerações instantâneas de até 400 g, sendo g o módulo da aceleração da gravidade.</p>
-				<image src="fuvest/2025/fase01/q33.png" />
+				<image html_width="600" src="fuvest/2025/fase01/q33.png" />
 				<p>Suponha que, durante uma batida em um tronco de árvore, o crânio do pica-pau, suposto perfeitamente rígido, sofra uma desaceleração constante de 200 g ao longo de um tempo de 2,0 milissegundos. Qual é a distância percorrida pelo crânio do pica-pau durante esse tempo, até atingir momentaneamente o repouso?</p>
 			</statement>
 			<options>
@@ -1124,7 +1126,7 @@
 					<p>A casa está cheia de ratos...</p>
 				</quote>
 				<cite>Dyonélio Machado. Os ratos.</cite>
-				<p>A obra Os ratos (1935), de Dyonélio Machado, narra o dia em que Naziazeno saiu pela cidade de Porto Alegre no intuito de conseguir dinheiro para pagar a conta do leiteiro. Os animais que dão título à narrativa apenas aparecem em seus últimos capítulos e ocupam o tempo reservado para o descanso do protagonista.</p>
+				<p>A obra <i>Os ratos</i> (1935), de Dyonélio Machado, narra o dia em que Naziazeno saiu pela cidade de Porto Alegre no intuito de conseguir dinheiro para pagar a conta do leiteiro. Os animais que dão título à narrativa apenas aparecem em seus últimos capítulos e ocupam o tempo reservado para o descanso do protagonista.</p>
 				<p>É possível, então, afirmar:</p>
 			</statement>
 			<options>
@@ -1135,7 +1137,7 @@
 					<p>Os ratos são os credores de Naziazeno zoomorfizados, que se encontram à espreita para a cobrança de outras dívidas.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Os "guinchinhos", que ressoam nos ouvidos de Naziazeno, são o eco de seu dia de perambulação, como se lembrassem os obstáculos que venceu.</p>
+					<p>Os <q>guinchinhos</q>, que ressoam nos ouvidos de Naziazeno, são o eco de seu dia de perambulação, como se lembrassem os obstáculos que venceu.</p>
 				</option>
 				<option label="D" is_correct="false">
 					<p>Os ruídos dos roedores mostram que Naziazeno, ao pagar a sua dívida, esquece os obstáculos que venceu.</p>
@@ -1153,7 +1155,7 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
-					<p><b>Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque:</b> '- Vá levantar esta letra. Você me devolve depois. Não é bem caridade... **Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a 'mesma' cédula do bolso e entregando-lha...** A casa aristocrática acha-se perto. A numeração já está em quase trezentos. **Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as...** O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. **Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.**</p>
+					<p><b>Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque:</b> <q>— Vá levantar esta letra. Você me devolve depois.</q> Não é bem caridade... <b>Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a <q>mesma</q> cédula do bolso e entregando-lha...</b> A casa aristocrática acha-se perto. A numeração já está em quase trezentos. <b>Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as...</b> O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. <b>Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.</b></p>
 				</quote>
 				<cite>_Dyonélio Machado. Os ratos._</cite>
 				<p>Dentre as frases em destaque, a que caracteriza os efeitos fisiológicos em Naziazeno da reação de luta ou fuga pela ativação do sistema nervoso simpático é:</p>
@@ -1183,10 +1185,17 @@
 			<classification subject="Literature:World Literature" />
 			<statement>
 				<quote>
-					<p>Madala pensou que devia dizer qualquer coisa ao Djimo, mas não se lembrou de repetir a pergunta para si mesmo e por isso não soube o que dizer. O capataz fazia sinais à Maria, mas esta parecia não entender. A planta que Madala segurava na mão oferecia ao seu esforço uma resistência exagerada. Por isso, o punho de Madala tremia. (...)</p>
-					<p>O tom da voz de Djimo revelava certo nervosismo: - Madala... Mas o nervosismo desapareceu logo. Djimo deu uma ordem: - Madala, não olhes para lá! Dentro de Madala, qualquer coisa se crispou. Mas não eram os fios da sua doença.</p>
+					<p>Madala pensou que devia dizer qualquer coisa ao Djimo, mas não se lembrou de repetir a pergunta para si mesmo e por isso não soube o que dizer.</p>
+					<p>O capataz fazia sinais à Maria, mas esta parecia não entender.</p>
+					<p>A planta que Madala segurava na mão oferecia ao seu esforço uma resistência exagerada. Por isso, o punho de Madala tremia.</p>
+					<p>(...)</p>
+					<p>O tom da voz de Djimo revelava certo nervosismo:</p>
+					<p>— Madala...</p>
+					<p>Mas o nervosismo desapareceu logo. Djimo deu uma ordem:</p>
+					<p>— Madala, não olhes para lá!</p>
+					<p>Dentro de Madala, qualquer coisa se crispou. Mas não eram os fios da sua doença.</p>
 				</quote>
-				<cite>Luís Bernardo Honwana. "Dina". In: Nós matamos o cão tinhoso!.</cite>
+				<cite>Luís Bernardo Honwana. <q>Dina</q>. In: Nós matamos o cão tinhoso!.</cite>
 				<p>Considerando o papel da antologia Nós matamos o cão tinhoso! na literatura moçambicana e como a sociedade de Moçambique dos anos 1950 e 1960 se configura literariamente no conto <q>Dina</q>, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -1328,12 +1337,11 @@
 		<objective_question number="40" success_rate="64.3">
 			<classification subject="Sociology:General:SocialStructure and Stratification" />
 			<statement>
+				<image html_width="200" src="fuvest/2025/fase01/q40.png" />
 				<quote>
 					<p>Atingir a igualdade de gênero é uma das metas do Objetivo de Desenvolvimento Sustentável (ODS) de número 5 da Agenda 2030, adotada pela ONU em 2015.</p>
 					<p>No cenário esportivo, é possível identificar alguns avanços em relação ao alcance dessa meta, conforme reconheceu a jogadora brasileira de futebol Marta:</p>
-				</quote>
-				<quote>
-					<p>Quando as atletas do sexo feminino têm a chance de se destacar, os resultados são enormes. E para isso, a Copa do Mundo Feminina de 2019 foi realmente uma virada no jogo. A audiência global do torneio ultrapassou 1 bilhão de pessoas.</p>
+					<p><q>Quando as atletas do sexo feminino têm a chance de se destacar, os resultados são enormes. E para isso, a Copa do Mundo Feminina de 2019 foi realmente uma virada no jogo. A audiência global do torneio ultrapassou 1 bilhão de pessoas.</q></p>
 				</quote>
 				<p>A Olimpíada de Paris 2024, por sua vez, estabeleceu, pela primeira vez na história, a paridade de gênero em todos os esportes olímpicos, com 5.250 vagas destinadas a cada sexo. Apesar das conquistas, o caminho rumo à igualdade de gênero continua.</p>
 				<p>Com base no exposto, é correto afirmar:</p>
@@ -1388,13 +1396,13 @@
 				<l>It was freezing in the palace</l>
 				</stanza>
 			</verse>
-			<cite>"I hate it here", Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).</cite>
+			<cite><q>I hate it here</q>, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).</cite>
 		</context>
 
 		<objective_question number="41" success_rate="63.4">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
-				<p>Na letra da música, o verso "Like you are a poet trapped inside the body of a finance guy"</p>
+				<p>Na letra da música, o verso <q>Like you are a poet trapped inside the body of a finance guy</q></p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1418,7 +1426,7 @@
 		<objective_question number="42" success_rate="39.3">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
-				<p>No texto, a percepção de "conforto como construto" indica que o eu lírico vê o conforto como</p>
+				<p>No texto, a percepção de <q>conforto como construto</q> indica que o eu lírico vê o conforto como</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1444,7 +1452,7 @@
 		<objective_question number="43" success_rate="38.6">
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
-				<p>Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poética original. Com base no exposto, em Alguma poesia (1930),</p>
+				<p>Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poética original. Com base no exposto, em <i>Alguma poesia</i> (1930),</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1460,7 +1468,7 @@
 					<p>o nacionalismo literário, tão típico da revisão empreendida pela primeira geração modernista sobre a realidade brasileira, apresenta-se como eixo temático de cunho ufanista.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>a paisagem mineira, no espaço literário, é configurada pelo sujeito poético como ambiente bucólico e refúgio privilegiado para os seus desajustes frente ao "vasto mundo".</p>
+					<p>a paisagem mineira, no espaço literário, é configurada pelo sujeito poético como ambiente bucólico e refúgio privilegiado para os seus desajustes frente ao <q>vasto mundo</q>.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1470,13 +1478,12 @@
 		<objective_question number="44" success_rate="71.8">
 			<classification subject="Philosophy:General:Metaphysics" />
 			<statement>
-				<image width="0.6" src="fuvest/2025/fase01/q44.png" />
+				<image width="0.6" html_width="400" src="fuvest/2025/fase01/q44.png" />
 				<quote>
 					<p>Quem negaria que os futuros ainda não são? Mas já está na mente a espera dos futuros. E quem negaria que os passados já não são? Todavia, ainda está na mente a memória dos passados. E quem negaria que o tempo presente não tem extensão temporal, porque passa em um instante? Todavia, perdura a atenção, pela qual o que está presente se encaminha para a ausência.</p>
 				</quote>
 				<cite>Agostinho de Hipona. Confissões.</cite>
-				<p>Ao propor uma aproximação entre a fala da personagem Calvin no quadrinho e o trecho citado das Confissões de Agostinho, é possível encontrar semelhanças com relação à descrição do tempo e sua compreensão filosófica.</p>
-				<p>Dentre as afirmativas a seguir, qual delas pode ser considerada verdadeira para ambos os casos?</p>
+				<p>Ao propor uma aproximação entre a fala da personagem Calvin no quadrinho e o trecho citado das Confissões de Agostinho, é possível encontrar semelhanças com relação à descrição do tempo e sua compreensão filosófica. Dentre as afirmativas a seguir, qual delas pode ser considerada verdadeira para ambos os casos?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1504,8 +1511,8 @@
 			<statement>
 				<p>Considere que a expectativa de vida no Brasil à idade de 19 anos pode ser calculada, de forma aproximada, como a média aritmética simples entre a expectativa de vida estimada à mesma idade dos homens e das mulheres. O mesmo pode ser feito à idade de 20 anos.</p>
 				<p>Segundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil à idade de 19 anos era 58, e a expectativa de vida estimada dos homens à mesma idade era 54,7.</p>
-				<p>Sabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade $(EVH_{20})$ era 53,8.</p>
-				<p>Com base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos $(EVM_{19})$ e a expectativa de vida estimada à idade de 20 anos no Brasil $(EVB_{20})$ em 2022.</p>
+				<p>Sabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade (<m>EVH_{20}</m>) era 53,8.</p>
+				<p>Com base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos (<m>EVM_{19}</m>) e a expectativa de vida estimada à idade de 20 anos no Brasil (<m>EVB_{20}</m>) em 2022.</p>
 			</statement>
 			<options_table>
 					<header>
@@ -1592,7 +1599,7 @@
 			<classification subject="Biology:Biochemistry:Lipids" />
 			<statement>
 				<p>A figura a seguir representa os níveis médios de consumo de gordura saturada na dieta para adultos com idade <m>\ge20</m> anos.</p>
-				<image src="fuvest/2025/fase01/q47.png" />
+				<image html_width="700" src="fuvest/2025/fase01/q47.png" />
 				<p>Considerando apenas os dados da figura, os habitantes da Austrália e da Rússia apresentam maiores riscos de desenvolver doenças</p>
 			</statement>
 			<options>
@@ -1621,7 +1628,7 @@
 			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
 			<statement>
 				<p>Os gráficos a seguir apresentam a evolução do abate de bovinos e da participação de machos e fêmeas, por trimestre (indicado por algarismo romano), segundo informações obtidas pelo IBGE.</p>
-				<image src="fuvest/2025/fase01/q48.png" />
+				<image html_width="600" src="fuvest/2025/fase01/q48.png" />
 				<p>A partir dos dados observados nos gráficos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -1707,7 +1714,7 @@
 			<classification subject="Geography:Physical:Climatology" />
 			<statement>
 				<p>A figura a seguir representa a variação espacial da temperatura do ar por tipo de área, considerando diferentes padrões de uso e ocupação do solo de um município.</p>
-				<image src="fuvest/2025/fase01/q51.png" />
+				<image html_width="600" src="fuvest/2025/fase01/q51.png" />
 				<p>A explicação para as características desse perfil de temperatura do ar deve-se</p>
 			</statement>
 			<options>
@@ -1766,7 +1773,7 @@
 			<classification subject="Math:Statistics" />
 			<statement>
 				<p>A Estação Meteorológica Mirante de Santana é a principal referência do Instituto Nacional de Meteorologia (INMET) no município de São Paulo - SP. O climograma a seguir apresenta dados referentes ao mês de fevereiro de 2023. Neste mesmo mês, o Centro de Gerenciamento de Emergências Climáticas detectou 11 pontos de alagamentos no dia 19 e 14 pontos no dia 21.</p>
-				<image src="fuvest/2025/fase01/q53.png" />
+				<image html_width="700" src="fuvest/2025/fase01/q53.png" />
 				<p>Com base no texto e no gráfico, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -1777,13 +1784,13 @@
 					<p>Os quatro dias mais chuvosos apresentaram as menores temperaturas mínimas.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>A temperatura máxima no período variou entre 21,5°C e 17,8°C.</p>
+					<p>A temperatura máxima no período variou entre 21,5~°C e 17,8~°C.</p>
 				</option>
 				<option label="D" is_correct="false">
 					<p>Os cinco dias mais quentes correspondem às maiores precipitações.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Os pontos de alagamento nos dias 19 e 21 foram provocados pela chuva acumulada de 428,9 mm.</p>
+					<p>Os pontos de alagamento nos dias 19 e 21 foram provocados pela chuva acumulada de 428,9~mm.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1794,7 +1801,7 @@
 			<classification subject="Biology:Ecology:Population Dynamics" />
 			<statement>
 				<quote>
-					<p>A distribuição dos mosquitos, a frequência de suas picadas e o tempo de eclosão de seus ovos são afetados pela temperatura, pluviosidade e velocidade do vento, além de outros fatores, como deslocamento e densidade populacionais. Por exemplo, com uma temperatura de 27°C, o período de incubação dos ovos é de dez dias; no entanto, a 37°C, esse período passa a ser de sete dias. Além disso, a intermitência das chuvas no final da estação do verão e os ventos calmos acentuam a proliferação e a atuação do vetor.</p>
+					<p>A distribuição dos mosquitos, a frequência de suas picadas e o tempo de eclosão de seus ovos são afetados pela temperatura, pluviosidade e velocidade do vento, além de outros fatores, como deslocamento e densidade populacionais. Por exemplo, com uma temperatura de 27~°C, o período de incubação dos ovos é de dez dias; no entanto, a 37~°C, esse período passa a ser de sete dias. Além disso, a intermitência das chuvas no final da estação do verão e os ventos calmos acentuam a proliferação e a atuação do vetor.</p>
 				</quote>
 				<cite>MENDONÇA, Francisco de Assis. Aquecimento Global e Saúde: uma perspectiva geográfica - notas introdutórias. Terra Livre, 2003 (Adaptado).</cite>
 				<p>Com base no texto, assinale a alternativa correta.</p>
@@ -1827,7 +1834,7 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>fechado apresenta uma menor pressão do sangue / hemolinfa em relação ao sistema circulatório aberto.</p>
+					<p>fechado apresenta uma menor pressão do sangue/hemolinfa em relação ao sistema circulatório aberto.</p>
 				</option>
 				<option label="B" is_correct="false">
 					<p>aberto apresenta o coração dividido em quatro cavidades: dois átrios e dois ventrículos.</p>
@@ -1911,19 +1918,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>Não é segura, pois a concentração de Pb na água será de <m>2,07\times10^{1}mg/L</m>, maior que o valor permitido.</p>
+					<p>Não é segura, pois a concentração de Pb na água será de <m>2,07\times10^{1}</m>~mg/L, maior que o valor permitido.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>É segura, pois a concentração de Pb na água será de <m>1\times10^{-4}mg/L</m>, menor que o valor permitido.</p>
+					<p>É segura, pois a concentração de Pb na água será de <m>1\times10^{-4}</m>~mg/L, menor que o valor permitido.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Não é segura, pois a concentração de Pb na água será de <m>1\times10^{-8}mg/L</m>, menor que o valor permitido.</p>
+					<p>Não é segura, pois a concentração de Pb na água será de <m>1\times10^{-8}</m>~mg/L, menor que o valor permitido.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>É segura, pois a concentração de Pb na água será de <m>1\times10^{-2}mg/L</m>, igual ao valor permitido.</p>
+					<p>É segura, pois a concentração de Pb na água será de <m>1\times10^{-2}</m>~mg/L, igual ao valor permitido.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>É segura, pois a concentração de Pb na água será de <m>2,07\times10^{-6}mg/L</m>, maior que o valor permitido.</p>
+					<p>É segura, pois a concentração de Pb na água será de <m>2,07\times10^{-6}</m>~mg/L, maior que o valor permitido.</p>
 				</option>
 			</options>
 			<assumptions>
@@ -1937,24 +1944,24 @@
 			<classification subject="Physics:Thermodynamics:Thermometry and Dilatation" />
 			<statement>
 				<p>Quando uma barra de um certo material é aquecida até uma temperatura <m>T</m> a partir de uma temperatura inicial <m>T_{0}</m>, seu comprimento inicial <m>L_{0}</m> sofre um aumento <m>\Delta L</m> dado por <m>\Delta L=\alpha~L_{0}(T-T_{0})</m>, sendo <m>\alpha</m> o coeficiente de expansão linear, que depende do material. O gráfico a seguir mostra curvas de expansão linear para barras feitas de três materiais distintos.</p>
-				<image src="fuvest/2025/fase01/q59.png" />
+				<image html_width="600" src="fuvest/2025/fase01/q59.png" />
 				<p>Com base no gráfico e nas informações apresentadas, é correto afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>O gráfico mostra curvas para três barras que possuem o mesmo comprimento à temperatura de 30°C.</p>
+					<p>O gráfico mostra curvas para três barras que possuem o mesmo comprimento à temperatura de 30~°C.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>Em um processo de aquecimento entre 100°C e 200°C, o comprimento da barra de cobre aumenta em 0,1 m.</p>
+					<p>Em um processo de aquecimento entre 100~°C e 200~°C, o comprimento da barra de cobre aumenta em 0,1~m.</p>
 				</option>
 				<option label="C" is_correct="false">
 					<p>O coeficiente de expansão linear do alumínio é maior do que o do cobre.</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>Partindo de 0°C, aumentar em 10 cm o comprimento da barra de polietileno requer elevar sua temperatura até 50°C.</p>
+					<p>Partindo de 0~°C, aumentar em 10~cm o comprimento da barra de polietileno requer elevar sua temperatura até 50~°C.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Duas barras de comprimentos 5 m e 10 m a 0°C feitas do mesmo material, sofrem iguais incrementos de comprimento quando levadas de 0°C a 100°C.</p>
+					<p>Duas barras de comprimentos 5~m e 10~m a 0~°C feitas do mesmo material, sofrem iguais incrementos de comprimento quando levadas de 0~°C a 100~°C.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1978,42 +1985,42 @@
 					</header>
 					<option label="A" is_correct="false">
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60a1.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60a1.png" />
 						</cell>
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60a2.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60a2.png" />
 						</cell>
 					</option>
 					<option label="B" is_correct="false">
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60b1.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60b1.png" />
 						</cell>
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60b2.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60b2.png" />
 						</cell>
 					</option>
 					<option label="C" is_correct="false">
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60c1.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60c1.png" />
 						</cell>
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60c2.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60c2.png" />
 						</cell>
 					</option>
 					<option label="D" is_correct="true">
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60d1.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60d1.png" />
 						</cell>
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60d2.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60d2.png" />
 						</cell>
 					</option>
 					<option label="E" is_correct="false">
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60e1.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60e1.png" />
 						</cell>
 						<cell>
-							<image width="0.8" src="fuvest/2025/fase01/q60e2.png" />
+							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60e2.png" />
 						</cell>
 					</option>
 			</options_table>
@@ -2059,29 +2066,29 @@
 		<objective_question number="62" success_rate="54.6">
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<statement>
-				<p>Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de $30~m/s$ em poucos segundos.</p>
+				<p>Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50~m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de 30~m/s em poucos segundos.</p>
 				<image width="0.8" src="fuvest/2025/fase01/q62.png" />
-				<p>Considerando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,</p>
+				<p>Considerando um carrinho ocupado com massa total de 300~kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>1200 J.</p>
+					<p>1200~J.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>2500 J.</p>
+					<p>2500~J.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>5000 J.</p>
+					<p>5000~J.</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>15000 J.</p>
+					<p>15000~J.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>20000 J.</p>
+					<p>20000~J.</p>
 				</option>
 			</options>
 			<assumptions>
-				<p>Aceleração da gravidade: $g=10~m/s^{2}$.</p>
+				<p>Aceleração da gravidade: <m>g=10~\mathrm{m/s}^{2}</m>.</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -2092,7 +2099,6 @@
 			<statement>
 				<p>A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de <c>CO2</c>(g) na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a proposta apresentada na figura a seguir para a produção de uma matriz energética limpa.</p>
 				<image width="0.8" src="fuvest/2025/fase01/q63.png" />
-				<p>(I) Capturar o <c>CO2</c>(g) atmosférico utilizando <c>NaOH</c>(aq) para formar <c>Na2CO3</c>(aq). (II) Tratar essa solução, na presença de um catalisador, com <c>H2</c>(g) oriundo de fontes renováveis, para gerar <c>CH4</c>(g), um gás combustível.</p>
 				<p>Com base nessas informações e em seus conhecimentos, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -2119,7 +2125,7 @@
 		<objective_question number="64" success_rate="38.9">
 			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
-				<p>Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação <chem>CH_{4}(l)+2~O_{2}(l)\rightarrow CO_{2}(g)+2~H_{2}O(g)</chem>.</p>
+				<p>Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação <chem end=".">CH_{4}(l)+2~O_{2}(l)\rightarrow CO_{2}(g)+2~H_{2}O(g)</chem></p>
 				<p>Nessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a</p>
 			</statement>
 			<options>
@@ -2150,7 +2156,7 @@
 			<quote>
 				<title>Da moenda para a célula a combustível: caldo de cana é usado para produzir energia elétrica</title>
 				<p>Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial.</p>
-				<p>'A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade', explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. 'No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, *utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica*', diz o pesquisador. O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente."</p>
+				<p><q>A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade</q>, explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. <q>No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica*</q>, diz o pesquisador. <q>O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente</q>.</p>
 			</quote>
 			<cite>Disponível em https://jornal.usp.br/ciencias/ (Adaptado).</cite>
 		</context>
@@ -2162,7 +2168,7 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>o caldo in natura é obtido com facilidade, demandando somente a utilização das moendas, o que barateia os custos do processo.</p>
+					<p>o caldo <i>in natura</i> é obtido com facilidade, demandando somente a utilização das moendas, o que barateia os custos do processo.</p>
 				</option>
 				<option label="B" is_correct="false">
 					<p>a energia elétrica proveniente da célula a combustível é considerada limpa, já que esse dispositivo dispensa o uso de pilhas, cujo descarte constitui um problema ambiental.</p>
@@ -2209,7 +2215,7 @@
 			<classification subject="Biology:Genetics" />
 			<statement>
 				<p>Pesquisas e terapias com células-tronco têm se mostrado cada vez mais promissoras pela possibilidade de seu uso no tratamento de diferentes tipos de doenças, como câncer e doenças degenerativas. As células-tronco podem se diferenciar em células especializadas, conforme exemplificado a seguir.</p>
-				<image width="0.8" src="fuvest/2025/fase01/q67.png" />
+				<image width="0.8"  html_width="600" src="fuvest/2025/fase01/q67.png" />
 				<p>As células especializadas que derivam de uma mesma célula-tronco possuem os(as) mesmos(as)</p>
 			</statement>
 			<options>
@@ -2238,7 +2244,7 @@
 			<classification subject="Math:Statistics" />
 			<statement>
 				<p>O gráfico a seguir apresenta dados do Produto Interno Bruto (PIB) por pessoa e dados de publicações científicas por milhão de habitantes para um grupo selecionado de países, além de destacar o estado de São Paulo.</p>
-				<image src="fuvest/2025/fase01/q68.png" />
+				<image  html_width="700" src="fuvest/2025/fase01/q68.png" />
 				<p>A partir da análise do gráfico e do texto, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2267,23 +2273,33 @@
 			<statement>
 				<p>No plano cartesiano <m>Oxy</m>, o gráfico que melhor representa a função <m>f(x)=|x^{2}+5x-6|-5x+6</m> é dado por</p>
 			</statement>
-			<options>
+			<options_table>
 				<option label="A" is_correct="false">
-					<image width="0.4" src="fuvest/2025/fase01/q69a.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69a.png" />
+					</cell>
 				</option>
 				<option label="B" is_correct="true">
-					<image width="0.4" src="fuvest/2025/fase01/q69b.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69b.png" />
+					</cell>
 				</option>
 				<option label="C" is_correct="false">
-					<image width="0.4" src="fuvest/2025/fase01/q69c.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69c.png" />
+					</cell>
 				</option>
 				<option label="D" is_correct="false">
-					<image width="0.4" src="fuvest/2025/fase01/q69d.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69d.png" />
+					</cell>
 				</option>
 				<option label="E" is_correct="false">
-					<image width="0.4" src="fuvest/2025/fase01/q69e.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69e.png" />
+					</cell>
 				</option>
-			</options>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -2294,7 +2310,7 @@
 				<p>Seja <m>(a_{n})</m> uma progressão aritmética cujo primeiro termo é <m>a_{1}</m> e a razão <m>r</m>, ambos números reais. É possível construir uma outra sequência <m>(b_{n})</m>, em que o primeiro termo é um número real <m>b_{1}</m> e com a seguinte lei de formação
 				<math end=",">b_{n+1}=b_{n}+a_{n}</math>
 				sendo <m>n&gt;0</m> um número natural.</p>
-				<p>Por exemplo, se <m>b_{1}=0</m> e <math end=",">(a_{n})=(1,3,5,7,9,11,...)</math> tem-se <math end=".">(b_{n})=(0,1,4,9,16,25,...)</math>.</p>
+				<p>Por exemplo, se <m>b_{1}=0</m> e <math end=",">(a_{n})=(1,3,5,7,9,11,...)</math> tem-se <math end=".">(b_{n})=(0,1,4,9,16,25,...)</math></p>
 				<p>Com base em tais informações, os valores de <m>a_{1}</m> e <m>r</m> foram escolhidos de forma que <m>(b_{n})</m> também seja uma progressão aritmética de razão <m>r'</m>. Nessas condições, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2329,7 +2345,7 @@
 				</quote>
 				<cite>Revista Pesquisa FAPESP - Janeiro/2024 (Adaptado).</cite>
 				<p>O gráfico a seguir ilustra o crescimento de uma espécie de bactéria em meio de cultura, com e sem antibiótico. Foram testados três antibióticos diferentes (1, 2 e 3).</p>
-				<image src="fuvest/2025/fase01/q71.png" />
+				<image  html_width="700" src="fuvest/2025/fase01/q71.png" />
 				<p>Considerando o texto e o gráfico, sobre a resistência de bactérias a antibióticos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2359,8 +2375,7 @@
 			<statement>
 				<p>A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático, como representado na equação não balanceada a seguir.</p>
 				<image width="0.8" src="fuvest/2025/fase01/q72.png" />
-				<p>Em um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com <c>Br2</c> em excesso, obtendo-se pH 4 após reação total.</p>
-				<p>Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?</p>
+				<p>Em um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com <c>Br2</c> em excesso, obtendo-se pH 4 após reação total. Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -2387,7 +2402,7 @@
 			<quote>
 				<p>Um artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de <q>foguetes de garrafa PET</q>, propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. Uma mistura de vinagre (que contém ácido acético, <c>CH3COOH</c>) com bicarbonato de sódio (<c>NaHCO3</c>) produz gás carbônico (<c>CO2</c>) por meio da reação química representada pela seguinte equação:
 				<chem>CH_{3}COOH+NaHCO_{3}\rightarrow CH_{3}COONa+CO_{2}+H_{2}O</chem></p>
-				<image wrap="true" width="0.15" size="15mm" src="fuvest/2025/fase01/q73.png" />
+				<image wrap="true" width="0.15" html_width="100" size="15mm" src="fuvest/2025/fase01/q73.png" />
 				<p>A reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume <m>V_{CO_{2}}</m> e exercerá uma pressão <m>P_{CO_{2}}</m> sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura.</p>
 			</quote>
 		</context>
@@ -2396,23 +2411,23 @@
 			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer" />
 			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
-				<p>Suponha que a reação produza 2 mols de <c>CO2</c> para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T=300 K, a pressão <m>P_{CO_{2}}</m> medida pelo manômetro será por volta de</p>
+				<p>Suponha que a reação produza 2 mols de <c>CO2</c> para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T=300~K, a pressão <m>P_{CO_{2}}</m> medida pelo manômetro será por volta de</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>3,2 atm.</p>
+					<p>3,2~atm.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>4,1 atm.</p>
+					<p>4,1~atm.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>6,2 atm.</p>
+					<p>6,2~atm.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>9,0 atm.</p>
+					<p>9,0~atm.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>12 atm.</p>
+					<p>12~atm.</p>
 				</option>
 			</options>
 			<assumptions>
@@ -2425,28 +2440,28 @@
 		<objective_question number="74" success_rate="26.4">
 			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
-				<p>Considere agora um outro experimento feito em condições semelhantes, em que o manômetro indica uma pressão de 5 atm e, sem que a pressão no interior da garrafa se altere, ele é cuidadosamente substituído por uma rolha de 10 g de massa e 2 cm de diâmetro (igual ao diâmetro interno do bocal da garrafa). Logo após a rolha ser encaixada no local, ela é expelida devido à pressão interna da garrafa ser maior que a pressão atmosférica.</p>
+				<p>Considere agora um outro experimento feito em condições semelhantes, em que o manômetro indica uma pressão de 5~atm e, sem que a pressão no interior da garrafa se altere, ele é cuidadosamente substituído por uma rolha de 10~g de massa e 2~cm de diâmetro (igual ao diâmetro interno do bocal da garrafa). Logo após a rolha ser encaixada no local, ela é expelida devido à pressão interna da garrafa ser maior que a pressão atmosférica.</p>
 				<p>A aceleração da rolha no momento em que ela é expelida é de, aproximadamente,</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>12 m/s².</p>
+					<p>12~m/s².</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>120 m/s².</p>
+					<p>120~m/s².</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>1200 m/s².</p>
+					<p>1200~m/s².</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p>12000 m/s².</p>
+					<p>12000~m/s².</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>120000 m/s².</p>
+					<p>120000~m/s².</p>
 				</option>
 			</options>
 			<assumptions>
-				<p>Assuma que a pressão atmosférica seja de 1 atm = <m>10^5</m> Pa.</p>
+				<p>Assuma que a pressão atmosférica seja de 1 atm = <m>10^5</m>~Pa.</p>
 				<p>Utilize <m>\pi=3</m>.</p>
 				<p>Considere que as forças relevantes atuando sobre a rolha no momento em que é expelida são apenas aquelas relativas à diferença de pressão entre os seus lados interno e externo.</p>
 			</assumptions>
@@ -2458,7 +2473,7 @@
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Um designer de produtos deseja fabricar um vaso para flores conforme a figura a seguir.</p>
-				<image width="0.5" src="fuvest/2025/fase01/q75.png" />
+				<image width="0.5"  html_width="400" src="fuvest/2025/fase01/q75.png" />
 				<p>Sabe-se que a base e o topo do vaso são uma circunferência de raio <m>R</m> que mede 10 cm, a parte central é uma circunferência de raio <m>r</m> de 5 cm e a medida <m>h</m> mede 12 cm.</p>
 				<p>Qual é a capacidade volumétrica desse vaso em cm³?</p>
 			</statement>
@@ -2486,7 +2501,7 @@
 		<objective_question number="76" success_rate="38.0">
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
-				<p>Considere um cilindro C de altura <m>h&gt;0</m> e cujo raio das circunferências, do topo e da base, é <m>r&gt;0</m>; um cilindro <m>C_{1}</m> cujo raio é igual ao de <m>C</m> e altura igual a <m>\frac{h}{2}</m>; e um cilindro <m>C_{2}</m> com altura <m>h</m> e raio igual a <m>\frac{r}{2}</m>.</p>
+				<p>Considere um cilindro <m>C</m> de altura <m>h&gt;0</m> e cujo raio das circunferências, do topo e da base, é <m>r&gt;0</m>; um cilindro <m>C_{1}</m> cujo raio é igual ao de <m>C</m> e altura igual a <m>\frac{h}{2}</m>; e um cilindro <m>C_{2}</m> com altura <m>h</m> e raio igual a <m>\frac{r}{2}</m>.</p>
 				<p>Sendo <m>V</m>, <m>V_{1}</m> e <m>V_{2}</m> os volumes e <m>A</m>, <m>A_{1}</m> e <m>A_{2}</m> as áreas laterais dos cilindros <m>C</m>, <m>C_{1}</m> e <m>C_{2}</m> respectivamente, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2566,7 +2581,7 @@
 		<objective_question number="79" success_rate="54.2">
 			<classification subject="History:Ancient:Rome" />
 			<statement>
-				<image src="fuvest/2025/fase01/q79.png" />
+				<image  html_width="700" src="fuvest/2025/fase01/q79.png" />
 				<p>A análise do mapa permite identificar deslocamentos de povos não romanos caracterizados</p>
 			</statement>
 			<options>
@@ -2593,7 +2608,7 @@
 		<objective_question number="80" success_rate="38.9">
 			<classification subject="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)" />
 			<statement>
-				<p>Leia o excerto a seguir de A Ética Protestante e o Espírito do Capitalismo, de Max Weber.</p>
+				<p>Leia o excerto a seguir de <i>A Ética Protestante e o Espírito do Capitalismo</i>, de Max Weber.</p>
 				<quote>
 					<p>Temos de nos emancipar da seguinte visão: que se pode deduzir a Reforma das transformações econômicas como algo <q>necessário em termos de desenvolvimento histórico</q>. Por outro lado, não se deve de forma alguma defender uma tese tão disparatadamente doutrinária que afirmasse que o <q>espírito capitalista</q> pôde surgir somente como resultado de determinados influxos da Reforma.</p>
 					<p>Em face da enorme barafunda de influxos recíprocos entre as bases materiais, as formas de organização social e política e o conteúdo espiritual das épocas culturais da Reforma, procederemos tão-só de modo a examinar de perto se, e em quais pontos, podemos reconhecer determinadas <q>afinidades eletivas</q> entre certas formas da fé religiosa e certas formas da ética profissional. Por esse meio serão elucidados o efeito que, em virtude de tais afinidades eletivas, o movimento religioso exerceu sobre o desenvolvimento da cultura material.</p>
@@ -2657,7 +2672,7 @@
 			<classification subject="Literature:Brazil:Realism and Naturalism" />
 			<classification subject="Literature:World Literature" />
 			<statement>
-				<p>Mais de uma vez, o brasileiro Machado de Assis e o português Eça de Queirós foram aproximados porque traçaram linhas de compreensão das suas respectivas sociedades, em um mesmo tempo historicamente situado. Os protagonistas Rubião, de Quincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires (1900),</p>
+				<p>Mais de uma vez, o brasileiro Machado de Assis e o português Eça de Queirós foram aproximados porque traçaram linhas de compreensão das suas respectivas sociedades, em um mesmo tempo historicamente situado. Os protagonistas Rubião, de <i>Quincas Borba</i> (1891), e Gonçalo, de <i>A Ilustre Casa de Ramires</i> (1900),</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2673,7 +2688,7 @@
 					<p>comprometem-se com a superação dos atrasos civilizacionais de seus países. Apesar de terem destinos diferentes, confrontam-se com o descompromisso de suas respectivas sociedades quanto às transformações sociais e econômicas.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>são vítimas de suas ideias ambiciosas de modernização nacional, seja por Rubião promover omover ideias políticas "modernas", seja por Gonçalo insistir na restauração da grandeza de sua família. Ao final, atingem seus objetivos.</p>
+					<p>são vítimas de suas ideias ambiciosas de modernização nacional, seja por Rubião promover omover ideias políticas <q>modernas</q>, seja por Gonçalo insistir na restauração da grandeza de sua família. Ao final, atingem seus objetivos.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2684,12 +2699,12 @@
 			<classification subject="Literature:Brazil:Modernism" />
 			<classification subject="History:Brazil:Vargas Era" />
 			<statement>
+				<p>O funcionário público como personagem literário ganha destaque na literatura brasileira a partir dos anos 1930. Uma explicação para esse fenômeno está na tematização, por parte dos escritores, das mudanças do papel do Estado brasileiro na constituição do mercado de trabalho assalariado e como agente da modernização do país:</p>
 				<quote>
 					<p>De 1930 em diante, foram criadas dezenas de comissões, instituições e órgãos de planejamento e/ou de promoção das atividades econômicas, notadamente as ligadas às atividades agrícolas e àquelas voltadas para a industrialização.</p>
 				</quote>
 				<cite>MATTOS, Fernando Augusto Mansor de. A trajetória do emprego público no Brasil desde o início do século XX.</cite>
-				<p>O funcionário público como personagem literário ganha destaque na literatura brasileira a partir dos anos 1930. Uma explicação para esse fenômeno está na tematização, por parte dos escritores, das mudanças do papel do Estado brasileiro na constituição do mercado de trabalho assalariado e como agente da modernização do país:</p>
-				<p>No romance Os ratos, de Dyonélio Machado, o funcionalismo público configura-se como</p>
+				<p>No romance <i>Os ratos</i>, de Dyonélio Machado, o funcionalismo público configura-se como</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2729,7 +2744,7 @@
 					<l>Ah! Vem dar-mo agora,</l>
 					<l>Agora, sim, que morro!</l>
 					<l>Não quero que, montado</l>
-					<l>No Pégaso fogoso,</l>
+					<l>No <u>Pégaso</u> fogoso,</l>
 					<l>Venhas com dura lança</l>
 					<l>Ao monstro infame traspassar, raivoso.</l>
 					<l>Deixa que viva a pérfida calúnia,</l>
@@ -2748,13 +2763,13 @@
 					<l>Um par de esporas de prata.</l>
 					<l>(...)</l>
 					<l>Dizem que tinha um cavalo</l>
-					<l>que Pégaso se chamava.</l>
+					<l>que <u>Pégaso</u> se chamava.</l>
 					<l>Não pisava neste mundo,</l>
 					<l>mas nos planaltos da Arcádia!</l>
 					</stanza>
 				</verse>
 				<cite>Cecilia Meireles. Romanceiro da Inconfidência.</cite>
-				<p>Considerando o substantivo Pégaso, presente nos dois excertos, é correto afirmar:</p>
+				<p>Considerando o substantivo <u>Pégaso</u>, presente nos dois excertos, é correto afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2801,7 +2816,7 @@
 					<l>acontece a Inconfidência.</l>
 					</stanza>
 				</verse>
-				<p>Os versos de Cecília Meireles, no Romanceiro da Inconfidência, remetem</p>
+				<p>Os versos de Cecília Meireles, no <i>Romanceiro da Inconfidência</i>, remetem</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2828,13 +2843,12 @@
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
-					<p>No texto intitulado Tarsila, a pesquisadora Aracy Amaral transcreve um trecho das impressões de Tarsila do Amaral sobre a viagem às cidades históricas coloniais mineiras, que realizara em 1924 com o grupo modernista, liderado por Mário de Andrade:</p>
-					<p>(...) As decorações murais de um modesto corredor de hotel; o forro das salas, feito de taquarinhas coloridas e trançadas; as pinturas das igrejas, simples e comoventes, executadas com amor e devoção por artistas anônimos; o Aleijadinho, nas suas estátuas e nas linhas geniais da sua arquitetura religiosa, tudo era motivo para as nossas exclamações admirativas. Encontrei em Minas as cores que adorava em criança. Ensinaram-me depois que eram feias e caipiras. Segui o ramerrão do gosto apurado... Mas depois vinguei-me da opressão passando-as para as minhas telas: azul puríssimo, rosa violáceo, amarelo vivo, verde cantante, tudo em gradações mais ou menos fortes, conforme a mistura de branco. Pintura limpa, sobretudo, sem medo de cânones convencionais. Liberdade e sinceridade, uma certa estilização que a adaptava à época moderna.</p>
+					<p>No texto intitulado <i>Tarsila</i>, a pesquisadora Aracy Amaral transcreve um trecho das impressões de Tarsila do Amaral sobre a viagem às cidades históricas coloniais mineiras, que realizara em 1924 com o grupo modernista, liderado por Mário de Andrade: <q>(...) As decorações murais de um modesto corredor de hotel; o forro das salas, feito de taquarinhas coloridas e trançadas; as pinturas das igrejas, simples e comoventes, executadas com amor e devoção por artistas anônimos; o Aleijadinho, nas suas estátuas e nas linhas geniais da sua arquitetura religiosa, tudo era motivo para as nossas exclamações admirativas. Encontrei em Minas as cores que adorava em criança. Ensinaram-me depois que eram feias e caipiras. Segui o ramerrão do gosto apurado... Mas depois vinguei-me da opressão passando-as para as minhas telas: azul puríssimo, rosa violáceo, amarelo vivo, verde cantante, tudo em gradações mais ou menos fortes, conforme a mistura de branco. Pintura limpa, sobretudo, sem medo de cânones convencionais. Liberdade e sinceridade, uma certa estilização que a adaptava à época moderna.</q></p>
 				</quote>
 				<cite>AMARAL, Tarsila, 1939. Apud AMARAL, Aracy. Tarsila.</cite>
 				<image src="fuvest/2025/fase01/q86.png" />
 				<cite>Tarsila do Amaral, O mamoeiro, 1925, óleo s/ tela, 65,0 cm x 70,0 cm.</cite>
-				<p>Considerando a obra O Mamoeiro, de Tarsila do Amaral, qual é o principal elemento que caracteriza a influência do movimento modernista brasileiro na pintura?</p>
+				<p>Considerando a obra <i>O Mamoeiro, de Tarsila do Amaral</i>, qual é o principal elemento que caracteriza a influência do movimento modernista brasileiro na pintura?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2930,7 +2944,7 @@
 					<p>— E para si, o que é ser europeu?</p>
 					<p>O homem gaguejou. Não sabia responder. Mas o interessante é que, para ele, a questão da identidade se colocava naturalmente para os africanos. Não para os europeus. Ele nunca tinha colocado a questão no espelho. Recordo o episódio porque me parece que ele toca uma questão central: quando se fala de África, de qual África estamos falando? Terá o continente africano uma essência facilmente capturável? Haverá uma substância exótica que os caçadores de identidades possam recolher como sendo a alma africana?</p>
 				</quote>
-				<cite>COUTO, Mia. "Um retrato sem moldura". In: HERNANDEZ, Leila Leite. A África na sala de aula: visita à história contemporânea.</cite>
+				<cite>COUTO, Mia. <q>Um retrato sem moldura</q>. In: HERNANDEZ, Leila Leite. A África na sala de aula: visita à história contemporânea.</cite>
 				<p>Ao relatar e comentar o episódio, o escritor moçambicano Mia Couto apresenta a África como</p>
 			</statement>
 			<options>

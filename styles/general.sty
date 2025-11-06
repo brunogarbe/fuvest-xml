@@ -1,0 +1,95 @@
+\NeedsTeXFormat{LaTeX2e}[1994/06/01] % Specifies LaTeX2e format and minimum date
+\ProvidesPackage{general}[2025/10/30 General Exam Styling] % Package name and version/date
+
+% Preliminary Declarations (e.g., loading other packages)
+\RequirePackage{xcolor} % Example: Load xcolor package for custom colors
+
+% Packages
+\RequirePackage[T1]{fontenc} 	% for advanced font handling with XeLaTeX
+\RequirePackage[utf8]{inputenc}
+\RequirePackage{geometry}			% page size and margins
+\RequirePackage{graphicx}   	% for images
+\RequirePackage{wrapfig}    	% for pictures wrapingb
+\RequirePackage{tabularx}   	% flexible tablesbb
+\RequirePackage{array}      	% improved column definitions
+\RequirePackage{tcolorbox}  	% for boxes of text
+\RequirePackage{csquotes}     % for typesetting quotes
+\RequirePackage[version=4,textfontname=Libertinus Serif,mathfontname=Libertinus Serif]{mhchem}
+\RequirePackage{amsmath}
+\RequirePackage{mathspec}			% allow you to use open-type fonts
+\RequirePackage{setspace}     % for line spacing
+\RequirePackage{lipsum}				% for printing test
+
+% configure the margin of the paper (geometry)
+\geometry{left=1cm,right=1cm,top=1.5cm,bottom=2cm}
+
+% path relative to the main .tex file (graphicx)
+\graphicspath{ {./images/} }
+
+\raggedbottom
+
+% configure the boxes (tcolorbox)
+\definecolor{sub}{HTML}{dedede}     % setting sub color to be used
+
+\newtcolorbox{assumptionBox}{
+    fontupper=\fontsize{8}{10}\selectfont,
+    colback = sub, % background color
+    boxrule = 0pt  % no borders
+}
+
+% Remove indentation from quote environment
+\renewenvironment{quote}
+  {\list{}{\leftmargin=0pt \rightmargin=0pt}%
+   \item\relax}
+  {\endlist}
+
+% Define the font and size for the displayquote environment
+\newfontfamily{\quotefont}{Libertinus Serif} % Or any other font on your system
+\renewenvironment{displayquote}{%
+    \begin{quote}
+    \fontsize{10}{12}\selectfont % 14pt font size with 16pt line spacing
+    \quotefont
+    \setlength{\leftskip}{1.0cm}  % Left indent of 30pt
+    \setlength{\rightskip}{0.0cm} % Right indent of 30pt
+}{%
+    \end{quote}
+}
+
+% Custom command for author formatting
+\newcommand{\quoteauthor}[1]{%
+    \begin{flushright}
+        \vspace{-8pt}
+        \fontsize{8}{10}\selectfont
+        \textit{\textemdash #1}
+    \end{flushright}
+}
+
+% Set the font, size, and indent for the verse environment
+\newfontfamily{\versefont}{Libertinus Serif} % Or any other font on your system
+% Verse environment with custom style
+\newenvironment{verseblock}
+  {\list{}{\itemsep=0pt % no extra space between items
+           \parsep=0pt
+           \leftmargin=1.0cm  % left indent
+           \rightmargin=0.0cm % right indent
+           \fontsize{10}{12}\selectfont
+		\versefont\itshape}%
+   \item\relax}
+  {\endlist}
+
+\renewcommand{\thesection}{\huge\arabic{section}.}
+\renewcommand{\theenumi}{\Alph{enumi}}
+\renewcommand\labelenumi{(\theenumi)}
+
+
+% set the document fonts (mathspec)
+\setmainfont{Libertinus Serif}
+\setmathfont(Digits,Latin)[Scale=MatchLowercase]{Libertinus Serif}
+
+\setlength\parindent{0pt}   % killing indentation for all the text
+\setstretch{1.1}            % setting line spacing
+\setlength\columnsep{1.0cm} % setting length of column separator
+\pagestyle{empty}           % setting pagestyle to be empty
+
+\newcommand{\lt}{<}
+\newcommand{\gt}{>}

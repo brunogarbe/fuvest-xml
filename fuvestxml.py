@@ -188,6 +188,10 @@ class AbstractWriter(ABC):
     def header(self, text: str) -> str:
         pass
 
+    @abstractmethod
+    def caption(self, text: str) -> str:
+        pass
+
     # Display Quote
     @abstractmethod
     def display_quote_start(self) -> str:
@@ -224,11 +228,13 @@ class AbstractWriter(ABC):
 
     # Image
     @abstractmethod
-    def image(self, img_path: str, wrap: bool, width: str) -> str:
+    def image(self, img_path: str, wrap: bool, width: str, html_width: str) -> str:
         pass
 
     @abstractmethod
-    def inline_image(self, img_path: str, wrap: bool, width: str) -> str:
+    def inline_image(
+        self, img_path: str, wrap: bool, width: str, html_width: str
+    ) -> str:
         pass
 
     # Table
@@ -323,7 +329,7 @@ class AbstractWriter(ABC):
         pass
 
     @abstractmethod
-    def display_chemistry(self, text: str) -> str:
+    def display_chemistry(self, text: str, end_symbol: str) -> str:
         pass
 
     @abstractmethod
@@ -466,7 +472,8 @@ class LatexWriter(AbstractWriter):
     @override
     def options_row_start(self, option_text: str) -> str:
         self.table_counter = 0
-        return f" ({option_text}) "
+        option_text = option_text if option_text == "" else f" ({option_text}) "
+        return option_text
 
     @override
     def options_row_end(self) -> str:
@@ -711,7 +718,7 @@ class LatexWriter(AbstractWriter):
         return f"\\ce{{{text}}}"
 
     @override
-    def display_chemistry(self, text: str) -> str:
+    def display_chemistry(self, text: str, end_symbol: str) -> str:
         return f"$$\\ce{{{text}}}$$"
 
     @override
@@ -787,6 +794,7 @@ class HtmlWriter(AbstractWriter):
         # for control of the output in a table
         self.table_counter = 0
         self.table_num_columns = 0
+        self.title = ""
 
     @override
     def preamble(self, title: str) -> str:
@@ -798,11 +806,13 @@ class HtmlWriter(AbstractWriter):
             "</head>",
         ]
 
+        self.title = title
+
         return "".join(parts)
 
     @override
     def body_start(self) -> str:
-        return '<body>\n<div class="container">\n\n'
+        return f'<body>\n<div class="container">\n<h1>{self.title}</h1>\n\n'
 
     @override
     def body_end(self) -> str:
@@ -860,7 +870,8 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def options_row_start(self, option_text: str) -> str:
-        parts = ["<tr>\n", f"<td>({option_text})</td>\n"]
+        option_text = option_text if option_text == "" else f" ({option_text}) "
+        parts = ["<tr>\n", f"<td>{option_text}</td>\n"]
         return "".join(parts)
 
     @override
@@ -891,6 +902,10 @@ class HtmlWriter(AbstractWriter):
     @override
     def header(self, text: str) -> str:
         return "<h3>" + text + "</h3>\n"
+
+    @override
+    def caption(self, text: str) -> str:
+        return "<h6>" + text + "</h6>\n"
 
     @override
     def display_quote_start(self) -> str:
@@ -925,17 +940,31 @@ class HtmlWriter(AbstractWriter):
         return text + "<br/>\n"
 
     @override
-    def image(self, img_path: str, wrap: bool, width: str) -> str:
+    def image(self, img_path: str, wrap: bool, width: str, html_width: str) -> str:
         parts = []
         parts.append('<div class="image_container">\n')
-        parts.append("<img src=" + str(img_path).replace("\\", "/") + ' width="500">\n')
+        parts.append(
+            "<img src="
+            + str(img_path).replace("\\", "/")
+            + ' width="'
+            + html_width
+            + '">\n'
+        )
         parts.append("</div>\n")
 
         return "".join(parts)
 
     @override
-    def inline_image(self, img_path: str, wrap: bool, width: str) -> str:
-        return "<img src=" + str(img_path).replace("\\", "/") + ">\n"
+    def inline_image(
+        self, img_path: str, wrap: bool, width: str, html_width: str
+    ) -> str:
+        return (
+            "<img src="
+            + str(img_path).replace("\\", "/")
+            + ' width="'
+            + html_width
+            + '">\n'
+        )
 
     # Table
     @override
@@ -1027,15 +1056,21 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def display_math(self, text: str, end_symbol: str) -> str:
-        return f"\n\\[{text} {end_symbol}\\]\n"
+        if end_symbol == "":
+            return f"\n\\[{text}\\]\n"
+        else:
+            return f"\n\\[{text}{end_symbol}\\]\n"
 
     @override
     def chemistry(self, text: str) -> str:
-        return f"\\({text}\\)"
+        return f"\\(\\ce{{{text}}}\\)"
 
     @override
-    def display_chemistry(self, text: str) -> str:
-        return f"$$\\ce{{{text}}}$$"
+    def display_chemistry(self, text: str, end_symbol: str) -> str:
+        if end_symbol == "":
+            return f"\\[\\ce{{{text}}}\\]"
+        else:
+            return f"\\[\\ce{{{text}{end_symbol}}}\\]"
 
     @override
     def reference(self, text: str) -> str:
@@ -1045,18 +1080,7 @@ class HtmlWriter(AbstractWriter):
     def clean_text(self, text: str) -> str:
         # Dictionary of characters to escape
         escape_map = {
-            "&": r"\&",
-            "%": r"\%",
-            "$": r"\$",
-            "#": r"\#",
-            "_": r"\_",
-            "{": r"\{",
-            "}": r"\}",
-            "→": r"->",
-            "⇌": r"<=>",
-            "~": r"\textasciitilde{}",
-            "^": r"\textasciicircum{}",
-            "\\": r"\textbackslash{}",
+            "~": "\u202f",
         }
 
         # Create a regex from the keys of the map
@@ -1340,10 +1364,17 @@ class XmlConverter:
         option_index = 1
 
         for row in table_el:
-            parts.append(self.writer.options_row_start(number_to_letter(option_index)))
-            if row.tag == "option":
-                # parts.append(f" ({number_to_letter(option_index)}) ")
+            if row.tag == "header":
+                parts.append(self.writer.options_row_start(""))
+            elif row.tag == "option":
+                parts.append(
+                    self.writer.options_row_start(number_to_letter(option_index))
+                )
                 option_index += 1
+            else:
+                raise ValueError(
+                    "Tag not recognized!" + etree.tostring(row).decode("utf-8")
+                )
 
             for cell in row.findall("./cell"):
                 body_parts = []
@@ -1412,7 +1443,7 @@ class XmlConverter:
             return self.render_ordered_list(el)
 
         elif tag == "caption":
-            return self.render_header(el)
+            return self.render_caption(el)
 
         elif tag == "cite":
             return self.render_cite(el)
@@ -1448,16 +1479,30 @@ class XmlConverter:
         return self.writer.header(text)
 
     #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+    # Render the <header> tag
+
+    def render_caption(self, p_elem) -> str:
+        text = self.render_inline(p_elem)
+        return self.writer.caption(text)
+
+    #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
     # Render the <quote> tag
 
     def render_display_quote(self, q_el) -> str:
         parts = []
         parts.append(self.writer.display_quote_start())
 
-        inner_ps = q_el.findall("./p")
-        if inner_ps:
-            for p in inner_ps:
-                parts.append(self.render_paragraph(p))
+        for child in q_el:
+            if child.tag == "title":
+                text = self.render_inline(child)
+                parts.append(self.writer.header(text))
+            elif child.tag == "p":
+                parts.append(self.render_paragraph(child))
+            elif child.tag == "image":
+                parts.append(self.render_image(child))
+            else:
+                print(child)
+                raise ValueError(f"Tag {child.tag} not recognized!")
 
         parts.append(self.writer.display_quote_end())
         return "".join(parts)
@@ -1493,10 +1538,9 @@ class XmlConverter:
     def render_image(self, img_el) -> str:
         # get the <image> tag attributes
         src = img_el.get("src", "").strip()
-        pos = img_el.get("position", "").strip()
-        size = img_el.get("size", "").strip()
         wrap = xml_to_python_boolean(img_el.get("wrap", "false").strip())
         width = img_el.get("width", "1.0").strip()
+        html_width = img_el.get("html_width", "500").strip()
 
         # get the image path
         img_path = self.global_graphics_dir / src
@@ -1504,7 +1548,7 @@ class XmlConverter:
         if os.path.exists(img_path):
             print(f"xxx '{img_path}' exists (could be a file or directory).")
 
-        return self.writer.image(img_path, wrap, width)
+        return self.writer.image(img_path, wrap, width, html_width)
 
     #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
     # Render the <image> tag
@@ -1512,17 +1556,16 @@ class XmlConverter:
     def render_inline_image(self, img_el) -> str:
         # get the <image> tag attributes
         src = img_el.get("src", "").strip()
-        pos = img_el.get("position", "").strip()
-        size = img_el.get("size", "").strip()
         wrap = xml_to_python_boolean(img_el.get("wrap", "false").strip())
         width = img_el.get("width", "1.0").strip()
+        html_width = img_el.get("html_width", "500").strip()
 
         # print(wrap, type(wrap))
         # get the image path
         img_path = self.global_graphics_dir / src
 
         # Use width=\linewidth to fit page
-        return self.writer.inline_image(img_path, wrap, width)
+        return self.writer.inline_image(img_path, wrap, width, html_width)
         # return (
         #     "\\includegraphics[width="
         #     + width
@@ -1693,8 +1736,9 @@ class XmlConverter:
                 parts.append(self.writer.chemistry(text))
 
             elif child.tag == "chem":
+                end_symbol = child.get("end", "").strip()
                 text = self.writer.clean_chemistry(child.text)
-                parts.append(self.writer.display_chemistry(text))
+                parts.append(self.writer.display_chemistry(text, end_symbol))
 
             elif child.tag == "ref":
                 end_symbol = child.get("id", "").strip()

@@ -829,23 +829,23 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def question_start(self, number: str) -> str:
-        return "<h2>" + number + "</h2>\n"
+        return '<section class="question-class">\n\t<h2>' + number + "</h2>\n"
 
     @override
     def question_end(self) -> str:
-        return ""
+        return "</section>\n\n"
 
     @override
     def options_regular_start(self) -> str:
-        return '<ol class="options" type="A">\n'
+        return '\t<ol class="options" type="A">\n'
 
     @override
     def options_regular_end(self) -> str:
-        return "</ol>\n\n"
+        return "\t</ol>\n"
 
     @override
     def options_item_start(self) -> str:
-        return "<li>"
+        return "\t\t<li>"
 
     @override
     def options_item_end(self) -> str:
@@ -853,11 +853,11 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def options_table_start(self, num_cols: int) -> str:
-        return '<div class="table-option"><table>\n'
+        return '\t<div class="table-option"><table>\n'
 
     @override
     def options_table_end(self) -> str:
-        return "</table>\n"
+        return "\t</table>\n"
 
     @override
     def options_header_start(self) -> str:
@@ -897,11 +897,11 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def paragraph(self, text: str) -> str:
-        return "<p>" + text + "</p>\n"
+        return "\t<p>" + text + "</p>\n"
 
     @override
     def header(self, text: str) -> str:
-        return "<h3>" + text + "</h3>\n"
+        return "\t<h3>" + text + "</h3>\n"
 
     @override
     def caption(self, text: str) -> str:
@@ -909,19 +909,19 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def display_quote_start(self) -> str:
-        return "<blockquote>\n"
+        return "\t<blockquote>\n"
 
     @override
     def display_quote_end(self) -> str:
-        return "</blockquote>\n"
+        return "\t</blockquote>\n"
 
     @override
     def verse_start(self) -> str:
-        return '<section class="verse_section">'
+        return '<section class="verse_section">\n'
 
     @override
     def verse_end(self) -> str:
-        return "</section>"
+        return "</section>\n"
 
     @override
     def verse_title(self, text: str) -> str:
@@ -929,7 +929,7 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def verse_stanza_start(self) -> str:
-        return "<p>\n"
+        return "<p>"
 
     @override
     def verse_stanza_end(self) -> str:
@@ -942,15 +942,15 @@ class HtmlWriter(AbstractWriter):
     @override
     def image(self, img_path: str, wrap: bool, width: str, html_width: str) -> str:
         parts = []
-        parts.append('<div class="image_container">\n')
+        parts.append('\t<div class="image_container">\n')
         parts.append(
-            "<img src="
+            "\t\t<img src="
             + str(img_path).replace("\\", "/")
             + ' width="'
             + html_width
             + '">\n'
         )
-        parts.append("</div>\n")
+        parts.append("\t</div>\n")
 
         return "".join(parts)
 
@@ -1031,7 +1031,7 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def cite(self, text: str) -> str:
-        return f'<p class="cite_par"><cite>—{text}</cite></p>\n'
+        return f'\t<p class="cite_par"><cite>—{text}</cite></p>\n'
 
     # Inlines
     @override

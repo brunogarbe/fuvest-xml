@@ -230,58 +230,56 @@
 				<p>Os movimentos das moléculas antes e depois de uma reação química obedecem aos princípios físicos de colisões. Para tanto, cada átomo é representado como um corpo pontual com uma certa massa, ocupando uma posição no espaço e com uma determinada velocidade (representada na forma vetorial). Costumeiramente, os corpos pontuais são representados como esferas com diâmetros proporcionais à massa atômica. As colisões ocorrem conservando a quantidade de movimento.</p>
 				<p>Considerando um referencial no qual as moléculas neutras encontram-se paradas antes e após a colisão, a alternativa que melhor representa o arranjo de íons e moléculas instantes antes e instantes depois de uma colisão que leva à reação <chem>F- + H3CCl → CH3F + Cl-</chem> é</p>
 			</statement>
-			<options>
-				<table>
-					<header>
-						<cell>
-							<image src="fuvest/2020/fase01/q08_1.png" />
-						</cell>
-						<cell>
-							<image src="fuvest/2020/fase01/q08_2.png" />
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<image src="fuvest/2020/fase01/q08a_1.png" />
-						</cell>
-						<cell>
-							<image src="fuvest/2020/fase01/q08a_2.png" />
-						</cell>
-					</option>
-					<option label="B" is_correct="true">
-						<cell>
-							<image src="fuvest/2020/fase01/q08b_1.png" />
-						</cell>
-						<cell>
-							<image src="fuvest/2020/fase01/q08b_2.png" />
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<image src="fuvest/2020/fase01/q08c_1.png" />
-						</cell>
-						<cell>
-							<image src="fuvest/2020/fase01/q08c_2.png" />
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<image src="fuvest/2020/fase01/q08d_1.png" />
-						</cell>
-						<cell>
-							<image src="fuvest/2020/fase01/q08d_2.png" />
-						</cell>
-					</option>
-					<option label="E" is_correct="false">
-						<cell>
-							<image src="fuvest/2020/fase01/q08e_1.png" />
-						</cell>
-						<cell>
-							<image src="fuvest/2020/fase01/q08e_2.png" />
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<header>
+					<cell>
+						<image src="fuvest/2020/fase01/q08_1.png" />
+					</cell>
+					<cell>
+						<image src="fuvest/2020/fase01/q08_2.png" />
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<image src="fuvest/2020/fase01/q08a_1.png" />
+					</cell>
+					<cell>
+						<image src="fuvest/2020/fase01/q08a_2.png" />
+					</cell>
+				</option>
+				<option label="B" is_correct="true">
+					<cell>
+						<image src="fuvest/2020/fase01/q08b_1.png" />
+					</cell>
+					<cell>
+						<image src="fuvest/2020/fase01/q08b_2.png" />
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<image src="fuvest/2020/fase01/q08c_1.png" />
+					</cell>
+					<cell>
+						<image src="fuvest/2020/fase01/q08c_2.png" />
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<image src="fuvest/2020/fase01/q08d_1.png" />
+					</cell>
+					<cell>
+						<image src="fuvest/2020/fase01/q08d_2.png" />
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<image src="fuvest/2020/fase01/q08e_1.png" />
+					</cell>
+					<cell>
+						<image src="fuvest/2020/fase01/q08e_2.png" />
+					</cell>
+				</option>
+			</options_table>
 			<assumptions>
 				<p>Massas atômicas: H = 1 u.m.a., C = 12 u.m.a., F = 19 u.m.a. e Cl = 35 u.m.a. </p>
 				<p>Considere que apenas o isótopo de cloro Cl = 35 u.m.a. participa da reação.</p>
@@ -983,17 +981,19 @@
 			<statement>
 				<verse>
 					<title>Harlem</title>
-					<p>What happens to a dream deferred?</p>
-					<p>Does it dry up</p>
-					<p>like a raisin in the sun?</p>
-					<p>Or fester like a sore—</p>
-					<p>And then run?</p>
-					<p>Does it stink like rotten meat?</p>
-					<p>Or crust and sugar over—</p>
-					<p>like a syrupy sweet?</p>
-					<p>Maybe it just sags</p>
-					<p>like a heavy load.</p>
-					<p>Or does it explode?</p>
+					<stanza>
+						<l>What happens to a dream deferred?</l>
+						<l>Does it dry up</l>
+						<l>like a raisin in the sun?</l>
+						<l>Or fester like a sore—</l>
+						<l>And then run?</l>
+						<l>Does it stink like rotten meat?</l>
+						<l>Or crust and sugar over—</l>
+						<l>like a syrupy sweet?</l>
+						<l>Maybe it just sags</l>
+						<l>like a heavy load.</l>
+						<l>Or does it explode?</l>
+					</stanza>
 				</verse>
 				<cite>Langston Hughes, Selected Poems of Langston Hughes (1990). Disponível em http://www.poetryfoundation.org/.</cite>
 				<p>As tentativas de resposta do poeta à pergunta "What happens to a dream deferred?" evocam imagens de</p>
@@ -1033,36 +1033,38 @@
 			</quote>
 			<cite>Graciliano Ramos, Memórias do Cárcere, em nota a respeito de seu livro Angústia.</cite>
 			<verse>
-				<p>(...)</p>
-				<p>Cantiga de enganar</p>
-				<p>O mundo não tem sentido.</p>
-				<p>O mundo e suas canções</p>
-				<p>de timbre mais comovido</p>
-				<p>estão calados, e a fala</p>
-				<p>que de uma para outra sala</p>
-				<p>ouvimos em certo instante</p>
-				<p>é silêncio que faz eco</p>
-				<p>e que volta a ser silêncio</p>
-				<p>no negrume circundante.</p>
-				<p>Silêncio: que quer dizer?</p>
-				<p>Que diz a boca do mundo?</p>
-				<p>Meu bem, o mundo é fechado,</p>
-				<p>se não for antes vazio.</p>
-				<p>O mundo é talvez: e é só.</p>
-				<p>Talvez nem seja talvez.</p>
-				<p>O mundo não vale a pena,</p>
-				<p>mas a pena não existe.</p>
-				<p>Meu bem, façamos de conta.</p>
-				<p>De sofrer e de olvidar,</p>
-				<p>de lembrar e de fruir,</p>
-				<p>de escolher nossas lembranças</p>
-				<p>e revertê-las, acaso</p>
-				<p>se lembrem demais em nós.</p>
-				<p>Façamos, meu bem, de conta</p>
-				<p>- mas a conta não existe -</p>
-				<p>que é tudo como se fosse,</p>
-				<p>ou que, se fora, não era.</p>
-				<p>(...)</p>
+				<stanza>
+					<l>(...)</l>
+					<l>Cantiga de enganar</l>
+					<l>O mundo não tem sentido.</l>
+					<l>O mundo e suas canções</l>
+					<l>de timbre mais comovido</l>
+					<l>estão calados, e a fala</l>
+					<l>que de uma para outra sala</l>
+					<l>ouvimos em certo instante</l>
+					<l>é silêncio que faz eco</l>
+					<l>e que volta a ser silêncio</l>
+					<l>no negrume circundante.</l>
+					<l>Silêncio: que quer dizer?</l>
+					<l>Que diz a boca do mundo?</l>
+					<l>Meu bem, o mundo é fechado,</l>
+					<l>se não for antes vazio.</l>
+					<l>O mundo é talvez: e é só.</l>
+					<l>Talvez nem seja talvez.</l>
+					<l>O mundo não vale a pena,</l>
+					<l>mas a pena não existe.</l>
+					<l>Meu bem, façamos de conta.</l>
+					<l>De sofrer e de olvidar,</l>
+					<l>de lembrar e de fruir,</l>
+					<l>de escolher nossas lembranças</l>
+					<l>e revertê-las, acaso</l>
+					<l>se lembrem demais em nós.</l>
+					<l>Façamos, meu bem, de conta</l>
+					<l>- mas a conta não existe -</l>
+					<l>que é tudo como se fosse,</l>
+					<l>ou que, se fora, não era.</l>
+					<l>(...)</l>
+				</stanza>
 			</verse>
 			<cite>Carlos Drummond de Andrade, Claro Enigma.</cite>
 		</context>
@@ -1205,18 +1207,20 @@
 		<context>
 			<verse>
 				<title>amora</title>
-				<p>a palavra amora</p>
-				<p>seria talvez menos doce</p>
-				<p>e um pouco menos vermelha</p>
-				<p>se não trouxesse em seu corpo</p>
-				<p>(como um velado esplendor)</p>
-				<p>a memória da palavra amor</p>
-				<p>a palavra amargo</p>
-				<p>seria talvez mais doce</p>
-				<p>e um pouco menos acerba</p>
-				<p>se não trouxesse em seu corpo</p>
-				<p>(como uma sombra a espreitar)</p>
-				<p>a memória da palavra amar</p>
+				<stanza>
+					<l>a palavra amora</l>
+					<l>seria talvez menos doce</l>
+					<l>e um pouco menos vermelha</l>
+					<l>se não trouxesse em seu corpo</l>
+					<l>(como um velado esplendor)</l>
+					<l>a memória da palavra amor</l>
+					<l>a palavra amargo</l>
+					<l>seria talvez mais doce</l>
+					<l>e um pouco menos acerba</l>
+					<l>se não trouxesse em seu corpo</l>
+					<l>(como uma sombra a espreitar)</l>
+					<l>a memória da palavra amar</l>
+				</stanza>
 			</verse>
 			<cite>Marco Catalão, Sob a face neutra.</cite>
 		</context>
@@ -1273,8 +1277,10 @@
 	<question_group>
 		<context>
 			<verse>
-				<p>Uma planta é perturbada na sua sesta* pelo exército que a pisa.</p>
-				<p>Mas mais frágil fica a bota.</p>
+				<stanza>
+					<l>Uma planta é perturbada na sua sesta* pelo exército que a pisa.</l>
+					<l>Mas mais frágil fica a bota.</l>
+				</stanza>
 			</verse>
 			<cite>Gonçalo M. Tavares, 1: poemas.</cite>
 			<footnote id="*">sesta: repouso após o almoço.</footnote>
@@ -1494,21 +1500,23 @@
 				<cite>Helena Morley, Minha Vida de Menina.</cite>
 				<verse>
 					<title>Perguntas</title>
-					<p>Numa incerta hora fria</p>
-					<p>perguntei ao fantasma</p>
-					<p>que força nos prendia,</p>
-					<p>ele a mim, que presumo</p>
-					<p>estar livre de tudo</p>
-					<p>eu a ele, gasoso,</p>
-					<p>(...)</p>
-					<p>No voo que desfere</p>
-					<p>silente e melancólico,</p>
-					<p>rumo da eternidade,</p>
-					<p>ele apenas responde</p>
-					<p>(se acaso é responder</p>
-					<p>a mistérios, somar-lhes</p>
-					<p>um mistério mais alto):</p>
-					<p>Amar, depois de perder.</p>
+					<stanza>
+						<l>Numa incerta hora fria</l>
+						<l>perguntei ao fantasma</l>
+						<l>que força nos prendia,</l>
+						<l>ele a mim, que presumo</l>
+						<l>estar livre de tudo</l>
+						<l>eu a ele, gasoso,</l>
+						<l>(...)</l>
+						<l>No voo que desfere</l>
+						<l>silente e melancólico,</l>
+						<l>rumo da eternidade,</l>
+						<l>ele apenas responde</l>
+						<l>(se acaso é responder</l>
+						<l>a mistérios, somar-lhes</l>
+						<l>um mistério mais alto):</l>
+						<l>Amar, depois de perder.</l>
+					</stanza>
 				</verse>
 				<cite>Carlos Drummond de Andrade, Claro Enigma.</cite>
 				<p>As perguntas da menina e do poeta versam sobre a morte. É correto afirmar que</p>
@@ -1539,42 +1547,46 @@
 			<statement>
 				<verse>
 					<title>A certa personagem desvanecida</title>
-					<p>Um soneto começo em vosso gabo*:</p>
-					<p>Contemos esta regra por primeira,</p>
-					<p>Já lá vão duas, e esta é a terceira,</p>
-					<p>Já este quartetinho está no cabo.</p>
-					<p>Na quinta torce agora a porca o rabo;</p>
-					<p>A sexta vá também desta maneira:</p>
-					<p>Na sétima entro já com grã** canseira,</p>
-					<p>E saio dos quartetos muito brabo.</p>
-					<p>Agora nos tercetos que direi?</p>
-					<p>Direi que vós, Senhor, a mim me honrais</p>
-					<p>Gabando-vos a vós, e eu fico um rei.</p>
-					<p>Nesta vida um soneto já ditei;</p>
-					<p>Se desta agora escapo, nunca mais:</p>
-					<p>Louvado seja Deus, que o acabei.</p>
+					<stanza>
+						<l>Um soneto começo em vosso gabo*:</l>
+						<l>Contemos esta regra por primeira,</l>
+						<l>Já lá vão duas, e esta é a terceira,</l>
+						<l>Já este quartetinho está no cabo.</l>
+						<l>Na quinta torce agora a porca o rabo;</l>
+						<l>A sexta vá também desta maneira:</l>
+						<l>Na sétima entro já com grã** canseira,</l>
+						<l>E saio dos quartetos muito brabo.</l>
+						<l>Agora nos tercetos que direi?</l>
+						<l>Direi que vós, Senhor, a mim me honrais</l>
+						<l>Gabando-vos a vós, e eu fico um rei.</l>
+						<l>Nesta vida um soneto já ditei;</l>
+						<l>Se desta agora escapo, nunca mais:</l>
+						<l>Louvado seja Deus, que o acabei.</l>
+					</stanza>
 				</verse>
 				<cite>Gregório de Matos</cite>
 				<footnote id="*">louvor</footnote>
 				<footnote id="**">grande</footnote>
 				<verse>
 					<title>Tipo zero</title>
-					<p>Você é um tipo que não tem tipo</p>
-					<p>Com todo tipo você se parece</p>
-					<p>E sendo um tipo que assimila tanto tipo</p>
-					<p>Passou a ser um tipo que ninguém esquece</p>
-					<p>Quando você penetra num salão</p>
-					<p>E se mistura com a multidão</p>
-					<p>Você se torna um tipo destacado</p>
-					<p>Desconfiado todo mundo fica</p>
-					<p>Que o seu tipo não se classifica</p>
-					<p>Você passa a ser um tipo desclassificado</p>
-					<p>Eu até hoje nunca vi nenhum</p>
-					<p>Tipo vulgar tão fora do comum</p>
-					<p>Que fosse um tipo tão observado</p>
-					<p>Você ficou agora convencido</p>
-					<p>Que o seu tipo já está batido</p>
-					<p>Mas o seu tipo é o tipo do tipo esgotado</p>
+					<stanza>
+						<l>Você é um tipo que não tem tipo</l>
+						<l>Com todo tipo você se parece</l>
+						<l>E sendo um tipo que assimila tanto tipo</l>
+						<l>Passou a ser um tipo que ninguém esquece</l>
+						<l>Quando você penetra num salão</l>
+						<l>E se mistura com a multidão</l>
+						<l>Você se torna um tipo destacado</l>
+						<l>Desconfiado todo mundo fica</l>
+						<l>Que o seu tipo não se classifica</l>
+						<l>Você passa a ser um tipo desclassificado</l>
+						<l>Eu até hoje nunca vi nenhum</l>
+						<l>Tipo vulgar tão fora do comum</l>
+						<l>Que fosse um tipo tão observado</l>
+						<l>Você ficou agora convencido</l>
+						<l>Que o seu tipo já está batido</l>
+						<l>Mas o seu tipo é o tipo do tipo esgotado</l>
+					</stanza>
 				</verse>
 				<cite>Noel Rosa</cite>
 				<p>O soneto de Gregório de Matos e o samba de Noel Rosa, embora distantes na forma e no tempo, aproximam-se por ironizarem</p>
@@ -1632,7 +1644,7 @@
 		</objective_question>
 
 		<objective_question number="49" success_rate="48.6">
-			<classification subject="Biology:Fungi"/>
+			<classification subject="Biology:Fungi" />
 			<statement>
 				<p>Várias espécies do gênero Candida, que pertence ao grupo de fungos unicelulares, reproduzem-se por brotamento (gemulação), espalhando-se rapidamente. No grupo dos fungos pluricelulares, a rápida colonização de novos ambientes deve-se, em grande parte, ao fato de que esse grupo possui</p>
 			</statement>
@@ -2090,18 +2102,20 @@
 			<classification subject="History:Brazil:Military Dictatorship:Redemocratization" />
 			<statement>
 				<verse>
-					<p>Depois de 20 anos na escola</p>
-					<p>Não é difícil aprender</p>
-					<p>Todas as manhas do seu jogo sujo</p>
-					<p>Não é assim que tem que ser</p>
-					<p>Vamos fazer nosso dever de casa</p>
-					<p>E aí então vocês vão ver</p>
-					<p>Suas crianças derrubando reis</p>
-					<p>Fazer comédia no cinema com as suas leis</p>
-					<p>Somos os filhos da revolução</p>
-					<p>Somos burgueses sem religião</p>
-					<p>Somos o futuro da nação</p>
-					<p>Geração Coca-Cola.</p>
+					<stanza>
+						<l>Depois de 20 anos na escola</l>
+						<l>Não é difícil aprender</l>
+						<l>Todas as manhas do seu jogo sujo</l>
+						<l>Não é assim que tem que ser</l>
+						<l>Vamos fazer nosso dever de casa</l>
+						<l>E aí então vocês vão ver</l>
+						<l>Suas crianças derrubando reis</l>
+						<l>Fazer comédia no cinema com as suas leis</l>
+						<l>Somos os filhos da revolução</l>
+						<l>Somos burgueses sem religião</l>
+						<l>Somos o futuro da nação</l>
+						<l>Geração Coca-Cola.</l>
+					</stanza>
 				</verse>
 				<cite>Dado Villa-Lobos e Renato Russo, Geração Coca-Cola, 1984.</cite>
 				<p>Esses versos</p>

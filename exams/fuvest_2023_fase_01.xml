@@ -99,24 +99,26 @@
 			<statement>
 				<verse>
 					<title>FAMÍLIA</title>
-					<p>Três meninos e duas meninas,</p>
-					<p>sendo uma ainda de colo.</p>
-					<p>A cozinheira preta, a copeira mulata,</p>
-					<p>o papagaio, o gato, o cachorro,</p>
-					<p>as galinhas gordas no palmo de horta</p>
-					<p>e a mulher que trata de tudo.</p>
-					<p>A espreguiçadeira, a cama, a gangorra,</p>
-					<p>o cigarro, o trabalho, a reza,</p>
-					<p>a goiabada na sobremesa de domingo,</p>
-					<p>o palito nos dentes contentes,</p>
-					<p>o gramofone rouco toda noite</p>
-					<p>e a mulher que trata de tudo.</p>
-					<p>O agiota, o leiteiro, o turco,</p>
-					<p>o médico uma vez por mês,</p>
-					<p>o bilhete todas as semanas</p>
-					<p>branco! mas a esperança sempre verde.</p>
-					<p>A mulher que trata de tudo</p>
-					<p>e a felicidade.</p>
+					<stanza>
+						<l>Três meninos e duas meninas,</l>
+						<l>sendo uma ainda de colo.</l>
+						<l>A cozinheira preta, a copeira mulata,</l>
+						<l>o papagaio, o gato, o cachorro,</l>
+						<l>as galinhas gordas no palmo de horta</l>
+						<l>e a mulher que trata de tudo.</l>
+						<l>A espreguiçadeira, a cama, a gangorra,</l>
+						<l>o cigarro, o trabalho, a reza,</l>
+						<l>a goiabada na sobremesa de domingo,</l>
+						<l>o palito nos dentes contentes,</l>
+						<l>o gramofone rouco toda noite</l>
+						<l>e a mulher que trata de tudo.</l>
+						<l>O agiota, o leiteiro, o turco,</l>
+						<l>o médico uma vez por mês,</l>
+						<l>o bilhete todas as semanas</l>
+						<l>branco! mas a esperança sempre verde.</l>
+						<l>A mulher que trata de tudo</l>
+						<l>e a felicidade.</l>
+					</stanza>
 				</verse>
 				<cite>Carlos Drummond de Andrade. Alguma poesia.</cite>
 				<p>No poema de Drummond,</p>
@@ -384,19 +386,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>T</m></p>
+					<p>
+						<m>T</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>3T/2</m></p>
+					<p>
+						<m>3T/2</m>
+					</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p><m>2T</m></p>
+					<p>
+						<m>2T</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>5T/2</m></p>
+					<p>
+						<m>5T/2</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>4T</m></p>
+					<p>
+						<m>4T</m>
+					</p>
 				</option>
 			</options>
 			<assumptions>
@@ -608,27 +620,43 @@
 			<statement>
 				<p>Em uma feira de produtos orgânicos é vendido arroz a granel. A gerente da feira decidiu oferecer descontos progressivos na venda de arroz, de acordo com os seguintes critérios:</p>
 				<list>
-					<item><p>Quem comprar exatamente 1~kg de arroz paga R$ 5,00.</p></item>
-					<item><p>Quanto maior for a quantidade que o cliente comprar, maior será o total a pagar.</p></item>
-					<item><p>Quanto maior for a quantidade que o cliente comprar, menor será o valor por quilo.</p></item>
+					<item>
+						<p>Quem comprar exatamente 1~kg de arroz paga R$ 5,00.</p>
+					</item>
+					<item>
+						<p>Quanto maior for a quantidade que o cliente comprar, maior será o total a pagar.</p>
+					</item>
+					<item>
+						<p>Quanto maior for a quantidade que o cliente comprar, menor será o valor por quilo.</p>
+					</item>
 				</list>
 				<p>Cada uma das alternativas listadas apresenta uma possível fórmula para o total que o cliente irá pagar, em reais, se comprar uma quantidade <m>x</m>, em quilos, de arroz. A única alternativa que atende aos critérios estabelecidos é:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>5x^{2}</m></p>
+					<p>
+						<m>5x^{2}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p><m>5\sqrt{x}</m></p>
+					<p>
+						<m>5\sqrt{x}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>\frac{5}{x}</m></p>
+					<p>
+						<m>\frac{5}{x}</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>5x</m></p>
+					<p>
+						<m>5x</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>5x-x^{2}</m></p>
+					<p>
+						<m>5x-x^{2}</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -720,7 +748,9 @@
 			<statement>
 				<p>Combustíveis fósseis, como o diesel, contém em sua composição uma fração de enxofre. Durante o processo de combustão, o enxofre é convertido em <c>SO2</c> tornando-se um poluente ambiental. Em postos de combustível, normalmente são comercializados dois tipos de diesel, o Diesel S10 e o Diesel S500. O primeiro contém 10 ppm de enxofre, e o segundo, 500 ppm de enxofre.</p>
 				<p>Considere que na combustão do diesel, todo enxofre seja convertido em <c>SO2</c> conforme reação a seguir:</p>
-				<p><c>S(s)+O_{2}(g)\rightarrow SO_{2}(g)</c></p>
+				<p>
+					<c>S(s)+O_{2}(g)\rightarrow SO_{2}(g)</c>
+				</p>
 				<p>Nesse caso, a diferença de massa de $SO_{2}$ emitido para a atmosfera por kg de diesel quando cada um dos dois tipos é queimado é de</p>
 			</statement>
 			<options>
@@ -879,50 +909,48 @@
 				<p>Com base na variação no número de folhas, essa planta é característica de clima I e tal variação está relacionada a II.</p>
 				<p>As lacunas I e II são corretamente preenchidas por:</p>
 			</statement>
-			<options>
-				<table>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>tropical</p>
-						</cell>
-						<cell>
-							<p>temperaturas mínimas altas e muita chuva nos meses mais frios</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<p>temperado</p>
-						</cell>
-						<cell>
-							<p>temperaturas mínimas baixas e pouca chuva nos meses mais quentes</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>tropical</p>
-						</cell>
-						<cell>
-							<p>temperaturas mínimas altas e pouca chuva nos meses mais quentes</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="true">
-						<cell>
-							<p>temperado</p>
-						</cell>
-						<cell>
-							<p>temperaturas mínimas baixas e pouca chuva nos meses mais frios</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="false">
-						<cell>
-							<p>equatorial</p>
-						</cell>
-						<cell>
-							<p>temperaturas mínimas baixas e muita chuva nos meses mais quentes</p>
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>tropical</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas altas e muita chuva nos meses mais frios</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>temperado</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas baixas e pouca chuva nos meses mais quentes</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>tropical</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas altas e pouca chuva nos meses mais quentes</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="true">
+					<cell>
+						<p>temperado</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas baixas e pouca chuva nos meses mais frios</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<p>equatorial</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas baixas e muita chuva nos meses mais quentes</p>
+					</cell>
+				</option>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -971,19 +999,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><q>-1910. Minto, 1911. 1911, Manuel?</q></p>
+					<p>
+						<q>-1910. Minto, 1911. 1911, Manuel?</q>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><q>Os galos marcavam o tempo, importunavam mais que os relógios.</q></p>
+					<p>
+						<q>Os galos marcavam o tempo, importunavam mais que os relógios.</q>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><q>Julião Tavares ia afastar-se, dissipar-se, virar neblina.</q></p>
+					<p>
+						<q>Julião Tavares ia afastar-se, dissipar-se, virar neblina.</q>
+					</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p><q>Mas no tempo não havia horas.</q></p>
+					<p>
+						<q>Mas no tempo não havia horas.</q>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><q>O espírito de Deus boiava sobre as águas.</q></p>
+					<p>
+						<q>O espírito de Deus boiava sobre as águas.</q>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1026,7 +1064,9 @@
 			<p>Not knowing the language of the lyrics, it seems, doesn't stop people from liking-and sometimes even singing along to a song.</p>
 			<p>Unless the listener is looking up the dictionary meaning of the lyrics, then the dictionary meaning of the lyrics doesn't make or break their appreciation of a song.</p>
 			<p>But why?</p>
-			<p><q>It's a complicated answer,</q> said musicologist Lisa Decenteceo, adding that it all starts with what's called <q>sound symbolism.</q></p>
+			<p>
+				<q>It's a complicated answer,</q> said musicologist Lisa Decenteceo, adding that it all starts with what's called <q>sound symbolism.</q>
+			</p>
 			<p>Sound symbolism refers to the study of the relationships between utterances and their meaning. This doesn't have to do only with music. Marketers, for example, can tune into sound symbolism as part of their strategy in coming up with appealing brand names.</p>
 			<p>In music as well as in branding, Decenteceo explained, there's something about the appeal of words as sounds, beyond their meaning in a language.</p>
 			<p>While things like culture and personal experiences affect people's responses to different kinds of music, she explained there are certain musical techniques that are generally used to convey certain moods.</p>
@@ -1178,12 +1218,14 @@
 			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
 			<statement>
 				<verse>
-					<p>Presentemente eu posso me considerar um sujeito de sorte</p>
-					<p>Porque apesar de muito moço, me sinto são e salvo e forte</p>
-					<p>E tenho comigo pensado, Deus é brasileiro e anda do meu lado</p>
-					<p>E assim já não posso sofrer no ano passado</p>
-					<p>Tenho sangrado demais, tenho chorado pra cachorro</p>
-					<p>Ano passado eu morri, mas esse ano eu não morro</p>
+					<stanza>
+						<l>Presentemente eu posso me considerar um sujeito de sorte</l>
+						<l>Porque apesar de muito moço, me sinto são e salvo e forte</l>
+						<l>E tenho comigo pensado, Deus é brasileiro e anda do meu lado</l>
+						<l>E assim já não posso sofrer no ano passado</l>
+						<l>Tenho sangrado demais, tenho chorado pra cachorro</l>
+						<l>Ano passado eu morri, mas esse ano eu não morro</l>
+					</stanza>
 				</verse>
 				<cite>Belchior. <q>Sujeito de sorte</q>.</cite>
 				<p>Leia as seguintes afirmações a respeito da letra da música:</p>
@@ -1216,31 +1258,33 @@
 		<context>
 			<verse>
 				<title>O QUINTO IMPÉRIO</title>
-				<p>Triste de quem vive em casa,</p>
-				<p>Contente com o seu lar,</p>
-				<p>Sem que um sonho, no erguer de asa,</p>
-				<p>Faça até mais rubra a brasa</p>
-				<p>Da lareira a abandonar!</p>
-				<p>Triste de quem é feliz!</p>
-				<p>Vive porque a vida dura.</p>
-				<p>Nada na alma lhe diz</p>
-				<p>Mais que a lição da raiz —</p>
-				<p>Ter por vida a sepultura.</p>
-				<p>Eras sobre eras se somem</p>
-				<p>No tempo que em eras vem.</p>
-				<p>Ser descontente é ser homem.</p>
-				<p>Que as forças cegas se domem</p>
-				<p>Pela visão que a alma tem!</p>
-				<p>E assim, passados os quatro</p>
-				<p>Tempos do ser que sonhou,</p>
-				<p>A terra será teatro</p>
-				<p>Do dia claro, que no atro</p>
-				<p>Da erma noite começou.</p>
-				<p>Grécia, Roma, Cristandade,</p>
-				<p>Europa — os quatro se vão</p>
-				<p>Para onde vai toda idade.</p>
-				<p>Quem vem viver a verdade</p>
-				<p>Que morreu D. Sebastião?</p>
+				<stanza>
+					<l>Triste de quem vive em casa,</l>
+					<l>Contente com o seu lar,</l>
+					<l>Sem que um sonho, no erguer de asa,</l>
+					<l>Faça até mais rubra a brasa</l>
+					<l>Da lareira a abandonar!</l>
+					<l>Triste de quem é feliz!</l>
+					<l>Vive porque a vida dura.</l>
+					<l>Nada na alma lhe diz</l>
+					<l>Mais que a lição da raiz —</l>
+					<l>Ter por vida a sepultura.</l>
+					<l>Eras sobre eras se somem</l>
+					<l>No tempo que em eras vem.</l>
+					<l>Ser descontente é ser homem.</l>
+					<l>Que as forças cegas se domem</l>
+					<l>Pela visão que a alma tem!</l>
+					<l>E assim, passados os quatro</l>
+					<l>Tempos do ser que sonhou,</l>
+					<l>A terra será teatro</l>
+					<l>Do dia claro, que no atro</l>
+					<l>Da erma noite começou.</l>
+					<l>Grécia, Roma, Cristandade,</l>
+					<l>Europa — os quatro se vão</l>
+					<l>Para onde vai toda idade.</l>
+					<l>Quem vem viver a verdade</l>
+					<l>Que morreu D. Sebastião?</l>
+				</stanza>
 			</verse>
 			<cite>Fernando Pessoa. Mensagem.</cite>
 		</context>
@@ -1433,15 +1477,17 @@
 			<classification subject="History:Brazil:Old Republic" />
 			<statement>
 				<verse>
-					<p>Migna terra tê parmeras</p>
-					<p>Che ganta inzima o sabiá.</p>
-					<p>As aves che stó aquí,</p>
-					<p>Tambê tuttos sabi gorgeá.</p>
-					<p>(...)</p>
-					<p>Os rio lá số maise grandi</p>
-					<p>Dus rio di tuttas naçó;</p>
-					<p>I os matto si perdi di vista,</p>
-					<p>Nu meio da imensidó.</p>
+					<stanza>
+						<l>Migna terra tê parmeras</l>
+						<l>Che ganta inzima o sabiá.</l>
+						<l>As aves che stó aquí,</l>
+						<l>Tambê tuttos sabi gorgeá.</l>
+						<l>(...)</l>
+						<l>Os rio lá số maise grandi</l>
+						<l>Dus rio di tuttas naçó;</l>
+						<l>I os matto si perdi di vista,</l>
+						<l>Nu meio da imensidó.</l>
+					</stanza>
 				</verse>
 				<cite>BANANERE, Juó. <q>Migna terra</q>. La Divina Increnca. São Paulo: Irmãos Marrano Editora, 1924.</cite>
 				<p>Assinale a alternativa que melhor expressa as relações entre o poema e a inserção social de imigrantes italianos no Brasil.</p>
@@ -1566,7 +1612,8 @@
 			<statement>
 				<image src="fuvest/2023/fase01/q48_1.png" />
 				<cite>Fotografia do Comício da Central do Brasil, 13 de março de 1964 (sem autoria).</cite>
-				<cite><q>Comício da Central do Brasil. Declarações do presidente João Goulart incomodaram a direita e os militares</q>. Folha de S. Paulo/uol/27 nov. 2013.</cite>
+				<cite>
+					<q>Comício da Central do Brasil. Declarações do presidente João Goulart incomodaram a direita e os militares</q>. Folha de S. Paulo/uol/27 nov. 2013.</cite>
 				<image src="fuvest/2023/fase01/q48_1.png" />
 				<cite>SCHWARCZ, Lilia e STARLING, Heloisa. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015.</cite>
 				<image src="fuvest/2023/fase01/q48_2.png" />
@@ -2167,7 +2214,6 @@
 				<image src="fuvest/2023/fase01/q67.png" />
 				<p>Considere que o termistor se rompa quando percorrido por uma corrente maior do que 10~mA.</p>
 				<p>Supondo que o termistor seja conectado a uma bateria de 5~V, assinale a alternativa que contém uma faixa de temperaturas em que o dispositivo sempre funcionará adequadamente:</p>
-				
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2186,7 +2232,10 @@
 					<p>$50^{\circ}C&lt;T&lt;75^{\circ}C$</p>
 				</option>
 			</options>
-			<assumptions><p>A relação entre a resistência <m>R</m> de um dispositivo, a corrente <m>I</m> que o percorre e a diferença de potencial elétrico <m>V</m> entre seus terminais é <m>V=RI</m></p></assumptions>
+			<assumptions>
+				<p>A relação entre a resistência <m>R</m> de um dispositivo, a corrente <m>I</m> que o percorre e a diferença de potencial elétrico <m>V</m> entre seus terminais é <m>V=RI</m>
+				</p>
+			</assumptions>
 		</objective_question>
 	</question_group>
 
@@ -2287,19 +2336,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p>Próton; <m>\Delta H&lt;0</m></p>
+					<p>Próton; <m>\Delta H&lt;0</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>Próton; <m>\Delta H&gt;0</m></p>
+					<p>Próton; <m>\Delta H&gt;0</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Nêutron; <m>\Delta H&lt;0</m></p>
+					<p>Nêutron; <m>\Delta H&lt;0</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>Nêutron; <m>\Delta H&gt;0</m></p>
+					<p>Nêutron; <m>\Delta H&gt;0</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Elétron; <m>\Delta H&lt;0</m></p>
+					<p>Elétron; <m>\Delta H&lt;0</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2340,7 +2394,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="73"  success_rate="32.9">
+		<objective_question number="73" success_rate="32.9">
 			<classification subject="Physics:Optics:GeometricOptics" />
 			<statement>
 				<p>A figura ilustra de maneira simplificada o fenômeno da dispersão da luz branca ao incidir sobre um prisma de vidro a partir do ar, mostrando apenas raios refratados correspondentes a três cores diferentes.</p>
@@ -2348,32 +2402,55 @@
 				<p>Um fenômeno análogo é responsável pelo aparecimento do arco-íris após uma chuva.</p>
 				<p>Na base do fenômeno da dispersão está a refração de raios luminosos quando incidem sobre uma interface que separa dois meios físicos distintos. </p>
 				<p>A descrição matemática da refração é feita pela lei de Snell, conforme apresentada a seguir:</p>
-				<p><m>n_{i,\lambda}sen\theta_{i}=n_{r,\lambda}sen\theta_{r}</m>]</p>
+				<p>
+					<m>n_{i,\lambda}sen\theta_{i}=n_{r,\lambda}sen\theta_{r}</m>]</p>
 				<p>em que:</p>
 				<list>
-					<item><p><m>n_{i,\lambda}</m> é o índice de refração da luz de comprimento de onda <m>λ</m> no meio incidente,</p></item>
-					<item><p><m>\theta_{i}</m> é o ângulo que o raio incidente faz com a reta normal à interface,</p></item>
-					<item><p><m>n_{r,\lambda}</m> o índice de refração da mesma luz no meio refratado e </p></item>
-					<item><p><m>\theta_{r}</m> é o ângulo que o raio refratado faz com a reta normal à interface.</p></item>
+					<item>
+						<p>
+							<m>n_{i,\lambda}</m> é o índice de refração da luz de comprimento de onda <m>λ</m> no meio incidente,</p>
+					</item>
+					<item>
+						<p>
+							<m>\theta_{i}</m> é o ângulo que o raio incidente faz com a reta normal à interface,</p>
+					</item>
+					<item>
+						<p>
+							<m>n_{r,\lambda}</m> o índice de refração da mesma luz no meio refratado e </p>
+					</item>
+					<item>
+						<p>
+							<m>\theta_{r}</m> é o ângulo que o raio refratado faz com a reta normal à interface.</p>
+					</item>
 				</list>
 				<p>O índice de refração do ar pode ser tomado como igual a 1 para qualquer comprimento de onda. </p>
 				<p>Com base nessas informações, a relação correta entre os índices de refração dos raios das cores 1 $(n_{1})$, 2 $(n_{2})$ e 3 $(n_{3})$ no vidro é dada por: </p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>n_{1}=n_{2}=n_{3}&gt;1</m></p>
+					<p>
+						<m>n_{1}=n_{2}=n_{3}&gt;1</m>
+					</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p><m>n_{1}&gt;n_{2}&gt;n_{3}&gt;1</m></p>
+					<p>
+						<m>n_{1}&gt;n_{2}&gt;n_{3}&gt;1</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>1&lt;n_{1}&lt;n_{2}&lt;n_{3}</m></p>
+					<p>
+						<m>1&lt;n_{1}&lt;n_{2}&lt;n_{3}</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>n_{1}&lt;n_{2}&lt;n_{3}&lt;1</m></p>
+					<p>
+						<m>n_{1}&lt;n_{2}&lt;n_{3}&lt;1</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>1&gt;n_{1}&gt;n_{2}&gt;n_{3}</m></p>
+					<p>
+						<m>1&gt;n_{1}&gt;n_{2}&gt;n_{3}</m>
+					</p>
 				</option>
 			</options>
 			<assumptions>
@@ -2381,7 +2458,7 @@
 			</assumptions>
 		</objective_question>
 
-		<objective_question number="74"  success_rate="64.8">
+		<objective_question number="74" success_rate="64.8">
 			<classification subject="Chemistry:Inorganic:Acids and Bases" />
 			<statement>
 				<p>A obra <q>Rosa e Azul</q>, também conhecida como "As Meninas Cahen d'Anvers", é uma pintura a óleo de Pierre-Auguste Renoir. </p>
@@ -2391,61 +2468,59 @@
 				<image src="fuvest/2023/fase01/q74_2.png" />
 				<p>Com base no exposto, qual das alternativas apresenta compostos ou produtos que poderiam ser usados para preparar uma <q>tinta</q> rosa/vermelha e uma azul/verde empregando o extrato de repolho roxo? </p>
 			</statement>
-			<options>
-				<table>
-					<header>
-						<cell>
-							<p>Rosa/Vermelha</p>
-						</cell>
-						<cell>
-							<p>Azul/Verde</p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>Açúcar</p>
-						</cell>
-						<cell>
-							<p>Sal de cozinha</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<p>Sal de cozinha</p>
-						</cell>
-						<cell>
-							<p>Bicarbonato de sódio</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>Bicarbonato de sódio</p>
-						</cell>
-						<cell>
-							<p>Vinagre</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<p>Açúcar</p>
-						</cell>
-						<cell>
-							<p>Soda cáustica</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="true">
-						<cell>
-							<p>Suco de limão</p>
-						</cell>
-						<cell>
-							<p>Bicarbonato de sódio</p>
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<header>
+					<cell>
+						<p>Rosa/Vermelha</p>
+					</cell>
+					<cell>
+						<p>Azul/Verde</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>Açúcar</p>
+					</cell>
+					<cell>
+						<p>Sal de cozinha</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>Sal de cozinha</p>
+					</cell>
+					<cell>
+						<p>Bicarbonato de sódio</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>Bicarbonato de sódio</p>
+					</cell>
+					<cell>
+						<p>Vinagre</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<p>Açúcar</p>
+					</cell>
+					<cell>
+						<p>Soda cáustica</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="true">
+					<cell>
+						<p>Suco de limão</p>
+					</cell>
+					<cell>
+						<p>Bicarbonato de sódio</p>
+					</cell>
+				</option>
+			</options_table>
 		</objective_question>
 
-		<objective_question number="75"  success_rate="71.1">
+		<objective_question number="75" success_rate="71.1">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<image src="fuvest/2023/fase01/q75.png" />
@@ -2471,7 +2546,7 @@
 			</options>
 		</objective_question>
 
-		<objective_question number="76"  success_rate="64.9">
+		<objective_question number="76" success_rate="64.9">
 			<classification subject="Physics:Mechanics:Newton's Second Law" />
 			<statement>
 				<p>Os lagartos do gênero Basiliscus têm a capacidade incomum de correr sobre a água. </p>
@@ -2545,19 +2620,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>\frac{F_{W}}{F_{T}}=\frac{m_{W}R_{T}}{m_{T}R_{W}}</m></p>
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{m_{W}R_{T}}{m_{T}R_{W}}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>\frac{F_{W}}{F_{T}}=\frac{(m_{T}+m_{S})R_{W}}{m_{T}R_{T}}</m></p>
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{(m_{T}+m_{S})R_{W}}{m_{T}R_{T}}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p><m>\frac{F_{W}}{F_{T}}=\frac{m_{W}R_{W}}{m_{T}R_{T}}</m></p>
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{m_{W}R_{W}}{m_{T}R_{T}}</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>\frac{F_{W}}{F_{T}}=\frac{m_{W}(R_{W}-R_{T})}{m_{T}R_{T}}</m></p>
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{m_{W}(R_{W}-R_{T})}{m_{T}R_{T}}</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>\frac{F_{W}}{F_{T}}=\frac{m_{T}(R_{W}-R_{T})}{m_{W}R_{T}}</m></p>
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{m_{T}(R_{W}-R_{T})}{m_{W}R_{T}}</m>
+					</p>
 				</option>
 			</options>
 			<assumptions>
@@ -2566,7 +2651,7 @@
 			</assumptions>
 		</objective_question>
 
-		<objective_question number="79"  success_rate="38.1">
+		<objective_question number="79" success_rate="38.1">
 			<classification subject="Physics:Mechanics:Work and Energy" />
 			<classification subject="Physics:Thermodynamics" />
 			<statement>
@@ -2605,9 +2690,13 @@
 				<p>O processo de transporte de <c>O2</c> para a respiração pode ser entendido como um processo de equilíbrio químico entre a hemoglobina (Hb) e o <c>O2</c>. A Hb é uma proteína do sangue responsável pelo transporte do <c>O2</c> que também pode existir na forma protonada como HbH. </p>
 				<p>Dependendo da concentração de <c>CO2</c>, podem ocorrer a alcalose ou a acidose respiratória. </p>
 				<p>A ligação do oxigênio com a HbH gera a forma oxigenada (<c>HbO2</c>), como pode ser representado pela equação química simplificada: </p>
-				<p><c>HbH^{+}(aq)+O_{2}(g)\rightleftharpoons HbO_{2}(aq)+H^{+}(aq)</c></p>
+				<p>
+					<c>HbH^{+}(aq)+O_{2}(g)\rightleftharpoons HbO_{2}(aq)+H^{+}(aq)</c>
+				</p>
 				<p>O dióxido de carbono liberado na respiração pode alterar esse equilíbrio devido à formação de ácido carbônico, representado pela equação:</p>
-				<p><c>CO_{2}(g)+H_{2}O(l)\rightleftharpoons H^{+}(aq)+HCO_{3}^{-}(aq)$</c></p>
+				<p>
+					<c>CO_{2}(g)+H_{2}O(l)\rightleftharpoons H^{+}(aq)+HCO_{3}^{-}(aq)$</c>
+				</p>
 				<p>Com base nessas informações, é correto afirmar: </p>
 			</statement>
 			<options>
@@ -2615,7 +2704,8 @@
 					<p>Nos pulmões, onde a concentração de oxigênio é mais elevada, a forma de hemoglobina favorecida é a protonada. </p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>Nos tecidos humanos, onde é consumido <c>O2</c> pelo metabolismo, a forma de hemoglobina favorecida é a <c>HbO2</c> </p>
+					<p>Nos tecidos humanos, onde é consumido <c>O2</c> pelo metabolismo, a forma de hemoglobina favorecida é a <c>HbO2</c>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
 					<p>Quando uma pessoa expira mais depressa que o normal, a concentração de dióxido de carbono no seu sangue diminui e, nessas situações, a forma de hemoglobina favorecida é a forma protonada. </p>
@@ -2750,9 +2840,12 @@
 			<classification subject="Math:Algebra:Logarithmic" />
 			<statement>
 				<p>A FIFA (Federação Internacional de Futebol) implementou, em 2018, a versão mais recente do ranking das seleções. Suponha que as seleções A e B, com pontuações <m>P_A</m> e <m>P_B</m>, respectivamente, disputarão uma final de Copa do Mundo. A pontuação atualizada da seleção A após a partida será dada por</p>
-				<p><math>P'_{A} = P_{A} + 60(V_{A} - E_{A})</math>,</p>
+				<p>
+					<math>P'_{A} = P_{A} + 60(V_{A} - E_{A})</math>,</p>
 				<p>onde</p>
-				<p><math>E_{A} = \frac{10^{\frac{P_{A}-P_{B}}{600}}}{1 + 10^{\frac{P_{A}-P_{B}}{600}}}</math></p>
+				<p>
+					<math>E_{A} = \frac{10^{\frac{P_{A}-P_{B}}{600}}}{1 + 10^{\frac{P_{A}-P_{B}}{600}}}</math>
+				</p>
 				<p>e o valor de <m>V_A</m> depende do resultado da partida de acordo com a tabela:</p>
 				<table>
 					<header>
@@ -2760,7 +2853,8 @@
 							<p>Resultado da partida</p>
 						</cell>
 						<cell>
-							<p>Valor de <m>V_A</m></p>
+							<p>Valor de <m>V_A</m>
+							</p>
 						</cell>
 					</header>
 					<row>
@@ -2808,7 +2902,9 @@
 				</option>
 			</options>
 			<assumptions>
-				<p><m>\log_{10}2 = 0.3</m></p>
+				<p>
+					<m>\log_{10}2 = 0.3</m>
+				</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -2823,19 +2919,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>128\pi</m>~cm³</p>
+					<p>
+						<m>128\pi</m>~cm³</p>
 				</option>
 				<option label="B" is_correct="true">
-					<p><m>224\pi</m>~cm³</p>
+					<p>
+						<m>224\pi</m>~cm³</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>240\pi</m>~cm³</p>
+					<p>
+						<m>240\pi</m>~cm³</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>282\pi</m>~cm³</p>
+					<p>
+						<m>282\pi</m>~cm³</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>320\pi</m>~cm³</p>
+					<p>
+						<m>320\pi</m>~cm³</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2873,26 +2974,38 @@
 			<classification subject="Math:Geometry:Analytic Geometry" />
 			<statement>
 				<p>Considere a região do plano cartesiano</p>
-				<p><math>A = \{(x,y) \in \mathbb{R}^2 : |x| + |y| \le 1\}</math></p>
+				<p>
+					<math>A = \{(x,y) \in \mathbb{R}^2 : |x| + |y| \le 1\}</math>
+				</p>
 				<p>esboçada na figura.</p>
 				<image src="fuvest/2023/fase01/q89.png" />
 				<p>Dado <m>B = \{(x,y) \in \mathbb{R}^2 : (x+1)^2 + y^2 \ge 1\}</m>, a área da região <m>A ∩ B</m> é:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>2 - \frac{\pi}{4}</m></p>
+					<p>
+						<m>2 - \frac{\pi}{4}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>2 - \frac{\pi}{2}</m></p>
+					<p>
+						<m>2 - \frac{\pi}{2}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>4 + \frac{\pi}{2}</m></p>
+					<p>
+						<m>4 + \frac{\pi}{2}</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>4 - \frac{\pi}{4}</m></p>
+					<p>
+						<m>4 - \frac{\pi}{4}</m>
+					</p>
 				</option>
 				<option label="E" is_correct="true">
-					<p><m>2 + \frac{\pi}{2}</m></p>
+					<p>
+						<m>2 + \frac{\pi}{2}</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2933,7 +3046,8 @@
 			<classification subject="Math:Algebra:Logarithmic" />
 			<statement>
 				<p>No plano cartesiano, os pontos (3,2) e (5,4) pertencem ao gráfico da função dada por</p>
-				<p><math>y = \log_2(ax+b)</math>.</p>
+				<p>
+					<math>y = \log_2(ax+b)</math>.</p>
 				<p>O valor de $a+b$ é:</p>
 			</statement>
 			<options>

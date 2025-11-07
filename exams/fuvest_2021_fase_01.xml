@@ -434,65 +434,63 @@
 				<cite>José de Sousa Martins. O Poder do Atraso. Adaptado.</cite>
 				<p>Assinale a alternativa que apresenta a combinação correta entre o período a que se refere o texto e as implicações, territoriais e sociais, observadas nas áreas onde a política de incentivos fiscais entrou em operação.</p>
 			</statement>
-			<options>
-				<table>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>Brasil Império</p>
-						</cell>
-						<cell>
-							<p>Expansão dos sistemas agroflorestais e preservação da vegetação nativa</p>
-						</cell>
-						<cell>
-							<p>Aprovação do direito de sindicalização do trabalhador rural</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<p>Primeira República</p>
-						</cell>
-						<cell>
-							<p>Expansão da área voltada à pecuária e redução da Mata Atlântica</p>
-						</cell>
-						<cell>
-							<p>Aumento do número de assalariados no campo</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>Estado Novo</p>
-						</cell>
-						<cell>
-							<p>Expansão da economia extrativista e concentração fundiária</p>
-						</cell>
-						<cell>
-							<p>Eliminação dos direitos trabalhistas na cidade e no campo</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="true">
-						<cell>
-							<p>Ditadura Militar</p>
-						</cell>
-						<cell>
-							<p>Aumento da grilagem e avanço do desmatamento</p>
-						</cell>
-						<cell>
-							<p>Aumento dos conflitos violentos no campo</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="false">
-						<cell>
-							<p>Nova República</p>
-						</cell>
-						<cell>
-							<p>Aumento da área de vegetação nativa e reforma agrária massiva</p>
-						</cell>
-						<cell>
-							<p>Melhora na distribuição fundiária e dos níveis de consumo interno</p>
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>Brasil Império</p>
+					</cell>
+					<cell>
+						<p>Expansão dos sistemas agroflorestais e preservação da vegetação nativa</p>
+					</cell>
+					<cell>
+						<p>Aprovação do direito de sindicalização do trabalhador rural</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>Primeira República</p>
+					</cell>
+					<cell>
+						<p>Expansão da área voltada à pecuária e redução da Mata Atlântica</p>
+					</cell>
+					<cell>
+						<p>Aumento do número de assalariados no campo</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>Estado Novo</p>
+					</cell>
+					<cell>
+						<p>Expansão da economia extrativista e concentração fundiária</p>
+					</cell>
+					<cell>
+						<p>Eliminação dos direitos trabalhistas na cidade e no campo</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="true">
+					<cell>
+						<p>Ditadura Militar</p>
+					</cell>
+					<cell>
+						<p>Aumento da grilagem e avanço do desmatamento</p>
+					</cell>
+					<cell>
+						<p>Aumento dos conflitos violentos no campo</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<p>Nova República</p>
+					</cell>
+					<cell>
+						<p>Aumento da área de vegetação nativa e reforma agrária massiva</p>
+					</cell>
+					<cell>
+						<p>Melhora na distribuição fundiária e dos níveis de consumo interno</p>
+					</cell>
+				</option>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -829,58 +827,56 @@
 				<p>Uma variedade de milho (Milho Bt) foi modificada com a inserção de genes da bactéria Bacillus thuringiensis, que produzem proteínas Cry, tóxicas para insetos como as lagartas que atacam suas lavouras. Essas proteínas bloqueiam o trato digestório dos insetos, levando-os à morte. Em aves e mamíferos que também se alimentam de milho, as proteínas Cry são inativadas durante a digestão ácida, perdendo sua ação sobre esses animais.</p>
 				<p>A alternativa que indica corretamente um aspecto positivo e um negativo dos efeitos desta modificação genética do milho para o ser humano é:</p>
 			</statement>
-			<options>
-				<table>
-					<header>
-						<cell>
-							<p>Aspecto positivo</p>
-						</cell>
-						<cell>
-							<p>Aspecto negativo</p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>Aumento do valor nutricional do milho.</p>
-						</cell>
-						<cell>
-							<p>Possibilidade de desenvolvimento de alergia à proteína Cry em pessoas vulneráveis.</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<p>Menor tempo de maturação dos grãos.</p>
-						</cell>
-						<cell>
-							<p>Possibilidade de invasão da vegetação nativa pela planta transgênica.</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>Facilitação da polinização das plantas.</p>
-						</cell>
-						<cell>
-							<p>Risco de extinção local de aves e mamíferos insetívoros.</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<p>Economia de água pela redução da irrigação.</p>
-						</cell>
-						<cell>
-							<p>Maior exposição dos agricultores a agrotóxicos.</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="true">
-						<cell>
-							<p>Maior produtividade das lavouras de milho.</p>
-						</cell>
-						<cell>
-							<p>Possibilidade de surgimento de lagartas resistentes à proteína Cry.</p>
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<header>
+					<cell>
+						<p>Aspecto positivo</p>
+					</cell>
+					<cell>
+						<p>Aspecto negativo</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>Aumento do valor nutricional do milho.</p>
+					</cell>
+					<cell>
+						<p>Possibilidade de desenvolvimento de alergia à proteína Cry em pessoas vulneráveis.</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>Menor tempo de maturação dos grãos.</p>
+					</cell>
+					<cell>
+						<p>Possibilidade de invasão da vegetação nativa pela planta transgênica.</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>Facilitação da polinização das plantas.</p>
+					</cell>
+					<cell>
+						<p>Risco de extinção local de aves e mamíferos insetívoros.</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<p>Economia de água pela redução da irrigação.</p>
+					</cell>
+					<cell>
+						<p>Maior exposição dos agricultores a agrotóxicos.</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="true">
+					<cell>
+						<p>Maior produtividade das lavouras de milho.</p>
+					</cell>
+					<cell>
+						<p>Possibilidade de surgimento de lagartas resistentes à proteína Cry.</p>
+					</cell>
+				</option>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -892,58 +888,56 @@
 				<image width="0.8" src="fuvest/2021/fase01/q28.png" />
 				<p>A relação correta entre o padrão de herança desta forma de adrenoleucodistrofia e a probabilidade de que a criança seja afetada é:</p>
 			</statement>
-			<options>
-				<table>
-					<header>
-						<cell>
-							<p>Padrão de herança</p>
-						</cell>
-						<cell>
-							<p>Probabilidade de ser afetada</p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>Ligado ao X recessivo</p>
-						</cell>
-						<cell>
-							<p>50% caso seja menino</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="true">
-						<cell>
-							<p>Ligado ao X recessivo</p>
-						</cell>
-						<cell>
-							<p>25% caso seja menino</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>Ligado ao Y</p>
-						</cell>
-						<cell>
-							<p>100% caso seja menino</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<p>Autossômico recessivo</p>
-						</cell>
-						<cell>
-							<p>75% em qualquer caso</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="false">
-						<cell>
-							<p>Autossômico recessivo</p>
-						</cell>
-						<cell>
-							<p>12,5% em qualquer caso</p>
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<header>
+					<cell>
+						<p>Padrão de herança</p>
+					</cell>
+					<cell>
+						<p>Probabilidade de ser afetada</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>Ligado ao X recessivo</p>
+					</cell>
+					<cell>
+						<p>50% caso seja menino</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="true">
+					<cell>
+						<p>Ligado ao X recessivo</p>
+					</cell>
+					<cell>
+						<p>25% caso seja menino</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>Ligado ao Y</p>
+					</cell>
+					<cell>
+						<p>100% caso seja menino</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<p>Autossômico recessivo</p>
+					</cell>
+					<cell>
+						<p>75% em qualquer caso</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<p>Autossômico recessivo</p>
+					</cell>
+					<cell>
+						<p>12,5% em qualquer caso</p>
+					</cell>
+				</option>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -1082,94 +1076,92 @@
 			<statement>
 				<p>No que diz respeito a infecções sexualmente transmissíveis (ISTs), identifique a relação correta entre grupo causador, um dos seus sintomas e se possui ou não vacina preventiva.</p>
 			</statement>
-			<options>
-				<table>
-					<header>
-						<cell>
-							<p>IST</p>
-						</cell>
-						<cell>
-							<p>Causador</p>
-						</cell>
-						<cell>
-							<p>Um dos possíveis sintomas</p>
-						</cell>
-						<cell>
-							<p>Possui vacina?</p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>Gonorreia</p>
-						</cell>
-						<cell>
-							<p>Neisseria gonorrhoeae (bactéria)</p>
-						</cell>
-						<cell>
-							<p>Ardor na uretra e secreção purulenta</p>
-						</cell>
-						<cell>
-							<p>Sim</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<p>Hepatite C</p>
-						</cell>
-						<cell>
-							<p>HCV (bactéria)</p>
-						</cell>
-						<cell>
-							<p>Comprometimento da função do fígado</p>
-						</cell>
-						<cell>
-							<p>Não</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>AIDS</p>
-						</cell>
-						<cell>
-							<p>HIV (virus)</p>
-						</cell>
-						<cell>
-							<p>Erupção cutânea</p>
-						</cell>
-						<cell>
-							<p>Sim</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<p>Sífilis</p>
-						</cell>
-						<cell>
-							<p>Treponema pallidum (verme)</p>
-						</cell>
-						<cell>
-							<p>Ferida na genitália externa (cancro)</p>
-						</cell>
-						<cell>
-							<p>Não</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="true">
-						<cell>
-							<p>Condiloma acuminado (crista de galo)</p>
-						</cell>
-						<cell>
-							<p>HPV (virus)</p>
-						</cell>
-						<cell>
-							<p>Verrugas na região genital</p>
-						</cell>
-						<cell>
-							<p>Sim</p>
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<header>
+					<cell>
+						<p>IST</p>
+					</cell>
+					<cell>
+						<p>Causador</p>
+					</cell>
+					<cell>
+						<p>Um dos possíveis sintomas</p>
+					</cell>
+					<cell>
+						<p>Possui vacina?</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>Gonorreia</p>
+					</cell>
+					<cell>
+						<p>Neisseria gonorrhoeae (bactéria)</p>
+					</cell>
+					<cell>
+						<p>Ardor na uretra e secreção purulenta</p>
+					</cell>
+					<cell>
+						<p>Sim</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>Hepatite C</p>
+					</cell>
+					<cell>
+						<p>HCV (bactéria)</p>
+					</cell>
+					<cell>
+						<p>Comprometimento da função do fígado</p>
+					</cell>
+					<cell>
+						<p>Não</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>AIDS</p>
+					</cell>
+					<cell>
+						<p>HIV (virus)</p>
+					</cell>
+					<cell>
+						<p>Erupção cutânea</p>
+					</cell>
+					<cell>
+						<p>Sim</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<p>Sífilis</p>
+					</cell>
+					<cell>
+						<p>Treponema pallidum (verme)</p>
+					</cell>
+					<cell>
+						<p>Ferida na genitália externa (cancro)</p>
+					</cell>
+					<cell>
+						<p>Não</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="true">
+					<cell>
+						<p>Condiloma acuminado (crista de galo)</p>
+					</cell>
+					<cell>
+						<p>HPV (virus)</p>
+					</cell>
+					<cell>
+						<p>Verrugas na região genital</p>
+					</cell>
+					<cell>
+						<p>Sim</p>
+					</cell>
+				</option>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -1179,14 +1171,16 @@
 			<statement>
 				<verse>
 					<title>Canto V Estância 81</title>
-					<p>E foi que, de doença crua e feia,</p>
-					<p>A mais que eu nunca vi, desampararam</p>
-					<p>Muitos a vida, e em terra estranha e alheia</p>
-					<p>Os ossos para sempre sepultaram.</p>
-					<p>Quem haverá que, sem ver, o creia?</p>
-					<p>Que tão disformemente ali lhe incharam</p>
-					<p>As gengivas na boca, que crescia</p>
-					<p>A carne e juntamente apodrecia?</p>
+					<stanza>
+						<l>E foi que, de doença crua e feia,</l>
+						<l>A mais que eu nunca vi, desampararam</l>
+						<l>Muitos a vida, e em terra estranha e alheia</l>
+						<l>Os ossos para sempre sepultaram.</l>
+						<l>Quem haverá que, sem ver, o creia?</l>
+						<l>Que tão disformemente ali lhe incharam</l>
+						<l>As gengivas na boca, que crescia</l>
+						<l>A carne e juntamente apodrecia?</l>
+					</stanza>
 				</verse>
 				<cite>Luis Vaz de Camões, Os Lusíadas.</cite>
 				<p>É correto afirmar que Camões, neste trecho, descreveu sintomas de</p>
@@ -2018,28 +2012,30 @@
 			<classification subject="English:Reading Comprehension" />
 			<statement>
 				<verse>
-					<p>I ain't gonna work on Maggie's farm no more</p>
-					<p>I ain't gonna work on Maggie's farm no more</p>
-					<p>Well, I wake up in the morning</p>
-					<p>Fold my hands and pray for rain</p>
-					<p>I got a head full of ideas</p>
-					<p>That are drivin' me insane</p>
-					<p>It's a shame the way she makes me scrub the floor</p>
-					<p>I ain't gonna work on Maggie's farm no more</p>
-					<p>I ain't gonna work for Maggie's brother no more</p>
-					<p>I ain't gonna work for Maggie's brother no more</p>
-					<p>Well, he hands you a nickel</p>
-					<p>He hands you a dime</p>
-					<p>He asks you with a grin</p>
-					<p>If you're havin' a good time</p>
-					<p>Then he fines you every time you slam the door</p>
-					<p>I ain't gonna work for Maggie's brother no more</p>
-					<p>I ain't gonna work for Maggie's pa no more</p>
-					<p>No, I ain't gonna work for Maggie's pa no more</p>
-					<p>Well, he puts his cigar out in your face just for kicks</p>
-					<p>His bedroom window it is made out of bricks</p>
-					<p>The National Guard stands around his door</p>
-					<p>Ah, I ain't gonna work for Maggie's pa no more, alright</p>
+					<stanza>
+						<l>I ain't gonna work on Maggie's farm no more</l>
+						<l>I ain't gonna work on Maggie's farm no more</l>
+						<l>Well, I wake up in the morning</l>
+						<l>Fold my hands and pray for rain</l>
+						<l>I got a head full of ideas</l>
+						<l>That are drivin' me insane</l>
+						<l>It's a shame the way she makes me scrub the floor</l>
+						<l>I ain't gonna work on Maggie's farm no more</l>
+						<l>I ain't gonna work for Maggie's brother no more</l>
+						<l>I ain't gonna work for Maggie's brother no more</l>
+						<l>Well, he hands you a nickel</l>
+						<l>He hands you a dime</l>
+						<l>He asks you with a grin</l>
+						<l>If you're havin' a good time</l>
+						<l>Then he fines you every time you slam the door</l>
+						<l>I ain't gonna work for Maggie's brother no more</l>
+						<l>I ain't gonna work for Maggie's pa no more</l>
+						<l>No, I ain't gonna work for Maggie's pa no more</l>
+						<l>Well, he puts his cigar out in your face just for kicks</l>
+						<l>His bedroom window it is made out of bricks</l>
+						<l>The National Guard stands around his door</l>
+						<l>Ah, I ain't gonna work for Maggie's pa no more, alright</l>
+					</stanza>
 				</verse>
 				<cite>Bob Dylan, "Maggie's Farm", do álbum Bringing it all back home, 1965.</cite>
 				<p>Nestas estrofes, o conjunto de cenas descritas mostra que a principal dificuldade experimentada pela pessoa cuja história é contada na letra da música refere-se</p>
@@ -2254,27 +2250,29 @@
 		<context>
 			<verse>
 				<title>Romance LIII ou Das Palavras Aéreas</title>
-				<p>Ai, palavras, ai, palavras,</p>
-				<p>que estranha potência, a vossa!</p>
-				<p>Ai, palavras, ai, palavras,</p>
-				<p>sois de vento, ides no vento,</p>
-				<p>no vento que não retorna,</p>
-				<p>e, em tão rápida existência,</p>
-				<p>tudo se forma e transforma!</p>
-				<p>Sois de vento, ides no vento,</p>
-				<p>e quedais, com sorte nova! (...)</p>
-				<p>Ai, palavras, ai, palavras,</p>
-				<p>que estranha potência, a vossa!</p>
-				<p>Perdão podíeis ter sido!</p>
-				<p>— sois madeira que se corta,</p>
-				<p>— sois vinte degraus de escada,</p>
-				<p>— sois um pedaço de corda...</p>
-				<p>— sois povo pelas janelas,</p>
-				<p>cortejo, bandeiras, tropa...</p>
-				<p>Ai, palavras, ai, palavras,</p>
-				<p>que estranha potência, a vossa!</p>
-				<p>Éreis um sopro na aragem...</p>
-				<p>— sois um homem que se enforca!</p>
+				<stanza>
+					<l>Ai, palavras, ai, palavras,</l>
+					<l>que estranha potência, a vossa!</l>
+					<l>Ai, palavras, ai, palavras,</l>
+					<l>sois de vento, ides no vento,</l>
+					<l>no vento que não retorna,</l>
+					<l>e, em tão rápida existência,</l>
+					<l>tudo se forma e transforma!</l>
+					<l>Sois de vento, ides no vento,</l>
+					<l>e quedais, com sorte nova! (...)</l>
+					<l>Ai, palavras, ai, palavras,</l>
+					<l>que estranha potência, a vossa!</l>
+					<l>Perdão podíeis ter sido!</l>
+					<l>— sois madeira que se corta,</l>
+					<l>— sois vinte degraus de escada,</l>
+					<l>— sois um pedaço de corda...</l>
+					<l>— sois povo pelas janelas,</l>
+					<l>cortejo, bandeiras, tropa...</l>
+					<l>Ai, palavras, ai, palavras,</l>
+					<l>que estranha potência, a vossa!</l>
+					<l>Éreis um sopro na aragem...</l>
+					<l>— sois um homem que se enforca!</l>
+				</stanza>
 			</verse>
 			<cite>Cecilia Meireles, Romanceiro da Inconfidência.</cite>
 		</context>
@@ -2334,16 +2332,18 @@
 			<statement>
 				<verse>
 					<title>Alferes, Ouro Preto em sombras</title>
-					<p>Espera pelo batizado,</p>
-					<p>Ainda que tarde sobre a morte do sonhador</p>
-					<p>Ainda que tarde sobre as bocas do traidor.</p>
-					<p>Raios de sol brilharão nos sinos:</p>
-					<p>Dez vidas dar.</p>
-					<p>Ai Marília, as liras e o amor</p>
-					<p>Não posso mais sufocar</p>
-					<p>E a minha voz irá</p>
-					<p>Pra muito além do desterro e do sal,</p>
-					<p>Maior que a voz do rei.</p>
+					<stanza>
+						<l>Espera pelo batizado,</l>
+						<l>Ainda que tarde sobre a morte do sonhador</l>
+						<l>Ainda que tarde sobre as bocas do traidor.</l>
+						<l>Raios de sol brilharão nos sinos:</l>
+						<l>Dez vidas dar.</l>
+						<l>Ai Marília, as liras e o amor</l>
+						<l>Não posso mais sufocar</l>
+						<l>E a minha voz irá</l>
+						<l>Pra muito além do desterro e do sal,</l>
+						<l>Maior que a voz do rei.</l>
+					</stanza>
 				</verse>
 				<cite>Aldir Blanc e João Bosco, trecho da canção "Alferes", de 1973.</cite>
 				<p>A imagem de Tiradentes — a quem Cecilia Meireles qualificou <q>o Alferes imortal, radiosa expressão dos mais altos sonhos desta cidade, do Brasil e do próprio mundo</q>, em palestra feita em Ouro Preto — torna a aparecer como símbolo da luta pela liberdade em vários momentos da cultura nacional. Os versos do letrista Aldir Blanc evocam, em novo contexto, o mártir sonhador para resistir ao discurso</p>
@@ -2523,20 +2523,22 @@
 			<statement>
 				<verse>
 					<title>Remissão</title>
-					<p>Tua memória, pasto de poesia,</p>
-					<p>tua poesia, pasto dos vulgares,</p>
-					<p>vão se engastando numa coisa fria</p>
-					<p>a que tu chamas: vida, e seus pesares.</p>
-					<p>Mas, pesares de quê? perguntaria,</p>
-					<p>se esse travo de angústia nos cantares,</p>
-					<p>se o que dorme na base da elegia</p>
-					<p>vai correndo e secando pelos ares,</p>
-					<p>e nada resta, mesmo, do que escreves</p>
-					<p>e te forçou ao exílio das palavras,</p>
-					<p>senão contentamento de escrever,</p>
-					<p>enquanto o tempo, e suas formas breves</p>
-					<p>ou longas, que sutil interpretavas,</p>
-					<p>se evapora no fundo do teu ser?</p>
+					<stanza>
+						<l>Tua memória, pasto de poesia,</l>
+						<l>tua poesia, pasto dos vulgares,</l>
+						<l>vão se engastando numa coisa fria</l>
+						<l>a que tu chamas: vida, e seus pesares.</l>
+						<l>Mas, pesares de quê? perguntaria,</l>
+						<l>se esse travo de angústia nos cantares,</l>
+						<l>se o que dorme na base da elegia</l>
+						<l>vai correndo e secando pelos ares,</l>
+						<l>e nada resta, mesmo, do que escreves</l>
+						<l>e te forçou ao exílio das palavras,</l>
+						<l>senão contentamento de escrever,</l>
+						<l>enquanto o tempo, e suas formas breves</l>
+						<l>ou longas, que sutil interpretavas,</l>
+						<l>se evapora no fundo do teu ser?</l>
+					</stanza>
 				</verse>
 				<cite>Carlos Drummond de Andrade, Claro enigma.</cite>
 				<p>
@@ -2595,30 +2597,32 @@
 		<context>
 			<verse>
 				<title>Psicanálise do açúcar</title>
-				<p>O açúcar cristal, ou açúcar de usina,</p>
-				<p>mostra a mais instável das brancuras:</p>
-				<p>quem do Recife sabe direito o quanto,</p>
-				<p>e o pouco desse quanto, que ela dura.</p>
-				<p>Sabe o mínimo do pouco que o cristal</p>
-				<p>se estabiliza cristal sobre o açúcar,</p>
-				<p>por cima do fundo antigo, de mascavo,</p>
-				<p>do mascavo barrento que se incuba;</p>
-				<p>e sabe que tudo pode romper o mínimo</p>
-				<p>em que o cristal é capaz de censura:</p>
-				<p>pois o tal fundo mascavo logo aflora</p>
-				<p>quer inverno ou verão mele o açúcar.</p>
-				<p>Só os banguês<ref id="1" /> que-ainda purgam ainda</p>
-				<p>o açúcar bruto com barro, de mistura;</p>
-				<p>a usina já não o purga: da infância,</p>
-				<p>não de depois de adulto, ela o educa;</p>
-				<p>em enfermarias, com vácuos e turbinas,</p>
-				<p>em mãos de metal de gente indústria,</p>
-				<p>a usina o leva a sublimar em cristal</p>
-				<p>o pardo do xarope: não o purga, cura.</p>
-				<p>Mas como a cana se cria ainda hoje,</p>
-				<p>em mãos de barro de gente agricultura,</p>
-				<p>o barrento da pré-infância logo aflora</p>
-				<p>quer inverno ou verão mele o açúcar.</p>
+				<stanza>
+					<l>O açúcar cristal, ou açúcar de usina,</l>
+					<l>mostra a mais instável das brancuras:</l>
+					<l>quem do Recife sabe direito o quanto,</l>
+					<l>e o pouco desse quanto, que ela dura.</l>
+					<l>Sabe o mínimo do pouco que o cristal</l>
+					<l>se estabiliza cristal sobre o açúcar,</l>
+					<l>por cima do fundo antigo, de mascavo,</l>
+					<l>do mascavo barrento que se incuba;</l>
+					<l>e sabe que tudo pode romper o mínimo</l>
+					<l>em que o cristal é capaz de censura:</l>
+					<l>pois o tal fundo mascavo logo aflora</l>
+					<l>quer inverno ou verão mele o açúcar.</l>
+					<l>Só os banguês<ref id="1" /> que-ainda purgam ainda</l>
+					<l>o açúcar bruto com barro, de mistura;</l>
+					<l>a usina já não o purga: da infância,</l>
+					<l>não de depois de adulto, ela o educa;</l>
+					<l>em enfermarias, com vácuos e turbinas,</l>
+					<l>em mãos de metal de gente indústria,</l>
+					<l>a usina o leva a sublimar em cristal</l>
+					<l>o pardo do xarope: não o purga, cura.</l>
+					<l>Mas como a cana se cria ainda hoje,</l>
+					<l>em mãos de barro de gente agricultura,</l>
+					<l>o barrento da pré-infância logo aflora</l>
+					<l>quer inverno ou verão mele o açúcar.</l>
+				</stanza>
 			</verse>
 			<cite>João Cabral de Melo Neto, A Educação pela Pedra.</cite>
 			<footnote id="1">banguê: engenho de açúcar primitivo movido a força animal.</footnote>
@@ -3199,72 +3203,70 @@
 				</table>
 				<p>A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é:</p>
 			</statement>
-			<options>
-				<table>
-					<header>
-						<cell />
-						<cell />
-						<cell>
-							<p>Cor final obtida no:</p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>Azul</p>
-						</cell>
-						<cell>
-							<p>Azul</p>
-						</cell>
-						<cell>
-							<p>Vermelha</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<p>Azul</p>
-						</cell>
-						<cell>
-							<p>Vermelha</p>
-						</cell>
-						<cell>
-							<p>Azul</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>Vermelha</p>
-						</cell>
-						<cell>
-							<p>Azul</p>
-						</cell>
-						<cell>
-							<p>Azul</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="true">
-						<cell>
-							<p>Vermelha</p>
-						</cell>
-						<cell>
-							<p>Vermelha</p>
-						</cell>
-						<cell>
-							<p>Azul</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="false">
-						<cell>
-							<p>Vermelha</p>
-						</cell>
-						<cell>
-							<p>Azul</p>
-						</cell>
-						<cell>
-							<p>Vermelha</p>
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<header>
+					<cell />
+					<cell />
+					<cell>
+						<p>Cor final obtida no:</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>Azul</p>
+					</cell>
+					<cell>
+						<p>Azul</p>
+					</cell>
+					<cell>
+						<p>Vermelha</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>Azul</p>
+					</cell>
+					<cell>
+						<p>Vermelha</p>
+					</cell>
+					<cell>
+						<p>Azul</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>Vermelha</p>
+					</cell>
+					<cell>
+						<p>Azul</p>
+					</cell>
+					<cell>
+						<p>Azul</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="true">
+					<cell>
+						<p>Vermelha</p>
+					</cell>
+					<cell>
+						<p>Vermelha</p>
+					</cell>
+					<cell>
+						<p>Azul</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<p>Vermelha</p>
+					</cell>
+					<cell>
+						<p>Azul</p>
+					</cell>
+					<cell>
+						<p>Vermelha</p>
+					</cell>
+				</option>
+			</options_table>
 			<assumptions>
 				<p>Solubilidade dos sais em g/100 mL de água a 20 °C</p>
 				<table>

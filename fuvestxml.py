@@ -849,7 +849,7 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def options_item_end(self) -> str:
-        return "</li>"
+        return "</li>\n"
 
     @override
     def options_table_start(self, num_cols: int) -> str:
@@ -909,11 +909,11 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def display_quote_start(self) -> str:
-        return "<blockquote>"
+        return "<blockquote>\n"
 
     @override
     def display_quote_end(self) -> str:
-        return "</blockquote>"
+        return "</blockquote>\n"
 
     @override
     def verse_start(self) -> str:
@@ -1010,7 +1010,7 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def list_item_end(self) -> str:
-        return "</li>"
+        return "</li>\n"
 
     # List
     @override
@@ -1031,7 +1031,7 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def cite(self, text: str) -> str:
-        return f'<p class="cite_par"><cite>—{text}</cite></p>\n\n'
+        return f'<p class="cite_par"><cite>—{text}</cite></p>\n'
 
     # Inlines
     @override

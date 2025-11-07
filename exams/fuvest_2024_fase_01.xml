@@ -4,24 +4,27 @@
 		<context>
 			<verse>
 				<title>Tempo de nos aquilombar</title>
-				<p>É tempo de caminhar em fingido silêncio,</p>
-				<p>e buscar o momento certo no grito,</p>
-				<p>aparentar fechar um olho evitando o cisco</p>
-				<p>e abrir escancaradamente o outro.</p>
-				<p>É tempo de fazer os ouvidos moucos</p>
-				<p>para os vazios lero-leros,</p>
-				<p>e cuidar dos passos assuntando as vias,</p>
-				<p>ir se vigiando atento, que o buraco é fundo.</p>
-				<p>É tempo de ninguém se soltar de ninguém,</p>
-				<p>mas olhar fundo na palma aberta</p>
-				<p>a alma de quem lhe oferece o gesto.</p>
-				<p>O laçar de mãos não pode ser algemas,</p>
-				<p>e sim acertada tática, necessário esquema.</p>
-				<p>É tempo de formar novos quilombos,</p>
-				<p>em qualquer lugar que estejamos</p>
-				<p>e que venham dias futuros, salve 2020</p>
-				<p>A mística quilombola persiste afirmando:</p>
-				<p>"a liberdade é uma luta constante".</p>
+				<stanza>
+					<l>É tempo de caminhar em fingido silêncio,</l>
+					<l>e buscar o momento certo no grito,</l>
+					<l>aparentar fechar um olho evitando o cisco</l>
+					<l>e abrir escancaradamente o outro.</l>
+					<l>É tempo de fazer os ouvidos moucos</l>
+					<l>para os vazios lero-leros,</l>
+					<l>e cuidar dos passos assuntando as vias,</l>
+					<l>ir se vigiando atento, que o buraco é fundo.</l>
+					<l>É tempo de ninguém se soltar de ninguém,</l>
+					<l>mas olhar fundo na palma aberta</l>
+					<l>a alma de quem lhe oferece o gesto.</l>
+					<l>O laçar de mãos não pode ser algemas,</l>
+					<l>e sim acertada tática, necessário esquema.</l>
+					<l>É tempo de formar novos quilombos,</l>
+					<l>em qualquer lugar que estejamos</l>
+					<l>e que venham dias futuros, salve 2020</l>
+					<l>A mística quilombola persiste afirmando:</l>
+					<l>
+						<q>a liberdade é uma luta constante</q>.</l>
+				</stanza>
 			</verse>
 			<cite>Conceição Evaristo. Jornal O Globo, 31/12/2019.</cite>
 		</context>
@@ -762,35 +765,33 @@
 				<p>Nas embalagens de lâmpadas de LED atuais, está indicada uma "temperatura de cor" (expressa na escala Kelvin), que corresponde à tonalidade da luz emitida pela lâmpada. A "temperatura de cor" não indica a temperatura de operação da lâmpada, servindo apenas como uma referência da cor predominante da radiação eletromagnética termicamente emitida por um corpo a essa dada temperatura. A densidade $\rho(\lambda)$ de energia eletromagnética irradiada é função do comprimento de onda da luz emitida. As curvas presentes nos gráficos das alternativas mostram $\rho(\lambda)$ dividida pelo seu valor máximo $\rho(\lambda_{max})$. O máximo de cada curva corresponde ao comprimento de onda $\lambda_{max}$ predominante da luz irradiada.</p>
 				<p>Com base nessas informações, assinale a alternativa que apresenta o gráfico que melhor corresponde à situação em que a cor predominante da luz irradiada seja amarela.</p>
 			</statement>
-			<options>
-				<table>
-					<option label="A" is_correct="false">
-						<cell>
-							<image width="0.6" src="fuvest/2024/fase01/q26a.png" />
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<image width="0.6" src="fuvest/2024/fase01/q26b.png" />
-						</cell>
-					</option>
-					<option label="C" is_correct="true">
-						<cell>
-							<image width="0.6" src="fuvest/2024/fase01/q26c.png" />
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<image width="0.6" src="fuvest/2024/fase01/q26d.png" />
-						</cell>
-					</option>
-					<option label="E" is_correct="false">
-						<cell>
-							<image width="0.6" src="fuvest/2024/fase01/q26e.png" />
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<option label="A" is_correct="false">
+					<cell>
+						<image width="0.6" src="fuvest/2024/fase01/q26a.png" />
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<image width="0.6" src="fuvest/2024/fase01/q26b.png" />
+					</cell>
+				</option>
+				<option label="C" is_correct="true">
+					<cell>
+						<image width="0.6" src="fuvest/2024/fase01/q26c.png" />
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<image width="0.6" src="fuvest/2024/fase01/q26d.png" />
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<image width="0.6" src="fuvest/2024/fase01/q26e.png" />
+					</cell>
+				</option>
+			</options_table>
 			<assumptions>
 				<p>Velocidade da luz no vácuo: $3\times10^{8} m/s$.</p>
 				<p>Cores associadas a frequências de luz visível:</p>
@@ -1107,94 +1108,92 @@
 				</table>
 				<p>Com base nesses dados, é correto afirmar que a população humana dessas cidades tem risco aumentado de ter as respectivas doenças:</p>
 			</statement>
-			<options>
-				<table>
-					<header>
-						<cell>
-							<p>cidade I</p>
-						</cell>
-						<cell>
-							<p>cidade II</p>
-						</cell>
-						<cell>
-							<p>cidade III</p>
-						</cell>
-						<cell>
-							<p>cidade IV</p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>leptospirose</p>
-						</cell>
-						<cell>
-							<p>influenza</p>
-						</cell>
-						<cell>
-							<p>amebíase</p>
-						</cell>
-						<cell>
-							<p>cólera</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<p>COVID</p>
-						</cell>
-						<cell>
-							<p>teníase</p>
-						</cell>
-						<cell>
-							<p>tétano</p>
-						</cell>
-						<cell>
-							<p>tuberculose</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>hepatite B</p>
-						</cell>
-						<cell>
-							<p>amebíase</p>
-						</cell>
-						<cell>
-							<p>cólera</p>
-						</cell>
-						<cell>
-							<p>leptospirose</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<p>influenza</p>
-						</cell>
-						<cell>
-							<p>teníase</p>
-						</cell>
-						<cell>
-							<p>pneumonia</p>
-						</cell>
-						<cell>
-							<p>COVID</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="true">
-						<cell>
-							<p>tuberculose</p>
-						</cell>
-						<cell>
-							<p>poliomielite</p>
-						</cell>
-						<cell>
-							<p>hepatite B</p>
-						</cell>
-						<cell>
-							<p>amebíase</p>
-						</cell>
-					</option>
-				</table>
-			</options>
+			<options_table>
+				<header>
+					<cell>
+						<p>cidade I</p>
+					</cell>
+					<cell>
+						<p>cidade II</p>
+					</cell>
+					<cell>
+						<p>cidade III</p>
+					</cell>
+					<cell>
+						<p>cidade IV</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>leptospirose</p>
+					</cell>
+					<cell>
+						<p>influenza</p>
+					</cell>
+					<cell>
+						<p>amebíase</p>
+					</cell>
+					<cell>
+						<p>cólera</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>COVID</p>
+					</cell>
+					<cell>
+						<p>teníase</p>
+					</cell>
+					<cell>
+						<p>tétano</p>
+					</cell>
+					<cell>
+						<p>tuberculose</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>hepatite B</p>
+					</cell>
+					<cell>
+						<p>amebíase</p>
+					</cell>
+					<cell>
+						<p>cólera</p>
+					</cell>
+					<cell>
+						<p>leptospirose</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<p>influenza</p>
+					</cell>
+					<cell>
+						<p>teníase</p>
+					</cell>
+					<cell>
+						<p>pneumonia</p>
+					</cell>
+					<cell>
+						<p>COVID</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="true">
+					<cell>
+						<p>tuberculose</p>
+					</cell>
+					<cell>
+						<p>poliomielite</p>
+					</cell>
+					<cell>
+						<p>hepatite B</p>
+					</cell>
+					<cell>
+						<p>amebíase</p>
+					</cell>
+				</option>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -2392,30 +2391,32 @@
 			<statement>
 				<verse>
 					<title>O SOBREVIVENTE</title>
-					<p>Impossível compor um poema a essa altura da evolução</p>
-					<p>da humanidade.</p>
-					<p>Impossível escrever um poema - uma linha que seja - de</p>
-					<p>verdadeira poesia.</p>
-					<p>O último trovador morreu em 1914.</p>
-					<p>Tinha um nome de que ninguém se lembra mais.</p>
-					<p>Há máquinas terrivelmente complicadas para as</p>
-					<p>necessidades mais simples.</p>
-					<p>Se quer fumar um charuto aperte um botão.</p>
-					<p>Paletós abotoam-se por eletricidade.</p>
-					<p>Amor se faz pelo sem-fio.</p>
-					<p>Não precisa estômago para digestão.</p>
-					<p>Um sábio declarou a O Jornal que ainda</p>
-					<p>falta muito para atingirmos um nível</p>
-					<p>razoável de cultura.</p>
-					<p>Mas até lá, felizmente,</p>
-					<p>estarei morto.</p>
-					<p>Os homens não melhoraram</p>
-					<p>e matam-se como percevejos.</p>
-					<p>Os percevejos heroicos renascem.</p>
-					<p>Inabitável o mundo é cada vez mais habitado.</p>
-					<p>E se os olhos reaprendessem a chorar seria um segundo</p>
-					<p>dilúvio.</p>
-					<p>(Desconfio que escrevi um poema.)</p>
+					<stanza>
+						<l>Impossível compor um poema a essa altura da evolução</l>
+						<l>da humanidade.</l>
+						<l>Impossível escrever um poema - uma linha que seja - de</l>
+						<l>verdadeira poesia.</l>
+						<l>O último trovador morreu em 1914.</l>
+						<l>Tinha um nome de que ninguém se lembra mais.</l>
+						<l>Há máquinas terrivelmente complicadas para as</l>
+						<l>necessidades mais simples.</l>
+						<l>Se quer fumar um charuto aperte um botão.</l>
+						<l>Paletós abotoam-se por eletricidade.</l>
+						<l>Amor se faz pelo sem-fio.</l>
+						<l>Não precisa estômago para digestão.</l>
+						<l>Um sábio declarou a O Jornal que ainda</l>
+						<l>falta muito para atingirmos um nível</l>
+						<l>razoável de cultura.</l>
+						<l>Mas até lá, felizmente,</l>
+						<l>estarei morto.</l>
+						<l>Os homens não melhoraram</l>
+						<l>e matam-se como percevejos.</l>
+						<l>Os percevejos heroicos renascem.</l>
+						<l>Inabitável o mundo é cada vez mais habitado.</l>
+						<l>E se os olhos reaprendessem a chorar seria um segundo</l>
+						<l>dilúvio.</l>
+						<l>(Desconfio que escrevi um poema.)</l>
+					</stanza>
 				</verse>
 				<cite>Carlos Drummond de Andrade. Alguma Poesia, 1930.</cite>
 				<p>Entre o primeiro e o último verso, há uma aparente contradição, que, todavia, não se sustenta porque</p>
@@ -2445,22 +2446,24 @@
 			<classification subject="Biology:Zoology:Invertebrates" />
 			<statement>
 				<verse>
-					<p>[...]</p>
-					<p>Um sino de vidro claro,</p>
-					<p>uma ampola cristalina e contrátil,</p>
-					<p>flutua calma no seu caminho.</p>
-					<p>"Peixinho, peixinho, deixe-a ir!</p>
-					<p>Peixinho, peixinho, se apresse em fugir!"</p>
-					<p>Ali atrás, longos fios transparentes se arrastam</p>
-					<p>e os olhos do peixinho a um banquete convidam.</p>
-					<p>"Serão, por acaso, minhocas o que eu vejo de repente?"</p>
-					<p>"Peixinho, peixinho, deixe-me alertar!</p>
-					<p>Peixinho, peixinho, não se deixe enganar!"</p>
-					<p>Próximo demais o peixinho chegou:</p>
-					<p>"Ai, ai, ai, agora ela me pegou!</p>
-					<p>Firme me amarrou e não consigo me soltar!</p>
-					<p>Firme me envolve e arde de matar!"</p>
-					<p>[...]</p>
+					<stanza>
+						<l>[...]</l>
+						<l>Um sino de vidro claro,</l>
+						<l>uma ampola cristalina e contrátil,</l>
+						<l>flutua calma no seu caminho.</l>
+						<l>"Peixinho, peixinho, deixe-a ir!</l>
+						<l>Peixinho, peixinho, se apresse em fugir!"</l>
+						<l>Ali atrás, longos fios transparentes se arrastam</l>
+						<l>e os olhos do peixinho a um banquete convidam.</l>
+						<l>"Serão, por acaso, minhocas o que eu vejo de repente?"</l>
+						<l>"Peixinho, peixinho, deixe-me alertar!</l>
+						<l>Peixinho, peixinho, não se deixe enganar!"</l>
+						<l>Próximo demais o peixinho chegou:</l>
+						<l>"Ai, ai, ai, agora ela me pegou!</l>
+						<l>Firme me amarrou e não consigo me soltar!</l>
+						<l>Firme me envolve e arde de matar!"</l>
+						<l>[...]</l>
+					</stanza>
 				</verse>
 				<cite>Tradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.</cite>
 				<p>O fragmento de poema apresentado foi escrito pelo naturalista Fritz Müller para suas filhas. O trecho do poema permite afirmar que a predação é realizada por um/uma</p>

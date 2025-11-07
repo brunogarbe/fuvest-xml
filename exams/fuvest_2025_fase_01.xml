@@ -282,7 +282,8 @@
 			<quote>
 				<p>O que torna possível o surgimento de uma <q>cultura do cancelamento</q> é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, <u>seja</u> no campo da publicidade, <u>seja</u> no campo da responsabilidade social da empresa.</p>
 				<p>O conjunto de valores defendidos pelos movimentos sociais <u>que</u> lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento.</p>
-				<p><u>Sendo assim</u>, a sanção específica realizada pelos agentes do <q>cancelamento</q> procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, <u>mas sim</u> impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito <q>cancelado</q>.</p>
+				<p>
+					<u>Sendo assim</u>, a sanção específica realizada pelos agentes do <q>cancelamento</q> procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, <u>mas sim</u> impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito <q>cancelado</q>.</p>
 				<p>Nesse contexto, a <q>cultura do cancelamento</q> representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, <u>como</u> inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.</p>
 			</quote>
 			<cite>MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. (Adaptado).</cite>
@@ -291,7 +292,8 @@
 		<objective_question number="10" success_rate="57.0">
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
-				<p>Segundo o texto, a cultura do <q>cancelamento</q></p>
+				<p>Segundo o texto, a cultura do <q>cancelamento</q>
+				</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
@@ -319,19 +321,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><u>seja...seja</u> evidencia a dúvida das autoras quanto aos campos afetados pelo cancelamento.</p>
+					<p>
+						<u>seja...seja</u> evidencia a dúvida das autoras quanto aos campos afetados pelo cancelamento.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><u>que</u> é utilizado para intensificar o valor dos movimentos sociais na luta pela diversidade.</p>
+					<p>
+						<u>que</u> é utilizado para intensificar o valor dos movimentos sociais na luta pela diversidade.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><u>sendo assim</u> indica adesão autoral diante das formas de sanção aplicadas pelos agentes do cancelamento.</p>
+					<p>
+						<u>sendo assim</u> indica adesão autoral diante das formas de sanção aplicadas pelos agentes do cancelamento.</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p><u>mas sim</u> ressalta a diferença entre como se pune na cultura do cancelamento e no direito penal.</p>
+					<p>
+						<u>mas sim</u> ressalta a diferença entre como se pune na cultura do cancelamento e no direito penal.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><u>como</u> introduz uma comparação entre distintas ações passíveis de gerar cancelamento.</p>
+					<p>
+						<u>como</u> introduz uma comparação entre distintas ações passíveis de gerar cancelamento.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -343,7 +350,7 @@
 			<statement>
 				<header>Texto 1</header>
 				<quote>
-					<p>Em Big Tech: a ascensão dos dados e a morte da política, Morozov estabelece <q>um paralelo com os setores extrativistas de recursos naturais, como o petróleo</q>, colocando <q>no centro da discussão o modo de produção dessa economia, que ele chama de <q>extrativismo de dados</q>. Apesar de a frase 'os dados são o novo petróleo</q> ser um chavão fraco em termos conceituais, Morozov acha o modismo útil para debatermos a matriz extrativista desse modo de produção, em especial a forma como as grandes empresas de tecnologia <q>continuam escavando a nossa psique tal como as empresas de petróleo escavam o solo</q>.</p>
+					<p>Em <i>Big Tech: a ascensão dos dados e a morte da política</i>, Morozov estabelece <q>um paralelo com os setores extrativistas de recursos naturais, como o petróleo</q>, colocando no centro da discussão o modo de produção dessa economia, que ele chama de <q>extrativismo de dados</q>. Apesar de a frase <q>os dados são o novo petróleo</q> ser um chavão fraco em termos conceituais, Morozov acha o modismo útil para debatermos a matriz extrativista desse modo de produção, em especial a forma como as grandes empresas de tecnologia <q>continuam escavando a nossa psique tal como as empresas de petróleo escavam o solo</q>.</p>
 				</quote>
 				<cite>ZANATTA, Rafael. <q>Extrativismo Digital</q>. Quatro Cinco Um, 01/04/2019. (Adaptado).</cite>
 				<header>Texto 2</header>
@@ -434,7 +441,8 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
-					<p><b>justice</b>, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism.</p>
+					<p>
+						<b>justice</b>, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism.</p>
 					<p>At least since Aristotle, justice has commonly been identified both with obeying law and with treating everyone with fairness. But if law is, and justice is not, entirely a matter of convention, then justice cannot be identified with obeying law.</p>
 				</quote>
 				<cite>The Cambridge Dictionary of Philosophy. General Editor Robert Audi, Cambridge, U.K.: C.U.P., 1999. p.456.</cite>
@@ -477,7 +485,9 @@
 					</header>
 					<row>
 						<cell>
-							<p><m>1 \lt h \le 1,5</m></p>
+							<p>
+								<m>1 \lt h \le 1,5</m>
+							</p>
 						</cell>
 						<cell>
 							<p>5</p>
@@ -485,18 +495,26 @@
 					</row>
 					<row>
 						<cell>
-							<p><m>0,8 \lt h \le 1</m></p>
+							<p>
+								<m>0,8 \lt h \le 1</m>
+							</p>
 						</cell>
 						<cell>
-							<p><m>5 \lt i \le 6,25</m></p>
+							<p>
+								<m>5 \lt i \le 6,25</m>
+							</p>
 						</cell>
 					</row>
 					<row>
 						<cell>
-							<p><m>0 \lt h \le 0,8</m></p>
+							<p>
+								<m>0 \lt h \le 0,8</m>
+							</p>
 						</cell>
 						<cell>
-							<p><m>6,25 \lt i \le 8,33</m></p>
+							<p>
+								<m>6,25 \lt i \le 8,33</m>
+							</p>
 						</cell>
 					</row>
 				</table>
@@ -504,8 +522,12 @@
 				<image width="0.8" src="fuvest/2025/fase01/q16.png" />
 				<p>Determinada rampa de dois segmentos foi construída da seguinte maneira:</p>
 				<list>
-					<item><p>o primeiro segmento possui projeção horizontal de 10~m e inclinação de 6%;</p></item>
-					<item><p>o segundo segmento possui projeção horizontal de 7~m e desnível de 0,5~m.</p></item>
+					<item>
+						<p>o primeiro segmento possui projeção horizontal de 10~m e inclinação de 6%;</p>
+					</item>
+					<item>
+						<p>o segundo segmento possui projeção horizontal de 7~m e desnível de 0,5~m.</p>
+					</item>
 				</list>
 				<p>Com base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?</p>
 			</statement>
@@ -539,19 +561,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>d \lt 2</m></p>
+					<p>
+						<m>d \lt 2</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>2 \le d \lt 5</m></p>
+					<p>
+						<m>2 \le d \lt 5</m>
+					</p>
 				</option>
 				<option label="C" is_correct="true">
-					<p><m>5 \le d \le 8</m></p>
+					<p>
+						<m>5 \le d \le 8</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>8 \lt d \le 11</m></p>
+					<p>
+						<m>8 \lt d \le 11</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>11 \lt d</m></p>
+					<p>
+						<m>11 \lt d</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -563,24 +595,29 @@
 			<statement>
 				<p>No dia 26 de março de 2024, à 1h29min, aproximadamente, o navio cargueiro MV Dali colidiu com a ponte Francis Scott Key em Baltimore, EUA. O impacto causou o colapso da ponte, tornando-se um dos maiores acidentes marítimos da história norte-americana.</p>
 				<p>A figura a seguir mostra os dados da velocidade do navio em função da hora local. A colisão ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no gráfico.</p>
-				<image  html_width="700" src="fuvest/2025/fase01/q18.png" />
+				<image html_width="700" src="fuvest/2025/fase01/q18.png" />
 				<p>Assumindo que a massa do navio no momento do impacto seja de 100 mil toneladas e, tendo por base os dados do gráfico, a magnitude da força média atuando sobre o navio durante a colisão é de, aproximadamente,</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>7 \times 10^{-2}</m>~N.</p>
+					<p>
+						<m>7 \times 10^{-2}</m>~N.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>7 \times 10^{0}</m>~N.</p>
+					<p>
+						<m>7 \times 10^{0}</m>~N.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>7 \times 10^{2}</m>~N.</p>
+					<p>
+						<m>7 \times 10^{2}</m>~N.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>7 \times 10^{4}</m>~N.</p>
+					<p>
+						<m>7 \times 10^{4}</m>~N.</p>
 				</option>
 				<option label="E" is_correct="true">
-					<p><m>7 \times 10^{6}</m>~N.</p>
+					<p>
+						<m>7 \times 10^{6}</m>~N.</p>
 				</option>
 			</options>
 			<assumptions>
@@ -672,7 +709,8 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Distribuição eletrônica: Li = <m>1s^2 2s^1</m>; Na = <m>1s^2 2s^2 2p^6 3s^1</m></p>
+				<p>Distribuição eletrônica: Li = <m>1s^2 2s^1</m>; Na = <m>1s^2 2s^2 2p^6 3s^1</m>
+				</p>
 				<p>Massa atômica (u): Li=7; Na=23</p>
 			</assumptions>
 		</objective_question>
@@ -691,7 +729,8 @@
 							<p>Material</p>
 						</cell>
 						<cell>
-							<p>Índice de refração <m>n_1</m></p>
+							<p>Índice de refração <m>n_1</m>
+							</p>
 						</cell>
 					</row>
 					<row>
@@ -769,7 +808,8 @@
 					<p>A luz é uma onda eletromagnética que nos permite ver objetos. Por vezes, os campos elétrico e magnético associados à onda oscilam em direções preferenciais, definindo o que chamamos de luz polarizada. Apesar de estarmos rodeados por luz polarizada, aos olhos humanos essa luz é indistinguível da luz dita 'normal'.</p>
 					<p>No plasma que rodeia estes buracos negros, as partículas que giram em torno das linhas de campo magnético conferem-lhe um padrão de polarização com orientação na direção perpendicular ao campo magnético do buraco negro, o que permite aos astrônomos ver com muitos detalhes o que se passa nas regiões dos buracos negros e mapear as suas linhas de campo magnético.</p>
 				</quote>
-				<cite><q>Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea</q>, Jornal da USP 29/03/2024. (Adaptado).</cite>
+				<cite>
+					<q>Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea</q>, Jornal da USP 29/03/2024. (Adaptado).</cite>
 				<p>Com base no texto e em seus conhecimentos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -1006,54 +1046,54 @@
 				<p>Assinale a alternativa que representa a relação ecológica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais.</p>
 			</statement>
 			<options_table>
-					<header>
-						<cell>
-							<p>Relação ecológica</p>
-						</cell>
-						<cell>
-							<p>Impacto imediato</p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>Predação</p>
-						</cell>
-						<cell>
-							<p>Formação das marés vermelhas e desoxigenação das águas oceânicas.</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="true">
-						<cell>
-							<p>Mutualismo</p>
-						</cell>
-						<cell>
-							<p>Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento.</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>Colônia</p>
-						</cell>
-						<cell>
-							<p>Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais.</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<p>Competição</p>
-						</cell>
-						<cell>
-							<p>Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais.</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="false">
-						<cell>
-							<p>Comensalismo</p>
-						</cell>
-						<cell>
-							<p>Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas.</p>
-						</cell>
-					</option>
+				<header>
+					<cell>
+						<p>Relação ecológica</p>
+					</cell>
+					<cell>
+						<p>Impacto imediato</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>Predação</p>
+					</cell>
+					<cell>
+						<p>Formação das marés vermelhas e desoxigenação das águas oceânicas.</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="true">
+					<cell>
+						<p>Mutualismo</p>
+					</cell>
+					<cell>
+						<p>Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento.</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>Colônia</p>
+					</cell>
+					<cell>
+						<p>Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais.</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<p>Competição</p>
+					</cell>
+					<cell>
+						<p>Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais.</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<p>Comensalismo</p>
+					</cell>
+					<cell>
+						<p>Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas.</p>
+					</cell>
+				</option>
 			</options_table>
 		</objective_question>
 	</question_group>
@@ -1155,7 +1195,10 @@
 			<classification subject="Portuguese:Text Interpretation" />
 			<statement>
 				<quote>
-					<p><b>Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque:</b> <q>— Vá levantar esta letra. Você me devolve depois.</q> Não é bem caridade... <b>Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a <q>mesma</q> cédula do bolso e entregando-lha...</b> A casa aristocrática acha-se perto. A numeração já está em quase trezentos. <b>Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as...</b> O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. <b>Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.</b></p>
+					<p>
+						<b>Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque:</b>
+						<q>— Vá levantar esta letra. Você me devolve depois.</q> Não é bem caridade... <b>Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a <q>mesma</q> cédula do bolso e entregando-lha...</b> A casa aristocrática acha-se perto. A numeração já está em quase trezentos. <b>Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as...</b> O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. <b>Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.</b>
+					</p>
 				</quote>
 				<cite>_Dyonélio Machado. Os ratos._</cite>
 				<p>Dentre as frases em destaque, a que caracteriza os efeitos fisiológicos em Naziazeno da reação de luta ou fuga pela ativação do sistema nervoso simpático é:</p>
@@ -1223,33 +1266,33 @@
 			<verse>
 				<title>Bem-vinda!</title>
 				<stanza>
-				<l>Eram faíscas suas palavras que me queimavam em doses homeopáticas</l>
-				<l>durante todas as noites...</l>
-				<l>Foram longos anos, dia após dia perdendo um pouco mais minha autoestima,</l>
-				<l>abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas</l>
-				<l>fazendo de tudo pra evitar brigas,</l>
-				<l>mas ele sempre dizia que a culpa era minha.</l>
-				<l>Até que um dia, me empurrou, me acuou</l>
-				<l>como se eu pudesse caber em qualquer fresta, encurralada,</l>
-				<l>me mandou ficar calada e, com medo, obedeci.</l>
-				<l>Eu pedia desculpa toda vez depois de falar</l>
-				<l>como se fosse um defeito de nascença querer me colocar.</l>
-				<l>A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias,</l>
-				<l>acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso.</l>
-				<l>Precisei tirar forças de lugares sagrados</l>
-				<l>pra me afastar e reagir, recolher meus pedaços.</l>
-				<l>Meus olhos encheram de mar, eu desaguei,</l>
-				<l>decidi não mais me calar, denunciei!</l>
-				<l>E depois do silêncio quebrado, meus pensamentos em guerra cessaram,</l>
-				<l>recuperei o fôlego e ouvi meu coração sendo grato.</l>
-				<l>Encontrei em mim um porto seguro, entendi que meu corpo é meu lar</l>
-				<l>e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar.</l>
-				<l>Hoje, quando olho pra dentro, vejo uma nova mulher renascendo,</l>
-				<l>eu celebro sua chegada e contemplo essa nova vida.</l>
-				<l>Sem medo, abro a janela de casa</l>
-				<l>e, com olhar de quem há tanto tempo esperava,</l>
-				<l>te pego pela mão e digo:</l>
-				<l>Seja bem-vinda!</l>
+					<l>Eram faíscas suas palavras que me queimavam em doses homeopáticas</l>
+					<l>durante todas as noites...</l>
+					<l>Foram longos anos, dia após dia perdendo um pouco mais minha autoestima,</l>
+					<l>abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas</l>
+					<l>fazendo de tudo pra evitar brigas,</l>
+					<l>mas ele sempre dizia que a culpa era minha.</l>
+					<l>Até que um dia, me empurrou, me acuou</l>
+					<l>como se eu pudesse caber em qualquer fresta, encurralada,</l>
+					<l>me mandou ficar calada e, com medo, obedeci.</l>
+					<l>Eu pedia desculpa toda vez depois de falar</l>
+					<l>como se fosse um defeito de nascença querer me colocar.</l>
+					<l>A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias,</l>
+					<l>acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso.</l>
+					<l>Precisei tirar forças de lugares sagrados</l>
+					<l>pra me afastar e reagir, recolher meus pedaços.</l>
+					<l>Meus olhos encheram de mar, eu desaguei,</l>
+					<l>decidi não mais me calar, denunciei!</l>
+					<l>E depois do silêncio quebrado, meus pensamentos em guerra cessaram,</l>
+					<l>recuperei o fôlego e ouvi meu coração sendo grato.</l>
+					<l>Encontrei em mim um porto seguro, entendi que meu corpo é meu lar</l>
+					<l>e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar.</l>
+					<l>Hoje, quando olho pra dentro, vejo uma nova mulher renascendo,</l>
+					<l>eu celebro sua chegada e contemplo essa nova vida.</l>
+					<l>Sem medo, abro a janela de casa</l>
+					<l>e, com olhar de quem há tanto tempo esperava,</l>
+					<l>te pego pela mão e digo:</l>
+					<l>Seja bem-vinda!</l>
 				</stanza>
 			</verse>
 			<cite>Mel Duarte. Colmeia Poemas Reunidos.</cite>
@@ -1288,19 +1331,24 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p><q>Eram faíscas suas palavras que me queimavam em/doses homeopáticas/ durante todas as noites...</q> - conotação: o predicativo <q>faíscas</q> e a forma verbal <q>queimavam</q> estão sendo usados em sentido figurado, enfatizando seu sofrimento.</p>
+					<p>
+						<q>Eram faíscas suas palavras que me queimavam em/doses homeopáticas/ durante todas as noites...</q> - conotação: o predicativo <q>faíscas</q> e a forma verbal <q>queimavam</q> estão sendo usados em sentido figurado, enfatizando seu sofrimento.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><q>Até que um dia, me empurrou, me acuou/como se eu pudesse caber em qualquer fresta, /encurralada</q> - antítese: os elementos <q>empurrou</q>, <q>acuou</q> e <q>encurralada</q> potencializam de forma contraditória seu sofrimento.</p>
+					<p>
+						<q>Até que um dia, me empurrou, me acuou/como se eu pudesse caber em qualquer fresta, /encurralada</q> - antítese: os elementos <q>empurrou</q>, <q>acuou</q> e <q>encurralada</q> potencializam de forma contraditória seu sofrimento.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><q>acreditando que o amor era isso, esse abismo, onde só/ um fala e o outro, fica omisso</q> - metonímia: o uso do aposto <q>esse abismo</q>, referindo-se a <q>amor</q>, expressa literalmente seu sofrimento.</p>
+					<p>
+						<q>acreditando que o amor era isso, esse abismo, onde só/ um fala e o outro, fica omisso</q> - metonímia: o uso do aposto <q>esse abismo</q>, referindo-se a <q>amor</q>, expressa literalmente seu sofrimento.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><q>Precisei tirar forças de lugares sagrados/ pra me afastar e reagir, recolher meus pedaços</q> - pleonasmo: o complemento <q>meus pedaços</q> reforça o significado do verbo <q>recolher</q>, acentuando seu sofrimento.</p>
+					<p>
+						<q>Precisei tirar forças de lugares sagrados/ pra me afastar e reagir, recolher meus pedaços</q> - pleonasmo: o complemento <q>meus pedaços</q> reforça o significado do verbo <q>recolher</q>, acentuando seu sofrimento.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><q>Meus olhos encheram de mar, eu desaguei, /decidi não mais me calar, denunciei!</q> - paronímia: os verbos <q>encher</q> e <q>desaguar</q> são elementos de significação próxima que dão ênfase a seu sofrimento.</p>
+					<p>
+						<q>Meus olhos encheram de mar, eu desaguei, /decidi não mais me calar, denunciei!</q> - paronímia: os verbos <q>encher</q> e <q>desaguar</q> são elementos de significação próxima que dão ênfase a seu sofrimento.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1341,7 +1389,9 @@
 				<quote>
 					<p>Atingir a igualdade de gênero é uma das metas do Objetivo de Desenvolvimento Sustentável (ODS) de número 5 da Agenda 2030, adotada pela ONU em 2015.</p>
 					<p>No cenário esportivo, é possível identificar alguns avanços em relação ao alcance dessa meta, conforme reconheceu a jogadora brasileira de futebol Marta:</p>
-					<p><q>Quando as atletas do sexo feminino têm a chance de se destacar, os resultados são enormes. E para isso, a Copa do Mundo Feminina de 2019 foi realmente uma virada no jogo. A audiência global do torneio ultrapassou 1 bilhão de pessoas.</q></p>
+					<p>
+						<q>Quando as atletas do sexo feminino têm a chance de se destacar, os resultados são enormes. E para isso, a Copa do Mundo Feminina de 2019 foi realmente uma virada no jogo. A audiência global do torneio ultrapassou 1 bilhão de pessoas.</q>
+					</p>
 				</quote>
 				<p>A Olimpíada de Paris 2024, por sua vez, estabeleceu, pela primeira vez na história, a paridade de gênero em todos os esportes olímpicos, com 5.250 vagas destinadas a cada sexo. Apesar das conquistas, o caminho rumo à igualdade de gênero continua.</p>
 				<p>Com base no exposto, é correto afirmar:</p>
@@ -1370,39 +1420,41 @@
 		<context>
 			<verse>
 				<stanza>
-				<l>Quick, quick, tell me something awful</l>
-				<l>Like you are a poet trapped inside the body of a finance guy</l>
-				<l>Tell me all your secrets, all you'll ever be is</l>
-				<l>My eternal consolation prize</l>
-				<l>You see, I was a debutante in another life, but</l>
-				<l>Now I seem to be scared to go outside</l>
-				<l>If comfort is a construct, I don't believe in good luck</l>
-				<l>Now that I know what's what</l>
-				<l>I hate it here so I will go to secret gardens in my mind</l>
-				<l>People need a key to get to, the only one is mine</l>
-				<l>I read about it in a book when I was a precocious child</l>
-				<l>No mid-sized city hopes and small-town fears</l>
-				<l>I'm there most of the year 'cause I hate it here</l>
-				<l>I hate it here</l>
-				<l>My friends used to play a game where</l>
-				<l>We would pick a decade</l>
-				<l>We wished we could live in instead of this</l>
-				<l>I'd say the 1830s but without all the racists</l>
-				<l>And getting married off for the highest bid</l>
-				<l>Everyone would look down 'cause it wasn't fun now</l>
-				<l>Seems like it was never even fun back then</l>
-				<l>Nostalgia is a mind's trick</l>
-				<l>If I'd been there, I'd hate it</l>
-				<l>It was freezing in the palace</l>
+					<l>Quick, quick, tell me something awful</l>
+					<l>Like you are a poet trapped inside the body of a finance guy</l>
+					<l>Tell me all your secrets, all you'll ever be is</l>
+					<l>My eternal consolation prize</l>
+					<l>You see, I was a debutante in another life, but</l>
+					<l>Now I seem to be scared to go outside</l>
+					<l>If comfort is a construct, I don't believe in good luck</l>
+					<l>Now that I know what's what</l>
+					<l>I hate it here so I will go to secret gardens in my mind</l>
+					<l>People need a key to get to, the only one is mine</l>
+					<l>I read about it in a book when I was a precocious child</l>
+					<l>No mid-sized city hopes and small-town fears</l>
+					<l>I'm there most of the year 'cause I hate it here</l>
+					<l>I hate it here</l>
+					<l>My friends used to play a game where</l>
+					<l>We would pick a decade</l>
+					<l>We wished we could live in instead of this</l>
+					<l>I'd say the 1830s but without all the racists</l>
+					<l>And getting married off for the highest bid</l>
+					<l>Everyone would look down 'cause it wasn't fun now</l>
+					<l>Seems like it was never even fun back then</l>
+					<l>Nostalgia is a mind's trick</l>
+					<l>If I'd been there, I'd hate it</l>
+					<l>It was freezing in the palace</l>
 				</stanza>
 			</verse>
-			<cite><q>I hate it here</q>, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).</cite>
+			<cite>
+				<q>I hate it here</q>, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).</cite>
 		</context>
 
 		<objective_question number="41" success_rate="63.4">
 			<classification subject="English:Reading Comprehension" />
 			<statement>
-				<p>Na letra da música, o verso <q>Like you are a poet trapped inside the body of a finance guy</q></p>
+				<p>Na letra da música, o verso <q>Like you are a poet trapped inside the body of a finance guy</q>
+				</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1515,54 +1567,58 @@
 				<p>Com base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos (<m>EVM_{19}</m>) e a expectativa de vida estimada à idade de 20 anos no Brasil (<m>EVB_{20}</m>) em 2022.</p>
 			</statement>
 			<options_table>
-					<header>
-						<cell>
-							<p><m>EVM_{19}</m></p>
-						</cell>
-						<cell>
-							<p><m>EVB_{20}</m></p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<p>54,7</p>
-						</cell>
-						<cell>
-							<p>54,7</p>
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<p>54,7</p>
-						</cell>
-						<cell>
-							<p>58</p>
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<p>60</p>
-						</cell>
-						<cell>
-							<p>54</p>
-						</cell>
-					</option>
-					<option label="D" is_correct="false">
-						<cell>
-							<p>61,3</p>
-						</cell>
-						<cell>
-							<p>56</p>
-						</cell>
-					</option>
-					<option label="E" is_correct="true">
-						<cell>
-							<p>61,3</p>
-						</cell>
-						<cell>
-							<p>57,1</p>
-						</cell>
-					</option>
+				<header>
+					<cell>
+						<p>
+							<m>EVM_{19}</m>
+						</p>
+					</cell>
+					<cell>
+						<p>
+							<m>EVB_{20}</m>
+						</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>54,7</p>
+					</cell>
+					<cell>
+						<p>54,7</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>54,7</p>
+					</cell>
+					<cell>
+						<p>58</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>60</p>
+					</cell>
+					<cell>
+						<p>54</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<p>61,3</p>
+					</cell>
+					<cell>
+						<p>56</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="true">
+					<cell>
+						<p>61,3</p>
+					</cell>
+					<cell>
+						<p>57,1</p>
+					</cell>
+				</option>
 			</options_table>
 		</objective_question>
 	</question_group>
@@ -1975,54 +2031,54 @@
 				<p>Assinale a alternativa que representa a variação das massas de ambas as barras ao longo do tempo.</p>
 			</statement>
 			<options_table>
-					<header>
-						<cell>
-							<p>Ferro</p>
-						</cell>
-						<cell>
-							<p>Aço inoxidável</p>
-						</cell>
-					</header>
-					<option label="A" is_correct="false">
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60a1.png" />
-						</cell>
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60a2.png" />
-						</cell>
-					</option>
-					<option label="B" is_correct="false">
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60b1.png" />
-						</cell>
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60b2.png" />
-						</cell>
-					</option>
-					<option label="C" is_correct="false">
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60c1.png" />
-						</cell>
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60c2.png" />
-						</cell>
-					</option>
-					<option label="D" is_correct="true">
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60d1.png" />
-						</cell>
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60d2.png" />
-						</cell>
-					</option>
-					<option label="E" is_correct="false">
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60e1.png" />
-						</cell>
-						<cell>
-							<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60e2.png" />
-						</cell>
-					</option>
+				<header>
+					<cell>
+						<p>Ferro</p>
+					</cell>
+					<cell>
+						<p>Aço inoxidável</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60a1.png" />
+					</cell>
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60a2.png" />
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60b1.png" />
+					</cell>
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60b2.png" />
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60c1.png" />
+					</cell>
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60c2.png" />
+					</cell>
+				</option>
+				<option label="D" is_correct="true">
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60d1.png" />
+					</cell>
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60d2.png" />
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60e1.png" />
+					</cell>
+					<cell>
+						<image width="0.8" html_width="200" src="fuvest/2025/fase01/q60e2.png" />
+					</cell>
+				</option>
 			</options_table>
 		</objective_question>
 	</question_group>
@@ -2034,9 +2090,9 @@
 				<p>Os versos a seguir pertencem à canção Fall on Me, da banda norte-americana R.E.M., lançada em 1986.</p>
 				<verse>
 					<stanza>
-					<l>There's a problem, feathers, iron</l>
-					<l>Bargain buildings, weights and pulleys</l>
-					<l>Feathers hit the ground before the weight can leave the air</l>
+						<l>There's a problem, feathers, iron</l>
+						<l>Bargain buildings, weights and pulleys</l>
+						<l>Feathers hit the ground before the weight can leave the air</l>
 					</stanza>
 				</verse>
 				<cite>Bill Berry, Peter Buck, Mike Mills e Michael Stipe.</cite>
@@ -2125,7 +2181,8 @@
 		<objective_question number="64" success_rate="38.9">
 			<classification subject="Chemistry:General:Stoichiometry" />
 			<statement>
-				<p>Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação <chem end=".">CH_{4}(l)+2~O_{2}(l)\rightarrow CO_{2}(g)+2~H_{2}O(g)</chem></p>
+				<p>Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação <chem end=".">CH_{4}(l)+2~O_{2}(l)\rightarrow CO_{2}(g)+2~H_{2}O(g)</chem>
+				</p>
 				<p>Nessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a</p>
 			</statement>
 			<options>
@@ -2156,7 +2213,8 @@
 			<quote>
 				<title>Da moenda para a célula a combustível: caldo de cana é usado para produzir energia elétrica</title>
 				<p>Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial.</p>
-				<p><q>A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade</q>, explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. <q>No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica*</q>, diz o pesquisador. <q>O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente</q>.</p>
+				<p>
+					<q>A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade</q>, explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. <q>No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica*</q>, diz o pesquisador. <q>O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente</q>.</p>
 			</quote>
 			<cite>Disponível em https://jornal.usp.br/ciencias/ (Adaptado).</cite>
 		</context>
@@ -2215,7 +2273,7 @@
 			<classification subject="Biology:Genetics" />
 			<statement>
 				<p>Pesquisas e terapias com células-tronco têm se mostrado cada vez mais promissoras pela possibilidade de seu uso no tratamento de diferentes tipos de doenças, como câncer e doenças degenerativas. As células-tronco podem se diferenciar em células especializadas, conforme exemplificado a seguir.</p>
-				<image width="0.8"  html_width="600" src="fuvest/2025/fase01/q67.png" />
+				<image width="0.8" html_width="600" src="fuvest/2025/fase01/q67.png" />
 				<p>As células especializadas que derivam de uma mesma célula-tronco possuem os(as) mesmos(as)</p>
 			</statement>
 			<options>
@@ -2244,7 +2302,7 @@
 			<classification subject="Math:Statistics" />
 			<statement>
 				<p>O gráfico a seguir apresenta dados do Produto Interno Bruto (PIB) por pessoa e dados de publicações científicas por milhão de habitantes para um grupo selecionado de países, além de destacar o estado de São Paulo.</p>
-				<image  html_width="700" src="fuvest/2025/fase01/q68.png" />
+				<image html_width="700" src="fuvest/2025/fase01/q68.png" />
 				<p>A partir da análise do gráfico e do texto, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2275,28 +2333,28 @@
 			</statement>
 			<options_table>
 				<option label="A" is_correct="false">
-				<cell>
-					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69a.png" />
+					<cell>
+						<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69a.png" />
 					</cell>
 				</option>
 				<option label="B" is_correct="true">
-				<cell>
-					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69b.png" />
+					<cell>
+						<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69b.png" />
 					</cell>
 				</option>
 				<option label="C" is_correct="false">
-				<cell>
-					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69c.png" />
+					<cell>
+						<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69c.png" />
 					</cell>
 				</option>
 				<option label="D" is_correct="false">
-				<cell>
-					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69d.png" />
+					<cell>
+						<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69d.png" />
 					</cell>
 				</option>
 				<option label="E" is_correct="false">
-				<cell>
-					<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69e.png" />
+					<cell>
+						<image width="0.4" html_width="250" src="fuvest/2025/fase01/q69e.png" />
 					</cell>
 				</option>
 			</options_table>
@@ -2310,24 +2368,35 @@
 				<p>Seja <m>(a_{n})</m> uma progressão aritmética cujo primeiro termo é <m>a_{1}</m> e a razão <m>r</m>, ambos números reais. É possível construir uma outra sequência <m>(b_{n})</m>, em que o primeiro termo é um número real <m>b_{1}</m> e com a seguinte lei de formação
 				<math end=",">b_{n+1}=b_{n}+a_{n}</math>
 				sendo <m>n&gt;0</m> um número natural.</p>
-				<p>Por exemplo, se <m>b_{1}=0</m> e <math end=",">(a_{n})=(1,3,5,7,9,11,...)</math> tem-se <math end=".">(b_{n})=(0,1,4,9,16,25,...)</math></p>
+				<p>Por exemplo, se <m>b_{1}=0</m> e <math end=",">(a_{n})=(1,3,5,7,9,11,...)</math> tem-se <math end=".">(b_{n})=(0,1,4,9,16,25,...)</math>
+				</p>
 				<p>Com base em tais informações, os valores de <m>a_{1}</m> e <m>r</m> foram escolhidos de forma que <m>(b_{n})</m> também seja uma progressão aritmética de razão <m>r'</m>. Nessas condições, é correto afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p><m>r'=a_{1}</m></p>
+					<p>
+						<m>r'=a_{1}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>r'=2a_{1}</m></p>
+					<p>
+						<m>r'=2a_{1}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>r'=r</m></p>
+					<p>
+						<m>r'=r</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>r'=2r</m></p>
+					<p>
+						<m>r'=2r</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>r'=b_{1}-a_{1}</m></p>
+					<p>
+						<m>r'=b_{1}-a_{1}</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2345,7 +2414,7 @@
 				</quote>
 				<cite>Revista Pesquisa FAPESP - Janeiro/2024 (Adaptado).</cite>
 				<p>O gráfico a seguir ilustra o crescimento de uma espécie de bactéria em meio de cultura, com e sem antibiótico. Foram testados três antibióticos diferentes (1, 2 e 3).</p>
-				<image  html_width="700" src="fuvest/2025/fase01/q71.png" />
+				<image html_width="700" src="fuvest/2025/fase01/q71.png" />
 				<p>Considerando o texto e o gráfico, sobre a resistência de bactérias a antibióticos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2379,19 +2448,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p><m>4.5\times10^{-5}</m></p>
+					<p>
+						<m>4.5\times10^{-5}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>9,0\times10^{-5}</m></p>
+					<p>
+						<m>9,0\times10^{-5}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>1,0\times10^{-4}</m></p>
+					<p>
+						<m>1,0\times10^{-4}</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>5,0\times10^{-2}</m></p>
+					<p>
+						<m>5,0\times10^{-2}</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>1.0\times10^{-1}</m></p>
+					<p>
+						<m>1.0\times10^{-1}</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2401,7 +2480,8 @@
 		<context>
 			<quote>
 				<p>Um artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de <q>foguetes de garrafa PET</q>, propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. Uma mistura de vinagre (que contém ácido acético, <c>CH3COOH</c>) com bicarbonato de sódio (<c>NaHCO3</c>) produz gás carbônico (<c>CO2</c>) por meio da reação química representada pela seguinte equação:
-				<chem>CH_{3}COOH+NaHCO_{3}\rightarrow CH_{3}COONa+CO_{2}+H_{2}O</chem></p>
+				<chem>CH_{3}COOH+NaHCO_{3}\rightarrow CH_{3}COONa+CO_{2}+H_{2}O</chem>
+				</p>
 				<image wrap="true" width="0.15" html_width="100" size="15mm" src="fuvest/2025/fase01/q73.png" />
 				<p>A reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume <m>V_{CO_{2}}</m> e exercerá uma pressão <m>P_{CO_{2}}</m> sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura.</p>
 			</quote>
@@ -2473,25 +2553,35 @@
 			<classification subject="Math:Geometry:Solid Geometry" />
 			<statement>
 				<p>Um designer de produtos deseja fabricar um vaso para flores conforme a figura a seguir.</p>
-				<image width="0.5"  html_width="400" src="fuvest/2025/fase01/q75.png" />
+				<image width="0.5" html_width="400" src="fuvest/2025/fase01/q75.png" />
 				<p>Sabe-se que a base e o topo do vaso são uma circunferência de raio <m>R</m> que mede 10 cm, a parte central é uma circunferência de raio <m>r</m> de 5 cm e a medida <m>h</m> mede 12 cm.</p>
 				<p>Qual é a capacidade volumétrica desse vaso em cm³?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="true">
-					<p><m>1400\pi</m></p>
+					<p>
+						<m>1400\pi</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>2100\pi</m></p>
+					<p>
+						<m>2100\pi</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>2400\pi</m></p>
+					<p>
+						<m>2400\pi</m>
+					</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>2600\pi</m></p>
+					<p>
+						<m>2600\pi</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>2800\pi</m></p>
+					<p>
+						<m>2800\pi</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2506,19 +2596,29 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>V=V_{1}+V_{2}</m> e <m>A=A_{1}+A_{2}</m></p>
+					<p>
+						<m>V=V_{1}+V_{2}</m> e <m>A=A_{1}+A_{2}</m>
+					</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>V=V_{1}+V_{2}</m> e <m>A=A_{1}+2A_{2}</m></p>
+					<p>
+						<m>V=V_{1}+V_{2}</m> e <m>A=A_{1}+2A_{2}</m>
+					</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p><m>V=V_{1}+2V_{2}</m> e <m>A=A_{1}+2A_{2}</m></p>
+					<p>
+						<m>V=V_{1}+2V_{2}</m> e <m>A=A_{1}+2A_{2}</m>
+					</p>
 				</option>
 				<option label="D" is_correct="true">
-					<p><m>V=V_{1}+2V_{2}</m> e <m>A=A_{1}+A_{2}</m></p>
+					<p>
+						<m>V=V_{1}+2V_{2}</m> e <m>A=A_{1}+A_{2}</m>
+					</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p><m>V=2V_{1}+2V_{2}</m> e <m>A=2A_{1}+2A_{2}</m></p>
+					<p>
+						<m>V=2V_{1}+2V_{2}</m> e <m>A=2A_{1}+2A_{2}</m>
+					</p>
 				</option>
 			</options>
 		</objective_question>
@@ -2581,7 +2681,7 @@
 		<objective_question number="79" success_rate="54.2">
 			<classification subject="History:Ancient:Rome" />
 			<statement>
-				<image  html_width="700" src="fuvest/2025/fase01/q79.png" />
+				<image html_width="700" src="fuvest/2025/fase01/q79.png" />
 				<p>A análise do mapa permite identificar deslocamentos de povos não romanos caracterizados</p>
 			</statement>
 			<options>
@@ -2735,37 +2835,37 @@
 				<verse>
 					<title>Lira VII (Parte II)</title>
 					<stanza>
-					<l>Meu prezado Glauceste,</l>
-					<l>Se fazes o conceito</l>
-					<l>Que, bem que réu, abrigo</l>
-					<l>A cândida Virtude no meu peito;</l>
-					<l>Se julgas, digo, que mereço ainda</l>
-					<l>Da tua mão socorro;</l>
-					<l>Ah! Vem dar-mo agora,</l>
-					<l>Agora, sim, que morro!</l>
-					<l>Não quero que, montado</l>
-					<l>No <u>Pégaso</u> fogoso,</l>
-					<l>Venhas com dura lança</l>
-					<l>Ao monstro infame traspassar, raivoso.</l>
-					<l>Deixa que viva a pérfida calúnia,</l>
-					<l>E forje o meu tormento:</l>
-					<l>Com menos, meu Glauceste,</l>
-					<l>Com menos me contento.</l>
+						<l>Meu prezado Glauceste,</l>
+						<l>Se fazes o conceito</l>
+						<l>Que, bem que réu, abrigo</l>
+						<l>A cândida Virtude no meu peito;</l>
+						<l>Se julgas, digo, que mereço ainda</l>
+						<l>Da tua mão socorro;</l>
+						<l>Ah! Vem dar-mo agora,</l>
+						<l>Agora, sim, que morro!</l>
+						<l>Não quero que, montado</l>
+						<l>No <u>Pégaso</u> fogoso,</l>
+						<l>Venhas com dura lança</l>
+						<l>Ao monstro infame traspassar, raivoso.</l>
+						<l>Deixa que viva a pérfida calúnia,</l>
+						<l>E forje o meu tormento:</l>
+						<l>Com menos, meu Glauceste,</l>
+						<l>Com menos me contento.</l>
 					</stanza>
 				</verse>
 				<cite>Tomás Antônio Gonzaga. Marilia de Dirceu.</cite>
 				<verse>
 					<title>Romance LXVI ou De Outros Maldizentes</title>
 					<stanza>
-					<l>— Que fica, na fortaleza,</l>
-					<l>daquele poeta Gonzaga?</l>
-					<l>— Um par de esporas, somente.</l>
-					<l>Um par de esporas de prata.</l>
-					<l>(...)</l>
-					<l>Dizem que tinha um cavalo</l>
-					<l>que <u>Pégaso</u> se chamava.</l>
-					<l>Não pisava neste mundo,</l>
-					<l>mas nos planaltos da Arcádia!</l>
+						<l>— Que fica, na fortaleza,</l>
+						<l>daquele poeta Gonzaga?</l>
+						<l>— Um par de esporas, somente.</l>
+						<l>Um par de esporas de prata.</l>
+						<l>(...)</l>
+						<l>Dizem que tinha um cavalo</l>
+						<l>que <u>Pégaso</u> se chamava.</l>
+						<l>Não pisava neste mundo,</l>
+						<l>mas nos planaltos da Arcádia!</l>
 					</stanza>
 				</verse>
 				<cite>Cecilia Meireles. Romanceiro da Inconfidência.</cite>
@@ -2798,22 +2898,22 @@
 			<statement>
 				<verse>
 					<stanza>
-					<l>Se a derrama for lançada,</l>
-					<l>há levante, com certeza.</l>
-					<l>Corre-se por essas ruas?</l>
-					<l>Corta-se alguma cabeça?</l>
-					<l>Do cimo de alguma escada,</l>
-					<l>profere-se alguma arenga?</l>
-					<l>Que bandeira se desdobra?</l>
-					<l>Com que figura ou legenda?</l>
-					<l>Coisas da Maçonaria,</l>
-					<l>do Paganismo ou da Igreja?</l>
-					<l>A Santíssima Trindade?</l>
-					<l>Um gênio a quebrar algemas?</l>
-					<l>Atrás de portas fechadas,</l>
-					<l>à luz de velas acesas,</l>
-					<l>entre sigilo e espionagem,</l>
-					<l>acontece a Inconfidência.</l>
+						<l>Se a derrama for lançada,</l>
+						<l>há levante, com certeza.</l>
+						<l>Corre-se por essas ruas?</l>
+						<l>Corta-se alguma cabeça?</l>
+						<l>Do cimo de alguma escada,</l>
+						<l>profere-se alguma arenga?</l>
+						<l>Que bandeira se desdobra?</l>
+						<l>Com que figura ou legenda?</l>
+						<l>Coisas da Maçonaria,</l>
+						<l>do Paganismo ou da Igreja?</l>
+						<l>A Santíssima Trindade?</l>
+						<l>Um gênio a quebrar algemas?</l>
+						<l>Atrás de portas fechadas,</l>
+						<l>à luz de velas acesas,</l>
+						<l>entre sigilo e espionagem,</l>
+						<l>acontece a Inconfidência.</l>
 					</stanza>
 				</verse>
 				<p>Os versos de Cecília Meireles, no <i>Romanceiro da Inconfidência</i>, remetem</p>
@@ -2843,7 +2943,8 @@
 			<classification subject="Literature:Brazil:Modernism" />
 			<statement>
 				<quote>
-					<p>No texto intitulado <i>Tarsila</i>, a pesquisadora Aracy Amaral transcreve um trecho das impressões de Tarsila do Amaral sobre a viagem às cidades históricas coloniais mineiras, que realizara em 1924 com o grupo modernista, liderado por Mário de Andrade: <q>(...) As decorações murais de um modesto corredor de hotel; o forro das salas, feito de taquarinhas coloridas e trançadas; as pinturas das igrejas, simples e comoventes, executadas com amor e devoção por artistas anônimos; o Aleijadinho, nas suas estátuas e nas linhas geniais da sua arquitetura religiosa, tudo era motivo para as nossas exclamações admirativas. Encontrei em Minas as cores que adorava em criança. Ensinaram-me depois que eram feias e caipiras. Segui o ramerrão do gosto apurado... Mas depois vinguei-me da opressão passando-as para as minhas telas: azul puríssimo, rosa violáceo, amarelo vivo, verde cantante, tudo em gradações mais ou menos fortes, conforme a mistura de branco. Pintura limpa, sobretudo, sem medo de cânones convencionais. Liberdade e sinceridade, uma certa estilização que a adaptava à época moderna.</q></p>
+					<p>No texto intitulado <i>Tarsila</i>, a pesquisadora Aracy Amaral transcreve um trecho das impressões de Tarsila do Amaral sobre a viagem às cidades históricas coloniais mineiras, que realizara em 1924 com o grupo modernista, liderado por Mário de Andrade: <q>(...) As decorações murais de um modesto corredor de hotel; o forro das salas, feito de taquarinhas coloridas e trançadas; as pinturas das igrejas, simples e comoventes, executadas com amor e devoção por artistas anônimos; o Aleijadinho, nas suas estátuas e nas linhas geniais da sua arquitetura religiosa, tudo era motivo para as nossas exclamações admirativas. Encontrei em Minas as cores que adorava em criança. Ensinaram-me depois que eram feias e caipiras. Segui o ramerrão do gosto apurado... Mas depois vinguei-me da opressão passando-as para as minhas telas: azul puríssimo, rosa violáceo, amarelo vivo, verde cantante, tudo em gradações mais ou menos fortes, conforme a mistura de branco. Pintura limpa, sobretudo, sem medo de cânones convencionais. Liberdade e sinceridade, uma certa estilização que a adaptava à época moderna.</q>
+					</p>
 				</quote>
 				<cite>AMARAL, Tarsila, 1939. Apud AMARAL, Aracy. Tarsila.</cite>
 				<image src="fuvest/2025/fase01/q86.png" />
@@ -2973,29 +3074,29 @@
 			<statement>
 				<verse>
 					<stanza>
-					<l>Brasil, meu Brasil brasileiro</l>
-					<l>Meu mulato inzoneiro</l>
-					<l>Vou cantar-te nos meus versos</l>
-					<l>O Brasil, samba que dá</l>
-					<l>Bamboleio, que faz gingar</l>
-					<l>O Brasil do meu amor</l>
-					<l>Terra de Nosso Senhor</l>
-					<l>Brasil, pra mim</l>
-					<l>Ô, abre a cortina do passado</l>
-					<l>Tira a mãe preta do cerrado</l>
-					<l>Bota o Rei Congo no congado</l>
-					<l>Brasil, pra mim (...)</l>
-					<l>Ô! Esse coqueiro que dá coco</l>
-					<l>Onde eu amarro a minha rede</l>
-					<l>Nas noites claras de luar</l>
-					<l>Brasil, pra mim</l>
-					<l>Ô! Ouve essas fontes murmurantes</l>
-					<l>Onde eu mato a minha sede</l>
-					<l>E onde a lua vem brincar</l>
-					<l>Ô! Este Brasil lindo e trigueiro</l>
-					<l>É o meu Brasil, brasileiro</l>
-					<l>Terra de samba e pandeiro</l>
-					<l>Brasil, pra mim</l>
+						<l>Brasil, meu Brasil brasileiro</l>
+						<l>Meu mulato inzoneiro</l>
+						<l>Vou cantar-te nos meus versos</l>
+						<l>O Brasil, samba que dá</l>
+						<l>Bamboleio, que faz gingar</l>
+						<l>O Brasil do meu amor</l>
+						<l>Terra de Nosso Senhor</l>
+						<l>Brasil, pra mim</l>
+						<l>Ô, abre a cortina do passado</l>
+						<l>Tira a mãe preta do cerrado</l>
+						<l>Bota o Rei Congo no congado</l>
+						<l>Brasil, pra mim (...)</l>
+						<l>Ô! Esse coqueiro que dá coco</l>
+						<l>Onde eu amarro a minha rede</l>
+						<l>Nas noites claras de luar</l>
+						<l>Brasil, pra mim</l>
+						<l>Ô! Ouve essas fontes murmurantes</l>
+						<l>Onde eu mato a minha sede</l>
+						<l>E onde a lua vem brincar</l>
+						<l>Ô! Este Brasil lindo e trigueiro</l>
+						<l>É o meu Brasil, brasileiro</l>
+						<l>Terra de samba e pandeiro</l>
+						<l>Brasil, pra mim</l>
 					</stanza>
 				</verse>
 				<p>A canção Aquarela do Brasil foi composta por Ari Barroso e lançada no ano de 1939. Sua letra permite identificar temas que guardam afinidades com a política cultural do Estado Novo, podendo ser destacada a</p>

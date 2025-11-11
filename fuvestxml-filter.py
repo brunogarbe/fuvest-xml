@@ -15,6 +15,8 @@ from typing import Iterable, Tuple
 
 import os
 import xml.etree.ElementTree as ET
+from datetime import datetime
+import re
 
 
 def db_file_exists(db_path: Path) -> bool:
@@ -87,6 +89,38 @@ def seed_data(conn: sqlite3.Connection) -> None:
     )
 
 
+def inner_xml(element):
+    parts = []
+    if element.text:
+        parts.append(element.text)
+    for child in element:
+        parts.append(ET.tostring(child, encoding="unicode"))
+        if child.tail:
+            parts.append(child.tail)
+    return "".join(parts)
+
+
+def inner_xml_clean(element):
+    """
+    Return the inner XML of an element as a string,
+    removing unnecessary whitespace and indentation.
+    """
+    parts = []
+
+    if element.text and element.text.strip():
+        parts.append(element.text.strip())
+
+    for child in element:
+        parts.append(ET.tostring(child, encoding="unicode").strip())
+        if child.tail and child.tail.strip():
+            parts.append(child.tail.strip())
+
+    # Join parts and collapse multiple spaces/newlines
+    xml_text = " ".join(parts)
+    xml_text = re.sub(r"\s+", " ", xml_text).strip()
+    return xml_text
+
+
 def process_question_group(conn: sqlite3.Connection, data, parent):
     obj_questions = parent.findall("./objective_question")
     questions = []
@@ -98,8 +132,9 @@ def process_question_group(conn: sqlite3.Connection, data, parent):
         classif = q.find("./classification").get("subject", "").strip()
         print(classif)
 
-        qstr = ET.tostring(q, encoding="unicode")
-        # print(qstr)
+        # qstr = ET.tostring(q, encoding="unicode")
+        qstr = inner_xml_clean(q)
+        print(qstr)
         questions.append((data[0], data[1], number, classif, qstr))
 
     conn.executemany(
@@ -181,9 +216,9 @@ def main() -> None:
     args = parse_args()
     db_path: Path = args.db
 
-    if db_file_exists(db_path):
-        print(f"✔ Database already exists: {db_path}")
-        return
+    # if db_file_exists(db_path):
+    #     print(f"✔ Database already exists: {db_path}")
+    #     return
 
     if db_path.exists():
         print(f"⚠ Existing database found. Deleting: {db_path}")

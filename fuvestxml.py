@@ -164,7 +164,7 @@ class AbstractWriter(ABC):
         pass
 
     @abstractmethod
-    def options_cell_start(self) -> str:
+    def options_cell_start(self, align: str) -> str:
         pass
 
     @abstractmethod
@@ -483,7 +483,7 @@ class LatexWriter(AbstractWriter):
         return "".join(parts)
 
     @override
-    def options_cell_start(self) -> str:
+    def options_cell_start(self, align: str) -> str:
         return ""
 
     @override
@@ -879,8 +879,11 @@ class HtmlWriter(AbstractWriter):
         return "</tr>\n"
 
     @override
-    def options_cell_start(self) -> str:
-        return "<td>\n"
+    def options_cell_start(self, align: str) -> str:
+        if align == "center":
+            return '<td class="cell-center">\n'
+        else:
+            return "<td>\n"
 
     @override
     def options_cell_end(self) -> str:
@@ -888,7 +891,7 @@ class HtmlWriter(AbstractWriter):
 
     @override
     def assumptions_start(self) -> str:
-        parts = ['<div class="assumption-box">\n', "<p><b>Note e adote:</b></p>\n"]
+        parts = ['<div class="assumption-box">\n', "<h3>Note e adote:</h3>\n"]
         return "".join(parts)
 
     @override
@@ -1377,12 +1380,13 @@ class XmlConverter:
                 )
 
             for cell in row.findall("./cell"):
+                align = cell.get("align")
                 body_parts = []
                 for sub in cell:
                     body_parts.append(self.render_option_child(sub))
                 body = "\n".join([t for t in body_parts if t]).strip()
 
-                parts.append(self.writer.options_cell_start())
+                parts.append(self.writer.options_cell_start(align))
                 parts.append(body)
                 parts.append(self.writer.options_cell_end())
 

@@ -66,6 +66,8 @@ def create_schema(conn: sqlite3.Connection) -> None:
             text        TEXT NOT NULL
         );
 
+        CREATE INDEX idx_subject ON questions(subject);
+
         COMMIT;
         """
     )
@@ -362,134 +364,190 @@ def read_parser_arguments():
     return parser.parse_args()
 
 
-def fetch_by_year(year):
-    """
-    Fetches all products that match a specific category.
-    """
-    try:
-        with sqlite3.connect(DEFAULT_DB_PATH) as conn:
-            cursor = conn.cursor()
+def search_database(conn, year=None, name=None, subject=None):
+    cursor = conn.cursor()
 
-            # This is the SQL query with a 'WHERE' clause.
-            # The '?' is a placeholder for our criteria.
-            query = "SELECT * FROM questions WHERE year = ?"
+    # 1. Start with the base query
+    query = "SELECT * FROM questions"
 
-            # Execute the query, passing the criteria as a tuple.
-            # This is the safe way to prevent SQL injection.
-            cursor.execute(query, (year,))
+    # 2. Create lists to hold the SQL conditions and the actual values
+    conditions = []
+    parameters = []
 
-            # Get all matching rows
-            results = cursor.fetchall()
+    # 3. Check each argument. If it exists, add logic to both lists.
 
-            if not results:
-                print("No products found for this category.")
-                return
+    if year is not None:
+        # Exact match for integers
+        conditions.append("year = ?")
+        parameters.append(year)
 
-            # Loop through and print the results
-            ret = []
-            for row in results:
-                ret.append(
-                    {
-                        "id": row[0],
-                        "exam": row[1],
-                        "year": row[2],
-                        "number": row[3],
-                        "subject": row[4],
-                        "text": row[5],
-                    }
-                )
+    if name:
+        # Partial match ("Starts with") logic
+        conditions.append("exam = ?")
+        parameters.append(name)
 
-            return ret
+    if subject:
+        # Exact match for text (or change to LIKE if preferred)
+        conditions.append("subject LIKE ?")
+        parameters.append(f"{subject}%")
 
-    except sqlite3.Error as e:
-        print(f"An error occurred while fetching data: {e}")
+    # 4. If we have conditions, append them to the query using 'AND'
+    if conditions:
+        query += " WHERE " + " AND ".join(conditions)
 
+    print(query)
+    # 5. Execute securely using the separate parameters list
+    # query looks like: "SELECT * FROM books WHERE year = ? AND name LIKE ?"
+    cursor.execute(query, parameters)
 
-def fetch_by_name(name):
-    """
-    Fetches all products that match a specific category.
-    """
-    try:
-        with sqlite3.connect(DEFAULT_DB_PATH) as conn:
-            cursor = conn.cursor()
+    # Get all matching rows
+    results = cursor.fetchall()
 
-            # This is the SQL query with a 'WHERE' clause.
-            # The '?' is a placeholder for our criteria.
-            query = "SELECT * FROM questions WHERE exam = ?"
+    # Loop through and print the results
+    ret = []
+    for row in results:
+        ret.append(
+            {
+                "id": row[0],
+                "exam": row[1],
+                "year": row[2],
+                "number": row[3],
+                "subject": row[4],
+                "text": row[5],
+            }
+        )
 
-            # Execute the query, passing the criteria as a tuple.
-            # This is the safe way to prevent SQL injection.
-            cursor.execute(query, (name,))
-
-            # Get all matching rows
-            results = cursor.fetchall()
-
-            if not results:
-                print("No products found for this category.")
-                return
-
-            # Loop through and print the results
-            ret = []
-            for row in results:
-                ret.append(
-                    {
-                        "id": row[0],
-                        "exam": row[1],
-                        "year": row[2],
-                        "number": row[3],
-                        "subject": row[4],
-                        "text": row[5],
-                    }
-                )
-
-            return ret
-
-    except sqlite3.Error as e:
-        print(f"An error occurred while fetching data: {e}")
+    return ret
 
 
-def fetch_by_subject(subject):
-    """
-    Fetches all products that match a specific category.
-    """
-    try:
-        with sqlite3.connect(DEFAULT_DB_PATH) as conn:
-            cursor = conn.cursor()
+# def fetch_by_year(year):
+#     """
+#     Fetches all products that match a specific category.
+#     """
+#     try:
+#         with sqlite3.connect(DEFAULT_DB_PATH) as conn:
+#             cursor = conn.cursor()
 
-            # This is the SQL query with a 'WHERE' clause.
-            # The '?' is a placeholder for our criteria.
-            query = "SELECT * FROM questions WHERE subject LIKE ?;"
+#             # This is the SQL query with a 'WHERE' clause.
+#             # The '?' is a placeholder for our criteria.
+#             query = "SELECT * FROM questions WHERE year = ?"
 
-            # Execute the query, passing the criteria as a tuple.
-            # This is the safe way to prevent SQL injection.
-            cursor.execute(query, (subject + "%",))
-            # cursor.execute(query, (search_term + '%',))
+#             # Execute the query, passing the criteria as a tuple.
+#             # This is the safe way to prevent SQL injection.
+#             cursor.execute(query, (year,))
 
-            # Get all matching rows
-            results = cursor.fetchall()
+#             # Get all matching rows
+#             results = cursor.fetchall()
 
-            if not results:
-                print("No products found for this category.")
-                return
+#             if not results:
+#                 print("No products found for this category.")
+#                 return
 
-            # Loop through and print the results
-            ret = []
-            for row in results:
-                ret.append(
-                    {
-                        "id": row[0],
-                        "exam": row[1],
-                        "year": row[2],
-                        "number": row[3],
-                        "subject": row[4],
-                        "text": row[5],
-                    }
-                )
+#             # Loop through and print the results
+#             ret = []
+#             for row in results:
+#                 ret.append(
+#                     {
+#                         "id": row[0],
+#                         "exam": row[1],
+#                         "year": row[2],
+#                         "number": row[3],
+#                         "subject": row[4],
+#                         "text": row[5],
+#                     }
+#                 )
 
-            return ret
+#             return ret
 
-    except sqlite3.Error as e:
-        print(f"An error occurred while fetching data: {e}")
+#     except sqlite3.Error as e:
+#         print(f"An error occurred while fetching data: {e}")
+
+
+# def fetch_by_name(name):
+#     """
+#     Fetches all products that match a specific category.
+#     """
+#     try:
+#         with sqlite3.connect(DEFAULT_DB_PATH) as conn:
+#             cursor = conn.cursor()
+
+#             # This is the SQL query with a 'WHERE' clause.
+#             # The '?' is a placeholder for our criteria.
+#             query = "SELECT * FROM questions WHERE exam = ?"
+
+#             # Execute the query, passing the criteria as a tuple.
+#             # This is the safe way to prevent SQL injection.
+#             cursor.execute(query, (name,))
+
+#             # Get all matching rows
+#             results = cursor.fetchall()
+
+#             if not results:
+#                 print("No products found for this category.")
+#                 return
+
+#             # Loop through and print the results
+#             ret = []
+#             for row in results:
+#                 ret.append(
+#                     {
+#                         "id": row[0],
+#                         "exam": row[1],
+#                         "year": row[2],
+#                         "number": row[3],
+#                         "subject": row[4],
+#                         "text": row[5],
+#                     }
+#                 )
+
+#             return ret
+
+#     except sqlite3.Error as e:
+#         print(f"An error occurred while fetching data: {e}")
+
+
+# def fetch_by_subject(subject):
+#     """
+#     Fetches all products that match a specific category.
+#     """
+#     try:
+#         with sqlite3.connect(DEFAULT_DB_PATH) as conn:
+#             cursor = conn.cursor()
+
+#             # This is the SQL query with a 'WHERE' clause.
+#             # The '?' is a placeholder for our criteria.
+#             query = "SELECT * FROM questions WHERE subject LIKE ?;"
+
+#             # Execute the query, passing the criteria as a tuple.
+#             # This is the safe way to prevent SQL injection.
+#             cursor.execute(query, (subject + "%",))
+#             # cursor.execute(query, (search_term + '%',))
+
+#             # Get all matching rows
+#             results = cursor.fetchall()
+
+#             if not results:
+#                 print("No products found for this category.")
+#                 return
+
+#             # Loop through and print the results
+#             ret = []
+#             for row in results:
+#                 ret.append(
+#                     {
+#                         "id": row[0],
+#                         "exam": row[1],
+#                         "year": row[2],
+#                         "number": row[3],
+#                         "subject": row[4],
+#                         "text": row[5],
+#                     }
+#                 )
+
+#             return ret
+
+#     except sqlite3.Error as e:
+#         print(f"An error occurred while fetching data: {e}")
 
 
 def main() -> None:
@@ -537,14 +595,22 @@ def main() -> None:
         print(name, year, subject, args.output)
 
         questions = []
-        if args.year:
-            questions = fetch_by_year(year)
+        # if args.year:
+        #     questions = fetch_by_year(year)
 
-        elif args.subject:
-            questions = fetch_by_subject(subject)
+        # elif args.subject:
+        #     questions = fetch_by_subject(subject)
 
-        elif args.name:
-            questions = fetch_by_name(name)
+        # elif args.name:
+        #     questions = fetch_by_name(name)
+
+        try:
+            with sqlite3.connect(DEFAULT_DB_PATH) as conn:
+                # cursor = conn.cursor()
+                questions = search_database(conn, year=year, name=name, subject=subject)
+
+        except sqlite3.Error as e:
+            print(f"An error occurred while fetching data: {e}")
 
         # print(questions)
         if args.output:

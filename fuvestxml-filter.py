@@ -44,6 +44,7 @@ def db_file_exists(db_path: Path) -> bool:
 def connect(db_path: Path) -> sqlite3.Connection:
     # isolation_level=None → autocommit off by default (we'll use explicit transactions)
     conn = sqlite3.connect(db_path.as_posix())
+    # sqlite3.connect(DEFAULT_DB_PATH)
     # Nice defaults
     conn.execute("PRAGMA foreign_keys = ON;")
     conn.execute("PRAGMA journal_mode = WAL;")
@@ -70,41 +71,6 @@ def create_schema(conn: sqlite3.Connection) -> None:
 
         COMMIT;
         """
-    )
-
-
-def seed_data(conn: sqlite3.Connection) -> None:
-    """Insert some initial rows (only if tables are empty)."""
-    # Only seed if no rows yet
-    # people_count = conn.execute("SELECT COUNT(*) FROM people;").fetchone()[0]
-    # if people_count == 0:
-    #     people_rows: Iterable[Tuple[str, str]] = [
-    #         ("Ada Lovelace", "ada@example.com"),
-    #         ("Alan Turing", "alan@example.com"),
-    #         ("Grace Hopper", "grace@example.com"),
-    #     ]
-    #     conn.executemany("INSERT INTO people (name, email) VALUES (?, ?);", people_rows)
-
-    # projects_count = conn.execute("SELECT COUNT(*) FROM projects;").fetchone()[0]
-    # if projects_count == 0:
-    #     # Map owner emails to IDs to keep the example clean
-    #     email_to_id = {
-    #         email: pid
-    #         for pid, email in conn.execute("SELECT id, email FROM people;").fetchall()
-    #     }
-
-    project_rows: Iterable[Tuple[str, int]] = [
-        ("Fuvest", "2025", "01", "texto"),
-        ("Fuvest", "2025", "01", "texto2"),
-        ("Fuvest", "2025", "01", "texto3"),
-        ("Fuvest", "2025", "01", "texto4"),
-    ]
-    # Filter any None owner_id just in case
-    # project_rows = [(n, oid) for n, oid in project_rows if oid is not None]
-
-    conn.executemany(
-        "INSERT INTO questions (exam, year, number, subject, text) VALUES (?, ?, ?, ?, ?);",
-        project_rows,
     )
 
 
@@ -146,6 +112,11 @@ def shuffle(q):
     option_nodes = []
 
     options = q.find("./options")
+
+    if options is None:
+        options = q.find("./options_table")
+
+    print(options)
 
     for i, child in enumerate(options):
         if child.tag == "option":
@@ -334,6 +305,8 @@ def read_parser_arguments():
 
     parser.add_argument("-f", "--no-fix", action="store_true", help="Fix numbering.")
 
+    parser.add_argument("--shuffle", action="store_true", help="Shuffle options.")
+
     # fmt_group = parser.add_mutually_exclusive_group()
     # fmt_group.add_argument(
     #     "--latex", action="store_true", help="Generate LaTeX output (default)"
@@ -420,136 +393,6 @@ def search_database(conn, year=None, name=None, subject=None):
     return ret
 
 
-# def fetch_by_year(year):
-#     """
-#     Fetches all products that match a specific category.
-#     """
-#     try:
-#         with sqlite3.connect(DEFAULT_DB_PATH) as conn:
-#             cursor = conn.cursor()
-
-#             # This is the SQL query with a 'WHERE' clause.
-#             # The '?' is a placeholder for our criteria.
-#             query = "SELECT * FROM questions WHERE year = ?"
-
-#             # Execute the query, passing the criteria as a tuple.
-#             # This is the safe way to prevent SQL injection.
-#             cursor.execute(query, (year,))
-
-#             # Get all matching rows
-#             results = cursor.fetchall()
-
-#             if not results:
-#                 print("No products found for this category.")
-#                 return
-
-#             # Loop through and print the results
-#             ret = []
-#             for row in results:
-#                 ret.append(
-#                     {
-#                         "id": row[0],
-#                         "exam": row[1],
-#                         "year": row[2],
-#                         "number": row[3],
-#                         "subject": row[4],
-#                         "text": row[5],
-#                     }
-#                 )
-
-#             return ret
-
-#     except sqlite3.Error as e:
-#         print(f"An error occurred while fetching data: {e}")
-
-
-# def fetch_by_name(name):
-#     """
-#     Fetches all products that match a specific category.
-#     """
-#     try:
-#         with sqlite3.connect(DEFAULT_DB_PATH) as conn:
-#             cursor = conn.cursor()
-
-#             # This is the SQL query with a 'WHERE' clause.
-#             # The '?' is a placeholder for our criteria.
-#             query = "SELECT * FROM questions WHERE exam = ?"
-
-#             # Execute the query, passing the criteria as a tuple.
-#             # This is the safe way to prevent SQL injection.
-#             cursor.execute(query, (name,))
-
-#             # Get all matching rows
-#             results = cursor.fetchall()
-
-#             if not results:
-#                 print("No products found for this category.")
-#                 return
-
-#             # Loop through and print the results
-#             ret = []
-#             for row in results:
-#                 ret.append(
-#                     {
-#                         "id": row[0],
-#                         "exam": row[1],
-#                         "year": row[2],
-#                         "number": row[3],
-#                         "subject": row[4],
-#                         "text": row[5],
-#                     }
-#                 )
-
-#             return ret
-
-#     except sqlite3.Error as e:
-#         print(f"An error occurred while fetching data: {e}")
-
-
-# def fetch_by_subject(subject):
-#     """
-#     Fetches all products that match a specific category.
-#     """
-#     try:
-#         with sqlite3.connect(DEFAULT_DB_PATH) as conn:
-#             cursor = conn.cursor()
-
-#             # This is the SQL query with a 'WHERE' clause.
-#             # The '?' is a placeholder for our criteria.
-#             query = "SELECT * FROM questions WHERE subject LIKE ?;"
-
-#             # Execute the query, passing the criteria as a tuple.
-#             # This is the safe way to prevent SQL injection.
-#             cursor.execute(query, (subject + "%",))
-#             # cursor.execute(query, (search_term + '%',))
-
-#             # Get all matching rows
-#             results = cursor.fetchall()
-
-#             if not results:
-#                 print("No products found for this category.")
-#                 return
-
-#             # Loop through and print the results
-#             ret = []
-#             for row in results:
-#                 ret.append(
-#                     {
-#                         "id": row[0],
-#                         "exam": row[1],
-#                         "year": row[2],
-#                         "number": row[3],
-#                         "subject": row[4],
-#                         "text": row[5],
-#                     }
-#                 )
-
-#             return ret
-
-#     except sqlite3.Error as e:
-#         print(f"An error occurred while fetching data: {e}")
-
-
 def main() -> None:
     # Process the input arguments
     args = read_parser_arguments()
@@ -577,6 +420,7 @@ def main() -> None:
 
                 # seed_data(conn)
                 conn.commit()
+
             except Exception:
                 # On any error, rollback and remove the half-created file for cleanliness
                 conn.rollback()
@@ -595,22 +439,15 @@ def main() -> None:
         print(name, year, subject, args.output)
 
         questions = []
-        # if args.year:
-        #     questions = fetch_by_year(year)
+        conn = connect(DEFAULT_DB_PATH)
+        questions = search_database(conn, year=year, name=name, subject=subject)
+        # try:
+        #     with sqlite3.connect(DEFAULT_DB_PATH) as conn:
+        #         # cursor = conn.cursor()
+        #         questions = search_database(conn, year=year, name=name, subject=subject)
 
-        # elif args.subject:
-        #     questions = fetch_by_subject(subject)
-
-        # elif args.name:
-        #     questions = fetch_by_name(name)
-
-        try:
-            with sqlite3.connect(DEFAULT_DB_PATH) as conn:
-                # cursor = conn.cursor()
-                questions = search_database(conn, year=year, name=name, subject=subject)
-
-        except sqlite3.Error as e:
-            print(f"An error occurred while fetching data: {e}")
+        # except sqlite3.Error as e:
+        #     print(f"An error occurred while fetching data: {e}")
 
         # print(questions)
         if args.output:
@@ -623,17 +460,18 @@ def main() -> None:
                 for i, q in enumerate(questions):
                     file.write("<question_group>\n")
                     file.write(f'<objective_question number="{i + 1}">\n')
-                    file.write(q["text"])
+                    if args.shuffle:
+                        root = ET.fromstring("<temp>" + q["text"] + "</temp>")
+                        shuffle(root)
+                        qstr = inner_xml_clean(root)
+                        file.write(qstr)
+                    else:
+                        file.write(q["text"])
                     file.write("</objective_question>\n")
                     file.write("</question_group>\n")
                 file.write("</exam>\n")
-                # file.write("This is the second line.")
         else:
             for q in questions:
-                # row is a tuple: (id, name, category, price)
-                # print(
-                #     f"  ID: {row[0]}, Exam: {row[1]}, Year: {row[2]}, Number: {row[3]}, Subject: {row[4]}, text: {row[5]}"
-                # )
                 print(
                     f"ID: {q['id']}, Exam: {q['exam']}, Year: {q['year']}, Number: {q['number']}, Subject: {q['subject']}, text: {q['text']}"
                 )

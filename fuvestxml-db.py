@@ -18,22 +18,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 import re
 import random
-
-
-def number_to_letter(number) -> str:
-    """
-    Converts an integer (1-26) to its corresponding uppercase letter (A-Z).
-
-    Args:
-    number: An integer between 1 and 26 (inclusive).
-
-    Returns:
-    The corresponding uppercase letter, or a ValueError if the input is out of range.
-    """
-    if not 1 <= number <= 26:
-        raise ValueError("Input number must be between 1 and 26.")
-
-    return str(chr(64 + number))
+import fuvestxml
 
 
 def db_file_exists(db_path: Path) -> bool:
@@ -57,6 +42,11 @@ def create_schema(conn: sqlite3.Connection) -> None:
     conn.executescript(
         """
         BEGIN;
+
+        CREATE TABLE IF NOT EXISTS contexts (
+            id          INTEGER PRIMARY KEY AUTOINCREMENT,
+            text        TEXT NOT NULL
+        );
 
         CREATE TABLE IF NOT EXISTS questions (
             id          INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -116,7 +106,7 @@ def shuffle(q):
     if options is None:
         options = q.find("./options_table")
 
-    print(options)
+    # print(options)
 
     for i, child in enumerate(options):
         if child.tag == "option":
@@ -128,13 +118,25 @@ def shuffle(q):
 
     # Step 3: Reinsert shuffled options at their original positions
     for pos, node in zip(option_positions, option_nodes):
-        print(pos, number_to_letter(pos + 1))
-        print(ET.tostring(node, encoding="unicode"))
-        node.set("label", number_to_letter(pos + 1))
+        # print(pos, fuvestxml.number_to_letter(pos + 1))
+        # print(ET.tostring(node, encoding="unicode"))
+        node.set("label", fuvestxml.number_to_letter(pos + 1))
         options[pos] = node
 
 
 def process_question_group(conn: sqlite3.Connection, data, parent):
+    context = parent.find("./context")
+    if context:
+        qstr = ET.tostring(context, encoding="unicode")
+        # Join parts and collapse multiple spaces/newlines
+        # xml_text = " ".join(parts)
+        qstr = re.sub(r"\s+", " ", qstr).strip()
+
+        # print(qstr)
+        conn.execute("INSERT INTO contexts (text) VALUES (?);", (qstr,))
+        new_id = conn.lastrowid
+        # conn.commit()
+
     obj_questions = parent.findall("./objective_question")
     questions = []
     for q in obj_questions:
@@ -368,7 +370,7 @@ def search_database(conn, year=None, name=None, subject=None):
     if conditions:
         query += " WHERE " + " AND ".join(conditions)
 
-    print(query)
+    # print(query)
     # 5. Execute securely using the separate parameters list
     # query looks like: "SELECT * FROM books WHERE year = ? AND name LIKE ?"
     cursor.execute(query, parameters)
@@ -430,28 +432,15 @@ def main() -> None:
                     pass
                 raise
     else:
-        print(
-            "#############################################################################################################"
-        )
         year = args.year
         name = args.name
         subject = args.subject
-        print(name, year, subject, args.output)
 
         questions = []
         conn = connect(DEFAULT_DB_PATH)
         questions = search_database(conn, year=year, name=name, subject=subject)
-        # try:
-        #     with sqlite3.connect(DEFAULT_DB_PATH) as conn:
-        #         # cursor = conn.cursor()
-        #         questions = search_database(conn, year=year, name=name, subject=subject)
 
-        # except sqlite3.Error as e:
-        #     print(f"An error occurred while fetching data: {e}")
-
-        # print(questions)
         if args.output:
-            print("BINGO", args.output)
             with open(args.output, "w", encoding="utf-8") as file:
                 file.write('<?xml version="1.0" encoding="utf-8"?>\n')
                 file.write(
@@ -475,15 +464,6 @@ def main() -> None:
                 print(
                     f"ID: {q['id']}, Exam: {q['exam']}, Year: {q['year']}, Number: {q['number']}, Subject: {q['subject']}, text: {q['text']}"
                 )
-    # if db_file_exists(db_path):
-    #     print(f"✔ Database already exists: {db_path}")
-    #     return
-
-    # print("✅ Database created and populated successfully.")
-    # print("   Try it out:")
-    # print(
-    #     f'      sqlite3 {db_path} "SELECT p.name, pr.name FROM people p JOIN projects pr ON pr.owner_id = p.id;"'
-    # )
 
 
 if __name__ == "__main__":

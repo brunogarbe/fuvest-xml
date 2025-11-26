@@ -391,6 +391,7 @@ def export_questions(filename, questions, shu=False):
             '<exam name="FUVEST" year="2025" phase="objective" day="1" variation="V1" date="2024-11-17" lang="pt-br">\n'
         )
         for i, q in enumerate(questions):
+            # print(q)
             file.write("<question_group>\n")
             file.write(f'<objective_question number="{i + 1}">\n')
             if shu:
@@ -569,14 +570,25 @@ def main() -> None:
     # search the database
     else:
         conn = connect(DEFAULT_DB_PATH)
-        questions = select_questions(
-            conn, year=args.year, exam=args.exam, subject=args.subject
-        )
 
         if args.output:
+            questions = select_questions(
+                conn,
+                year=args.year,
+                exam=args.exam,
+                subject=args.subject,
+                all_data=True,
+            )
             export_questions(args.output, questions, args.shuffle)
 
         else:
+            questions = select_questions(
+                conn,
+                year=args.year,
+                exam=args.exam,
+                subject=args.subject,
+                all_data=args.verbose,
+            )
             print_questions(questions, args.verbose)
 
 

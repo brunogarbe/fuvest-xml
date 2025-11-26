@@ -349,6 +349,12 @@
 	
 	<!-- ===================== Inline Elements ===================== -->
 	
+	<!-- style -->
+	<xs:complexType name="StyleType" mixed="true">
+		<xs:attribute name="color" type="xs:string" use="required"/>
+	</xs:complexType>
+	<xs:element name="style" type="StyleType"/>
+	
 	<!-- Inline math -->
 	<xs:simpleType name="TextOnlyType">
 		<xs:restriction base="xs:string"/>
@@ -382,6 +388,7 @@
 				<xs:element ref="i"/>
 				<xs:element ref="u"/>
 				<xs:element ref="q"/>
+				<xs:element ref="style"/>
 				<xs:element ref="m"/>
 				<xs:element ref="math"/>
 				<xs:element ref="c"/>
@@ -394,6 +401,7 @@
 	<xs:element name="i" type="InlineType"/>
 	<xs:element name="u" type="InlineType"/>
 	<xs:element name="q" type="InlineType"/>
+
 	
 	
 	<!-- ===================== Image ===================== -->
@@ -418,6 +426,7 @@
 				<xs:element ref="i"/>
 				<xs:element ref="u"/>
 				<xs:element ref="q"/>
+				<xs:element ref="style"/>
 				<xs:element ref="m"/>
 				<xs:element ref="math"/>
 				<xs:element ref="c"/>

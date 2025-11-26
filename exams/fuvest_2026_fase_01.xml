@@ -92,8 +92,8 @@
 				em que <m>P_{i}(x)</m> é a probabilidade do i-ésimo resultado para a variável <m>x</m>.</p>
 				<p>Por exemplo, considere uma sequência com duas letras A coloridas, a primeira azul e a segunda vermelha (AA). Se essas duas letras fossem colocadas numa urna, a probabilidade de se retirar, sem observar, a letra azul, como na sequência original, é <m>\frac{1}{2}</m>. Devolve-se a letra à urna e sorteia-se novamente. A probabilidade de sair vermelha é novamente <m>\frac{1}{2}</m>, e nesse caso tem-se:
 				<math>E=-\sum_{i}P_{i}(x)log_{2}P_{i}(x)=-(\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2})=1</math></p>
-				<p>Para uma sequência com 4 letras A, as duas primeiras azuis e as duas últimas vermelhas (AAAA), colocando-as numa urna e sorteando uma, a probabilidade de sair azul é <m>\frac{1}{2}</m>. Devolve-se a letra e sorteia-se novamente. A probabilidade da segunda letra sorteada ser azul, como na sequência original, é novamente <m>\frac{1}{2}</m>. Procedendo dessa forma para as duas letras vermelhas, tem-se:
-				<math>E=-\sum_{i}P_{i}(x)log_{2}P_{i}(x)=-(\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2})=2</math></p>
+				<p>Para uma sequência com 4 letras A, as duas primeiras azuis e as duas últimas vermelhas (<style color="red">AA</style>AA), colocando-as numa urna e sorteando uma, a probabilidade de sair azul é <m>\frac{1}{2}</m>. Devolve-se a letra e sorteia-se novamente. A probabilidade da segunda letra sorteada ser azul, como na sequência original, é novamente <m>\frac{1}{2}</m>. Procedendo dessa forma para as duas letras vermelhas, tem-se:
+				<math>E=-\sum_{i}P_{i}(x)log_{2}P_{i}(x)=-({\color{red}\frac{1}{2}\log_{2}\frac{1}{2}}+\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2})=2</math></p>
 				<p>Com base nessas informações, qual o valor da entropia E, no caso de uma sequência com 4 letras A, sendo as 3 primeiras azuis e a última vermelha (AAAA)?</p>
 			</statement>
 			<options>

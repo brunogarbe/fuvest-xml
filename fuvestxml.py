@@ -317,6 +317,10 @@ class AbstractWriter(ABC):
         pass
 
     @abstractmethod
+    def style(self, text: str, color: str) -> str:
+        pass
+
+    @abstractmethod
     def math(self, text: str) -> str:
         pass
 
@@ -1054,6 +1058,10 @@ class HtmlWriter(AbstractWriter):
         return f"<q>{text}</q>"
 
     @override
+    def style(self, text: str, color: str) -> str:
+        return f'<span style="color: {color};">{text}</span>'
+
+    @override
     def math(self, text: str) -> str:
         return f"\\({text}\\)"
 
@@ -1725,6 +1733,11 @@ class XmlConverter:
             elif child.tag == "q":
                 text = self.render_inline(child)
                 parts.append(self.writer.quote(text))
+
+            elif child.tag == "style":
+                color = child.get("color", "").strip()
+                text = self.render_inline(child)
+                parts.append(self.writer.style(text, color))
 
             elif child.tag == "m":
                 text = self.writer.clean_math(child.text)

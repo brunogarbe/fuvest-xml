@@ -1609,7 +1609,7 @@
 	</question_group>
 
 	<question_group>
-		<objective_question number="54" null="true">
+		<objective_question number="54" cancelled="true">
 			<classification subject="History:Brazil:Old Republic" />
 			<statement>
 				<p>Dois fios muito longos transportam, cada um deles, uma corrente elétrica de intensidade I, conforme indicado na figura. Uma partícula de carga <m>+Q</m>, situada a uma distância <m>R</m> de cada um dos fios, move-se com velocidade constante <m>\vec{V}</m> ao longo da direção <m>z</m>.</p>

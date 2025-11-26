@@ -19,51 +19,80 @@ from datetime import datetime
 import re
 import random
 import fuvestxml
+from tabulate import tabulate
+
+DEFAULT_DB_PATH = Path("./output/fuvestxml.db")
 
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# search_database
+#
 def db_file_exists(db_path: Path) -> bool:
     """Return True if the SQLite file already exists on disk."""
     return db_path.exists() and db_path.is_file()
 
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# connect
+#
 def connect(db_path: Path) -> sqlite3.Connection:
     # isolation_level=None → autocommit off by default (we'll use explicit transactions)
     conn = sqlite3.connect(db_path.as_posix())
     # sqlite3.connect(DEFAULT_DB_PATH)
     # Nice defaults
+    conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA foreign_keys = ON;")
     conn.execute("PRAGMA journal_mode = WAL;")
     conn.execute("PRAGMA synchronous = NORMAL;")
     return conn
 
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# create_schema
+#
 def create_schema(conn: sqlite3.Connection) -> None:
     """Create example tables (idempotent: uses IF NOT EXISTS)."""
     conn.executescript(
         """
         BEGIN;
 
+        CREATE TABLE IF NOT EXISTS subjects (
+            id      INTEGER PRIMARY KEY AUTOINCREMENT,
+            name    TEXT NOT NULL UNIQUE
+        );
+
+        CREATE TABLE IF NOT EXISTS exams (
+            id      INTEGER PRIMARY KEY AUTOINCREMENT,
+            name    TEXT NOT NULL UNIQUE
+        );
+
         CREATE TABLE IF NOT EXISTS contexts (
             id          INTEGER PRIMARY KEY AUTOINCREMENT,
-            text        TEXT NOT NULL
+            context     TEXT NOT NULL
         );
 
         CREATE TABLE IF NOT EXISTS questions (
             id          INTEGER PRIMARY KEY AUTOINCREMENT,
-            exam        TEXT NOT NULL,
+            exam_id     INTEGER,
             year        TEXT NOT NULL,
             number      TEXT NOT NULL,
-            subject     TEXT NOT NULL,
-            text        TEXT NOT NULL
+            sucess_rate INTEGER,
+            cancelled   BOOLEAN,
+            subject_id  INTEGER,
+            context_id  INTEGER,
+            statement   TEXT NOT NULL
         );
-
-        CREATE INDEX idx_subject ON questions(subject);
 
         COMMIT;
         """
     )
 
+    # CREATE INDEX idx_subject ON questions(subject);
 
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# inner_xml
+#
 def inner_xml(element):
     parts = []
     if element.text:
@@ -75,6 +104,9 @@ def inner_xml(element):
     return "".join(parts)
 
 
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# inner_xml_clean
+#
 def inner_xml_clean(element):
     """
     Return the inner XML of an element as a string,
@@ -96,80 +128,48 @@ def inner_xml_clean(element):
     return xml_text
 
 
-def shuffle(q):
-    # Step 1: Extract option children and their positions
-    option_positions = []
-    option_nodes = []
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# get_or_create_data
+#
+def get_or_create_data(cursor, table, value):
+    """Returns the ID of a row in (table) where (column)=value.
+    Creates the row if it does not exist."""
+    cursor.execute(f"SELECT id FROM {table} WHERE name = ?", (value,))
+    row = cursor.fetchone()
 
-    options = q.find("./options")
+    if row:
+        return row[0]
 
-    if options is None:
-        options = q.find("./options_table")
-
-    # print(options)
-
-    for i, child in enumerate(options):
-        if child.tag == "option":
-            option_positions.append(i)
-            option_nodes.append(child)
-
-    # Step 2: Shuffle the option nodes
-    random.shuffle(option_nodes)
-
-    # Step 3: Reinsert shuffled options at their original positions
-    for pos, node in zip(option_positions, option_nodes):
-        # print(pos, fuvestxml.number_to_letter(pos + 1))
-        # print(ET.tostring(node, encoding="unicode"))
-        node.set("label", fuvestxml.number_to_letter(pos + 1))
-        options[pos] = node
-
-
-def process_question_group(conn: sqlite3.Connection, data, parent):
-    context = parent.find("./context")
-    if context:
-        qstr = ET.tostring(context, encoding="unicode")
-        # Join parts and collapse multiple spaces/newlines
-        # xml_text = " ".join(parts)
-        qstr = re.sub(r"\s+", " ", qstr).strip()
-
-        # print(qstr)
-        conn.execute("INSERT INTO contexts (text) VALUES (?);", (qstr,))
-        new_id = conn.lastrowid
-        # conn.commit()
-
-    obj_questions = parent.findall("./objective_question")
-    questions = []
-    for q in obj_questions:
-        # print("===================================================================")
-        number = q.get("number", "").strip()
-        sucess_rate = q.get("success_rate", "").strip()
-
-        print(number)
-        # print(ET.tostring(q, encoding="unicode"))
-        # shuffle(q)
-        # print("-----------------------------------")
-        # print(ET.tostring(q, encoding="unicode"))
-
-        # get the classification
-        classif = q.find("./classification").get("subject", "").strip()
-        # print(classif)
-
-        # qstr = ET.tostring(q, encoding="unicode")
-        qstr = inner_xml_clean(q)
-        # print(qstr)
-        questions.append((data[0], data[1], number, classif, qstr))
-
-    conn.executemany(
-        "INSERT INTO questions (exam, year, number, subject, text) VALUES (?, ?, ?, ?, ?);",
-        questions,
+    # Insert and return new ID
+    cursor.execute(
+        f"INSERT INTO {table} (name) VALUES (?)",
+        (value,),
     )
+    return cursor.lastrowid
 
 
-def process_xml_files_in_directory(conn: sqlite3.Connection, directory_path):
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# get_data
+#
+def get_data(cursor, table, value):
+    cursor.execute(f"SELECT id FROM {table} WHERE name = ?", (value,))
+    row = cursor.fetchone()
+
+    if row:
+        return row[0]
+
+    return None
+
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# process_xml_files_in_directory
+#
+def process_xml_files(conn: sqlite3.Connection, directory_path):
     """
     Iterates through a specified directory, finds all XML files,
     and processes each one.
     """
+    cursor = conn.cursor()
     for filename in os.listdir(directory_path):
         if filename.endswith(".xml"):
             file_path = os.path.join(directory_path, filename)
@@ -200,13 +200,13 @@ def process_xml_files_in_directory(conn: sqlite3.Connection, directory_path):
                             # body.append(self.render_question_group(sub_child))
                             # qstr = ET.tostring(sub_child, encoding="unicode")
                             # print(qstr)
-                            process_question_group(conn, data, sub_child)
+                            process_question_group(cursor, data, sub_child)
 
                     elif child.tag == "question_group":
                         # body.append(self.render_question_group(child))
                         # qstr = ET.tostring(child, encoding="unicode")
                         # print(qstr)
-                        process_question_group(conn, data, child)
+                        process_question_group(cursor, data, child)
 
                     else:
                         raise ValueError("Tag not recognized!")
@@ -220,24 +220,213 @@ def process_xml_files_in_directory(conn: sqlite3.Connection, directory_path):
                 print(f"An unexpected error occurred with file {filename}: {e}")
 
 
-DEFAULT_DB_PATH = Path("./output/example.db")
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# process_question_group
+#
+def process_question_group(cursor, data, parent):
+    context_xml = parent.find("./context")
+    context_id = "Null"
+    if context_xml is not None:
+        # get the xml text and collapse multiple spaces/newlines
+        context = ET.tostring(context_xml, encoding="unicode")
+        context = re.sub(r"\s+", " ", context).strip()
+
+        cursor.execute("INSERT INTO contexts (context) VALUES (?);", (context,))
+        context_id = cursor.lastrowid
+
+    exam = data[0]
+    year = data[1]
+
+    exam_id = get_or_create_data(cursor, "exams", exam)
+
+    obj_questions = parent.findall("./objective_question")
+
+    for q in obj_questions:
+        # get the attributes from the xml
+        number = q.get("number", "").strip()
+        sucess_rate = q.get("success_rate", "").strip()
+        try:
+            sucess_rate = int(10 * float(sucess_rate))
+        except:
+            sucess_rate = "Null"
+
+        # print(sucess_rate)
+        #
+        cancelled = q.get("cancelled", "false").strip()
+        if cancelled == "true":
+            cancelled = 1
+        else:
+            cancelled = 0
+
+        # get the classification
+        subject = q.find("./classification").get("subject", "").strip()
+        subject_id = get_or_create_data(cursor, "subjects", subject)
+
+        statement = inner_xml_clean(q)
+
+        # Insert the question
+        cursor.execute(
+            """
+            INSERT INTO questions (exam_id, year, number, sucess_rate, cancelled, subject_id, context_id, statement)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+            (
+                exam_id,
+                year,
+                number,
+                sucess_rate,
+                cancelled,
+                subject_id,
+                context_id,
+                statement,
+            ),
+        )
 
 
-def parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(description="Create & seed a SQLite DB if missing.")
-    p.add_argument(
-        "--db",
-        type=Path,
-        default=DEFAULT_DB_PATH,
-        help=f"Path to the SQLite database file (default: {DEFAULT_DB_PATH})",
-    )
-    return p.parse_args()
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# select_questions
+#
+def select_questions(
+    conn,
+    exam: str | None = None,
+    year: int | None = None,
+    subject: str | None = None,
+    all_data: bool = False,
+):
+    """
+    Select questions, optionally filtered by:
+      - exam  (exam name, e.g. 'FUVEST 2024')
+      - year  (exam year, e.g. 2024)
+      - subject (subject name, e.g. 'Mathematics')
+
+    Any combination of these filters is allowed.
+    """
+
+    cur = conn.cursor()
+
+    if all_data:
+        columns = """
+            q.id,
+            e.name  AS exam,
+            q.year  AS year,
+            q.number    AS number,
+            s.name  AS subject,
+            q.sucess_rate,
+            q.cancelled,
+            c.context  AS context,
+            q.statement
+            """
+    else:
+        columns = """
+            q.id,
+            e.name  AS exam,
+            q.year  AS year,
+            q.number    AS number,
+            s.name  AS subject,
+            q.sucess_rate,
+            q.cancelled
+            """
+
+    base_query = f"""
+    SELECT
+        {columns}
+    FROM questions q
+    JOIN exams e     ON q.exam_id = e.id
+    JOIN subjects s  ON q.subject_id = s.id
+    LEFT JOIN contexts c   ON q.context_id = c.id
+    """
+
+    conditions = []
+    params: list[object] = []
+
+    if exam is not None:
+        conditions.append("e.name = ?")
+        params.append(exam)
+
+    if year is not None:
+        conditions.append("q.year = ?")
+        params.append(year)
+
+    if subject is not None:
+        conditions.append("s.name LIKE ?")
+        params.append(f"{subject}%")
+
+    if conditions:
+        base_query += " WHERE " + " AND ".join(conditions)
+
+    base_query += "\n ORDER BY q.year, e.name, q.id;"
+
+    # print(base_query, params)
+
+    cur.execute(base_query, params)
+    rows = cur.fetchall()
+    conn.close()
+
+    # Simple printout (optional)
+    # print("Filters:", {"exam": exam, "year": year, "subject": subject})
+    # print("-" * 120)
+    # for row in rows:
+    #     # print(
+    #     #     f"[{row['number']}] Exam: {row['exam']} ({row['year']}) "
+    #     #     f"| Subject: {row['subject']}\n"
+    #     #     f"Context: {row['context']}\n"
+    #     #     f"Statement: {row['statement']}\n" + "—" * 60
+    #     # )
+    #     print(row)
+
+    # Convert rows to list of dictionaries
+    rows_as_dicts = [dict(row) for row in rows]
+
+    # print(rows_as_dicts)
+
+    return rows_as_dicts
+
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# search_database
+#
+def export_questions(filename, questions, shu=False):
+    with open(filename, "w", encoding="utf-8") as file:
+        file.write('<?xml version="1.0" encoding="utf-8"?>\n')
+        file.write(
+            '<exam name="FUVEST" year="2025" phase="objective" day="1" variation="V1" date="2024-11-17" lang="pt-br">\n'
+        )
+        for i, q in enumerate(questions):
+            file.write("<question_group>\n")
+            file.write(f'<objective_question number="{i + 1}">\n')
+            if shu:
+                root = ET.fromstring("<temp>" + q["statement"] + "</temp>")
+                fuvestxml.shuffle_questions(root)
+                qstr = inner_xml_clean(root)
+                file.write(qstr)
+            else:
+                file.write(q["statement"])
+            file.write("</objective_question>\n")
+            file.write("</question_group>\n")
+        file.write("</exam>\n")
+
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# search_database
+#
+def print_questions(questions, verbose=False):
+    if verbose is False:
+        if questions:
+            # Print using tabulate
+            print(tabulate(questions, headers="keys", tablefmt="simple"))
+            print(f"\nTotal number of questions: {len(questions)}")
+        else:
+            print("No results found.")
+    else:
+        for q in questions:
+            print(q)
+
+    print("")
 
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
 # read_parser_arguments()
-
-
+#
 def read_parser_arguments():
     parser = argparse.ArgumentParser()
 
@@ -265,8 +454,8 @@ def read_parser_arguments():
     )
 
     parser.add_argument(
-        "-n",
-        "--name",
+        "-e",
+        "--exam",
         type=str,
         default=None,
         help=f"Path to the SQLite database file (default: {DEFAULT_DB_PATH})",
@@ -297,9 +486,9 @@ def read_parser_arguments():
     #     "If not supplied, it will be derived from input name.",
     # )
 
-    # parser.add_argument(
-    #     "-v", "--verbose", action="store_true", help="Enable verbose output."
-    # )
+    parser.add_argument(
+        "-v", "--verbose", action="store_true", help="Enable verbose output."
+    )
 
     # parser.add_argument(
     #     "-p", "--print", action="store_true", help="Enable verbose output."
@@ -339,62 +528,9 @@ def read_parser_arguments():
     return parser.parse_args()
 
 
-def search_database(conn, year=None, name=None, subject=None):
-    cursor = conn.cursor()
-
-    # 1. Start with the base query
-    query = "SELECT * FROM questions"
-
-    # 2. Create lists to hold the SQL conditions and the actual values
-    conditions = []
-    parameters = []
-
-    # 3. Check each argument. If it exists, add logic to both lists.
-
-    if year is not None:
-        # Exact match for integers
-        conditions.append("year = ?")
-        parameters.append(year)
-
-    if name:
-        # Partial match ("Starts with") logic
-        conditions.append("exam = ?")
-        parameters.append(name)
-
-    if subject:
-        # Exact match for text (or change to LIKE if preferred)
-        conditions.append("subject LIKE ?")
-        parameters.append(f"{subject}%")
-
-    # 4. If we have conditions, append them to the query using 'AND'
-    if conditions:
-        query += " WHERE " + " AND ".join(conditions)
-
-    # print(query)
-    # 5. Execute securely using the separate parameters list
-    # query looks like: "SELECT * FROM books WHERE year = ? AND name LIKE ?"
-    cursor.execute(query, parameters)
-
-    # Get all matching rows
-    results = cursor.fetchall()
-
-    # Loop through and print the results
-    ret = []
-    for row in results:
-        ret.append(
-            {
-                "id": row[0],
-                "exam": row[1],
-                "year": row[2],
-                "number": row[3],
-                "subject": row[4],
-                "text": row[5],
-            }
-        )
-
-    return ret
-
-
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# main
+#
 def main() -> None:
     # Process the input arguments
     args = read_parser_arguments()
@@ -410,17 +546,16 @@ def main() -> None:
         # Ensure parent directories exist
         db_path.parent.mkdir(parents=True, exist_ok=True)
 
-        print(f"⏳ Creating new database at: {db_path}")
+        print(f"Creating new database at: {db_path}")
         with connect(db_path) as conn:
             try:
                 create_schema(conn)
 
                 # Specify the directory containing your XML files
-                target_directory = "./exams/"  # Replace with your actual directory
+                target_directory = "./exams/"
 
-                process_xml_files_in_directory(conn, target_directory)
+                process_xml_files(conn, target_directory)
 
-                # seed_data(conn)
                 conn.commit()
 
             except Exception:
@@ -431,39 +566,19 @@ def main() -> None:
                 except Exception:
                     pass
                 raise
-    else:
-        year = args.year
-        name = args.name
-        subject = args.subject
 
-        questions = []
+    # search the database
+    else:
         conn = connect(DEFAULT_DB_PATH)
-        questions = search_database(conn, year=year, name=name, subject=subject)
+        questions = select_questions(
+            conn, year=args.year, exam=args.exam, subject=args.subject
+        )
 
         if args.output:
-            with open(args.output, "w", encoding="utf-8") as file:
-                file.write('<?xml version="1.0" encoding="utf-8"?>\n')
-                file.write(
-                    '<exam name="FUVEST" year="2025" phase="objective" day="1" variation="V1" date="2024-11-17" lang="pt-br">\n'
-                )
-                for i, q in enumerate(questions):
-                    file.write("<question_group>\n")
-                    file.write(f'<objective_question number="{i + 1}">\n')
-                    if args.shuffle:
-                        root = ET.fromstring("<temp>" + q["text"] + "</temp>")
-                        shuffle(root)
-                        qstr = inner_xml_clean(root)
-                        file.write(qstr)
-                    else:
-                        file.write(q["text"])
-                    file.write("</objective_question>\n")
-                    file.write("</question_group>\n")
-                file.write("</exam>\n")
+            export_questions(args.output, questions, args.shuffle)
+
         else:
-            for q in questions:
-                print(
-                    f"ID: {q['id']}, Exam: {q['exam']}, Year: {q['year']}, Number: {q['number']}, Subject: {q['subject']}, text: {q['text']}"
-                )
+            print_questions(questions, args.verbose)
 
 
 if __name__ == "__main__":

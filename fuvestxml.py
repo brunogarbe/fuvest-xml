@@ -27,6 +27,7 @@ from typing import override
 from pathlib import Path
 
 from lxml import etree
+import random
 
 FOOTNOTES_SYMBOLS = [
     "*",
@@ -59,6 +60,38 @@ def number_to_letter(number) -> str:
         raise ValueError("Input number must be between 1 and 26.")
 
     return str(chr(64 + number))
+
+
+#########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+# search_database
+
+
+def shuffle_questions(q):
+    # Step 1: Extract option children and their positions
+    option_positions = []
+    option_nodes = []
+
+    options = q.find("./options")
+
+    if options is None:
+        options = q.find("./options_table")
+
+    # print(options)
+
+    for i, child in enumerate(options):
+        if child.tag == "option":
+            option_positions.append(i)
+            option_nodes.append(child)
+
+    # Step 2: Shuffle the option nodes
+    random.shuffle(option_nodes)
+
+    # Step 3: Reinsert shuffled options at their original positions
+    for pos, node in zip(option_positions, option_nodes):
+        # print(pos, fuvestxml.number_to_letter(pos + 1))
+        # print(ET.tostring(node, encoding="unicode"))
+        node.set("label", number_to_letter(pos + 1))
+        options[pos] = node
 
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########

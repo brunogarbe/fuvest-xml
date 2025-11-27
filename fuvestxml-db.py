@@ -55,6 +55,11 @@ def create_schema(conn: sqlite3.Connection) -> None:
         """
         BEGIN;
 
+        CREATE TABLE IF NOT EXISTS schema (
+            key     TEXT NOT NULL,
+            value   TEXT NOT NULL
+        );
+
         CREATE TABLE IF NOT EXISTS subjects (
             id      INTEGER PRIMARY KEY AUTOINCREMENT,
             name    TEXT NOT NULL UNIQUE
@@ -75,6 +80,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
             exam_id     INTEGER,
             year        TEXT NOT NULL,
             number      TEXT NOT NULL,
+            type        INTEGER,
             sucess_rate INTEGER,
             cancelled   BOOLEAN,
             subject_id  INTEGER,
@@ -125,6 +131,16 @@ def inner_xml_clean(element):
     xml_text = " ".join(parts)
     xml_text = re.sub(r"\s+", " ", xml_text).strip()
     return xml_text
+
+
+def insert_meta(cursor, key, value):
+    cursor.execute(
+        f"INSERT INTO schema (key, value) VALUES (?, ?)",
+        (
+            key,
+            value,
+        ),
+    )
 
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
@@ -263,16 +279,19 @@ def process_question_group(cursor, data, parent):
 
         statement = inner_xml_clean(q)
 
+        question_type = 1
+
         # Insert the question
         cursor.execute(
             """
-            INSERT INTO questions (exam_id, year, number, sucess_rate, cancelled, subject_id, context_id, statement)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            INSERT INTO questions (exam_id, year, number, type, sucess_rate, cancelled, subject_id, context_id, statement)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 exam_id,
                 year,
                 number,
+                question_type,
                 sucess_rate,
                 cancelled,
                 subject_id,
@@ -310,6 +329,7 @@ def select_questions(
             q.year  AS year,
             q.number    AS number,
             s.name  AS subject,
+            q.type,
             q.sucess_rate,
             q.cancelled,
             c.context  AS context,
@@ -322,6 +342,7 @@ def select_questions(
             q.year  AS year,
             q.number    AS number,
             s.name  AS subject,
+            q.type,
             q.sucess_rate,
             q.cancelled
             """
@@ -550,6 +571,12 @@ def main() -> None:
         with connect(db_path) as conn:
             try:
                 create_schema(conn)
+                cursor = conn.cursor()
+                insert_meta(cursor, "info", "Qngwfw~%g~%Gwzst%Lfwgj%Ozsntw")
+                insert_meta(
+                    cursor, "version", datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                )
+                insert_meta(cursor, "license", "AGPL-3.0")
 
                 # Specify the directory containing your XML files
                 target_directory = "./exams/"

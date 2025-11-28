@@ -509,6 +509,7 @@
 				</xs:complexType>
 			</xs:element>
 		</xs:sequence>
+		<xs:attribute name="symbol" type="xs:string" use="optional"/>
 	</xs:complexType>
 	<xs:element name="list" type="ListType"/>
 	
@@ -634,6 +635,7 @@
 				</xs:complexType>
 			</xs:element>
 		</xs:sequence>
+		<xs:attribute name="class" type="xs:string" use="optional"/>
 	</xs:complexType>
 	
 	

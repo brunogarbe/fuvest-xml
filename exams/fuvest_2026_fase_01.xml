@@ -2,8 +2,7 @@
 <exam name="FUVEST" year="2026" phase="objective" day="1" variation="V1" date="2025-11-23" lang="pt-br">
 	<question_group>
 		<context>
-			<header>Texto para as questões 01 e 02</header>
-			<p>Pouco antes de eu completar quatro anos de idade, nasceu nossa irmã mais nova, para quem eu escolhera o nome de Maria Bethania, por causa de uma bela valsa do compositor pernambucano Capiba. Naturalmente todos achavam graça no fato de eu saber cantar canções de gente grande, e mais ainda na minha determinação de nomear minha irmãzinha segundo uma dessas canções. Mas ninguém se sentia com coragem de realmente pôr esse nome "tão pesado" num bebê. Como havia várias outras sugestões (iam de Cristina a Gislaine), meu pai resolveu escrever todos os nomes em pedacinhos de papel que, depois de dobrados, ele jogou na copa de meu pequeno chapéu de explorador e me deu para tirar na sorte. Saiu o da minha escolha. Meu pai então pôs um ar resignado (que era uma ordem para que todos também se resignassem) e disse: "Pronto. Agora tem que ser Maria Bethania". E saiu para registrar a recém-nascida com esse nome. Recentemente, ouvi de minhas irmãs mais velhas uma versão que diz que meu pai escrevera Maria Bethânia em todos os papéis. Não é de todo improvável. E, de fato, na expressão resignada de meu pai era visível ainda hoje o é, na lembrança um intrigante toque de humor. Mas, embora me encha de orgulho o pensamento de que meu pai possa ter trapaceado para me agradar, eu sempre preferi crer na autenticidade do sorteio: essa intervenção do acaso parece conferir mais realidade a tudo o que veio a se passar desde então, pois ela faz crescerem ao mesmo tempo as magias (que nos dão a impressão de se excluírem mutuamente) do presságio e da unicidade absolutamente gratuita de cada acontecimento.</p>
+			<p>Pouco antes de eu completar quatro anos de idade, nasceu nossa irmã mais nova, para quem eu escolhera o nome de Maria Bethania, por causa de uma bela valsa do compositor pernambucano Capiba. Naturalmente todos achavam graça no fato de eu saber cantar canções de gente grande, e mais ainda na minha determinação de nomear minha irmãzinha segundo uma dessas canções. Mas ninguém se sentia com coragem de realmente pôr esse nome <q>tão pesado</q> num bebê. Como havia várias outras sugestões (iam de Cristina a Gislaine), meu pai resolveu escrever todos os nomes em pedacinhos de papel que, depois de dobrados, ele jogou na copa de meu pequeno chapéu de explorador e me deu para tirar na sorte. Saiu o da minha escolha. Meu pai então pôs um ar resignado (que era uma ordem para que todos também se resignassem) e disse: <q>Pronto. Agora tem que ser Maria Bethania</q>. E saiu para registrar a recém-nascida com esse nome. Recentemente, ouvi de minhas irmãs mais velhas uma versão que diz que meu pai escrevera Maria Bethânia em todos os papéis. Não é de todo improvável. E, de fato, na expressão resignada de meu pai era visível ainda hoje o é, na lembrança um intrigante toque de humor. Mas, embora me encha de orgulho o pensamento de que meu pai possa ter trapaceado para me agradar, eu sempre preferi crer na autenticidade do sorteio: essa intervenção do acaso parece conferir mais realidade a tudo o que veio a se passar desde então, pois ela faz crescerem ao mesmo tempo as magias (que nos dão a impressão de se excluírem mutuamente) do presságio e da unicidade absolutamente gratuita de cada acontecimento.</p>
 			<cite>Caetano Veloso. Verdade tropical. São Paulo: Companhia das Letras, 1997. Adaptado.</cite>
 		</context>
 
@@ -35,7 +34,7 @@
 		<objective_question number="02">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>No fragmento <q>Mas ninguém se sentia com coragem de realmente pôr esse nome "tão pesado" num bebê</q>, a expressão "tão pesado" aparece entre aspas porque o enunciador</p>
+				<p>No fragmento <q>Mas ninguém se sentia com coragem de realmente pôr esse nome <q>tão pesado</q> num bebê</q>, a expressão <q>tão pesado</q> aparece entre aspas porque o enunciador</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -61,7 +60,8 @@
 		<objective_question number="03">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Em uma eleição para um conselho composto por 5 membros, existem 7 candidatos inscritos e um total de 35 eleitores. São eleitos os 5 candidatos com mais votos, sendo o critério de desempate a idade, isto é, se houver uma só vaga para dois candidatos que empataram em número de votos, o candidato mais velho é eleito e o mais novo, não. Aleph, que é o mais novo dentre todos os candidatos, está analisando quantos votos precisa para garantir sua eleição. Sabendo que cada eleitor tem direito a votar em somente um candidato e que, geralmente, nessas eleições, um ou dois dos eleitores não comparecem para votar, pode-se afirmar:</p>
+				<p>Em uma eleição para um conselho composto por 5 membros, existem 7 candidatos inscritos e um total de 35 eleitores. São eleitos os 5 candidatos com mais votos, sendo o critério de desempate a idade, isto é, se houver uma só vaga para dois candidatos que empataram em número de votos, o candidato mais velho é eleito e o mais novo, não. Aleph, que é o mais novo dentre todos os candidatos, está analisando quantos votos precisa para garantir sua eleição.</p>
+				<p>Sabendo que cada eleitor tem direito a votar em somente um candidato e que, geralmente, nessas eleições, um ou dois dos eleitores não comparecem para votar, pode-se afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -88,26 +88,26 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<p>O conceito de entropia permeia diversas áreas do conhecimento e foi introduzido na Teoria da Informação por Claude Shannon, que desenvolveu uma forma de calcular a entropia <m>E</m> de um sistema, a saber
-				<math>E=-\sum_{i}P_{i}(x)log_{2}P_{i}(x)</math>
+				<math>E=-\sum_{i}P_{i}(x)\log_{2}P_{i}(x)</math>
 				em que <m>P_{i}(x)</m> é a probabilidade do i-ésimo resultado para a variável <m>x</m>.</p>
-				<p>Por exemplo, considere uma sequência com duas letras A coloridas, a primeira azul e a segunda vermelha (AA). Se essas duas letras fossem colocadas numa urna, a probabilidade de se retirar, sem observar, a letra azul, como na sequência original, é <m>\frac{1}{2}</m>. Devolve-se a letra à urna e sorteia-se novamente. A probabilidade de sair vermelha é novamente <m>\frac{1}{2}</m>, e nesse caso tem-se:
-				<math>E=-\sum_{i}P_{i}(x)log_{2}P_{i}(x)=-(\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2})=1</math></p>
-				<p>Para uma sequência com 4 letras A, as duas primeiras azuis e as duas últimas vermelhas (<style color="red">AA</style>AA), colocando-as numa urna e sorteando uma, a probabilidade de sair azul é <m>\frac{1}{2}</m>. Devolve-se a letra e sorteia-se novamente. A probabilidade da segunda letra sorteada ser azul, como na sequência original, é novamente <m>\frac{1}{2}</m>. Procedendo dessa forma para as duas letras vermelhas, tem-se:
-				<math>E=-\sum_{i}P_{i}(x)log_{2}P_{i}(x)=-({\color{red}\frac{1}{2}\log_{2}\frac{1}{2}}+\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2}+\frac{1}{2}log_{2}\frac{1}{2})=2</math></p>
-				<p>Com base nessas informações, qual o valor da entropia E, no caso de uma sequência com 4 letras A, sendo as 3 primeiras azuis e a última vermelha (AAAA)?</p>
+				<p>Por exemplo, considere uma sequência com duas letras A coloridas, a primeira azul e a segunda vermelha (<style color="blue">A</style><style color="red">A</style>). Se essas duas letras fossem colocadas numa urna, a probabilidade de se retirar, sem observar, a letra azul, como na sequência original, é <m>\frac{1}{2}</m>. Devolve-se a letra à urna e sorteia-se novamente. A probabilidade de sair vermelha é novamente <m>\frac{1}{2}</m>, e nesse caso tem-se:
+				<math>E = -\sum_{i}P_{i}(x)\log_{2}P_{i}(x) = -({\color{blue}\frac{1}{2}\log_{2}\frac{1}{2}} + {\color{red}\frac{1}{2}\log_{2}\frac{1}{2}}) = 1</math></p>
+				<p>Para uma sequência com 4 letras A, as duas primeiras azuis e as duas últimas vermelhas (<style color="blue">AA</style><style color="red">AA</style>), colocando-as numa urna e sorteando uma, a probabilidade de sair azul é <m>\frac{1}{2}</m>. Devolve-se a letra e sorteia-se novamente. A probabilidade da segunda letra sorteada ser azul, como na sequência original, é novamente <m>\frac{1}{2}</m>. Procedendo dessa forma para as duas letras vermelhas, tem-se:
+				<math>E = -\sum_{i}P_{i}(x)\log_{2}P_{i}(x) = -({\color{blue}\frac{1}{2}\log_{2}\frac{1}{2}} + {\color{blue}\frac{1}{2}\log_{2}\frac{1}{2}} + {\color{red}\frac{1}{2}\log_{2}\frac{1}{2}} + {\color{red}\frac{1}{2}\log_{2}\frac{1}{2}}) = 2</math></p>
+				<p>Com base nessas informações, qual o valor da entropia E, no caso de uma sequência com 4 letras A, sendo as 3 primeiras azuis e a última vermelha (<style color="blue">AAA</style><style color="red">A</style>)?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p><m>5-\frac{9}{4}log_{2}3</m></p>
+					<p><m>5-\frac{9}{4}\log_{2}3</m></p>
 				</option>
 				<option label="B" is_correct="false">
-					<p><m>\frac{1}{2}-\frac{5}{2}log_{2}3</m></p>
+					<p><m>\frac{1}{2}-\frac{5}{2}\log_{2}3</m></p>
 				</option>
 				<option label="C" is_correct="false">
 					<p><m>\frac{3}{2}</m></p>
 				</option>
 				<option label="D" is_correct="false">
-					<p><m>\frac{9}{4}log_{2}3</m></p>
+					<p><m>\frac{9}{4}\log_{2}3</m></p>
 				</option>
 				<option label="E" is_correct="false">
 					<p>3</p>
@@ -124,29 +124,39 @@
 				<image src="fuvest/2026/fase01/q05.png" />
 				<cite>Disponível em https://www.tecmundo.com.br/ciencia/. Adaptado.</cite>
 				<p>Adaptando essa ideia, foi feito um jogo para identificar os tipos de ligações entre os elementos Na, K, Ca, Cl, Br e I. Assinale a alternativa que representa a melhor marcação do tipo de ligação formada por esses átomos, seguindo a legenda:</p>
-				<list>
+				<list symbol="">
 					<item><p>■ - ligação iônica;</p></item>
 					<item><p>○ - ligação covalente;</p></item>
 					<item><p>▲ - ligação metálica.</p></item>
 				</list>
 			</statement>
-			<options>
+			<options_table class="no-border">
 				<option label="A" is_correct="false">
-					<image src="fuvest/2026/fase01/q05_opt_a.png" />
+					<cell>
+					<image width="0.4" html_width="250" src="fuvest/2026/fase01/q05a.png" />
+					</cell>
 				</option>
 				<option label="B" is_correct="false">
-					<image src="fuvest/2026/fase01/q05_opt_b.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2026/fase01/q05b.png" />
+					</cell>
 				</option>
 				<option label="C" is_correct="false">
-					<image src="fuvest/2026/fase01/q05_opt_c.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2026/fase01/q05c.png" />
+					</cell>
 				</option>
 				<option label="D" is_correct="false">
-					<image src="fuvest/2026/fase01/q05_opt_d.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2026/fase01/q05d.png" />
+					</cell>
 				</option>
 				<option label="E" is_correct="false">
-					<image src="fuvest/2026/fase01/q05_opt_e.png" />
+				<cell>
+					<image width="0.4" html_width="250" src="fuvest/2026/fase01/q05e.png" />
+					</cell>
 				</option>
-			</options>
+			</options_table>
 		</objective_question>
 	</question_group>
 
@@ -154,7 +164,8 @@
 		<objective_question number="06">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Para uma atividade de campo voltada à valorização do patrimônio histórico e cultural, professores de geografia levaram seus estudantes a um parque temático de monumentos geográficos. Eles visitaram a réplica de uma pirâmide regular de base quadrada com vértice a 18 metros de altura em relação ao centro da base. As faces da pirâmide estão voltadas para as direções norte, sul, leste e oeste. Para acessar o vértice da pirâmide, os estudantes precisaram percorrer uma trilha de pedestre e subir a rampa localizada na face norte. A trilha compreende os lados oeste, sul, leste e metade do lado norte do quadrado. Essa rampa está localizada exatamente no meio da face, ou seja, é o apótema da pirâmide. Sabendo-se que o volume da pirâmide é de 864 <m>m^{3}</m>, quantos metros, aproximadamente, os estudantes tiveram que percorrer para chegar até o topo da pirâmide?</p>
+				<p>Para uma atividade de campo voltada à valorização do patrimônio histórico e cultural, professores de geografia levaram seus estudantes a um parque temático de monumentos geográficos. Eles visitaram a réplica de uma pirâmide regular de base quadrada com vértice a 18 metros de altura em relação ao centro da base. As faces da pirâmide estão voltadas para as direções norte, sul, leste e oeste. Para acessar o vértice da pirâmide, os estudantes precisaram percorrer uma trilha de pedestre e subir a rampa localizada na face norte. A trilha compreende os lados oeste, sul, leste e metade do lado norte do quadrado. Essa rampa está localizada exatamente no meio da face, ou seja, é o apótema da pirâmide.</p>
+				<p>Sabendo-se que o volume da pirâmide é de 864 <m>m^{3}</m>, quantos metros, aproximadamente, os estudantes tiveram que percorrer para chegar até o topo da pirâmide?</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -181,17 +192,19 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<p>Considere a equação trigonométrica
-				<math>sen\frac{\pi}{2}+sen~x=sen(2x)-cos~\pi</math>
+				<math>\mathrm{sen}\frac{\pi}{2}+\mathrm{sen}~x=\mathrm{sen}(2x)-\cos~\pi</math>
 				para <m>x\in\mathbb{R}</m>, <m>0\le x \lt 2\pi</m>.</p>
-				<p>Um estudante resolveu essa equação da seguinte maneira:</p>
-				<list>
-					<item><p><m>1+sen~x=sen(2x)+1</m></p></item>
-					<item><p><m>sen~x=sen(2x)</m></p></item>
-					<item><p><m>sen~x=2~sen~x</m></p></item>
-					<item><p><m>2sen~x-sen~x=0</m></p></item>
-					<item><p><m>sen~x=0</m></p></item>
-					<item><p><m>x=0</m> ou <m>x=\pi</m></p></item>
-				</list>
+				<p>Um estudante resolveu essa equação da seguinte maneira:
+				<math>\begin{gathered}
+					1+\mathrm{sen}~x = \mathrm{sen}(2x)+1 \\\\
+					\mathrm{sen}~x = \mathrm{sen}(2x) \\\\
+					\mathrm{sen}~x = 2\mathrm{sen}~x \\\\
+					2\mathrm{sen}~x - \mathrm{sen}~x=0 \\\\
+					\mathrm{sen}~x = 0 \\\\
+					x = 0 \; \mathrm{ou} \; x = \pi
+				\end{gathered}
+				</math>
+				</p>
 				<p>A resolução apresentada pelo estudante está errada, pois ele</p>
 			</statement>
 			<options>
@@ -202,7 +215,7 @@
 					<p>não considerou as infinitas voltas no ciclo trigonométrico para a resposta.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>considerou que <m>sen\frac{\pi}{2}</m> vale 1.</p>
+					<p>considerou que <m>\mathrm{sen}\frac{\pi}{2}</m> vale 1.</p>
 				</option>
 				<option label="D" is_correct="false">
 					<p>não utilizou corretamente o seno da soma de dois arcos.</p>
@@ -218,8 +231,8 @@
 		<objective_question number="08">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>A escola não pode ignorar as diferenças sociolinguísticas. Os professores e, por meio deles, os alunos têm que estar bem conscientes de que existem duas ou mais maneiras de dizer a mesma coisa. E mais, que essas formas alternativas servem a propósitos comunicativos distintos e são recebidas de maneira diferenciada pela sociedade. Os alunos que chegam à escola falando "nós cheguemu", "abrido" e "ele drome", por exemplo, têm que ser respeitados e ver valorizadas as suas peculiaridades linguístico-culturais, mas têm o direito inalienável de aprender as variantes de prestígio dessas expressões. Não se lhes pode negar esse conhecimento, sob pena de se fecharem para eles as portas, já estreitas, da ascensão social.</p>
-				<cite>BORTONI-RICARDO, S. M. Nós cheguemos na escola, e agora? Sociolinguística e Educação. São Paulo: Parábola, 2005. Adaptado.</cite>
+				<p>A escola não pode ignorar as diferenças sociolinguísticas. Os professores e, por meio deles, os alunos têm que estar bem conscientes de que existem duas ou mais maneiras de dizer a mesma coisa. E mais, que essas formas alternativas servem a propósitos comunicativos distintos e são recebidas de maneira diferenciada pela sociedade. Os alunos que chegam à escola falando <q>nós cheguemu</q>, <q>abrido</q> e <q>ele drome</q>, por exemplo, têm que ser respeitados e ver valorizadas as suas peculiaridades linguístico-culturais, mas têm o direito inalienável de aprender as variantes de prestígio dessas expressões. Não se lhes pode negar esse conhecimento, sob pena de se fecharem para eles as portas, já estreitas, da ascensão social.</p>
+				<cite>BORTONI-RICARDO, S. M. <i>Nós cheguemos na escola, e agora? Sociolinguística e Educação.</i> São Paulo: Parábola, 2005. Adaptado.</cite>
 				<p>De acordo com o texto, cabe aos professores</p>
 			</statement>
 			<options>
@@ -246,8 +259,7 @@
 		<objective_question number="09">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Em meados do século XIX, Nísia Floresta publicou no Brasil seu Opúsculo Humanitário, uma ardente defesa da educação como meio para eliminar os obstáculos que impediam as mulheres de contribuir, em condições de igualdade com os homens, com a sociedade brasileira. Para tanto, contrapõe o estado da educação das mulheres nas nações ditas civilizadas e cultas ao péssimo estado da educação, pública e privada, religiosa e laica no Brasil, assumindo que a educação é uma expressão do grau de civilização das nações e muito influente sobre sua moralidade. Meio século mais tarde, Émile Durkheim dedicou duas obras à educação escolar: Educação e Sociologia e A Educação Moral. Nelas, o sociólogo francês concebe a escola como um espaço de transmissão da civilização às novas gerações por meio da sua socialização nos sentimentos, ideias e valores da sociedade, além da promoção da solidariedade com as múltiplas sociedades das quais participamos e com a humanidade como um todo. Ao funcionar como uma forma de vinculação às normas sociais por meio de uma compreensão racional da moralidade que subjaz a esses sentimentos, ideias e valores, a escola seria também um espaço de produção de autonomia. Mas, para que assim seja, esses sentimentos, ideias e valores deveriam ser justificáveis exclusivamente pela razão, sem invocar princípios religiosos, que são exclusivistas.</p>
-				<p>É correto afirmar que em seus escritos sobre educação, Durkheim e Floresta convergem ao</p>
+				<p>Em meados do século XIX, Nísia Floresta publicou no Brasil seu <i>Opúsculo Humanitário</i>, uma ardente defesa da educação como meio para eliminar os obstáculos que impediam as mulheres de contribuir, em condições de igualdade com os homens, com a sociedade brasileira. Para tanto, contrapõe o estado da educação das mulheres nas nações ditas civilizadas e cultas ao péssimo estado da educação, pública e privada, religiosa e laica no Brasil, assumindo que a educação é uma expressão do grau de civilização das nações e muito influente sobre sua moralidade. Meio século mais tarde, Émile Durkheim dedicou duas obras à educação escolar: <i>Educação e Sociologia</i> e <i>A Educação Moral</i>. Nelas, o sociólogo francês concebe a escola como um espaço de transmissão da civilização às novas gerações por meio da sua socialização nos sentimentos, ideias e valores da sociedade, além da promoção da solidariedade com as múltiplas sociedades das quais participamos e com a humanidade como um todo. Ao funcionar como uma forma de vinculação às normas sociais por meio de uma compreensão racional da moralidade que subjaz a esses sentimentos, ideias e valores, a escola seria também um espaço de produção de autonomia. Mas, para que assim seja, esses sentimentos, ideias e valores deveriam ser justificáveis exclusivamente pela razão, sem invocar princípios religiosos, que são exclusivistas. É correto afirmar que em seus escritos sobre educação, Durkheim e Floresta convergem ao</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -274,17 +286,16 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<image src="fuvest/2026/fase01/q10.png" />
-				<caption align="center">Capoeira, Maria Auxiliadora da Silva, técnica mista sobre tela, 69,5 x 75 x 1.5 cm, 1970. Acervo MASP.</caption>
+				<cite>Capoeira, Maria Auxiliadora da Silva, técnica mista sobre tela, 69,5 x 75 x 1.5 cm, 1970. Acervo MASP.</cite>
 				<quote>
-					<p>"Maria Auxiliadora nasceu em 24 de maio de 1935, em Campo Belo, MG, numa família de 18 irmãos, gerados por Dona Maria, uma humilde bordadora, que acumulava ainda as funções de dona-de-casa, escultora e pintora. (...) Auxiliadora, ainda criança, mostra uma inclinação natural para tingir os fios que a mãe borda para fora e, com 11 anos, já desenhava, com carvão, figuras nos muros. Absorta nessa atividade, esquecia muitas vezes de olhar as panelas no fogo, e a comida da família queimava. (...) Sem conhecer perspectiva ou claro-escuro, bem dentro dos princípios dos artistas autodidatas, Auxiliadora foi aprimorando sua arte. No fim dos anos 1960, juntou-se, com outros integrantes da família, como o escultor Vicente de Paula e o pintor João Cândido, ao grupo que girava em torno do músico, teatrólogo e poeta negro Solano Trindade, no Embu das Artes, SP, onde se formara um centro de artesanato, principalmente de cultura e arte de origem africana."</p>
+					<p>Maria Auxiliadora nasceu em 24 de maio de 1935, em Campo Belo, MG, numa família de 18 irmãos, gerados por Dona Maria, uma humilde bordadora, que acumulava ainda as funções de dona-de-casa, escultora e pintora. (...) Auxiliadora, ainda criança, mostra uma inclinação natural para tingir os fios que a mãe borda para fora e, com 11 anos, já desenhava, com carvão, figuras nos muros. Absorta nessa atividade, esquecia muitas vezes de olhar as panelas no fogo, e a comida da família queimava. (...) Sem conhecer perspectiva ou claro-escuro, bem dentro dos princípios dos artistas autodidatas, Auxiliadora foi aprimorando sua arte. No fim dos anos 1960, juntou-se, com outros integrantes da família, como o escultor Vicente de Paula e o pintor João Cândido, ao grupo que girava em torno do músico, teatrólogo e poeta negro Solano Trindade, no Embu das Artes, SP, onde se formara um centro de artesanato, principalmente de cultura e arte de origem africana.</p>
 				</quote>
 				<cite>D'AMBROZIO, Oscar. Maria Auxiliadora. Um cometa das artes. Adaptado.</cite>
-				<p>A trajetória da artista autodidata Maria Auxiliadora da Silva desafia as estruturas convencionais do sistema de artes visuais no Brasil ao articular, em sua obra e atuação, experiências de pertencimento, identidade e resistência. Em crítica publicada no livro "Pensando a Arte", Mário Schenberg descreve sua produção como marcada pela "vivência autêntica da vida popular", "senso mágico afro-brasileiro" e uma "imaginação construtora de arquiteturas cromáticas e lineares".</p>
-				<p>Considerando a obra "Capoeira", os comentários de Schenberg, o texto de Oscar D'Ambrozio e os debates contemporâneos sobre arte e decolonialidade, é correto afirmar:</p>
+				<p>A trajetória da artista autodidata Maria Auxiliadora da Silva desafia as estruturas convencionais do sistema de artes visuais no Brasil ao articular, em sua obra e atuação, experiências de pertencimento, identidade e resistência. Em crítica publicada no livro <q>Pensando a Arte</q>, Mário Schenberg descreve sua produção como marcada pela <q>vivência autêntica da vida popular</q>, <q>senso mágico afro-brasileiro</q> e uma <q>imaginação construtora de arquiteturas cromáticas e lineares</q>. Considerando a obra <q>Capoeira</q>, os comentários de Schenberg, o texto de Oscar D'Ambrozio e os debates contemporâneos sobre arte e decolonialidade, é correto afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>A obra de Maria Auxiliadora é classificada como "naïf" ou "primitivista" por apresentar um vocabulário visual simples e espontâneo, característico de artistas sem formação acadêmica, o que justifica sua exclusão dos grandes circuitos institucionais da arte contemporânea.</p>
+					<p>A obra de Maria Auxiliadora é classificada como <q>naïf</q> ou <q>primitivista</q> por apresentar um vocabulário visual simples e espontâneo, característico de artistas sem formação acadêmica, o que justifica sua exclusão dos grandes circuitos institucionais da arte contemporânea.</p>
 				</option>
 				<option label="B" is_correct="false">
 					<p>A produção de Maria Auxiliadora deve ser compreendida como uma manifestação isolada, desprovida de intencionalidade crítica ou diálogo com os debates socioculturais e políticos do seu tempo, reforçando o lugar da arte popular como expressão puramente intuitiva.</p>
@@ -293,7 +304,7 @@
 					<p>A visibilidade póstuma de Maria Auxiliadora nos museus e exposições de arte brasileira evidencia o reconhecimento institucional imediato e contínuo de artistas racializados e periféricos no país, fruto da tradição inclusiva das artes visuais brasileiras desde o século XIX.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>A categorização da obra de Maria Auxiliadora como "primitivista" ou "ingênua" revela, muitas vezes, uma perspectiva colonizadora que desconsidera a complexidade estética, a intencionalidade política e a potência simbólica de sua produção, ligada a vivências negras, femininas e periféricas que tensionam o cânone eurocentrado da arte.</p>
+					<p>A categorização da obra de Maria Auxiliadora como <q>primitivista</q> ou <q>ingênua</q> revela, muitas vezes, uma perspectiva colonizadora que desconsidera a complexidade estética, a intencionalidade política e a potência simbólica de sua produção, ligada a vivências negras, femininas e periféricas que tensionam o cânone eurocentrado da arte.</p>
 				</option>
 				<option label="E" is_correct="false">
 					<p>A valorização da obra de Maria Auxiliadora por críticos como Mário Schenberg atesta a neutralidade das categorias da crítica de arte moderna no Brasil, demonstrando que critérios estéticos sempre foram suficientes para reconhecer artistas não brancos e mulheres no campo artístico.</p>
@@ -307,7 +318,9 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<quote>
-					<p>Sempre que brilha um novo dia, e que nos bate à porta o jornal, apoderamo-nos com solicitude dessa folha e avidamente percorremos a sessão das Câmaras do dia antecedente em procura do assunto que temos escrito no coração e no espírito a educação da mulher brasileira-, e dobramos a folha desconsolados e aguardamos o dia seguinte, que se escoa na mesma expectativa, no mesmo desengano! (...) Um dia raiará mais propício para nós, em que os escolhidos da nação brasileira se dignem de achar a educação da mulher um objeto importante para dele ocuparem-se, com a circunspecção que merece.</p>
+					<p>Sempre que brilha um novo dia, e que nos bate à porta o jornal, apoderamo-nos com solicitude dessa folha e avidamente percorremos a sessão das Câmaras do dia antecedente em procura do assunto que temos escrito no coração e no espírito a educação da mulher brasileira-, e dobramos a folha desconsolados e aguardamos o dia seguinte, que se escoa na mesma expectativa, no mesmo desengano!</p>
+					<p>(...)</p>
+					<p>Um dia raiará mais propício para nós, em que os escolhidos da nação brasileira se dignem de achar a educação da mulher um objeto importante para dele ocuparem-se, com a circunspecção que merece.</p>
 				</quote>
 				<cite>Nisia Floresta. Opúsculo Humanitário.</cite>
 				<quote>
@@ -318,19 +331,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>Opúsculo Humanitário e Memórias de Martha são obras que defendem fortemente o abolicionismo e o acesso à educação pela população afrodescendente brasileira.</p>
+					<p><i>Opúsculo Humanitário</i> e <i>Memórias de Martha</i> são obras que defendem fortemente o abolicionismo e o acesso à educação pela população afrodescendente brasileira.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>Opúsculo Humanitário defende a modernização da política brasileira, e Memórias de Martha narra a ascensão social da protagonista por meio da sua profissionalização.</p>
+					<p><i>Opúsculo Humanitário</i> defende a modernização da política brasileira, e <i>Memórias de Martha</i> narra a ascensão social da protagonista por meio da sua profissionalização.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Opúsculo Humanitário e Memórias de Martha, obras seminais do feminismo no Brasil, defendem a educação profissional feminina a fim de prepará-las para a sua emancipação econômica.</p>
+					<p><i>Opúsculo Humanitário</i> e <i>Memórias de Martha</i>, obras seminais do feminismo no Brasil, defendem a educação profissional feminina a fim de prepará-las para a sua emancipação econômica.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>Opúsculo Humanitário e Memórias de Martha destacam o espaço rural brasileiro como o lugar adequado para a emancipação feminina.</p>
+					<p><i>Opúsculo Humanitário</i> e <i>Memórias de Martha</i> destacam o espaço rural brasileiro como o lugar adequado para a emancipação feminina.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Opúsculo Humanitário e Memórias de Martha são obras que reivindicam uma solução para as contradições sociais e econômicas do Brasil no século XIX, com ênfase na defesa da educação feminina.</p>
+					<p><i>Opúsculo Humanitário</i> e <i>Memórias de Martha</i> são obras que reivindicam uma solução para as contradições sociais e econômicas do Brasil no século XIX, com ênfase na defesa da educação feminina.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -340,24 +353,23 @@
 		<objective_question number="12">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>A jornada das mulheres pela igualdade de direitos no Brasil, como em outras partes do mundo, sempre envolveu lutas sociais, políticas e jurídicas, com marcos importantes como a Lei Geral de 1827, que permitiu o acesso das mulheres à educação, e a Constituição de 1934, que garantiu o direito ao voto feminino. A partir da década de 1960, houve avanços significativos, como o Estatuto da Mulher Casada (1962), que eliminou a necessidade de receber autorização do marido para diversas atividades, e, na década de 1970, a Lei do Divórcio (1977) e o fortalecimento dos movimentos feministas.</p>
-				<p>As obras Caminho de pedras, de Rachel de Queiroz, e As meninas, de Lygia Fagundes Telles, discutem questões relativas aos direitos das mulheres e sua relação com a política ao longo do século XX no Brasil. Sobre esses romances, é correto afirmar:</p>
+				<p>A jornada das mulheres pela igualdade de direitos no Brasil, como em outras partes do mundo, sempre envolveu lutas sociais, políticas e jurídicas, com marcos importantes como a Lei Geral de 1827, que permitiu o acesso das mulheres à educação, e a Constituição de 1934, que garantiu o direito ao voto feminino. A partir da década de 1960, houve avanços significativos, como o Estatuto da Mulher Casada (1962), que eliminou a necessidade de receber autorização do marido para diversas atividades, e, na década de 1970, a Lei do Divórcio (1977) e o fortalecimento dos movimentos feministas. As obras <i>Caminho de pedras,</i> de Rachel de Queiroz, e <i>As meninas,</i> de Lygia Fagundes Telles, discutem questões relativas aos direitos das mulheres e sua relação com a política ao longo do século XX no Brasil. Sobre esses romances, é correto afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>Em Caminho de pedras, Rachel de Queiroz relaciona a luta pelos direitos da mulher à legalização do divórcio no Brasil, enquanto As meninas constitui um libelo pela educação feminina no período final da Era Vargas.</p>
+					<p>Em <i>Caminho de pedras,</i> Rachel de Queiroz relaciona a luta pelos direitos da mulher à legalização do divórcio no Brasil, enquanto <i>As meninas</i> constitui um libelo pela educação feminina no período final da Era Vargas.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>As personagens Angelita, de Caminho de pedras, e Ana Clara, de As meninas, impactam a vida dos protagonistas de seus romances e representam a transformação da condição social das mulheres ao romperem com a configuração familiar tradicional.</p>
+					<p>As personagens Angelita, de <i>Caminho de pedras,</i> e Ana Clara, de <i>As meninas,</i> impactam a vida dos protagonistas de seus romances e representam a transformação da condição social das mulheres ao romperem com a configuração familiar tradicional.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Em Caminho de pedras e em As meninas, a política (militância de esquerda) e a religião (internato de freiras) são instituições que, em vez de contribuírem para a revisão de valores morais e para a emancipação feminina, aprofundam os mecanismos de controle social sobre as mulheres.</p>
+					<p>Em <i>Caminho de pedras</i> e em <i>As meninas,</i> a política (militância de esquerda) e a religião (internato de freiras) são instituições que, em vez de contribuírem para a revisão de valores morais e para a emancipação feminina, aprofundam os mecanismos de controle social sobre as mulheres.</p>
 				</option>
 				<option label="D" is_correct="false">
 					<p>Tanto Caminho de pedras quanto As meninas relacionam o exercício da política coletiva (militância de esquerda, luta contra a ditadura militar) à política exercida em nível da vida privada e do cotidiano, por meio da trajetória de personagens femininas que desafiam padrões sociais estabelecidos.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>Tanto Caminho de pedras quanto As meninas exercem uma crítica à chamada "mulher burguesa". O romance de Rachel de Queiroz narra os desdobramentos do desejo de ascensão social de Noemi, enquanto o de Lygia Fagundes Telles detalha o apego de Lorena à instituição do casamento.</p>
+					<p>Tanto <i>Caminho de pedras</i> quanto <i>As meninas</i> exercem uma crítica à chamada <q>mulher burguesa</q>. O romance de Rachel de Queiroz narra os desdobramentos do desejo de ascensão social de Noemi, enquanto o de Lygia Fagundes Telles detalha o apego de Lorena à instituição do casamento.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -397,9 +409,11 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<p>Observe o mapa e o gráfico:</p>
-				<image src="fuvest/2026/fase01/q14a.png" />
-				<image src="fuvest/2026/fase01/q14b.png" />
+				<image src="fuvest/2026/fase01/q14_1.png" />
 				<cite>Disponível em https://portaldeimigracao.mj.gov.br. Atlas Temático do Observatório das Migrações em São Paulo. Adaptado.</cite>
+				<caption>Distribuição relativa dos vínculos ativos de emprego formal de imigrantes estrangeiros na região Sul (2023)</caption>
+				<image src="fuvest/2026/fase01/q14_2.png" />
+				<cite>Atlas Temático do Observatório das Migrações em São Paulo. Adaptado.</cite>
 				<p>A partir do mapa e do gráfico, assinale a alternativa correta sobre o contexto apresentado na região Sul.</p>
 			</statement>
 			<options>
@@ -424,9 +438,8 @@
 
 	<question_group>
 		<context>
-			<header>Texto para as questões 15 e 16</header>
 			<p>A uberização nomeia um novo tipo de gestão e controle da força de trabalho. Resultando das formas contemporâneas de eliminação de direitos, transferência de riscos e custos para os trabalhadores e novos arranjos produtivos, ela em alguma medida sintetiza processos em curso há décadas, ao mesmo tempo em que se apresenta como tendência para o futuro do trabalho. O tema ganha visibilidade com a formação de enormes contingentes de trabalhadores controlados por empresas que operam por meio de plataformas digitais. O desafio contemporâneo frente a esse novo tipo de organização envolve elementos complexos e armadilhas teórico-políticas. Reside em compreender as plataformas digitais como um novo meio poderoso pelo qual as relações de trabalho vêm se reestruturando, sem, entretanto, incorrer em um determinismo tecnológico que mistifique os processos sociais que envolvem décadas de flexibilização e transformação no trabalho, e que se materializam nas plataformas digitais, embora de forma obscura. Com base nessa perspectiva, o desafio também reside na compreensão de uma tendência que precede e ultrapassa as plataformas digitais, relacionada ao elemento central da uberização, qual seja, a consolidação e gerenciamento de multidões de trabalhadores como trabalhadores just-in-time. Essa condição do trabalho envolve um novo tipo generalizável de remuneração por peça que conserva sua centralidade nas formas de exploração capitalistas, mas atualiza seus elementos, demandando a compreensão das permanências, transformações e tendências que se desenham no presente ou como futuro possível e provável do trabalho.</p>
-			<cite>ABILIO, L. C. et al. "Uberização e plataformização do trabalho no Brasil: conceitos, processos e formas". Sociologias, v. 23, n. 57, 2021.</cite>
+			<cite>ABILIO, L. C. et al. <q>Uberização e plataformização do trabalho no Brasil: conceitos, processos e formas</q>. Sociologias, v. 23, n. 57, 2021.</cite>
 		</context>
 
 		<objective_question number="15">
@@ -456,7 +469,7 @@
 		<objective_question number="16">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>A expressão just-in-time, destacada no texto, refere-se, no contexto da discussão, a uma modalidade de trabalho</p>
+				<p>A expressão <i>just-in-time,</i> destacada no texto, refere-se, no contexto da discussão, a uma modalidade de trabalho</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -482,8 +495,9 @@
 		<objective_question number="17">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Em março de 2025, postagens em redes sociais digitais discutiram uma tendência verificada entre crianças e adolescentes de utilizar o termo "CLT" como uma ofensa. Na matéria "'Crianças demonizam CLT': carteira assinada vira ofensa entre os jovens", de Camila Corsini para o UOL, há vários depoimentos em que crianças associam o emprego com CLT a menores rendimentos, à pobreza e ao fracasso profissional, em oposição a ocupações autônomas ou por conta própria, que seriam caminhos para a riqueza. Veja os gráficos com as estimativas da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD-C) do IBGE para a distribuição da ocupação por categoria e o rendimento médio mensal real habitual das pessoas para o trimestre compreendido entre dezembro de 2024 e fevereiro de 2025:</p>
-				<image src="fuvest/2026/fase01/q17.png" />
+				<p>Em março de 2025, postagens em redes sociais digitais discutiram uma tendência verificada entre crianças e adolescentes de utilizar o termo <q>CLT</q> como uma ofensa. Na matéria <q><q>Crianças demonizam CLT</q>: carteira assinada vira ofensa entre os jovens</q>, de Camila Corsini para o UOL, há vários depoimentos em que crianças associam o emprego com CLT a menores rendimentos, à pobreza e ao fracasso profissional, em oposição a ocupações autônomas ou por conta própria, que seriam caminhos para a riqueza. Veja os gráficos com as estimativas da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD-C) do IBGE para a distribuição da ocupação por categoria e o rendimento médio mensal real habitual das pessoas para o trimestre compreendido entre dezembro de 2024 e fevereiro de 2025:</p>
+				<image src="fuvest/2026/fase01/q17_1.png" />
+				<image src="fuvest/2026/fase01/q17_2.png" />
 				<cite>Pesquisa Nacional por Amostra de Domicílio Contínua (PNAD-C). Instituto Brasileiro de Geografia e Estatística (IBGE), maio de 2025. Adaptado.</cite>
 				<p>A partir dos dados apresentados no gráfico, é correto afirmar que as associações realizadas por crianças e adolescentes com diferentes formas ocupacionais são fundadas em uma visão de que</p>
 			</statement>
@@ -512,7 +526,7 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>Uma startup de tecnologia está desenvolvendo um novo aplicativo e observa que o número de usuários está crescendo, em milhares, após <m>t</m> semanas do lançamento, de acordo com a função:
-				<math>M(t)=200\times(1,1)^{t}</math></p>
+				<math>M(t) = 200 \times (1,1)^{t}</math></p>
 				<p>Com isso, a equipe da startup quer saber: qual é o período, em semanas, em que o número de usuários ultrapassa 300 mil?</p>
 			</statement>
 			<options>
@@ -533,22 +547,49 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
-				<p><m>log~3\cong0,4771</m>; <m>log~5\cong0,6990</m> e <m>log~11\cong1,0414</m></p>
+				<p><m>\log~3 \cong 0,4771</m>; <m>\log~5 \cong 0,6990</m> e <m>\log~11 \cong 1,0414</m></p>
 			</assumptions>
 		</objective_question>
 	</question_group>
 
 	<question_group>
-		<context>
-			<quote>
-				<p>O indígena sofre menos sob a República do que sob a dominação espanhola? Não existem mais <i>corregimientos</i> nem <i>encomiendas</i>, mas persistem os trabalhos forçados e os recrutamentos. O sofrimento que lhe provocamos basta para descarregar sobre nós a execração dos seres humanos. Nós o conservamos na ignorância e na servidão, o envilecemos no quartel, o embrutecemos com o álcool, o lançamos a destroçar-se nas guerras civis e, de tempos em tempos, organizamos caçadas e matanças.</p>
-			</quote>
-			<cite>Manuel González Prada. "Nuestros indios". In: Ideas en tono de Latinoamérica. México: UNAM, 1986. Adaptado.</cite>
-		</context>
 		<objective_question number="19">
 			<classification subject="Unknown" />
 			<statement>
+			<p>Observe e analise a obra artística de Cildo Meireles:</p>
+			<image src="fuvest/2026/fase01/q19.png" />
+			<cite>Anverso e reverso de Zero Cruzeiro, de Cildo Meireles. Acervo Fundação Cultural Banco Itaú.</cite>
+				<p>Em <i>Zero Cruzeiro</i>, obra criada em 1978,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a assinatura reproduzida na nota é a do presidente do Banco Central e confere um efeito oficial e realístico à nota Zero Cruzeiro.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a indicação do valor nominal sugere a estabilização econômica promovida pelas políticas públicas da época com a diminuição da inflação.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a ilustração empregada na composição subverte o culto dos heróis nacionais e introduz a presença de pessoas comuns e anônimas, com frequência desvalorizadas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a obra sugere a indistinção entre a criação artística e a nota de dinheiro, uma vez que ambas têm valor de troca.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a imagem exalta a valorização de setores marginalizados que foram beneficiados com as políticas de inclusão social adotadas pelo regime militar.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+	
+	<question_group>
+		<objective_question number="20">
+			<classification subject="Unknown" />
+			<statement>
+			<quote>
+				<p>O indígena sofre menos sob a República do que sob a dominação espanhola? Não existem mais <i>corregimientos</i> nem <i>encomiendas</i>, mas persistem os trabalhos forçados e os recrutamentos. O sofrimento que lhe provocamos basta para descarregar sobre nós a execração dos seres humanos. Nós o conservamos na ignorância e na servidão, o envilecemos no quartel, o embrutecemos com o álcool, o lançamos a destroçar-se nas guerras civis e, de tempos em tempos, organizamos caçadas e matanças.</p>
+			</quote>
+			<cite>Manuel González Prada. <q>Nuestros indios</q>. In: Ideas en tono de Latinoamérica. México: UNAM, 1986. Adaptado.</cite>
+			
 				<p>O excerto, extraído de um texto publicado no início do século XX pelo peruano Manuel González Prada,</p>
 			</statement>
 			<options>
@@ -571,45 +612,16 @@
 		</objective_question>
 	</question_group>
 
-	<question_group>
-		<context>
-			<p>Observe e analise a obra artística de Cildo Meireles:</p>
-			<image src="fuvest/2026/fase01/q20.png" />
-			<caption align="center">Anverso e reverso de Zero Cruzeiro, de Cildo Meireles. Acervo Fundação Cultural Banco Itaú.</caption>
-		</context>
-		<objective_question number="20">
-			<classification subject="Unknown" />
-			<statement>
-				<p>Em <i>Zero Cruzeiro</i>, obra criada em 1978,</p>
-			</statement>
-			<options>
-				<option label="A" is_correct="false">
-					<p>a assinatura reproduzida na nota é a do presidente do Banco Central e confere um efeito oficial e realístico à nota Zero Cruzeiro.</p>
-				</option>
-				<option label="B" is_correct="false">
-					<p>a indicação do valor nominal sugere a estabilização econômica promovida pelas políticas públicas da época com a diminuição da inflação.</p>
-				</option>
-				<option label="C" is_correct="false">
-					<p>a ilustração empregada na composição subverte o culto dos heróis nacionais e introduz a presença de pessoas comuns e anônimas, com frequência desvalorizadas.</p>
-				</option>
-				<option label="D" is_correct="false">
-					<p>a obra sugere a indistinção entre a criação artística e a nota de dinheiro, uma vez que ambas têm valor de troca.</p>
-				</option>
-				<option label="E" is_correct="false">
-					<p>a imagem exalta a valorização de setores marginalizados que foram beneficiados com as políticas de inclusão social adotadas pelo regime militar.</p>
-				</option>
-			</options>
-		</objective_question>
-	</question_group>
+
 
 	<question_group>
 		<objective_question number="21">
 			<classification subject="Unknown" />
 			<statement>
 				<quote>
-					<p>Na documentação jesuítica quinhentista, há constantes referências ao desejo dos índios de entregarem seus filhos para que fossem ensinados pelos padres. Talvez o ensino das crianças indígenas pudesse representar, também, uma possibilidade de estabelecer alianças entre grupos indígenas e padres, revelando outra dimensão da evangelização das crianças como 'grande meio' para se converter o gentio. É difícil determinar ao certo qual foi a imagem a respeito dos portugueses construída pelas várias tribos indígenas e, principalmente, dos religiosos da Companhia de Jesus, mas a construção de alianças, a partir das crianças (os índios dando seus filhos), pode ter constituído uma possibilidade frutífera de relacionamento para alguns grupos.</p>
+					<p>Na documentação jesuítica quinhentista, há constantes referências ao desejo dos índios de entregarem seus filhos para que fossem ensinados pelos padres. Talvez o ensino das crianças indígenas pudesse representar, também, uma possibilidade de estabelecer alianças entre grupos indígenas e padres, revelando outra dimensão da evangelização das crianças como <q>grande meio</q> para se converter o gentio. É difícil determinar ao certo qual foi a imagem a respeito dos portugueses construída pelas várias tribos indígenas e, principalmente, dos religiosos da Companhia de Jesus, mas a construção de alianças, a partir das crianças (os índios dando seus filhos), pode ter constituído uma possibilidade frutífera de relacionamento para alguns grupos.</p>
 				</quote>
-				<cite>Rafael Chambouleyron. "Jesuítas e as crianças no Brasil quinhentista". In: Mary del Priore. História das crianças no Brasil. São Paulo: Contexto, 1999.</cite>
+				<cite>Rafael Chambouleyron. <q>Jesuítas e as crianças no Brasil quinhentista</q>. In: Mary del Priore. História das crianças no Brasil. São Paulo: Contexto, 1999.</cite>
 				<p>Com base no excerto, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -642,16 +654,16 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>A representação imagética dos indígenas como miseráveis é hiperbólica, reforçando o sentido da pergunta "Por que mais terras?", o que evidencia uma atitude autoral favorável ao marco temporal.</p>
+					<p>A representação imagética dos indígenas como miseráveis é hiperbólica, reforçando o sentido da pergunta <q>Por que mais terras?</q>, o que evidencia uma atitude autoral favorável ao marco temporal.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>A distribuição espacial do casal e da família indígena personifica a polarização política, o que fica demarcado pela oposição "nós" contra "eles" na fala da mulher.</p>
+					<p>A distribuição espacial do casal e da família indígena personifica a polarização política, o que fica demarcado pela oposição <q>nós</q> contra <q>eles</q> na fala da mulher.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>A expressão "mais terras", em contraste com o espaço ocupado pela família indígena, busca mostrar que já há soluções alternativas para a delimitação de terras para os povos originários no tecido urbano.</p>
+					<p>A expressão <q>mais terras</q>, em contraste com o espaço ocupado pela família indígena, busca mostrar que já há soluções alternativas para a delimitação de terras para os povos originários no tecido urbano.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>Ocorre uma quebra de expectativa entre a representação da família indígena e a expressão "perfeitamente integrados", o que colabora para o teor crítico da charge em relação ao marco temporal.</p>
+					<p>Ocorre uma quebra de expectativa entre a representação da família indígena e a expressão <q>perfeitamente integrados</q>, o que colabora para o teor crítico da charge em relação ao marco temporal.</p>
 				</option>
 				<option label="E" is_correct="false">
 					<p>A postura do casal, em relação aos indígenas, sinaliza empatia e mostra o seu interesse na derrubada do marco temporal, que tem levado indígenas à pobreza nas metrópoles brasileiras.</p>
@@ -664,7 +676,7 @@
 		<objective_question number="23">
 			<classification subject="Unknown" />
 			<statement>
-				<p>No ano de 2024, o Atlas da Mata Atlântica identificou uma perda de <m>143,66~km^{2}</m> de florestas maduras dentro do limite de aplicação da Lei da Mata Atlântica. A área foi muito semelhante à do ano anterior, com uma queda de apenas 2% na taxa de desmatamento de um ano para o outro, o que denuncia a situação de vulnerabilidade do Bioma. Além da redução tímida, a taxa ainda está longe do menor desmatamento já registrado desde a primeira edição do Atlas, em 1985: os <m>113,99~km^{2}</m> observados no período de 2017 a 2018. O gráfico apresenta a área de desmatamento e a tendência para a série histórica.</p>
+				<p>No ano de 2024, o Atlas da Mata Atlântica identificou uma perda de 143,66~km² de florestas maduras dentro do limite de aplicação da Lei da Mata Atlântica. A área foi muito semelhante à do ano anterior, com uma queda de apenas 2% na taxa de desmatamento de um ano para o outro, o que denuncia a situação de vulnerabilidade do Bioma. Além da redução tímida, a taxa ainda está longe do menor desmatamento já registrado desde a primeira edição do Atlas, em 1985: os 113,99~km² observados no período de 2017 a 2018. O gráfico apresenta a área de desmatamento e a tendência para a série histórica.</p>
 				<image html_width="700" src="fuvest/2026/fase01/q23.png" />
 				<cite>Disponível em https://sosma.org.br/. Adaptado.</cite>
 				<p>Acerca das informações do texto e da análise do gráfico, é possível concluir que</p>
@@ -680,7 +692,7 @@
 					<p>os primeiros 15 anos de monitoramento (1985 a 1999) são marcados por três períodos de elevação da área de desmatamento.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>é possível observar uma redução consistente na área de desmatamento da Mata Atlântica <m>(km^{2}/ano)</m> ao longo de toda a série histórica.</p>
+					<p>é possível observar uma redução consistente na área de desmatamento da Mata Atlântica (km²/ano) ao longo de toda a série histórica.</p>
 				</option>
 				<option label="E" is_correct="false">
 					<p>há uma evolução crescente da área de desmatamento nos limites da Mata Atlântica, em especial nos últimos 10 anos de monitoramento.</p>
@@ -694,9 +706,10 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>A área de cobertura vegetal observada no arquipélago das Ilhas Shetlands do Sul, na Antártida, próxima à Península desse continente, aumentou de 0,86 km² em 1986 para 11,95 km² em 2021, indicando uma taxa de mudança acelerada nos últimos anos. Essa tendência ecoa um padrão mais amplo de esverdeamento em ambientes de clima frio, que sugere futuras mudanças generalizadas nos ecossistemas terrestres na Antártida e em seu funcionamento a longo prazo.</p>
-				<p>Considere o texto a seguir:</p>
-				<image html_width="600" src="fuvest/2026/fase01/q24.png" />
-				<caption align="center">Imagem ilustrativa da presença de musgos na Ilha Ardley.</caption>
+				<image html_width="600" src="fuvest/2026/fase01/q24_1.png" />
+				<caption>Imagem ilustrativa da presença de musgos na Ilha Ardley.</caption>
+				<image html_width="600" src="fuvest/2026/fase01/q24_2.png" />
+				<caption>Ilha Ardley (62°S) e evolução temporal do Índice de Vegetação Normalizado (NDVI) e do Índice de Vegetação Verde (TCG, sigla em inglês para <i>Tasseled Cap Greenness).</i></caption>
 				<cite>Disponível em doi.org/10.1038/s41561-024-01564-5. Adaptado.</cite>
 				<p>O processo de esverdeamento (<i>greening</i>) da área apresentada na imagem, sua evolução temporal desde 1986 e os elementos do texto permitem concluir que</p>
 			</statement>
@@ -724,11 +737,13 @@
 		<objective_question number="25">
 			<classification subject="Unknown" />
 			<statement>
+				<p>Considere o texto a seguir:</p>
+				<image html_width="400" src="fuvest/2026/fase01/q25.png" />
 				<quote>
 					<p>Ice flows across Antarctica and continues to do so as it reaches the edge of the land mass and extends over the ocean. The huge floating tongues of ice often remain attached to the continent. Anything that remains grounded on the land is part of the Antarctic ice sheet; the floating part is an ice shelf. Floating ice shelves surround three-quarters of Antarctica's coast and make up about 11% of its total area. One of the largest, the Ross Ice Shelf, is roughly the size of France. The George VI Ice Shelf is shown in the image, taken by NASA's Landsat 8 in January 2020.</p>
 					<p>It may seem intuitive that all the ice added to the ocean from melting ice shelves would raise global sea level, but that's not the case. By Archimedes's principle, ice shelves floating on the water have already displaced their own weight, so their disintegration or melting won't change the water level. Ice shelves do, however, regulate the speed of glaciers on Antarctica's land. Ice shelves act to hold glaciers back. Take the shelf away, and the glaciers are free to speed up and flow into the ocean. Any ice and liquid water that the glaciers take with them will raise sea level. Of Earth's fresh water, 70% is stored in Antarctica's ice; that is the equivalent of about 58 meters of sea-level rise if all of it were to melt.</p>
 				</quote>
-				<cite>Buzzard, S. "The surface hydrology of Antarctica's floating ice". Physics Today 75, 28-33 (2022). Adaptado.</cite>
+				<cite>Buzzard, S. <q>The surface hydrology of Antarctica's floating ice</q>. Physics Today 75, 28-33 (2022). Adaptado.</cite>
 				<p>Segundo o texto, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -755,12 +770,11 @@
 		<objective_question number="26">
 			<classification subject="Unknown" />
 			<statement>
+				<image html_width="400" src="fuvest/2026/fase01/q26.png" />
 				<quote>
-					<p>Our planet is home to subterranean lava deposits and smatterings of obsidian-black volcanic glass. Scalding groundwater bubbles to the surface in places. In such a landscape, you remember that the planet's hard exterior is so thin that we call it a crust. Its superheated interior burns with an estimated forty-four trillion watts of power. Heat mined from underground is called geothermal and can be used to produce steam, spin a turbine, and generate electricity. Until recently, humans have tended to harvest small quantities in the rare places where it surfaces, such as hot springs. The biggest drawback is drilling miles through hot rock, safely. If scientists can do that, next-generation geothermal power could supply clean energy for eons.</p>
-					<p>Right now, geothermal energy meets a puny portion of humanity's electricity and heating needs. Fossil fuels power about eighty per cent of human activity, pumping out carbon dioxide and short-circuiting our climate to catastrophic effect. Converts argue that geothermal checks three key boxes: it is carbon-free, available everywhere, and effectively unlimited. It is also baseload, which means that, unlike solar panels or wind, it provides a steady flow of energy.</p>
-					<p>"Over the last two years, I have watched this exponential spin-up of activity in geothermal," a drilling expert said. But there is a risk of moon shots: often, they miss. "There's basically zero chance that you're going to develop a moon-shot technology and have it be commercial in five years, on a large-scale", said Mark Jacobson, an engineering professor. That's how long humanity has to lower emissions before climatic devastation. "There's a very decent chance you can do that with wind and solar," he said. Perhaps, when resources and time are finite, trying and failing could be worse than not trying at all.</p>
+					<p>Our planet is home to subterranean lava deposits and smatterings of obsidian-black volcanic glass. Scalding groundwater bubbles to the surface in places. In such a landscape, you remember that the planet's hard exterior is so thin that we call it a crust. Its superheated interior burns with an estimated forty-four trillion watts of power. Heat mined from underground is called geothermal and can be used to produce steam, spin a turbine, and generate electricity. Until recently, humans have tended to harvest small quantities in the rare places where it surfaces, such as hot springs. The biggest drawback is drilling miles through hot rock, safely. If scientists can do that, next-generation geothermal power could supply clean energy for eons. Right now, geothermal energy meets a puny portion of humanity's electricity and heating needs. Fossil fuels power about eighty per cent of human activity, pumping out carbon dioxide and short-circuiting our climate to catastrophic effect. Converts argue that geothermal checks three key boxes: it is carbon-free, available everywhere, and effectively unlimited. It is also baseload, which means that, unlike solar panels or wind, it provides a steady flow of energy. <q>Over the last two years, I have watched this exponential spin-up of activity in geothermal,</q> a drilling expert said. But there is a risk of moon shots: often, they miss. <q>There's basically zero chance that you're going to develop a moon-shot technology and have it be commercial in five years, on a large-scale</q>, said Mark Jacobson, an engineering professor. That's how long humanity has to lower emissions before climatic devastation. <q>There's a very decent chance you can do that with wind and solar,</q> he said. Perhaps, when resources and time are finite, trying and failing could be worse than not trying at all.</p>
 				</quote>
-				<cite>New Yorker. March 2025. Adaptado.</cite>
+				<cite><i>New Yorker.</i> March 2025. Adaptado.</cite>
 				<p>De acordo com o texto, atualmente a exploração do calor gerado nas regiões subterrâneas do planeta</p>
 			</statement>
 			<options>
@@ -788,8 +802,8 @@
 			<classification subject="Unknown" />
 			<statement>
 				<p>A África Oriental utiliza recursos geotérmicos para gerar cerca de 630 MW por ano. O Quênia é o líder africano em usinas geotérmicas em operação, totalizando mais de 40% da produção total de eletricidade do país.</p>
-				<image html_width="700" src="fuvest/2026/fase01/q27.png" />
 				<caption align="center">Mapa do potencial geotérmico da África</caption>
+				<image html_width="700" src="fuvest/2026/fase01/q27.png" />
 				<cite>Disponível em https://doi.org/10.1186/s40517-022-00219-1. Adaptado.</cite>
 				<p>Assinale a alternativa correta sobre o processo geológico e sua consequência no terreno que explica a exploração de energia geotérmica no Quênia, respectivamente:</p>
 			</statement>
@@ -817,9 +831,8 @@
 		<objective_question number="28">
 			<classification subject="Unknown" />
 			<statement>
-				<p>Essa imagem, chamada de "A formatura da capivara", foi gerada por Inteligência Artificial (IA). Em 2024 estimou-se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem.</p>
 				<image width="0.4" src="fuvest/2026/fase01/q28.png" />
-				<p>O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA. Considerando que toda a energia para gerar essas imagens fosse proveniente da combustão completa de carvão, a pegada de carbono diária medida em toneladas de <m>CO_{2}</m> formado, resultante da produção dessas imagens, seria de</p>
+				<p>Essa imagem, chamada de <q>A formatura da capivara</q>, foi gerada por Inteligência Artificial (IA). Em 2024 estimou-se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA. Considerando que toda a energia para gerar essas imagens fosse proveniente da combustão completa de carvão, a pegada de carbono diária medida em toneladas de <c>CO2</c> formado, resultante da produção dessas imagens, seria de</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -839,9 +852,8 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
-				<p>Massa molar <m>(g/mol)</m>: <m>C=12</m>; <m>O=16</m></p>
-				<p>Entalpia de combustão completa do carvão: <m>\Delta H=-393~kJ/mol</m></p>
+				<p>Massa molar (g/mol): C = 12; O = 16</p>
+				<p>Entalpia de combustão completa do carvão: <m>\Delta H = -393</m>~kJ/mol</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -857,10 +869,10 @@
 					<p>Países com mais florestas devem receber créditos financeiros de países menos florestados para manter a floresta em pé.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>Créditos de carbono correspondem a um aumento da taxa fotossintética e uma maior conversão de <m>CO_{2}</m> em matéria orgânica pelas florestas tropicais.</p>
+					<p>Créditos de carbono correspondem a um aumento da taxa fotossintética e uma maior conversão de <c>CO2</c> em matéria orgânica pelas florestas tropicais.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Créditos de carbono são obtidos por qualquer país, mesmo os mais industrializados, pela redução da emissão de <m>CO_{2}</m> e seus equivalentes na atmosfera.</p>
+					<p>Créditos de carbono são obtidos por qualquer país, mesmo os mais industrializados, pela redução da emissão de <c>CO2</c> e seus equivalentes na atmosfera.</p>
 				</option>
 				<option label="D" is_correct="false">
 					<p>Países industrializados geram muitos créditos de carbono, que podem ser repassados aos países menos poluidores, via mercado de carbono.</p>
@@ -876,7 +888,8 @@
 		<objective_question number="30">
 			<classification subject="Unknown" />
 			<statement>
-				<p>O Brasil é o líder mundial em reciclagem de alumínio, atingindo números próximos a 99% de latas recicladas no ano de 2021. Essas latas, já utilizadas para refrigerantes, cervejas, energéticos, agora começam a trazer também água mineral em seu interior. Considere que uma empresa deseja envasar 350 mL de água em uma lata de alumínio de formato cilíndrico e que, por razões práticas como manuseio e custo do material, o diâmetro da base dessa lata deve ter entre 5 cm e 8 cm.</p>
+				<p>O Brasil é o líder mundial em reciclagem de alumínio, atingindo números próximos a 99% de latas recicladas no ano de 2021. Essas latas, já utilizadas para refrigerantes, cervejas, energéticos, agora começam a trazer também água mineral em seu interior.</p>
+				<p>Considere que uma empresa deseja envasar 350~mL de água em uma lata de alumínio de formato cilíndrico e que, por razões práticas como manuseio e custo do material, o diâmetro da base dessa lata deve ter entre 5~cm e 8~cm.</p>
 				<p>Qual será, aproximadamente, em centímetros, a menor altura possível da lata?</p>
 			</statement>
 			<options>
@@ -903,7 +916,7 @@
 		<objective_question number="31">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>O processo de corrosão do aço é favorecido em ambientes úmidos e ácidos. Para evitar a corrosão de superfícies de aço é comum utilizar óleos para impedir o contato da umidade do ar com a superfície. Nos casos em que o uso de óleo não é conveniente, é possível criar uma camada de <m>NaOH(s)</m> na superfície do metal aplicando uma solução aquosa relativamente concentrada desta base sobre a ferramenta e deixando a solução secar por completo. Esse tipo de tratamento com hidróxido de sódio é efetivo em ambientes com elevada acidez pois, caso a água entre em contato com a superfície tratada, ela</p>
+				<p>O processo de corrosão do aço é favorecido em ambientes úmidos e ácidos. Para evitar a corrosão de superfícies de aço é comum utilizar óleos para impedir o contato da umidade do ar com a superfície. Nos casos em que o uso de óleo não é conveniente, é possível criar uma camada de <c>NaOH(s)</c> na superfície do metal aplicando uma solução aquosa relativamente concentrada desta base sobre a ferramenta e deixando a solução secar por completo. Esse tipo de tratamento com hidróxido de sódio é efetivo em ambientes com elevada acidez pois, caso a água entre em contato com a superfície tratada, ela</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -929,8 +942,8 @@
 		<objective_question number="32">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>O produto conhecido como descalcificante, comumente composto por ácido cítrico, é usado para desentupir os dutos internos de eletrodomésticos como cafeteiras e ferros de passar roupa a vapor. O entupimento frequentemente é causado pelo depósito de calcário (<m>CaCO_{3}</m>), produto da reação entre <m>CO_{2}</m> e íons cálcio presentes na água. O equilíbrio de formação do carbonato de cálcio está representado a seguir:
-				<math>Ca^{2+}(aq)+CO_{2}(g)+H_{2}O(l)\rightleftharpoons CaCO_{3}(s)+2H^{+}(aq)</math></p>
+				<p>O produto conhecido como descalcificante, comumente composto por ácido cítrico, é usado para desentupir os dutos internos de eletrodomésticos como cafeteiras e ferros de passar roupa a vapor. O entupimento frequentemente é causado pelo depósito de calcário (<c>CaCO3</c>), produto da reação entre <c>CO2</c> e íons cálcio presentes na água. O equilíbrio de formação do carbonato de cálcio está representado a seguir:
+				<chem>Ca^{2+}(aq)+CO_{2}(g)+H_{2}O(l)\rightleftharpoons CaCO_{3}(s)+2H^{+}(aq)</chem></p>
 				<p>Sobre os processos de entupimento por carbonato de cálcio e a descalcificação desses eletrodomésticos, é correto afirmar que</p>
 			</statement>
 			<options>
@@ -938,10 +951,10 @@
 					<p>a diminuição do pH pela presença do ácido cítrico leva à reação de descalcificação.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>a reação de descalcificação com ácido cítrico desloca o equilíbrio porque consome <m>CO_{2}</m>.</p>
+					<p>a reação de descalcificação com ácido cítrico desloca o equilíbrio porque consome <c>CO2</c>.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>ambientes ricos em <m>CO_{2}</m> causam menos entupimento dos eletrodomésticos.</p>
+					<p>ambientes ricos em <c>CO2</c> causam menos entupimento dos eletrodomésticos.</p>
 				</option>
 				<option label="D" is_correct="false">
 					<p>a utilização de água com maior pH nos eletrodomésticos causa menos entupimento.</p>
@@ -954,19 +967,17 @@
 	</question_group>
 
 	<question_group>
-		<context>
-			<quote>
-				<p>Uma pesquisa realizada na Universidade de São Paulo sobre a sustentabilidade do setor têxtil destaca que "cerca de 4 milhões de resíduos têxteis são descartados todos os anos nos domicílios brasileiros, e o Brasil não tem gestão de resíduos. No ano passado, cada domicílio do País descartou cerca de 44 quilos de roupas e calçados. A estimativa é que o setor têxtil seja responsável por 2% a 8% das emissões de gases de efeito estufa em todo o mundo."</p>
-			</quote>
-			<cite>Disponível em https://jornal.usp.br/. Adaptado.</cite>
-			<quote>
-				<p>Outro dado que corrobora com a pesquisa é o crescimento em 60% da produção de roupas nos últimos 15 anos, com custo barateado em 36%, significando um aumento considerável do consumo deste setor, no mundo. Além disso, a produção de algodão, apesar de ocupar 2,5% das áreas cultivadas no mundo, utiliza 25% dos inseticidas e 10% dos herbicidas. E, também, utiliza aproximadamente 11 bilhões de litros de água, para a lavagem e tingimento dos tecidos. Assim, segundo a Organização Mundial de Saúde, a cadeia produtiva da indústria têxtil é um setor econômico dos mais poluentes.</p>
-			</quote>
-			<cite>Géopolitique: enjeux internationaux, 2022. Adaptado.</cite>
-		</context>
 		<objective_question number="33">
 			<classification subject="Unknown"/>
 			<statement>
+				<quote>
+					<p>Uma pesquisa realizada na Universidade de São Paulo sobre a sustentabilidade do setor têxtil destaca que <q>cerca de 4 milhões de resíduos têxteis são descartados todos os anos nos domicílios brasileiros, e o Brasil não tem gestão de resíduos. No ano passado, cada domicílio do País descartou cerca de 44 quilos de roupas e calçados. A estimativa é que o setor têxtil seja responsável por 2% a 8% das emissões de gases de efeito estufa em todo o mundo.</q></p>
+				</quote>
+				<cite>Disponível em https://jornal.usp.br/. Adaptado.</cite>
+				<quote>
+					<p>Outro dado que corrobora com a pesquisa é o crescimento em 60% da produção de roupas nos últimos 15 anos, com custo barateado em 36%, significando um aumento considerável do consumo deste setor, no mundo. Além disso, a produção de algodão, apesar de ocupar 2,5% das áreas cultivadas no mundo, utiliza 25% dos inseticidas e 10% dos herbicidas. E, também, utiliza aproximadamente 11 bilhões de litros de água, para a lavagem e tingimento dos tecidos. Assim, segundo a Organização Mundial de Saúde, a cadeia produtiva da indústria têxtil é um setor econômico dos mais poluentes.</p>
+				</quote>
+				<cite><i>Géopolitique: enjeux internationaux,</i> 2022. Adaptado.</cite>
 				<p>Com base nos textos, qual alternativa explica o impacto ambiental do consumismo no setor da indústria têxtil?</p>
 			</statement>
 			<options>
@@ -994,8 +1005,9 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<p>As cores das águas dos rios são resultado de transformações físico-químicas, indicando fatores como os sólidos (material inorgânico) em suspensão (SIS) e o material orgânico dissolvido (MOD). A classificação científica das águas amazônicas mais utilizada é a de Harald Sioli (1950), que identificou três tipos: Brancas (alta concentração de SIS), Pretas (alta concentração de MOD) e Claras (baixas concentrações de SIS e MOD). Pesquisas mais recentes que analisam dados hidroquímicos têm indicado uma composição química mais variada nas águas amazônicas, dividindo os rios da região também em dois tipos intermediários: A (subtipo das águas claras) e B (subtipo que está entre as águas brancas e pretas).</p>
-				<image html_width="700" src="fuvest/2026/fase01/q34.png" />
 				<caption align="center">Principais rios da Região Hidrográfica Amazônica. Atlas da Amazônia Brasileira, 2025. Adaptado.</caption>
+				<image html_width="700" src="fuvest/2026/fase01/q34.png" />
+				<cite><i>Atlas da Amazônia Brasileira,</i> 2025. Adaptado.</cite>
 				<p>A partir das informações do mapa e do texto, assinale a alternativa correta.</p>
 			</statement>
 			<options>
@@ -1023,6 +1035,7 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<p>Em regiões montanhosas e com clima tropical, é comum a ocorrência de movimentações de massa associados a volumes elevados de chuva. Pelos seus efeitos destrutivos, principalmente em áreas ocupadas de forma irregular, tornam-se foco de estudos de identificação, caracterização, monitoramento e prevenção. Observe a seguir um exemplo de sistema de monitoramento:</p>
+				<caption>Sistema de monitoramento de corrida de detritos</caption>
 				<image html_width="700" src="fuvest/2026/fase01/q35.png" />
 				<table width="100">
 					<header>
@@ -1077,9 +1090,9 @@
 		<objective_question number="36">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Para realizar o cálculo da diferença de altitude (altura) entre dois pontos A e B, localizados no terreno, um técnico utilizou uma Estação Total (ET), equipamento usado para medir a diferença entre níveis de pontos distintos. Ele posicionou o equipamento, que tem 1,6 m de altura, em um ponto M, equidistante na horizontal dos pontos A e B, a 40 m de cada um, nos quais estão os prismas de leitura (miras), conforme a figura a seguir:</p>
-				<image html_width="600" src="fuvest/2026/fase01/q36.png" />
-				<p>Admitindo-se que o ângulo de inclinação descendente, <m>\alpha_{A}</m>, é <m>7^{\circ}</m> e o ângulo de inclinação ascendente, <m>\alpha_{B}</m>, é <m>5^{\circ}</m> e que a leitura no prisma, <m>h_{B}</m>, no ponto B foi de 3,60 m, determine a diferença de altitude (altura), em metros, entre os pontos A e B.</p>
+				<p>Para realizar o cálculo da diferença de altitude (altura) entre dois pontos <m>A</m> e <m>B,</m> localizados no terreno, um técnico utilizou uma Estação Total (ET), equipamento usado para medir a diferença entre níveis de pontos distintos. Ele posicionou o equipamento, que tem 1,6~m de altura, em um ponto <m>M</m>, equidistante na horizontal dos pontos <m>A</m> e <m>B</m>, a 40~m de cada um, nos quais estão os prismas de leitura (miras), conforme a figura a seguir:</p>
+				<image html_width="500" src="fuvest/2026/fase01/q36.png" />
+				<p>Admitindo-se que o ângulo de inclinação descendente, <m>\alpha_{A}</m>, é 7° e o ângulo de inclinação ascendente, <m>\alpha_{B}</m>, é 5° e que a leitura no prisma, <m>h_{B}</m>, no ponto <m>B</m> foi de 3,60~m, determine a diferença de altitude (altura), em metros, entre os pontos <m>A</m> e <m>B</m>.</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1099,7 +1112,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p><m>tan(5^{\circ})\cong0.087</m> e <m>tan(7^{\circ})\cong0.122</m></p>
 			</assumptions>
 		</objective_question>
@@ -1109,8 +1121,8 @@
 		<objective_question number="37">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Engenheiros estavam mapeando um terreno para construção de um empreendimento com quatro prédios em formato cilíndrico distribuídos em torno de uma praça com o formato quadrado. Para a construção dos prédios, os engenheiros demarcaram os vértices da praça nos pontos <m>A=(0,0)</m>, <m>B=(8,0)</m>, C e D, em sistema de coordenadas cartesianas onde cada unidade corresponde a um metro.</p>
-				<p>Sabendo-se que a borda da seção circular de cada prédio tangencia cada lado do quadrado no seu ponto médio, qual deve ser a equação da circunferência do prédio que tem uma distância de 10 m do seu centro até o centro do quadrado e que passa pelo ponto de tangência P, conforme a figura?</p>
+				<p>Engenheiros estavam mapeando um terreno para construção de um empreendimento com quatro prédios em formato cilíndrico distribuídos em torno de uma praça com o formato quadrado. Para a construção dos prédios, os engenheiros demarcaram os vértices da praça nos pontos <m>A=(0,0)</m>, <m>B=(8,0)</m>, <m>C</m> e <m>D</m>, em sistema de coordenadas cartesianas onde cada unidade corresponde a um metro.</p>
+				<p>Sabendo-se que a borda da seção circular de cada prédio tangencia cada lado do quadrado no seu ponto médio, qual deve ser a equação da circunferência do prédio que tem uma distância de 10~m do seu centro até o centro do quadrado e que passa pelo ponto de tangência P, conforme a figura?</p>
 				<image html_width="300" src="fuvest/2026/fase01/q37.png" />
 			</statement>
 			<options>
@@ -1137,10 +1149,12 @@
 		<objective_question number="38">
 			<classification subject="Unknown"/>
 			<statement>
+				<quote>
 				<p>No censo do IBGE 2022 foi possível perceber que, do total de 203,1 milhões de pessoas da população brasileira, 177,5 milhões (87,4%) residiam em áreas urbanas, enquanto 25,6 milhões viviam em áreas rurais. Em relação a 2010, quando o grau de urbanização foi de 84,4%, houve aumento de 16,6 milhões de pessoas morando em áreas urbanas e queda de 4,3 milhões vivendo em áreas rurais.</p>
 				<p>Já em relação à distribuição da população brasileira, o Censo 2022 trouxe uma importante constatação: o crescimento das cidades médias. Cabem nessa classificação do IBGE os municípios que contam entre 100 mil e 500 mil habitantes.</p>
 				<p>Além disso, os dados também revelam que os maiores percentuais de população urbana foram observados nas regiões Sudeste (94,44%) e Centro-Oeste (91,35%), seguidas das regiões Sul (88,24%), Norte (78,47%) e Nordeste (77,64%).</p>
 				<p>A população rural, por sua vez, apresentou pela primeira vez decréscimo em todas as regiões do Brasil. Segundo o Prof. Everaldo Melazzo, as cidades brasileiras estão ficando cada vez mais complexas e indicando algumas tendências inexistentes no Brasil até então. Este contexto de mudanças é denominado de fragmentação socioespacial [...].</p>
+				</quote>
 				<cite>Disponível em https://jornal.unesp.br/. Adaptado.</cite>
 				<p>Com base no texto e em seus conhecimentos, é correto afirmar a respeito das novas tendências sobre a urbanização do Brasil:</p>
 			</statement>
@@ -1171,7 +1185,7 @@
 				<quote>
 					<p>Os grotões transformaram-se em jardins cortados a meio pelas avenidas e pela sombra dos viadutos não há mais sapo. Nos jardins encontrareis recintos fechados com instrutoras, dentistas, educadoras sanitárias dentro. São os parques infantis, onde as crianças proletárias se socializam aprendendo nos brinquedos o cooperativismo e a consciência do homem social.</p>
 				</quote>
-				<cite>Mário de Andrade. "Dia de São Paulo". Revista do Arquivo Municipal. São Paulo: Departamento de Cultura, 1936, nº 19.</cite>
+				<cite>Mário de Andrade. <q>Dia de São Paulo</q>. <i>Revista do Arquivo Municipal.</i> São Paulo: Departamento de Cultura, 1936, nº 19.</cite>
 				<p>O excerto relata alterações na paisagem urbana paulistana com a implantação de novos equipamentos que visavam</p>
 			</statement>
 			<options>
@@ -1200,30 +1214,30 @@
 			<statement>
 				<p>Considere os dois fragmentos a seguir:</p>
 				<quote>
-					<p>O fundamento psicológico sobre o qual se eleva o tipo das individualidades da cidade grande é a intensificação da vida nervosa, que resulta da mudança rápida e ininterrupta de impressões [...]. Talvez não haja nenhum fenômeno tão característico da cidade grande como o caráter blasé. [...] A essência do caráter blasé é o embotamento frente à distinção das coisas [...]. Em parte por conta dessa situação psicológica, em parte em virtude do direito à desconfiança que temos perante os elementos da vida na cidade grande, que passam por nós em um contato fugaz, somos coagidos a uma reserva, em virtude da qual mal conhecemos os vizinhos que temos por muitos anos [...]. Ao mesmo tempo, essa reserva garante ao indivíduo uma espécie [...] de liberdade pessoal.</p>
+					<p>O fundamento psicológico sobre o qual se eleva o tipo das individualidades da cidade grande é a <i>intensificação da vida nervosa,</i> que resulta da mudança rápida e ininterrupta de impressões [...]. Talvez não haja nenhum fenômeno tão característico da cidade grande como o caráter blasé. [...] A essência do caráter blasé é o embotamento frente à distinção das coisas [...]. Em parte por conta dessa situação psicológica, em parte em virtude do direito à desconfiança que temos perante os elementos da vida na cidade grande, que passam por nós em um contato fugaz, somos coagidos a uma reserva, em virtude da qual mal conhecemos os vizinhos que temos por muitos anos [...]. Ao mesmo tempo, essa reserva garante ao indivíduo uma espécie [...] de liberdade pessoal.</p>
 				</quote>
-				<cite>Simmel, Georg. (2005). As grandes cidades e a vida do espírito. Mana, Trad. Leopoldo Waizbort. Adaptado.</cite>
+				<cite>Simmel, Georg. (2005). <i>As grandes cidades e a vida do espírito.</i> Mana, Trad. Leopoldo Waizbort. Adaptado.</cite>
 				<quote>
 					<p>As luzes da cidade se acendiam, as cortinas de aço das portas desciam com barulho e os caixeiros, os empregados que passavam o dia sorridentes ou abstratos, por trás dos balcões [...], se transformavam em homens misteriosos, individuais, que metiam um paletó, tinham uma casa, uma rua e iam comer o seu jantar, dormir o seu sono, trancar a sua porta. [...] Todos ali tinham a sua vida isolada, sua vida particular. E, naquela hora, cortavam as amarras, cada um procurando o seu mundo pessoal, a sua pequenina ilha.</p>
 				</quote>
-				<cite>Rachel de Queiroz. Caminho de Pedras. Adaptado.</cite>
-				<p>No primeiro trecho, publicado originalmente em 1903, o sociólogo Georg Simmel procurou condensar as características fundamentais da vida psíquica nas grandes cidades. Já no segundo, com que Rachel de Queiroz inicia o capítulo 7 de Caminho de Pedras, vemos como o protagonista Roberto percebe sua cidade a bordo de um bonde. Lendo-os em conjunto, é possível afirmar:</p>
+				<cite>Rachel de Queiroz. <i>Caminho de Pedras.</i> Adaptado.</cite>
+				<p>No primeiro trecho, publicado originalmente em 1903, o sociólogo Georg Simmel procurou condensar as características fundamentais da vida psíquica nas grandes cidades. Já no segundo, com que Rachel de Queiroz inicia o capítulo 7 de <i>Caminho de Pedras,</i> vemos como o protagonista Roberto percebe sua cidade a bordo de um bonde. Lendo-os em conjunto, é possível afirmar:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>As observações de Roberto contrariam a análise de Simmel. O "sorriso" dos empregados contradiz o diagnóstico de "embotamento" e "reserva" para com os outros.</p>
+					<p>As observações de Roberto contrariam a análise de Simmel. O <q>sorriso</q> dos empregados contradiz o diagnóstico de <q>embotamento</q> e <q>reserva</q> para com os outros.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>A vida "isolada" e "particular" descrita por Roberto, com que todos "cortavam as amarras", é uma expressão da mesma reserva que Simmel argumenta produzir alguma liberdade.</p>
+					<p>A vida <q>isolada</q> e <q>particular</q> descrita por Roberto, com que todos <q>cortavam as amarras</q>, é uma expressão da mesma reserva que Simmel argumenta produzir alguma liberdade.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Ainda que haja semelhanças nas leituras, o modo "abstrato" com que os empregados passavam seus dias não é um aspecto psíquico das grandes cidades, mas da necessária desconfiança em atividades comerciais.</p>
+					<p>Ainda que haja semelhanças nas leituras, o modo <q>abstrato</q> com que os empregados passavam seus dias não é um aspecto psíquico das grandes cidades, mas da necessária desconfiança em atividades comerciais.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>A vida doméstica e particular sobre a qual Roberto reflete contradiz o diagnóstico de "intensificação da vida nervosa", sugerindo uma rotina de impressões repetidas e imutáveis.</p>
+					<p>A vida doméstica e particular sobre a qual Roberto reflete contradiz o diagnóstico de <q>intensificação da vida nervosa</q>, sugerindo uma rotina de impressões repetidas e imutáveis.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>O retrato da cidade em Caminho de Pedras confirma a análise de Simmel ao afirmar que a individualidade e o "embotamento frente à distinção das coisas" são expressos no espaço privado dos lares dos empregados.</p>
+					<p>O retrato da cidade em Caminho de Pedras confirma a análise de Simmel ao afirmar que a individualidade e o <q>embotamento frente à distinção das coisas</q> são expressos no espaço privado dos lares dos empregados.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1233,10 +1247,12 @@
 		<objective_question number="41">
 			<classification subject="Unknown"/>
 			<statement>
+				<quote>
 				<p>O carnaval, para além de ser a mais importante manifestação cultural brasileira, é o exercício concreto e sensível de vários direitos conquistados e consagrados. Ele celebra o direito à cidade, à manifestação, à associação e o direito à liberdade de expressão. Como festa pagã e sincrética, afirma o direito à liberdade religiosa sem ser proselitista e, como representação cultural, amplia o espaço cívico para combiná-lo com festividade, criatividade e liberdade artística e cultural.</p>
 				<p>O carnaval, nas suas diversas facetas, é político. E essa característica não aparece somente nos debates promovidos através da festa, mas também pela possibilidade de desfrutar uma vida livre de censura de qualquer tipo por parte de pessoas de todas as regiões do país, em suas mais distintas realidades.</p>
 				<p>Ocupar as ruas é um ato político. O lazer e a folia em espaço público, o exercício do direito à fruição e de produzir e consumir conteúdos culturais diversos também são. É ainda mais relevante o ato de externalizar e amplificar histórias, memórias e narrativas sobre grupos historicamente silenciados no país, como as populações negra, indígena e de tantas outras comunidades tradicionais. A manifestação política através de brincadeiras, danças, marchinhas, cantos e fantasias é das formas mais sublimes de expressão da aliança entre luta social, cultura e expressão estética. É a possibilidade que brasileiras e brasileiros encontram de, lutando por meio da arte, fazer ecoar uma voz esquecida no cotidiano.</p>
-				<cite>Artigo 19. 16/02/2024. Adaptado.</cite>
+				</quote>
+				<cite><i>Artigo 19.</i> 16/02/2024. Adaptado.</cite>
 				<p>Ao afirmar que o carnaval é político, o texto objetiva</p>
 			</statement>
 			<options>
@@ -1263,8 +1279,10 @@
 		<objective_question number="42">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Os espetáculos circenses organizados ao final do século XVIII uniam o cômico e o dramático, como historicamente já faziam outras formas de espetáculo, por meio da combinação da atuação das famílias de saltimbancos, ciganos, atores da Commedia dell'Arte, e mesclavam a pantomima e o palhaço com a acrobacia, os equilíbrios, as exibições equestres e a doma de animais em um mesmo espaço. Desde aquele momento, fica visível a emergência não somente de novos modelos de espetáculos, mas também novas estruturas de organização e produção desses espetáculos, caracterizadas pela delimitação do espaço físico das apresentações, cobrança compulsória de entradas e alternância entre exibições de equilibristas, acrobatas, artistas equestres, comediantes, pantomimas e representações diversas, ou seja, um espetáculo pautado na íntima mistura de expressões e artistas originários de diferentes espaços e formações.</p>
-				<cite>LOPES, Daniel de Carvalho; SILVA, Erminia. Circo: percursos de uma arte em transformação contínua. Cadernos do GIPE-CIT, v. 1, 2020. Adaptado.</cite>
+				<quote>
+				<p>Os espetáculos circenses organizados ao final do século XVIII uniam o cômico e o dramático, como historicamente já faziam outras formas de espetáculo, por meio da combinação da atuação das famílias de saltimbancos, ciganos, atores da <i>Commedia dell'Arte,</i> e mesclavam a pantomima e o palhaço com a acrobacia, os equilíbrios, as exibições equestres e a doma de animais em um mesmo espaço. Desde aquele momento, fica visível a emergência não somente de novos modelos de espetáculos, mas também novas estruturas de organização e produção desses espetáculos, caracterizadas pela delimitação do espaço físico das apresentações, cobrança compulsória de entradas e alternância entre exibições de equilibristas, acrobatas, artistas equestres, comediantes, pantomimas e representações diversas, ou seja, um espetáculo pautado na íntima mistura de expressões e artistas originários de diferentes espaços e formações.</p>
+				</quote>
+				<cite>LOPES, Daniel de Carvalho; SILVA, Erminia. <i>Circo: percursos de uma arte em transformação contínua.</i> Cadernos do GIPE-CIT, v. 1, 2020. Adaptado.</cite>
 				<p>No contexto histórico, o circo</p>
 			</statement>
 			<options>
@@ -1291,11 +1309,11 @@
 		<objective_question number="43">
 			<classification subject="Unknown"/>
 			<statement>
-				<image html_width="700" src="fuvest/2026/fase01/q43.png" />
+				<image html_width="500" src="fuvest/2026/fase01/q43.png" />
 				<caption align="center">Imagem ilustrativa da exposição imersiva de Van Gogh.</caption>
 				<p>Nos últimos anos, exposições imersivas têm atraído um público amplo ao proporcionar experiências sensoriais e visuais baseadas em obras de artistas consagrados, muitas delas com trilha sonora, narração de cartas e projeções em altíssima definição. Contudo, parte da crítica especializada tem problematizado essa tendência de oferecer vivências multissensoriais que buscam envolver o visitante por completo. As críticas apontam implicações relacionadas à natureza da experiência estética, à espetacularização da arte, ao patrocínio corporativo e ao sucesso de público mediado pelas redes sociais. A crítica de arte Sheila Leirner, por exemplo, comenta:</p>
 				<quote>
-					<p>Fica como se O Jardim das Delícias, A Tentação de Santo Antônio (telas de Hieronymus Bosch) e outras preciosidades como as frutas de Giuseppe Arcimboldo ou as festas campestres de Brueghel fossem ilustrações ou decorações para a grandiloquência artificial e sensacionalista de um show de cabaré. Certo, pode ser muito bonito, mas será que estas maravilhas pictóricas (em si) precisam de "efeitos especiais" para que cheguemos a elas? Até mesmo uma pequena reprodução em cartão postal pode ser mais fiel à nossa percepção...</p>
+					<p>Fica como se <i>O Jardim das Delícias, A Tentação de Santo Antônio</i> (telas de Hieronymus Bosch) e outras preciosidades como as frutas de Giuseppe Arcimboldo ou as festas campestres de Brueghel fossem ilustrações ou decorações para a grandiloquência artificial e sensacionalista de um show de cabaré. Certo, pode ser muito bonito, mas será que estas maravilhas pictóricas (em si) precisam de <q>efeitos especiais</q> para que cheguemos a elas? Até mesmo uma pequena reprodução em cartão postal pode ser mais fiel à nossa percepção...</p>
 				</quote>
 				<cite>Disponível em https://sheilaleirnerblog.wordpress.com/.</cite>
 				<p>Com base nas informações e discussões apresentadas, assinale a alternativa que expressa a análise crítica mais fundamentada sobre o fenômeno das exposições imersivas:</p>
@@ -1324,7 +1342,7 @@
 		<objective_question number="44">
 			<classification subject="Unknown"/>
 			<statement>
-				<image html_width="700" src="fuvest/2026/fase01/q44.png" />
+				<image html_width="500" src="fuvest/2026/fase01/q44.png" />
 				<caption align="center">Paul Cézanne. A montanha de Sainte-Victoire, 1904.</caption>
 				<quote>
 					<p>Assim também o gênio de Cézanne consiste em fazer com que as deformações de perspectiva, pela disposição de conjunto do quadro, deixem de ser visíveis por si mesmas na visão global e contribuam apenas, como ocorre na visão natural, para dar impressão de uma ordem nascente, de um objeto que surge a se aglomerar sob o olhar. (...) O desenho deve então resultar da cor, se se quer que o mundo seja restituído em sua espessura, pois é uma massa sem lacunas, um organismo de cores, através das quais a fuga da perspectiva, os contornos, as retas, as curvas instalam-se como linhas de força, pois é vibrando que a órbita do espaço se constitui.</p>
@@ -1360,7 +1378,7 @@
 				<quote>
 					<p>Decretou então o ótimo Artífice que àquele ao qual nada de próprio pudera dar tivesse como privativo tudo quanto fora partilhado por cada um dos demais. Assim, pois, tomou o homem, essa obra de tipo indefinido, e, tendo-o colocado no centro do universo, falou-lhe nestes termos: 'A ti, ó Adão, não temos dado nem uma sede determinada, nem um aspecto peculiar, nem uma função singular precisamente para que o lugar, a imagem e as tarefas que reclamas para ti, tudo isso tenhas e realizes, mas pelo mérito de tua vontade e livre consentimento. As outras criaturas já foram prefixadas em sua constituição pelas leis por nós estatuídas. Tu, porém, não estás contido por amarra nenhuma. Antes, pela decisão do arbítrio, em cujas mãos te depositei, hás de predeterminar a tua compleição pessoal. Eu te coloquei no centro do mundo, a fim de poderes inspecionar, daí, de todos os lados, da maneira mais cômoda, tudo que existe.</p>
 				</quote>
-				<cite>Pico della Mirandola. Discurso sobre a dignidade do homem. In: PICO, Giovanni, Conde de Mirandola e de Concórdia. A dignidade do homem. 2ª. ed. Campo Grande: Solivros/Uniderp, 1999. Adaptado.</cite>
+				<cite>Pico della Mirandola. Discurso sobre a dignidade do homem. In: PICO, Giovanni, Conde de Mirandola e de Concórdia. <i>A dignidade do homem.</i> 2ª. ed. Campo Grande: Solivros/Uniderp, 1999. Adaptado.</cite>
 				<p>Elaborado em 1486, na região da atual Itália, o texto do humanista Pico della Mirandola apresenta algumas características do movimento renascentista, dentre as quais</p>
 			</statement>
 			<options>
@@ -1388,24 +1406,24 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<image src="fuvest/2026/fase01/q46.png" />
-				<caption align="center">Francisco Ruiz Gijón (1683-1720), Santíssimo Cristo da Expiação, popularmente conhecido como Cristo Cachorro. Escultura em madeira, 1682 (detalhe).</caption>
-				<p>A partir da comparação entre a escultura Cristo Cachorro, de Francisco Ruiz Gijón, e o livro O Cristo cigano, de Sophia de Mello Breyner Andresen, inspirado por ela, depreende-se:</p>
+				<caption align="center">Francisco Ruiz Gijón (1683-1720), <i>Santíssimo Cristo da Expiação,</i> popularmente conhecido como <i>Cristo Cachorro.</i> Escultura em madeira, 1682 (detalhe).</caption>
+				<p>A partir da comparação entre a escultura <i>Cristo Cachorro,</i> de Francisco Ruiz Gijón, e o livro <i>O Cristo cigano,</i> de Sophia de Mello Breyner Andresen, inspirado por ela, depreende-se:</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<p>A escultura barroca Cristo Cachorro prenuncia os traços modernistas do livro de Sophia de Mello Breyner Andresen, uma vez que a faca, metáfora central do poema, pensada a partir de um objeto do cotidiano, está indiretamente presente na escultura como o instrumento cortante utilizado para sua criação.</p>
+					<p>A escultura barroca <i>Cristo Cachorro</i> prenuncia os traços modernistas do livro de Sophia de Mello Breyner Andresen, uma vez que a faca, metáfora central do poema, pensada a partir de um objeto do cotidiano, está indiretamente presente na escultura como o instrumento cortante utilizado para sua criação.</p>
 				</option>
 				<option label="B" is_correct="false">
-					<p>Tanto a escultura Cristo Cachorro, enquanto obra barroca, quanto o livro de Sophia de Mello Breyner Andresen, obra modernista, revelam, na precisão dos detalhes anatômicos e na personalização do objeto faca, respectivamente, o desaparecimento da visão da arte enquanto ligação com o divino e a concepção da morte como fim absoluto.</p>
+					<p>Tanto a escultura <i>Cristo Cachorro,</i> enquanto obra barroca, quanto o livro de Sophia de Mello Breyner Andresen, obra modernista, revelam, na precisão dos detalhes anatômicos e na personalização do objeto faca, respectivamente, o desaparecimento da visão da arte enquanto ligação com o divino e a concepção da morte como fim absoluto.</p>
 				</option>
 				<option label="C" is_correct="false">
-					<p>Na precisão dos detalhes anatômicos e na concepção do Cristo como um ser humano perfeito e unido ao divino pela morte, a escultura Cristo Cachorro revela a visão barroca do mundo, enquanto o livro de Sophia de Mello Breyner Andresen revela seu traço moderno na despersonalização do humano, ao propor a faca e o amor como condutores da ação.</p>
+					<p>Na precisão dos detalhes anatômicos e na concepção do Cristo como um ser humano perfeito e unido ao divino pela morte, a escultura <i>Cristo Cachorro</i> revela a visão barroca do mundo, enquanto o livro de Sophia de Mello Breyner Andresen revela seu traço moderno na despersonalização do humano, ao propor a faca e o amor como condutores da ação.</p>
 				</option>
 				<option label="D" is_correct="false">
-					<p>A elaboração metonímica do corpo do Cristo no Cristo Cachorro, atenta aos detalhes, revela uma antecipação de traços modernistas nessa escultura barroca, enquanto a comparação entre amor e morte no livro de Sophia de Mello Breyner Andresen revela os traços tardiamente românticos de seu estilo poético.</p>
+					<p>A elaboração metonímica do corpo do Cristo no <i>Cristo Cachorro,</i> atenta aos detalhes, revela uma antecipação de traços modernistas nessa escultura barroca, enquanto a comparação entre amor e morte no livro de Sophia de Mello Breyner Andresen revela os traços tardiamente românticos de seu estilo poético.</p>
 				</option>
 				<option label="E" is_correct="false">
-					<p>A precisão de detalhes anatômicos e o equilíbrio de traços alcançados pelo artista na elaboração da escultura Cristo Cachorro revelam a visão barroca da arte como vitória do humano sobre o divino, enquanto o livro de Sophia de Mello Breyner Andresen, ao ocultar a imagem do cigano e resumi-la a uma voz em agonia, revela a concepção modernista de um mundo sem Deus.</p>
+					<p>A precisão de detalhes anatômicos e o equilíbrio de traços alcançados pelo artista na elaboração da escultura <i>Cristo Cachorro</i> revelam a visão barroca da arte como vitória do humano sobre o divino, enquanto o livro de Sophia de Mello Breyner Andresen, ao ocultar a imagem do cigano e resumi-la a uma voz em agonia, revela a concepção modernista de um mundo sem Deus.</p>
 				</option>
 			</options>
 		</objective_question>
@@ -1424,7 +1442,7 @@
 						<l>Uma presença ausente</l>
 					</stanza>
 					<stanza>
-						<l>"Onde estás tu, morte?</l>
+						<l>“Onde estás tu, morte?</l>
 						<l>Não posso te ver:</l>
 						<l>Neste dia de Maio</l>
 						<l>Com rosas e trigo</l>
@@ -1446,11 +1464,11 @@
 						<l>[...]</l>
 					</stanza>
 				</verse>
-				<cite>Sophia de Mello Breyner Andresen. O Cristo cigano.</cite>
+				<cite>Sophia de Mello Breyner Andresen. <i>O Cristo cigano.</i></cite>
 				<quote>
-					<p>É tão tenaz o desvio que a esquivança encobridora ante a morte exerce sobre a cotidianidade que, no ser-um-com-o-outro, seus 'próximos' ainda se empenham com frequência precisamente junto ao 'moribundo' para o persuadir de que escapa da morte e retorna em seguida à tranquila cotidianidade do mundo de suas ocupações. Tal 'preocupação-com-o-outro' pensa 'consolar' dessa maneira o 'moribundo'. Ela quer devolvê-lo à existência, ajudando-o a encobrir ainda mais completamente sua possibilidade de ser mais própria e irremetente. A gente se ocupa dessa maneira de uma constante tranquilização sobre a morte. Mas, no fundo, ela vale tanto para o 'moribundo' quanto para 'os que consolam'. E mesmo no caso do deixar de viver, a publicidade ainda não deve ser perturbada, nem inquietada pelo acontecimento na sua ocupada despreocupação. Pois não raro se vê na morte dos outros uma inconveniência social, quando não mesmo uma falta de tato, cuja publicidade deve ser poupada.</p>
+					<p>É tão tenaz o desvio que a esquivança encobridora ante a morte exerce sobre a cotidianidade que, no ser-um-com-o-outro, seus <q>próximos</q> ainda se empenham com frequência precisamente junto ao <q>moribundo</q> para o persuadir de que escapa da morte e retorna em seguida à tranquila cotidianidade do mundo de suas ocupações. Tal <q>preocupação-com-o-outro</q> pensa <q>consolar</q> dessa maneira o <q>moribundo</q>. Ela quer devolvê-lo à existência, ajudando-o a encobrir ainda mais completamente sua possibilidade de ser mais própria e irremetente. A gente se ocupa dessa maneira de uma <i>constante tranquilização</i> sobre a morte. Mas, no fundo, ela vale tanto para o <q>moribundo</q> quanto para <q>os que consolam.</q> E mesmo no caso do deixar de viver, a publicidade ainda não deve ser perturbada, nem inquietada pelo acontecimento na sua ocupada despreocupação. Pois não raro se vê na morte dos outros uma inconveniência social, quando não mesmo uma falta de tato, cuja publicidade deve ser poupada.</p>
 				</quote>
-				<cite>Martin Heidegger. Ser e Tempo, §51.</cite>
+				<cite>Martin Heidegger. <i>Ser e Tempo,</i> §51.</cite>
 				<p>A escritora Sophia de Mello Breyner Andresen e o filósofo Martin Heidegger descrevem, por meio de recursos expositivos bem diferentes, uma mesma atitude geral comumente assumida por uma pessoa ante o desvelamento de sua própria mortalidade a partir da constatação da morte ou do adoecimento mortal de uma outra pessoa. Qual alternativa melhor descreve essa atitude?</p>
 			</statement>
 			<options>
@@ -1478,11 +1496,12 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<quote>
-					<p>Mwando está embasbacado com a descoberta do insólito do mundo. Como o Adão no Paraíso, a voz da serpente sugeriu-lhe a maçã, que lhe arrancou brutalmente a venda de todos os mistérios. Sim, escutou os lábios de uma mulher pronunciando em sussurros o seu nome, despertando-o do ventre fecundo da inocência. Mwando nasceu. Sente o coração a bater com força, mesmo à maneira do primeiro amor. (...)</p>
+					<p>Mwando está embasbacado com a descoberta do insólito do mundo. Como o Adão no Paraíso, a voz da serpente sugeriu-lhe a maçã, que lhe arrancou brutalmente a venda de todos os mistérios. Sim, escutou os lábios de uma mulher pronunciando em sussurros o seu nome, despertando-o do ventre fecundo da inocência. Mwando nasceu. Sente o coração a bater com força, mesmo à maneira do primeiro amor.</p>
+					<p>(...)</p>
 					<p>Procurou o refúgio do quarto e fechou-se. Estava transtornado. Sentia a sua devoção abalada pela paixão. Não conseguia fugir às tramas da serpente, a Sarnau arrastava-o cada vez mais para o abismo.</p>
 				</quote>
-				<cite>Paulina Chiziane. Balada de amor ao vento.</cite>
-				<p>Considerando a intertextualidade bíblica presente no excerto de Balada de amor ao vento, a experiência de Mwando é caracterizada</p>
+				<cite>Paulina Chiziane. <i>Balada de amor ao vento.</i></cite>
+				<p>Considerando a intertextualidade bíblica presente no excerto de <i>Balada de amor ao vento,</i> a experiência de Mwando é caracterizada</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1511,7 +1530,7 @@
 				<quote>
 					<p>[...] as lendárias Rotas da Seda, longe de serem meras rotas comerciais, eram rodovias culturais que desempenhavam um papel fundamental na ligação entre o leste e o oeste, reunindo intermitentemente nômades e moradores da cidade, povos pastoris e agricultores, mercadores e monges, soldados e peregrinos. A noção de movimento é, portanto, central para a compreensão das relações entre os povos [...]. Um diálogo entre culturas significa trocas não apenas de bens, mas também de ideias.</p>
 				</quote>
-				<cite>Vadime Elisséeff. "Introduction. Approaches Old and New to Silk Roads". The Silk roads: highways of culture and commerce. New York: Berghahn Books, 2000. Traduzido e adaptado.</cite>
+				<cite>Vadime Elisséeff. <q>Introduction. Approaches Old and New to Silk Roads</q>. <i>The Silk roads: highways of culture and commerce.</i> New York: Berghahn Books, 2000. Traduzido e adaptado.</cite>
 				<p>Com base no excerto, que aborda o complexo de rotas terrestres que se estenderam, durante a Idade Média, por boa parte da Ásia, Leste da África e Sul da Europa, as trocas culturais e os deslocamentos tiveram impacto na</p>
 			</statement>
 			<options>
@@ -1541,7 +1560,7 @@
 				<quote>
 					<p>Entre os deveres de todo devoto do Islã está a obrigatoriedade de pelo menos uma vez na vida fazer uma peregrinação a Meca, cidade sagrada na qual Maomé primeiro pregou a religião. Nem todos podiam fazer a peregrinação, mas muitos faziam, geralmente juntando-se às caravanas que percorriam o Saara, chegando a Meca a partir do Cairo. Essa circulação de pessoas, que entravam em contato com os lugares nos quais era intenso o ensino do Islã, criava vínculos entre todo o mundo muçulmano do Sael, norte da África e península Arábica. Os ensinamentos islâmicos eram ainda reforçados pela ação dos ulemás, estudiosos do Alcorão que se assentavam em algumas cidades ou passavam períodos em diferentes lugares. As escolas corânicas, nas quais os meninos liam e decoravam o Alcorão, também eram lugares de atuação dos ulemás, que mantinham vivo o ensino do islã.</p>
 				</quote>
-				<cite>Marina de Mello e Souza. África e Brasil africano. São Paulo: Ática, 2007.</cite>
+				<cite>Marina de Mello e Souza. <i>África e Brasil africano.</i> São Paulo: Ática, 2007.</cite>
 				<p>Ao tratar do islamismo na Idade Média, o texto caracteriza</p>
 			</statement>
 			<options>
@@ -1569,9 +1588,11 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<quote>
-					<p>No Afeganistão, em vinte anos de guerra, morreram mais de 157 mil pessoas; no Iraque, de 2003 até hoje, dez anos depois de as tropas americanas se retirarem do país, foram mortas entre 308 e 600 mil; e no Paquistão, o aliado dos Estados Unidos na Guerra ao Terror, 70 mil. As violações de direitos humanos por militares americanos, como os abusos e a tortura de prisioneiros, muitas vezes inocentes, na prisão de Abu Ghraib, no Iraque, e na base de Guantánamo, em Cuba, geraram ainda mais ressentimento nas populações desses países. A Guerra ao Terror provocou mais radicalização religiosa, conflitos internos, forçou milhões de pessoas a abandonar suas casas e a fugir para outros países, aumentando ainda mais o preconceito em relação a muçulmanos e árabes. Dizem que o mundo nunca mais foi o mesmo depois do Onze de Setembro.</p>
+					<p>No Afeganistão, em vinte anos de guerra, morreram mais de 157 mil pessoas; no Iraque, de 2003 até hoje, dez anos depois de as tropas americanas se retirarem do país, foram mortas entre 308 e 600 mil; e no Paquistão, o aliado dos Estados Unidos na Guerra ao Terror, 70 mil.</p>
+					<p>As violações de direitos humanos por militares americanos, como os abusos e a tortura de prisioneiros, muitas vezes inocentes, na prisão de Abu Ghraib, no Iraque, e na base de Guantánamo, em Cuba, geraram ainda mais ressentimento nas populações desses países.</p>
+					<p>A Guerra ao Terror provocou mais radicalização religiosa, conflitos internos, forçou milhões de pessoas a abandonar suas casas e a fugir para outros países, aumentando ainda mais o preconceito em relação a muçulmanos e árabes. Dizem que o mundo nunca mais foi o mesmo depois do Onze de Setembro.</p>
 				</quote>
-				<cite>Simone Duarte. O vento mudou de direção: o Onze de Setembro que o mundo não viu. São Paulo: Fósforo, 2021.</cite>
+				<cite>Simone Duarte. <i>O vento mudou de direção: o Onze de Setembro que o mundo não viu.</i> São Paulo: Fósforo, 2021.</cite>
 				<p>O excerto traz informações sobre a atuação militar norte-americana na Ásia após os atentados terroristas de 11 de setembro de 2001 e afirma que essas investidas militares</p>
 			</statement>
 			<options>
@@ -1600,7 +1621,7 @@
 			<statement>
 				<p>Em 19 de setembro de 2023, o Azerbaijão lançou uma ofensiva contra a autoproclamada República de Nagorno-Karabakh (RAHK ou Artsakh), um território povoado por armênios sob bloqueio desde dezembro de 2022. Em 28 de setembro de 2023, a RAHK anunciou sua dissolução, que entrou em vigor a partir de 1º de janeiro de 2024, após mais de três décadas de existência não reconhecida. Em agosto de 2025, o governo norte americano propôs que a rota de transporte estratégica turco-azerbaijana seja controlada pelos EUA, por 99 anos. Essa proposta ainda está em curso, devido à oposição do Irã.</p>
 				<image html_width="700" src="fuvest/2026/fase01/q52.png" />
-				<cite>Reconfiguração geopolítica do Cáucaso (2023). Atlas Géopolitique Mondial, 2025. Adaptado.</cite>
+				<cite>Reconfiguração geopolítica do Cáucaso (2023). <i>Atlas Géopolitique Mondial,</i> 2025. Adaptado.</cite>
 				<p>Com base no texto, na legenda do mapa e em seus conhecimentos, assinale a alternativa que explica os motivos da ofensiva do Azerbaijão contra os armênios.</p>
 			</statement>
 			<options>
@@ -1659,7 +1680,7 @@
 				<quote>
 					<p>Nossa forma de governo não entra em rivalidade com as instituições dos outros. Nosso governo não copia o de nossos vizinhos, mas é um exemplo para eles. É verdade que somos chamados de democracia, pois a administração está nas mãos de muitos e não de poucos. Mas, enquanto existe justiça igual para todos e igualmente em suas disputas privadas, a reivindicação de excelência também é reconhecida; e quando um cidadão é de alguma forma distinto, ele é preferido para o serviço público, não como uma questão de privilégio, mas como recompensa do mérito. Nem a pobreza é um obstáculo, pois um homem pode beneficiar seu país, seja qual for a obscuridade de sua condição. Não há exclusividade em nossa vida pública, e em nossos negócios privados não suspeitamos uns dos outros [...]. Enquanto estamos assim sem restrições em nossos negócios privados, um espírito de reverência permeia nossos atos públicos; somos impedidos de fazer o mal pelo respeito às autoridades e às leis, tendo uma consideração especial por aquelas que são ordenadas para a proteção dos prejudicados, bem como por aquelas leis não escritas.</p>
 				</quote>
-				<cite>Tucídides. Oração Fúnebre de Péricles. University of Minnesota. Human Rights Library. Richard Hoocker, 1996. Adaptado.</cite>
+				<cite>Tucídides. <i>Oração Fúnebre de Péricles.</i> University of Minnesota. Human Rights Library. Richard Hoocker, 1996. Adaptado.</cite>
 				<p>O excerto, que pretende reproduzir o discurso fúnebre de Péricles (século V a.C.) na Guerra do Peloponeso,</p>
 			</statement>
 			<options>
@@ -1686,7 +1707,7 @@
 		<objective_question number="55">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Existem números curiosos na matemática. Os números perfeitos são alguns deles. Um número <m>n</m> (para <m>n\in\mathbb{N}^{\ast}</m>) é perfeito se, e somente se, for igual à soma de seus divisores positivos (excluindo o próprio). Relacionando números perfeitos e números primos, Euclides escreveu uma proposição em seu famoso livro "Elementos": se <m>2^{n}-1</m> é um número primo, então <m>2^{n-1}(2^{n}-1)</m> é um número perfeito.</p>
+				<p>Existem números curiosos na matemática. Os números perfeitos são alguns deles. Um número <m>n</m> (para <m>n\in\mathbb{N}^{\ast}</m>) é perfeito se, e somente se, for igual à soma de seus divisores positivos (excluindo o próprio). Relacionando números perfeitos e números primos, Euclides escreveu uma proposição em seu famoso livro <q>Elementos</q>: se <m>2^{n}-1</m> é um número primo, então <m>2^{n-1}(2^{n}-1)</m> é um número perfeito.</p>
 				<p>Considerando o que foi exposto, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -1766,7 +1787,6 @@
 
 	<question_group>
 		<context>
-			<header>Texto para as questões 58 e 59</header>
 			<p>Nearly a century ago, Edwin Hubble discovered that the universe is getting larger. Modern measurements of how fast it is expanding disagree, however, suggesting that our understanding of the laws of physics might be off. Everyone expected the sharp vision of the James Webb Space Telescope to bring the answer into focus. But a long-awaited analysis of the telescope's observations released late Monday evening once again gleans conflicting expansion rates from different types of data, while homing in on possible sources of error at the heart of the conflict.</p>
 			<p>Two rival teams have led the effort to measure the cosmic expansion rate, which is known as the Hubble constant, or <m>H_0</m>. One of these teams, led by Adam Riess of Johns Hopkins University, has consistently measured <m>H_0</m> to be about 8 percent higher than the theoretical prediction for how fast space should be expanding, based on the cosmos's known ingredients and governing equations. This discrepancy, known as the Hubble tension, suggests that the theoretical model of the cosmos might be missing something - some extra ingredient or effect that speeds up cosmic expansion.</p>
 			<p>Riess and his team released their latest measurement of <m>H_0</m> based on Webb data this spring, getting a value that agrees with their earlier estimates. But for years a rival team led by Wendy Freedman of the University of Chicago has urged caution, arguing that cleaner measurements were needed. Her team's own measurements of <m>H_0</m> have invariably landed closer than Riess' to the theoretical prediction, implying that the Hubble tension may not be real.</p>
@@ -1848,7 +1868,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Suponha uniformes as densidades volumétricas do Sol e do buraco negro.</p>
 				<p>Considere que o buraco negro e o Sol sejam esféricos e tenham distribuição de massa uniforme.</p>
 				<p><m>G=10^{-10} N\cdot m^{2}/kg^{2}</m>; <m>R_{Sol}=10^{9}</m> m; <m>c=3\times10^{8} m/s</m></p>
@@ -1885,7 +1904,7 @@
 
 	<question_group>
 		<context>
-			<p>Quem viajou de avião já ouviu o famoso aviso: "Em caso de despressurização da cabine, máscaras de oxigênio cairão automaticamente acima do seu assento. Puxe uma das máscaras, coloque-a sobre o nariz e a boca e respire normalmente (...)". Porém, ao invés de aviões conterem cilindros de oxigênio que alimentam as máscaras, esse gás é gerado por meio de uma reação química. No compartimento sobre cada passageiro encontra-se um reservatório contendo um sal como o clorato de sódio (<m>NaClO_{3}</m>) que, ao se decompor, produz oxigênio (<m>O_{2}</m>), cloreto de sódio (<m>NaCl</m>) e calor. O clorato de sódio é estável em temperatura ambiente, e sua decomposição só se inicia quando o passageiro puxa a máscara, o que dispara um gatilho que gera calor suficiente para iniciar a reação que, então, se mantém autossuficiente até consumo total do reagente.</p>
+			<p>Quem viajou de avião já ouviu o famoso aviso: <q>Em caso de despressurização da cabine, máscaras de oxigênio cairão automaticamente acima do seu assento. Puxe uma das máscaras, coloque-a sobre o nariz e a boca e respire normalmente (...)</q>. Porém, ao invés de aviões conterem cilindros de oxigênio que alimentam as máscaras, esse gás é gerado por meio de uma reação química. No compartimento sobre cada passageiro encontra-se um reservatório contendo um sal como o clorato de sódio (<c>NaClO3</c>) que, ao se decompor, produz oxigênio (<c>O2</c>), cloreto de sódio (<c>NaCl</c>) e calor. O clorato de sódio é estável em temperatura ambiente, e sua decomposição só se inicia quando o passageiro puxa a máscara, o que dispara um gatilho que gera calor suficiente para iniciar a reação que, então, se mantém autossuficiente até consumo total do reagente.</p>
 		</context>
 
 		<objective_question number="62">
@@ -1915,7 +1934,7 @@
 		<objective_question number="63">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>A massa de clorato de sódio consumida na reação deve ser suficiente para gerar, no mínimo, 15 minutos de oxigênio, permitindo que a aeronave baixe sua altitude, restabelecendo a pressão da cabine. Calcule a massa de clorato de sódio mínima, em gramas, que deve ser utilizada por reservatório, para gerar oxigênio suficiente por 15 minutos, considerando que a taxa de respiração média de oxigênio de um adulto é de <m>1,2~L/min</m> ao nível do mar a <m>20^{\circ}C</m>.</p>
+				<p>A massa de clorato de sódio consumida na reação deve ser suficiente para gerar, no mínimo, 15 minutos de oxigênio, permitindo que a aeronave baixe sua altitude, restabelecendo a pressão da cabine. Calcule a massa de clorato de sódio mínima, em gramas, que deve ser utilizada por reservatório, para gerar oxigênio suficiente por 15 minutos, considerando que a taxa de respiração média de oxigênio de um adulto é de 1,2~L/min ao nível do mar a 20°C.</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -1935,10 +1954,9 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Considere que quantidade de matéria de oxigênio consumida é independente da altitude e que os passageiros continuam respirando normalmente.</p>
-				<p>Volume molar no nível do mar a <m>20^{\circ}C=24~L/mol</m></p>
-				<p>MM <m>NaClO_{3}=106~g/mol</m></p>
+				<p>Volume molar no nível do mar a 20°C = 24~L/mol</p>
+				<p>MM <c>NaClO3=106</c>~g/mol</p>
 			</assumptions>
 		</objective_question>
 	</question_group>
@@ -1947,7 +1965,9 @@
 		<objective_question number="64">
 			<classification subject="Unknown"/>
 			<statement>
+				<quote>
 				<p>Após a confirmação da primeira morte humana por gripe aviária nos Estados Unidos, surge a dúvida sobre a possibilidade de uma nova pandemia. Embora os vírus da gripe aviária ataquem principalmente aves, eles também podem infectar outros animais, incluindo humanos. Infecções humanas com vírus da gripe aviária são raras e, normalmente, não se transmitem de pessoa para pessoa. Os cientistas concordam que mudanças-chave na sequência genética do vírus seriam necessárias para iniciar uma pandemia. Cada vez que um vírus infecta uma célula e novas unidades virais são produzidas, erros podem ocorrer. Ocasionalmente, há uma mudança genética que ajuda o vírus a se tornar melhor em infectar células. Assim, essa versão do vírus pode superar outras, infectando novos hospedeiros ou novos tipos de hospedeiros.</p>
+				</quote>
 				<cite>Disponível em https://www.cnnbrasil.com.br/. Adaptado.</cite>
 				<p>Com base no texto, as mutações no vírus da gripe aviária</p>
 			</statement>
@@ -1999,9 +2019,9 @@
 
 	<question_group>
 		<context>
-			<image width="0.5" src="fuvest/2026/fase01/q66.png" />
+			<image width="0.5" src="fuvest/2026/fase01/q66_67.png" />
 			<quote>
-				<p>Researchers investigated the quantities of thousands of muscle proteins and found a possible new explanation for muscle memory. A study showed for the first time that muscles "remember" training at the protein level. It is often thought that the effects of exercise are short-lived, and a break from the gym can cause stress over muscle loss. However, the research has shown that this stress is partly unnecessary, as the effects of resistance training persist in muscles for up to two months and the gains are fast when training is started again. But what mechanisms and changes at the cellular and molecular levels explain muscle memory? In the study, ten weeks of resistance training was followed by a break of the same length and then followed by another ten weeks of resistance training. Using the proteomics method, it was possible to study the quantities of over 3,000 muscle proteins using advanced mass spectrometry equipment. The study found two types of change profiles in muscle proteins. Some proteins changed as a result of training, returned to their pre-training state during the break, and changed again during the new training period similarly to the first training period. These included proteins related to aerobic metabolism. Another group of proteins changed as a result of training and remained changed during the break and after the new training period. Among these proteins were several calcium-binding proteins, such as calpain-2, whose gene has recently been identified to retain a memory trace even after a training break. "At the level of the number of muscle nuclei and the memory traces of genes, that is, epigenetics, long-term responses that persist even after a break and possibly explain 'muscle memory' have previously been observed," says a researcher. "Now, for the first time, we have shown that muscles 'remember' previous resistance training at the protein level for at least two and a half months."</p>
+				<p>Researchers investigated the quantities of thousands of muscle proteins and found a possible new explanation for muscle memory. A study showed for the first time that muscles <q>remember</q> training at the protein level. It is often thought that the effects of exercise are short-lived, and a break from the gym can cause stress over muscle loss. However, the research has shown that this stress is partly unnecessary, as the effects of resistance training persist in muscles for up to two months and the gains are fast when training is started again. But what mechanisms and changes at the cellular and molecular levels explain muscle memory? In the study, ten weeks of resistance training was followed by a break of the same length and then followed by another ten weeks of resistance training. Using the proteomics method, it was possible to study the quantities of over 3,000 muscle proteins using advanced mass spectrometry equipment. The study found two types of change profiles in muscle proteins. Some proteins changed as a result of training, returned to their pre-training state during the break, and changed again during the new training period similarly to the first training period. These included proteins related to aerobic metabolism. Another group of proteins changed as a result of training and remained changed during the break and after the new training period. Among these proteins were several calcium-binding proteins, such as calpain-2, whose gene has recently been identified to retain a memory trace even after a training break. <q>At the level of the number of muscle nuclei and the memory traces of genes, that is, epigenetics, long-term responses that persist even after a break and possibly explain 'muscle memory' have previously been observed,</q> says a researcher. <q>Now, for the first time, we have shown that muscles <q>remember</q> previous resistance training at the protein level for at least two and a half months.</q></p>
 			</quote>
 			<cite>Disponível em https://jyu.fi/en/news/. 14 April 2025. Adaptado.</cite>
 		</context>
@@ -2034,9 +2054,9 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<p>A espectrometria de massas, utilizada para a identificação das proteínas no estudo apresentado no texto, é uma técnica que permite determinar com precisão a massa molecular de moléculas carregadas. A determinação da massa exata da molécula é feita a partir do conhecimento da sua carga e da razão massa/carga (<m>m/z</m>), parâmetro que influencia no movimento das espécies, permitindo sua determinação. Caso a carga das moléculas seja unitária, a razão <m>m/z</m> é numericamente igual à massa da espécie a ser identificada. Caso a carga seja 2, a razão <m>m/z</m> detectada é metade da massa da molécula.</p>
-				<p>A imagem a seguir representa, na forma de um gráfico, o resultado de uma análise por espectrometria de massas de uma amostra pura contendo apenas uma espécie intacta com fórmula molecular <m>[C_{44}H_{69}NO_{12}Ca]^{2+}</m> e massa exata, considerando os isótopos mais abundantes, de <m>843,444~g/mol</m>, detectada como <m>m/z~421,722</m>.</p>
+				<p>A imagem a seguir representa, na forma de um gráfico, o resultado de uma análise por espectrometria de massas de uma amostra pura contendo apenas uma espécie intacta com fórmula molecular <c>[C44H69NO12Ca]^{2+}</c> e massa exata, considerando os isótopos mais abundantes, de 843,444~g/mol, detectada como <m>m/z~421,722</m>.</p>
 				<image html_width="600" src="fuvest/2026/fase01/q67.png" />
-				<p>A presença de outros sinais além do sinal de <m>m/z~421,722</m>, mesmo em uma amostra pura não contendo nenhuma outra espécie além do <m>[C_{44}H_{69}NO_{12}Ca]^{2+}</m>, deve-se</p>
+				<p>A presença de outros sinais além do sinal de <m>m/z~421,722</m>, mesmo em uma amostra pura não contendo nenhuma outra espécie além do <c>[C44H69NO12Ca]^{2+}</c>, deve-se</p>
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
@@ -2120,7 +2140,8 @@
 		<objective_question number="70">
 			<classification subject="Unknown"/>
 			<statement>
-				<p>Nós sentimos o sabor dos alimentos com o cérebro! Esta afirmação à primeira vista nos parece estranha. No entanto, assim como ocorre em todos os sentidos do sistema sensorial, no caso do paladar, a percepção consciente do sabor só acontece quando sinais específicos chegam ao cérebro.</p>
+				<p>Nós sentimos o sabor dos alimentos com o cérebro!</p>
+				<p>Esta afirmação à primeira vista nos parece estranha. No entanto, assim como ocorre em todos os sentidos do sistema sensorial, no caso do paladar, a percepção consciente do sabor só acontece quando sinais específicos chegam ao cérebro.</p>
 				<p>Assinale a alternativa que apresenta corretamente a informação descrita neste processo.</p>
 			</statement>
 			<options>
@@ -2172,7 +2193,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Calor específico a pressão constante:</p>
 				<p>Clara: <m>3,8~J/g.K</m>; Gema: <m>3,1~J/g.K</m></p>
 				<p>Massa do ovo = 50 g.</p>
@@ -2208,7 +2228,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Densidade (massa específica) da água: <m>d=1000~kg/m^{3}</m></p>
 				<p>Aceleração da gravidade: <m>g=10~m/s^{2}</m></p>
 			</assumptions>
@@ -2221,7 +2240,7 @@
 			<statement>
 				<p>Uma definição possível de equilíbrio mecânico estável é a seguinte:</p>
 				<quote>
-					<p>"Se um corpo está em uma posição de equilíbrio mecânico e, ao sofrer pequenos deslocamentos em torno dessa posição, sua tendência for retornar à posição original de equilíbrio, dizemos que o equilíbrio é estável."</p>
+					<p>Se um corpo está em uma posição de equilíbrio mecânico e, ao sofrer pequenos deslocamentos em torno dessa posição, sua tendência for retornar à posição original de equilíbrio, dizemos que o equilíbrio é estável.</p>
 				</quote>
 				<p>As imagens a seguir mostram uma colher em diferentes situações de equilíbrio mecânico em cima de uma xícara.</p>
 				<image html_width="600" src="fuvest/2026/fase01/q73.png" />
@@ -2283,19 +2302,19 @@
 			</statement>
 			<options>
 				<option label="A" is_correct="false">
-					<image width="0.4" src="fuvest/2026/fase01/q75_a.png" />
+					<image width="0.4" src="fuvest/2026/fase01/q75a.png" />
 				</option>
 				<option label="B" is_correct="false">
-					<image width="0.4" src="fuvest/2026/fase01/q75_b.png" />
+					<image width="0.4" src="fuvest/2026/fase01/q75b.png" />
 				</option>
 				<option label="C" is_correct="false">
-					<image width="0.4" src="fuvest/2026/fase01/q75_c.png" />
+					<image width="0.4" src="fuvest/2026/fase01/q75c.png" />
 				</option>
 				<option label="D" is_correct="false">
-					<image width="0.4" src="fuvest/2026/fase01/q75_d.png" />
+					<image width="0.4" src="fuvest/2026/fase01/q75d.png" />
 				</option>
 				<option label="E" is_correct="false">
-					<image width="0.4" src="fuvest/2026/fase01/q75_e.png" />
+					<image width="0.4" src="fuvest/2026/fase01/q75e.png" />
 				</option>
 			</options>
 		</objective_question>
@@ -2303,9 +2322,8 @@
 	
 		<question_group>
 		<context>
-			<header>Texto para as questões 76 e 77</header>
 			<p>O gráfico a seguir mostra o resultado do exame de audiometria tonal de um paciente. O eixo vertical refere-se ao nível de intensidade sonora <m>\alpha</m> (medido em dB e aumentando de cima para baixo) necessário para que a pessoa possa ouvir o som emitido pelo audiômetro a uma dada frequência <m>f</m> (medida em Hz), representada no eixo horizontal.</p>
-			<image src="fuvest/2026/fase01/q76.png" />
+			<image src="fuvest/2026/fase01/q76_77.png" />
 			<p>Quanto menor o valor de <m>\alpha(f)</m>, melhor é a resposta auditiva do paciente naquela frequência <m>f</m>. O uso de aparelhos auditivos pode ser uma forma de melhorar a resposta auditiva em determinadas frequências.</p>
 		</context>
 
@@ -2332,7 +2350,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>A relação entre o nível de intensidade sonora <m>\alpha(f)</m>, em dB, e a intensidade <m>I(f)</m> da onda sonora a uma frequência <m>f</m> é dada por <m>\alpha(f)=10~log_{10}(\frac{I(f)}{I_{0}})</m> onde <m>I_{0}</m> é a intensidade do limiar da audição.</p>
 				<p>Observe que, para <m>I(f)=I_{0}</m>, tem-se <m>\alpha=10~log_{10}(1)=0</m> dB</p>
 			</assumptions>
@@ -2361,7 +2378,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Considere a velocidade do som no ar como <m>v_{a}=340~m/s</m>.</p>
 			</assumptions>
 		</objective_question>
@@ -2395,11 +2411,9 @@
 
 	<question_group>
 		<context>
-			<header>Texto para as questões de 79 a 81</header>
 			<p>During the nineteen-seventies and eighties, a researcher at the University of Washington started noticing something strange in the college's experimental forest. For years, a blight of caterpillars had been munching the trees to death. Then, suddenly, the caterpillars themselves started dying off. The forest was able to recover. But what had happened to the caterpillars? The researcher, David Rhoades, who had a background in chemistry and zoology, found that the trees in the forest had changed the chemistry of their leaves, to the detriment of the caterpillars. Even more surprising, trees that had been nibbled by caterpillars weren't the only ones that had changed their chemistry. Some were changing their leaves before caterpillars reached them, as if they'd received a warning. A shocking possibility presented itself: the trees were signalling to one another.</p>
 			<p>Zoë Schlanger recounts Rhoades's story in her new book, "The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth." The contemporary world of botany that Schlanger explores in "The Light Eaters" is still divided over the matter of how plants sense the world and whether they can be said to communicate. But, in the past twenty years, the idea that plants communicate has gained broader acceptance. Research in recent decades has shown garden-variety lima beans protecting themselves by synthesizing and releasing chemicals to summon the predators of the insects that eat them; lab-grown pea shoots navigating mazes and responding to the sound of running water, and a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that's not yet understood. Schlanger acknowledges that some of the research yields as many questions as answers. It's not clear how the vine gathers information about surrounding plants to perform its mimicry.</p>
 			<cite>New Yorker. 12 June 2024. Adaptado.</cite>
-			<image src="fuvest/2026/fase01/q79_81.png" />
 		</context>
 
 		<objective_question number="79">
@@ -2454,6 +2468,7 @@
 			<classification subject="Unknown"/>
 			<statement>
 				<p>O processo de comunicação entre plantas discutido no texto pode ocorrer de diversas formas. Uma delas baseia-se na emissão de moléculas por uma planta atacada, chamada de emissor, e a recepção dessas moléculas por uma outra planta, chamada de receptor. Dependendo do tipo de ataque e das espécies envolvidas, essa comunicação pode acontecer tanto por via aérea, quanto por via do solo, facilitada pela água presente.</p>
+				<image html_width="600" src="fuvest/2026/fase01/q81.png" />
 				<p>Considerando os processos de sinalização entre plantas descritos, é correto afirmar:</p>
 			</statement>
 			<options>
@@ -2478,7 +2493,6 @@
 
 	<question_group>
 		<context>
-			<header>Texto para as questões 82 e 83</header>
 			<p>Um dos maiores desafios na agricultura é a manutenção da quantidade ideal de nutrientes no solo sem o uso excessivo de fertilizantes que podem ser lixiviados. Pensando nisso, uma equipe de pesquisadores da USP desenvolveu um novo vidro fertilizante:</p>
 			<quote>
 				<p>Nosso fertilizante é um material no estado vítreo (...) com concentrações adequadas de fósforo, silício e potássio (...) e apresenta solubilidade em água e no solo. (...) Diferente dos fertilizantes convencionais, que precisam ser aplicados repetidamente já que seus nutrientes são levados pela água da chuva ou perdidos para a atmosfera, os fertilizantes em vidro foram desenvolvidos para liberar nutrientes de forma controlada e prolongada.</p>
@@ -2533,7 +2547,6 @@
 				</option>
 			</options>
 			<assumptions>
-				<p>Note e adote:</p>
 				<p>Massa molar do fosfato = 95 g/mol</p>
 			</assumptions>
 		</objective_question>

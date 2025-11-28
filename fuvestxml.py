@@ -173,7 +173,7 @@ class AbstractWriter(ABC):
 
     # Table options
     @abstractmethod
-    def options_table_start(self, num_cols: int) -> str:
+    def options_table_start(self, num_cols: int, table_class: str) -> str:
         pass
 
     @abstractmethod
@@ -689,7 +689,7 @@ class LatexWriter(AbstractWriter):
 
     # List
     @override
-    def list_start(self) -> str:
+    def list_start(self, symbol) -> str:
         return "\\begin{itemize}\n"
 
     @override
@@ -889,8 +889,11 @@ class HtmlWriter(AbstractWriter):
         return "</li>\n"
 
     @override
-    def options_table_start(self, num_cols: int) -> str:
-        return '\t<div class="table-option"><table>\n'
+    def options_table_start(self, num_cols: int, table_class: str) -> str:
+        if table_class is None:
+            return '\t<div class="table-option"><table>\n'
+        else:
+            return f'\t<div class="table-option-{table_class}"><table>\n'
 
     @override
     def options_table_end(self) -> str:
@@ -1037,8 +1040,11 @@ class HtmlWriter(AbstractWriter):
 
     # List
     @override
-    def list_start(self) -> str:
-        return "<ul>\n"
+    def list_start(self, symbol) -> str:
+        if symbol is None:
+            return "<ul>\n"
+        else:
+            return '<ul style="list-style-type: none;">' + symbol
 
     @override
     def list_end(self) -> str:
@@ -1398,12 +1404,15 @@ class XmlConverter:
     # Render the <options_table> tag
 
     def render_options_table(self, table_el) -> str:
+        # check for border attribute
+        table_class = table_el.get("class", None)
+
         # Variable to store the body commands create by the render functions
         parts = []
 
         # Simple table with vertical bars
         ncols = self.count_table_cols(table_el)
-        parts.append(self.writer.options_table_start(ncols))
+        parts.append(self.writer.options_table_start(ncols, table_class))
 
         option_index = 1
 
@@ -1482,6 +1491,7 @@ class XmlConverter:
             return self.render_table(el)
 
         elif tag == "list":
+            # symbol = el.get("symbol", None)
             return self.render_list(el)
 
         elif tag == "ordered_list":
@@ -1689,8 +1699,9 @@ class XmlConverter:
     # Render the <list> tag
 
     def render_list(self, ul_el) -> str:
+        symbol = ul_el.get("symbol", None)
         parts = []
-        parts.append(self.writer.list_start())
+        parts.append(self.writer.list_start(symbol))
         for li in ul_el.findall("./item"):
             parts.append(self.writer.list_item_start())
             # render paragraphs

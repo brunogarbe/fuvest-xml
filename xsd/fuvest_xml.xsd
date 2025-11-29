@@ -1,0 +1,733 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	
+	<!-- Classification restriction -->
+	<xs:simpleType name="Classification">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Unknown"/>
+			
+			<!-- Math -->
+			<xs:enumeration value="Math"/>
+			<xs:enumeration value="Math:Concepts"/>
+			<xs:enumeration value="Math:Number Sets"/>
+			<xs:enumeration value="Math:Algebra"/>
+			<xs:enumeration value="Math:Algebra:Functions"/>
+			<xs:enumeration value="Math:Algebra:Affine"/>
+			<xs:enumeration value="Math:Algebra:Quadratic"/>
+			<xs:enumeration value="Math:Algebra:Modular"/>
+			<xs:enumeration value="Math:Algebra:Exponential"/>
+			<xs:enumeration value="Math:Algebra:Logarithmic"/>
+			<xs:enumeration value="Math:Algebra:Graphing"/>
+			<xs:enumeration value="Math:Algebra:Sequences and Series"/>
+			<xs:enumeration value="Math:Algebra:Matrices"/>
+			<xs:enumeration value="Math:Algebra:Determinants"/>
+			<xs:enumeration value="Math:Algebra:Linear Equations"/>
+			<xs:enumeration value="Math:Algebra:Complex Numbers"/>
+			<xs:enumeration value="Math:Algebra:Polynomials"/>
+			<xs:enumeration value="Math:Algebra:Algebraic Equations"/>
+			<xs:enumeration value="Math:Financial"/>
+			<xs:enumeration value="Math:Trigonometry"/>
+			<xs:enumeration value="Math:Trigonometry:Similar Triangles"/>
+			<xs:enumeration value="Math:Trigonometry:Right Triangles"/>
+			<xs:enumeration value="Math:Trigonometry:Non-Right Triangles"/>
+			<xs:enumeration value="Math:Trigonometry:Trigonometric Ratios"/>
+			<xs:enumeration value="Math:Trigonometry:Trigonometric Relations"/>
+			<xs:enumeration value="Math:Trigonometry:Trigonometric Functions"/>
+			<xs:enumeration value="Math:Trigonometry:Trigonometric Equations"/>
+			<xs:enumeration value="Math:Geometry"/>
+			<xs:enumeration value="Math:Geometry:Plane Geometry"/>
+			<xs:enumeration value="Math:Geometry:Solid Geometry"/>
+			<xs:enumeration value="Math:Geometry:Analytic Geometry"/>
+			<xs:enumeration value="Math:Combinatorics"/>
+			<xs:enumeration value="Math:Combinatorics:Permutations"/>
+			<xs:enumeration value="Math:Combinatorics:Combinations"/>
+			<xs:enumeration value="Math:Combinatorics:Binomial Theorem"/>
+			<xs:enumeration value="Math:Probability"/>
+			<xs:enumeration value="Math:Probability:Conditional"/>
+			<xs:enumeration value="Math:Statistics"/>
+			<xs:enumeration value="Math:Calculus"/>
+			<xs:enumeration value="Math:Calculus:Series and Sequences"/>
+			<xs:enumeration value="Math:Calculus:Limits"/>
+			<xs:enumeration value="Math:Calculus:Derivatives"/>
+			<xs:enumeration value="Math:Calculus:Integrals"/>
+			<!-- Physics
+			Vector Mechanics for Engineers: Statics and Dynamics
+			
+1 Introduction
+2 Statics of Particles
+3 Rigid Bodies: Equivalent Systems of Forces
+4 Equilibrium of Rigid Bodies
+5 Distributed Forces: Centroids and Centers of Gravity
+6 Analysis of Structures
+7 Forces in Beams and Cables
+8 Friction
+9 Distributed Forces: Moments of Inertia
+10 Method of Virtual Work
+11 Kinematics of Particles
+12 Kinetics of Particles: Newton's Second Law
+13 Kinetics of Particles: Energy and Momentum Methods
+14 Systems of Particles
+15 Kinematics of Rigid Bodies
+16 Plane Motion of Rigid Bodies: Forces and Accelerations
+17 Plane Motion of Rigid Bodies: Energy and Momentum Methods
+18 Kinetics of Rigid Bodies in Three Dimensions
+19 Mechanical Vibrations
+			-->
+			<xs:enumeration value="Physics:Mechanics"/>
+			<xs:enumeration value="Physics:Mechanics:Statics of Particles"/>
+			<xs:enumeration value="Physics:Mechanics:Rigid Bodies"/>
+			<xs:enumeration value="Physics:Mechanics:Equilibrium of Rigid Bodies"/>
+			<xs:enumeration value="Physics:Mechanics:Centroids and Centers of Gravity"/>
+			<xs:enumeration value="Physics:Mechanics:Friction"/>
+			<xs:enumeration value="Physics:Mechanics:Moments of Inertia"/>
+			<xs:enumeration value="Physics:Mechanics:Virtual Work"/>
+			<xs:enumeration value="Physics:Mechanics:Kinematics of Particles"/>
+			<xs:enumeration value="Physics:Mechanics:Newton's Second Law"/>
+			<xs:enumeration value="Physics:Mechanics:Energy and Momentum Methods"/>
+			<xs:enumeration value="Physics:Mechanics:Systems of Particles"/>
+			<xs:enumeration value="Physics:Mechanics:Kinematics of Rigid Bodies"/>
+			<xs:enumeration value="Physics:Mechanics:Plane Motion of Rigid Bodies"/>
+			<xs:enumeration value="Physics:Mechanics:Work and Energy"/>
+			<xs:enumeration value="Physics:Mechanics:Fluid Dynamics"/>
+			<xs:enumeration value="Physics:Mechanics:Gravitation"/>
+			<xs:enumeration value="Physics:Waves"/>
+			<xs:enumeration value="Physics:Waves:MechanicalWaves"/>
+			<xs:enumeration value="Physics:Waves:SoundWaves"/>
+			<xs:enumeration value="Physics:Thermodynamics"/>
+			<xs:enumeration value="Physics:Thermodynamics:Thermometry and Dilatation"/>
+			<xs:enumeration value="Physics:Thermodynamics:Gases and Heat Transfer"/>
+			<xs:enumeration value="Physics:Thermodynamics:Laws of Thermodynamics"/>
+			<xs:enumeration value="Physics:Electromagnetism"/>
+			<xs:enumeration value="Physics:Electromagnetism:Electrostatics"/>
+			<xs:enumeration value="Physics:Electromagnetism:Electrodynamics"/>
+			<xs:enumeration value="Physics:Electromagnetism:Magnetism"/>
+			<xs:enumeration value="Physics:Electromagnetism:Circuits"/>
+			<xs:enumeration value="Physics:Electromagnetism:Waves"/>
+			<xs:enumeration value="Physics:Optics"/>
+			<xs:enumeration value="Physics:Optics:GeometricOptics"/>
+			<xs:enumeration value="Physics:Optics:PhysicalOptics"/>
+			<xs:enumeration value="Physics:Modern"/>
+			<xs:enumeration value="Physics:Modern:SpecialRelativity"/>
+			<xs:enumeration value="Physics:Modern:QuantumMechanics"/>
+			<xs:enumeration value="Physics:Modern:NuclearPhysics"/>
+			
+			<!-- Chemistry -->
+			<xs:enumeration value="Chemistry:Atomistics"/>
+			<xs:enumeration value="Chemistry:Atomistics:Atomic Models"/>
+			<xs:enumeration value="Chemistry:Atomistics:Periodic Table"/>
+			<xs:enumeration value="Chemistry:Atomistics:Chemical Bonds"/>
+			<xs:enumeration value="Chemistry:General"/>
+			<xs:enumeration value="Chemistry:General:Stoichiometry"/>
+			<xs:enumeration value="Chemistry:General:Solutions"/>
+			<xs:enumeration value="Chemistry:General:ChemicalKinetics"/>
+			<xs:enumeration value="Chemistry:General:ChemicalEquilibrium"/>
+			<xs:enumeration value="Chemistry:Inorganic"/>
+			<xs:enumeration value="Chemistry:Inorganic:Acids and Bases"/>
+			<xs:enumeration value="Chemistry:Inorganic:RedoxReactions"/>
+			<xs:enumeration value="Chemistry:Inorganic:Salts and Oxides"/>
+			<xs:enumeration value="Chemistry:Physical"/>
+			<xs:enumeration value="Chemistry:Physical:Thermochemistry"/>
+			<xs:enumeration value="Chemistry:Physical:Electrochemistry"/>
+			<xs:enumeration value="Chemistry:Organic"/>
+			<xs:enumeration value="Chemistry:Organic:Hydrocarbons"/>
+			<xs:enumeration value="Chemistry:Organic:FunctionalGroups"/>
+			<xs:enumeration value="Chemistry:Organic:Isomerism"/>
+			<xs:enumeration value="Chemistry:Organic:Reactions"/>
+			<xs:enumeration value="Chemistry:Biochemistry"/>
+			<xs:enumeration value="Chemistry:Biochemistry:Carbohydrates"/>
+			<xs:enumeration value="Chemistry:Biochemistry:Lipids"/>
+			<xs:enumeration value="Chemistry:Biochemistry:Proteins"/>
+			
+			<!-- Biology -->
+			<xs:enumeration value="Biology:Biochemistry:Lipids"/>
+			<xs:enumeration value="Biology:Cell"/>
+			<xs:enumeration value="Biology:Cell:Prokaryotic vs. Eukaryotic"/>
+			<xs:enumeration value="Biology:Cell:Structures and Organelles"/>
+			<xs:enumeration value="Biology:Cell:Membranes and Transport"/>
+			<xs:enumeration value="Biology:Cell:Communication and Signaling"/>
+			<xs:enumeration value="Biology:Cell:Metabolism"/>
+			<xs:enumeration value="Biology:Cell:Division (Mitosis and Meiosis)"/>
+			<xs:enumeration value="Biology:Genetics"/>
+			<xs:enumeration value="Biology:Genetics:DNA and RNA Structure"/>
+			<xs:enumeration value="Biology:Genetics:Gene Expression and Regulation"/>
+			<xs:enumeration value="Biology:Genetics:Mendelian Genetics"/>
+			<xs:enumeration value="Biology:Genetics:Non-Mendelian genetics"/>
+			<xs:enumeration value="Biology:Genetics:Mutations"/>
+			<xs:enumeration value="Biology:Genetics:Biotechnology"/>
+			<xs:enumeration value="Biology:Evolution"/>
+			<xs:enumeration value="Biology:Evolution:Theories of Evolution"/>
+			<xs:enumeration value="Biology:Evolution:Speciation and Phylogeny"/>
+			<xs:enumeration value="Biology:Evolution:Evidence of Evolution"/>
+			<xs:enumeration value="Biology:Evolution:Classification Systems"/>
+			<xs:enumeration value="Biology:Evolution:Human Evolution"/>
+			<xs:enumeration value="Biology:Microbiology"/>
+			<xs:enumeration value="Biology:Microbiology:Viruses"/>
+			<xs:enumeration value="Biology:Microbiology:Structure and Replication Cycles"/>
+			<xs:enumeration value="Biology:Microbiology:Viral Diseases"/>
+			<xs:enumeration value="Biology:Microbiology:Vaccines and Antiviral Defense"/>
+			<xs:enumeration value="Biology:Microbiology:Bacteria and Archaea"/>
+			<xs:enumeration value="Biology:Microbiology:Prokaryotic Cell Structure"/>
+			<xs:enumeration value="Biology:Microbiology:Roles in Ecosystems"/>
+			<xs:enumeration value="Biology:Microbiology:Pathogenic vs. Beneficial Bacteria"/>
+			<xs:enumeration value="Biology:Protists"/>
+			<xs:enumeration value="Biology:Protists:Diversity and classification"/>
+			<xs:enumeration value="Biology:Protists:Ecological importance"/>
+			<xs:enumeration value="Biology:Fungi"/>
+			<xs:enumeration value="Biology:Fungi:Structure"/>
+			<xs:enumeration value="Biology:Fungi:Nutrition"/>
+			<xs:enumeration value="Biology:Fungi:Roles in Ecosystems"/>
+			<xs:enumeration value="Biology:Fungi:Fungal Diseases and Usess"/>
+			<xs:enumeration value="Biology:Botany"/>
+			<xs:enumeration value="Biology:Botany:Plant Cell and Tissues"/>
+			<xs:enumeration value="Biology:Botany:Photosynthesis"/>
+			<xs:enumeration value="Biology:Botany:Reproduction"/>
+			<xs:enumeration value="Biology:Botany:Growth and Hormones"/>
+			<xs:enumeration value="Biology:Botany:Plant Physiology"/>
+			<xs:enumeration value="Biology:Botany:Major Plant Groups"/>
+			<xs:enumeration value="Biology:Zoology"/>
+			<xs:enumeration value="Biology:Zoology:Major Animal Phyla"/>
+			<xs:enumeration value="Biology:Zoology:Comparative Anatomy"/>
+			<xs:enumeration value="Biology:Zoology:Reproduction and Development"/>
+			<xs:enumeration value="Biology:Zoology:Invertebrates"/>
+			<xs:enumeration value="Biology:Zoology:Vertebrates"/>
+			<xs:enumeration value="Biology:Human"/>
+			<xs:enumeration value="Biology:Human:Integumentary System"/>
+			<xs:enumeration value="Biology:Human:Skeletal and Muscular Systems"/>
+			<xs:enumeration value="Biology:Human:Nervous System"/>
+			<xs:enumeration value="Biology:Human:Endocrine System"/>
+			<xs:enumeration value="Biology:Human:Digestive System"/>
+			<xs:enumeration value="Biology:Human:Circulatory System"/>
+			<xs:enumeration value="Biology:Human:Respiratory System"/>
+			<xs:enumeration value="Biology:Human:Immune System"/>
+			<xs:enumeration value="Biology:Human:Reproductive System"/>
+			<xs:enumeration value="Biology:Human:Homeostasis and Regulation"/>
+			<xs:enumeration value="Biology:Ecology"/>
+			<xs:enumeration value="Biology:Ecology:Population Dynamics"/>
+			<xs:enumeration value="Biology:Ecology:Ecosystems and Biomes"/>
+			<xs:enumeration value="Biology:Ecology:Biogeochemical Cycles"/>
+			<xs:enumeration value="Biology:Ecology:Biodiversity and Conservation"/>
+			<xs:enumeration value="Biology:Ecology:Environmental Impacts"/>
+			
+			<!-- History -->
+			<xs:enumeration value="History:Ancient"/>
+			<xs:enumeration value="History:Ancient:Mesopotamia and Egypt"/>
+			<xs:enumeration value="History:Ancient:Greece"/>
+			<xs:enumeration value="History:Ancient:Rome"/>
+			<xs:enumeration value="History:Ancient:China"/>
+			<xs:enumeration value="History:Medieval"/>
+			<xs:enumeration value="History:Medieval:Feudalism"/>
+			<xs:enumeration value="History:Medieval:Byzantine and Islamic Empires"/>
+			<xs:enumeration value="History:Modern"/>
+			<xs:enumeration value="History:Modern:Renaissance and Reformation"/>
+			<xs:enumeration value="History:Modern:Absolutism and Enlightenment"/>
+			<xs:enumeration value="History:Contemporary"/>
+			<xs:enumeration value="History:Contemporary:French and Industrial Revolutions"/>
+			<xs:enumeration value="History:Contemporary:WorldWars"/>
+			<xs:enumeration value="History:Contemporary:ColdWar"/>
+			<!-- https://en.wikipedia.org/wiki/History_of_Brazil -->
+			<xs:enumeration value="History:Brazil"/>
+			<xs:enumeration value="History:Brazil:Pre-Cabral"/>
+			<xs:enumeration value="History:Brazil:Colonial Period"/>
+			<xs:enumeration value="History:Brazil:United Kingdom with Portugal"/>
+			<xs:enumeration value="History:Brazil:Independence"/>
+			<xs:enumeration value="History:Brazil:Empire of Brazil"/>
+			<xs:enumeration value="History:Brazil:Old Republic"/>
+			<xs:enumeration value="History:Brazil:Vargas Era"/>
+			<xs:enumeration value="History:Brazil:Populist Republic"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:1964 Brazilian coup d'état"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Vacancy in the Presidency"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Institutional Acts"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Araguaia Guerrilla War"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:March of the One Hundred Thousand"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Brazilian Miracle"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Redemocratization"/>
+			<xs:enumeration value="History:Brazil:Military Dictatorship:Diretas Já"/>
+			<xs:enumeration value="History:Brazil:New Republic"/>
+			
+			<!-- Geography -->
+			<xs:enumeration value="Geography:Physical"/>
+			<xs:enumeration value="Geography:Physical:Geology"/>
+			<xs:enumeration value="Geography:Physical:Glaciology"/>
+			<xs:enumeration value="Geography:Physical:Climatology"/>
+			<xs:enumeration value="Geography:Physical:Oceanography"/>
+			<xs:enumeration value="Geography:Physical:Hydrology"/>
+			<xs:enumeration value="Geography:Physical:Biogeography"/>
+			<xs:enumeration value="Geography:Physical:Geomorphology"/>
+			<xs:enumeration value="Geography:Human"/>
+			<xs:enumeration value="Geography:Human:Population and Demographics"/>
+			<xs:enumeration value="Geography:Human:Urbanization"/>
+			<xs:enumeration value="Geography:Human:Economic and Agricultural"/>
+			<xs:enumeration value="Geography:Geopolitics"/>
+			<xs:enumeration value="Geography:Geopolitics:Global Conflicts"/>
+			<xs:enumeration value="Geography:Geopolitics:International Organizations"/>
+			<xs:enumeration value="Geography:Cartography"/>
+			<xs:enumeration value="Geography:Cartography:Map Projections and Scales"/>
+			<xs:enumeration value="Geography:Brazil"/>
+			<xs:enumeration value="Geography:Brazil:Regional Geography"/>
+			<xs:enumeration value="Geography:Brazil:Physical"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Geology"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Hidrology"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Oceanography"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Climatology"/>
+			<xs:enumeration value="Geography:Brazil:Physical:Biogeography"/>
+			<xs:enumeration value="Geography:Brazil:Human"/>
+			<xs:enumeration value="Geography:Brazil:Human:Population and Demographics"/>
+			<xs:enumeration value="Geography:Brazil:Human:Culture"/>
+			<xs:enumeration value="Geography:Brazil:Human:Urbanization"/>
+			<xs:enumeration value="Geography:Brazil:Human:Economic and Agricultural"/>
+			<xs:enumeration value="Geography:Brazil:Environmental Issues"/>
+			<xs:enumeration value="Sociology:General:Culture, Identity and Socialization"/>
+			<xs:enumeration value="Sociology:General:SocialStructure and Stratification"/>
+			<xs:enumeration value="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)"/>
+			<xs:enumeration value="Philosophy:General:Metaphysics"/>
+			<!--
+			<xs:enumeration value="Philosophy:General Philosophy"/><xs:enumeration value="Philosophy:Ethics"/><xs:enumeration value="Sociology:General Sociology"/><xs:enumeration value="Philosophy:General:Metaphysics"/><xs:enumeration value="Philosophy:General:Epistemology"/><xs:enumeration value="Philosophy:General:Logic"/><xs:enumeration value="Philosophy:Ethics:ClassicalEthics"/><xs:enumeration value="Philosophy:Ethics:ModernEthics"/><xs:enumeration value="Philosophy:Politics:ClassicalPoliticalThought"/><xs:enumeration value="Philosophy:Politics:ModernPoliticalThought"/><xs:enumeration value="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)"/><xs:enumeration value="Sociology:General:SocialStructure and Stratification"/><xs:enumeration value="Sociology:General:Culture, Identity and Socialization"/>
+			-->
+			
+			<!-- Portuguese -->
+			<xs:enumeration value="Portuguese:Grammar:Phonology"/>
+			<xs:enumeration value="Portuguese:Grammar:Phonology:Accents"/>
+			<xs:enumeration value="Portuguese:Grammar:Phonology:Spelling"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Nouns"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Adjectives"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Preposition"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Pronomial Conjunctions"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Verbs"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Numerals"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Adverbs"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Interjections"/>
+			<xs:enumeration value="Portuguese:Grammar:Morphology:Articles"/>
+			<xs:enumeration value="Portuguese:Grammar:Syntax"/>
+			<xs:enumeration value="Portuguese:Grammar:Syntax:Punctuation"/>
+			<xs:enumeration value="Portuguese:Grammar:Semantics and Stylistics"/>
+			<xs:enumeration value="Portuguese:Text Interpretation"/>
+			
+			<!-- English -->
+			<xs:enumeration value="English:Grammar"/>
+			<xs:enumeration value="English:Reading Comprehension"/>
+			
+			<!-- Literature -->
+			<xs:enumeration value="Literature:Brazil"/>
+			<xs:enumeration value="Literature:Brazil:Romanticism"/>
+			<xs:enumeration value="Literature:Brazil:Realism and Naturalism"/>
+			<xs:enumeration value="Literature:Brazil:Modernism"/>
+			<xs:enumeration value="Literature:Brazil:Contemporary"/>
+			<xs:enumeration value="Literature:World Literature"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!-- Subject attribute for classification -->
+	<xs:complexType name="SubjectAttribute">
+		<xs:attribute name="subject" type="Classification"/>
+	</xs:complexType>
+	
+	<!-- Align attribute -->
+	<xs:attributeGroup name="AlignAttribute">
+		<xs:attribute name="align" use="optional">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="center"/>
+					<xs:enumeration value="right"/>
+					<xs:enumeration value="left"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	
+	<!-- Percentage restriction -->
+	<xs:simpleType name="Percentage">
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="100"/>
+			<xs:fractionDigits value="1"/>
+			<!-- Optional: for precision -->
+		</xs:restriction>
+	</xs:simpleType>
+	
+	
+	<!-- ===================== Inline Elements ===================== -->
+	
+	<!-- style -->
+	<xs:complexType name="StyleType" mixed="true">
+		<xs:attribute name="color" type="xs:string" use="required"/>
+	</xs:complexType>
+	<xs:element name="style" type="StyleType"/>
+	
+	<!-- Inline math -->
+	<xs:simpleType name="TextOnlyType">
+		<xs:restriction base="xs:string"/>
+	</xs:simpleType>
+	<xs:element name="m" type="TextOnlyType"/>
+	<xs:element name="c" type="TextOnlyType"/>
+	
+	<!-- Display math -->
+	<xs:complexType name="DisplayMathType">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="end" type="xs:string" use="optional"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:element name="math" type="DisplayMathType"/>
+	<xs:element name="chem" type="DisplayMathType"/>
+	
+	<!-- ref -->
+	<xs:complexType name="OnlyAttributeType">
+		<xs:attribute name="id" type="xs:string" use="required"/>
+	</xs:complexType>
+	<xs:element name="ref" type="OnlyAttributeType"/>
+	
+	<!-- Inline Nested Elements -->
+	<xs:complexType name="InlineType" mixed="true">
+		<xs:sequence minOccurs="0" maxOccurs="unbounded">
+			<!-- Allow nested inline content inside <b> if desired -->
+			<xs:choice>
+				<xs:element ref="b"/>
+				<xs:element ref="i"/>
+				<xs:element ref="u"/>
+				<xs:element ref="q"/>
+				<xs:element ref="style"/>
+				<xs:element ref="m"/>
+				<xs:element ref="math"/>
+				<xs:element ref="c"/>
+				<xs:element ref="chem"/>
+				<xs:element ref="ref"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="b" type="InlineType"/>
+	<xs:element name="i" type="InlineType"/>
+	<xs:element name="u" type="InlineType"/>
+	<xs:element name="q" type="InlineType"/>
+
+	
+	
+	<!-- ===================== Image ===================== -->
+	
+	<!-- Image -->
+	<xs:complexType name="ImageType">
+		<xs:attribute name="src" type="xs:string" use="required"/>
+		<xs:attribute name="size" type="xs:string"/>
+		<xs:attribute name="width" type="xs:string"/>
+		<xs:attribute name="html_width" type="xs:string"/>
+		<xs:attribute name="wrap" type="xs:boolean"/>
+	</xs:complexType>
+	<xs:element name="image" type="ImageType"/>
+	
+	
+	<!-- ===================== Paragraph with Mixed Content ===================== -->
+	
+	<xs:complexType name="ParagraphType" mixed="true">
+		<xs:sequence minOccurs="0" maxOccurs="unbounded">
+			<xs:choice>
+				<xs:element ref="b"/>
+				<xs:element ref="i"/>
+				<xs:element ref="u"/>
+				<xs:element ref="q"/>
+				<xs:element ref="style"/>
+				<xs:element ref="m"/>
+				<xs:element ref="math"/>
+				<xs:element ref="c"/>
+				<xs:element ref="chem"/>
+				<xs:element ref="ref"/>
+			</xs:choice>
+		</xs:sequence>
+		<!-- Example optional attributes for paragraph styling/ids -->
+		<xs:attributeGroup  ref="AlignAttribute" />
+	</xs:complexType>
+	<xs:element name="p" type="ParagraphType"/>
+	<xs:element name="l" type="ParagraphType"/>
+	<xs:element name="cite" type="ParagraphType"/>
+	<xs:element name="header" type="ParagraphType"/>
+	<xs:element name="caption" type="ParagraphType"/>
+
+	<!-- Footnote -->
+	<xs:complexType name="FootnoteType" mixed="true">
+		<xs:sequence minOccurs="0" maxOccurs="unbounded">
+			<xs:choice>
+				<xs:element ref="b"/>
+				<xs:element ref="i"/>
+				<xs:element ref="u"/>
+				<xs:element ref="q"/>
+				<xs:element ref="m"/>
+				<xs:element ref="math"/>
+				<xs:element ref="c"/>
+				<xs:element ref="chem"/>
+				<xs:element ref="ref"/>
+			</xs:choice>
+		</xs:sequence>
+		
+		<!-- Example optional attributes for paragraph styling/ids -->
+		<xs:attribute name="id" type="xs:string" use="required"/>
+	</xs:complexType>
+	<xs:element name="footnote" type="FootnoteType"/>
+
+
+	<!-- ===================== Complex types ===================== -->
+	
+	<!-- Quote -->
+	<xs:complexType name="ComplexDisplayType">
+		<xs:sequence>
+			<xs:element name="title" type="ParagraphType" minOccurs="0" maxOccurs="1"/>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="p"/>
+				<xs:element ref="image"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="quote" type="ComplexDisplayType"/>
+	
+	<xs:complexType name="VerseType">
+		<xs:sequence>
+			<xs:element name="title" type="ParagraphType" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="stanza" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element ref="l" maxOccurs="unbounded"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="verse" type="VerseType"/>
+	
+	
+	<!-- ===================== Lists ===================== -->
+	
+	<!-- List -->
+	<xs:complexType name="ListType">
+		<xs:sequence>
+			<xs:element name="item" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:choice minOccurs="0" maxOccurs="unbounded">
+						<xs:element ref="p"/>
+						<xs:element ref="image"/>
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="symbol" type="xs:string" use="optional"/>
+	</xs:complexType>
+	<xs:element name="list" type="ListType"/>
+	
+	<xs:complexType name="OrderedListType">
+		<xs:sequence>
+			<xs:element name="item" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:choice minOccurs="0" maxOccurs="unbounded">
+						<xs:element ref="p"/>
+						<xs:element ref="image"/>
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		
+		<!-- Attributes -->
+		<xs:attribute name="type" use="optional">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="alpha"/>
+					<xs:enumeration value="arabic"/>
+					<xs:enumeration value="roman"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:complexType>
+	<xs:element name="ordered_list" type="OrderedListType"/>
+	
+	
+	<!-- ===================== Tables ===================== -->
+	
+	<!-- Cell -->
+	<xs:complexType name="CellType">
+		<xs:choice minOccurs="0" maxOccurs="1">
+			<xs:element ref="p"/>
+			<xs:element ref="image"/>
+		</xs:choice>
+		<!-- Attributes -->
+		<xs:attribute name="align">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="center"/>
+					<xs:enumeration value="right"/>
+					<xs:enumeration value="left"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:complexType>
+	
+	<!-- Cell Rows -->
+	<xs:complexType name="CellRowType">
+		<xs:sequence>
+			<xs:element name="cell" type="CellType" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<!-- Table -->
+	<xs:complexType name="TableType">
+		<xs:sequence>
+			<!-- <xs:element name="caption" type="xs:string" minOccurs="0" maxOccurs="1" /> -->
+			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRowType"/>
+			<xs:element name="row" maxOccurs="unbounded" type="CellRowType"/>
+		</xs:sequence>
+		<xs:attribute name="width" type="Percentage"/>
+		<xs:attribute name="columns" type="xs:string"/>
+	</xs:complexType>
+	<xs:element name="table" type="TableType"/>
+	
+	
+	<!-- ===================== Statement Childs ===================== -->
+	
+	<!-- Reusable definition for a statemend childs -->
+	<xs:complexType name="StatementChilds">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element ref="quote"/>
+			<xs:element ref="verse"/>
+			<xs:element ref="header"/>
+			<xs:element ref="caption"/>
+			<xs:element ref="cite"/>
+			<xs:element ref="p"/>
+			<xs:element ref="footnote"/>
+			<xs:element ref="image"/>
+			<xs:element ref="list"/>
+			<xs:element ref="table"/>
+		</xs:choice>
+	</xs:complexType>
+	
+	
+	<!-- ===================== Options ===================== -->
+	
+	<!-- Option -->
+	<xs:complexType name="Option">
+		<xs:choice minOccurs="1" maxOccurs="unbounded">
+			<xs:element ref="p"/>
+			<xs:element ref="image"/>
+		</xs:choice>
+		
+		<!-- label atribute for option tag -->
+		<xs:attribute name="label" type="xs:string" use="required"/>
+		<!-- is_correct atribute for option tag -->
+		<xs:attribute name="is_correct" type="xs:boolean" use="required"/>
+	</xs:complexType>
+	
+	<!-- Options -->
+	<xs:complexType name="Options">
+		<xs:sequence>
+			<xs:element name="option" maxOccurs="unbounded" type="Option"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="OptionsTable">
+		<xs:sequence>
+			<xs:element name="header" minOccurs="0" maxOccurs="1" type="CellRowType"/>
+			<xs:element name="option" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="cell" maxOccurs="unbounded" type="CellType"/>
+					</xs:sequence>
+					<!-- label atribute for option tag -->
+					<xs:attribute name="label" type="xs:string" use="required"/>
+					<!-- is_correct atribute for option tag -->
+					<xs:attribute name="is_correct" type="xs:boolean" use="required"/>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="class" type="xs:string" use="optional"/>
+	</xs:complexType>
+	
+	
+	<!-- ===================== Parts ===================== -->
+	
+	<!-- Part -->
+	<xs:complexType name="Part">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element ref="p"/>
+			<xs:element ref="image"/>
+		</xs:choice>
+	</xs:complexType>
+	
+	<!-- Parts -->
+	<xs:complexType name="Parts">
+		<xs:sequence>
+			<xs:element name="part" maxOccurs="unbounded" type="Part"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	
+	<!-- ===================== Question Group ===================== -->
+	
+	<!-- Reusable definition for a group of questions -->
+	<xs:complexType name="QuestionGroup">
+		<xs:sequence>
+			<!-- Context tag for a group question -->
+			<xs:element name="context" minOccurs="0" maxOccurs="1" type="StatementChilds"/>
+			<xs:choice maxOccurs="unbounded">
+				<!-- Objective Question tag -->
+				<xs:element name="objective_question">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="classification" type="SubjectAttribute" maxOccurs="unbounded"/>
+							<xs:element name="statement" type="StatementChilds"/>
+							<xs:choice>
+								<xs:element name="options" type="Options"/>
+								<xs:element name="options_table" type="OptionsTable"/>
+							</xs:choice>
+							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
+						</xs:sequence>
+						<!-- Attributes -->
+						<xs:attribute name="number" type="xs:integer" use="required"/>
+						<xs:attribute name="cancelled" type="xs:boolean"/>
+						<xs:attribute name="success_rate" type="Percentage"/>
+					</xs:complexType>
+				</xs:element>
+				<!-- Objective Question tag -->
+				<xs:element name="discursive_question">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="classification" type="SubjectAttribute" maxOccurs="unbounded"/>
+							<xs:element name="statement" type="StatementChilds"/>
+							<xs:element name="parts" type="Parts"/>
+							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
+						</xs:sequence>
+						<!-- Attributes -->
+						<xs:attribute name="number" type="xs:integer" use="required"/>
+						<xs:attribute name="null" type="xs:boolean"/>
+						<xs:attribute name="success_rate" type="Percentage"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+	
+	
+	<!-- ===================== Exam ===================== -->
+	
+	<!-- Definition for the root element 'exam' -->
+	<xs:element name="exam">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="question_group" type="QuestionGroup"/>
+				<xs:element name="subject">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="question_group" type="QuestionGroup" maxOccurs="unbounded"/>
+						</xs:sequence>
+						<xs:attribute name="name" type="xs:string" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+			
+			<!-- Attributes for the exam tag -->
+			<xs:attribute name="name" type="xs:string" use="required"/>
+			<xs:attribute name="year" type="xs:gYear" use="required"/>
+			<xs:attribute name="phase" type="xs:string" use="required"/>
+			<xs:attribute name="day" type="xs:integer" use="required"/>
+			<xs:attribute name="variation" type="xs:string" use="required"/>
+			<xs:attribute name="date" type="xs:date" use="required"/>
+			<xs:attribute name="lang" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

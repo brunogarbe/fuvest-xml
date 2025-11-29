@@ -1,0 +1,2289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1999" phase="1" day="1" variation="V" date="1998-11-22" lang="pt-br">
+	<subject name="PORTUGUÊS">
+		<question_group>
+			<context>
+				<p>O espectador de olhar imediatista talvez tenha dificuldade para apreender a principal qualidade de Kenoma. Tal mérito não ocupa a tela de modo escancarado, mas por meio do acúmulo de imagens. É preciso aceitar o ritmo cadenciado e os silêncios da narrativa para perceber a sintonia da direção com o ambiente retratado - um grotão esquecido do Brasil, registrado por uma câmera realista, às vezes documental, mas com toques lúdicos. Mérito significativo em se tratando de um relato de investigação sobre uma realidade social e geográfica distante dos realizadores. Ainda mais em uma época tomada por filmes cujo ritmo acelerado impede a permanência das imagens na retina e a apreensão de seus significados após a sessão.</p>
+				<p>(Época, 31/08/98, p.89)</p>
+			</context>
+
+			<objective_question number="1">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Considere as seguintes afirmações:</p>
+					<p>I. A qualidade do filme encontra-se na adequação do estilo ao tema desenvolvido.</p>
+					<p>II. Espectadores de olhar imediatista não conseguem apreciar filmes que mostram lugares distantes do meio urbano.</p>
+					<p>III. Filmes cuja narrativa tem ritmo cadenciado exigem do espectador uma atitude diversa da que lhe é habitual.</p>
+					<p>Está correto, em relação ao texto, apenas o que se afirma em</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>I e II.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>I e III.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>II e III.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>I.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>I, II e III.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="2">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O termo mérito em "Tal mérito não ocupa..." refere-se a</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Kenoma.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>olhar imediatista.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>acúmulo de imagens.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>principal qualidade.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>modo escancarado.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="3">
+				<classification subject="Unknown" />
+				<statement>
+					<p>No 2º período do texto, o advérbio não localizar-se-ia melhor se posto imediatamente antes do elemento que está negando:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>tal mérito.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>a tela.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>de modo escancarado.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>por meio do acúmulo.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>de imagens.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="4">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A frase em que a grafia está inteiramente correta é:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>A rescessão asiática, o colapso russo e a perda de vultuosas quantias roubaram a expontaneidade do mercado de investidores.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Nessas inserções, todas as disfunções familiares, sem exceção, vêm à tona, sempre acompanhadas de forte descarga emocional.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Sua Magestade não admitiu a indiscreção do ministro, expulsando-o, imediatamente, da Corte.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>As medidas tomadas pelo Governo contra a inflação não atendem às espectativas da população e, certamente, não sortirão os resultados esperados.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Estudiosos mostram-se apreensivos diante da eminência do recrudecimento das superstições nas sociedades capitalistas.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<context>
+				<p>De todos esses periquitinhos que tem no Brasil, tuim é capaz de ser o menor. Tem bico redondo e rabo curto e é todo verde, mas o macho tem umas penas azuis para enfeitar. Três filhotes, cada um mais feio que o outro, ainda sem penas, os três chorando. O menino levou-os para casa, inventou comidinhas para eles; um morreu, outro morreu, ficou um.</p>
+				<p>(Rubem Braga)</p>
+			</context>
+
+			<objective_question number="5">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Neste excerto de Tuim criado no dedo, a simplicidade do discurso assimila a perspectiva do menino.</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>o narrador em terceira pessoa emprega o discurso indireto para assimilar o ponto de vista do menino.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>repetições, diminutivos, e a simplicidade sintática introduzem no discurso a perspectiva do menino.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>a escassez de adjetivos torna concreta a visão substantiva, própria da infância.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>o narrador em primeira pessoa utiliza o discurso direto para recriar a visão infantil.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>diminutivos, predomínio da subordinação e sinestesias recriam o registro da percepção infantil.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="6">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Das afirmações sobre o verbo assinalado em "que tem no Brasil", qual a única INCORRETA?</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>É um uso típico da variante popular da língua.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Pode ser corretamente substituído por há.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Seu valor semântico difere daquele que apresenta nas demais ocorrências.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>É um verbo impessoal cujo objeto direto é o pronome que.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Pode ser corretamente substituído por existe.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="7">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Em que frase o espaço em branco deve ser preenchido apenas com pronome relativo e não com pronome relativo regido de preposição?</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Trata-se de jóias de família ___ jamais me desfarei.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Eis o candidato ___ expôs planos ___ ninguém confiou.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Nesta rua, os serviços a ___ você tem acesso são inúmeros.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Foi positivo o resultado ___ a empresa atingiu.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Eis o documento de ___ cópia me refiro.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<context>
+				<p>Existe, hoje, uma percepção disseminada pela intelectualidade e por boa parte da opinião pública mundial de uma grande e acelerada mudança operando em várias dimensões da sociedade moderno-contemporânea. Não há, certamente, consenso sobre esse fenômeno, variando definições, terminologia e, sobretudo, avaliações positivas, negativas ou matizadas. De qualquer modo, há uma tendência maciça para reconhecer o caráter ampliado das mudanças econômicas e tecnológicas que afetariam, com maior ou menor impacto, todas as sociedades do planeta, justificando o termo globalização mesmo quando se critica a sua possível banalização como instrumento de conhecimento.</p>
+				<p>(Gilberto Velho, Revista de Cultura Brasileira, 03/98, n°1)</p>
+			</context>
+
+			<objective_question number="8">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Em relação às mudanças econômicas e tecnológicas mencionadas no texto, é correto afirmar que</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>a avaliação delas comporta posicionamentos tanto opostos quanto intermediários.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>há um acordo quanto à nomenclatura usada, embora essas mudanças sejam definidas de muitas maneiras.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>a intelectualidade reconhece seu ritmo intenso, mas o faz de um modo disfarçado.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>a falta de entendimento sobre sua natureza é a causa da vulgarização do termo globalização.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>se justifica o uso do termo globalização, uma vez que tais mudanças funcionam como instrumento de conhecimento.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="9">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Substituindo por pronome pessoal oblíquo o complemento de afetariam, na mesma frase em que ocorre, obtém-se:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>afetá-las-iam.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>afetariam-nas.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>as afetariam.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>lhes afetariam.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>afetar-lhes-iam.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="10">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O anacoluto (quebra da estruturação lógica da frase), presente no provérbio "Quem ama o feio, bonito lhe parece", também se verifica em:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Quem o mal deseja ao seu vizinho, vem o seu pelo caminho.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Quem anda sem dinheiro, não arranja companheiro.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Quem com ferro fere, com ferro será ferido.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Quem anda depressa é quem mais tropeça.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Quem com o demo anda, com o demo acaba.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<context>
+				<p>A carruagem parou ao pé de uma casa amarelada, com uma portinha pequena. Logo à entrada um cheiro mole e salobro enojou-a. A escada, de degraus gastos, subia ingrememente, apertada entre paredes onde a cal caía, e a umidade fizera nódoas. No patamar da sobreloja, uma janela com um gradeadozinho de arame, parda do pó acumulado, coberta de teias de aranha, coava a luz suja do saguão. E por trás de uma portinha, ao lado, sentia-se o ranger de um berço, o chorar doloroso de uma criança.</p>
+				<p>(Eça de Queirós, O primo Basílio)</p>
+			</context>
+
+			<objective_question number="11">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Observando-se os recursos de estilo presentes na composição desse trecho, é correto afirmar que</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>o acúmulo de pormenores induz a uma percepção impessoal e neutra do real.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>a descrição assume caráter impressionista, dando também dimensão subjetiva à percepção do espaço.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>as descrições veiculam as impressões do narrador, e o monólogo interior, as da personagem.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>a carência de adjetivos confere caráter objetivo e real à representação do espaço.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>o predomínio da descrição confere caráter expressionista ao relato, eliminando seus resíduos subjetivos.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="12">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O segmento do texto em que a preposição de estabelece uma relação de causa é:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>"ao pé de uma casa amarelada".</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>"escada, de degraus gastos".</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>"gradeadozinho de arame".</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>"parda do pó acumulado".</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>"luz suja do saguão".</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<context>
+				<p>Transforma-se o amador na cousa amada,</p>
+				<p>por virtude do muito imaginar;</p>
+				<p>não tenho, logo, mais que desejar,</p>
+				<p>pois em mim tenho a parte desejada.</p>
+				<p>Se nela está minh'alma transformada,</p>
+				<p>que mais deseja o corpo de alcançar?</p>
+				<p>Em si somente pode descansar,</p>
+				<p>pois consigo tal alma está liada.</p>
+				<p>Mas esta linda e pura semidéia,</p>
+				<p>que, como um acidente em seu sujeito,</p>
+				<p>assi co a alma minha se conforma,</p>
+				<p>está no pensamento como idéia:</p>
+				<p>e o vivo e puro amor de que sou feito,</p>
+				<p>como a matéria simples busca a forma.</p>
+				<p>(Camões, ed. A.J. da Costa Pimpão)</p>
+			</context>
+
+			<objective_question number="13">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O prefixo presente em semidéia tem o mesmo valor semântico do prefixo que há em</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>hipotensão.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>perífrase.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>anfiteatro.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>subalterno.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>hemisfério.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="14">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A relação semântica expressa pelo termo logo no verso "Não tenho, logo, mais que desejar" ocorre igualmente em:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Não se lembrou de ter um retrato do menino. E logo retrato que tanto desejara.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Acendia, tão logo anoitecia, um candeeiro de querosene.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>É um ser humano, logo merece nosso respeito.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>E era logo ele que chegava a esta conclusão.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Adoeceu, e logo naquele mês, quando estava cheio de compromissos.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="15">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A conjunção mas, que aparece no início do primeiro terceto, é usada para</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>apresentar uma síntese das idéias contidas nos quartetos, que funcionam como tese e antítese.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>opor à satisfação expressa nos quartetos a insatisfação trazida por uma idéia incompleta e pelo conformismo.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>substituir o conectivo e, assumindo valor aditivo, já que não há oposição entre os quartetos e os tercetos.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>iniciar um pensamento conclusivo, podendo ser substituído pelo conectivo portanto.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>introduzir uma ressalva em relação às idéias que foram expressas nos quartetos.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="16">
+				<classification subject="Unknown" />
+				<statement>
+					<p>É correto afirmar que, nesse soneto,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>a experiência individual e a reflexão filosófica, alternando-se e conjugando-se, encaminham o desenvolvimento do poema.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>a fusão do eu e do outro, almejada no amor, produz a conversão da forma em simples matéria.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>a influência platônica, patente no texto, determina a renúncia ao impulso erótico-amoroso.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>a oscilação entre ascetismo e erotismo, típica do autor, resolve-se pela eleição da mulher imaterial e dessexuada.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>os excessos da imaginação amorosa produzem uma confusão mental que caberá à razão disciplinar.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="17">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A frase em que a correlação de tempos e modos verbais foge às normas da língua escrita padrão é:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Pode-se prever que os ideólogos do capitalismo usarão todos os apelos populistas de que puderem valer-se para introduzir um forte golpe.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Em 1970, não houve argumento capaz de convencer a imprensa paulista de que seria de interesse geral a Ia Bienal Internacional do Livro.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Todos seríamos escravos de idéias maniqueístas, não fora o trabalho desenvolvido pelos filósofos iluministas.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Agora que a ensandeceste, se tua consciência reouver um instante de sagacidade, tu dirás que queres viver.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Se os parlamentares tivessem tido a preocupação de discutir com seriedade as propostas, os leitores só poderão estar satisfeitos.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="18">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A frase que expressa uma relação de semelhança INCORRETA (ou falsa) entre as personagens Lula de Holanda e mestre José Amaro (Fogo morto) é:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Os dois têm filhas solteiras, que são profundamente infelizes.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>São homens orgulhosos, com traços de mania de superioridade.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Um e outro apresentam suscetibilidade e desconfiança exacerbadas.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Ambos são marcados pela doença, que os expõe à curiosidade pública.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Ambos procuram compensar na religiosidade as infelicidades da vida pessoal.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<context>
+				<p>Oh! Bendito o que semeia</p>
+				<p>Livros... livros à mão cheia...</p>
+				<p>E manda o povo pensar!</p>
+				<p>O livro caindo n'alma</p>
+				<p>É germe - que faz a palma,</p>
+				<p>É chuva - que faz o mar.</p>
+				<p>Vós, que o templo das idéias</p>
+				<p>Largo abris às multidões,</p>
+				<p>P'ra o batismo luminoso</p>
+				<p>Das grandes revoluções,</p>
+				<p>Agora que o trem de ferro</p>
+				<p>Acorda o tigre no cerro</p>
+				<p>E espanta os caboclos nus,</p>
+				<p>Fazei desse "rei dos ventos"</p>
+				<p>Ginete dos pensamentos,</p>
+				<p>Arauto da grande luz!...</p>
+				<p>(Castro Alves)</p>
+			</context>
+
+			<objective_question number="19">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O tratamento dado aos temas do livro e do trem de ferro, nestes versos de "O livro e a América", permite afirmar corretamente que, no contexto de Espumas flutuantes,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>o poeta romântico assume o ideal do progresso, abandonando as preocupações com a História.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>o entusiasmo pelo progresso técnico e cultural determina a superação do encantamento pela natureza.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>o entusiasmo pelo progresso cultural contrapõe-se ao temor do progresso técnico, que agride a natureza.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>o poeta romântico abre-se ao progresso e à técnica, em que não vê incompatibilidade com os ciclos naturais.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>o poeta romântico propõe que a literatura e a natureza somem forças contra a invasão do progresso técnico.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="20">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Se iniciarmos a segunda estrofe pelo pronome tu, os verbos abris e fazei, que aparecem no texto, deverão mudar, respectivamente, para</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>abre; faz.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>abras; faças.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>abres; faze.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>abre; faça.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>abres; fazes.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<context>
+				<p>O senão do livro</p>
+				<p>Começo a arrepender-me deste livro. Não que ele me canse; eu não tenho que fazer e, realmente, expedir alguns magros capítulos para esse mundo sempre é tarefa que distrai um pouco da eternidade. Mas o livro é enfadonho, cheira a sepulcro, traz certa contração cadavérica; vício grave, e aliás ínfimo, porque o maior defeito deste livro és tu, leitor. Tu tens pressa de envelhecer, e o livro anda devagar; tu amas a narração direita e nutrida, o estilo regular e fluente, e este livro e o meu estilo são como os ébrios, guinam à direita e à esquerda, andam e param, resmungam, urram, gargalham, ameaçam o céu, escorregam e caem...</p>
+				<p>(Machado de Assis, Memórias póstumas de Brás Cubas)</p>
+			</context>
+
+			<objective_question number="21">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O emprego dos pronomes este e esse, no início do texto,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>tem a finalidade de distinguir entre o que já se mencionou (mundo) e o que se vai mencionar (livro).</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>marca a oposição entre o concreto (mundo real) e o abstrato (mundo da ficção).</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>faz uma distinção decorrente da diferença entre a posição do narrador e a do leitor.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>é conseqüência da oposição entre passado (livro) e presente (mundo).</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>é indiferente; assim como hoje, esses pronomes não têm valor distintivo.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="22">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A alternativa em que o termo senão apresenta o mesmo valor gramatical expresso em "O senão do livro" é:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>O motivo não pode ser outro senão que a melancólica paisagem.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Falara como pai, senão como juiz.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Ninguém senão seu irmão o ouvia.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Resplandecia aos olhos dos homens, formosa sem senão.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Não o apanhara senão para ter uma parte na glória e no serviço.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="23">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Tendo em vista o contexto das Memórias póstumas de Brás Cubas, é correto afirmar que, nesse excerto,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>as imagens que se referem ao próprio livro, mesmo exageradas, apontam para características que esse romance de fato apresenta.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>ao ponderar a opinião do leitor, o narrador novamente evidencia o respeito e a consideração que tem por ele.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>o movimento autocrítico põe em relevo, principalmente, a modéstia e a contenção características do narrador.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>o fato de o narrador dirigir-se diretamente ao leitor configura um momento de exceção no livro.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>a atitude do narrador contradiz a constância e a persistência com que habitualmente executa seus projetos.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="24">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Refere-se corretamente a *Alguma poesia*, de Drummond, a seguinte afirmação:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>A imagem do poeta como "gauche" revela a sua militância na poesia engajada e participante, de esquerda.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>As oposições sujeito-mundo e província-metrópole são fundamentais em vários poemas.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>A filiação modernista do livro liberou o poeta das preocupações com a elaboração formal dos poemas.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>O livro não contém textos metalingüísticos, o que caracteriza a primeira fase do autor.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>A ironia e o humor evitam que o eu lírico se distancie ou se isole, proporcionando-lhe comunhão com o mundo exterior.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="25">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Considere as seguintes afirmações:</p>
+					<p>I) Dirigindo-se a um interlocutor presente, que não fala ou cujas palavras não são registradas, interpelando-o e, muitas vezes, empregando linguagem pretensiosa ou pedante, o narrador põe em questão a identidade do homem e o sentido último da vida.</p>
+					<p>II) Colocando o seu foco na relação entre o letrado e o iletrado, dela o conto extrai efeitos de suspense e humor.</p>
+					<p>I e II referem-se, respectivamente, aos seguintes contos de *Primeiras estórias*:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>O espelho e Famigerado.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>A terceira margem do rio e Famigerado.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>O espelho e A terceira margem do rio.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Pirlimpsiquice e A terceira margem do rio.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Pirlimpsiquice e Famigerado.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="26">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Em *Morte e vida severina*, no diálogo entre o retirante e a mulher na janela (a "rezadora titular"), indicam-se vários motivos pelos quais Severino não encontrará emprego no local a que chegara. Um desses motivos, de fato presente na obra citada, encontra-se em:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Ao homem rústico falta competência para enfrentar o meio agreste e desenvolver as técnicas necessárias para fazê-lo.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Os interesses da modernização financeira e industrial tornam ainda mais difícil para o homem rústico a obtenção de emprego.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Por ser desprovido de cultura religiosa e de vínculos com o Catolicismo, o sertanejo marginaliza-se ao chegar à Zona da Mata.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>A grande fragilidade física a que chegou o retirante torna-o inapto para o trabalho pesado exigido na região.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Tendo experiência apenas na criação de gado, o sertanejo encontra-se deslocado em meio à cultura da cana-de-açúcar.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+	</subject>
+	<subject name="INGLÊS">
+		<question_group>
+			<context>
+				<p>People wearing glasses look odd during video conferences because their lenses reflect a disturbing image of the screen, but Nokia of Finland has come up with a clever solution (EP 812 106). Since all TV screens go blank for a few milliseconds as one picture frame replaces another, Nokia proposes synchronising the camera with the screen, so pictures are taken only when the screen is blank. All this happens so quickly that the effect is not noticeable- especially as the picture quality of video conferences is far inferior to that of broadcast TV.</p>
+				<p>New Scientist 4 July 1998</p>
+			</context>
+
+			<objective_question number="27">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O texto diz que durante uma videoconferência</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>as lentes da Nokia refletem uma imagem de ótima qualidade.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>a qualidade da imagem fica prejudicada para os que usam óculos com lentes grossas.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>as pessoas que usam óculos parecem esquisitas, pelo fato de que suas lentes refletem a imagem da tela.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>a imagem fica embaçada para aqueles que usam lentes comuns.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>as pessoas enxergam melhor com os óculos fabricados pela Nokia.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="28">
+				<classification subject="Unknown" />
+				<statement>
+					<p>De acordo com o texto, qual é a sugestão da Nokia?</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Substituição de um quadro por outro.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Sincronia entre câmera e tela.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>Combinação simultânea de imagens.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Eliminação do quadro durante alguns milissegundos.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Preenchimento do branco das telas de TV.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="29">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Conforme o texto, a finalidade do EP 812 106 é</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>sincronizar as imagens no espaço de milissegundos.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>melhorar a qualidade de transmissão da televisão.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>ressaltar a qualidade de uma videoconferência.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>transmitir até mesmo as imagens distantes de qualidade inferior.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>captar as imagens no momento em que a tela estiver em branco.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<context>
+				<image src="fuvest_1999_02_q30-36.png" />
+				<p>DESPITE French horror at England's violent football louts, who smashed up Marseilles on June 15th before a match between England and Tunisia, some Britons still get a friendly press in France: the Scots. They have been widely praised for their seemingly in- domitable high spirits (amid expected defeat on the playing field) and sense of fair play. One French reporter, impressed by the "indestructible smile and ever-genuine kindness" of Scots fans, has called for an inquiry into the "euphoric effects" more potent, it seems, than Viagra or Prozac of wearing a kilt. Scottish fans who imbibe gallons of beer and whisky and who occasionally bare their bottoms are readily forgiven.</p>
+				<p>THE ECONOMIST JUNE 20TH 1998</p>
+			</context>
+
+			<objective_question number="30">
+				<classification subject="Unknown" />
+				<statement>
+					<p>According to the passage,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>the violence in Marseilles on June 15th was due to England's defeat on the football field.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>English fans occasionally get a good press in France.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>not all Britons get a good press in France.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>there were no Scots fans in Marseilles when England's louts smashed it up on June 15th.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>the English louts who smashed up Marseilles on June 15th were deeply under the influence of alcohol.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="31">
+				<classification subject="Unknown" />
+				<statement>
+					<p>The passage suggests that the French press</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>has always praised the Scots' horror of violence.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>has often condemned England's violent football.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>is usually impressed with Scotland's football.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>regards the Scots as France's best friends.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>seems to have an enormous admiration for the Scots.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="32">
+				<classification subject="Unknown" />
+				<statement>
+					<p>We can deduce from the passage that Scottish fans would be LEAST likely to</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>wear their kilts with no underclothes.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>behave unkindly.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>consume great quantities of alcohol.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>show fair play.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>be in a good mood.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="33">
+				<classification subject="Unknown" />
+				<statement>
+					<p>"their seemingly indomitable high spirits" means that</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>nothing seems to affect their cheerful state of mind.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>alcohol appears to raise their spirits.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>their apparent feeling of invulnerability is impressive.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>their high team spirit appears to be indestructible.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>the more they drink, the more high-spirited they seem to become.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="34">
+				<classification subject="Unknown" />
+				<statement>
+					<p>According to the passage, one French reporter</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>attributed the euphoria of Scots fans to their high intake of beer and whisky.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>decided to investigate the powerful effects of the kilts traditionally worn by the Scots.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>said that wearing a kilt could hardly produce a greater feeling of euphoria than taking Viagra or Prozac.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>was convinced that the euphoria produced by wearing a kilt was longer-lasting than that produced by Viagra or Prozac.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>demanded that a study about the powerful "euphoric effects" of wearing a kilt should be conducted.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="35">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Choose the correct active voice form for: "They have been widely praised..."</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>The press had widely praised them.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>People praised them widely.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>One has widely praised them.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>The press has widely praised them.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>People has widely praised them.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="36">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Choose the item which best completes the sentence, according to the passage:</p>
+					<p>....some Scottish fans bare their bottoms, they are readily forgiven.</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>No matter</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Always if</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>All the time</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Even when</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>In spite of</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<context>
+				<p>American workers are being told to go to sleep on the job, according to Dermot Purgavie in the Daily Mail. "Nap breaks" are becoming increasingly popular in offices, factories and even long-haul aeroplane cockpits. "It's now as important for employers to offer a nap break as it is for them to have a coffee break", says P.M. Clary, a manager with a Californian computer consulting firm. Forty minutes' sleep during the day can improve morale and increase productivity, and, according to research by Nasa, it can improve the alertness of pilots. "There are two periods when the body naturally wants to sleep - between two and four in the morning and two and four in the afternoon," Heidi Wunder of Washington's National Sleep Foundation tells the paper. "We're bogged down in the view that sleep isn't productive." William Anthony, a psychology professor at Boston University, agrees. Leonardo da Vinci, Napoleon and Brahms all liked a little shut-eye, he says. "It's time for nappers to lie down and be counted."</p>
+				<p>THE WEEK 7 February 1998</p>
+			</context>
+
+			<objective_question number="37">
+				<classification subject="Unknown" />
+				<statement>
+					<p>According to the passage, office, factory and long-haul aeroplane cockpit workers</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>are being given time to snooze at work.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>approve of daily breaks.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>are demanding more naps.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>hardly have any time for coffee breaks.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>are being dismissed for sleeping on the job.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="38">
+				<classification subject="Unknown" />
+				<statement>
+					<p>We can deduce from the passage that P.M. Clary</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>offers coffee to all of his employers.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>believes in the value of an afternoon sleep.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>is a consultant at a Californian computer firm.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>considers naps and coffee the best marketing a company can offer.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>prefers his employees to have a nap rather than just coffee.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="39">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Which statement about Nasa's research is true?</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>All airline companies should be concerned about pilots' alertness.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Forty minutes' sleep is barely enough for pilots to increase their alertness.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>A nap can be quite beneficial as regards the alertness of pilots.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>Alertness can improve provided that pilots are prevented from sleeping.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Alertness and productivity have hardly anything to do with the amount of sleep of pilots.</p>
+					</option>
+				</options>
+			</objective_question>
+
+			<objective_question number="40">
+				<classification subject="Unknown" />
+				<statement>
+					<p>The passage says that</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>people need two periods of sleep amounting to eight hours per day.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>the worst periods to rest are between two and four.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>productivity and rest have little in common.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>people generally believe nothing worthwhile results from sleeping.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Heidi Wunder agrees that sleep is unproductive.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+	</subject>
+	<subject name="FÍSICA">
+		<question_group>
+			<objective_question number="41">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Na figura, estão representadas as velocidades, em função do tempo, desenvolvidas por um atleta, em dois treinos A e B, para uma corrida de 100m rasos.</p>
+					<image src="fuvest_1999_02_q41.png" />
+					<p>Com relação aos tempos gastos pelo atleta para percorrer os 100m, podemos afirmar que, aproximadamente,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>no B levou 0,4s a menos que no A.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>no A levou 0,4s a menos que no B.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>no B levou 1,0s a menos que no A.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>no A levou 1,0s a menos que no B.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>no A e no B levou o mesmo tempo.</p>
+					</option>
+				</options>
+				<assumptions>
+					<p>Quando necessário, adote para a aceleração da gravidade o valor $g=10m/s^{2}$ e, para a densidade da água, o valor $1.000kg/m^{3}$.</p>
+				</assumptions>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="42">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Considere três situações em que um raio de luz se desloca no vácuo:</p>
+					<p>I. nas proximidades de uma esfera carregada eletricamente, representada na figura I.</p>
+					<p>II. nas proximidades do pólo de um ímã, representada na figura II.</p>
+					<p>III. nas proximidades de um fio percorrido por corrente elétrica i, representada na figura III.</p>
+					<image src="fuvest_1999_02_q42.png" />
+					<p>Podemos afirmar que o raio de luz</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>não é desviado em qualquer das três situações.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>é desviado nas três situações.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>só é desviado nas situações I e II.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>só é desviado nas situações II e III.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>só é desviado na situação I.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="43">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um corpo de massa m é lançado com velocidade inicial $\vec{v}_{0}$ na parte horizontal de uma rampa, como indicado na figura. Ao atingir o ponto A, ele abandona a rampa, com uma velocidade $\vec{v}_{A}(V_{Ax}, V_{Ay})$, segue uma trajetória que passa pelo ponto de máxima altura B e retorna à rampa no ponto C. Despreze o atrito.</p>
+					<image src="fuvest_1999_02_q43.png" />
+					<p>Sejam $h_{A}$, $h_{B}$ e $h_{c}$ as alturas dos pontos A, B e C, respectivamente, $\vec{v}_{B}(V_{Bx}, V_{By})$ a velocidade do corpo no ponto B e $\vec{v}_{c}(V_{cx}, V_{cy})$ a velocidade do corpo no ponto C. Considere as afirmações:</p>
+					<p>I) $V_{0}=V_{Ax}=V_{Bx}=V_{Cx}$</p>
+					<p>II) $V_{Ax}=V_{Bx}=V_{Cx}$</p>
+					<p>III) $\frac{1}{2}m{V_{B}}^{2}=\frac{1}{2}m{V_{A}}^{2}-mg(h_{B}-h_{A})$</p>
+					<p>IV) $\frac{1}{2}mV_{0}^{2}=mgh_{B}$</p>
+					<p>V) $\frac{1}{2}mV_{Ay}^{2}=mg(h_{B}-h_{A})$</p>
+					<p>São corretas as afirmações:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>todas.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>somente I e II.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>somente II, III e IV.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>somente II, III, IV e V.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>somente II, III e V.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="44">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O gráfico da figura representa a aceleração da gravidade g da Terra em função da distância d ao seu centro.</p>
+					<image src="fuvest_1999_02_q44.png" />
+					<p>Considere uma situação hipotética em que o valor do raio $R_{T}$ da Terra seja diminuído para R', sendo $R'=0,8 R_{T}$, e em que seja mantida (uniformemente) sua massa total. Nessas condições, os valores aproximados das acelerações da gravidade $g_{1}$ à distância R' e $g_{2}$ à uma distância igual a $R_{T}$ do centro da "Terra Hipotética" são, respectivamente,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>$g_{1}=10m/s^{2}$ e $g_{2}=10m/s^{2}$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>$g_{1}=8m/s^{2}$ e $g_{2}=6,4m/s^{2}$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>$g_{1}=6,4m/s^{2}$ e $g_{2}=4,1m/s^{2}$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>$g_{1}=12,5m/s^{2}$ e $g_{2}=10m/s^{2}$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>$g_{1}=15,6m/s^{2}$ e $g_{2}=10m/s^{2}$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="45">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um meteorito, de massa m muito menor que a massa M da Terra, dela se aproxima, seguindo a trajetória indicada na figura. Inicialmente, bem longe da Terra, podemos supor que sua trajetória seja retilínea e sua velocidade $\vec{v}_{1}$. Devido à atração gravitacional da Terra, o meteorito faz uma curva em torno dela e escapa para o espaço sem se chocar com a superfície terrestre. Quando se afasta suficientemente da Terra, atinge uma velocidade final $\vec{v}_{2}$ de forma que, aproximadamente, $|\vec{v}_{2}|=|\vec{v}_{1}|$, podendo sua trajetória ser novamente considerada retilínea. Ox e Oy são os eixos de um sistema de referência inercial, no qual a Terra está inicialmente em repouso.</p>
+					<image src="fuvest_1999_03_q45.png" />
+					<p>Podemos afirmar que a direção e sentido da quantidade de movimento adquirida pela Terra são indicados aproximadamente pela seta:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>1</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>2</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>3</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>4</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>5</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="46">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um ímã, em forma de barra, de polaridade N(norte) e S(sul), é fixado numa mesa horizontal. Um outro ímã semelhante, de polaridade desconhecida, indicada por A e T, quando colocado na posição mostrada na figura 1, é repelido para a direita.</p>
+					<p>Quebra-se esse ímã ao meio e, utilizando as duas metades, fazem-se quatro experiências, representadas nas figuras I, II, III e IV, em que as metades são colocadas, uma de cada vez, nas proximidades do ímã fixo.</p>
+					<image src="fuvest_1999_03_q46.png" />
+					<p>Indicando por "nada" a ausência de atração ou repulsão da parte testada, os resultados das quatro experiências são, respectivamente,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>repulsão, atração, repulsão, atração</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>repulsão, repulsão, repulsão, repulsão</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>repulsão, repulsão, atração, atração</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>repulsão, nada, nada, atração</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>atração, nada, nada, repulsão</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="47">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Em cada uma das regiões I, II e III da figura abaixo existe ou um campo elétrico constante $E_{x}$ na direção x, ou um campo elétrico constante $E_{y}$ na direção y, ou um campo magnético constante $B_{z}$ na direção z (perpendicular ao plano do papel).</p>
+					<image src="fuvest_1999_03_q47.png" />
+					<p>Quando uma carga positiva q é abandonada no ponto P da região I, ela é acelerada uniformemente, mantendo uma trajetória retilínea, até atingir a região II. Ao penetrar na região II, a carga passa a descrever uma trajetória circular de raio R e o módulo da sua velocidade permanece constante. Finalmente, ao penetrar na região III, percorre uma trajetória parabólica até sair dessa região. A tabela abaixo indica algumas configurações possíveis dos campos nas três regiões.</p>
+					<p>
+| configuração de campo | A | B | C | D | E |
+| :--- | :-: | :-: | :-: | :-: | :-: |
+| região I | $E_{x}$ | $E_{x}$ | $B_{z}$ | $E_{x}$ | $E_{x}$ |
+| região II | $B_{z}$ | $E_{y}$ | $E_{y}$ | $E_{y}$ | $B_{z}$ |
+| região III | $E_{y}$ | $B_{z}$ | $E_{x}$ | $-E_{y}$ | $-E_{x}$ |
+</p>
+					<p>A única configuração dos campos, compatível com a trajetória da carga, é aquela descrita em:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>A</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>B</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>C</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>D</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>E</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="48">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O gráfico representa, num dado instante, a velocidade transversal dos pontos de uma corda, na qual se propaga uma onda senoidal na direção do eixo dos x. A velocidade de propagação da onda na corda é 24m/s. Sejam A, B, C, D e E pontos da corda.</p>
+					<image src="fuvest_1999_03_q48.png" />
+					<p>Considere, para o instante representado, as seguintes afirmações:</p>
+					<p>I. A freqüência da onda é 0,25 Hz.</p>
+					<p>II. Os pontos A, C e E têm máxima aceleração transversal (em módulo).</p>
+					<p>III. Os pontos A, C e E têm máximo deslocamento transversal (em módulo).</p>
+					<p>IV. Todos os pontos da corda se deslocam com velocidade de 24 m/s na direção do eixo x.</p>
+					<p>São corretas as afirmações:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>todas.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>somente IV.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>somente II e III.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>somente I e II.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>somente II, III e IV.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="49">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um raio monocromático de luz incide no ponto A de uma das faces de um prisma feito de vidro e imerso no ar. A figura 1 representa apenas o raio incidente I e o raio refratado R num plano normal às faces do prisma, cujas arestas são representadas pelos pontos P, S e T, formando um triângulo eqüilátero. Os pontos A, B e C também formam um triângulo eqüilátero e são, respectivamente, eqüidistantes de P e S, S e T, e T e P. Considere os raios $E_{1}$, $E_{2}$, $E_{3}$, $E_{4}$ e $E_{5}$, que se afastam do prisma, representados na figura 2.</p>
+					<image src="fuvest_1999_03_q49.png" />
+					<p>Podemos afirmar que os raios compatíveis com as reflexões e refrações sofridas pelo raio incidente I, no prisma, são:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>somente $E_{3}$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>somente $E_{1}$ e $E_{3}$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>somente $E_{2}$ e $E_{5}$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>somente $E_{1}$, $E_{3}$ e $E_{4}$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>todos ($E_{1}$, $E_{2}$, $E_{3}$, $E_{4}$ e $E_{5}$)</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="50">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um balão de pesquisa, cheio de gás hélio, está sendo preparado para sua decolagem. A massa do balão vazio (sem gás) é $M_{B}$ e a massa do gás hélio no balão é $M_{H}$. O balão está parado devido às cordas que o prendem ao solo. Se as cordas forem soltas, o balão iniciará um movimento de subida vertical com aceleração de $2m/s^{2}$. Para que o balão permaneça parado, sem a necessidade das cordas, deve-se adicionar a ele um lastro de massa igual a:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>0,2 $M_{B}$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>0,2 $M_{H}$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>0,2 $(M_{B} + M_{H})$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>0,2 $(M_{B} - M_{H})$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>0,2 $(M_{H} - M_{B})$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="51">
+				<classification subject="Unknown" />
+				<statement>
+					<p>No gráfico, a curva I representa o resfriamento de um bloco de metal a partir de $180^{\circ}C$ e a curva II, o aquecimento de uma certa quantidade de um líquido a partir de $0^{\circ}C$, ambos em função do calor cedido ou recebido no processo.</p>
+					<image src="fuvest_1999_03_q51.png" />
+					<p>Se colocarmos num recipiente termicamente isolante a mesma quantidade daquele líquido a $20^{\circ}C$ e o bloco a $100^{\circ}C$, a temperatura de equilíbrio do sistema (líquido + bloco) será de aproximadamente</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>$25^{\circ}C$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>$30^{\circ}C$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>$40^{\circ}C$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>$45^{\circ}C$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>$60^{\circ}C$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="52">
+				<classification subject="Unknown" />
+				<statement>
+					<p>No circuito abaixo, os resistores $R_{1}$ e $R_{2}$ têm resistência R e a bateria tem tensão V. O resistor $R_{3}$ tem resistência variável entre os valores 0 e R.</p>
+					<image src="fuvest_1999_03_q52.png" />
+					<p>O gráfico mostra qualitativamente a variação da potência P, dissipada em um dos elementos do circuito, em função do valor da resistência de $R_{3}$. A curva desse gráfico só pode representar a</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>potência dissipada no resistor $R_{1}$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>potência dissipada no resistor $R_{2}$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>potência dissipada no resistor $R_{3}$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>diferença entre as potências dissipadas em $R_{2}$ e $R_{3}$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>soma das potências dissipadas em $R_{2}$ e $R_{3}$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="53">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Três homens tentam fazer girar, em torno do pino fixo 0, uma placa retangular de largura a e comprimento 2a, que está inicialmente em repouso sobre um plano horizontal, de atrito desprezível, coincidente com o plano do papel. Eles aplicam as forças $\vec{F}_{A}=\vec{F}_{B}=\vec{F}$ e $\vec{F}_{c}=2\vec{F}_{A}$, nos pontos A, B e C, como representadas na figura. Designando, respectivamente, por $M_{A}$, $M_{B}$ e $M_{C}$ as intensidades dos momentos dessas forças em relação ao ponto 0, é correto afirmar que:</p>
+					<image src="fuvest_1999_03_q53.png" />
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>$M_{A}=M_{B}&gt;M_{C}$ e a placa gira no sentido horário.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>$M_{A}&lt;M_{B}=M_{C}$ e a placa gira no sentido horário.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>$M_{A}=M_{B}&lt;M_{C}$ e a placa gira no sentido anti-horário.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>$2M_{A}=2M_{B}=M_{C}$ e a placa não gira.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>$2M_{A}=M_{B}=M_{C}$ e a placa não gira.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="54">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um caminhão, com massa total de 10.000 kg, está percorrendo uma curva circular plana e horizontal a 72km/h (ou seja, $20m/s$) quando encontra uma mancha de óleo na pista e perde completamente a aderência. O caminhão encosta então no muro lateral que acompanha a curva e que o mantém em trajetória circular de raio igual a 90m. O coeficiente de atrito entre o caminhão e o muro vale 0,3. Podemos afirmar que, ao encostar no muro, o caminhão começa a perder velocidade à razão de, aproximadamente,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>$0,07~m.s^{-2}$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>$1,3~m.s^{-2}$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>$3.0~m.s^{-2}$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>$10~m.s^{-2}$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>$67~m.s^{-2}$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="55">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um músico sopra a extremidade aberta de um tubo de 25cm de comprimento, fechado na outra extremidade, emitindo um som na freqüência $f=1.700$ Hz. A velocidade do som no ar, nas condições do experimento, é $v=340m/s$. Dos diagramas abaixo, aquele que melhor representa a amplitude de deslocamento da onda sonora estacionária, excitada no tubo pelo sopro do músico, é:</p>
+					<image src="fuvest_1999_03_q55.png" />
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>a</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>b</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>c</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>d</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>e</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="56">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A figura abaixo mostra, numa mesma escala, o desenho de um objeto retangular e sua imagem, formada a 50cm de uma lente convergente de distância focal f. O objeto e a imagem estão em planos perpendiculares ao eixo óptico da lente.</p>
+					<image src="fuvest_1999_03_q56.png" />
+					<p>Podemos afirmar que o objeto e a imagem</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>estão do mesmo lado da lente e que $f=150cm.$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>estão em lados opostos da lente e que $f=150cm.$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>estão do mesmo lado da lente e que $f=37,5cm.$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>estão em lados opostos da lente e que $f=37,5cm.$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>podem estar tanto do mesmo lado como em lados opostos da lente e que $f=37,5cm.$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="57">
+				<classification subject="Unknown" />
+				<statement>
+					<p>As lâmpadas fluorescentes iluminam muito mais do que as lâmpadas incandescentes de mesma potência. Nas lâmpadas fluorescentes compactas, a eficiência luminosa, medida em lumens por watt ($lm/W$), é da ordem de 60 lm/W e, nas lâmpadas incandescentes, da ordem de 15 $lm/W$. Em uma residência, 10 lâmpadas incandescentes de 100W são substituídas por fluorescentes compactas que fornecem iluminação equivalente (mesma quantidade de lumens). Admitindo que as lâmpadas ficam acesas, em média, 6 horas por dia e que o preço da energia elétrica é de R\$0,20 por kW.h, a economia mensal na conta de energia elétrica dessa residência será de, aproximadamente,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>R\$ 12,00</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>R\$ 20,00</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>R\$ 27,00</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>R\$ 36,00</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>R\$ 144,00</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="58">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A figura mostra uma bomba de encher pneu de bicicleta. Quando o êmbolo está todo puxado, a uma distância de 30cm da base, a pressão dentro da bomba é igual à pressão atmosférica normal. A área da seção transversal do pistão da bomba é 24 $cm^{2}$. Um ciclista quer encher ainda mais o pneu da bicicleta que tem volume de 2,4 litros e já está com uma pressão interna de 3atm. Ele empurra o êmbolo da bomba até o final de seu curso. Suponha que o volume do pneu permaneça constante, que o processo possa ser considerado isotérmico e que o volume do tubo que liga a bomba ao pneu seja desprezível. A pressão final do pneu será, então, de aproximadamente:</p>
+					<image src="fuvest_1999_03_q58.png" />
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>1,0atm</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>3,0atm</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>3,3atm</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>3,9atm</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>4,0atm</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="59">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um disco de raio r gira com velocidade angular w constante. Na borda do disco, está presa uma placa fina de material facilmente perfurável. Um projétil é disparado com velocidade v em direção ao eixo do disco, conforme mostra a figura, e fura a placa no ponto A. Enquanto o projétil prossegue sua trajetória sobre o disco, a placa gira meia circunferência, de forma que o projétil atravessa mais uma vez o mesmo orifício que havia perfurado. Considere a velocidade do projétil constante e sua trajetória retilínea. O módulo da velocidade v do projétil é:</p>
+					<image src="fuvest_1999_03_q59.png" />
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>$wr/\pi$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>$2wr/\pi$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>$wr/2\pi$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>wr</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>$\pi w/r$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="60">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um objeto de massa 8,0 kg e volume 1,0 litro está imerso em um líquido, de densidade igual à da água, contido num grande recipiente, como mostra a figura. O objeto se move para baixo com velocidade constante $v=0,20~m/s$, devido à ação conjunta da gravidade, do empuxo e da resistência viscosa do líquido ao movimento.</p>
+					<image src="fuvest_1999_03_q60.png" />
+					<p>Podemos afirmar que a quantidade de energia transformada em calor, a cada segundo, no sistema "objeto líquido" é de:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>0,0 J</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>0,14 J</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>0,16 J</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>14 J</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>16 J</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+	</subject>
+	<subject name="QUÍMICA">
+		<question_group>
+			<objective_question number="61">
+				<classification subject="Unknown" />
+				<statement>
+					<p>No ar das grandes cidades, são encontrados hidrocarbonetos e aldeídos como poluentes. Estes provêm da utilização, pelos meios de transporte, respectivamente, de</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>metanol e etanol.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>metanol e gasolina.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>etanol e óleo diesel.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>gasolina e etanol.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>gasolina e óleo diesel.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="62">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Uma solução aquosa de iodeto de potássio (KI) foi eletrolisada, usando-se a aparelhagem esquematizada na figura.</p>
+					<image src="fuvest_1999_03_q62.png" />
+					<p>Após algum tempo de eletrólise, adicionaram-se algumas gotas de solução de fenolftaleína na região do eletrodo A e algumas gotas de solução de amido na região do eletrodo B. Verificou-se o aparecimento da cor rosa na região de A e da cor azul (formação de iodo) na região de B.</p>
+					<p>Nessa eletrólise,</p>
+					<p>I) no pólo negativo, ocorre redução da água com formação de OH⁻ e de $H_{2}$.</p>
+					<p>II) no pólo positivo, o iodeto ganha elétrons e forma iodo.</p>
+					<p>III) a grafite atua como condutora de elétrons.</p>
+					<p>Dessas afirmações, apenas a</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>I é correta.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>II é correta.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>III é correta.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>I e a III são corretas.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>II e a III são corretas.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="63">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A criação de camarão em cativeiro exige, entre outros cuidados, que a água a ser utilizada apresente pH próximo de 6. Para tornar a água, com pH igual a 8,0, adequada à criação de camarão, um criador poderia</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>adicionar água de cal.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>adicionar carbonato de sódio sólido.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>adicionar solução aquosa de amônia.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>borbulhar, por certo tempo, gás carbônico.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>borbulhar, por certo tempo, oxigênio.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="64">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Foram realizados quatro experimentos. Cada um deles consistiu na adição de solução aquosa de ácido sulfúrico de concentração 1 mol/L a certa massa de ferro. A $25^{\circ}C$ e 1 atm, mediram-se os volumes de hidrogênio desprendido em função do tempo. No final de cada experimento, sempre sobrou ferro que não reagiu. A tabela mostra o tipo de ferro usado em cada experimento, a temperatura e o volume da solução de ácido sulfúrico usado.</p>
+					<p>
+| Experimento | Material | Temperatura/°C | Volume da solução de $H_{2}SO_{4}/mL$ |
+| :---: | :---: | :---: | :---: |
+| A | pregos | 60 | 50 |
+| B | limalha | 60 | 50 |
+| C | limalha | 60 | 80 |
+| D | limalha | 40 | 80 |
+</p>
+					<p>O gráfico mostra os resultados.</p>
+					<image src="fuvest_1999_03_q64.png" />
+					<p>As curvas de 1 a 4 correspondem, respectivamente, aos experimentos</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>D, C, A, B</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>D, C, B, A</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>B, A, C, D</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>C, D, A, B</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>C, D, B, A</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="65">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Certo refrigerante é engarrafado, saturado com dióxido de carbono ($CO_{2}$) a $5^{\circ}C$ e 1 atm de $CO_{2}$ e então fechado. Um litro desse refrigerante foi mantido algum tempo em ambiente à temperatura de $30^{\circ}C$. Em seguida, a garrafa foi aberta ao ar (pressão atmosférica = 1 atm) e agitada até praticamente todo o $CO_{2}$ sair. Nessas condições ($30^{\circ}C$ e 1 atm), qual o volume aproximado de $CO_{2}$ liberado?</p>
+					<p>Dados: massa molar do $CO_{2}=44g/mol$</p>
+					<p>volume molar dos gases a 1 atm e $30^{\circ}C=25L/mol$</p>
+					<p>solubilidade do $CO_{2}$ no refrigerante a $5^{\circ}C$ e sob 1 atm de $CO_{2}=3,0~g/L.$</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>0,40 L</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>0,85 L</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>1,7 L</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>3,0 L</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>4,0 L</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="66">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O esmalte dos dentes é principalmente hidroxiapatita que, sob certas condições, sofre dissolução (desmineralização), o que provoca a cárie.</p>
+					<p>$Ca_{10}(PO_{4})_{6}(OH)_{2} \rightleftharpoons 10Ca^{2+} + 6PO_{4}^{3-} + 2OH^{-}$</p>
+					<p>A seta para a direita indica desmineralização e a para a esquerda, mineralização.</p>
+					<p>Provoca desmineralização bochechar com</p>
+					<p>I) uma solução aquosa de hipoclorito de sódio (pH=9);</p>
+					<p>II) uma solução aquosa de cloreto de sódio (soro fisiológico);</p>
+					<p>III) vinagre diluído em água.</p>
+					<p>Dessas afirmações, apenas</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>a I é correta.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>a II é correta.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>a III é correta.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>a I e a II são corretas.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>a II e a III são corretas.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="67">
+				<classification subject="Unknown" />
+				<statement>
+					<p>NaCl e KCl são sólidos brancos cujas solubilidades em água, a diferentes temperaturas, são dadas pelo gráfico abaixo.</p>
+					<image src="fuvest_1999_04_q67.png" />
+					<p>Para distinguir os sais, três procedimentos foram sugeridos:</p>
+					<p>I) Colocar num recipiente 2,5 g de um dos sais e 10,0 mL de água e, em outro recipiente, 2,5 g do outro sal e 10,0 mL de água. Agitar e manter a temperatura de $10^{\circ}C$.</p>
+					<p>II) Colocar num recipiente 3,6 g de um dos sais e 10,0 mL de água e, em outro recipiente, 3,6 g do outro sal e 10,0 mL de água. Agitar e manter a temperatura de $28^{\circ}C$.</p>
+					<p>III) Colocar num recipiente 3,8 g de um dos sais e 10,0 mL de água e, em outro recipiente, 3,8 g do outro sal e 10,0 mL de água. Agitar e manter a temperatura de $45^{\circ}C$.</p>
+					<p>Pode-se distinguir esses dois sais somente por meio</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>do procedimento Ι.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>do procedimento II.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>do procedimento III.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>dos procedimentos I e II.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>dos procedimentos I e III.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="68">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Fórmula de alguns constituintes nutricionais:</p>
+					<image src="fuvest_1999_04_q68.png" />
+					<p>A, B e C são os constituintes nutricionais principais, respectivamente, dos alimentos:</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>batata, óleo de cozinha e farinha de trigo.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>farinha de trigo, gelatina e manteiga.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>farinha de trigo, batata e manteiga.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>óleo de cozinha, manteiga e gelatina.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>óleo de cozinha, gelatina e batata.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="69">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um rio nasce numa região não poluída, atravessa uma cidade com atividades industriais, onde recebe esgoto e outros efluentes, e desemboca no mar após percorrer regiões não poluidoras. Qual dos gráficos abaixo mostra o que acontece com a concentração de oxigênio ($O_{2}$) dissolvido na água, em função da distância percorrida desde a nascente?</p>
+					<p>Considere que o teor de oxigênio no ar e a temperatura sejam praticamente constantes em todo o percurso.</p>
+					<image src="fuvest_1999_04_q69.png" />
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>a</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>b</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>c</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>d</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>e</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="70">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Em um laboratório, três frascos com líquidos incolores estão sem os devidos rótulos. Ao lado deles, estão os três rótulos com as seguintes identificações: ácido etanóico, pentano e 1-butanol. Para poder rotular corretamente os frascos, determinam-se, para esses líquidos, o ponto de ebulição (P.E.) sob 1 atm e a solubilidade em água (S) a $25^{\circ}C$.</p>
+					<p>
+| Líquido | P.E./°C | S/(g/100mL) |
+| :---: | :---: | :---: |
+| X | 36 | 0,035 |
+| Y | 117 | 7,3 |
+| Z | 118 | infinita |
+</p>
+					<p>Com base nessas propriedades, conclui-se que os líquidos X, Y e Z são, respectivamente,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>pentano, 1-butanol e ácido etanóico.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>pentano, ácido etanóico e 1-butanol.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>1-butanol, ácido etanóico e pentano.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>ácido etanóico, pentano e 1-butanol.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>1-butanol, pentano e ácido etanóico.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="71">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Um processo de obtenção de níquel consiste em:</p>
+					<p>I. separação do sulfeto de níquel, $Ni_{2}S_{3}$, do minério pentlandita (constituído dos sulfetos de níquel e ferro);</p>
+					<p>II. aquecimento do sulfeto de níquel ao ar, com formação do óxido de níquel, NiO, e de dióxido de enxofre;</p>
+					<p>III. aquecimento do óxido de níquel, em forno com carvão, obtendo-se o metal e monóxido de carbono.</p>
+					<p>A equação química global que representa a transformação do sulfeto ao metal é</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>$Ni_{2}S_{3}+3O_{2}\rightarrow2Ni+3SO_{2}$</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>$Ni_{2}S_{3}+4O_{2}\rightarrow2NiO+3SO_{2}$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>$Ni_{2}S_{3}+5O_{2}+2C\rightarrow2Ni+3SO_{2}+2CO_{2}$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>$Ni_{2}S_{3}+4O_{2}+2C\rightarrow2Ni+3SO_{2}+2CO$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>$Ni_{2}S_{3}+O_{2}+2C\rightarrow2Ni+3S+2CO$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="72">
+				<classification subject="Unknown" />
+				<statement>
+					<p>$H_{2}(g)$ e $Cl_{2}(g)$ estão contidos em balões interligados por meio de um tubo com torneira, nas condições indicadas no desenho.</p>
+					<image src="fuvest_1999_04_q72.png" />
+					<p>Ao se abrir a torneira, os gases se misturam e a reação entre eles é iniciada por exposição à luz difusa. Forma-se então HCl(g), em uma reação completa, até desaparecer totalmente pelo menos um dos reagentes. Quanto vale a razão entre as quantidades, em mols, de $Cl_{2}(g)$ e de HCl(g), após o término da reação?</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>1</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>2</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>3</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>4</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>6</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="73">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Algumas argilas do solo têm a capacidade de trocar cátions da sua estrutura por cátions de soluções aquosas do solo. A troca iônica pode ser representada pelo equilíbrio:</p>
+					<p>$R^{-}Na^{+}(s)+{NH_{4}}^{+}(aq) \rightleftharpoons R^{-}{NH_{4}}^{+}(s)+Na^{+}(aq)$,</p>
+					<p>onde R⁻ representa parte de uma argila. Se o solo for regado com uma solução aquosa de um adubo contendo $NH_{4}NO_{3}$, o que ocorre com o equilíbrio acima?</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>Desloca-se para o lado do $Na^{+}(aq)$.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>Desloca-se para o lado do ${NH_{4}}^{+}(aq)$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>O valor de sua constante aumenta.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>O valor de sua constante diminui.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>Permanece inalterado.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="74">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Certo gás X é formado apenas por nitrogênio e oxigênio. Para determinar sua fórmula molecular, comparou-se esse gás com o metano ($CH_{4}$). Verificou-se que volumes iguais dos gases X e metano, nas mesmas condições de pressão e temperatura, pesaram, respectivamente, 0,88 g e 0,32 g. Qual a fórmula molecular do gás X?</p>
+					<p>Massas molares (g/mol): H = 1; C = 12; N = 14; O = 16</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>NO</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>$N_{2}O$</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>$NO_{2}$</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>$N_{2}O_{3}$</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>$N_{2}O_{5}$</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="75">
+				<classification subject="Unknown" />
+				<statement>
+					<p>A heroína (B) pode ser obtida a partir da morfina (A) por reação de esterificação:</p>
+					<image src="fuvest_1999_04_q75.png" />
+					<p>Com relação a essa reação, considere as seguintes afirmações:</p>
+					<p>I) É preservado o anel aromático.</p>
+					<p>II) É preservada a função amina.</p>
+					<p>III) Reagem tanto o grupo -OH alcoólico quanto o -OH fenólico.</p>
+					<p>Dessas afirmações</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>apenas a I é correta.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>apenas a II é correta.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>apenas a III é correta.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>apenas a I e a II são corretas.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>a I, a II e a III são corretas.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="76">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Têm-se amostras de 3 gases incolores X, Y e Z que devem ser $H_{2}$, He e $SO_{2}$, não necessariamente nesta ordem. Para identificá-los, determinaram-se algumas de suas propriedades, as quais estão na tabela abaixo:</p>
+					<p>
+| Propriedade | X | Y | Z |
+| :--- | :---: | :---: | :---: |
+| solubilidade em água | alta | baixa | baixa |
+| reação com oxigênio na presença de catalisador | ocorre | ocorre | não ocorre |
+| reação com solução aquosa de uma base | ocorre | não ocorre | não ocorre |
+</p>
+					<p>Com base nessas propriedades, conclui-se que X, Y e Z são, respectivamente,</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>$H_{2}$, He e $SO_{2}$.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>$H_{2}$, $SO_{2}$ e He.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>He, $SO_{2}$ e $H_{2}$.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>$SO_{2}$, He e $H_{2}$.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>$SO_{2}$, $H_{2}$ e He.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="77">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Os ácidos graxos podem ser saturados ou insaturados. São representados por uma fórmula geral RCOOH, em que R representa uma cadeia longa de hidrocarboneto (saturado ou insaturado). Dados os ácidos graxos abaixo, com os seus respectivos pontos de fusão,</p>
+					<p>
+| ácido graxo | fórmula | $P.F./^{\circ}C$ |
+| :--- | :---: | :---: |
+| linoleico | $C_{17}H_{29}COOH$ | -11 |
+| erúcico | $C_{21}H_{41}COOH$ | 34 |
+| palmítico | $C_{15}H_{31}COOH$ | 63 |
+</p>
+					<p>temos, à temperatura ambiente de $20^{\circ}C$, como ácido insaturado no estado sólido apenas o</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>linoleico.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>erúcico.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>palmítico.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>linoleico e o erúcico.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>erúcico e o palmítico.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="78">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Uma instalação petrolífera produz 12,8 kg de SO2 por hora. A liberação desse gás poluente pode ser evitada usando-se calcário, o qual por decomposição fornece cal, que reage com o $SO_{2}$ formando $CaSO_{3}$, de acordo com as equações:</p>
+					<p>$CaCO_{3}(s)\rightarrow CaO(s)+CO_{2}(g)$</p>
+					<p>$CaO(s)+SO_{2}(g)\rightarrow CaSO_{3}(s)$</p>
+					<p>Qual a massa mínima de calcário (em kg), por dia, necessária para eliminar todo o $SO_{2}$ formado? Suponha 100% de rendimento para as reações.</p>
+					<p>Massas molares (g/mol): $CaCO_{3}$....100; $SO_{2}$.......64</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>128</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>240</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>480</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>720</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>1200</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="79">
+				<classification subject="Unknown" />
+				<statement>
+					<p>O esquema simplificado abaixo mostra como se pode obter ácido nítrico, $HNO_{3}$, a partir de ar e água:</p>
+					<image src="fuvest_1999_04_q79.png" />
+					<p>Nesse esquema, água, NH3 e $NO_{2}$ sofrem, respectivamente,</p>
+					<p>Obs.: desproporcionamento = oxidação e redução simultânea do mesmo elemento numa dada substância.</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>redução, oxidação e desproporcionamento.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>eletrólise, redução e desproporcionamento.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>desproporcionamento, combustão e hidratação.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>hidratação, combustão e oxidação.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>redução, hidratação e combustão.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+
+		<question_group>
+			<objective_question number="80">
+				<classification subject="Unknown" />
+				<statement>
+					<p>Os poliésteres são polímeros fabricados por condensação de dois monômeros diferentes, em sucessivas reações de esterificação. Dentre os pares de monômeros abaixo,</p>
+					<image src="fuvest_1999_04_q80.png" />
+					<p>poliésteres podem ser formados</p>
+				</statement>
+				<options>
+					<option label="A" is_correct="false">
+						<p>por todos os pares.</p>
+					</option>
+					<option label="B" is_correct="false">
+						<p>apenas pelos pares II, III e IV.</p>
+					</option>
+					<option label="C" is_correct="false">
+						<p>apenas pelos pares II e III.</p>
+					</option>
+					<option label="D" is_correct="false">
+						<p>apenas pelos pares I e IV.</p>
+					</option>
+					<option label="E" is_correct="false">
+						<p>apenas pelo par IV.</p>
+					</option>
+				</options>
+			</objective_question>
+		</question_group>
+	</subject>
+</exam>

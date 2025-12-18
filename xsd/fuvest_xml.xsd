@@ -593,6 +593,7 @@
 			<xs:element ref="footnote"/>
 			<xs:element ref="image"/>
 			<xs:element ref="list"/>
+			<xs:element ref="ordered_list"/>
 			<xs:element ref="table"/>
 		</xs:choice>
 	</xs:complexType>
@@ -683,6 +684,7 @@
 						<xs:attribute name="success_rate" type="Percentage"/>
 					</xs:complexType>
 				</xs:element>
+				
 				<!-- Objective Question tag -->
 				<xs:element name="discursive_question">
 					<xs:complexType>
@@ -698,6 +700,21 @@
 						<xs:attribute name="success_rate" type="Percentage"/>
 					</xs:complexType>
 				</xs:element>
+				
+				<!-- Essay Question tag -->
+				<xs:element name="essay_question">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="statement" type="StatementChilds"/>
+							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
+						</xs:sequence>
+						<!-- Attributes -->
+						<xs:attribute name="number" type="xs:integer" use="required"/>
+						<xs:attribute name="null" type="xs:boolean"/>
+					</xs:complexType>
+				</xs:element>
+				
+				
 			</xs:choice>
 		</xs:sequence>
 	</xs:complexType>

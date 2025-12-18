@@ -1,0 +1,1948 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FATEC" year="2026" phase="objective" day="1" variation="V1" date="2025-12-01" lang="pt-br">
+	<question_group>
+		<objective_question number="01">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Os grupos sanguíneos humanos são classificados, pelo sistema <i>ABO,</i> em 4 tipos: <i>A,</i>
+					<i>B,</i>
+					<i>AB</i> e <i>O.</i> No quadro, estão apresentadas as substâncias existentes nas hemácias e no plasma de cada tipo sanguíneo.</p>
+				<table width="100">
+					<header>
+						<cell>
+							<p>Grupo sanguíneo</p>
+						</cell>
+						<cell>
+							<p>Aglutinogênio ou Antígeno (nas hemácias)</p>
+						</cell>
+						<cell>
+							<p>Aglutinina ou Anticorpo (no plasma)</p>
+						</cell>
+					</header>
+					<row>
+						<cell>
+							<p>
+								<b>
+									<i>A</i>
+								</b>
+							</p>
+						</cell>
+						<cell>
+							<p>
+								<i>A</i>
+							</p>
+						</cell>
+						<cell>
+							<p>
+								<i>anti-B</i>
+							</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>
+								<b>
+									<i>B</i>
+								</b>
+							</p>
+						</cell>
+						<cell>
+							<p>
+								<i>B</i>
+							</p>
+						</cell>
+						<cell>
+							<p>
+								<i>anti-A</i>
+							</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>
+								<b>
+									<i>AB</i>
+								</b>
+							</p>
+						</cell>
+						<cell>
+							<p>
+								<i>A</i> e <i>B</i>
+							</p>
+						</cell>
+						<cell>
+							<p>-</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>
+								<b>
+									<i>O</i>
+								</b>
+							</p>
+						</cell>
+						<cell>
+							<p>-</p>
+						</cell>
+						<cell>
+							<p>
+								<i>anti-A</i> e <i>anti-B</i>
+							</p>
+						</cell>
+					</row>
+				</table>
+				<p>Considerando as informações sobre os tipos sanguíneos do sistema <i>ABO,</i> em um processo de transfusão de sangue, é correto afirmar que uma pessoa</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>do grupo sanguíneo <i>O</i> pode receber sangue de qualquer outro grupo sanguíneo.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>do grupo sanguíneo <i>AB</i> pode receber sangue apenas de pessoas do grupo sanguíneo <i>O.</i>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>do grupo sanguíneo <i>AB</i> pode doar sangue apenas para pessoas do grupo sanguíneo <i>AB.</i>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>do grupo sanguíneo <i>A</i> pode doar sangue para pessoas do grupo B e do grupo <i>AB.</i>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>do grupo sanguíneo <i>B</i> pode receber sangue de pessoas do grupo O e do grupo <i>AB.</i>
+					</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="02">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O ponto de compensação fótico (PCF) de uma planta ocorre quando as taxas de fotossíntese e de respiração celular são iguais para a mesma intensidade luminosa, como representado no gráfico.</p>
+				<image src="fatec/2026/semestre01/q02.png" />
+				<caption align="center">Gráfico do Ponto de compensação fótico</caption>
+				<p>No PCF, todo o gás oxigênio liberado na fotossíntese é utilizado na respiração e todo gás carbônico produzido na respiração é utilizado na fotossíntese, não havendo, portanto, um excedente de matéria orgânica (açúcares) e do gás oxigênio. Para poder crescer, as plantas precisam receber a intensidade luminosa acima da intensidade luminosa do seu PCF pelo menos por algumas horas do dia. Isso deve acontecer a fim de que a taxa de fotossíntese exceda a taxa de respiração.</p>
+				<p>Considerando as informações do texto, se uma planta ficar com intensidade luminosa abaixo da intensidade luminosa do seu PCF por um período prolongado, ela deverá</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>continuar viva, mas morrerá após um determinado tempo, porque irá consumir mais matéria orgânica do que produzirá e não terá reservas suficientes de energia para sobreviver.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>continuar viva, mas parará de crescer, porque produz menos matéria orgânica pela respiração celular do que a consumida pelo processo da fotossíntese.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>morrer rapidamente, porque perderá a capacidade de retirar do meio ambiente os nutrientes de que necessita para sobreviver.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>continuar viva e crescendo, porque retira do solo os nutrientes, a água e os sais minerais de que precisa para sobreviver.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>continuar viva e crescendo, porque produz mais matéria orgânica pela fotossíntese do que a consumida pela respiração.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="03">
+			<classification subject="Unknown" />
+			<statement>
+				<image src="fatec/2026/semestre01/q03.png" />
+				<p>A análise do heredograma representado permite concluir corretamente que:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>o indivíduo 3 só pode ser homozigoto.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>os indivíduos 1 e 2 são heterozigotos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a anomalia é autossômica dominante.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>os indivíduos com a anomalia são obrigatoriamente heterozigotos.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>os indivíduos sem a anomalia são obrigatoriamente heterozigotos.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="04">
+			<classification subject="Unknown" />
+			<statement>
+				<p>As verminoses são doenças causadas por parasitas que se instalam geralmente no intestino. Uma das formas mais comuns de transmissão de verminoses é a via fecal-oral, na qual os ovos de parasitas presentes nas fezes de um indivíduo infectado são transferidos para a boca de uma pessoa suscetível. Isso pode ocorrer por meio da ingestão de água ou de alimentos contaminados ou por contato direto com superfícies sujas e mãos não lavadas.</p>
+				<p>Um tipo de verminose que é transmitida pela forma descrita no texto é</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a esquistossomose.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a leptospirose.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a ascaridíase.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a teníase.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a filariose.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="05">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O Brasil abriga uma ampla variedade de serpentes, abelhas do gênero Apis, aranhas, escorpiões e outros animais peçonhentos, cujas picadas, ferroadas ou mordidas podem resultar em graves consequências para a saúde humana.</p>
+				<p>Sobre os animais citados no texto, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>atuam como parasitas nos seres humanos e nos animais domesticados, causando doenças, alergias e dor.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>possuem esqueleto externo quitinoso, rígido e resistente, o qual é trocado periodicamente para poderem crescer.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>os escorpiões, as aranhas e as abelhas são insetos importantes, pois atuam como consumidores primários nas cadeias alimentares.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>as serpentes possuem quelíceras inoculadoras de veneno na região bucal, a fim de paralisar a presa e iniciar o processo digestivo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o escorpião usa o ferrão, localizado na ponta de sua cauda, para injetar o veneno, provocando dor local e a necessidade de atendimento médico.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="06">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Um exemplo do emprego da biotecnologia em técnicas de engenharia genética é a produção de medicamentos como a insulina. O uso em larga escala de insulina sintética produzida a partir de bactérias, como a Escherichia coli, é um exemplo de como a tecnologia do DNA recombinante é aplicada para criar organismos geneticamente modificados, que se tornam <q>fábricas</q> de insulina, que é então colhida, purificada e usada no tratamento de seres humanos com diabetes.</p>
+				<p>Entre as características da tecnologia citada no texto, se destaca</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>o enorme avanço científico na cura dos pacientes diabéticos por meio da produção de vacinas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a produção de proteínas humanas pela técnica do DNA recombinante, utilizando organismos pluricelulares, como as bactérias.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a criação da insulina sintética idêntica à produzida pelo pâncreas no corpo humano para o tratamento de pacientes diabéticos.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a produção de insulina sintética para pacientes diabéticos, aumentando o risco de infecções e reações imunológicas adversas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a inserção de genes humanos mutantes em animais, que passam a produzir proteínas humanas para serem utilizadas na cura de pacientes diabéticos.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="07">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Analise a placa de identificação de dados técnicos colocada no produto denominado escova secadora rotativa da marca Physics:</p>
+				<image src="fatec/2026/semestre01/q07.png" />
+				<p>A partir das informações apresentadas na placa e desprezando as possíveis perdas de energia, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a corrente elétrica nominal de operação é de 10 A.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>127 V equivale à potência nominal útil de operação.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>1270 W corresponde à ddp máxima aplicada à escova.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>60 Hz equivale à frequência de rotação da escova secadora.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a temperatura ambiente para uso deve estar entre 25~°C e 150~°C.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="08">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O sistema chamado <i>grooving</i> consiste na criação de ranhuras transversais em superfícies de concreto para aumentar a tração e facilitar a drenagem da água. Essa técnica é especialmente útil em rodovias e pistas de pouso e decolagem, pois reduz os riscos de derrapagem e de hidroplanagem.</p>
+				<p>Com base nas informações do texto, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>o <i>grooving</i> permite a ação de uma maior força de atrito entre o pneu e o piso.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>não há coeficiente de atrito estático ou dinâmico entre água e a borracha do pneu.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>as ranhuras permitem o acúmulo de água e, consequentemente, maior segurança.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a hidroplanagem faz com que haja um aumento na força de atrito entre a água e o pneu.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a drenagem da água provocada pelo grooving aumenta a chance de derrapagem do avião ao pousar.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<p>Código de barras lineares é formado por barras pretas e brancas paralelas. Para sua leitura, são utilizados <q>leitores ópticos</q>. Esses leitores utilizam um LED o qual emite feixes de luz, geralmente vermelha ou infravermelha, que, ao refletir, é captada por um fotodiodo e convertida em corrente elétrica. Essa corrente é amplificada e transformada em sinal digital (0 e 1) de acordo com as barras, que são decodificadas por um algoritmo no processador acoplado ao leitor óptico.</p>
+		</context>
+
+		<objective_question number="09">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Com base nessas informações, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>as barras pretas refletem a luz recebida e as brancas a absorvem.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a luz infravermelha é absorvida pelo ar antes de chegar às barras paralelas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>o algoritmo do processador define a sequência em que as barras serão impressas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a corrente elétrica estabelecida pelo decodificador é provocada pelos sinais digitais 0 e 1.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a energia captada pelos leitores ópticos origina-se de ondas eletromagnéticas transversais.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="10">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Suponha que, em uma leitura de código de barras, um leitor óptico emite um feixe de laser na faixa do espectro infravermelho. Considere que <m>c\cong3,0\times10^{8}m/s;</m> e que <m>\lambda\cong1~000~mm=1~000\times10^{-9}m</m>. Sendo <m>c=\lambda\cdot f</m>, podemos afirmar corretamente que a ordem de grandeza da frequência f, em Hz, é</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>10^{16}</m>
+					</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>
+						<m>10^{14}</m>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>
+						<m>10^{12}</m>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>10^{10}</m>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<m>10^{8}</m>
+					</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="11">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Observe a imagem que tem circulado nas mídias sociais:</p>
+				<image src="fatec/2026/semestre01/q11.png" />
+				<cite>https://tinyurl.com/yfrddjc4 Acesso em 21.08.2025. Original colorido.</cite>
+				<p>Suponhamos que a bailarina esteja saltando no cabo de uma colher com a finalidade de jogar o cubo de açúcar, localizado na outra extremidade da colher, dentro da caneca, de forma certeira. No momento exato em que a bailarina atingir completamente o cabo, o açúcar será lançado.</p>
+				<p>Nesse caso, desprezando a resistência do ar, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a força horizontal de reação da bailarina sobre o cubo de açúcar será diferente de zero.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o cubo de açúcar traçará uma trajetória horizontal e retilínea.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a bailarina deixará de sofrer ação da força gravitacional.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>uma força vertical para baixo sobre o cubo de açúcar o impulsionará para cima.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o cubo de açúcar atingirá a caneca descrevendo uma trajetória parabólica.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="12">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O termo terras-raras se refere, na verdade, a um grupo de 17 elementos químicos. Desses elementos, destaca-se o Neodímio (<c>Nd</c>). Sua combinação de propriedades magnéticas e ópticas o torna muito importante para equipamentos eletrônicos e sistemas de defesa. Quando associado ao Ferro (<c>Fe</c>) e ao Boro (<c>B</c>), forma uma liga que se torna um poderoso ímã permanente.</p>
+				<p>Com base nas informações do texto sobre esse ímã criado e feito da liga descrita, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a utilização do Neodímio é opcional na construção da liga magnética.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>é encontrado diretamente na Natureza e é o responsável pelo campo geomagnético.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>possui um monopolo magnético com orientação única definida apenas como N (norte) ou apenas como S (sul).</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>gera um intenso campo magnético com linhas de campo orientadas do polo norte para o polo sul na região externa ao imā.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>gera um fraco campo magnético interno com linhas de campo orientadas do polo leste para o oeste na região interna do ímã.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="13">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A chamada Guerra Fria foi um período histórico marcado por um conflito político-ideológico, travado entre os Estados Unidos da América e a ex-União Soviética, entre 1947 e 1991. Esse período polarizou grande parte do mundo em dois grandes blocos, um alinhando-se ao capitalismo estadunidense e outro ao socialismo soviético.</p>
+				<p>Nesse período histórico, os Estados Unidos</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>lançaram o primeiro ser humano ao espaço, dando início, no contexto da Guerra Fria, à chamada Corrida Espacial.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>lançaram a primeira bomba atômica sobre o continente europeu, provocando a Corrida Armamentista entre as duas superpotências.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>lançaram um plano de assistência econômica para os países europeus devastados pela Segunda Guerra, denominado Plano Marshall.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>criaram o Pacto de Varsóvia, uma aliança militar dos países capitalistas, para fazer frente a OTAN (Organização do Tratado do Atlântico Norte), a aliança militar dos países socialistas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>criaram o COMECON (Conselho de Ajuda Econômica Mútua) para oferecer respaldo técnico e científico para que os países da Europa Oriental, destruídos na Primeira Guerra, pudessem se reconstruir rapidamente.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="14">
+			<classification subject="Unknown" />
+			<statement>
+				<quote>
+					<p>O intemperismo é um conjunto de processos que desagregam e decompõem as rochas. O intemperismo físico ocorre basicamente por adaptações a variações de temperatura e de pressão. O intemperismo químico ocorre quando a água, em estado líquido, entra em contato com as rochas, promovendo reações químicas.</p>
+				</quote>
+				<cite>https://tinyurl.com/mtpbx9zx Acesso em: 28.08.2025. Adaptado.</cite>
+				<p>Com base no texto, é correto afirmar que o intemperismo</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>físico predomina na floresta do Congo, na África.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>físico predomina na região do Sahel, no continente africano.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>químico predomina nas regiões polares da Terra.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>químico predomina no domínio da caatinga brasileira.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>químico predomina no deserto do Atacama, situado no norte do Chile.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="15">
+			<classification subject="Unknown" />
+			<statement>
+				<quote>
+					<p>Quando o vapor d'água presente na atmosfera chega ao seu nível de saturação, ocorrem as chuvas. As chuvas denominadas __________ ocorrem quando o ar úmido é forçado a se elevar ao cruzar montanhas, formando densas nuvens que produzem precipitações (chuvas).</p>
+				</quote>
+				<cite>https://tinyurl.com/yc636rfp Acesso em: 12.09.2025. Adaptado.</cite>
+				<p>Assinale a alternativa que completa corretamente a lacuna no texto.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>ácidas</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>saraivas</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>frontais</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>convectivas</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>orográficas</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="16">
+			<classification subject="Unknown" />
+			<statement>
+				<quote>
+					<p>De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), favelas e comunidades urbanas são territórios populares originados das diversas estratégias utilizadas pela população para atender, geralmente de forma autônoma e coletiva, às suas necessidades de moradia e usos associados.</p>
+				</quote>
+				<cite>https://tinyurl.com/ywtkae6v Acesso em: 28.08.2025. Adaptado.</cite>
+				<p>A existência desses territórios populares no Brasil está vinculada à</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>incongruência das leis que versam sobre o planejamento urbano, pois não permitem a construção de moradias populares nas regiões metropolitanas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>incoerência no modelo de ocupação territorial urbana, pois inibe a construção desse tipo de moradia em morros e fundos de vale.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>inexistência de residências desocupadas nas grandes cidades, gerando escassez de imóveis para a população de baixa renda.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>insistência do poder público em proibir a verticalização destinada à moradia nas regiões centrais das grandes cidades.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>insuficiência de políticas públicas e de investimentos privados dirigidos à garantia do direito à cidade.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="17">
+			<classification subject="Unknown" />
+			<statement>
+				<quote>
+					<p>A população brasileira era de 213,4 milhões de habitantes até primeiro de julho de 2025, segundo estimativa divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O número representa uma alta de 0,39% em relação ao ano passado.</p>
+				</quote>
+				<cite>https://tinyurl.com/yc3yb3dv Acesso em: 02.09.2025. Adaptado.</cite>
+				<p>Com base no texto, é correto afirmar que a população brasileira está</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>crescendo rapidamente, pois a taxa de natalidade está em curva acelerada de crescimento.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>crescendo, porém, em ritmo cada vez mais lento, pois a taxa de fecundidade tem diminuído ao longo dos anos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>crescendo mais do que o esperado, em função do aumento significativo da taxa de crescimento vegetativo.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>crescendo de maneira bastante lenta, pois a taxa de fertilidade está em ascensão contínua desde o censo de 2010.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>crescendo exponencialmente, já que a diminuição das taxas de mortalidade fez a taxa de natalidade aumentar significativamente.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="18">
+			<classification subject="Unknown" />
+			<statement>
+				<quote>
+					<p>Negacionismo climático é toda manifestação contrária ao fenômeno do aquecimento global provocado pelo aumento das emissões antrópicas. Para a Ciência, sim, há evidências incontestáveis de que a temperatura no planeta está aumentando e deve subir ainda mais, podendo chegar a níveis perigosos se nada for feito para impedir.</p>
+				</quote>
+				<cite>https://tinyurl.com/mse5s6u9 Acesso em: 02.09.2025. Adaptado.</cite>
+				<p>O negacionismo climático <b>desconsidera</b> evidências científicas comprovadas, como</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a compreensão de que as ações humanas não acarretam o aquecimento global, cuja causa advém de processos exclusivamente naturais.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o fato de que a temperatura média global tem aumentado, sendo que a última década foi a mais quente já registrada.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a tese de que, em menos de cem anos, a Terra passará por uma nova Era do Gelo, que colocará fim aos processos de aquecimento global.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o entendimento de que a humanidade e o meio ambiente se adaptam a quaisquer mudanças e que a ciência já possui soluções técnicas para resfriar a Terra.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a certeza de que gases de efeito estufa não são os responsáveis pelo aquecimento global e que a produção desses gases vem diminuindo desde a década de 1990.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="19">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O período helenístico, iniciado por Alexandre Magno, fundiu a cultura grega com as de outros povos, impulsionando avanços em diversas áreas. Um exemplo desses avanços é o trabalho de Eratóstenes na cidade de Alexandria, no Egito. Lá, além de dirigir a famosa biblioteca, ele calculou a circunferência da Terra utilizando conhecimentos de geometria básica. Ele observou a diferença dos ângulos das sombras em duas cidades distantes (Alexandria e Syene) em um determinado dia do ano e acrescentou, aos cálculos, a medida da distância entre elas.</p>
+				<p>O cálculo de Eratóstenes</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>levou à descoberta de um novo continente, a América, séculos antes das Grandes Navegações.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>baseava-se em mitos e narrativas religiosas sobre a criação do mundo, comumente aceitos na época.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>foi encomendado pelo imperador romano Júlio César, para melhorar a qualidade dos mapas usados por suas legiões.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>provou que todo o conhecimento científico deveria ser produzido na Grécia, desvalorizando as contribuições de outras culturas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>fortaleceu a teoria de que a Terra é geodésica, e não plana, um conceito que revolucionou a Geografia e a Astronomia.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="20">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O primeiro motor a vapor foi patenteado por Thomas Savery, em 1698. Em 1712, Thomas Newcomen aperfeiçoou o projeto, criando uma bomba a vapor mais poderosa. Na década de 1760, James Watt projetou uma estrutura, chamada de condensador, que resfriava o vapor fora do cilindro principal do motor, evitando o constante aquecimento e resfriamento do cilindro e tornando o motor mais eficiente e econômico no uso do carvão, aumentando significativamente os possíveis usos para essa invenção-chave.</p>
+				<p>Assinale a alternativa que explica corretamente as consequências do aperfeiçoamento tecnológico descrito.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>A invenção de Watt popularizou a energia elétrica, que substituíu o carvão como a principal fonte de energia do século XVIII.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>A máquina de Watt era menos eficiente e potente que a de Newcomen, mas tinha custo de produção mais acessível.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>A criação de Watt foi a primeira máquina a vapor da história e não se baseou em conhecimentos ou máquinas preexistentes.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>A inovação de Watt, ao aumentar a eficiência energética, tornou a máquina a vapor economicamente viável e impulsionou a Revolução Industrial.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A intenção de Watt, ao introduzir o condensador, era substituir o uso do carvão pelo da energia hidráulica, tornando o motor mais sustentável.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="21">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O período conhecido como Belle Époque foi marcado por descobertas científicas e inovações tecnológicas que transformaram o cotidiano, a cultura e a percepção de mundo das pessoas. Novos inventos, como a lâmpada elétrica, o telefone, o gramofone e o automóvel, modernizaram as casas, aceleraram as comunicações e redefiniram os hábitos de consumo e de entretenimento de uma parcela da sociedade.</p>
+				<p>Esses avanços tecnológicos</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>eliminaram os espetáculos públicos, pois as famílias se isolaram em suas casas, sem comunicação com o mundo exterior.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>aceleraram o ritmo de vida, modernizaram os lares das elites e criaram uma cultura urbana de consumo e entretenimento.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>provocaram uma volta ao passado, marcada pela rejeição das inovações e pela valorização dos estilos artísticos medievais.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>tornaram-se acessíveis a toda a população, eliminando as diferenças sociais e criando uma homogênea cultura de massas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>foram dominados pela aristocracia rural, que controlava a produção de todas as novas tecnologias em suas propriedades no campo.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="22">
+			<classification subject="Unknown" />
+			<statement>
+				<p>
+					<q>Guerra Fria</q> é o nome dado a um período de rivalidade político-ideológica entre Estados Unidos (EUA) e União Soviética (URSS). Os dois países não se enfrentaram diretamente; a disputa entre eles se manifestou em conflitos regionais ou <q>guerras por procuração</q>, nas quais apoiavam lados opostos fornecendo armamentos, dinheiro e assessores militares.</p>
+				<p>Assinale a alternativa que apresenta, corretamente, o papel da tecnologia nos conflitos citados.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>As superpotências forneceram tecnologias e armamentos para seus aliados, utilizando os conflitos regionais para testar suas doutrinas e seus equipamentos militares.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>O uso de tecnologia foi irrelevante, já que a vitória nesses conflitos foi decidida pelo número de soldados enviados por EUA e URSS e pela motivação ideológica das tropas locais.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>A tecnologia militar utilizada era obsoleta e pouco eficaz, pois tanto EUA quanto URSS tinham medo de que armas modernas pudessem causar uma guerra nuclear total.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Uma tecnologia utilizada foi a bomba atômica, lançada por ambos os lados em várias batalhas para forçar a rendição do inimigo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Os EUA e a URSS enviaram tropas próprias, com equipamentos avançados, para lutar diretamente um contra o outro no Vietnã e na Coreia.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="23">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Quando os portugueses chegaram ao território que hoje é o Brasil, no século XVI, encontraram uma grande diversidade de povos indígenas, que desenvolveram tecnologias e técnicas de manejo da natureza originais. Uma dessas técnicas é a coivara, descrita no texto.</p>
+				<quote>
+					<p>Primeiro, derruba-se um trecho de mato, não muito grande. Depois de deixar o mato derrubado secar por um tempo, coloca-se o fogo, que limpa a área e a cobre de cinzas. Em seguida, faz-se uma limpeza na roça, tirando galhos e restos de árvores que não queimaram. Com as primeiras chuvas, plantam-se numa mesma roça diferentes espécies, como milho, feijão, mandioca, batata, cará. Esse é um jeito de garantir a fertilidade do solo e evitar pragas. Depois é só manter a roça limpa. Ainda hoje, a coivara é uma técnica praticada em todo o território brasileiro. O impacto ambiental que esta técnica provoca é pequeno porque nunca se derruba uma área grande e, além disso, depois de alguns anos de uso, a roça é abandonada e a floresta volta a crescer.</p>
+				</quote>
+				<cite>https://tinyurl.com/2brqskhm Acesso em: 10.09.2025.</cite>
+				<p>Segundo o texto, essa prática indígena</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>foi responsável pelo desmatamento de grandes áreas da Mata Atlântica já no século XVI, o que levou à extinção de espécies animais.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>é primitiva e insustentável, pois o uso do fogo causa desertificação e impede que a floresta se recupere após o abandono da roça.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>utiliza o fogo de forma controlada e permite a regeneração natural do solo, o que minimiza os impactos ambientais.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>foi copiada dos portugueses, que já praticavam a queimada em larga escala na Europa antes da chegada ao Brasil.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>tinha finalidade ritualística religiosa, sem objetivo de produção de alimentos ou manejo do solo.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="24">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A Era Vargas foi um período marcado pela centralização política e por uma forte intervenção do Estado na economia. Vargas entendia que a industrialização e o desenvolvimento tecnológico eram fundamentais para garantir a soberania e a modernização do país. Seu governo criou empresas estatais e implementou medidas e políticas para impulsionar setores estratégicos, como mostra o quadro.</p>
+				<table width="100">
+					<header>
+						<cell>
+							<p>Área</p>
+						</cell>
+						<cell>
+							<p>Medida implementada</p>
+						</cell>
+					</header>
+					<row>
+						<cell>
+							<p>Siderurgia</p>
+						</cell>
+						<cell>
+							<p>Criação da Companhia Siderúrgica Nacional (CSN)</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>Combustíveis</p>
+						</cell>
+						<cell>
+							<p>Criação do Conselho Nacional do Petróleo</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>Ciência &amp; Tecnologia</p>
+						</cell>
+						<cell>
+							<p>Criação do Conselho Nacional de Pesquisas (CNPq)</p>
+						</cell>
+					</row>
+				</table>
+				<p>Ao adotar tais medidas, Vargas pretendia</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>isolar o Brasil tecnologicamente do resto do mundo, proibindo a importação de qualquer máquina ou know-how estrangeiro.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>reduzir a presença do Estado na economia para incentivar a livre iniciativa e a concorrência entre pequenas empresas nacionais de tecnologia.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>focar exclusivamente no desenvolvimento da agricultura de exportação, modernizando as técnicas de cultivo do café para aumentar as vendas para o exterior.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>privatizar empresas estatais para atrair capital estrangeiro e permitir que o mercado internacional definisse os rumos do desenvolvimento tecnológico brasileiro.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>promover a substituição de importações e fortalecer a base industrial e tecnológica nacional, com o Estado atuando como planejador e investidor em áreas consideradas estratégicas.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<image src="fatec/2026/semestre01/q25_26.png" />
+			<cite>https://tinyurl.com/45wd4hf5 Acesso em: 11.09.2025. Original colorido.</cite>
+		</context>
+
+		<objective_question number="25">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Os pepinos acreditam que seu amigo, ao sair da piscina, está</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>cansado devido à alta temperatura da água.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>inchado devido ao ácido acético.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>desidratado devido à água salinizada.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>nauseado devido à água ionizada.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>fraco devido à água dessalinizada.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="26">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A ocorrência do verbo must no quadrinho expressa</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>dedução.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>permissão.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>habilidade.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>obrigação.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>conselho.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="27">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Leia a tirinha.</p>
+				<image src="fatec/2026/semestre01/q27.png" />
+				<quote>
+					<p>A: Could you please...</p>
+					<p>B: I already helped you once, so now be an independent woman.</p>
+					<p>B: Yes, Sir... independent, very independent, creative, strong, and... fearless!</p>
+					<p>A: What a sweetheart</p>
+					<p>C: Can I help...?</p>
+					<p>A: Not now, Henry, I'm busy being a woman!</p>
+				</quote>
+				<cite>https://tinyurl.com/4htnsnbb Acesso em: 12.09.2025.</cite>
+				<p>De acordo com a garota da tirinha, pressupõe-se que uma mulher é</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>independente, sincera e dócil.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>criativa, independente e forte.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>sincera, audaciosa e frágil.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>audaciosa, teimosa e criativa.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>forte, dócil e teimosa.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="28">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Leia o excerto de um Estudo de Caso trabalhado pela Universidade de Stanford.</p>
+				<quote>
+					<p>Brazil is an example of a country with a thriving electronic voting system. In 2000, it became the first country to have elections completely by an electronic voting system and has since remained at the forefront of the electronic voting movement.</p>
+				</quote>
+				<cite>https://tinyurl.com/3akwna7a Acesso em: 12.09.2025.</cite>
+				<p>Segundo o texto, a urna eletrônica brasileira representa um caso de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>disputas demoradas em países emergentes.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>inovação em países subdesenvolvidos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>atraso para um sistema democrático.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>vanguarda no cenário eleitoral.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>risco em eleições federais.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<verse>
+				<title>Rocket man (Elton John)</title>
+				<stanza>
+					<l>I miss the Earth so much, I miss my wife</l>
+					<l>It's lonely out in space</l>
+					<l>On such a timeless flight</l>
+					<l>(...)</l>
+					<l>Mars ain't the kind of place to raise your kids</l>
+					<l>In fact, it's cold as hell</l>
+					<l>And there's no one there to raise them if you did</l>
+				</stanza>
+			</verse>
+			<cite>https://tinyurl.com/2b5acwut Acesso em: 13.09.2025.</cite>
+		</context>
+
+		<objective_question number="29">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Na última estrofe, a expressão <i>in fact</i> reforça que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Marte não pode ser nosso lar, portanto, não poderemos criar nossos filhos lá.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Marte poderia, de fato, ser um substituto para o planeta Terra.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Marte, no entanto, traz boas perspectivas para moradia.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Marte, apesar de frio, será nossa alternativa de lar.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Marte, na verdade, é frio demais para nos abrigar.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="30">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A música de Elton John foi composta em 1972 e refere-se ao desenvolvimento da</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>clonagem de seres humanos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>inteligência artificial.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>engenharia genética.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>exploração espacial.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>internet.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="31">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Em 2018, o Brasil adotou um novo sistema de placas de veículos, o Mercosul, com o formato LLL NL NN, em que L representa uma letra do alfabeto romano (de 26 letras); e N representa um algarismo (de 0 a 9).</p>
+				<p>Assinale a alternativa que indica corretamente quantas placas diferentes, seguindo o padrão Mercosul, podem ser formadas utilizando apenas as vogais do alfabeto romano.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>125 000 placas</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>200 000 placas</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>456 976 placas</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>625 000 placas</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>676 000 placas</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<quote>
+				<p>Foi inaugurada, em dezembro de 2022, na zona Oeste da cidade de São Paulo, a maior roda-gigante da América Latina, que tem 80 metros de diâmetro.</p>
+			</quote>
+			<cite>https://tinyurl.com/36bcbr2x Acesso em: 28.09.2025. Adaptado.</cite>
+		</context>
+
+		<objective_question number="32">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O comprimento, em metros, de uma circunferência que possua diâmetro igual ao da roda gigante mencionada no texto é de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>80\pi</m>.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>
+						<m>160\pi</m>.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>
+						<m>320\pi</m>.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>3~200\pi</m>.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<m>6~400\pi</m>.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="33">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Suponha que, durante o passeio na roda gigante mencionada no texto, a altura de uma cabine possa ser modelada pela função:
+				<math>h(t)=51-40~cos(\frac{\pi}{15}t)</math>
+				em que <m>h(t)</m> é a altura, em metros, da cabine em relação ao solo e <m>t</m> é o tempo, em minutos, desde o início do passeio no ponto mais baixo da roda gigante <m>(t\ge0)</m>.</p>
+				<p>Assinale a alternativa que apresenta, respectivamente, a maior altura atingida pela cabine e o instante de tempo em que isso ocorre pela primeira vez.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>91 metros e 30 minutos</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>91 metros e 15 minutos</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>51 metros e 30 minutos</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>51 metros e 15 minutos</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>11 metros e 30 minutos</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="34">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O pH de uma solução pode ser calculado por meio da expressão, <m>pH=-log[H^{+}]</m>, em que <m>[H^{+}]</m> é a concentração em <m>mol/L</m> de íons de hidrogênio. Dessa forma, adotando <m>log~2=0,3</m>, uma solução que tenha <m>[H^{+}]=2\times10^{-7}mol/L</m> terá pH igual a</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>2,5.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>4,6.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>6,7.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>8,3.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>9,7.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="35">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Um plano de expansão de um provedor de internet pretende instalar 50 km de cabos no primeiro ano. A partir de então, a cada ano, a meta é instalar 15 km a mais que no ano anterior. Supondo que esse padrão seja mantido, a quantidade de cabo instalada no décimo ano será de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>125 km.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>155 km.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>185 km.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>215 km.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>245 km.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="36">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Suponha que um laboratório estime o crescimento de uma cultura bacteriana utilizando a fórmula <m>N(t)=1~000\cdot2^{\frac{t}{g}}</m>, em que <m>N(t)</m> é o número de bactérias no tempo <m>t</m> (em minutos) e <m>g</m> é o tempo de geração, ou seja, o tempo para a população bacteriana duplicar.</p>
+				<p>Em determinado experimento, após 45 minutos, uma população de bactérias chegou a 8 000 bactérias. O tempo de geração, <m>g</m>, dessa cultura bacteriana é de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>15 minutos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>18 minutos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>20 minutos.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>22 minutos.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>25 minutos.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="37">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Ao tirar fotos ou gerar imagens em preto-e-branco, os computadores armazenam essas informações como uma matriz de números inteiros que vão de 0 a 255. No exemplo, um mosaico quadriculado é armazenado por um computador como a matriz <m>A</m>.</p>
+				<image src="fatec/2026/semestre01/q37.png" />
+				<p>Essa forma de armazenamento possibilita realizar alterações na imagem. Suponha que um aplicativo de edição de imagens ofereça um filtro de edição que multiplica cada número da matriz <m>A</m> por <m>\frac{1}{2}</m>, gerando uma nova imagem representada por uma matriz <m>S</m>.</p>
+				<p>A respeito do número que ocupa a linha 2 e a coluna 3 da matriz <m>S</m>, é correto afirmar que ele é igual a</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>15.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>25.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>42.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>79.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>84.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="38">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Um drone parte de um ponto inicial A e percorre 20 km em uma trajetória retilínea formando um ângulo <m>\theta</m> com o solo, atingindo um ponto B, a uma altura <m>h</m> em relação ao solo, conforme indicado na figura.</p>
+				<image src="fatec/2026/semestre01/q38.png" />
+				<p>Adotando <m>cos~\theta=0,6</m> e <m>sen~\theta=0,8</m>, o valor de <m>h</m> é, em quilômetros,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>10.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>12.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>15.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>16.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>20.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="39">
+			<classification subject="Unknown" />
+			<statement>
+				<quote>
+					<p>Scientists long ago realized that we can't find aliens by climbing into rockets and zipping off to other planetary systems. The enormous distances to the stars (even the nearest is 7 000 times farther than Pluto) means that we simply aren't about to visit the aliens. And while some people think that the extraterrestrials may be able to come here, this is not a popular idea among most scientists.</p>
+				</quote>
+				<cite>https://tinyurl.com/mz993pa3 Acesso em: 27.09.2025. Adaptado.</cite>
+				<p>A distância média de Plutão ao Sol é de aproximadamente <m>5,9\times10^{9}</m> km, o que, de acordo com o texto, faz com que a estrela mais próxima do nosso Sistema Solar esteja a aproximadamente ________ km. Isso justifica a ideia de os seres humanos encontrarem com extraterrestres ser ________ entre a maior parte dos cientistas.</p>
+				<p>Assinale a alternativa que contém os termos, em ordem, que completam corretamente as lacunas no texto.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>4,1\times10^{10}</m> - muito popular</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>
+						<m>4,1\times10^{13}</m> - muito popular</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>
+						<m>4,1\times10^{9}</m> - pouco popular</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>4,1\times10^{10}</m> - pouco popular</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<m>4,1\times10^{13}</m> - pouco popular</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="40">
+			<classification subject="Unknown" />
+			<statement>
+				<quote>
+					<p>Um método de baixo custo desenvolvido por pesquisadores brasileiros para remover os micro e nanoplásticos da água utiliza nanopartículas magnéticas modificadas com polidopamina. Essas nanopartículas aderem firmemente aos fragmentos de plástico presentes na água. Isso permite que esse material indesejável seja removido da água com o auxílio de um ímã.</p>
+				</quote>
+				<cite>https://tinyurl.com/4tcdfz94 Acesso em: 04.09.2025. Adaptado.</cite>
+				<p>Assinale a alternativa que apresenta o nome correto do processo de separação de misturas utilizado para remover os micro e os nanoplásticos da água.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Filtração</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Catação</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Decantação</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Destilação simples</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Separação magnética</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<p>Os compostos perfluoralquilados e polifluoroalquilados (PFAS) são produzidos por meio da substituição dos átomos de hidrogênio da cadeia carbônica pelo elemento mais eletronegativo conhecido. Considere as fórmulas estruturais de dois compostos orgânicos, dos quais apenas um deles pertence ao grupo dos PFAS.</p>
+			<image src="fatec/2026/semestre01/q41_42.png" />
+		</context>
+
+		<objective_question number="41">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Assinale a alternativa que contém o valor aproximado da porcentagem em massa de carbono do composto orgânico que pertence ao grupo dos PFAS.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>11,5</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>22,4</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>34,9</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>41,1</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>56,3</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Massas molares em <m>g/mol</m>: <m>C=12</m>; <m>H=1</m>; <m>O=16</m>; <m>F=19</m>; <m>Cl=35,5</m>; <m>N=14</m>
+				</p>
+			</assumptions>
+		</objective_question>
+
+		<objective_question number="42">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A estimativa da meia-vida <m>(t_{1/2})</m> das PFAS é essencial para quantificar sua persistência, toxicidade e mecanismo de ação em humanos. Meia-vida é o intervalo de tempo necessário para a quantidade de um reagente diminuir a metade do seu valor. Suponha que um indivíduo ingeriu água contaminada com 200 mg de PFOA (ácido perfluorooctanóico) e que, após 12 anos, foram encontrados 12,5 mg de PFOA em seu organismo.</p>
+				<p>Considerando as informações apresentadas, assinale a alternativa que contém o tempo de meia-vida correto do PFOA.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>1 ano</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>2 anos</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>3 anos</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>4 anos</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>5 anos</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="43">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Circulou um boato em mídias sociais de que o sal light é tóxico, pois contém cloreto de potássio. No entanto, o cloreto de potássio (<c>KCl</c>), nas quantidades em que comumente é usado no sal light, não é considerado tóxico. Ele é um composto químico inorgânico muito semelhante ao cloreto de sódio (<c>NaCl</c>), um dos componentes do sal de cozinha.</p>
+				<p>Analisando a fórmula do cloreto de sódio e do cloreto de potássio, pode-se afirmar corretamente que uma das semelhanças entre esses dois compostos ocorre</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>na classificação como macronutrientes, já que ambos são carboidratos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>na classificação como macronutrientes, já que ambos são proteínas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>na classificação como macronutrientes, já que ambos são lipídeos.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>na ligação química, já que ambos apresentam ligações iônicas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>na ligação química, já que ambos apresentam ligações covalentes.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="44">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Quando o poli(tereftalato de etileno), denominado PET, sofre degradação, são liberados ácido tereftálico e etano-1,2-diol, conforme a equação química representada.</p>
+				<image src="fatec/2026/semestre01/q44.png" />
+				<p>Considerando as fórmulas estruturais apresentadas na equação química, assinale a alternativa que contém, respectivamente, o nome da função orgânica presente na molécula de etano-1,2-diol e a fórmula molecular correta do ácido tereftálico, respectivamente.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Álcool e <c>C2H6O2</c>
+					</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Álcool e <c>C2H2O4</c>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Álcool e <c>C8H6O4</c>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Aldeído e <c>C8H6O4</c>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Aldeído e <c>C2H2O4</c>
+					</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="45">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A primeira bateria de íons-lítio comercial foi lançada em 1991, tendo o cobaltato de lítio <c>(Li_zCoO2)</c> como material de cátodo e grafite litiada <c>(Li_yC)</c> como material de ânodo. A bateria de íons-lítio em funcionamento pode ser representada, de modo simplificado, pela figura em que X e T representam espécies dotadas de carga elétrica.</p>
+				<image src="fatec/2026/semestre01/q45.png" />
+				<cite>https://tinyurl.com/38rmdkt9 Acesso em: 20.09.2025. Adaptado.</cite>
+				<p>Ao conectar a bateria a um dispositivo, elétrons passam pelo circuito externo do polo negativo para o polo positivo da bateria e cátions fluem espontaneamente em direção ao cátodo. Com base no texto e na figura, é correto afirmar que as espécies X e T são, respectivamente,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>elétrons e íons <c>Li+</c>.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>elétrons e íons <c>O2-</c>.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>elétrons e íons <c>Co2+</c>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>íons <c>Li+</c> e elétrons.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>íons <c>Co2+</c> e elétrons.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<p>Em 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de fêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos foram lançadas em LP com o título <i>Songs of the Humpback Whale,</i> em 1970, e ajudaram a impulsionar o movimento conservacionista. Entenda no infográfico mais sobre essas músicas.</p>
+			<image src="fatec/2026/semestre01/q46_48.png" />
+			<p>A unidade é um som individual. Somada a outras, forma frases, que se agrupam em blocos maiores: os temas. Cada tema segue um padrão de repetições específico.</p>
+		</context>
+
+		<objective_question number="46">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Suponha que uma canção, cuja duração máxima está indicada no texto, seja composta pelo encadeamento sequencial do Tema 2 e do Tema 3, nessa ordem. Considere a duração de cada unidade, em segundos, como:</p>
+				<image src="fatec/2026/semestre01/q46.png" />
+				<p>Logo, a quantidade de vezes que cada um dos temas se repetirá completamente nessa canção é</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>20.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>40.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>60.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>90.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>120.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="47">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A construção de uma música é feita a partir blocos sonoros. Ao ordenarmos esses blocos, conforme sua complexidade, obtemos a sequência</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Frase <m>\rightarrow</m> Unidade <m>\rightarrow</m> Tema <m>\rightarrow</m> Música.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Unidade <m>\rightarrow</m> Tema <m>\rightarrow</m> Música <m>\rightarrow</m> Frase.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Música <m>\rightarrow</m> Tema <m>\rightarrow</m> Frase <m>\rightarrow</m> Unidade.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Unidade <m>\rightarrow</m> Frase <m>\rightarrow</m> Tema <m>\rightarrow</m> Música.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Tema <m>\rightarrow</m> Frase <m>\rightarrow</m> Música <m>\rightarrow</m> Unidade.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="48">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Suponha que o Tema 4 repita-se indefinidamente. Desse modo, a unidade que ocupa, nessa sequência, a posição correspondente ao ano de lançamento do LP mencionado no texto deve ser</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<image src="fatec/2026/semestre01/q48a.png" html_width="30" />
+				</option>
+				<option label="B" is_correct="false">
+					<image src="fatec/2026/semestre01/q48b.png" html_width="30" />
+				</option>
+				<option label="C" is_correct="false">
+					<image src="fatec/2026/semestre01/q48c.png" html_width="30" />
+				</option>
+				<option label="D" is_correct="false">
+					<image src="fatec/2026/semestre01/q48d.png" html_width="30" />
+				</option>
+				<option label="E" is_correct="false">
+					<image src="fatec/2026/semestre01/q48e.png" html_width="30" />
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="49">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Quatro hospitais A, B, C e D têm em sua farmácia, respectivamente, 850, 530, 490 e 450 doses de um determinado antibiótico.</p>
+				<p>Durante um surto de infecções resistentes, o hospital A precisará transferir doses aos outros três hospitais de modo que, ao final, todos tenham a mesma quantidade de doses. Considere que somente o hospital A realiza a transferência, que nenhum hospital receberá esse medicamento de fontes externas e que não há perdas durante esse processo.</p>
+				<p>Após as transferências, é correto afirmar que existe um hospital que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>ganhou 90 doses.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>perdeu 130 doses.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>ganhou 270 doses.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>perdeu 280 doses.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>ganhou 580 doses.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="50">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Considere as seguintes afirmações:</p>
+				<list>
+					<item>
+						<p>Todas as filhas de Rose são pesquisadoras; e</p>
+					</item>
+					<item>
+						<p>Todas as filhas de Alfredo não são pesquisadoras.</p>
+					</item>
+				</list>
+				<p>Com base nessas premissas, assinale a dedução lógica correta.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Nenhuma das filhas de Rose é pesquisadora.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Existe uma pesquisadora que é filha de Alfredo.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Nenhuma pesquisadora é filha de Rose.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Existe uma filha de Rose que é filha de Alfredo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Nenhuma das filhas de Alfredo é filha de Rose.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="51">
+			<classification subject="Unknown" />
+			<statement>
+				<quote>
+					<p>As histórias de Júlio Verne impactaram na criação de tecnologias que utilizamos hoje, pois inspiraram inventores como o estadunidense Simon Lake, o brasileiro Santos Dumont e o russo Konstantin Tsiolkovsky.</p>
+				</quote>
+				<cite>https://tinyurl.com/489jpjss Acesso em: 05.09.2025. Adaptado.</cite>
+				<p>Sobre os inventores mencionados, sabe-se que</p>
+				<ordered_list type="roman">
+					<item>
+						<p>um deles projetou alguns dos primeiros submarinos e é natural de um país que está no Hemisfério Ocidental;</p>
+					</item>
+					<item>
+						<p>somente um deles foi pioneiro da astronáutica e dos foguetes modernos, tendo nascido em um país, cujo nome da capital tem 6 letras;</p>
+					</item>
+					<item>
+						<p>o único nascido em um país do Hemisfério Sul não projetou alguns dos primeiros submarinos.</p>
+					</item>
+				</ordered_list>
+				<p>Fundamentado apenas nas informações apresentadas, marque a alternativa que associa corretamente o inventor com aquilo que realizou.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Lake foi um pioneiro da astronáutica e dos foguetes modernos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Lake projetou, construiu e pilotou aeronaves motorizadas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Dumont projetou alguns dos primeiros submarinos.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Tsiolkovsky projetou alguns dos primeiros submarinos.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Tsiolkovsky foi um pioneiro da astronáutica e dos foguetes modernos.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<image src="fatec/2026/semestre01/q52_53.png" />
+			<cite>https://tinyurl.com/59ts9bxu Acesso em: 14.09.2025. Original colorido.</cite>
+		</context>
+
+		<objective_question number="52">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Na tirinha, o autor se vale de uma comparação para</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>evidenciar a maneira correta de divulgar informações sobre cuidados com os animais.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>questionar a subjetividade dos conceitos de verdade e de mentira na sociedade atual.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>criticar a falta de discernimento dos indivíduos facilmente atraídos por brindes.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>esclarecer os métodos eficazes de comunicação entre os pets e seus tutores.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>explicar como ocorre o fenômeno da disseminação de informações falsas.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="53">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Assinale o provérbio que expressa de forma concisa a ideia apresentada na tirinha.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Cara de mel, coração de fel.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Quem não arrisca, não petisca.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Casa de ferreiro, espeto de pau.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Em boca fechada não entra mosca.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>De grão em grão, a galinha enche o papo.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<image src="fatec/2026/semestre01/q54_55.png" />
+			<cite>https://tinyurl.com/4h8xdakw Acesso em: 14.09.2025. Original colorido.</cite>
+		</context>
+
+		<objective_question number="54">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Na frase <q>É uma pena que elas apenas dão o oxigênio que respiramos.</q>, ocorre a figura de linguagem chamada</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>ironia.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>anáfora.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>eufemismo.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>catacrese.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>onomatopeia.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="55">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O meme apresentado, além de gerar humor, cumpre também a finalidade de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>conscientizar as pessoas sobre tópicos importantes para a sociedade.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>convencer as pessoas a consumirem determinado produto.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>expor dados sobre um assunto para informar as pessoas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>ensinar as pessoas a realizarem uma receita.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>narrar uma história de superação pessoal.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<p>Na pesquisa Noções sobre a Ciência, de 2023, foi mensurado o nível de familiaridade dos entrevistados com noções elementares de Ciência. Os dados refletem a necessidade de se ampliarem políticas de disseminação de conhecimentos científicos, visando reforçar a educação científica da população.</p>
+			<caption align="center">Resultado da pesquisa Noções sobre a Ciência para a afirmação <q>algumas vacinas podem causar autismo</q>.</caption>
+			<image src="fatec/2026/semestre01/q56_57.png" />
+			<cite>https://tinyurl.com/3ra4ded4 Acesso em: 14.09.2025. Adaptado.</cite>
+		</context>
+
+		<objective_question number="56">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A partir do texto e do infográfico, afirma-se corretamente que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>47% das pessoas discordam da afirmação de que as vacinas causam autismo.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>36% da população não acredita na eficácia desse método.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a maioria dos indivíduos valem-se do senso comum para desacreditar as fake news sobre vacinas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o baixo letramento científico da população potencializa a circulação de fake news.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>21% da população desconhece os meios tradicionais de informação devido ao baixo índice de desinformação.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="57">
+			<classification subject="Unknown" />
+			<statement>
+				<p>A passagem <q>visando reforçar a educação científica da população</q> pode ser substituída, sem prejuízo de sentido para o texto, por</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>porque a educação científica deve ser visada e reforçada pela população.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a fim de que a educação científica da população seja reforçada.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>uma vez que a educação científica da população foi reforçada.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>com o intuito de a população reforçar a educação científica.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>enquanto se visa reforçar a educação científica da população.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="58">
+			<classification subject="Unknown" />
+			<statement>
+				<p>Analise os gráficos apresentados.</p>
+				<image src="fatec/2026/semestre01/q58_1.png" />
+				<cite>https://tinyurl.com/3bhkpz8y Acesso em: 14.09.2025. Original colorido.</cite>
+				<image src="fatec/2026/semestre01/q58_2.png" />
+				<cite>Fonte dos dados https://tinyurl.com/5tez5bfw Acesso em: 14.09.2025.</cite>
+				<p>A partir da análise dos gráficos, conclui-se corretamente que, no Brasil,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a região Norte tem o maior percentual de professores com pós-graduação e ela também ocupa a liderança na geração de empregos nas áreas de tecnologia.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a região Nordeste, apesar de apresentar percentual alto de professores com pós-graduação, não tem nenhum estado entre os dez com mais empregos no setor tecnológico.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>o baixo percentual de docentes com pós-graduação da região Centro-Oeste acarreta a alta participação dessa região na produção de empregos na área tecnológica.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a região Sudeste apresenta um alto índice de docentes com pós-graduação e concentra também o maior número de empregos em áreas de alta tecnologia.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a região Sul tem quatro de seus estados entre aqueles com maior número de empregos no setor de tecnologia, reflexo direto do investimento em educação superior.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<quote>
+				<p>As startups do tipo <i>deep techs</i> são empresas inovadoras que objetivam fornecer soluções tecnológicas baseadas em conhecimentos científicos. Essas soluções buscam resolver problemas complexos e de alto impacto. Exemplos de <i>deep techs</i> podem ser encontrados nos segmentos de biotecnologia, em desenvolvimento de hardware e na adoção de inteligência artificial para resolver problemas complexos.</p>
+			</quote>
+			<cite>https://tinyurl.com/5d42brfe Acesso em: 14.09.2025. Adaptado.</cite>
+		</context>
+
+		<objective_question number="59">
+			<classification subject="Unknown" />
+			<statement>
+				<p>O texto apresentado tem por objetivo</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>expor o conceito de um novo tipo de empresa.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>narrar a história de surgimento de uma empresa.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>defender a superioridade das empresas tecnológicas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>descrever como funciona a comunicação entre as startups.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>angariar seguidores para um canal de tecnologia.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="60">
+			<classification subject="Unknown" />
+			<statement>
+				<p>De acordo com o texto,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>as <i>deep techs</i> buscam conectar empresas tradicionais a novos consumidores.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>as empresas chamadas <i>deep techs</i> usam tecnologia para solucionar problemas desafiadores.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>as soluções encontradas por empresas que usam inteligência artificial restringem-se a áreas irrelevantes à sociedade.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o desenvolvimento de novos aplicativos e aparelhos eletrônicos é o principal foco tanto de startups quanto de <i>deep techs</i>.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o baixo número de áreas de atuação das novas empresas de alta tecnologia limita o investimento no saber científico.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<essay_question number="61">
+			<statement>
+				<quote>
+					<title>Texto I</title>
+					<image src="fatec/2026/semestre01/essay.png" />
+				</quote>
+				<cite>https://tinyurl.com/3xr7vf4b Acesso em: 18.10.2024. Original colorido.</cite>
+				<quote>
+					<title>Texto II</title>
+					<p>Um dado importante retirado da pesquisa Truth Quest da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) é a relação com as redes. <q>No mundo inteiro, o número de pessoas que frequentemente ou às vezes obtém a informação [pelas redes sociais] é muito grande</q>, diz o diretor do Centro de Inteligência Artificial da USP. A média mundial da quantidade de informações obtidas por meio dessas mídias é de 50%. O Brasil tem a maior taxa; já os japoneses, por exemplo, consomem apenas 25% das informações por meio das redes sociais.</p>
+					<p>E não só os brasileiros são os que mais consomem, mas também os que mais confiam nas informações das mídias sociais (no Brasil, mais de 20% confiam muito). O estudo também aponta uma relação entre acreditar nas mídias sociais e não saber discernir notícias falsas de verdadeiras. Na média, aqueles que mais acreditavam nelas tiveram os piores desempenhos em identificar as fake news, acertando 54% das vezes. Quando as pessoas acreditam parcialmente nas mídias, a acurácia sobe para 59%, e sobe ainda mais (para 62%) quando elas acreditam pouco ou nada.</p>
+				</quote>
+				<cite>https://tinyurl.com/uwhhjud8 Acesso em: 14.09.2025. Adaptado.</cite>
+				<quote>
+					<title>Texto III</title>
+					<p>Para se contrapor a estes tempos de menosprezo ao conhecimento, é cada vez maior a motivação de muitos pesquisadores para usar as redes sociais como forma de divulgar seu trabalho e a ciência em geral, além de fazer uma ponte dela com a sociedade.</p>
+					<p>Para combater a disseminação de notícias inverídicas que circulam nas redes, é necessário investir mais em educação e em meios de propagar conhecimentos.</p>
+				</quote>
+				<cite>https://tinyurl.com/4wdsv2uw Acesso em: 14.09.2025. Adaptado.</cite>
+				<p>A partir da coletânea apresentada, elabore um texto narrativo ou um texto dissertativo-argumentativo explorando o seguinte tema:</p>
+				<p><b>Como utilizar a tecnologia para combater a desinformação e disseminar o conhecimento científico?</b></p>
+			</statement>
+			<assumptions>
+				<p>Orientações</p>
+				<list>
+					<item>
+						<p>Narração – explore adequadamente os elementos desse gênero: fato(s), personagem(ns), tempo e lugar.</p>
+					</item>
+					<item>
+						<p>Dissertação – selecione, organize e relacione os argumentos, fatos e opiniões para sustentar suas ideias e pontos de vista.</p>
+					</item>
+				</list>
+				<p>Ao elaborar seu texto:</p>
+				<list>
+					<item>
+						<p>Atribua um título para sua redação;</p>
+					</item>
+					<item>
+						<p>Não o redija em versos;</p>
+					</item>
+					<item>
+						<p>Organize-o em parágrafos;</p>
+					</item>
+					<item>
+						<p>Empregue apenas a norma culta da língua portuguesa;</p>
+					</item>
+					<item>
+						<p>Não copie os textos apresentados na coletânea e na prova;</p>
+					</item>
+					<item>
+						<p>Utilize apenas caneta de tinta azul ou preta para elaborar a versão definitiva;</p>
+					</item>
+					<item>
+						<p>Faça um rascunho antes de passar para a Folha de Redação</p>
+					</item>
+				</list>
+			</assumptions>
+		</essay_question>
+	</question_group>
+</exam>

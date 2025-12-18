@@ -313,7 +313,7 @@ class AbstractWriter(ABC):
         pass
 
     @abstractmethod
-    def ordered_list_start(self) -> str:
+    def ordered_list_start(self, list_type: str) -> str:
         pass
 
     @abstractmethod
@@ -1060,12 +1060,13 @@ class HtmlWriter(AbstractWriter):
 
     # List
     @override
-    def ordered_list_start(self) -> str:
-        return "<ul>\n"
+    def ordered_list_start(self, list_type: str) -> str:
+        types_dict = {"alpha": "A", "arabic": "1", "roman": "I"}
+        return f'<ol type="{types_dict[list_type]}">\n'
 
     @override
     def ordered_list_end(self) -> str:
-        return "</ul>\n\n"
+        return "</ol>\n\n"
 
     @override
     def ordered_list_item_start(self) -> str:
@@ -1290,6 +1291,9 @@ class XmlConverter:
             elif child.tag == "discursive_question":
                 raise NotImplementedError("discursive_question not implemented!")
 
+            elif child.tag == "essay_question":
+                body.append(self.render_essay_question(child))
+
             else:
                 raise ValueError("Tag not recognized!")
 
@@ -1353,6 +1357,34 @@ class XmlConverter:
         options_table = q_el.find("./options_table")
         if options_table is not None:
             parts.append(self.render_options_table(options_table))
+
+        # process the assumptions tag
+        assumptions = q_el.find("./assumptions")
+        if assumptions is not None:
+            parts.append(self.render_assumptions(assumptions))
+
+        # question close
+        parts.append(self.writer.question_end())
+
+        return "".join(parts)
+
+    #####1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
+    # Render the <objective_question> tag
+
+    def render_essay_question(self, q_el):
+        # get the <objective_question> tag attributes
+        number = q_el.get("number", "").strip()
+
+        # Variable to store the body commands create by the render functions
+        parts = []
+
+        # question header
+        parts.append(self.writer.question_start(number))
+
+        # process the statement tag
+        stmt = q_el.find("./statement")
+        if stmt is not None:
+            parts.append(self.render_statement(stmt))
 
         # process the assumptions tag
         assumptions = q_el.find("./assumptions")
@@ -1723,8 +1755,9 @@ class XmlConverter:
     # Render the <list> tag
 
     def render_ordered_list(self, ul_el) -> str:
+        list_type = ul_el.get("type", "alpha")
         parts = []
-        parts.append(self.writer.ordered_list_start())
+        parts.append(self.writer.ordered_list_start(list_type))
         for li in ul_el.findall("./item"):
             parts.append(self.writer.ordered_list_item_start())
             # render paragraphs

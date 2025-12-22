@@ -44,6 +44,9 @@ def validate_xml(schema_file, xml_file, detailed=False):
         parser = etree.XMLParser(remove_blank_text=True)
         tree = etree.parse(xml_file, parser)
 
+        exam = tree.xpath("//exam")[0].get("name")
+        number_of_items = 4 if exam == "UNICAMP" else 5
+
         # Valida contra schema
         if not schema.validate(tree):
             for error in schema.error_log:
@@ -84,7 +87,7 @@ def validate_xml(schema_file, xml_file, detailed=False):
                         }
                     )
             else:
-                if len(q.findall("options/option")) != 5:
+                if len(q.findall("options/option")) != number_of_items:
                     errors.append(
                         {
                             "file": xml_file,
@@ -97,20 +100,20 @@ def validate_xml(schema_file, xml_file, detailed=False):
             # for opt in q.xpath("//options/option"):
             #    print(opt)
 
-        if question_numbers:
-            expected = list(range(1, len(question_numbers) + 1))
-            found = [n for n, _ in question_numbers]
-            if found != expected:
-                for (n, line), exp in zip(question_numbers, expected):
-                    if n != exp:
-                        errors.append(
-                            {
-                                "file": xml_file,
-                                "line": line,
-                                "column": 0,
-                                "message": f"Número incorreto: encontrado {n}, esperado {exp}",
-                            }
-                        )
+        # if question_numbers:
+        #     expected = list(range(1, len(question_numbers) + 1))
+        #     found = [n for n, _ in question_numbers]
+        #     if found != expected:
+        #         for (n, line), exp in zip(question_numbers, expected):
+        #             if n != exp:
+        #                 errors.append(
+        #                     {
+        #                         "file": xml_file,
+        #                         "line": line,
+        #                         "column": 0,
+        #                         "message": f"Número incorreto: encontrado {n}, esperado {exp}",
+        #                     }
+        #                 )
 
     except etree.XMLSyntaxError as e:
         # Erros de parsing

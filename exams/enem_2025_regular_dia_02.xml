@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exam name="Exame Nacional do Ensino Médio" year="2025" phase="1" day="2" variation="Azul" date="2025-11-10" lang="pt-BR" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="fuvest_xml.xsd">
+  <subject name="Ciências da Natureza e suas Tecnologias">
+    <question_group>
+      <objective_question number="91">
+        <classification subject="Chemistry:Physical"/>
+        <statement>
+          <p>A filtração em carvão é uma das mais antigas formas de purificação de água. O carvão ativado, diferentemente do carvão comum, é útil para ser empregado na remoção de material orgânico, cloro e outros contaminantes. Essa capacidade decorre de suas propriedades de adsorção. A origem do material utilizado para produzir o carvão ativado pode influenciar sua porosidade e, consequentemente, interferir na capacidade do material de remover impurezas. Na figura, é ilustrada esquematicamente a diferença entre as estruturas físicas do carvão comum e do carvão ativado.</p>
+          <p>Qual característica do carvão ativado explica a sua maior eficiência nesse processo?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Massa.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Dureza.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Densidade.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>Superfície.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Condutividade.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="92">
+        <classification subject="Biology:Genetics:Biotechnology"/>
+        <statement>
+          <p>A maioria dos seres vivos tem um relógio biológico (ciclo circadiano), que regula as mudanças metabólicas e comportamentais de acordo com o ciclo de 24 horas de rotação da Terra. Em 2015, um artigo publicado na revista Science Advantage mostrou ser possível a transferência dos genes do relógio circadiano da cianobactéria <i>Synechococcus elongatus</i> para o genoma da bactéria <i>Escherichia coli</i>, um organismo não circadiano.</p>
+          <p>Estarão presentes no organismo geneticamente modificado os genes do</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>metabolismo de <i>E. coli</i>, apenas.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>ciclo circadiano de <i>E. coli</i>, apenas.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>metabolismo de <i>S. elongatus</i> e do ciclo circadiano de <i>E. coli</i>.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>ciclo circadiano de <i>S. elongatus</i> e do metabolismo de <i>E. coli</i>.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>ciclo circadiano de <i>S. elongatus</i> e do ciclo circadiano de <i>E. coli</i>.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="93">
+        <classification subject="Biology:Zoology"/>
+        <statement>
+          <p>Os funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com água. O aumento na taxa de mortalidade dessas aves estava associado a uma redução na</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>dilatação do papo.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>reposição de penas das asas.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>secreção da glândula uropigial.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>formação da membrana natatória.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>largura das cavidades de ossos pneumáticos.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="94">
+        <classification subject="Physics:Electromagnetism:Circuits"/>
+        <statement>
+          <p>Réguas elétricas são dispositivos que permitem a ligação segura e simultânea de dois ou mais aparelhos eletroeletrônicos à rede elétrica. Uma estudante comprou uma régua com seis tomadas. Essa régua suporta uma intensidade máxima de corrente elétrica igual a 20 A. Acima desse valor, o fusível de segurança da régua se rompe, inutilizando-a até que um novo fusível seja instalado. Considere as potências nominais de alguns aparelhos eletroeletrônicos apresentadas no quadro:</p>
+          <table width="100" columns="2">
+             <row>
+               <cell align="center"><p><b>Aparelho</b></p></cell>
+               <cell align="center"><p><b>Potência (watt)</b></p></cell>
+             </row>
+             <row>
+               <cell><p>Luminária de LED</p></cell>
+               <cell align="center"><p>5</p></cell>
+             </row>
+             <row>
+               <cell><p>Computador</p></cell>
+               <cell align="center"><p>250</p></cell>
+             </row>
+             <row>
+               <cell><p>Impressora a laser</p></cell>
+               <cell align="center"><p>660</p></cell>
+             </row>
+             <row>
+               <cell><p>Secador de cabelos</p></cell>
+               <cell align="center"><p>750</p></cell>
+             </row>
+             <row>
+               <cell><p>Cafeteira</p></cell>
+               <cell align="center"><p>900</p></cell>
+             </row>
+             <row>
+               <cell><p>Condicionador de ar portátil</p></cell>
+               <cell align="center"><p>1100</p></cell>
+             </row>
+          </table>
+          <p>Em um dia quente, a estudante mantém o computador e o condicionador de ar portátil ligados à régua permanentemente. Nessa situação, ela tenta realizar algumas atividades, uma de cada vez, utilizando a mesma régua, na seguinte ordem:</p>
+          <list>
+            <item><p>1º-imprimir um trabalho escolar;</p></item>
+            <item><p>2º-fazer um café com a cafeteira;</p></item>
+            <item><p>3º-ligar a luminária;</p></item>
+            <item><p>4º-secar os cabelos.</p></item>
+          </list>
+          <p>Sabe-se que a régua foi ligada à tensão elétrica de 110 V, adequada para o funcionamento desses aparelhos. Considerando a ordem das tentativas, quantas atividades a estudante conseguiu realizar sem queimar o fusível?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>4</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>3</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>2</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>1</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>0</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="95">
+        <classification subject="Physics:Thermodynamics:Gases and Heat Transfer"/>
+        <statement>
+          <p>TEXTO I</p>
+          <p>As mariposa, quando chega o frio</p>
+          <p>Fica dando volta em volta da lâmpida pra se esquentá.</p>
+          <cite>BARBOSA, A. Reviva: Adoniran Barbosa. São Paulo: Som Livre, 2002 (fragmento).</cite>
+          <p>TEXTO II</p>
+          <p>As mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas.</p>
+          <p>Nesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>reflexão.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>refração.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>irradiação.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>dispersão.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>convecção.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="96">
+        <classification subject="Biology:Ecology"/>
+        <statement>
+          <p>Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos.</p>
+          <p>A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>diferença de umidade entre os ambientes.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>ausência de alimentação natural.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>adaptação ao novo ambiente.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>mudança de comportamento.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>variabilidade genética.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="97">
+        <classification subject="Biology:Human:Immune System"/>
+        <statement>
+          <p>A produção de vacinas exige uma sequência de procedimentos, além do cumprimento estrito de verificações de segurança. No esquema, estão demonstradas as etapas básicas realizadas para a fabricação de uma vacina utilizando a tecnologia tradicional e o efeito dela no organismo.</p>
+          <p>O antígeno utilizado na vacina causa um efeito protetor contra o vírus porque</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>mata o vírus pela ligação.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>aglutina o vírus por associação.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>contém imunoglobulinas de defesa.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>induz a produção de proteínas neutralizadoras.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>mantém a quantidade de anticorpos preexistentes.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="98">
+        <classification subject="Biology:Ecology:Biodiversity and Conservation"/>
+        <statement>
+          <p>O bioma Cerrado é caracterizado por apresentar ampla e natural diversidade de espécies vegetais. Nos últimos tempos, o homem vem modificando esse cenário pela inserção de plantas exóticas nesse ambiente. Exemplo disso é o cultivo do capim-gordura, nativo do continente africano e utilizado nesse tipo de ecossistema como forma de pastagem. É importante ressaltar que essa espécie vegetal é capaz de se espalhar por grandes áreas, devido à sua agressividade e poder competitivo.</p>
+          <p>Em longo prazo, essa ação do homem pode gerar qual consequência?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Diversificar nichos ecológicos.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Assorear as nascentes do bioma.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Dificultar a infiltração de água na terra.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>Diminuir as espécies nativas do bioma.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Contribuir com a redução das queimadas.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="99">
+        <classification subject="Biology:Ecology:Ecosystems and Biomes"/>
+        <statement>
+          <p>O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.</p>
+          <p>Considerando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Cerrado.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Pampas.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>Caatinga.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Restinga.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Pantanal.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="100">
+        <classification subject="Chemistry:General:Solutions"/>
+        <statement>
+          <p>Existe um processo de purificação de água em que são removidos os sais dissolvidos. A água que passa por esse processo é muito utilizada em laboratórios de química, em indústrias (como solvente), em baterias de carros etc. Entretanto, esse tipo de água não é adequado para ingestão, pois pode causar problemas de saúde, como carência iônica e diarreia. Essa água é chamada de</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>dura.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>pesada.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>sanitária.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>destilada.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>oxigenada.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="101">
+        <classification subject="Physics:Optics"/>
+        <statement>
+          <p>Por que os olhos ficam vermelhos em algumas fotografias?</p>
+          <p>Em fotos tiradas com câmeras fotográficas antigas, por vezes as pessoas aparecem com os olhos vermelhos. Isso ocorre porque a luz do flash da câmera incide diretamente no globo ocular, sendo refletida por uma região repleta de vasos sanguíneos.</p>
+          <p>Esse efeito é mais comum à noite ou em lugares pouco iluminados porque, com a pupila</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>dilatada, chega mais luz à retina.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>retraída, chega mais luz vermelha à retina.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>retraída, chega mais luz vermelha aos bastonetes.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>retraída, chegam menos luzes azul e verde aos cones.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>dilatada, chegam menos luzes azul e verde aos bastonetes.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="102">
+        <classification subject="Biology:Human:Digestive System"/>
+        <statement>
+          <p>O sashimi (filé de peixe cru) de baiacu é uma iguaria muito apreciada no Japão. Entretanto, sua ingestão pode causar a morte por parada respiratória, pois esse peixe contém uma potente neurotoxina termoestável, a tetrodotoxina, que é produzida e armazenada nas gônadas e vísceras.</p>
+          <p>Que ação poderia evitar essa intoxicação?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Criar os peixes em cativeiro.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Realizar a pesca com redes.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Consumir peixes cozidos ou fritos.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Preparar o peixe em condições adequadas de higiene.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>Manusear o peixe sem provocar o rompimento dos órgãos internos.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="103">
+        <classification subject="Biology:Cell:Structures and Organelles"/>
+        <statement>
+          <p>A deficiência da enzima lipase ácida causa uma doença em que o portador apresenta células que não degradam colesterol esterificado nem triglicerídeos, resultando no depósito desses compostos em diversos órgãos, principalmente no fígado.</p>
+          <p>Essa doença resulta da insuficiência funcional de qual estrutura celular?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>Lisossomos.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Ribossomos.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Mitocondrias.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Peroxissomos.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Retículo endoplasmático liso.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="104">
+        <classification subject="Biology:Ecology:Environmental Impacts"/>
+        <statement>
+          <p>A quantidade de <m>CO_2</m> na atmosfera da Terra aumentou em 50%, e a temperatura está agora cerca de <m>1,2^\circ C</m> mais quente em comparação ao século XIX. O ritmo de aumento da temperatura precisa diminuir se quisermos evitar as piores consequências das mudanças climáticas. Cientistas afirmam que o aquecimento global precisa ser mantido em <m>1.5^\circ C</m> até o ano 2100. No entanto, a menos que outras ações sejam tomadas, o planeta ainda pode aquecer mais de <m>2^\circ C</m> até o final deste século. Na prática, os países precisam enfrentar as mudanças climáticas com ações mitigadoras, que reduzam tanto as emissões quanto os níveis de <m>CO_2</m> na atmosfera.</p>
+          <p>Qual ação mitigadora auxilia na remoção desse gás presente na atmosfera, reduzindo seus níveis?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>Plantar mais árvores.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Instalar mais usinas eólicas.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Ampliar o uso de energia solar.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Manter os combustíveis fósseis no solo.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Produzir menos resíduos sólidos urbanos.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="105">
+        <classification subject="Physics:Thermodynamics"/>
+        <statement>
+          <p>As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.</p>
+          <p>Durante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.</p>
+          <p>Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>diminuição do pH.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>liberação de gases poluentes.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>contaminação por combustíveis.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>liberação de elementos radioativos.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>diminuição da solubilidade do gás oxigênio.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="106">
+        <classification subject="Chemistry:General"/>
+        <statement>
+          <p>No início do século XX, as fórmulas das substâncias eram representadas de modo diferente do atual. A figura apresenta uma fotografia bem antiga (1909) que registra uma aula de química ministrada em um colégio em Santos (SP). Um olhar mais atento permite identificar como os compostos químicos eram representados.</p>
+          <p>O nitrogênio era chamado de azoto e representado pelo símbolo Az. Vê-se na lousa a equação representativa da adição do oxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a formação de dióxido de nitrogênio (<m>AzO^2</m>). Analogamente, o nitrato de sódio era representado por <m>NaAzO^3</m>.</p>
+          <p>Em 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a mesma lógica, seriam, respectivamente:</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p><m>HAzO^3</m> e <m>CaCl^2</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>HAz^3O</m> e <m>Ca^2Cl</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>H^3AzO^4</m> e <m>CaCl</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>HAz^3O</m> e <m>KCl^2</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>HAzO^2</m> e <m>KCl</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="107">
+        <classification subject="Biology:Genetics"/>
+        <statement>
+          <p>A figura apresenta a herança genética de uma característica a partir do cruzamento de insetos de uma mesma espécie.</p>
+          <p>Qual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Todos os indivíduos com fenótipo igual ao parental macho (pintas).</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Todos os indivíduos com fenótipo igual ao parental fêmea (listra).</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Todos os indivíduos com fenótipo intermediário.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Proporção de 3 intermediários para 1 com listra.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>Proporção de 1 com pintas, 2 intermediários e 1 com listra.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="108">
+        <classification subject="Physics:Mechanics:Friction"/>
+        <statement>
+          <p>Para transportar uma caixa do primeiro para o segundo piso de uma construção, um trabalhador precisará arrasta-lá sobre um plano inclinado. O trabalhador começa a arrastar a caixa no primeiro piso, exercendo sobre ela uma força de grande intensidade, paralela ao seu deslocamento. Na medida em que a caixa sobe o plano inclinado, ele decide reduzir a força sobre ela, arrastando-a lentamente até chegar ao segundo piso. Considere que a caixa permanece em movimento nos encontros dos pisos com o plano inclinado, e que a rugosidade entre as superfícies permanece a mesma durante todo o percurso.</p>
+          <p>O comportamento da força de atrito entre a caixa e o chão no plano inclinado é representado em:</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Gráfico descrescente e crescente.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Gráfico crescente e decrescente.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>Gráfico constante.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Gráfico constante e decrescente.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Gráfico crescente e decrescente linearmente.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="109">
+        <classification subject="Chemistry:Organic:Reactions"/>
+        <statement>
+          <p>O fruto do cajueiro é um aquênio repleto de um líquido escuro, quase preto, cáustico e inflamável. Esse líquido da casca da castanha do caju (LCC) representa aproximadamente 25% da massa da castanha e é um subproduto de agronegócio do caju. Quando submetido a altas temperaturas, o ácido anacárdico presente no LCC é convertido a cardanol, que recebe a denominação de LCC técnico.</p>
+          <p>O LCC técnico é produzido por meio de uma reação orgânica do tipo</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>hidrólise.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>fenilação.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>esterificação.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>hidrogenação.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>descarboxilação.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="110">
+        <classification subject="Physics:Modern:NuclearPhysics"/>
+        <statement>
+          <p>A química nuclear é uma importante ferramenta na produção de substâncias utilizadas na área da saúde humana. A radiação emitida pelo cobalto-60 é utilizada na medicina como ferramenta de diagnóstico e no tratamento do câncer. No entanto, esse radioisótopo tem um tempo de armazenamento limitado, pois seu tempo de meia-vida é de 5,3 anos. Considere um frasco com uma amostra contendo 2,00 mg de cobalto-60, armazenado durante um período de 26,5 anos.</p>
+          <p>A massa de cobalto-60, em miligrama, que restará ao final desse tempo é mais próxima de</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>2,00 mg.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>1,00 mg.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>0,40 mg.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>0,13 mg.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>0,06 mg.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="111">
+        <classification subject="Biology:Ecology:Environmental Impacts"/>
+        <statement>
+          <p>O esquema apresenta as etapas do processo de biodigestão, uma forma de dar um destino sustentável a excrementos animais e restos de comida produzidos em áreas de criação de gado e porcos confinados.</p>
+          <p>Dar destino sustentável às sobras, conforme apresentado na etapa 4, ajuda a evitar a</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>bioacumulação de toxinas em plantas.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>eutrofização dos corpos de água.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>destruição da camada de ozônio.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>ocorrência de inversão térmica.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>produção de chuva ácida.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="112">
+        <classification subject="Biology:Human:Homeostasis and Regulation"/>
+        <statement>
+          <p>Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética.</p>
+          <p>Esse alimento contribui para diminuir a carência associada a qual doença?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Hemofilia.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Escorbuto.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Raquitismo.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>Cegueira noturna.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Anemia perniciosa.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="113">
+        <classification subject="Physics:Electromagnetism"/>
+        <statement>
+          <p>A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termiônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons.</p>
+          <p>Na Figura 2, a carga negativa representa o feixe de elétrons que é acelerado e, posteriormente, atinge um ponto da tela. O campo elétrico na região B apresenta a seguinte configuração (setas para cima).</p>
+          <p>Nessa situação, qual ponto da tela será atingido pelo feixe de elétrons?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>1</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>2</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>3</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>4</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>5</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="114">
+        <classification subject="Physics:Waves"/>
+        <statement>
+          <p>A tirinha ilustra um processo físico em que uma onda sonora, produzida pela Mônica, causa a quebra das taças de cristal. O fenômeno ondulatório que provoca a quebra das taças só é possível em razão de uma característica da voz produzida pela Mônica naquele momento, que, diferentemente do que sugere a tirinha, não está relacionada à sua intensidade.</p>
+          <p>Esse fenômeno e a característica associada à voz da Mônica são, respectivamente,</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>reflexão e comprimento de onda.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>ressonância e frequência.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>interferência e velocidade.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>ressonância e timbre.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>reflexão e amplitude.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="115">
+        <classification subject="Chemistry:Organic"/>
+        <statement>
+          <p>Em uma aula prática de química orgânica, um professor identificou os frascos de várias substâncias apenas por suas fórmulas moleculares. Em seguida, apresentou a representação tridimensional da molécula do borneol, um álcool secundário. Ele explicou que, quando oxidado, o borneol dá origem à cânfora, uma cetona usada desde a Antiguidade como incenso e no preparo de medicamentos. Finalmente, o professor solicitou que os alunos identificassem o frasco contendo a substância cânfora.</p>
+          <p>O frasco contendo cânfora apresenta a fórmula molecular:</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p><m>C_{9}H_{16}O</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>C_{9}H_{17}O</m></p>
+          </option>
+          <option label="C" is_correct="true">
+            <p><m>C_{10}H_{16}O</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>C_{10}H_{16}O_{2}</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>C_{10}H_{18}O_{2}</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="116">
+        <classification subject="Biology:Ecology"/>
+        <statement>
+          <p>As cangas são ambientes resultantes da atuação, ao longo de milhões de anos, de chuvas, enxurradas, calor e ventos em rochas ricas em ferro. São compostas por até 90% de óxidos de ferro e contêm solos muito ácidos, rasos, com reduzidos índices de fertilidade e temperaturas que atingem quase <m>70^\circ C</m> na superfície. Ao contrário do que se imagina, esse tipo de ambiente abriga comunidades de plantas e animais com elevado número de espécies e distribuição restrita.</p>
+          <p>A seleção adaptativa nesses ambientes favorece a ocorrência de espécies</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>exóticas.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>migratórias.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>endêmicas.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>dominantes.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>generalistas.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="117">
+        <classification subject="Chemistry:General:ChemicalEquilibrium"/>
+        <statement>
+          <p>Para a produção de titânio metálico ou dióxido de titânio puros, é necessário fazer a cloração do minério que contém dióxido de titânio, com o objetivo de separar esse óxido de outras substâncias presentes no minério. A principal reação química de cloração é representada por:
+          <math>TiO_{2}(s)+2~Cl_{2}(g) \rightleftharpoons TiCl_{4}(g)+O_{2}(g) \quad \Delta H=+175~kJ/mol</math></p>
+          <p>Depois da cloração, o tetracloreto de titânio é condensado e convertido, novamente, a dióxido de titânio.</p>
+          <p>Após o sistema atingir o equilíbrio químico, como a formação do <m>TiCl_{4}</m> pode ser favorecida?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Aumentando a pressão total do sistema.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Diminuindo a temperatura do sistema.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Aumentando a pressão parcial de <m>O_{2}</m>.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>Aumentando a pressão parcial de <m>Cl_{2}</m>.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Variando a quantidade de <m>TiO_{2}</m>.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="118">
+        <classification subject="Physics:Mechanics"/>
+        <statement>
+          <p>A laje de um depósito de bebidas tem <m>50~m^{2}</m> de área útil de armazenamento e foi projetada para suportar pressões de até <m>10^{4}</m> Pa. O gerente do estabelecimento pretende armazenar um produto cuja densidade é <m>1~250~kg/m^{3}</m>. Considere a aceleração da gravidade igual a <m>10~m/s^{2}</m>.</p>
+          <p>A altura máxima, em metro, de empilhamento do produto que essa laje é capaz de suportar é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>0,16 m.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>0,50 m.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>0,80 m.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>1,60 m.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>8,00 m.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="119">
+        <classification subject="Physics:Electromagnetism:Circuits"/>
+        <statement>
+          <p>Em uma comunidade rural, os moradores utilizam uma bomba-d'água alimentada por 100 V de tensão contínua, podendo variar em até 5 V. Um eletrotécnico pretende instalar placas fotovoltaicas para alimentar essa bomba. As placas são idênticas e cada uma apresenta tensão de operação igual a 34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura (<m>\epsilon=40~V</m>).</p>
+          <p>O eletrotécnico construiu um circuito que permite à bomba-d'água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas.</p>
+          <p>O diagrama que representa o circuito construído pelo eletrotécnico é:</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>136 V, 3,2 <m>\Omega</m></p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>120 V, 2,4 <m>\Omega</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>120 V, 5,3 <m>\Omega</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>102 V, 2,4 <m>\Omega</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>102 V, 5,3 <m>\Omega</m></p>
+          </option>
+        </options>
+      </objective_question>
+    </question_group>
+  </subject>
+    <subject name="Ciências da Natureza e suas Tecnologias">
+    <question_group>
+      <objective_question number="120">
+        <classification subject="Physics:Mechanics:Kinematics of Particles"/>
+        <statement>
+          <p>A figura ilustra as informações contidas no manual de um sistema de alarme que utiliza transmissores e receptores de radiação eletromagnética para a detecção de movimento. O receptor é regulado pelo tempo de resposta, que corresponde ao intervalo de tempo necessário para o corpo do invasor atravessar completamente o feixe, de diâmetro <m>d=15</m> cm. Considere que a menor porção do corpo de um invasor é a sua posição de perfil, cuja espessura típica é 20 cm. São indicados cinco possíveis movimentos de um invasor e suas velocidades típicas, que devem ser observadas para a escolha do tempo de resposta.</p>
+          <p>Nesse sistema, o menor tempo de resposta, em milissegundo, que garante a detecção de um possível invasor é mais próximo de</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>30 ms.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>370 ms.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>300 ms.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>400 ms.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>700 ms.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="121">
+        <classification subject="Chemistry:Organic:Reactions"/>
+        <statement>
+          <p>A dimetilamina é uma substância de elevada toxidez que entra em ebulição a <m>7^\circ C</m>. Na madrugada de um dia frio, essa substância se espalhou por uma rodovia após um acidente de trânsito envolvendo um caminhão que transportava esse produto. Para minimizar a agressão ao meio ambiente, bem como evitar a evaporação da dimetilamina com a elevação da temperatura ao longo do dia, um químico considerou o uso de algumas substâncias ou misturas como água, vinagre, óleo de soja, sal de cozinha e bicarbonato de sódio.</p>
+          <p>Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>água.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>vinagre.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>óleo de soja.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>sal de cozinha.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>bicarbonato de sódio.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="122">
+        <classification subject="Physics:Electromagnetism:Magnetism"/>
+        <statement>
+          <p>O aquecimento em fogões por indução utiliza bobinas para produzir um campo magnético variável. Essa bobina se localiza abaixo do vidro cerâmico sobre o qual a panela se apoia. O mecanismo aquece apenas a panela que se encontra na zona de cozimento, o que é uma das principais vantagens em relação ao uso do fogão a gás ou de resistência elétrica.</p>
+          <cite>PEREIRA, A. B. et al. Fogões de indução: montagem e testes de um circuito disponível. Disponível em: https://publicacoes.fatecsertaozinho.edu.br. Acesso em: 21 maio 2025 (adaptado).</cite>
+          <p>O uso do campo magnético variável tem a finalidade de</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>imantar o material da panela por indução.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>movimentar os átomos de ferro concentrados no fundo da panela.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>emitir radiação eletromagnética, aquecendo a panela através do vidro cerâmico.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>induzir corrente elétrica na parte inferior da panela, aquecendo-a por efeito Joule.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>gerar um fluxo de corrente de convecção no ar contido entre a região da bobina e o vidro cerâmico.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="123" cancelled="true">
+        <classification subject="Biology:Botany:Photosynthesis"/>
+        <statement>
+          <p>Plantas e algas realizam fotossíntese oxigênica para síntese de matéria orgânica e, para isso, utilizam trifosfato de adenosina (ATP) e nicotinamida adenina dinucleotídeo fosfato reduzido (NADPH). Já algumas bactérias fotossintetizantes não apresentam cloroplasto e clorofila, mas um pigmento denominado bacterioclorofila. Esses procariotos realizam a fotossíntese anoxigênica, um processo de síntese de matéria orgânica utilizando o gás carbônico (<m>CO_2</m>) e o gás sulfídrico (<m>H_2S</m>).</p>
+          <p>Na fotossíntese oxigênica, qual composto desempenha função análoga à do <m>H_2S</m>?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>ATP.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>NADPH.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Oxigênio.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Clorofila.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Água.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="124">
+        <classification subject="Chemistry:Physical:Electrochemistry"/>
+        <statement>
+          <p>Objetos de prata escurecem em contato com compostos contendo enxofre por causa da formação de uma fina camada de sulfeto de prata. Um método simples para clarear o objeto consiste em forrar um recipiente com papel alumínio, adicionar ao recipiente uma solução aquosa de cloreto de sódio e, enfim, mergulhar o objeto de prata enegrecido. Em cerca de três minutos, a prata volta à coloração original. As seguintes semirreações e os respectivos potenciais-padrão de redução são úteis para a compreensão dos fenômenos ocorridos.
+          <math>Ag_{2}S(s)+2~e^{-}\rightarrow2~Ag(s)+S^{2-}(aq) \quad -0,69 V</math>
+          <math>O_{2}(g)+4~H^{+}(aq)+4~e^{-}\rightarrow2~H_{2}O(l) \quad +1,23 V</math>
+          <math>Al^{3+}(aq)+3~e^{-}\longrightarrow Al(s) \quad -1,68 V</math></p>
+          <p>Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p><m>+0,54~V</m> e <m>+2,37~V</m>.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p><m>+1,92~V</m> e <m>+0,99~V</m>.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>-0,15~V</m> e <m>+5,43~V</m>.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>+2,61~V</m> e <m>+1,29~V</m>.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>+0,15~V</m> e <m>-1,29~V</m>.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="125">
+        <classification subject="Chemistry:General:Stoichiometry"/>
+        <statement>
+          <p>Apaixonada por culinária e química, uma chefe de cozinha calculou que, para promover o crescimento adequado da massa durante o cozimento de um bolo a <m>180^{\circ}C</m> (453 K) e 1,00 atm, ela precisaria utilizar uma quantidade de fermento químico suficiente para produzir um volume de gás igual a 4,00 L. Com esse objetivo, ela escolheu utilizar o bicarbonato de amônio, um composto que, sob aquecimento, degrada-se em três gases distintos, que são os responsáveis pelo crescimento da massa. A decomposição do bicarbonato de amônio ocorre conforme a equação química apresentada e, nas condições do cozimento, seu rendimento é de 80%.
+          <math>NH_{4}HCO_{3}(s)\rightarrow NH_{3}(g)+CO_{2}(g)+H_{2}O(g)</math></p>
+          <p>Considere que a mistura dos gases se comporta como gás ideal nas condições de cozimento utilizadas pela chefe. Dados: Massa molar do <m>NH_{4}HCO_{3}=79g\cdot mol^{-1}</m> e <m>R=0,082~atm\cdot L\cdot mol^{-1}\cdot K^{-1}</m></p>
+          <p>A massa, em grama, de bicarbonato de amônio que ela deve utilizar é mais próxima de</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>2,3 g.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>3,5 g.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>5,9 g.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>6,8 g.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>8,9 g.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="126">
+        <classification subject="Physics:Mechanics:Kinematics of Particles"/>
+        <statement>
+          <p>Segundo o princípio da independência dos movimentos, de Galileu, sempre que a velocidade resultante de um corpo puder ser decomposta em duas ou mais componentes perpendiculares entre si, cada um desses movimentos poderá ser analisado separadamente como se os outros não existissem. Esse princípio é muito útil para a simplificação de alguns problemas reais, em três dimensões.</p>
+          <p>Considere um avião que, ao decolar, é instruído pela torre a atingir, em 6 minutos, uma posição de 20 km a Leste, 20 km a Norte e 1 km de altitude em relação ao ponto de decolagem. No entanto, no instante da decolagem, começa a soprar um vento cujo vetor velocidade tem componentes <m>30~km/h</m> para Leste, <m>20~km/h</m> para Sul e <m>1~km/h</m> de cima para baixo.</p>
+          <p>Durante a ação do vento, a velocidade v que o piloto deve estabelecer em relação ao ar para que o avião chegue à posição esperada no tempo indicado tem as componentes</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p><m>230~km/h</m> para Leste, <m>180~km/h</m> para Sul e <m>9~km/h</m> para baixo.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>230~km/h</m> para Leste, <m>180~km/h</m> para Norte e <m>9~km/h</m> para cima.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>200~km/h</m> para Oeste, <m>200~km/h</m> para Norte e <m>10~km/h</m> para cima.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p><m>170~km/h</m> para Leste, <m>220~km/h</m> para Norte e <m>11~km/h</m> para cima.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>170~km/h</m> para Leste, <m>180~km/h</m> para Norte e <m>11~km/h</m> para cima.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="127">
+        <classification subject="Chemistry:General:ChemicalKinetics"/>
+        <statement>
+          <p>Nos processos de transformação e reciclagem de recursos naturais, as velocidades das reações químicas são estudadas pela cinética química. Uma reação <m>A \to B</m> é realizada na presença e na ausência de uma enzima, com todas as demais condições permanecendo inalteradas. Considere que, no gráfico da variação de energia ao longo dessa reação, a linha contínua representa o avanço da reação na ausência da enzima, e a linha pontilhada, na presença da enzima.</p>
+          <p>O gráfico que representa a situação descrita é:</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Gráfico A</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Gráfico B</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>Gráfico C</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Gráfico D</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Gráfico E</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="128">
+        <classification subject="Physics:Electromagnetism:Electrodynamics"/>
+        <statement>
+          <p>A resistência de um fio de platina pode ser usada para medir temperaturas entre <m>0^{\circ}C</m> e <m>100^{\circ}C</m> e já foi utilizada como referência para a escala internacional de temperatura. Para um sensor feito de platina, a relação entre a resistência e a temperatura pode ser descrita por uma equação do tipo <m>R(T)=A+BT,</m> em que T é a temperatura e A e B são constantes. O gráfico apresenta a dependência da resistência em função da temperatura para cinco diferentes sensores.</p>
+          <p>Os sensores que apresentam maior sensibilidade são</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>1 e 2.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>1 e 3.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>2 e 3.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>2 e 4.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>2 e 5.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="129">
+        <classification subject="Biology:Zoology:Invertebrates"/>
+        <statement>
+          <p>O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro.</p>
+          <table width="100" columns="2">
+             <row>
+               <cell align="center"><p><b>Teste</b></p></cell>
+               <cell align="center"><p><b>Resultado</b></p></cell>
+             </row>
+             <row>
+               <cell><p>Aedes aegypti (larvas)</p></cell>
+               <cell align="center"><p>Baixa eficiência</p></cell>
+             </row>
+             <row>
+               <cell><p>Bacilo de Koch</p></cell>
+               <cell align="center"><p>Média eficiência</p></cell>
+             </row>
+             <row>
+               <cell><p>Moluscos aquáticos (adultos)</p></cell>
+               <cell align="center"><p>Alta eficiência</p></cell>
+             </row>
+             <row>
+               <cell><p>Pernilongo (larvas)</p></cell>
+               <cell align="center"><p>Média eficiência</p></cell>
+             </row>
+             <row>
+               <cell><p>Vermes platelmintos</p></cell>
+               <cell align="center"><p>Ineficiente</p></cell>
+             </row>
+          </table>
+          <p>O ácido úsnico mostrou-se mais indicado para o controle da</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>esquistossomose.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>febre amarela.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>coqueluche.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>tuberculose.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>dengue.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="130">
+        <classification subject="Physics:Electromagnetism:Circuits"/>
+        <statement>
+          <p>Em sua maioria, os equipamentos eletrônicos domésticos demandam baixa potência elétrica em corrente contínua. Para alimentá-los, uma fonte externa ou embutida transforma a corrente alternada em corrente contínua de baixa tensão. Entretanto, cada equipamento tem suas especificidades, e muitas vezes não é possível simplesmente trocar essas fontes sem levar em conta a tensão, a corrente ou a potência elétrica de saída.</p>
+          <p>Considere um equipamento de resistência elétrica <m>R_{C}</m> que funciona corretamente apenas em um dado valor de tensão. Porém, a única fonte de alimentação disponível fornece uma tensão 20% superior à tensão recomendada. Para adaptar essa fonte ao aparelho, a associação de um resistor de proteção <m>R_{P}</m> de potência adequada, se faz necessária.</p>
+          <p>A configuração adequada do circuito e o valor do resistor de proteção, em relação ao valor da resistência do equipamento, são:</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Circuito paralelo, <m>R_{P} = 0,2 R_{C}</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Circuito paralelo, <m>R_{P} = 1,2 R_{C}</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Circuito série, <m>R_{P} = 1,2 R_{C}</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Circuito série, <m>R_{P} = 2,2 R_{C}</m></p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>Circuito série, <m>R_{P} = 0,2 R_{C}</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="131">
+        <classification subject="Chemistry:General:Stoichiometry"/>
+        <statement>
+          <p>O Brasil é o maior produtor mundial de nióbio (massa molar 93 g/mol), metal utilizado na fabricação de vários tipos de aço: automotivos, estruturais e inoxidáveis. O processo utilizado na produção do nióbio é a redução aluminotérmica de <m>Nb_{2}O_{5}</m> com excesso de 10% de Al (massa molar = 27 g/mol), em relação à quantidade estequiométrica da reação, representada pela equação química:
+          <math>3~Nb_{2}O_{5}(s)+10~Al(s)\rightarrow6~Nb(s)+5~Al_{2}O_{3}(s)</math></p>
+          <p>Uma engenheira metalúrgica estimou a massa de alumínio necessária para produzir 9,3 kg de nióbio, nas condições descritas, para a produção de um lote de peças de aço encomendado por uma indústria, considerando um rendimento de 100%.</p>
+          <p>A massa de alumínio, em quilograma, estimada pela engenheira é mais próxima de</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>2,7 kg.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>3,0 kg.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>4,1 kg.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>4,5 kg.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>5,0 kg.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="132" cancelled="true">
+        <classification subject="Physics:Waves:SoundWaves"/>
+        <statement>
+          <p>O nível sonoro, em decibel (dB), é calculado pela expressão: <m>n=10~log_{10}(\frac{i}{l_{0}})</m>. Uma conversa normal entre duas pessoas gera sons de níveis sonoros entre 50 e 60 dB, enquanto pessoas gritando podem gerar sons de níveis superiores a 100 dB. Supondo que, no centro de um estádio de futebol, foram realizadas medidas para avaliar o ruído médio de uma pessoa gritando a palavra "gol" em diferentes posições das arquibancadas. O valor médio obtido, considerando um grande número de medidas, foi de 100 dB.</p>
+          <p>Com esse dado, estimou-se o ruído sonoro produzido por 10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, enquanto gritavam, simultaneamente, a palavra "gol". O valor médio estimado para o ruído produzido por essas pessoas, na posição central desse estádio hipotético, foi de</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>60 dB.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>104 dB.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>140 dB.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>400 dB.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>800 dB.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="133">
+        <classification subject="Chemistry:Organic"/>
+        <statement>
+          <p>O despejo acidental de óleo nos oceanos tem ocasionado incontáveis prejuízos à vida marinha e à economia de regiões costeiras. Métodos tradicionais de tratamento do despejo geram resíduos de difícil descarte e nem sempre são eficazes. Por isso, pesquisadores desenvolveram um filtro capaz de separar óleo e água. O dispositivo é montado sobre uma malha de aço com uma sequência de camadas. A primeira camada é formada por um polímero de carga positiva, a segunda é composta por nanopartículas de sílica (<m>SiO_{2}</m>), a terceira é formada pelo mesmo polímero e a última é um surfactante, conforme apresentado na figura.</p>
+          <p>Na utilização desse dispositivo, a retenção do óleo ocorre</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>no surfactante.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>na camada superior de polímero.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>nas nanopartículas de sílica.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>na camada inferior de polímero.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>na malha de aço.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="134">
+        <classification subject="Chemistry:Organic"/>
+        <statement>
+          <p>Alguns hormônios sexuais têm ganhado notável atenção nos últimos anos por suas concentrações cada vez maiores no solo e na água em todo o mundo. O motivo da preocupação é porque, em níveis poluentes, eles têm sido associados ao câncer de mama e ao câncer de próstata, além de perturbarem a fisiologia dos peixes, podendo, ainda, afetarem o desenvolvimento reprodutivo de animais domésticos e selvagens. Assim, o descarte inadequado desses hormônios representa uma séria ameaça ao solo, plantas, recursos hídricos e humanos. De baixa polaridade, eles apresentam uma solubilidade pequena e variável em água, dependendo dos grupos presentes em suas estruturas, representando um grande risco para os ambientes aquáticos. As figuras a seguir apresentam as estruturas de alguns desses hormônios.</p>
+          <p>Do ponto de vista das interações químicas, qual desses hormônios apresenta maior solubilidade em ambientes aquáticos?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Estradiol.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>Estriol.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Estrona.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Novestrol.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Noretindrona.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="135">
+        <classification subject="Physics:Optics"/>
+        <statement>
+          <p>A icterícia é uma doença que acomete recém-nascidos e pode ser tratada com um método de fototerapia conhecido como banho de luz, que consiste na exposição do recém-nascido a uma fonte luminosa equipada com LEDs azuis. Para o monitoramento da dosagem dessa radiação, é utilizada a resposta óptica de um sensor constituído de materiais orgânicos que luminescem quando expostos à luz azul. Com o passar do tempo, essa radiação oxida os materiais do sensor, alterando sua coloração de vermelho-laranja para verde, o que indica o final do tratamento. O gráfico apresenta o espectro de fotoluminescência do sensor em função do comprimento de onda da luz emitida no início do tratamento, quando o sensor, colado na fralda do bebê, luminesce na região do vermelho-laranja (~600 nm). A Figura 2 apresenta a evolução da coloração do sensor, mostrando que a frequência da luz emitida por ele aumenta em função do tempo de exposição à luz azul.</p>
+          <p>Os espectros de fotoluminescência do sensor no início e no final do tratamento estão esboçados no gráfico:</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>Gráfico A</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Gráfico B</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Gráfico C</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Gráfico D</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Gráfico E</p>
+          </option>
+        </options>
+      </objective_question>
+    </question_group>
+  </subject>
+  <subject name="Matemática e suas Tecnologias">
+    <question_group>
+      <objective_question number="136">
+        <classification subject="Math:Financial"/>
+        <statement>
+          <p>Uma pessoa pretende instalar um kit de gás natural veicular (GNV) em seu carro. Na loja que escolheu para realizar a compra e instalação desse kit, havia cinco modelos de cilindro para armazenamento do gás, cujas capacidades, em metro cúbico, eram, respectivamente: 10, 14, 17, 21 e 25. O preço do cilindro é proporcional à sua capacidade. Esse carro rodará 30 km diariamente, 7 dias por semana, e o consumo do GNV é de 1 <m>m^{3}</m> a cada 13 km rodados. A pessoa escolherá o modelo de cilindro de menor preço e que garanta apenas um abastecimento semanal.</p>
+          <p>Nessas condições, qual será a capacidade, em metro cúbico, do cilindro escolhido por essa pessoa?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>10</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>14</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>17</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>21</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>25</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="137">
+        <classification subject="Math:Probability"/>
+        <statement>
+          <p>A reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela reportagem estão apresentados no infográfico.</p>
+          <list>
+            <item><p>90% dos internautas brasileiros acessam redes sociais.</p></item>
+            <item><p>60% da quantidade de internautas brasileiros que acessam redes sociais são mulheres.</p></item>
+          </list>
+          <p>Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, a probabilidade de ele ser um homem que acessa alguma rede social é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>30/90</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>36/100</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>40/100</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>40/90</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>16/90</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="138">
+        <classification subject="Math:Geometry:Solid Geometry"/>
+        <statement>
+          <p>Em um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura. Cada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados. Ao se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz e se aproximou 4 unidades do plano xy.</p>
+          <p>A figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações descritas, é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Figura A</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Figura B</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Figura C</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Figura D</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>Figura E</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="139">
+        <classification subject="Math:Geometry:Plane Geometry"/>
+        <statement>
+          <p>No entorno de uma lagoa circular, cujo raio mede 1 km, há um uma ciclovia. Devido aos frequentes roubos de bicicleta, a prefeitura planeja alocar policiais em posições estratégicas para patrulhar essa ciclovia, de forma a torná-la totalmente protegida. Um ponto da ciclovia é considerado protegido se houver pelo menos um policial a, no máximo, 200 m de distância daquele ponto, posicionado sobre a ciclovia. A figura ilustra um ponto P sobre a ciclovia, que estará protegido se houver pelo menos um policial posicionado sobre a região de cor cinza escuro. Desconsidere a largura da pista da ciclovia e utilize 3 como aproximação para <m>\pi</m>.</p>
+          <p>Nessas condições, a quantidade mínima necessária de policiais a serem alocados ao longo dessa ciclovia para torná-la protegida é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>4.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>8.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>15.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>30.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>60.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="140">
+        <classification subject="Math:Algebra:Linear Equations"/>
+        <statement>
+          <p>Em um laboratório, um recipiente contém 10 litros de uma solução composta apenas pelas substâncias <m>S_{1}</m> e <m>S_{2}</m>. Dessa solução, 99,95% é de <m>S_{1}</m>. Uma quantidade de <m>S_{1}</m> será retirada dessa solução, mantendo a quantidade inicial de <m>S_{2}</m> de modo que 99,90% da nova solução seja de <m>S_{1}</m>.</p>
+          <p>Qual é a quantidade de <m>S_{1}</m>, em litro, que será retirada?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>0,0050</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>0,0100</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>0,5000</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>4,9775</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>5,0000</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="141">
+        <classification subject="Math:Algebra"/>
+        <statement>
+          <p>Uma distribuidora de combustível possui caminhões-tanque com capacidade de 30 000 litros cada. Em qualquer transporte realizado por esses caminhões, um mesmo volume de combustível é descartado, pois fica com muitas impurezas. Esse volume descartado independe da quantidade transportada. Um posto de combustível encomendou 10 000 litros de gasolina dessa distribuidora, que enviou 10 200 litros, considerando o volume descartado no transporte. Mesmo assim, a quantidade de gasolina entregue ao posto foi de 9 900 litros.</p>
+          <p>Em um novo pedido, esse posto solicitou que fosse entregue exatamente o dobro do volume de gasolina encomendado no pedido anterior. Utilizando o mesmo caminhão da entrega anterior, qual é o volume mínimo de gasolina, em litro, que a distribuidora deverá enviar para garantir a entrega da quantidade encomendada nesse novo pedido?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>20 100</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>20 200</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>20 300</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>20 400</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>20 600</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="142">
+        <classification subject="Math:Statistics"/>
+        <statement>
+          <p>Uma empresa de tecnologia vai padronizar a velocidade de conexão de internet que oferece a seus clientes em dez cidades. A direção da empresa decide que seu novo padrão de velocidade de referência será a mediana dos valores das velocidades de referência de conexões nessas dez cidades. Esses valores, em megabyte por segundo (MB/s) são apresentados no quadro.</p>
+          <table width="100" columns="2">
+             <row>
+               <cell align="center"><p><b>Cidades</b></p></cell>
+               <cell align="center"><p><b>Velocidade de referência (MB/s)</b></p></cell>
+             </row>
+             <row>
+               <cell><p>C1</p></cell>
+               <cell align="center"><p>390</p></cell>
+             </row>
+             <row>
+               <cell><p>C2</p></cell>
+               <cell align="center"><p>380</p></cell>
+             </row>
+             <row>
+               <cell><p>C3</p></cell>
+               <cell align="center"><p>320</p></cell>
+             </row>
+             <row>
+               <cell><p>C4</p></cell>
+               <cell align="center"><p>390</p></cell>
+             </row>
+             <row>
+               <cell><p>C5</p></cell>
+               <cell align="center"><p>340</p></cell>
+             </row>
+             <row>
+               <cell><p>C6</p></cell>
+               <cell align="center"><p>380</p></cell>
+             </row>
+             <row>
+               <cell><p>C7</p></cell>
+               <cell align="center"><p>390</p></cell>
+             </row>
+             <row>
+               <cell><p>C8</p></cell>
+               <cell align="center"><p>400</p></cell>
+             </row>
+             <row>
+               <cell><p>C9</p></cell>
+               <cell align="center"><p>350</p></cell>
+             </row>
+             <row>
+               <cell><p>C10</p></cell>
+               <cell align="center"><p>360</p></cell>
+             </row>
+          </table>
+          <p>A velocidade de referência, em megabyte por segundo, a ser adotada por essa empresa é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>360.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>370.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>380.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>390.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>400.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="143">
+        <classification subject="Math:Financial"/>
+        <statement>
+          <p>Na cantina de uma escola, há cinco alimentos vendidos em pacotes com diferentes quantidades de porções. As informações nutricionais contidas nos rótulos desses produtos estão indicadas nas imagens.</p>
+          <list>
+            <item><p>Batata chips: Pacote com 3 porções de 50 g. 170 mg de sódio por porção.</p></item>
+            <item><p>Palitos salgados: Pacote com 4 porções de 20 g. 501 mg de sódio por porção.</p></item>
+            <item><p>Biscoito multigrãos: Pacote com 8 porções de 25 g. 264 mg de sódio por porção.</p></item>
+            <item><p>Biscoito de polvilho: Pacote com 6 porções de 15 g. 175 mg de sódio por porção.</p></item>
+            <item><p>Biscoito de água e sal: Pacote com 5 porções de 40 g. 166 mg de sódio por porção.</p></item>
+          </list>
+          <p>Uma estudante opta sempre pelo alimento com a menor quantidade total de sódio por pacote. Qual desses produtos deve ser o escolhido pela estudante?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>Batata chips.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Palitos salgados.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Biscoito multigrãos.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Biscoito de polvilho.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Biscoito de água e sal.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="144">
+        <classification subject="Math:Combinatorics"/>
+        <statement>
+          <p>Uma fábrica utilizou uma impressora 3D para produzir o protótipo de uma peça. O protótipo tem forma de um poliedro convexo, obtido pela justaposição de dois sólidos distintos, um com a forma de um prisma hexagonal regular reto e o outro com a forma de um tronco de pirâmide hexagonal reta. A base maior do tronco de pirâmide coincide com uma das bases do prisma. Após a impressão do protótipo, ele foi encaminhado ao setor de customização para realização da pintura de sua superfície. O critério definido para realização da pintura considera que faces congruentes entre si devem ser pintadas com uma mesma cor, e faces não congruentes entre si devem apresentar cores distintas.</p>
+          <p>Qual é a quantidade de cores utilizadas para pintar o protótipo?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>9</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>6</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>8</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>4</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>3</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="145">
+        <classification subject="Math:Algebra:Functions"/>
+        <statement>
+          <p>Pesquisas na área de neurobiologia confirmam que a prática meditativa é responsável por diminuir consideravelmente a frequência respiratória para praticantes avançados, que, após iniciarem a meditação, têm suas frequências respiratórias reduzidas até se estabilizarem em um nível mais baixo. O gráfico apresenta a relação da frequência respiratória, em incursões de respirações por minuto (rpm), em relação ao tempo, em minuto, de um praticante avançado, em que (<m>f_{1}</m>) representa a frequência no instante <m>t_{1}</m> no qual se inicia a prática meditativa; e (<m>f_{2}</m>) a frequência no instante <m>t_{2}</m>, a partir do qual esta se estabiliza durante a meditação.</p>
+          <p>A partir do instante <m>t_{1}</m>, em que se inicia a prática meditativa, o comportamento da frequência respiratória, em relação ao tempo,</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>mantém-se constante.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>é diretamente proporcional ao tempo.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>é inversamente proporcional ao tempo.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>diminui até o instante <m>t_{2}</m> a partir do qual se torna constante.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>diminui de forma proporcional ao tempo, tanto entre <m>t_{1}</m> e <m>t_{2}</m> quanto após <m>t_{2}</m>.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="146">
+        <classification subject="Math:Algebra"/>
+        <statement>
+          <p>No atletismo, um grande desafio da prova de 100 metros rasos é a sua conclusão num tempo abaixo da marca de referência dos 10,00 segundos. Vários atletas já alcançaram esse feito. Em 2009, o jamaicano Usain Bolt estabeleceu o recorde mundial masculino dessa prova, com o tempo de 9,58 segundos.</p>
+          <p>Qual é a diferença, em segundo, entre a marca de referência e a marca estabelecida por Usain Bolt em 2009?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>0,02</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>0,42</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>0,52</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>1,02</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>1,42</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="147">
+        <classification subject="Math:Statistics"/>
+        <statement>
+          <p>Uma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual das matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.</p>
+          <list>
+            <item><p>2023: Inglês 60%, Espanhol 25%, Francês 10%, Alemão 5%.</p></item>
+            <item><p>2024 (Quantidade): Inglês 280, Espanhol 80, Francês 20, Alemão 20.</p></item>
+          </list>
+          <p>Para planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição percentual das matrículas, por idioma, será igual à registrada em 2023.</p>
+          <p>Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>2.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>12.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>20.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>22.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>40.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="148">
+        <classification subject="Math:Geometry"/>
+        <statement>
+          <p>O controle remoto de um carrinho de brinquedo vem equipado com uma tela que ajusta automaticamente a escala empregada na exibição de cada deslocamento. A tela apresenta a imagem do deslocamento, a escala utilizada na geração dessa imagem e o comprimento desse deslocamento, em centímetro, em conformidade com a escala empregada. As figuras representam a tela do controle remoto exibindo os dados de cinco deslocamentos realizados por esse carrinho.</p>
+          <list>
+            <item><p>I: 9 cm, 1:100</p></item>
+            <item><p>II: 5 cm, 1:300</p></item>
+            <item><p>III: 5 cm, 1:600</p></item>
+            <item><p>IV: 3 cm, 1:700</p></item>
+            <item><p>V: 2 cm, 1:1000</p></item>
+          </list>
+          <p>A opção que indica o deslocamento de maior comprimento realizado pelo carrinho de brinquedo é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>I.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>II.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>III.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>IV.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>V.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="149">
+        <classification subject="Math:Geometry:Solid Geometry"/>
+        <statement>
+          <p>A cúpula pentagonal giralongada é um poliedro de Johnson, cujas faces são polígonos regulares, mas que não é um poliedro de Platão, de Arquimedes, prisma ou antiprisma. As figuras apresentam esse poliedro em duas posições e uma de suas planificações.</p>
+          <p>Quantos vértices tem esse poliedro?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>21</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>25</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>55</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>80</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>110</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="150">
+        <classification subject="Math:Algebra"/>
+        <statement>
+          <p>Uma fábrica de tijolos ecológicos com 3 funcionários, cada um trabalhando 6 horas diárias, produz 720 unidades por dia. Para atender ao crescimento da demanda por esse tipo de tijolo, essa fábrica passou a ter 5 funcionários, cada um trabalhando 9 horas por dia, aumentando, assim, sua capacidade de produção. Todos os funcionários produzem igual quantidade de tijolos a cada hora, independentemente de trabalharem 6 ou 9 horas diárias.</p>
+          <p>O número de tijolos fabricados diariamente após o aumento da capacidade de produção é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>800.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>1 080.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>1 200.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>1 800.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>2 520.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="151">
+        <classification subject="Math:Algebra"/>
+        <statement>
+          <p>Para acompanhar o fluxo de visitantes em seu prédio, uma empresa estabeleceu um código de identificação para a visitação. De acordo com a regra estabelecida, cada visitante será identificado com um código sequencial numérico com 7 dígitos, determinado, da esquerda para a direita, da seguinte forma:</p>
+          <list>
+            <item><p>o primeiro dígito indica o andar ao qual o visitante se dirige, que é um número de 1 a 4;</p></item>
+            <item><p>os dois próximos dígitos correspondem ao número do setor da empresa ao qual o visitante se destina. Esse número varia de 01 a 20;</p></item>
+            <item><p>os três dígitos seguintes correspondem ao número do funcionário da empresa com quem o visitante irá se reunir. Esse número varia de 001 a 135;</p></item>
+            <item><p>o último dígito indica se o visitante chegou à empresa pela manhã, dígito 0, ou à tarde, dígito 1.</p></item>
+          </list>
+          <p>Um visitante chegou à empresa às 10 horas da manhã para se reunir com o funcionário identificado pelo número 109, que trabalha no setor 08 da empresa, localizado no 2º andar.</p>
+          <p>O código de identificação desse visitante é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>0109082.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>60281090.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>1010982.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>2081090.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>2810910.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="152">
+        <classification subject="Math:Probability"/>
+        <statement>
+          <p>Quatro candidatos se apresentaram para realizar a prova de um concurso. Antes de iniciar a prova, os celulares dos quatro candidatos foram recolhidos pelo aplicador, que os guardou, cada um, dentro de um envelope preto. Ao término da prova, o aplicador devolveu os quatro envelopes com os celulares aos quatro candidatos, de maneira aleatória, já que não havia feito a identificação dos envelopes.</p>
+          <p>A probabilidade de que todos os candidatos tenham recebido de volta os envelopes com os seus respectivos celulares é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p><m>\frac{1}{2}</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>\frac{1}{10}</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>\frac{1}{16}</m></p>
+          </option>
+          <option label="D" is_correct="true">
+            <p><m>\frac{1}{24}</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>\frac{1}{256}</m></p>
+          </option>
+        </options>
+      </objective_question>
+    </question_group>
+  </subject>
+    <subject name="Matemática e suas Tecnologias">
+    <question_group>
+      <objective_question number="153">
+        <classification subject="Math:Geometry:Analytic Geometry"/>
+        <statement>
+          <p>Em um jogo digital, há três personagens: um herói e dois vilões. A programação é feita de tal forma que o herói sempre será atacado pelo vilão que estiver mais próximo dele. Uma das maneiras de "confundir" os vilões é movimentar o herói por trajetórias que o mantenha equidistante dos vilões, gerando indefinição entre eles e, com isso, não sendo atacado.</p>
+          <p>Para a programação de uma das etapas desse jogo, o programador considerou, no plano cartesiano, o quadrado STUV como a região de movimentação dos personagens, onde V e T representam as posições fixas dos vilões, e S, a posição inicial do herói, como apresentado na figura.</p>
+          <p>Qual é a equação da trajetória em que o herói poderá se movimentar sem ser atacado?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p><m>y=-3x+20</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>y=-3x+16</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>y=-3x-20</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>y=3x+16</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>y=3x-16</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="154">
+        <classification subject="Math:Statistics"/>
+        <statement>
+          <p>Uma livraria comercializa livros dos seguintes gêneros literários: ficção científica, autoajuda, romance e biografia. O gráfico apresenta o estoque dos livros que essa livraria tem, por gênero literário e por nacionalidade do autor, bem como a demanda por gênero literário, obtida por meio de uma enquete feita com seus clientes habituais.</p>
+          <p>O gerente da livraria fará a encomenda de novos exemplares somente do gênero cuja quantidade em estoque seja insuficiente para atender a demanda constatada pela enquete.</p>
+          <p>O gênero de livro do qual o gerente deverá encomendar mais exemplares é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>ficção, pois é o que apresenta maior demanda.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>biografia, pois é o gênero que tem a menor demanda.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>autoajuda, pois a quantidade em estoque é inferior à demanda.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>biografia, pois é o gênero que tem a menor quantidade de livros em estoque.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>romance, pois é o que apresenta o menor estoque de livros de autores brasileiros.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="155">
+        <classification subject="Math:Combinatorics"/>
+        <statement>
+          <p>Dez casais fundaram um grupo de dança e decidiram constituir uma diretoria com três cargos: presidente, secretário e tesoureiro. Para maior representatividade, decidiu-se que no máximo uma pessoa por casal poderá ocupar um cargo nessa diretoria.</p>
+          <p>Quantas diretorias diferentes podem ser constituídas por esses 10 casais?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p><m>10\times9\times8</m></p>
+          </option>
+          <option label="B" is_correct="true">
+            <p><m>20\times18\times16</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>20\times19\times18</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>10\times9\times8\times2</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>20\times18\times16\times2</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="156">
+        <classification subject="Math:Geometry"/>
+        <statement>
+          <p>Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura (20 cm x 20 cm).</p>
+          <p>Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.</p>
+          <p>Em qual escala esse desenho representa a obra de arte?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>1:1,5</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>1: 2,25</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>1:10</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>1:100</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>1:150</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="157">
+        <classification subject="Math:Algebra"/>
+        <statement>
+          <p>O cortisol é um hormônio produzido pelas glândulas adrenais e pode ser considerado um importante marcador do estresse fisiológico. Em um estudo desenvolvido com enfermeiros, foi verificado que a concentração de cortisol salivar em um dia de trabalho, denotada por T, era, em média, 1,59 vezes a concentração de cortisol salivar em um dia de folga, denotada por F.</p>
+          <p>Nesse estudo, a relação obtida entre T e F foi</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p><m>T=1,59+F</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>F=1,59+T</m></p>
+          </option>
+          <option label="C" is_correct="true">
+            <p><m>\frac{T}{F}=1,59</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>\frac{F}{T}=1,59</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>F\cdot T=1,59</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="158">
+        <classification subject="Math:Financial"/>
+        <statement>
+          <p>Um estacionamento possui 120 vagas para veículos, e todas essas vagas estão ocupadas. Cada cliente paga uma mensalidade para utilizar uma vaga, que é calculada com base nas despesas mensais do estacionamento e no lucro pretendido.</p>
+          <p>As despesas mensais do estacionamento são: R$ 14 240,00 com manutenção mais R$ 36,00 de seguro por veículo. O lucro do estacionamento é determinado pela diferença do valor arrecadado com as mensalidades pelas despesas efetuadas.</p>
+          <p>A partir do mês seguinte, o valor do seguro por veículo aumentará em 20%, e as despesas com manutenção permanecerão sem alterações. Com isso, o dono do estacionamento reajustará as mensalidades para obter um lucro mensal de R$ 10 000,00. Apesar desse reajuste, todas as vagas continuarão ocupadas.</p>
+          <p>O valor, em real, da mensalidade reajustada será</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>185,60.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>226,09.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>245,20.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>268,93.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>285,60.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="159">
+        <classification subject="Math:Geometry:Solid Geometry"/>
+        <statement>
+          <p>O dono de uma sorveteria armazena sorvete em potes de <m>20~000~cm^{3}</m>. Ele serve o sorvete em taças, em porções de 250 mL.</p>
+          <p>A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>5.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>8.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>50.</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>80.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>800.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="160">
+        <classification subject="Math:Trigonometry"/>
+        <statement>
+          <p>Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância D da lâmina de água ao tampo da mesa, em centímetro, aumente em relação ao tempo T, em minuto, de acordo com uma função do tipo <m>D=k+tg[p(T+m)]</m> sendo os parâmetros k, p e m números reais, para T variando entre 0 e 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de D.</p>
+          <p>A expressão algébrica que representa a relação entre D e T é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p><m>D=2,5+tg[30(T-\frac{5-2\pi}{2})]</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>D=4+tg[30(T+\frac{5}{2})]</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>D=4+tg[2,5(T+\frac{5+2\pi}{2})]</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>D=30+tg[\frac{1}{2}(T-5)]</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>D=30+tg[\frac{1}{2}(T-\frac{5}{2})]</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="161">
+        <classification subject="Math:Geometry"/>
+        <statement>
+          <p>Os quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo. O quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão.</p>
+          <p>Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste.</p>
+          <p>O quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>P.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Q.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>R.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>S.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>T.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="162">
+        <classification subject="Math:Financial"/>
+        <statement>
+          <p>Uma empresa produziu, em um determinado mês, 110 toneladas de plástico a partir de derivados de petróleo e 80 toneladas a partir de plásticos reciclados. O custo para reciclar uma tonelada de plástico é de R$ 500,00, que equivale a 5% do custo para produzir a mesma quantidade de plástico a partir de derivados de petróleo.</p>
+          <p>Para o mês seguinte, a meta dessa empresa é produzir a mesma quantidade de plástico que foi produzida nesse mês, mas com redução de, pelo menos, 50% no custo de produção. Para que no mês seguinte a empresa atinja a meta, a quantidade mínima de toneladas de plástico que devem ser produzidas a partir de reciclagem deverá ser</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>135.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>140.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>155.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>160.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>175.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="163">
+        <classification subject="Math:Statistics"/>
+        <statement>
+          <p>Em uma escola, todos os estudantes do ensino médio praticam uma das três modalidades esportivas oferecidas como atividade física, e cada um deles pratica somente uma dessas atividades. Os gráficos trazem alguns dados relativos aos quantitativos de estudantes que praticam essas modalidades esportivas nessa escola, apesar de algumas quantidades não terem sido informadas.</p>
+          <p>Qual é a quantidade de estudantes no ensino médio dessa escola?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>720</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>360</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>320</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>288</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>240</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="164">
+        <classification subject="Math:Trigonometry"/>
+        <statement>
+          <p>O dono de uma embarcação deve partir do ponto P e chegar ao ponto R por meio de dois deslocamentos lineares e navegando a uma velocidade constante. Essa viagem será feita durante a noite, e como ele dispõe somente de uma bússola e de um relógio, planejou sua rota da seguinte forma:</p>
+          <list>
+            <item><p>1º-partir do ponto P na direção 110 e navegar por 4 horas, alcançando um ponto Q;</p></item>
+            <item><p>2º-partir do ponto Q na direção 90 e navegar por 2 horas, alcançando o ponto de destino R.</p></item>
+          </list>
+          <p>No entanto, ao direcionar o barco para o primeiro deslocamento, o fez na direção 340, em vez de 110. Com isso, realizou os seguintes deslocamentos:</p>
+          <list>
+            <item><p>1º-partiu do ponto P na direção 340 e navegou por 4 horas, alcançando um ponto S;</p></item>
+            <item><p>2º-partiu do ponto S na direção 90 e navegou por 2 horas, alcançando o ponto T.</p></item>
+          </list>
+          <p>O dono da embarcação só percebeu o equívoco ao chegar ao ponto T. Com isso, agora ele precisa definir a direção e o tempo de navegação que lhe permita, partindo do ponto T, chegar ao ponto de destino R por meio de uma rota retilínea. Considere 0,64 como aproximação para <m>cos~50^{\circ}.</m></p>
+          <p>A direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar são, respectivamente,</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>135 e 7 horas e 15 minutos.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>45 e 7 horas e 15 minutos.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>135 e 12 horas.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>135 e 6 horas.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>45 e 6 horas.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="165">
+        <classification subject="Math:Statistics"/>
+        <statement>
+          <p>Em um estudo clínico, 55 mulheres foram distribuídas, aleatoriamente, em 5 grupos de 11 pessoas. Para testar uma nova medicação, será escolhido um grupo no qual a maioria das mulheres tenham idades entre 20 e 30 anos. Os demais grupos tomarão placebo ou medicações já existentes no mercado. O quadro, parcialmente preenchido, informa alguns dados relativos às idades das mulheres desses grupos.</p>
+          <p>Mesmo com o quadro incompleto, foi possível selecionar um desses grupos porque, apenas com os dados apresentados no quadro, foi identificado um grupo que, certamente, atendia ao critério de escolha. O grupo escolhido foi o</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>1.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>2.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>3.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>4.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>5.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="166">
+        <classification subject="Math:Algebra"/>
+        <statement>
+          <p>Pace é um termo usado por um corredor para denominar o seu ritmo médio em uma corrida. Representa o tempo médio, em segundo, que esse corredor leva para percorrer 1 km. O esquema apresenta o tempo, em segundo, que um corredor levou para cruzar as marcas que definem os quatro primeiros trechos de 1 km, em uma corrida de 5 km, e o tempo gasto para percorrer cada trecho de 1 km.</p>
+          <p>O melhor pace que esse corredor alcançou em corridas de 5 km foi <m>281~s/km.</m> Para que consiga repetir nessa corrida seu melhor pace em corridas de 5 km, seu tempo, no 5º trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4º trecho?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>1</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>2</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>8</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>9</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>15</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="167">
+        <classification subject="Math:Algebra:Functions"/>
+        <statement>
+          <p>Uma pessoa tem um carro bicombustível, que funciona a gás natural veicular (GNV) e a gasolina. O rendimento do carro, medido em <m>km/m^{3}</m> no caso do gás, ou medido em <m>km/L</m>, no caso da gasolina, depende, entre outros fatores, da velocidade, em <m>km/h,</m> em que o carro trafega. Essa relação está em conformidade com estes gráficos.</p>
+          <p>Durante um feriado, essa pessoa realizou uma viagem de 240 km. Para obter uma estimativa de gasto de combustível, assuma que em todo o trajeto se manteve uma velocidade constante de <m>60~km/h</m>. Considere que, durante metade do caminho, foi utilizado apenas GNV e, na outra metade, apenas gasolina. O que foi pago pelo metro cúbico de GNV e pelo litro de gasolina correspondeu, respectivamente, a R$ 2,00 e a R$ 3,00.</p>
+          <p>Qual foi a diferença, em real, entre os gastos totais com gasolina e com GNV?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>4</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>8</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>14</p>
+          </option>
+          <option label="D" is_correct="true">
+            <p>21</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>30</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="168">
+        <classification subject="Math:Financial"/>
+        <statement>
+          <p>Em um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos:</p>
+          <list>
+            <item><p>pacote com 20 aulas teóricas;</p></item>
+            <item><p>pacote com 10 aulas práticas;</p></item>
+            <item><p>aluguel do veículo para realização das aulas práticas.</p></item>
+          </list>
+          <p>Uma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula teórica e de cada aula prática em três autoescolas. Ela contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.</p>
+          <p>A autoescola que será contratada é a</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>I, com o custo total de R$ 1 400,00.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>II, com o custo total de R$ 280,00.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>II, com o custo total de R$ 1 300,00.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>III, com o custo total de R$ 460,00.</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>III, com o custo total de R$ 1 200,00.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="169">
+        <classification subject="Math:Statistics"/>
+        <statement>
+          <p>A produtividade de soja em uma área cultivada é a média da quantidade de sacas de 50 quilogramas que são produzidas por hectare. O quadro apresenta a área cultivada e a produtividade de soja em certa propriedade, ao longo de cinco safras, com períodos de um ano, de 2011 a 2016.</p>
+          <p>O gráfico de linhas que representa a produção de soja dessa propriedade, em tonelada, nessas cinco safras é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>Gráfico A</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>Gráfico B</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Gráfico C</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>Gráfico D</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>Gráfico E</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="170">
+        <classification subject="Math:Geometry:Solid Geometry"/>
+        <statement>
+          <p>Uma caixa de descarga, acoplada a um vaso sanitário, tem a forma de paralelepipedo reto retângulo cujas dimensões internas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia que interrompe o abastecimento quando a altura da coluna de água atinge 2 dm. A cada acionamento da descarga, todo o volume de água contida na caixa é despejado no vaso.</p>
+          <p>Para reduzir o volume de água despejado a cada acionamento, uma pessoa colocará, no interior dessa caixa, garrafas de 300 mL, cheias de areia e tampadas, de modo a ficarem submersas quando o abastecimento for interrompido. Para garantir o funcionamento eficiente, o mínimo de água despejada a cada acionamento deve ser de 5 L.</p>
+          <p>A quantidade máxima de garrafas que serão colocadas nessa caixa, garantindo um funcionamento eficiente, é igual a</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>10.</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>8.</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>4.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>3.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>2.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="171">
+        <classification subject="Math:Geometry:Solid Geometry"/>
+        <statement>
+          <p>Um confeiteiro passou a produzir tortas em formato de cilindro circular reto, com raio da base variando entre 12 cm e 16 cm e altura de 6 cm. Essas tortas deverão ser embaladas em caixas com formato de prisma reto de base quadrada, de modo que seja possível acomodar a torta em seu interior e ainda restar pelo menos 1 cm de distância entre a torta e as superfícies internas da caixa, lateral e superior.</p>
+          <p>Ele dispõe, originalmente, de caixas no formato pretendido, cujas dimensões internas são 14 cm de comprimento do lado da base e 7 cm de altura, que não atendem às suas necessidades. Portanto, ele comprará novas caixas, com o mesmo formato das caixas originais, mas com comprimento do lado da base maior, que sejam adequadas para embalar todos os tipos de torta que produz.</p>
+          <p>A aresta da base das novas caixas deve ser, no mínimo, quantos centímetros maior do que a das caixas originais?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>4</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>12</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>16</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>18</p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>20</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="172">
+        <classification subject="Math:Algebra:Logarithmic"/>
+        <statement>
+          <p>Um empresário utiliza máquinas cuja pressão interna P, em atmosfera, depende do tempo contínuo de utilização t, em hora, e de um parâmetro positivo K, que define o modelo da máquina, segundo a expressão: <m>P=4\cdot log[-K\cdot(t+1)\cdot(t-19)]</m></p>
+          <p>O fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento. O empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro K, atendendo à recomendação do fabricante.</p>
+          <p>O maior valor a ser escolhido para K é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p><m>10^{0.5}</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>10^{8}</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>\frac{10^{2,5}}{84}</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>\frac{10^{2,5}}{99}</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>25\times10^{-2}</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="173">
+        <classification subject="Math:Geometry:Solid Geometry"/>
+        <statement>
+          <p>Em uma cidade, será construído um túnel que atravessa uma montanha para facilitar o trânsito de automóveis e bicicletas. Dois projetos foram elaborados e os esquemas com as vistas frontais desses projetos são apresentados na figura. O Projeto 1 conta com dois túneis, um exclusivo para bicicletas e o outro, para automóveis. O Projeto 2 conta com um único túnel, com espaços reservados para o trânsito exclusivo de bicicletas e automóveis. Nos dois projetos, os túneis têm o formato de semicilindro reto de mesma extensão, com vias de ida e volta para os dois tipos de veículos, separados por muretas. O projeto a ser aprovado será aquele que apresentar a menor área da seção transversal, pois implicará menor volume de material retirado da montanha. Considere 3 como aproximação para <m>\pi</m> e desconsidere as espessuras das muretas.</p>
+          <p>O projeto a ser aprovado é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p>o 1, pois apresenta área de seção transversal medindo 67,5 <m>m^{2}</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>o 2, pois apresenta área de seção transversal medindo 121,5 <m>m^{2}</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>o 1, pois apresenta área de seção transversal medindo 135 <m>m^{2}</m>.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>o 2, pois apresenta área de seção transversal medindo 243 <m>m^{2}</m>.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>qualquer um dos dois, pois apresentam áreas de suas seções transversais com medidas iguais.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="174">
+        <classification subject="Math:Financial"/>
+        <statement>
+          <p>Um carro que custa 60 mil reais é comercializado por uma revendedora que oferece duas opções de pagamento, todas sem entrada e sem juros:</p>
+          <list>
+            <item><p>opção 1: pagamento em n parcelas iguais;</p></item>
+            <item><p>opção 2: pagamento em 6 parcelas a mais do que na opção 1 e, com isso, o valor de cada parcela se torna R$ 500,00 menor do que o valor da parcela na opção 1.</p></item>
+          </list>
+          <p>Nas duas opções de pagamento, o valor total a ser pago pelo carro é o mesmo. Qual é a quantidade n de parcelas contidas na opção 1 de pagamento?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>18</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>24</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>30</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>42</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>48</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="175">
+        <classification subject="Math:Combinatorics"/>
+        <statement>
+          <p>Um pai comprou oito presentes diferentes (dentre os quais, uma bicicleta e um celular) para dar a seus três filhos. Ele pretende distribuir os presentes de modo que o filho mais velho e o mais novo recebam três presentes cada um, e o do meio receba os dois presentes restantes. O mais velho ganhará, entre seus presentes, ou uma bicicleta ou um celular, mas não ambos.</p>
+          <p>De quantas maneiras distintas a distribuição dos presentes pode ser feita?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>36</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>53</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>300</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>360</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>560</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="176">
+        <classification subject="Math:Algebra"/>
+        <statement>
+          <p>A final de um campeonato de futebol foi disputada em 2 tempos regulamentares, de 45 minutos cada, sem acréscimos, com uma prorrogação de 30 minutos, também sem acréscimos. Um jogador entrou no início do segundo tempo, com um equipamento para medir a distância percorrida durante sua participação no jogo. Ao final do segundo tempo regulamentar, esse jogador havia percorrido 4,5 km. Ele manteve na prorrogação a mesma velocidade média que havia mantido no segundo tempo regulamentar.</p>
+          <p>A distância percorrida por esse jogador durante sua participação na partida, em quilômetro, foi</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>4,5.</p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>6,0.</p>
+          </option>
+          <option label="C" is_correct="true">
+            <p>7,5.</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>9,0.</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>12,0.</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="177">
+        <classification subject="Math:Geometry:Solid Geometry"/>
+        <statement>
+          <p>A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm. A figura ABCD tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas. Considere 3,1 como valor aproximado para <m>\pi</m>.</p>
+          <p>Qual é o volume de ouro, em centímetro cúbico, necessário para a confecção dessas medalhas?</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>288</p>
+          </option>
+          <option label="B" is_correct="true">
+            <p>297</p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>567</p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>990</p>
+          </option>
+          <option label="E" is_correct="false">
+            <p>1134</p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="178">
+        <classification subject="Math:Probability"/>
+        <statement>
+          <p>Três dados cúbicos, com faces numeradas de 1 a 6, foram utilizados em um jogo. Artur escolheu dois dados, e João ficou com o terceiro. O jogo consiste em ambos lançarem seus dados, observarem os números nas faces voltadas para cima e compararem o maior número obtido por Artur com o número obtido por João. Vence o jogador que obtiver o maior número. Em caso de empate, a vitória é de João.</p>
+          <p>O jogador que tem a maior probabilidade de vitória é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p>Artur, com probabilidade de <m>\frac{2}{3}</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p>João, com probabilidade de <m>\frac{4}{9}</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p>Artur, com probabilidade de <m>\frac{91}{216}</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p>João, com probabilidade de <m>\frac{91}{216}</m></p>
+          </option>
+          <option label="E" is_correct="true">
+            <p>Artur, com probabilidade de <m>\frac{125}{216}</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="179">
+        <classification subject="Physics:Optics"/>
+        <statement>
+          <p>A luminância de um objeto é a grandeza que descreve a quantidade de luz produzida ou refletida por sua superfície. Ela está definida como a razão entre a intensidade luminosa, medida em candela (cd), e o quadrado da distância do objeto até o foco de luz, medida em metro (m).</p>
+          <p>A unidade de medida da luminância de um objeto é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="true">
+            <p><m>\frac{cd}{m^{2}}</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>\frac{m^{2}}{cd}</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>\frac{cd}{m}</m></p>
+          </option>
+          <option label="D" is_correct="false">
+            <p><m>\frac{m}{cd}</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>\frac{m}{cd^{2}}</m></p>
+          </option>
+        </options>
+      </objective_question>
+      <objective_question number="180">
+        <classification subject="Math:Algebra:Sequences and Series"/>
+        <statement>
+          <p>Quatro amigos, cada um com 100 moedas, criaram um jogo, no qual cada um assume uma das quatro posições, 1, 2, 3 ou 4, indicadas na figura, e nela permanece até o final. O desenvolvimento do jogo se dá em rodadas e, em todas elas, cada jogador transfere e recebe uma quantidade de moedas, da seguinte maneira:</p>
+          <list>
+            <item><p>o jogador na posição 1 transfere 1 moeda para o jogador na posição 2;</p></item>
+            <item><p>o jogador na posição 2 transfere 2 moedas para o jogador na posição 3;</p></item>
+            <item><p>o jogador na posição 3 transfere 3 moedas para o jogador na posição 4;</p></item>
+            <item><p>o jogador na posição 4 transfere 4 moedas para o jogador na posição 1.</p></item>
+          </list>
+          <p>Após n rodadas, o número de moedas que o jogador da posição 1 terá é</p>
+        </statement>
+        <options>
+          <option label="A" is_correct="false">
+            <p><m>100-3n</m></p>
+          </option>
+          <option label="B" is_correct="false">
+            <p><m>100-4n</m></p>
+          </option>
+          <option label="C" is_correct="false">
+            <p><m>100+4n</m></p>
+          </option>
+          <option label="D" is_correct="true">
+            <p><m>100+3n</m></p>
+          </option>
+          <option label="E" is_correct="false">
+            <p><m>100+7n</m></p>
+          </option>
+        </options>
+      </objective_question>
+    </question_group>
+  </subject>
+  
+</exam>

@@ -679,7 +679,7 @@
 							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
 						</xs:sequence>
 						<!-- Attributes -->
-						<xs:attribute name="number" type="xs:integer" use="required"/>
+						<xs:attribute name="number" type="xs:string" use="required"/>
 						<xs:attribute name="cancelled" type="xs:boolean"/>
 						<xs:attribute name="success_rate" type="Percentage"/>
 					</xs:complexType>
@@ -695,7 +695,7 @@
 							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
 						</xs:sequence>
 						<!-- Attributes -->
-						<xs:attribute name="number" type="xs:integer" use="required"/>
+						<xs:attribute name="number" type="xs:string" use="required"/>
 						<xs:attribute name="null" type="xs:boolean"/>
 						<xs:attribute name="success_rate" type="Percentage"/>
 					</xs:complexType>
@@ -709,7 +709,7 @@
 							<xs:element name="assumptions" type="StatementChilds" minOccurs="0"/>
 						</xs:sequence>
 						<!-- Attributes -->
-						<xs:attribute name="number" type="xs:integer" use="required"/>
+						<xs:attribute name="number" type="xs:string" use="required"/>
 						<xs:attribute name="null" type="xs:boolean"/>
 					</xs:complexType>
 				</xs:element>

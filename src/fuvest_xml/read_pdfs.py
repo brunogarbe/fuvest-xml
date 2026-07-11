@@ -508,7 +508,8 @@ def read_pdfs_command(
     xml_schema = load_schema(schema)
 
     pdf_files = sorted(
-        path for path in input_dir.iterdir()
+        path
+        for path in input_dir.rglob("*")
         if path.is_file() and path.suffix.lower() == ".pdf"
     )
     if not pdf_files:

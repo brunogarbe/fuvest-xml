@@ -21,7 +21,7 @@ Run a tool with `uv run <command> --help`:
 - `fuvest-xml-format`: pretty-print an XML file in place.
 - `fuvest-xml-db`: build and query the exam SQLite database.
 - `fuvest-xml-gui`: launch the PyQt desktop interface.
-- `fuvest-xml-read-pdfs`: extract XML from PDFs in an input directory, skipping XML files that already exist.
+- `fuvest-xml-read-pdfs`: recursively extract XML from PDFs under `exams/pdf`, writing to `exams/xml` and skipping XML files that already exist.
 
 For example:
 

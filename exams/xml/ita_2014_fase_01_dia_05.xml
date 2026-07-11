@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2014" phase="objective" day="0" variation="V1" date="2014-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Metanol (CH3OH) e água deuterada (D2O) são misturados numa razão volumétrica de 7:3, respectivamente, nas condições ambientes. A respeito dessa mistura, são feitas as seguintes afirmações:</p>
+        <p>I. Imediatamente após a mistura das duas substâncias é observada uma fase única. II. Após o equilíbrio, observa-se uma fase única que contém as seguintes substâncias: CH3OH, D2O, CH3OD e HOD. III. Se for adicionado um cubo de D2O(s) à mistura, este flutuará na superfície da mistura líquida.</p>
+        <p>Assinale a opção que contém a(s) afirmação(ões) CORRETA(S).</p>
+        <p>A ( ) Apenas I</p>
+        <p>B ( ) Apenas I e II</p>
+        <p>C ( ) Apenas II D ( ) Apenas III</p>
+        <p>E ( ) Todas</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Considere os seguintes compostos:</p>
+        <p>I. CH3CH2OH</p>
+        <p>II. CH3CH2COOCH3</p>
+        <p>III. HCℓ IV. H3PO4</p>
+        <p>V. POCℓ3</p>
+        <p>Assinale a opção que contém os produtos que podem ser formados pela reação de ácido acético com pentacloreto de fósforo.</p>
+        <p>A ( ) Apenas I, III e IV</p>
+        <p>B ( ) Apenas I e IV</p>
+        <p>C ( ) Apenas II e III D ( ) Apenas II e V</p>
+        <p>E ( ) Apenas III e V</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Nas condições ambientes são feitas as seguintes afirmações sobre o ácido tartárico:</p>
+        <p>I. É um sólido cristalino. II. É solúvel em tetracloreto de carbono. III. É um ácido monoprótico quando em solução aquosa. IV. Combina-se com íons metálicos quando em solução aquosa.</p>
+        <p>Das afirmações acima, está(ão) CORRETA(S) apenas</p>
+        <p>A ( ) I e II.</p>
+        <p>B ( ) I e IV.</p>
+        <p>C ( ) II e III. D ( ) III e IV.</p>
+        <p>E ( ) IV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Considere que 1 mol de uma substância sólida está em equilíbrio com seu respectivo líquido na temperatura de fusão de −183 °C e a 1 atm. Sabendo que a variação de entalpia de fusão dessa substância é 6,0 kJ ∙ mol −1, assinale a opção que apresenta a variação de entropia, em J ∙ K −1 ∙ mol −1.</p>
+        <p>A ( ) − 20</p>
+        <p>B ( ) − 33</p>
+        <p>C ( ) + 50</p>
+        <p>D ( ) + 67</p>
+        <p>E ( ) + 100</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Assinale a opção que contém o(s) produto(s) formado(s) durante o aquecimento de uma mistura de Cu2O e Cu2S, em atmosfera inerte.</p>
+        <p>A ( ) CuSO4</p>
+        <p>B ( ) Cu2SO3</p>
+        <p>C ( ) Cu e SO2 D ( ) Cu e SO3</p>
+        <p>E ( ) CuO e CuS</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Assinale a opção que contém o momento angular do elétron na 5ª órbita do átomo de hidrogênio, segundo o modelo atômico de Bohr.</p>
+        <p>A ( ) h/2π</p>
+        <p>B ( ) h/π</p>
+        <p>C ( ) 2,5 h/2π D ( ) 2,5 h/π</p>
+        <p>E ( ) 5 h/π</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Assinale a opção que contém a base conjugada de OH─.</p>
+        <p>A ( ) O2─</p>
+        <p>B ( ) O─</p>
+        <p>C ( ) O2 ─</p>
+        <p>D ( ) H2O</p>
+        <p>E ( ) H+</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Assinale a opção que contém o número de oxidação do crômio no composto [Cr(NH3)4Cℓ2]+.</p>
+        <p>A ( ) Zero</p>
+        <p>B ( ) + 1</p>
+        <p>C ( ) + 2</p>
+        <p>D ( ) + 3</p>
+        <p>E ( ) + 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Assinale a opção que apresenta o elemento químico com o número CORRETO de nêutrons.</p>
+        <p>A ( ) F 19 9</p>
+        <p>tem zero nêutrons.</p>
+        <p>B ( ) Mg 24 12 tem 24 nêutrons. C ( ) Au 197 79 tem 79 nêutrons.</p>
+        <p>D ( ) As 75 33 tem 108 nêutrons. E ( ) U 238 92 tem 146 nêutrons.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. A pressão de vapor de uma solução ideal contendo um soluto não-volátil dissolvido é diretamente proporcional à</p>
+        <p>A ( ) fração molar do soluto. B ( ) fração molar do solvente. C ( ) pressão osmótica do soluto. D ( ) molaridade, em mol ∙ L −1, do solvente. E ( ) molalidade, em mol ∙ kg −1, do solvente.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Considere um mol de um gás que se comporta idealmente, contido em um cilindro indeformável provido de pistão de massa desprezível, que se move sem atrito. Com relação a este sistema, são feitas as seguintes afirmações:</p>
+        <p>I. Se o gás for resfriado contra pressão externa constante, o sistema contrai-se. II. Se pressão for exercida sobre o pistão, a velocidade média das moléculas do gás aumenta. III. Se o sistema for aquecido a volume constante, a velocidade média das moléculas aumenta, independentemente da natureza do gás. IV. A velocidade média das moléculas será maior se o gás for o xenônio e menor se for o argônio.</p>
+        <p>Das afirmações acima, está(ão) ERRADA(S) apenas</p>
+        <p>A ( ) I e II.</p>
+        <p>B ( ) I, III e IV.</p>
+        <p>C ( ) II e III. D ( ) II e IV.</p>
+        <p>E ( ) IV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Considere três cubos maciços de 2 cm de aresta, constituídos, respectivamente, de Cr, Ni e Ti puros. Os três cubos são aquecidos até 80 ºC e cada cubo é introduzido em um béquer contendo 50 g de água a 10 ºC. Com base nas informações constantes da tabela abaixo, assinale a opção que apresenta a relação CORRETA entre as temperaturas dos cubos, quando o conteúdo de cada béquer atingir o equilíbrio térmico.</p>
+        <p>Substância Massa específica (g ∙ cm −3) Calor específico (J ∙ g −1 ∙ K −1) H2O 1,00 4,18 Ti 4,54 0,52 Cr 7,18 0,45 Ni 8,90 0,44</p>
+        <p>A ( ) Cr Ni Ti T T T &gt; &gt; .</p>
+        <p>B ( ) Ni Ti Cr T T T = &gt; .</p>
+        <p>C ( ) Ni Cr Ti T T T &gt; &gt; . D ( ) Ti Cr Ni T T T &gt; &gt; .</p>
+        <p>E ( ) Ti Cr Ni T T T &gt; = .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Considere a reação química genérica A B C → + . A concentração do reagente [A] foi acompanhada ao longo do tempo, conforme apresentada na tabela que também registra os logaritmos neperianos (ℓn) desses valores e os respectivos recíprocos (1/[A]).</p>
+        <p>t (s) [A] (mol ∙ L −1) ℓn [A] 1/[A] (L ∙ mol −1) 0 0,90 − 0,11 1,11 100 0,63 − 0,46 1,59 200 0,43 − 0,84 2,33 300 0,30 − 1,20 3,33 400 0,21 − 1,56 4,76 500 0,14 − 1,97 7,14 600 0,10 − 2,30 10,00</p>
+        <p>Assinale a opção que contém a constante de velocidade CORRETA desta reação.</p>
+        <p>A ( ) 4 x 10 ─3 s ─1</p>
+        <p>B ( ) 4 x 10 ─3 mol ∙ L ─1 ∙ s ─1 C ( ) 4 x 10 ─3 L ∙ mol ─1 ∙ s ─1</p>
+        <p>D ( ) 4 x 103 s ─1 E ( ) 4 x 103 mol ∙ L─1 ∙ s ─1</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. São feitas as seguintes comparações de valores de pKa de compostos orgânicos:</p>
+        <p>I. pKa (CH3COOH) &gt; pKa (CℓCH2COOH) II. pKa (F3CCOOH) &gt; pKa (Cℓ3CCOOH) III. pKa (CH3CH2CHCℓCOOH) &gt; pKa (CH3CHCℓCH2COOH)</p>
+        <p>Das comparações acima, está(ão) CORRETA(S) apenas</p>
+        <p>A ( ) I. B ( ) I, II e III.</p>
+        <p>C ( ) I e III. D ( ) II.</p>
+        <p>E ( ) II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. São feitas as seguintes afirmações sobre o que Joule demonstrou em seus experimentos do século XIX:</p>
+        <p>I. A relação entre calor e trabalho é fixa. II. Existe um equivalente mecânico do calor. III. O calor pode ser medido.</p>
+        <p>Das afirmações acima, está(ão) CORRETA(S) apenas</p>
+        <p>A ( ) I. B ( ) I, II e III.</p>
+        <p>C ( ) I e III. D ( ) II.</p>
+        <p>E ( ) II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Joseph Black (1728-1799), médico, químico e físico escocês, conceituou o calor específico. Esta conceituação teve importantes aplicações práticas, dentre elas a máquina a vapor, desenvolvida pelo engenheiro escocês James Watt (1736-1819). Que componente do motor a vapor desenvolvido por Watt revolucionou seu uso e aplicação?</p>
+        <p>A ( ) Boiler ou fervedor</p>
+        <p>B ( ) Bomba de recalque</p>
+        <p>C ( ) Caldeira D ( ) Condensador</p>
+        <p>E ( ) Turbina a vapor</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Assinale a opção que contém a concentração (em mol ∙ L −1) de um íon genérico M+, quando se adiciona um composto iônico MX sólido até a saturação a uma solução aquosa 5 x 10─3 mol ∙ L −1 em PX. Dado Kps(MX) = 5 x 10 ─12.</p>
+        <p>A ( ) 2,3 x 10 ─6</p>
+        <p>B ( ) 1,0 x 10 ─7</p>
+        <p>C ( ) 2,3 x 10 ─8 D ( ) 1,0 x 10 ─9</p>
+        <p>E ( ) 1,0 x 10 ─10</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Considere os seguintes compostos:</p>
+        <p>I. álcoois II. aldeídos III. carbono particulado (negro de fumo) IV. cetonas</p>
+        <p>Dos componentes acima, é (são) produto(s) da combustão incompleta do n-octano com ar atmosférico apenas</p>
+        <p>A ( ) I e II.</p>
+        <p>B ( ) I e IV.</p>
+        <p>C ( ) II e III. D ( ) III.</p>
+        <p>E ( ) IV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Considere a reação do tetraborato de sódio:</p>
+        <p>2 4 7 2 2 4 3 2 4 2 Na B O . 10H O( ) H SO ( ) 4B(OH) ( ) Na SO ( ) 5H O + → + + s aq aq aq (ℓ)</p>
+        <p>Em relação ao produto da reação B(OH)3 são feitas as seguintes afirmações:</p>
+        <p>I. B(OH)3 é um ácido de Brönsted – Lorry. II. B(OH)3 é uma base de Arrhenius. III. O produto da primeira ionização do B(OH)3(aq) é o BO(OH)− 2 (aq).</p>
+        <p>Das afirmações acima, está(ão) CORRETA(S) apenas</p>
+        <p>A ( ) I.</p>
+        <p>B ( ) I e III. C ( ) II.</p>
+        <p>D ( ) II e III. E ( ) III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Considere uma célula a combustível alcalina (hidrogênio-oxigênio) sobre a qual são feitas as seguintes afirmações:</p>
+        <p>I. Sob condição de consumo de carga elétrica, a voltagem efetiva de serviço desse dispositivo eletroquímico é menor que a força eletromotriz da célula. II. O combustível (hidrogênio gasoso) é injetado no compartimento do anodo e um fluxo de oxigênio gasoso alimenta o catodo dessa célula eletroquímica. III. Sendo o potencial padrão dessa célula galvânica igual a 1,229 VEPH (volt na escala padrão do hidrogênio), a variação de energia livre de Gibbs padrão (∆G°) da reação global do sistema redox atuante é igual a − 237,2 kJ ∙ mol−1.</p>
+        <p>Das afirmações acima, está(ão) CORRETA(S) apenas</p>
+        <p>A ( ) I. B ( ) I, II e III. C ( ) I e III. D ( ) II. E ( ) II e III.</p>
+        <p>AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESPONDIDAS NO CADERNO DE SOLUÇÕES. AS QUESTÕES NUMÉRICAS DEVEM SER DESENVOLVIDAS ATÉ O FINAL, COM APRESENTAÇÃO DO VALOR ABSOLUTO DO RESULTADO.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. O dióxido de potássio tem várias aplicações, entre as quais, a</p>
+        <p>(a) produção de peróxido de hidrogênio (g) na presença de água. (b) conversão de dióxido de carbono (g) para oxigênio (g). (c) absorção de dióxido de carbono (g) na presença de H2O com formação de oxigênio (g).</p>
+        <p>Apresente as equações químicas balanceadas que representam as reações descritas nos itens acima.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. São descritos dois experimentos:</p>
+        <p>I. Ovo cozido em água fervente teve sua casca quebrada, de modo que parte de sua clara permaneceu em contato com esta água, na qual a seguir foi também imerso um objeto polido de prata. Após um certo período de tempo, observou-se o escurecimento desse objeto, que foi retirado da água e lavado. II. Em um béquer, foi aquecida água até a fervura e adicionada uma colher das de sopa de cloreto de sódio. A seguir, esta solução foi transferida para um béquer revestido com papel alumínio. O objeto de prata utilizado no experimento I foi então imerso nesta solução e retirado após alguns minutos.</p>
+        <p>Em relação a esses experimentos:</p>
+        <p>(a) apresente a equação global que representa a reação química ocorrida na superfície do objeto de prata no experimento I e calcule a diferença de potencial elétrico da reação química. (b) preveja a aparência do objeto de prata após a realização do segundo experimento. (c) apresente a equação global da reação química envolvida no experimento II e sua diferença de potencial elétrico.</p>
+        <p>Dados: 2 2 Ag S( ) 2e 2Ag( ) S ( ) E 0,691V − − + + ° = −  s s aq</p>
+        <p>2 2 O ( ) 4H ( ) 4e 2H O( ) E 1,229V + − + + ° =   g aq</p>
+        <p>3 Al ( ) 3e Al( ) E 1,662V + − + ° = −  aq s</p>
+        <p>2 2 Ag S( ) 2H ( ) 2e 2Ag( ) H S( ) E 0,037V + − + + + ° = −  s aq s g</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Apresente as equações que representam as reações químicas de nitração do tolueno, na presença de ácido sulfúrico, levando a seus isômeros. Indique o percentual de ocorrência de cada isômero e seus respectivos estados físicos, nas condições-padrão.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Escreva a reação de combustão completa de um hidrocarboneto genérico (C H ) α β com ar atmosférico. Considere a presença do nitrogênio gasoso no balanço estequiométrico da reação e expresse os coeficientes estequiométricos dessa reação em função de α e β.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Em um processo de eletrodeposição, níquel metálico é eletrodepositado no catodo de uma célula eletrolítica e permanece coeso e aderido a esse eletrodo. Sabendo que a massa específica do níquel metálico (ρNi,25 °C) é igual a 8,9 x 103 kg ∙ m ─3 e que a espessura total da camada eletrodepositada, medida no final do processo, foi de 2,0 x 10 ─6 m, calcule a densidade de corrente aplicada (admitida constante), expressa em A ∙ m─2, considerando nesse processo uma eficiência de corrente de eletrodeposição de 100% e um tempo de operação total de 900 s.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Água líquida neutra (pH = 7,0), inicialmente isenta de espécies químicas dissolvidas, é mantida em um recipiente de vidro aberto e em contato com a atmosfera ambiente sob temperatura constante. Admitindo-se que a pressão parcial do oxigênio atmosférico seja igual a 0,2 atm e sabendo-se que esse gás é solúvel em H2O(ℓ) e que o sistema está em equilíbrio à temperatura de 25 °C, pedem-se:</p>
+        <p>(a) escrever a equação química balanceada da semirreação que representa o processo de redução de oxigênio gasoso em meio de água líquida neutra e aerada. (b) determinar o potencial de eletrodo (VEPH), à temperatura de 25 °C, da semirreação obtida no item (a), considerando as condições estabelecidas no enunciado desta questão. (c) determinar o valor numérico, expresso em kJ ∙ mol −1, da variação de energia livre de Gibbs padrão (∆Go) da semirreação eletroquímica do item (a).</p>
+        <p>São dados: 2 o EPH O /OH E 0,401 V −=</p>
+        <p>EPH V volt na escala padrãodohidrogênio =</p>
+        <p>log n 2,303 = </p>
+        <p>(0,30 1) 0,2 10 − =</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Considere uma mistura gasosa constituída de C3H8, CO e CH4. A combustão, em excesso de oxigênio, de 50 mL dessa mistura gasosa forneceu 70 mL de CO2 (g). Determine o valor numérico do percentual de C3H8 na mistura gasosa.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. O ácido nítrico reage com metais, podendo liberar os seguintes produtos: NO (que pode ser posteriormente oxidado na presença do ar), N2O, NO2 ou NH3 (que reage posteriormente com HNO3, formando NH4NO3). A formação desses produtos depende da concentração do ácido, da natureza do metal e da temperatura da reação. Escreva qual(is) dos produtos citados acima é(são) formado(s) nas seguintes condições:</p>
+        <p>(a) 3 Zn( ) HNO muitodiluído( 2%) +  s</p>
+        <p>(b) 3 Zn( ) HNO diluído( 10%) +  s</p>
+        <p>(c) 3 Zn( ) HNO concentrado + s</p>
+        <p>(d) 3 Sn( ) HNO diluído + s</p>
+        <p>(e) 3 Sn( ) HNO concentrado + s</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Considere os seguintes dados:</p>
+        <p>Entalpia de vaporização da água a 25 °C: 1 vapH 44kJ mol− ∆ = ⋅</p>
+        <p>Massa específica da água a 25 °C: 2 3 H O 1,0g cm− ρ = ⋅</p>
+        <p>Temperaturas de ebulição a 1 bar: 2 2 2 2 eb,H O eb,H S eb,H Se eb,H Te T 100 C; T 60 C; T 41 C e T 2 C = ° = − ° = − ° = −°</p>
+        <p>Com base nestas informações:</p>
+        <p>(a) determine o valor numérico da energia liberada, em J, durante a precipitação pluviométrica de 20 mm de chuva sobre uma área de (10 x 10) km2. (b) justifique, em termos moleculares, por que 2 H O apresenta eb T muito maior que outros calcogenetos de hidrogênio. (c) como se relaciona, em termos moleculares, a elevada 2 eb,H O T com a quantidade de energia liberada durante uma precipitação pluviométrica?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Velocidades inciais (vi) de decomposição de peróxido de hidrogênio foram determinadas em três experimentos (A, B e C), conduzidos na presença de I ─(aq) sob as mesmas condições, mas com diferentes concentrações iniciais de peróxido ([H2O2]i), de acordo com os dados abaixo:</p>
+        <p>Experimento</p>
+        <p>[H2O2]i (mol ∙ L ─1)</p>
+        <p>vi (10─3 mol ∙ L ─1 ∙ s ─1) A</p>
+        <p>0,750</p>
+        <p>2,745 B</p>
+        <p>0,500</p>
+        <p>1,830 C</p>
+        <p>0,250</p>
+        <p>0,915</p>
+        <p>Com base nestes dados, para a reação de decomposição do peróxido de hidrogênio:</p>
+        <p>(a) escreva a equação estequiométrica que representa a reação. (b) indique a ordem desta reação. (c) escreva a lei de velocidade da reação. (d) determine o valor numérico da constante de velocidade, k. (e) indique a função do I ─(aq) na reação.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

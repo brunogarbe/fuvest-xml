@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2011" phase="objective" day="0" variation="V1" date="2011-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Um problema clássico da cinemática considera objetos que, a partir de certo instante, se movem conjuntamente com velocidade de módulo constante a partir dos vértices de um polígono regular, cada qual apontando à posição instantânea do objeto vizinho em movimento. A gura mostra a conguração desse movimento múltiplo no caso de um hexágono regular. Considere que o hexágono tinha 10,0 m de lado no instante inicial e que os objetos se movimentam com velocidade de módulo constante de 2,00 m/s. Após quanto tempo estes se encontrarão e qual deverá ser a distância percorrida por cada um dos seis objetos? A ( ) 5,8 s e 11,5 m B ( ) 11,5 s e 5,8 m C ( ) 10,0 s e 20,0 m D ( ) 20,0 s e 10,0 m E ( ) 20,0 s e 40,0 m</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Um cubo maciço homogêneo com 4,0 cm de aresta utua na água tranquila de uma lagoa, de modo a manter 70% da área total da sua superfície em contato com a água, conforme mostra a gura. A seguir, uma pequena rã se acomoda no centro da face superior do cubo e este se afunda mais 0,50 cm na água. Assinale a opção com os valores aproximados da densidade do cubo e da massa da rã, respectivamente. A ( ) 0,20 g/cm3 e 6,4 g B ( ) 0,70 g/cm3 e 6,4 g C ( ) 0,70 g/cm3 e 8,0 g D ( ) 0,80 g/cm3 e 6,4 g E ( ) 0,80 g/cm3 e 8,0 g.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Uma pessoa de 80,0 kg deixa-se cair verticalmente de uma ponte amarrada a uma corda elástica de "bungee jumping" com 16,0 m de comprimento. Considere que a corda se esticará até 20,0 m de comprimento sob a ação do peso. Suponha que, em todo o trajeto, a pessoa toque continuamente uma vuvuzela, cuja frequência natural é de 235 Hz. Qual(is) é(são) a(s) distância(s) abaixo da ponte em que a pessoa se encontra para que um som de 225 Hz seja percebido por alguém parado sobre a ponte? A ( ) 11,4 m B ( ) 11,4 m e 14,4 m C ( ) 11,4 m e 18,4 m D ( ) 14,4 m e 18,4 m E ( ) 11,4 m, 14,4 m e 18,4 m</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Na cção cientíca A Estrela, de H.G. Wells, um grande asteróide passa próximo à Terra que, em consequência, ca com sua nova órbita mais próxima do Sol e tem seu ciclo lunar alterado para 80 dias. Pode-se concluir que, após o fenômeno, o ano terrestre e a distância Terra-Lua vão tornar-se, respectivamente, A ( ) mais curto - aproximadamente a metade do que era antes. B ( ) mais curto - aproximadamente duas vezes o que era antes. C ( ) mais curto - aproximadamente quatro vezes o que era antes. D ( ) mais longo - aproximadamente a metade do que era antes. E ( ) mais longo - aproximadamente um quarto do que era antes.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Sobre uma mesa sem atrito, uma bola de massa M é presa por duas molas alinhadas, de constante de mola k e comprimento natural ℓ0, xadas nas extremidades da mesa. Então, a bola é deslocada a uma distância x na direção perpendicular à linha inicial das molas, como mostra a gura, sendo solta a seguir. Obtenha a aceleração da bola, usando a aproximação (1 + a)α = 1 + αa. ℓ0 ℓ0 x M A ( ) a = −kx/M B ( ) a = −kx2/2Mℓ0 C ( ) a = −kx2/Mℓ0 D ( ) a = −kx3/2Mℓ2 0 E ( ) a = −kx3/Mℓ2 0</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Um corpo de massa M, inicialmente em repouso, é erguido por uma corda de massa desprezível até uma altura H, onde ca novamente em repouso. Considere que a maior tração que a corda pode suportar tenha módulo igual a nMg, em que n &gt; 1. Qual deve ser o menor tempo possível para ser feito o erguimento desse corpo? A ( ) q 2H (n−1)g B ( ) q 2nH (n−1)g C ( ) q nH 2(n−1)2g D ( ) q 4nH (n−2)g E ( ) q 4nH (n−1)g</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Uma partícula de massa m move-se sobre uma linha reta horizontal num Movimento Harmônico Simples (MHS) com centro O. Inicialmente, a partícula encontra-se na máxima distância x0 de O e, a seguir, percorre uma distância a no primeiro segundo e uma distância b no segundo seguinte, na mesma direção e sentido. Quanto vale a amplitude x0 desse movimento? A ( ) 2a3/(3a2 −b2) B ( ) 2b2/(4a −b) C ( ) 2a2/(3a −b) D ( ) 2a2b/(3a2 −b2) E ( ) 4a2/(3a −2b)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Duas partículas idênticas, de mesma massa m, são projetadas de uma origem O comum, num plano vertical, com velocidades iniciais de mesmo módulo e ângulos de lançamento respectivamente α e β em relação à horizontal. Considere T1 e T2 os respectivos tempos de alcance do ponto mais alto de cada trajetória e t1 e t2 os respectivos tempos para as partículas alcançar um ponto comum de ambas as trajetórias. Assinale a opção com o valor da expressão t1T1 + t2T2. A ( ) 2v2 0 (tgα + tgβ)/g2 B ( ) 2v2 0/g2 C ( ) 4v2 0 senα/g2 D ( ) 4v2 0 senβ/g2 E ( ) 2v2 0 (senα + senβ)/g2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Um exercício sobre a dinâmica da partícula tem seu início assim enunciado : Uma partícula está se movendo com uma aceleração cujo módulo é dado por µ (r + a3/r2) , sendo r a distância entre a origem e a partícula. Considere que a partícula foi lançada a partir de uma distância a com uma velocidade inicial 2√µa. Existe algum erro conceitual nesse enunciado ? Por que razão? A ( ) Não, porque a expressão para a velocidade é consistente com a da aceleração; B ( ) Sim, porque a expressão correta para a velocidade seria 2a2√µ; C ( ) Sim, porque a expressão correta para a velocidade seria 2a2p µ/r; D ( ) Sim, porque a expressão correta para a velocidade seria 2 p a2µ/r; E ( ) Sim, porque a expressão correta para a velocidade seria 2a√µ;</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Um prisma regular hexagonal homogêneo com peso de 15 N e aresta da base de 2,0 m é mantido de pé graças ao apoio de um dos seus vértices da base inferior (ver gura) e à ação de uma força vertical de suspensão de 10 N (não mostrada). Nessas condições, o ponto de aplicação da força na base superior do prisma encontra-se A ( ) sobre o segmento RM a 2,0 m de R. B ( ) sobre o segmento RN a 4,0 m de R. C ( ) sobre o segmento RN a 3,0 m de R. D ( ) sobre o segmento RN a 2,0 m de R. E ( ) sobre o segmento RP a 2,5 m de R.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Um relógio tem um pêndulo de 35 cm de comprimento. Para regular seu funcionamento, ele possui uma porca de ajuste que encurta o comprimento do pêndulo de 1 mm a cada rotação completa à direita e alonga este comprimento de 1 mm a cada rotação completa à esquerda. Se o relógio atrasa um minuto por dia, indique o número aproximado de rotações da porca e sua direção necessários para que ele funcione corretamente. A ( ) 1 rotação à esquerda B ( ) 1/2 rotação à esquerda C ( ) 1/2 rotação à direita D ( ) 1 rotação à direita E ( ) 1 e 1/2 rotações à direita.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Um hemisfério de vidro maciço de raio de 10 cm e índice de refração n = 3/2 tem sua face plana apoiada sobre uma parede, como ilustra a gura. Um feixe colimado de luz de 1 cm de diâmetro incide sobre a face esférica, centrado na direção do eixo de simetria do hemisfério. Valendo-se das aproximações de ângulos pequenos, sen θ ≈θ e tg θ ≈θ, o diâmetro do círculo de luz que se forma sobre a superfície da parede é de A ( ) 1 cm. B ( ) 2 3 cm. C ( ) 1 2 cm. D ( ) 1 3 cm. E ( ) 1 10 cm.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. A inversão temporal de qual dos processos abaixo NÃO violaria a segunda lei de termodinámica? A ( ) A queda de um objeto de uma altura H e subsequente parada no chão B ( ) O movimento de um satélite ao redor da Terra C ( ) A freiada brusca de um carro em alta velocidade D ( ) O esfriamento de um objeto quente num banho de água fria E ( ) A troca de matéria entre as duas estrelas de um sistema binário</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Fontes distantes de luz separadas por um ângulo α numa abertura de diâmetro D podem ser distinguidas quando α &gt; 1, 22λ/D, em que λ é o comprimento de onda da luz. Usando o valor de 5 mm para o diâmetro das suas pupilas, a que distância máxima aproximada de um carro você deveria estar para ainda poder distinguir seus faróis acesos? Considere uma separação entre os faróis de 2 m. A ( ) 100 m B ( ) 500 m C ( ) 1 km D ( ) 10 km E ( ) 100 km</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Uma diferença de potencial eletrostático V é estabelecida entre os pontos M e Q da rede cúbica de capacitores idênticos mostrada na gura. A diferença de potencial entre os pontos N e P é A ( ) V/2. B ( ) V/3. C ( ) V/4. D ( ) V/5. E ( ) V/6.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Um o condutor é derretido quando o calor gerado pela corrente que passa por ele se mantém maior que o calor perdido pela superfície do o (desprezando a condução de calor pelos contatos). Dado que uma corrente de 1 A é a mínima necessária para derreter um o de seção transversal circular de 1 mm de raio e 1 cm de comprimento, determine a corrente mínima necessária para derreter um outro o da mesma substância com seção transversal circular de 4 mm de raio e 4 cm de comprimento. A ( ) 1/8 A B ( ) 1/4 A C ( ) 1 A D ( ) 4 A E ( ) 8 A</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Prótons (carga e e massa mp), deuterons (carga e e massa md = 2mp) e partículas alfas (carga 2e e massa ma = 4mp) entram em um campo magnético uniforme⃗B perpendicular a suas velocidades, onde se movimentam em órbitas circulares de períodos Tp, Td e Ta, respectivamente. Pode-se armar que as razões dos períodos Td/Tp e Ta/Tp são, respectivamente, A ( ) 1 e 1. B ( ) 1 e √ 2. C ( ) √ 2 e 2. D ( ) 2 e √ 2. E ( ) 2 e 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Uma bobina de 100 espiras, com seção transversal de área de 400 cm2 e resistência de 20 Ω, está alinhada com seu plano perpendicular ao campo magnético da Terra, de 7,0 × 10−4 T na linha do Equador. Quanta carga ui pela bobina enquanto ela é virada de 180◦em relação ao campo magnético? A ( ) 1,4 × 10−4 C B ( ) 2,8 × 10−4 C C ( ) 1,4 × 10−2 C D ( ) 2,8 × 10−2 C E ( ) 1,4 C</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. No circuito ideal da gura, inicialmente aberto, o capacitor de capacitância CX encontra-se carregado e armazena uma energia potencial elétrica E. O capacitor de capacitância CY = 2 CX está inicialmente descarregado. Após fechar o circuito e este alcançar um novo equilíbrio, pode-se armar que a soma das energias armazenadas nos capacitores é igual a A ( ) 0. B ( ) E/9. C ( ) E/3. D ( ) 4E/9. E ( ) E.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. O aparato para estudar o efeito fotoelétrico mostrado na gura consiste de um invólucro de vidro que encerra o aparelho em um ambiente no qual se faz vácuo. Através de uma janela de quartzo, luz monocromática incide sobre a placa de metal P e libera elétrons. Os elétrons são então detectados sob a forma de uma corrente, devido à diferença de potencial V estabelecida entre P e Q. Considerando duas situações distintas a e b, nas quais a intensidade da luz incidente em a é o dobro do caso b, assinale qual dos grácos abaixo representa corretamente a corrente fotoelétrica em função da diferença de potencial. G luz incidente P Q V Chave inversora de polaridade Invólucro de vidro A ( ) -2V0 Corrente Fotoelétrica (A) ia=2ib Tensão (V) 0 b a ib -V0 B ( ) -2V0 Corrente Fotoelétrica (A) ia=ib Tensão (V) 0 b a -V0 C ( ) Corrente Fotoelétrica (A) ia=2ib Tensão (V) 0 b a ib -V0 D ( ) ia=2ib Corrente Fotoelétrica (A) Tensão (V) 0 b a ib E ( ) Corrente Fotoelétrica (A) ib=2ia Tensão (V) 0 a b ia V0 AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Uma barra homogênea, articulada no pino O, é mantida na posição horizontal por um o xado a uma distância x de O. Como mostra a gura, o o passa por um conjunto de três polias que também sustentam um bloco de peso P. Desprezando efeitos de atrito e o peso das polias, determine a força de ação do pino O sobre a barra.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Um objeto de massa m é projetado no ar a 45◦do chão horizontal com uma velocidade v. No ápice de sua trajetória, este objeto é interceptado por um segundo objeto, de massa M e velocidade V , que havia sido projetado verticalmente do chão. Considerando que os dois objetos "se colam" e desprezando qualquer tipo de resistência aos movimentos, determine a distância d do ponto de queda dos objetos em relação ao ponto de lançamento do segundo objeto.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Um pêndulo, composto de uma massa M xada na extremidade de um o inextensível de comprimento L, é solto de uma posição horizontal. Em dado momento do movimento circular, o o é interceptado por uma barra metálica de diâmetro disprezível, que se encontra a uma distância x na vertical abaixo do ponto O. Em consequência, a massa M passa a se movimentar num círculo de raio L −x, conforme mostra a gura. Determine a faixa de valores de x para os quais a massa do pêndulo alcance o ponto mais alto deste novo círculo.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Um bloco, com distribuição homogêna de massa, tem o formato de um prisma regular cuja seção transversal é um triângulo equilátero. Tendo 0,5 g/cm3 de densidade, tal bloco poderá utuar na água em qualquer das posições mostradas na gura. Qual das duas posições será a mais estável? Justique sua resposta. Lembrar que o baricentro do triângulo encontra-se a 2/3 da distância entre um vértice e seu lado oposto.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Um lme no de sabão é sustentado verticalmente no ar por uma argola. A parte superior do lme aparece escura quando é observada por meio de luz branca reetida. Abaixo da parte escura aparecem bandas coloridas. A primeira banda tem cor vermelha ou azul? Justique sua resposta.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. O tubo mais curto de um orgão típico de tubos tem um comprimento de aproximadamente 7 cm. Qual é o harmônico mais alto na faixa audível, considerada como estando entre 20 Hz e 20.000 Hz, de um tubo deste comprimento aberto nas duas extremidades?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Uma bolha de gás metano com volume de 10 cm3 é formado a 30 m de profundidade num lago. Suponha que o metano comporta-se como um gás ideal de calor especíco molar CV = 3R e considere a pressão atmosférica igual a 105 N/m2. Supondo que a bolha não troque calor com a água ao seu redor, determine seu volume quando ela atinge a superfície.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Uma corrente IE percorre uma espira circular de raio R enquanto uma corrente IF percorre um o muito longo, que tangencia a espira, estando ambos no mesmo plano, como mostra a gura. Determine a razão entre as correntes IE/IF para que uma carga Q com velocidade v paralela ao o no momento que passa pelo centro P da espira não sofra aceleração nesse instante.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Um tarugo de vidro de índice de refração n = 3/2 e seção transversal retangular é moldado na forma de uma ferradura, como ilustra a gura. Um feixe de luz incide perpendicularmente sobre a superfície plana P. Determine o valor mínimo da razão R/d para o qual toda a luz que penetra pela superfície P emerja do vidro pela superfície Q.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Obtenha uma expressão para as energias das órbitas do modelo de Bohr do átomo de Hidrogênio usando a condição de que o comprimento da circunferência de uma órbita do elétron ao redor do próton seja igual um número inteiro de comprimentos de onda de de Broglie do elétron.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

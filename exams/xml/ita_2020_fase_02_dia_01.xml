@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2020" phase="discursive" day="0" variation="V1" date="2020-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja λ a circunferência que passa pelos pontos P = (1, 1), Q = (13, 1) e R = (7, 9). Determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A equação de λ.</p>
+        </part>
+        <part>
+          <p>Os vértices do quadrado ABCD circunscrito a λ, sabendo que R é o ponto médio de AB.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Lançando três dados de 6 faces, numeradas de 1 a 6, sem ver o resultado, você é informado de que a soma dos números observados na face superior de cada dado é igual a 9. Determine a probabilidade de o número observado em cada uma dessas faces ser um número ímpar.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Dizemos que um número natural n é um cubo perfeito se existe um número natural a tal que n = a3. Determine o subconjunto dos números primos que podem ser escritos como soma de dois cubos perfeitos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Sejam a e b dois números reais. Sabendo que o conjunto dos números reais k para os quais a reta y = kx intersecta a parábola y = x2 + ax + b é igual a (−∞, 2] ∪[6, +∞), determine os números a e b.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere a função f : R →R deﬁnida por f(x) = x6 −10x4 −4x3 + 25x2 + 20x + 28.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine dois números reais α e β de modo que f possa ser reescrita como f(x) = (x3 −5x + α)2 + β.</p>
+        </part>
+        <part>
+          <p>Determine o valor mínimo de f.</p>
+        </part>
+        <part>
+          <p>Determine o(s) ponto(s) x ∈R onde f assume seu valor mínimo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja z ∈C uma raiz da equação 4z2 −4z sen α + 1 = 0, para α ∈ h −π 2 , π 2 i . Determine, em função de α, todos os possíveis valores para:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>2z + 1 2z ·</p>
+        </part>
+        <part>
+          <p>(2z)15 + 1 (2z)15 ·</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Seja H o hexágono no plano de Argand-Gauss cujos vértices são as raízes do polinômio p(x) = (x − √ 3)6 + 64. Determine z ∈C sabendo que o conjunto M = {zx ∈C : x ∈H} é o hexágono que possui v1 = −1 + √ 3i, v2 = 1 − √ 3i e v3 = 5 − √ 3i como três vértices consecutivos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Considere a circunferência λ de centro O passando por um ponto A. Sejam B um ponto tal que A é o ponto médio de OB e M um ponto de λ tal que A ˆOM = 100◦. Seja r a reta tangente à λ passando por M. Seja DE a projeção ortogonal dos segmento AB sobre a reta r. Determine, em graus, a medida do ângulo A ˆEB.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Determine todos os números inteiros k entre 0 e 200 para os quais o polinômio pk(x) = x3−x2−k possui uma única raiz inteira. Para cada um desses valores de k, determine a raiz inteira correspondente.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Considere uma pirâmide reta P cuja base é um hexágono regular de lado l. As faces laterais dessa pirâmide formam um ângulo diedro de 75◦com a base da própria pirâmide. Sabendo que P está inscrita em uma esfera, determine o raio dessa esfera. 2</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

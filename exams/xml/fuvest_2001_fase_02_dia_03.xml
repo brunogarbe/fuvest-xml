@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2001" phase="discursive" day="0" variation="V1" date="2001-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Grandes eventos esportivos atraem a atenção de muita gente e por isso acabam sendo palco de manifestações políticas. Nos Jogos Olímpicos de Sidney (2000), não foi diferente quando a Coréia do Norte e a Coréia do Sul desfilaram juntas na abertura, gerando um dos momentos de maior emoção do espetáculo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Compare os dois países quanto à economia e à política.</p>
+        </part>
+        <part>
+          <p>Explique o significado do desfile conjunto desses 2 países no contexto político atual.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>CONSUMO DE ÁGUA</p>
+        <p>Fonte: UNEP - GEO 2000</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Com base nos mapas, analise a situação dos Estados Unidos e da Índia quanto ao consumo de água registrado em 1995 e o previsto para 2025.</p>
+        </part>
+        <part>
+          <p>Compare a situação desses países, no que se refere ao consumo de água, com a situação do Brasil. Geografia – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>ZONAS SÍSMICAS Fonte: Simielli, Geoatlas, 2000.</p>
+        <p>O mapa apresenta a localização de vários sismos de grande magnitude. Analise-o e responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Por que ocorrem sismos e quais suas conseqüências?</p>
+        </part>
+        <part>
+          <p>Justifique a ausência de sismos de grande magnitude no Brasil.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Compare a região Nordeste e a Costa Sudoeste dos Estados Unidos quanto a:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>tipos de indústria e características da mão-de-obra empregada.</p>
+        </part>
+        <part>
+          <p>fatores que influenciaram a localização industrial de cada uma dessas regiões. Geografia – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o gráfico abaixo. REGIÃO METROPOLITANA DE SÃO PAULO DISTRIBUIÇÃO DO NÚMERO DE DIAS DESFAVORÁVEIS À DISPERSÃO DE POLUENTES, SEGUNDO AS ESTAÇÕES DO ANO: 1987-1998 Fonte: CD-ROM, EMPLASA, 2000</p>
+        <p>Considerando o total de dias desfavoráveis à dispersão de poluentes, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Por que os dias desfavoráveis à dispersão dos poluentes concentram-se no outono e no inverno?</p>
+        </part>
+        <part>
+          <p>Que políticas públicas foram adotadas para que o número de dias desfavoráveis à dispersão de poluentes diminuísse ao longo da década de 1990?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>COMPARTIMENTAÇÃO DO RELEVO PAULISTA Fonte: Ab'Sáber, IPT, 1981.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique as unidades geomorfológicas I, II, III e IV do Estado de São Paulo.</p>
+        </part>
+        <part>
+          <p>Escolha uma dessas unidades e explique os processos de sua formação. Geografia – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="07">
+      <statement>
+        <p>O turismo de negócios e o ecoturismo estão entre as mais promissoras modalidades econômicas. Indique e explique duas condições geográficas, no Brasil, necessárias, respectivamente, para o desenvolvimento do turismo de negócios e para o desenvolvimento do ecoturismo. Cite um exemplo que ilustre cada um dos casos.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>REGIÕES METROPOLITANAS PESSOAS ECONOMICAMENTE ATIVAS, POR CLASSES DE RENDIMENTO MENSAL - 1998 Fonte: IBGE, 1998</p>
+        <p>O gráfico registra a desigualdade existente em regiões metropolitanas do Brasil.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que são regiões metropolitanas?</p>
+        </part>
+        <part>
+          <p>Indique e explique três aspectos que justifiquem as diferenças entre as metrópoles brasileiras em relação ao rendimento médio mensal da população economicamente ativa. Geografia – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Analise as características das bacias hidrográficas dos rios São Francisco e Amazonas, relacionando-as ao</p>
+      </statement>
+      <parts>
+        <part>
+          <p>processo de povoamento.</p>
+        </part>
+        <part>
+          <p>desenvolvimento de atividades econômicas do setor primário.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>INDÚSTRIA DE TRANSFORMAÇÃO - 1996 Fonte: BIM, CD-ROM, IBGE, 2000.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que Estados apresentam menor concentração de pessoas ocupadas na indústria de transformação? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Apresente duas justificativas que expliquem a maior concentração de pessoas ocupadas na indústria de transformação em quase todos os Estados das regiões Sudeste e Sul do País.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

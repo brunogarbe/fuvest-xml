@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2019" phase="discursive" day="0" variation="V1" date="2019-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Determine os valores reais de a e b para os quais as equações x3+ax2+18 = 0 e x3+bx+12 = 0 possuam duas raízes em comum e, a seguir, determine essas raízes.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Determine todas as soluções da equação sen 6x + cos6 x = 7 12.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Determine o número complexo z de menor argumento que satisfaz |z −25i| ≤15.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Sabendo que x pertence ao intervalo fechado [1, 64], determine o maior valor da função f(x) = (log2 x)4 + 12(log2 x)2 · log2 8 x .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Seja F o foco da parábola de equação (y −5)2 = 4(x −7), e sejam A e B os focos da elipse de equação (x −4)2 9 + (y −2)2 8 = 1. Determine o lugar geométrico formado pelos pontos P do plano tais que a área do triângulo ABP seja numericamente igual ao dobro da distância de P a F.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Sejam a, b e c três números reais em progressão aritmética crescente, satisfazendo cos a + cos b + cos c = 0 e sen a + sen b + sen c = 0. Encontre a menor razão possível para essa progressão aritmética.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Um número natural n, escrito na base 10, tem seis dígitos, sendo 2 o primeiro. Se movermos o dígito 2 da extrema esquerda para a extrema direita, sem alterar a ordem dos dígitos intermediários, o número resultante é três vezes o número original. Determine n.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Um cone circular reto, de altura h, e um cilindro circular reto têm bases de mesmo raio. O volume do cone é metade do volume do cilindro, e a área lateral do cone é igual à área lateral do cilindro. Determine, em função de h, o raio da esfera inscrita no cone.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Sejam A, B, C os vértices de um triângulo. Determine sen ˆB, sabendo que sen ( ˆA + ˆB) = 4 5 = sen ( ˆA −ˆC).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Escolhem-se aleatoriamente três números distintos no conjunto {1, 2, 3, . . . , 29, 30}. Determine a probabilidade da soma desses três números ser divisível por 3. 4</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

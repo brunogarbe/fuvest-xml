@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2004" phase="discursive" day="0" variation="V1" date="2004-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>O número de gols marcados nos 6 jogos da primeira rodada de um campeonato de futebol foi 5, 3, 1, 4, 0 e 2. Na segunda rodada, serão realizados mais 5 jogos. Qual deve ser o número total de gols marcados nessa rodada para que a média de gols, nas duas rodadas, seja 20% superior à média obtida na primeira rodada?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>Três cidades A, B e C situam-se ao longo de uma estrada reta; B situa-se entre A e C e a distância de B a C é igual a dois terços da distância de A a B. Um encontro foi marcado por 3 moradores, um de cada cidade, em um ponto P da estrada, localizado entre as cidades B e C e à distância de 210 km de A. Sabendo-se que P está 20 km mais próximo de C do que de B, determinar a distância que o morador de B deverá percorrer até o ponto de encontro.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>Um triângulo ABC tem lados de comprimentos 5 AB = , 4 BC = e 2 AC = . Sejam M e N os pontos de AB tais que CM é a bissetriz relativa ao ângulo B Cˆ A e CN é a altura relativa ao lado AB . Determinar o comprimento de MN.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a equação ( )z 1 z z2 − α + α = , onde α é um número real e z indica o conjugado do número complexo z.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determinar os valores de α para os quais a equação tem quatro raízes distintas.</p>
+        </part>
+        <part>
+          <p>Representar, no plano complexo, as raízes dessa equação quando 0 = α .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O produto de duas das raízes do polinômio 3 x 4 mx x 2 ) x ( p 2 3 + + − = é igual a –1. Determinar</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o valor de m.</p>
+        </part>
+        <part>
+          <p>as raízes de p.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>A figura abaixo representa duas polias circulares 2 1 C e C de raios cm 4 R1 = e cm 1 R2 = , apoiadas em uma superfície plana em 2 1 P e P , respectivamente. Uma correia envolve as polias, sem folga. Sabendo-se que a distância entre os pontos 2 1 P e P é cm 3 3 , determinar o comprimento da correia.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura ao lado, os pontos A, B e C são vértices de um triângulo retângulo, sendo Bˆ o ângulo reto. Sabendo-se que ) 0 ,0 ( A = , B pertence à reta 0 y 2 x = − e ) 4 ,3 ( P = é o centro da circunferência inscrita no triângulo ABC, determinar as coordenadas</p>
+      </statement>
+      <parts>
+        <part>
+          <p>do vértice B.</p>
+        </part>
+        <part>
+          <p>do vértice C.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura ao lado, cada uma das quatro circunferências externas tem mesmo raio r e cada uma delas é tangente a outras duas e à circunferência interna C. Se o raio de C é igual a 2, determinar</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o valor de r.</p>
+        </part>
+        <part>
+          <p>a área da região hachurada.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Seja 0 m ≥ um número real e sejam f e g funções reais definidas por 1 x 2 x ) x (f 2 + − = e m 2 mx ) x ( g + = .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Esboçar, no plano cartesiano representado ao lado, os gráficos de f e de g quando 4 1 m = e 1 m = .</p>
+        </part>
+        <part>
+          <p>Determinar as raízes de f(x)=g(x) quando 2 1 m = .</p>
+        </part>
+        <part>
+          <p>Determinar, em função de m, o número de raízes da equação ) x ( g ) x (f = .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="10">
+      <statement>
+        <p>No sólido S representado na figura ao lado, a base ABCD é um retângulo de lados λ 2 AB = e λ = AD ; as faces ABEF e DCEF são trapézios; as faces ADF e BCE são triângulos equiláteros e o segmento EF tem comprimento λ.</p>
+        <p>Determinar, em função de λ, o volume de S.</p>
+        <p>Folha de resposta das questões Q.09 e Q.10</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>_____________________________________________________________________________</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

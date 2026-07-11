@@ -1,0 +1,1434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="UNICAMP" year="2026" phase="objective" day="1" variation="V1" date="2026-01-01" lang="pt-br">
+  <question_group>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia o texto 1 e as informações do texto 2. Texto 1 (Disponível em https://www.latimes.com/entertainment-arts/awards/story/2025-01-05/ fernanda-torres-golden-globes-2025-im-still-here. Acesso em 22/05/2025.) Texto 2 UPSET 1. noun [C] − an outcome that goes against what was considered to be the most likely result. 2. adjective − unhappy, worried, angry, or disappointed because something unpleasant has happened. (Adaptado de https://www.collinsdictionary.com/dictionary/english/upset. Acesso em 22/05/2025.) O texto 1 causou indignação nas redes sociais. Algumas pes­ soas comentaram: “Se eles estão upset, a gente tá happy!”. O mal-entendido se deve à polissemia, em inglês, da palavra "upset". É correto afirmar que, no texto 1, “upset” é usada com o sentido da</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>primeira definição mostrada no texto 2 e, por isso, tem co­ notação sarcástica ao comparar as atrizes citadas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>segunda definição mostrada no texto 2 e, por isso, não as­ sume conotação crítica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>primeira definição mostrada no texto 2 e, por isso, não des­ qualifica a vitória da atriz.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>segunda definição mostrada no texto 2 e, por isso, estabe­ lece uma hierarquia entre as atrizes citadas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um vídeo publicado no canal do Youtube do The New York Times, o diretor de “Ainda Estou Aqui” descreve cenas do fil­ me. Apresenta-se, a seguir, a transcrição da fala do diretor. 30 minutes into the film, before any of these scenes, everything in the movie conveys a sense of normalcy. From this point onward, though, this frame revolves around subtraction: of light, as the drapes are shut, of sounds from the outside, of music. In this other one, we see the last intimacy moment between the couple, framed by the military officers, emphasizing a sense of suffocation in what was once a safe place: the family house. Then, we see the first of the only two close-ups in the entire film. We saved it for Eunice’s last glance at Rubens. From here on, we are with her. “I'm Still Here” becomes her film. Observe três quadros extraídos do filme. (Imagens e texto adaptados de https://www.youtube.com/watch?v=mtXCWXkgCFg. Acesso em 01/05/2025.) Assinale a alternativa que apresenta os quadros na ordem em que foram descritos no texto.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Quadro A, Quadro C, Quadro B.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Quadro B, Quadro C, Quadro A.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Quadro C, Quadro B, Quadro A.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Quadro B, Quadro A, Quadro C.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia a tirinha a seguir. (Adaptado de https://toonut.com. Acesso em 15/05/2025.) A tirinha, em seu sentido geral, faz uma crítica à</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>injustiça de um personagem receber menos moedas do que o outro, na Wall St.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>diferença de status financeiro entre as pessoas que transi­ tam pela Wall St.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>atitude das pessoas que circulam na Wall St. para as quais lidar com dinheiro é um jogo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>postura das pessoas que circulam na Wall St. que ignoram problemas e necessidades sociais. Quadro A Quadro B Quadro C 2</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(Adaptado de https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs. html. Acesso em 15/05/2025.) Segundo o texto,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o governo dos EUA está se preparando para um salto na inflação diante da guerra comercial de tarifas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a inflação nos EUA se mantém moderada, mas economistas e legisladores estão se preparando diante da expectativa de alta das tarifas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a inflação nos EUA deve se manter moderada, pois as em­ presas estão se adaptando ao aumento das tarifas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>as empresas dos EUA estão se adaptando à aceleração da inflação diante da guerra de tarifas estabelecida pelo go­ verno.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Apresenta-se, a seguir, uma citação (texto 1) que originou uma obra de arte (texto 2). Há também um parágrafo (texto 3) que descreve e explica essa obra. Texto 1 “I do not always feel colored (…). I feel most colored when I am thrown against a sharp white background.” (Adaptado de HURSTON, Z. N. How it feels to be colored me. 1928.) Texto 2 Texto 3 The artist Glenn Ligon has stenciled the sentences over and over until the words dissolve into abstract patterns. He built on a text by Zora Neale Hurston, who describes leaving the protective black community of her childhood and suddenly con­ fronting the issue of race. The smearing in the painting’s illegible words embody her confusion about this, something Ligon builds on: “Oil paint wants to spread out and smudge. After trying to make perfect letters, I realized that the smudging and disappearance of the letters was more interesting than trying to make perfect letters.” (Adaptado de https://whitney.org/media/720. Acesso em 29/04/2025.) De acordo com o texto 3, é correto afirmar que U.S. Inﬂation Mild Ahead of Expected Jump From Tariﬀs Economists and policymakers are bracing for inﬂation to reaccelerate as companies adapt to the trade war. (Disponível em https://whitney.org/artists/3425. Acesso em 29/04/2025.)</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a ilegibilidade em parte das imagens é intencional, pois reforça a invisibilização da identidade negra em contextos brancos, como sugere a autora do texto 1.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>os efeitos da tinta usada por Glenn Ligon aludem à con­ fusão desse artista quanto à sua própria identidade racial, semelhante ao que relata a autora do texto 1.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a repetição de frases nas imagens é proposital, pois repre­ senta a recusa de algumas pessoas em se verem como ne­ gras, como sugere a autora do texto 1.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os borrões em parte das imagens são um efeito da técnica usada por Glenn Ligon e aludem às vivências raciais da au­ tora do texto 1.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia o resumo de um artigo científico. Incels: Masculinity in the Transition to Adulthood Incels are men who are members of an online community that experiences an unmet desire for sex and blame women for their struggle. Since 2019 there have been several mass murder attacks committed by Incels motivated by Incel ideology creating a threat of future violence. While the vast majority of Incels do not commit such attacks, researchers have begun to study Incels to prevent violence and uncover the true nature of this community. The study of Incels is incipient; therefore, more knowledge about interventions to address the struggles of involuntary celibacy is needed. This paper emphasizes the masculinity strain experienced by Incels who attempt to perform hegemonic masculinity as part of the transition to adulthood but fall short because of their lack of sexual activity. This work proposes the creation and implementation of Incel-specific, online therapeutic interventions and continued research directly with the Incel community to uncover the complexities of Incel experiences. (Adaptado de https://link.springer.com/article/10.1007/s12119-024-10201-7. Acesso em 16/05/2025.) De acordo com o resumo, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“Incel” é uma comunidade majoritariamente constituída por homens que culpam mulheres por questionarem sua masculinidade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>as pesquisas sobre a comunidade “Incel” ainda são escas­ sas, por isso há a necessidade de mais estudos que definam teoricamente a abstinência sexual.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>homens “Incel”, muitas vezes, tentam exercer uma mascu­ linidade dominante que resulta em expectativas frustradas devido à inatividade sexual.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a pesquisa propõe práticas terapêuticas que integrem ho­ mens “Incel” a outros grupos sociais para melhor compre­ ender as complexidades da masculinidade.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia a carta a seguir. Dear Members of the Harvard Community, For years, the federal government’s grants to Harvard have helped lead to groundbreaking innovations. Recently, the federal government has threatened its partnerships over accusations 3 of antisemitism on our campuses. A list of demands was issued, warning that Harvard must comply if we intend to “maintain our financial relationship with the government.” Most of these demands are unprecedented and represent direct governmental regulation of the “intellectual conditions” at Harvard. They include requirements to audit the viewpoints of our stu­ dents and faculty, and to “reduce their power” for their ideo­ logical views. We will not accept that. The University will not surrender its independence or relinquish its constitutional rights. No government should dictate what universities can teach and which areas of inquiry they can pursue. We do not take our moral duties lightly and we have taken many steps to address and fight antisemitism on campus. However, this will not be achieved by assertions of power, unmoored from the law, to dictate how we operate. Sincerely, Alan M. Garber (President of Harvard University) (Adaptado de https://www.harvard.edu/president/news/2025/the-promise-of-american­ -higher-education/. Acesso em 07/05/2025.) Assinale a alternativa correta em relação ao posicionamento do presidente de Harvard em sua carta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>As acusações de antissemitismo feitas à universidade são inconstitucionais, por isso Garber se recusa a aceitar as de­ mandas propostas pelo governo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>As comparações entre as ideologias de professores e de alu­ nos são sem precedentes, por isso Garber se nega a abrir mão da liberdade de expressão da comunidade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>As justificativas do governo para interromper o financia­ mento são falhas, por isso Garber se nega a tomar medidas para resolver os problemas apontados.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>As demandas do governo são uma tentativa de controle da autonomia das universidades, por isso Garber se recusa a acatar as exigências impostas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A uniformidade da temperatura em um ambiente refrigerado depende, além do bom funcionamento do aparelho de ar con­ dicionado, de uma instalação adequada, visando a uma transfe­ rência de calor eficiente. Isso pode ser verificado pelo instalador utilizando um termômetro de infravermelho para inspecionar diferentes áreas do recinto. Analise as afirmativas 1, 2, 3 e 4 sobre os mecanismos de transferência de calor: condução, con­ vecção e radiação. 1) A transferência de calor por condução térmica pode ocorrer tanto no vácuo quanto em um meio material. 2) A taxa de condução de calor em uma barra não depende da diferença entre as temperaturas de suas extremidades. 3) A convecção consiste no transporte de energia térmica de uma região para outra por meio do deslocamento de uma massa de fluido. 4) A transferência de calor por radiação térmica pode ocorrer tanto no vácuo quanto em um meio material. As afirmativas corretas são:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1 e 2.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1 e 4.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2 e 3.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3 e 4.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>e 11. As baterias são fundamentais no mundo moderno, sendo a fonte de energia portátil que alimenta dispositivos como celu­ lares e laptops, veículos elétricos e sistemas de armazenamento de energia renovável. Duas grandezas que caracterizam uma bateria é a sua capacidade de carga elétrica, expressa em mi­ liampère-hora (mAh) e a energia que ela armazena, usualmente dada em watts-hora (Wh).</p>
+    </context>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma bateria inicialmente carregada fornece uma corrente cons­ tante de i = 4 000 mA durante o tempo ∆t = 1 hora, ficando descarregada no final desse processo. A carga elétrica Q, que circula por essa bateria nesse intervalo de tempo é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4 C.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>4 000 C.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>14 400 C.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>14 400 000 C.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De forma simplificada, o comportamento de uma bateria pode ser modelado com uma fonte ideal de diferença de potencial elétrico Ub em série com um resistor de resistência Rb . Dessa maneira, o dispositivo que é alimentado pela bateria pode, mui­ tas vezes, ser representado por um resistor de resistência R. Na situação exemplificada na figura, a diferença de potencial registrada pelo voltímetro é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,6 V.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3,0 V.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3,6 V.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>4,3 V.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Outra bateria totalmente carregada armazena uma energia Eb = 15 Wh. Devemos elevar uma massa m = 45 kg até a altura y, em relação ao solo, para que a variação da energia poten­ cial gravitacional Ep desse sistema mecânico seja igual à energia armazenada nessa bateria. A altura y deve ser Dado: g = 10 m/s2.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,03 m.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 m.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>120 m.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1 200 m.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O Centro de Tecnologia da Informação (CTI) Renato Archer, em Campinas (SP), possui equipamentos avançados de manufatura 3D, incluindo uma impressora capaz de produzir uma miniatura bateria voltímetro R = 6,0 Ω Rb = 1,2 Ω Ub = 3,6 V 4 do Cristo Redentor, com pouco mais de 100 μm. Menor que um grão de areia, a peça só é visível com microscópio óptico, basea­ do em arranjo de um conjunto de lentes. Se uma lente delgada, de distância focal f, é usada para investigar um objeto de altura o, de forma que a imagem seja direita com altura i maior que a do objeto ( i &gt; o), é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a lente é convergente e a distância entre objeto e lente é menor que a distância focal.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a lente é divergente e a distância entre objeto e lente é menor que a distância focal.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a lente é convergente e a distância entre objeto e lente é maior que a distância focal.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a lente é divergente e a distância entre objeto e lente é maior que a distância focal.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>. Recentemente, grandes cidades iniciaram a implantação de faixas exclusivas para motocicletas como, por exemplo, a fai­ xa azul na cidade de São Paulo. Um motociclista adentra, em t = 0, um percurso retilíneo de uma faixa azul com velocidade constante v0 = 36 km/h e mantém essa velocidade até o tempo t = 30 s (trecho I). Em seguida, continua o percurso com desa­ celeração constante (a &lt; 0) até parar completamente diante de um semáforo em t = 50 s (trecho II). Após mais 30 s, ele retoma o movimento e mantém uma aceleração constante e positiva a = 0,8 m/s2 desde t = 80 s até t = 95 s (trecho III). Poste­ riormente, o motociclista segue com velocidade constante até t = 120 s (trecho IV).</p>
+    </context>
+    <essay_question number="13">
+      <statement>
+        <p>Qual é o gráfico que representa a posição s (t) do motociclista em função do tempo t? a) b) Ι ΙΙ ΙΙΙ ΙV 0 20 40 60 80 100 120 t (s) 0 200 400 600 800 s(t) (m) Ι ΙΙ ΙΙΙ ΙV 0 20 40 60 80 100 120 t (s) 0 200 400 600 800 s(t) (m) c) d)</p>
+      </statement>
+    </essay_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A massa do conjunto motociclista + motocicleta é dada por m = 180 kg. Para o trecho entre os tempos t = 30 s e t = 50 s, em que o movimento tem desaceleração constante, é correto afirmar que o módulo da força resultante que age nesse con­ junto é igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>36 N.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>90 N.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>324 N.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1 800 N.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“O ato de comer é construído culturalmente, e mediado por práticas, crenças, comportamentos, tabus, que formam os há­ bitos alimentares, que, por sua vez, relacionam-se a aspectos culturais, socioeconômicos e psicológicos que envolvem o am­ biente alimentar de cada indivíduo. Os hábitos alimentares são dinâmicos e sensíveis às mudanças que ocorrem nas socieda­ des, fundamentalmente, nos sistemas alimentares. Com o sis­ tema alimentar que predomina hoje, a humanidade vem subs­ tituindo a comida que carrega significados culturais e tradições ancestrais por produtos alimentares ultraprocessados globaliza­ dos, que viajam quilômetros até chegar ao prato, causando a homogeneização dos hábitos alimentares de forma global. O problema é que os ultraprocessados têm acarretado sérios pro­ blemas à saúde da população [...]”. (Disponível em https://obha.fiocruz.br/?p=1413. Acesso em 06/08/25.) A partir do texto, é correto afirmar que a produção e o consu­ mo de alimentos no mundo contemporâneo possuem</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>menor vínculo com o lugar, visto que a indústria de pro­ cessamento de alimentos e a produção agropecuária estão cada vez mais especializadas. Assim, produtos circulam com maior velocidade e eficiência entre a área de produção e o mercado consumidor, reduzindo o acesso da população a alimentos in natura e à diversidade produtiva regional. Ι ΙΙ ΙΙΙ ΙV 0 20 40 60 80 100 120 t (s) 0 200 400 600 800 s(t) (m) Ι ΙΙ ΙΙΙ ΙV 0 20 40 60 80 100 120 t (s) 0 200 400 600 800 s(t) (m) 5</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>maior interdependência com o lugar, visto que a indústria de processamento precisa manter a proximidade com as áreas da produção agropecuária, aproveitando a modernização do sistema de circulação para atingir o mercado consumidor mais distante. Isso fortalece o acesso da população a produ­ tos da agricultura familiar e à diversidade produtiva regional.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>maior conexão com o lugar, visto que a indústria de proces­ samento de alimentos pode estar distante da área de produ­ ção agropecuária. O sistema de circulação permite interligar, com menor custo, a área de produção ao mercado consu­ midor, restringindo o acesso da população à produção da pequena indústria local e à diversidade alimentar regional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>menor correlação com o lugar, visto que a indústria de pro­ cessamento e a produção agropecuária possuem pouca vinculação entre si, tornando-se independentes, mas com estreitamento promovido pelo sistema de circulação entre a área de produção e o mercado consumidor. Isso favorece o acesso da população aos alimentos da culinária local e à diversidade alimentar regional.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Atualmente, é comum denominar a divisão político-regional do mundo entre Norte e Sul Global. Essa delimitação não segue exatamente os pontos cardeais. Há países do Norte que estão no Sul e vice-versa, conforme indicado no mapa. Essa forma de divisão está baseada no tabuleiro geopolítico e econômico mundial e afastada da localização geográfica dos países. Localização dos países do Norte e Sul Global (Elaboração: COMVEST, 2025.) Em relação à localização dos países do Norte e Sul Global nos diferentes hemisférios, assinale, com base no mapa, a alterna­ tiva correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Austrália e Nova Zelândia são os únicos países do Norte Glo­ bal situados no hemisfério meridional e hemisfério ociden­ tal.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Argentina, Brasil, Chile, Colômbia, Equador e Venezuela es­ tão no Sul Global e têm seus territórios no hemisfério meri­ dional e no hemisfério oriental.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Estados Unidos e Canadá são países do continente america­ no no Norte Global que têm seus territórios localizados no hemisfério setentrional e hemisfério ocidental.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>China, Rússia, Índia e Japão, integrantes do Norte Global, estão situados no hemisfério setentrional e no hemisfério oriental.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O mapa da África apresentando seus respectivos climas e zo­ nobiomas (classificação internacional feita em função do clima e da fitofisionomia) é um bom exemplo para mostrar a distri­ buição das zonas climáticas em faixas latitudinais. Em outros continentes, cordilheiras, correntes marinhas e diversos fatores distorcem, interrompem e/ou expandem essas faixas, tornando­ -as menos evidentes. África e as suas zonas climáticas e zonobiomas Legenda: Zona Clima Zonobiomas I Tropical Equatorial Florestas e savanas equatoriais II Tropical Estacional Florestas e savanas estacionais III Subtropical árido Desertos quentes IV Mediterrâneo Chaparral, maqui mediterrâneo V Temperado quente-úmido Florestas quente-temperadas Zonas de transição (COUTINHO, L. M. Biomas brasileiros. São Paulo: Oficina de Textos, p. 27-28, 2016.) A partir da leitura do mapa e de seus conhecimentos sobre os componentes naturais do continente africano, assinale a alter­ nativa correta em relação às zonas de transição.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A zona de transição I–II apresenta fitofisionomias típicas de savanas perenifólias nas proximidades da zona I e um pro­ cesso gradativo do desenvolvimento de florestas ombrófilas no limite com a zona II.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A zona de transição II–III apresenta formações vegetais con­ tínuas e densas, com árvores latifoliadas e higrófilas, típicas da zona II e em detrimento das savanas típicas da zona III.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A zona de transição II–V apresenta uma vegetação densa e permanente, com gramíneas e arbustos, pois a influência da zona V predomina por influência dos processos costeiros.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A zona de transição III–II apresenta vegetação de pequeno porte e espécies xerófitas no contato com a zona III, e um processo gradativo de savanização em direção à zona II. 6</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os conflitos entre Índia e Paquistão se acirraram em 2025, en­ tre outros fatores, pela disputa de recursos hídricos na bacia hidrográfica do rio Indo. Em setembro de 1960, os dois paí­ ses firmaram o Tratado das Águas do Indo, que regula o uso compartilhado das águas desse sistema fluvial. Ao longo dos anos, a Índia manifestou, em diferentes ocasiões, a intenção de se desvincular do acordo. Em resposta, o governo paquistanês declarou que qualquer tentativa de bloqueio hídrico seria consi­ derada um 'ato de guerra'. (Adaptado de https://www.nytimes.com/2025/04/24/world/asia/india-pakistan-indus­ -waters-treaty.html. Acesso em 12/05/2025.) Para entender o conflito, é fundamental analisar o sentido do fluxo de drenagem na bacia hidrográfica do rio Indo, conforme mostrado pelo mapa a seguir. Países drenados pela rede hidrográfica do rio Indo (Elaboração: COMVEST, 2025. Baseado em https://www.aljazeera.com/news/2011 /8/1/kashmir-and-the-politics-of-water. e https://www.hydrosheds.org/. Acesso em 29/06/2025.) A partir da leitura do mapa e do texto, é correto afirmar que os afluentes</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>são rios drenados para o interior do continente (endorrei­ cos) e escoam em direção à jusante, onde se localizam áreas agrícolas do Paquistão. Por isso, eventuais represamentos pela Índia comprometeriam a economia paquistanesa.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>são rios drenados para o oceano (exorreicos) situados na montante do território indiano. Isso permitiria ao Paquistão represar sua vazão e reduzir o abastecimento indiano desti­ nado às atividades agropecuárias e industriais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>são rios drenados para o interior do continente (endorreicos) e correm em direção à jusante, comprometendo as ativida­ des econômicas das áreas urbanizadas do Paquistão que de­ pendem da vazão originada nos afluentes situados na Índia.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>são rios drenados para o oceano (exorreicos) situados na montante do Paquistão. Isso permitiria à Índia controlar seu fluxo, afetando as atividades agrícolas paquistanesas e com­ prometendo a economia do Paquistão.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Historicamente, a região do Oriente Médio vive uma série de conflitos envolvendo alianças e disputas por interesses econô­ micos, geopolíticos e religiosos. Por exemplo, o chamado eixo da resistência é formado por um conjunto de países e grupos rebeldes sob influência do Irã. Esse eixo se define por confrontar forças militares ocidentais, como no caso dos Estados Unidos e de Israel. O mapa a seguir mostra a localização dos países e grupos sob influência do Irã. (Adaptado de https://www.bbc.com/portuguese/articles/cw4dgr9yrpvo. Acesso em 23/05/2025.) Localização dos países e grupos sob influência do Irã (Elaboração: COMVEST 2025.) A partir dessas informações, assinale a alternativa que apresen­ ta corretamente as disputas e as alianças do Irã com grupos étnicos, militares e religiosos dentro dos países indicados no mapa. Disputas Alianças</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>com a minoria sunita do islamismo (Iraque); com o Estado Islâmico (Síria). com os Houthis (Iêmen); com o Hezbollah (Líbano).</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>com os Houthis (Iêmen); com o Estado Islâmico (Sí­ ria). com a minoria sunita do islamismo (Iraque); com o Hezbollah (Líbano).</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>com a minoria sunita do islamismo (Iraque); com o Hezbollah (Líbano). com os Houthis (Iêmen); com o Estado Islâmico (Sí­ ria).</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>com os Houthis (Iêmen); com o Hezbollah (Líbano). com a minoria sunita do islamismo (Iraque); com o Estado Islâmico (Síria). 7</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O mapa a seguir apresenta frações do território brasileiro trans­ formadas a partir da década de 1970 pela implementação de políticas de desenvolvimento. Três áreas limítrofes do Estado da Bahia, que até então não eram modernizadas, foram incorpo­ radas a diferentes circuitos espaciais produtivos globalizados. Circuitos produtivos do agronegócio no estado da Bahia</p>
+        <p>(Elaboração: COMVEST 2025.) Considerando o texto e o mapa dos circuitos produtivos do agronegócio no Estado da Bahia, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A especialização produtiva regional favoreceu o uso inten­ sivo de inovações técnico-científicas, promovendo seletivi­ dade espacial da modernização, o que gerou impactos nos mosaicos produtivos tradicionais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Os enclaves de modernização regional promoveram a difu­ são de uma produção diversificada setorialmente, o que ga­ rantiu o espraiamento das inovações técnico-científicas para as demais localidades da região.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A especialização produtiva regional permitiu a cooperação das inovações técnico-científicas com os mosaicos produti­ vos tradicionais, o que restringiu maior conectividade espa­ cial entre os estados limítrofes.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Os enclaves de modernização regional viabilizaram a dilata­ ção das inovações técnico-científicas para setores produtivos não especializados, o que acarretou a eliminação da seletivi­ dade espacial produzida pela especialização.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A segunda edição do estudo Gestão do Território, elaborado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em 2024, mostra, no universo dos 5.570 municípios do país, quais são os Centros de Gestão, isto é, os núcleos responsáveis pelo papel de comando na rede urbana brasileira. Em 2024, apenas 39,1% dos municípios do Brasil se qualificavam como Centros de Gestão do Território (2.176 municípios). (Adaptado de IBGE, Gestão do território: 2024. In: IBGE, Rio de Janeiro, 2025.) Um indicador de centralidade na gestão do território é o núme­ ro de assalariados externos ao Município da sede da empresa. (IBGE, Cadastro Central de Empresas: 2012/2021. In: IBGE, Rio de Janeiro, p. 7, 2025.) Com base no gráfico anterior, e em seus conhecimentos sobre a rede urbana brasileira, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Rio de Janeiro, capital, amplia sua centralidade como centro de gestão empresarial do território nacional, conservando sua histórica função industrial e de administração pública.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Barueri apresenta tendência de crescimento do assalariado externo, contribuindo para manter a Região Metropolitana de São Paulo no topo da hierarquia urbana.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Brasília apresenta tendência de queda de seus assalariados externos, demonstrando a dificuldade da capital do país para permanecer como centro de gestão pública do territó­ rio na atualidade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Itajaí apresenta destaque por sua função industrial, perden­ do força na centralidade da gestão empresarial do território por ser uma cidade de médio porte na Região Metropolitana da Foz do Rio Itajaí. 8</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os textos 1 e 2. Texto 1 A imagem acima reproduz uma postagem feita pelo ator Chay Suede sobre uma feijoada que havia consumido em um res­ taurante de luxo. As reações na rede social do ator incluíram comentários como "se isso é feijoada de rico eu prefiro morrer pobre”. (Adaptado de JIMENEZ, K. Saiba quanto Chay Suede pagou pela polêmica 'feijoada de rico'!. Portal R7, 17 de abr de 2022. Acesso em 01/09/25.) Texto 2 A forma como as pessoas vivenciam as diferentes classes deve gerar as probabilidades dessas pessoas terem certos gostos, certos estilos de vida. No caso das classes altas, essa lógica é a do desinteresse ou da não-necessidade. Uma vez afastada de toda a urgência da vida pela sobrevivência e pela reprodução, os sujeitos das classes altas possuem uma relação de distancia­ mento com o mundo. Esse distanciamento transforma o senso de distinção em senso estético nessa classe. O senso estético é a noção de que o belo se dá pela forma, e não pela função. (Adaptado de BERTONCELO, E.; NICOLAU NETTO, M. Captando a distinção empiricamen­ te. Contemporânea, v. 13, p. 363-364, 2024.) A partir dos textos, é correto afirmar que a polêmica associada à postagem</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>demonstra que a formação do gosto está mais relacionado a juízos pessoais, pois as práticas alimentares são guiadas por necessidades de sobrevivência e não produzem distin­ ção social.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>representa uma aproximação social das classes altas em re­ lação às populares, pois reduz a distância simbólica entre o universo do luxo e o popular, limitando o alcance da distin­ ção social.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>demonstra que o gosto está mais relacionado a experiências de classe e menos a juízos pessoais, pois simboliza o gosto das classes altas pelo belo e um senso estético formado pela necessidade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>representa uma prática de distinção social das classes altas em relação às populares, pois simboliza um senso estético que valoriza a forma e aquilo que não é necessário, em vez da função.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os textos 1 e 2. Texto 1 Muitos povos, de diferentes matrizes culturais, têm a compre­ ensão de que nós e a Terra somos uma mesma entidade. Até o começo do século XX, o mundo do trabalho e da produção se dava com ferramentas e meios que não tinham a potência de exaurir os recursos da Terra como hoje. Desse tempo para cá, sobraram poucas humanidades espalhadas pelo planeta. (Adaptado de KRENAK, A. A vida não é útil. São Paulo, Companhia das Letras, p. 38, 2020.) Texto 2 A Terra é um denso conjunto de relações que articula seres vi­ vos, oceanos, atmosfera, clima e solos. Ela é dotada de uma história e de um regime de atividades próprio, resultado da ar­ ticulação de múltiplos processos. Hoje, já não estamos lidando com uma natureza selvagem e ameaçadora, nem com uma na­ tureza frágil, que deve ser protegida, nem com uma natureza que pode ser explorada à vontade. A hipótese é nova. A Terra não está ameaçada, diferentemente das inúmeras espécies vi­ vas que serão varridas pelas mudanças de seu meio, com uma rapidez sem precedente. (Adaptado de STENGERS, I. No tempo das catástrofes. São Paulo: Cosac &amp; Naify, p. 23, 2015.) A partir da leitura dos textos é correto afirmar que natureza e sociedade</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>passaram a se influenciar por meio do desenvolvimento das forças produtivas e do trabalho ao longo da história, o que coloca a natureza em risco.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>estão articuladas por múltiplos processos que envolvem agentes humanos e não humanos (oceanos, atmosfera, cli­ ma, solo, etc.), o que coloca a natureza em risco.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>possuem uma história comum e articulada, fato percebido por povos de diferentes matrizes culturais, o que coloca a sociedade em risco.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>possuem um regime de atividades próprio, que envolve agentes humanos e não humanos (oceanos, atmosfera, cli­ ma, solo, etc.), o que coloca tais agentes em risco.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os textos 1 e 2. Texto 1 A adolescência é uma questão de corporificação do social. Mu­ danças físicas, como hormônios em ebulição, são importantes, mas elas não determinam como se experimenta a adolescência. Essa é uma questão de como as práticas sociais se relacionam com as mudanças físicas, dando significados sociais a eventos biológicos. A adolescência é um processo de se tornar partici­ pante do mundo adulto. Ela é um período em que corpos em desenvolvimento enfrentam desafios, e às vezes são danifica­ dos. Instituições, incluindo a escola, e os poderes do mundo adulto são confrontados e negociados. Isso forma uma arena de prazer, humor, curiosidade, mas também de ansiedade e vio­ lência. (Adaptado de CONNELL, R. Crescer como masculino. In: Gênero em termos reais. São Paulo: nVersos, p. 139-141, 2016.) Texto 2 Ordens de gênero são centrais para a vida dos adolescentes. (Postagem de Chay Suede em seu perfil no Instagram, publicada em 14/04/2022.) 9 Quando insistem na diferença absoluta entre masculinidade e feminilidade criam um dilema e fazem com que os meninos exagerem na performance da masculinidade, procurando se aproximarem da posição social dos homens adultos. Práticas corporais, como a sexualidade e o esporte, se tornam importan­ tes meios de diferenciação e espaços de produção das mascu­ linidades hegemônicas e subordinadas. Aquelas que produzem maior status e prestígio masculino são as com os efeitos mais tóxicos sobre os corpos dos adolescentes, como por exemplo o hábito de fumar e praticar a violência física, etc. (Adaptado de CONNELL, R. Crescer como masculino. In: Gênero em termos reais. São Paulo: nVersos, p. 139-151, 2016.) A partir da leitura dos textos é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a adolescência, como processo de participar do mundo adulto, desafia padrões previamente estabelecidos, promo­ vendo riscos e violência que poderiam ser evitados caso tais padrões fossem mantidos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>masculinidades hegemônicas e subordinadas são produzi­ das biológica e socialmente, por meio de práticas corporais como a sexualidade e o esporte e em confronto com insti­ tuições, como a escola.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>eventos biológicos associados às mudanças corporais da adolescência são significados socialmente, o que torna a or­ dem de gênero em que tais mudanças ocorrem importante para compreendermos masculinidades e feminilidades.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a precocidade na busca de status de adultos e do prestígio masculino por meninos adolescentes os torna ansiosos, fa­ zendo das masculinidades juvenis contemporâneas um todo homogêneo e violento.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A OMS, e não uma associação trans-gay-lésbica-anarcofeminis­ ta, afirma hoje que “o gênero tipicamente descrito como mas­ culino e feminino é uma construção social que varia segundo as culturas e épocas”. A partir desse princípio, a OMS reconhece a dimensão arbitrária e inatural da taxonomia binária com a qual as instituições sociais e políticas trabalham no Ocidente e abre a porta para uma revisão mais profunda do paradigma da dife­ rença sexual. Nos próximos anos, deveremos elaborar coletiva­ mente uma epistemologia capaz de dar conta da multiplicidade radical dos seres vivos, que não reduza o corpo à sua força re­ produtiva heterossexual, que não legitime a violência heteropa­ triarcal e colonial. Quando falo de uma nova epistemologia me refiro também a um processo de ampliação radical do horizonte democrático para reconhecer como sujeito político todo corpo vivo sem que a designação sexual ou de gênero seja a condição desse reconhecimento social e político (84). (Adaptado de PRECIADO, P. Eu sou o monstro que vos fala. Zahar Editora, p. 78-84, 2022.) Considerando o texto assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A diferença sexual entre homem e mulher é informada pela biologia e indiferente a variações culturais, a despeito do que dizem a OMS e as associações feministas, gays, lésbicas e trans.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Embora seja inevitável admitir que haja pessoas que não se enquadram na taxonomia binária, é necessário elaborar coletivamente caminhos para ajudá-las a uma reconciliação com a própria natureza.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>As instituições sociais e políticas operam normalmente com uma taxonomia binária violenta e excludente da multiplici­ dade de seres humanos, que precisa ser revista em nome da ampliação do nosso horizonte democrático.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Gênero e sexualidade são categorias identitárias inadequa­ das ao processo de ampliação do horizonte democrático com vistas ao reconhecimento social e político de todos os indivíduos em função do seu próprio mérito.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os textos 1 e 2. Texto 1 "Para Rosa Luxemburgo, uma sociedade socialista terá necessa­ riamente que ser democrática (e vice-versa), o que significa que só poderá resultar da participação efetiva das massas populares. [...] ela rejeita premonitoriamente a estratégia dos partidos de esquerda que chegarão ao poder no decorrer do século XX: primeiro toma-se o poder, depois muda-se o mundo. Para ela, a tomada do poder e a instituição da democracia (equivalente aqui à mudança do mundo) não são duas etapas separadas no tempo, mas duas faces da mesma moeda”. (Comentário de Isabel Loureiro ao texto “A Revolução Russa (1918)” de Rosa Luxem­ burgo. LUXEMBURGO, R. Textos Escolhidos. Editora Expressão Popular, p. 101-2, 2009. Org. Isabel Loureiro.) Texto 2 "Sem eleições gerais, sem liberdade ilimitada de imprensa e de reunião, sem livre debate de opiniões, a vida se definha em qualquer instituição pública, torna-se uma vida aparente em que só a burocracia subsiste como o único elemento ativo. [...] Somente massas esclarecidas, autônomas, politicamente for­ madas poderão exercer o poder nos novos organismos de base, os conselhos; em outras palavras, realizar o socialismo demo­ crático". (LUXEMBURGO, R. Textos Escolhidos. A Revolução Russa (1918). Editora Expressão Po­ pular, Org. Isabel Loureiro, p. 114-131, 2009.) Considerando os textos, assinale a alternativa que corresponde ao pensamento de Rosa Luxemburgo.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Para afastar o socialismo da ameaça da burocracia, às vezes é necessário restringir a liberdade de imprensa, o debate pú­ blico e as eleições gerais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A instituição da democracia é uma etapa posterior à tomada do poder político e equivale à mudança do mundo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A democracia socialista não difere da democracia represen­ tativa: ambas se baseiam na soberania popular dos conse­ lhos, mas tendem à burocracia partidária.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Democracia e socialismo são sinônimos, pois os conselhos populares deveriam possibilitar a participação ativa das mas­ sas na condução do poder político e econômico.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os textos 1 e 2 apresentam a compreensão de Marco Túlio Cí­ cero (106 − 43 a.C), magistrado e Cônsul da República Romana, sobre o tema da justiça. Texto 1 “Convém recorrer aos fundamentos da justiça que propus no começo: primeiro, a ninguém prejudicar, depois, servir à utili­ dade comum”. (CÍCERO, Marco Túlio. Dos deveres. UFJF, p. 1-31, 2021.) 10 Texto 2 “Único, com efeito, é o direito a partir do qual a sociedade dos homens foi congregada, e una a lei que o constituiu, lei que é a reta razão ao obrigar e proibir. Quem a ignora é injusto, esteja ela escrita em algum lugar ou em nenhum. Se a justiça é obedi­ ência às leis escritas e às instituições dos povos, e se (como di­ zem aqueles mesmos aos quais me referi) todas as coisas devem ser medidas pela utilidade, negligenciará as leis e as destruirá, se o puder, aquele que assim julgá-lo vantajoso para si; do que se segue que absolutamente não há justiça, se esta não é fun­ dada na natureza, e a que se constitui por causa da utilidade é deteriorada por essa utilidade”. (CÍCERO, Marco Túlio. Sobre as leis. UFJF, p. 1-46, 2021.) Considerando os textos, escolha a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A justiça consiste na obediência às leis escritas e às insti­ tuições dos povos: deve servir à utilidade comum e não à utilidade daquilo que é vantajoso para si.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A utilidade comum é o fundamento da justiça de uma Repú­ blica e, para serem justos, os cidadãos devem agir conforme a reta razão, com a qual a natureza lhes dotou.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A reta razão, enquanto lei natural, é a base da justiça. A injustiça ocorre quando a utilidade deixa de ser a medida de todas as coisas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Se a justiça é agir conforme a reta razão e a utilidade é um dos fundamentos da justiça, agir com vistas aquilo que é vantajoso para si é justo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os dados da alfândega de Buenos Aires fixam em 18.100 o nú­ mero de africanos oficialmente importados no porto entre 1597 e 1645. Durante alguns anos, a zona platense esteve aberta ao contrato de fornecimento de pessoas escravizadas (Asiento), com os navios negreiros saindo diretamente de Luanda para Buenos Aires. Nos anos de proibição, o contrabando ocorria por meio do Rio de Janeiro. Barcos ligavam os dois portos. No retor­ no, traziam prata lavrada e por lavrar e ouro, não só para o Rio de Janeiro, mas também para a Bahia e o Recife. Em torno das trocas de africanos pela prata do Peru (Potosí), esses interesses foram consolidados no Rio de Janeiro. Desse episódio resultou uma tradição religiosa conhecida: o culto a Nossa Senhora de Copacabana no Rio de Janeiro, oriundo do Baixo Peru em 1637. Nos anos seguintes, uma capela dedicada à santa foi erigida na praia que recebeu o seu nome. (Adaptado de ALENCASTRO, L. F. O Trato dos Viventes. São Paulo: Companhia das Letras, 2000. p. 110.) Com base no excerto, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A extração de prata em Buenos Aires conectou o Brasil ao comércio internacional de metais que passava por Copaca­ bana.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O tráfico de pedras preciosas de Buenos Aires complemen­ tava o fornecimento de mão de obra trazida de Luanda para o Porto de Copacabana.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Copacabana remete ao passado em que as Américas por­ tuguesa e espanhola se conectavam por redes comerciais e culturais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Copacabana preserva a memória do desembarque de escra­ vizados que, dali, eram levados para Buenos Aires e Peru.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A imagem e o texto a seguir têm como tema comum as práticas esportivas e a construção da masculinidade entre os atenienses no Período Clássico (séculos V e IV a.C.). Esporte apreciado entre os helenos, o lançamento de disco exi­ gia do atleta uma disciplina técnica, evidenciada pela harmonia dos movimentos corporais. No centro da imagem, há um jovem se preparando para o lançar o disco. A ausência da barba do personagem permite afirmar que ele está sendo preparado para o exercício da cidadania plena. A presença dos dois halteres e do enxadão indica que a cena ocorre em uma palestra: campo de exercício cercado de edifícios com funções diversas. Na ima­ gem original, contamos com uma inscrição que diz "Kléomelos é belo". (Texto e imagem adaptados de LESSA, F. de S. Corpo, Esporte e Masculinidade em Atenas. PHOÎNIX, Rio de Janeiro. v. 10: p. 111-132, 2004.) A partir da imagem e do texto, assinale a alternativa correta sobre a interpretação da imagem.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Um atleta do lançamento de discos, esporte olímpico, ligado ao trabalho manual das camadas subalternas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Distinção de classe social, já que se representa um ideário de beleza própria ao atleta bem-nascido.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Um cidadão ateniense maduro e despido, em pose comum aos lançadores de disco já vitoriosos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Elementos gráficos que representam a percepção social e esportiva do ápice da masculinidade.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Entre várias obras que devem formar este precioso presente que ofereço aos meus concidadãos, dei o primeiro lugar ao Contrato Social, escrito pelo cidadão de Genebra, Jean-Jacques Rousseau. Este homem imortal, que obteve a admiração de seu século e será o assombro de todas as idades, [... ensinou que] os povos aprenderam a procurar no pacto social a raiz e a única origem da obediência, não reconhecendo os seus chefes como emissários da divindade, enquanto não mostrassem as patentes do céu na qual eram destinados a imperar sobre seus semelhan­ tes. [...] Como o autor teve a desgraça de delirar em matérias religiosas, suprimo o capítulo e as passagens principais onde delas tratou. (MORENO, M. Prólogo de O Contrato Social ou Princípios do direito político, de Jean­ -Jacques Rousseau, Buenos Aires, 1810 apud MYERS, J. A revolução de independência no Rio da Prata e as origens da nacionalidade argentina (1806-1825) In: PAMPLONA, M; MÄDER, M. (org.). Revoluções de independências e nacionalismos nas Américas: região do Prata e Chile. São Paulo: Paz e Terra, p. 107 e 109, 2007.) 11 Mariano Moreno, tradutor de Rousseau para o espanhol, foi se­ cretário do primeiro governo da Argentina entre os anos 1810 e 1811. No texto acima, ele</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>critica a defesa que Rousseau faz da Igreja e dos governos absolutistas na obra O Contrato Social.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>interfere na tradução e edição da obra de Rousseau confor­ me seus ideários políticos e ideológicos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>justifica a tradução da obra para difundir a ideia de obediên­ cia cívica ligada à religião católica e ao rei.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>demonstra seu caráter conservador e a resistência ao pensa­ mento liberal e iluminista na Argentina.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="31">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 1937, um golpe de Estado instaurou o Estado Novo no Bra­ sil, um regime autoritário. Diferentes leituras do golpe de Var­ gas foram publicadas no jornal The New York Times, ilustrando o impacto difuso daquele evento na imprensa. De um lado, es­ crevendo da Argentina, o chefe dos correspondentes na Amé­ rica Latina, John White, afirmou o caráter “pseudo-fascista” do movimento, registrando a atuação dos censores sobre o traba­ lho dos correspondentes internacionais que atuavam no Brasil. White destacava o apoio alemão ao novo regime brasileiro e os desafios de centralizar o poder nas mãos de Getúlio Vargas. De outro lado, Frank Garcia, correspondente do The New York Times, que atuava então no Brasil, comentou: Eu posso dizer que, embora tenha havido censura, eu não tive dificuldades em enviar matérias ao The New York Times. Elas fo­ ram telegrafadas sem nenhum problema. Essa nova Constitui­ ção configura o Estado um tanto fascista, mas não inteiramen­ te. É mais democrático que fascista. Na verdade, é nacionalista. (Adaptado de LINS, L.F.T. de S. Notícias de falsos vendavais: o golpe do Estado Novo de 1937 e o discurso de junho de 1940 nos jornais estadunidenses. História: Debates e Tendências, vol. 19, n. 2, p. 332-351, 2019.) Sobre a repercussão internacional do Golpe do Estado Novo no exterior, podemos afirmar que havia</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>percepção unânime do pleno alinhamento ideológico do Brasil com governos fascistas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>condenação ao fascismo e sugestão de sanções econômicas em razão do apoio alemão a Vargas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>controvérsias e ambiguidades na caracterização ideológica do novo governo Vargas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>estratégias de resistência à censura imposta aos jornalistas que atuavam no Brasil.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"A OMC não será uma organização mundial de comércio até que a China seja um país-membro", afirmou Mike Moore, di­ retor-geral da OMC. A assinatura de um acordo bilateral de co­ mércio entre os Estados Unidos e a China teve uma repercussão positiva no mercado internacional, apesar da desconfiança de que a China poderá ter dificuldades para cumprir o prometido. "A China deu um passo grande em direção à OMC", disse o presidente dos Estados Unidos, Bill Clinton. A União Europeia aprovou a assinatura do acordo. A adesão da China à OMC permitirá incluir no sistema comercial internacional a décima potência do planeta, que cresceu em média 9,6% ao ano desde 1980. O acordo será um teste importante para verificar se a economia chinesa aguentaria o impacto de sua incorporação à OMC e se continuaria com seu crescimento. Desde 1986, o país asiático busca ser aceito em um organismo de comércio inter­ nacional. Segundo nota chinesa, "ambas as partes estreitarão sua cooperação no seio da OMC para garantir no futuro o au­ mento de suas relações bilaterais e a prosperidade da economia mundial". (De agências internacionais, Sem a China, OMC não é mundial. Folha de S. Paulo, ano 79, n. 25.794, 16 de novembro de 1999. Disponível em https://www1.folha.uol.com.br/fsp/ dinheiro/fi1611199903.htm. Acesso em 05/08/2025.) Comparando as expectativas sobre o ingresso da China na Or­ ganização Mundial de Comério (OMC) expressas no texto com o contexto atual, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>havia um otimismo em relação à expansão da globalização da economia mundial entre as décadas de 1990 e 2000.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a entrada da China na OMC interrompeu o deslocamento das indústrias norte-americana e europeia para a Ásia.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a guerra tarifária contemporânea revela o fracasso do mo­ delo de desenvolvimento chinês dos anos 2000.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os compromissos assumidos pela China na entrada na OMC permitiram a consolidação dos direitos humanos no país.</p>
+        </option>
+      </options>
+    </objective_question>
+    <discursive_question number="33">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As imagens a seguir fazem parte da coleção International Date­ line Collection III, exposta em um desfile internacional, organi­ zado pela estilista brasileira Zuzu Angel, em Nova Iorque, no dia 13 de setembro de 1971. Legenda: Vestido de noiva idealizado por Zuzu Angel. 12 (Imagens disponíveis em https://www.zuzuangel.com.br. Acesso em 01/08/2025.) Sobre as criações de Zuzu Angel para a produção das peças e organização do desfile, é correto afirmar que a Legenda: Desenho de canhão nas cores vermelha amarela, e azul. Possui bandeira na cor verde e bola na cor preta. Apresenta inscrição a lápis com o número "23" e assinatura "Carlos L" à caneta. Desenho utilizado em bordado de vestido. Legenda: Desenho de quepe militar nas cores verde oliva, amarela, azulãoverde; com aba na cor verde direcionada para a direita. Possui inscrição do número "32" a lápis e à caneta, bem como o texto "verde oliva, amarelo, azulão-verde" e a palavra "azulão" registrados à caneta. Desenho utilizado em bordado de vestido.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>utilização de um vestido de noiva, decorado com símbolos militares e desenhos infantis, amenizava a percepção inter­ nacional dos anos de chumbo do Brasil pós-AI5.</p>
+        </part>
+        <part>
+          <p>escolha por desenhos infantis, associados aos motivos mili­ tares, expressa uma denúncia do desaparecimento de pre­ sos políticos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="34">
+      <statement>
+        <p>Nas concepções de cidadania e nacionalidade em vigor a partir do século XIX, a filiação formal a um país é geralmente adquirida no nascimento, seja pelo jus soli (direito de solo) ou pelo jus sanguinis (direito de sangue). O jus soli atribui a nacionalidade com base no nascimento no território de um país; o jus sanguinis atribui às crianças a nacionalidade de seus pais. A dicotomia soli/sanguinis foi uma invenção do século XIX. Os impérios europeus do Antigo Regime atribuíam a pertença à comunidade com base em um ou outro princípio único de direito natural. (Adaptado de PERL-ROSENTHAL, N. E.; ERMAN, S. Inventing Birthright: The Nineteenth-Century Fabrication of Jus Soli and Jus Sanguinis. Law and History Review 42, n. 3, p. 421-48, 2024.) Distribuição do princípio de nacionalidade no mundo contemporâneo Legenda: Predomínio do princípio do jus soli Predomínio do jus sanguinis Sem definição (Adaptado de The Law Library of Congress, 2020.) Considerando o texto e o mapa, assinale a alternativa correta. a) Filhos de estrangeiros nascidos em países europeus adqui­ riam a nacionalidade e a cidadania ao nascer, após o fim das revoluções burguesas. b) As ex-colônias europeias nas Américas eram importantes destinos de imigrantes, o que influenciou suas definições de cidadania e nacionalidade. c) Regimes populistas proibiram que os nascidos nos novos países reivindicassem cidadania europeia, após as indepen­ dências americanas. d) O jus sanguinis era utilizado nas colônias como um instru­ mento de controle pela Europa para dificultar o acesso à cidadania dos povos nativos. c) banalização de elementos militares, em um desfile de moda, mostra uma alienação de parte da classe artística brasileira diante do regime militar. d) opção pelos motivos militares remonta à valorização do na­ cionalismo e à adesão da estilista à política externa do Re­ gime Militar. 13</p>
+      </statement>
+    </essay_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A bactéria Citrobacter rodentium é um patógeno que causa aumento da profundidade das glândulas intestinais em camun­ dongos devido à inflamação do cólon. Em um experimento, ca­ mundongos livres de germes tiveram seus intestinos colonizados pela microbiota de três populações humanas geograficamente distintas: Estados Unidos (EUA), Ilhas Fiji (FIJI) ou Guatemala (GUAT). Com a colonização bem-sucedida, dois grupos foram estudados: controle (apenas microbiota) e infectado (microbiota e C. rodentium). Após 14 dias, a profundidade das glândulas intestinais desses animais foi avaliada, conforme figura a seguir:</p>
+        <p>(Adaptado de PORRAS, A. e colaboradores. Cell Reports, Cambridge, v. 36, p. 109457, jul. 2021.) Considerando as informações apresentadas, é correto afirmar que as diferenças geográficas na composição da microbiota in­ testinal podem</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>impactar a sensibilidade às infecções entéricas, sendo as po­ pulações dos EUA e de FIJI as mais suscetíveis.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>auxiliar a digestão no trato gastrointestinal, sendo a popula­ ção da GUAT a mais beneficiada.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>impactar a sensibilidade às infecções entéricas, sendo a po­ pulação da GUAT a mais suscetível.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>auxiliar a digestão no trato gastrointestinal, sendo as popu­ lações dos EUA e de FIJI as mais beneficiadas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="36">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um agricultor realizou a remoção de um anel da casca de ra­ mos caulinares, prática conhecida como anelamento, para au­ mentar o tamanho dos frutos em seu pomar. Ele observou dois grupos de plantas após algumas semanas. As plantas do gru­ po 1 tinham uma região claramente anelada nos ramos e seus frutos eram maiores, se comparadas às plantas do grupo 2. Já as plantas do grupo 2 perderam as folhas e foram claramente prejudicadas pelo anelamento. Ao retornar no ano seguinte, o anelamento era quase imperceptível nas plantas do grupo 1. Considerando as informações apresentadas e os seus conheci­ mentos em biologia vegetal, é correto afirmar que o anelamen­ to eliminou os vasos do 350 300 250 200 150 100 0 EUA FIJI GUAT Profundidade da glândula intestinal (µm) Controle Infectado</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>xilema e limitou o transporte de água para as folhas, com­ prometendo a atividade do câmbio vascular nas plantas do grupo 1.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>floema e restringiu o transporte dos produtos da fotossínte­ se para as folhas, sem comprometer a atividade do câmbio vascular nas plantas do grupo 2.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>xilema e limitou o transporte de água para as raízes, com­ prometendo a atividade do câmbio vascular nas plantas do grupo 2.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>floema e restringiu o transporte dos produtos da fotossínte­ se para as raízes, sem comprometer a atividade do câmbio vascular nas plantas do grupo 1.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No heredograma a seguir, são representadas raças de animais heterozigotos (em preto) e homozigotos (em branco). Os hete­ rozigotos apresentam o alelo deletério recessivo e animais con­ tendo dois alelos iguais recessivos têm menor ganho de peso. Os valores na figura indicam a massa corporal dos animais (em quilos, kg) em um grupo de animais isolados. Considerando as informações apresentadas, assinale a alterna­ tiva correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A heterose ocorre no cruzamento entre indivíduos heterozi­ gotos, levando à maior massa corporal, com probabilidade de ocorrer em 66% dos animais da geração F1.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A heterozigose tem probabilidade de ocorrer em 33% dos animais da geração F1, proporcionando animais com maior massa corporal e maior variabilidade genética.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A depressão endogâmica tem probabilidade de ocorrer em 25% dos animais da geração F1, proporcionando animais com menor massa corporal e também menor variabilidade genética.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A homozigose determina a depressão endogâmica, levando à menor massa corporal, com probabilidade de ocorrer em 50% dos animais da geração F1.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Fungos e metazoários evoluíram de um ancestral comum similar aos protistas, entretanto, os dois reinos divergiram ao longo do tempo. Os fungos crescem em cima ou dentro do seu alimento e a digestão ocorre no meio externo. Além disso, a maioria dos representantes dos fungos é composta por organismos com ci­ clo de vida haplobionte. A figura a seguir representa um ciclo de vida típico de um fungo haplobionte haplonte. 150 kg 350 kg 350 kg 250 kg 500 kg 14 (Adaptado de AMSES, K. R. e colaboradores. PNAS, Washington, v.119, p. e2116841119, ago. 2022.) Assinale a alternativa que identifica corretamente os eventos I, II, III e IV. I II III IV</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>mitose meiose plasmogamia meiose</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>meiose meiose cariogamia mitose</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>mitose mitose plasmogamia meiose</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>meiose mitose cariogamia mitose</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nas invasões biológicas, os predadores exóticos são a maior causa de extinção de espécies e perda de biodiversidade. Isso acontece porque o predador exótico pode tanto consumir a presa nativa quanto competir com o predador nativo. O suces­ so da invasão biológica ocorre quando existe a extinção de uma ou ambas as espécies nativas, ou quando existe a redução da população nativa na presença do predador exótico. Na figura a seguir, considere os cenários I e II da chegada de um predador exótico em um sistema nativo de presa-predador em equilíbrio. (Adaptado de V. RIVERA-ESTAYE colaboradores. Scientific Reports, Londres, v.14, p. 4416, fev. 2024.) A partir dessas informações, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O cenário I representa insucesso da invasão biológica. O predador exótico é extinto, causando a redução populacio­ nal da presa nativa e o aumento populacional do predador nativo. I Tempo II Tempo Densidade de populações 0 5 10 15 20 25</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O cenário I representa sucesso da invasão biológica. O pre­ dador exótico se instala, causando a redução populacional da presa nativa e a extinção do predador nativo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O cenário II representa sucesso da invasão biológica. O pre­ dador exótico se instala, causando a redução populacional do predador nativo e a extinção da presa nativa.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O cenário II representa insucesso da invasão biológica. O predador exótico é extinto, causando a redução populacio­ nal da presa nativa e o aumento populacional do predador nativo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a placa de aviso encontrada em uma reserva ecoló­ gica. (Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.) A informação da placa está</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>correta, já que os carrapatos e escorpiões são classificados como quilópodes e os mosquitos e as abelhas como dipló­ podes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>errada, pois apenas dois animais são artrópodes, sendo eles os mosquitos e as abelhas, que são classificados como in­ setos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>correta, já que os mosquitos e as abelhas são classificados como artrópodes e os carrapatos e escorpiões como arac­ nídeos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>errada, pois mesmo que todos os animais sejam classifica­ dos como artrópodes, os carrapatos e os escorpiões são aracnídeos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="41">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura a seguir apresenta o crânio de alguns hominídeos que fazem parte da história evolutiva humana.</p>
+        <p>(Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.) CUIDADO, INSETOS PERIGOSOS! MOSQUITOS CARRAPATOS ESCORPIÕES ABELHAS I IV II III n n n n 2n 15 Considerando essas informações e os seus conhecimentos em biologia, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O Australopithecus possuía cérebro pequeno e crânio com a maxila projetada para frente da face. Apresentava bipe­ dismo e utilizava o fogo, o que favoreceu a evolução da espécie.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O Homo erectus possuía cérebro de tamanho médio, fala rudimentar e várias características atuais, como testa plana e proeminente. Foi o primeiro a apresentar bipedismo e usar ferramentas, o que permitiu sua coexistência com outros hominídeos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O Homo neanderthalensis possuía nariz e narinas voltadas para baixo, além de cérebro bem desenvolvido e capacidade de comunicação. Utilizava o fogo e ferramentas, o que per­ mitiu sua coexistência com outros hominídeos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O Homo sapiens possui, como característica mais marcante, o cérebro bem desenvolvido e a capacidade da fala. Foi o primeiro a usar o fogo e ferramentas, favorecendo a evolu­ ção da espécie.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma regra estabelecida pelo papa Paulo VI, em 1970, define que somente cardeais com menos de 80 anos participam e vo­ tam no conclave. Em 2025, 135 pessoas cumpriram esse critério de idade. O vencedor só é definido após garantir o apoio de dois terços dos votantes. Os últimos 3 conclaves aconteceram em 2005, 2013 e 2025. (Adaptado de https://www.nexojornal.com.br/grafico/2025/04/24/eleicao-papa-concla­ ve-quem-faz-parte-cardeais/. Acesso em 30/05/2025.) Distribuição dos cardeais votantes, por região, em cada conclave desde 2005 Considerando o gráfico anterior, é correto afirmar que, desde 2005, em cada conclave,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>América Latina e África juntas corresponderam a mais que 40% da quantidade de cardeais votantes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Ásia, Oceania e África juntas corresponderam a mais que 30% da quantidade de cardeais votantes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Europa e África juntas corresponderam a mais que 50% da quantidade de cardeais votantes.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Ásia, Oceania, Estados Unidos e Canadá juntos correspon­ deram a 30% da quantidade de cardeais votantes. 2005 2013 2025 39,3% EUROPA 20,0% ÁSIA E OCEANIA 17,0% AMÉRICA LATINA 13,3% ÁFRICA 10,4% EUA e CANADÁ 50% 40% 30% 20% 10% 0</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="43">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Rogério é funcionário de uma fábrica de automóveis. Em de­ zembro de 2024, seu gestor fez duas propostas de aumento salarial: • a proposta 1 consistia em um aumento de 50% do seu sa­ lário, a partir do salário a ser recebido em janeiro de 2025, mas sem nenhum tipo de reajuste nos próximos três anos, ou seja, até dezembro de 2027; • a proposta 2 consistia em um aumento de 20% a cada ano; o reajuste ocorreria no salário de janeiro de cada um dos próximos três anos, a partir de 2025. Para decidir a qual proposta aderir, Rogério calculou o montan­ te total que receberia ao longo dos três anos em cada proposta, isto é, de janeiro de 2025 a dezembro de 2027. Ele concluiu que o total a ser recebido na proposta 1 é, aproximadamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>3% maior que o total a ser recebido na proposta 2.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1% maior que o total a ser recebido na proposta 2.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3% menor que o total a ser recebido na proposta 2.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1% menor que o total a ser recebido na proposta 2.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="44">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura a seguir mostra um trecho do gráfico de f (g(x)) em que f (x) = x3 + 2x2 + ax − 1, g(x) = 3 − x e a é uma constante real.</p>
+        <p>Qual é o valor da constante a ?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>−2.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>−3.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>−4.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>−5.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre dois polinômios p(x) e q(x) de coeficientes reais sabe-se que: • p(x) + q(x) tem grau igual a 3. • p(x) · q(x) tem grau igual a 8. É correto afirmar que o grau de p(x) − q(x) é igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>5.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>4.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2. 5 1 y x 16</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="46">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A reta de equação y = ax + b faz um ângulo de 30 graus com o eixo y, conforme ilustrado na figura a seguir, e sua distância até a origem é . O valor de ab é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>−4.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>−5.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>−6.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>−7.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 2025, a Comissão de Limites da Plataforma Continental (CLPC), da Organização das Nações Unidas (ONU), aprovou uma proposta do Brasil que pedia a ampliação da plataforma conti­ nental na costa do litoral norte, como indicado na figura. A de­ cisão reconhece o direito do Brasil de explorar a Margem Equa­ torial, em uma área equivalente à área territorial da Alemanha. (Texto e mapas adaptados de https://g1.globo.com/economia/noticia/2025/03/27/brasil­ -area-maritima-decisao-onu.ghtml. Acesso em 16/06/2025.) O cálculo de área de figuras planas irregulares envolve em geral noções complexas de matemática. No caso de áreas de figuras √3 y = ax + b √3 30o y x 200 milhas (limite marítimo em vigor até então) Nova fronteira brasileira Nova área marítima conquistada pelo Brasil Oceano Atlântico Atol das Rocas Fernando de Noronha Arquipélago de São Pedro e São Paulo AP MA PI CE PB RN PE que estão impressas e/ou desenhadas em um papel, pode-se empregar um método prático, que considera a relação entre o peso do papel por unidade de área. Para calcular a área da região recentemente incorporada ao território brasileiro, um mapa contendo esta região, na escala 1:5.000.000 — isto é, 1 cm no papel equivale a 5.000.000 cm no local — foi impresso em um papel cuja relação peso/área é de 75g/m2. A seguir, a parte do mapa referente a esta região foi recortada e pesada, obtendo-se 1,0815g. A partir desses dados, é correto afirmar que a área obtida foi:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>359.900 km2.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>360.100 km2.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>360.300 km2.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>360.500 km2.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="48">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O movimento de ataque em um jogo de voleibol é mais eficien­ te se o atleta atingir a bola no ponto mais alto da trajetória do centro de massa da bola. A Figura 1 mostra a trajetória da bola que foi lançada pela Atleta A em direção à Atleta B. O centro de massa da bola, ao ser lançada pela Atleta A, está a 2 metros de altura em relação ao solo. Quando a Atleta B ataca, o centro de massa da bola está a 3 metros de altura em relação ao solo. As jogadoras estão no mesmo plano da trajetória da bola e a distância entre as jogadoras é de 9 metros. Sabe-se que a tra­ jetória do centro de massa da bola é uma parábola e que o ataque aconteceu justamente no ponto de maior altura da pa­ rábola, conforme representado na Figura 2. Figura 1 Figura 2 A equação da parábola que descreve a trajetória do centro de massa da bola é y x Atleta B Atleta A y x 3 2 9 17</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>y = (−1 ⁄ 9)x2 + (10 ⁄ 9)x + 2.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>y = (−1 ⁄ 99)x2 + (20 ⁄ 99)x + 2.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>y = (−1 ⁄ 81)x2 + (2 ⁄ 9)x + 2.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>y = (−1 ⁄ 4)x2 + (9 / 2)x + 2.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma creche se realiza o “dia da troca do brinquedo”. Cada criança leva um brinquedo para a escola e o guarda na Caixa Divertida. Ao final do dia, cada criança retira um brinquedo da Caixa Divertida sem olhar, e o leva para brincar em casa. Em uma sala com cinco crianças, qual é a probabilidade de exa­ tamente duas crianças retirarem da Caixa Divertida seus pró­ prios brinquedos?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1/5.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1/6.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1/25.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1/30.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="50">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura a seguir mostra um quadrado ABCD de lado me­ dindo x. O ponto médio do lado AB está representado por M. Os pontos P e Q, pertencentes ao lado CD, são tais que PD = QC. O ângulo PMQ, representado por θ na figura, é tal que cos(θ) = 2⁄3. A área do triângulo PMQ é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="51">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere A = { x∈ : |x−5| ≥ 2 e |x−11| ≤ 9 }. Quantos números primos pertencem ao conjunto A? A B M D P Q C θ √3 x2 2 √5 x2 5 √2 x2 2 √3 x2 4 ℕ</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>5.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>6.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>7.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>8.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="52">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um jogo de videogame sobre guerra, cada jogador deve montar sua tropa escolhendo 100 combatentes. Ele tem à sua disposição dois tipos de combatentes, soldados e estrategistas, que possuem duas habilidades, astúcia e força, com as seguin­ tes pontuações: • o soldado tem 30 pontos de astúcia e 70 pontos de força. • o estrategista tem 80 pontos de astúcia e 20 pontos de força. A força total da tropa é a soma das pontuações de força de cada um dos combatentes, e a astúcia total da tropa é a soma das pontuações de astúcia de cada um dos combatentes. Para montar uma tropa de modo a obter as mesmas pontua­ ções de força total e de astúcia total, quantos soldados e quan­ tos estrategistas devem ser escolhidos?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>70 soldados e 30 estrategistas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>60 soldados e 40 estrategistas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>50 soldados e 50 estrategistas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>40 soldados e 60 estrategistas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura a seguir, ABCD é um quadrado com lado medindo 6, e P, Q, R e S são pontos sobre os lados deste quadrado, em que AS = BQ = 2, PB = 3 e DR = 1. O valor da área sombreada é igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>11/3.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>13/3.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>15/4.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>17/4. A P Q B D R C S 2 3 2 1 18</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="54">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>É advogado com d mudo, estúpida! Mirian Goldenberg Antropóloga e professora da Universidade Federal do Rio de Janei­ ro, é autora de “A Invenção de uma Bela Velhice” Fiz um vídeo para o Instagram sobre a minha coluna intitula­ da No dia 1º de abril, quase caí no golpe do ‘falso advogado’. No vídeo, confessei que quase morri de vergonha por quase ter caído em um golpe no Dia da Mentira. Fiquei triste quando li alguns dos comentários sobre o vídeo: “AdEvogado?; “Não é adevogado que fala”; “A desinforma­ da que fala adêvogado aprendeu o que é golpe de verdade kkkk”; “Adevogado? Pode isso? Uma ‘intelequitual’ brasileira da linha de frente falando assim?”; “Um currículo e tanto e falando adevogado?; “Chamou de adEvogado. Então não foi difícil entender por que caiu em golpe... Eu teria é vergonha de falar adEvogado”; “A palavra ‘advogado’ se pronuncia ‘advo­ gado’, com o ‘d’ mudo. A pronúncia adevogado é um erro de ortoépia”; “É advogado com ‘d’ mudo, estúpida!”. Perguntei ao meu marido, que editou o vídeo, por que ele não me falou nada. Ele respondeu: “Porque eu acho bonitinho. Você é filha de advogado e tem dois irmãos advogados. Des­ de menina aprendeu a falar assim. Não é fácil falar ‘advogado’ com o ‘d’ mudo. Eu falo advogado com ‘i’: adivogado. Será que alguém consegue falar advogado com o ‘d’ mudo?” Da próxima vez que fizer uma denúncia importante, vou ten­ tar falar advogado com o “d” mudo. Será que vou conseguir? (Adaptado de GOLDENBERG, M. É advogado com d mudo, estúpida! Folha de São Paulo, 16/04/2025, B6. Acesso em 29/07/2025.) Considerando que consoantes mudas não são seguidas de uma vogal, e levando em conta as duas pronúncias para advogado mencionadas no texto, as críticas reproduzidas no segundo pa­ rágrafo revelam</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>preconceito linguístico, já que os comentários negativos fo­ ram motivados pelo fato de a autora ter um baixo nível de escolaridade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>desconhecimento linguístico, uma vez que a palavra advo­ gado não é pronunciada com “d” mudo no português bra­ sileiro.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>negacionismo linguístico, pois os críticos não reconhecem que a pronúncia adevogado é a mais comum na norma cul­ ta.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>correção linguística, porque só uma das duas pronúncias ocorre no português, enquanto a outra é um desvio foné­ tico.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>. A rua é nóix! Sempre com letra minúscula, porque não é o Nós da totalidade, uma vez que não sabemos exatamente quem ou quantos somos, quem faz parte ou não, quem está dentro ou fora. Mas, se pegar para um, vai pegar pra geral. O nóix é sem­ pre mais que um. Mesmo sozinho, na missão, existe algo para além da presença física do eu e do outro. Assumindo nossas ancestralidades, convivemos com os espíritos daqueles que já se foram. O nóix opera pela lógica dos bondes de galera, do lado A ou lado B. Quem é amigo fecha com a gente, quem é alemão rala. Porque o fechamento é o fundamento ético das ruas. Recebe-se quem chega de boa, na paz, mas, se vacila, vai. Com i e x, o nóix demarca um sotaque, um registro local, um lugar, o Pretuguês de Lélia Gonzalez. Desobedecendo à institu­ ída norma culta, o nóix – escrito ou falado – revela sua potên­ cia operando à margem da obediência à linguagem fonética dominante. O nóix é a potência da contaminação diferencial das diversidades de um povo em tempos e espaços múltiplos, que se repete numa atmosfera espectral que ultrapassa a lógica temporal predominante. (Adaptado de MORAES, M. J. D. A rua é nóix, Revista Cult, ed. 271, 1 jul. de 2021.)</p>
+    </context>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre a diferença que o texto estabelece entre Nós e nóix, po­ demos afirmar que está relacionada a uma distinção</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>sociocultural, pois esses termos se referem a grupos demar­ cados distintamente: enquanto Nós é bem delimitado, nóix diz respeito a uma coletividade difusa, mas marcada por compartilhar vivências específicas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>gramatical, pois esses termos não pertencem à mesma clas­ se de palavras: enquanto Nós é um pronome típico da nor­ ma culta, nóix é um substantivo popular que serve à expres­ são da diversidade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>histórica, pois esses termos caracterizam os indivíduos em função do seu passado: enquanto Nós abrange aqueles sem ancestralidade, nóix reúne os que assumem os ancestrais como parte de sua história.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>política, pois esses termos revelam uma polarização na for­ ma de se relacionar com o poder: enquanto Nós simboliza o apoio à opressão social, nóix caracteriza uma rejeição aos poderes instituídos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="56">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A partir das análises de Lélia Gonzalez – intelectual, professora universitária, mulher, negra e feminista – conseguimos compre­ ender quão extensa é a introdução de palavras e termos de ori­ gens africanas na nossa língua. O Pretuguês é, então, parte da africanização da língua portuguesa brasileira. As pessoas negras escravizadas resistiam de inúmeras formas, lutando, fugindo, se organizando, mas também através da fala, no jeito de agir e na forma de viver que se enraizou na maneira de ser de todo o Brasil. E isso vem da ancestralidade, é o passar do conhecimen­ to através do tempo e das relações de respeito pelo que veio antes, através do cântico antigo, da reza falada, da contação de história que os entrelaços linguísticos vão formando. Muitos vocábulos estão tão acomodados no nosso idioma que sequer paramos para pensar sua origem e seu significado. Mas são de origem africana, como dengo, quitanda, cafuné, muvuca, ca­ çula e axé. (Adaptado de texto publicado no perfil de Instagram de Mari Canuto em 28/09/2022. Disponível em https://www.instagram.com/mari_canuto/reel/CjD8ALkPw9o/. Acesso em 30/07/2025.) Considerando esse texto, a menção ao “Pretuguês de Lélia Gonzalez” no artigo de Marcelo José Derzi Moraes, apresenta­ do na questão anterior, ocorre pelo fato de nóix ser</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>um vocábulo introduzido no Brasil pelos africanos escraviza­ dos, da mesma forma que outras palavras de origem africa­ na acomodadas na língua.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>uma expressão identitária que serve para demarcar os ne­ gros brasileiros e segregá-los dos demais grupos étnico-ra­ ciais que compõem o país. 19</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>uma marca linguística associada a um grupo cujos ancestrais reúnem aqueles que contribuíram para a africanização do português brasileiro.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>um traço dialetal característico dos sotaques urbanos brasi­ leiros que são fortemente marcados pela presença de pala­ vras africanas.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="57">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O texto a seguir é um trabalho da artista Santarosa Barreto apresentado na exposição Histórias das mulheres: artistas de­ pois de 2000, realizada no MASP em 2019. (BARRETO, S. A luta. Ikrek Edições, 2019 (reimpressão 2024).) Nesse texto, observamos ocorrências de “que” com diferentes valores, entre eles o</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>explicativo, com o objetivo de listar justificativas que tentam suprimir, em favor de outros, uma dimensão pessoal da luta.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>comparativo, com o objetivo de equiparar a luta motivada por convicções próprias e a luta instigada por quem está no poder.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>condicional, com o objetivo de caracterizar a luta como uma condição para combater aqueles que a querem controlar.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>causal, com o objetivo de reiterar as situações que levam alguém a desistir de promover a luta como forma de resis­ tência individual.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="58">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os textos 1 e 2. Texto 1 O image macro é o mais velho, o mais simples e o mais difun­ dido tipo de meme, provavelmente pela facilidade de criação e difusão, além do inegável apelo visual que permite uma rápida apreensão do seu conteúdo. Ele corresponde a uma estrutura imagético-textual em frame1 único que carrega uma qualidade icônica. Podemos caracterizar o image macro como um texto em cai­ xa alta e em fonte branca, superposto a uma imagem – qua­ se sempre para fins de humor. Esse jogo memético consiste tanto em adicionar o mesmo texto a várias imagens quanto em “remixar” uma mesma imagem com diferentes textos. Os image macros têm seus templates2, bem como suas referências intertextuais extraídas de diversas fontes, como videoclipes, fo­ tografias, desenhos, filmes, seriados, videogames, comerciais, notícias etc. Usando essa estrutura híbrida, os image macros tornam-se uma espécie de imagens-texto em que o imbricamento desses dois elementos ocorre sem subordinação da experiência visual nem da verbal – o pictório complementa o discursivo em um processo de afetação recíproca. 1 Frame: quadro, moldura; imagem estática que, quando reprodu­ zida em sequência com outras, resultam no efeito de movimento. 2 Template: modelo. (Adaptado de OLIVERA NETA, J. P. Por uma tipologia dos memes da internet. Entremeios, 13(2), 2017. Disponível em https://entremeios.com.puc-rio.br/media/Juracy%20Oliveira. pdf. Acesso em 02/06/2025.) Texto 2 (Disponível em https://pt.wikipedia.org/wiki/Nazar%C3%A9_Confusa. Acesso em 02/06/2025.) Considerando as informações do texto 1, o texto 2 pode ser caracterizado como</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>um típico image macro, pois utiliza um único frame para fundir o visual e o verbal, além de adicionar um mesmo elemento textual a várias ocorrências de uma só imagem.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>um meme composto por vários image macros, nos quais uma mesma imagem se subordina à linguagem textual ma­ temática em um jogo pictório de afetação recíproca.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>uma experiência verbal e visual que se aproxima do image macro no que diz respeito à sua estrutura híbrida, mas se afasta desse tipo por não permitir a rápida apreensão do seu conteúdo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>uma peça memética que não reúne todos os elementos de um image macro, pois apresenta mais de um frame e adicio­ na conteúdos textuais diferentes a imagens distintas. 20</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O texto 1 a seguir é a versão do meme Nazaré Confusa no cha­ mado “Estilo Ghibli”, que é abordado no texto 2, publicado por um portal brasileiro dedicado às animações do Studio Ghibli. Leia os dois textos para responder à questão. Texto 1 Nazaré Confusa no Estilo Studio Ghibli. (Disponível em https://scc10.com.br/colunistas/um-noob/memes-em-estilo-ghibli-a-no­ va-febre-que-esta-quebrando-a-internet-e-o-chatgpt/. Acesso em 29/07/2025.) Texto 2 Studio Ghibli vs. IA: Por que não usar imagens no “Estilo Ghibli” Por Amanda, editora-chefe e responsável pelo Studio Ghibli Brasil. Recentemente, uma tendência tomou conta das redes so­ ciais: usuários utilizando inteligência artificial para transformar suas fotos em imagens que imitam o estilo do Studio Ghibli. A trend ganhou força em março deste ano, com a nova atualiza­ ção da ferramenta GPT-4.0. O Studio Ghibli é reconhecido não apenas por seu estilo visu­ al, mas também por sua filosofia artística e valores profundos. Hayao Miyazaki, um dos fundadores do estúdio, sempre defen­ deu a arte feita à mão e criticou fortemente o uso excessivo da tecnologia na criação de animações. Em entrevistas, ele expres­ sou preocupação com a mecanização da arte, argumentando que a verdadeira expressividade vem do esforço humano, da emoção e da experiência de vida. A tentativa de emular o “estilo Ghibli” por meio da IA entra em conflito direto com esses princípios. A criação de imagens automatizadas baseadas em padrões estatísticos e grandes vo­ lumes de dados contrasta com o meticuloso processo artesanal pelo qual os filmes do estúdio são produzidos. Muitos profissio­ nais da indústria da animação e ilustração já expressaram preo­ cupação com a possibilidade de a IA substituir ou minar o valor do trabalho humano na criação artística. Nós acreditamos na autenticidade e na ética de preservar os artistas e seus trabalhos autorais. A inteligência artificial, ao emular o estilo do Studio Ghibli, fere os princípios da animação tradicional do estúdio e desvaloriza o esforço humano por trás dessas obras. A melhor forma de levar o conhecimento sobre o Studio Ghibli adiante é apreciando e divulgando seus trabalhos originais e buscando conhecer cada vez mais sua história e rele­ vância para o mundo da animação. (Adaptado de https://studioghibli.com.br/2025/04/02/studio-ghibli-vs-ia-porque-nao­ -usar-imagens-no-estilo-ghibli/?srsltid=AfmBOoqbHDAfs5C6olUwSRqCzW_YcNrgae5a­ qqeaTrokiB1yzPh-HP1Y. Acesso em 29/07/2025) Considerando as imagens do texto 1 desta questão, o texto 2 pode ser caracterizado como</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>uma nota de repúdio às IAs, por simplificarem o conteúdo das produções do Studio Ghibli, que perdem seus traços ir­ reverentes ao serem utilizadas na geração mecânica de ima­ gens.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>uma carta aberta para incentivar um boicote às IAs, que permitem construir animações mecanizadas de qualquer imagem e emulam as produções do Studio Ghibli no intuito confundir as pessoas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>um manifesto contrário ao uso de IAs para gerar o estilo Ghibli, por utilizarem recursos automatizados que imitam animações originais do Studio Ghibli, o que desvaloriza a autenticidade artística do estúdio.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>uma resenha crítica sobre a forma como as IAs imitam os recursos artesanais do Studio Ghibli para produzir imagens sem identidade autoral, que depreciam o esforço humano.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="60">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em seu ensaio “A vida não é útil”, Ailton Krenak elege Carlos Drummond de Andrade como um de seus “escudos”. Ele cita a última estrofe de “O Homem; as Viagens”, poema publicado em As impurezas do Branco (1973). Reproduzimos, a seguir, a primeira e a segunda estrofe desse poema: “O Homem; as Viagens O homem, bicho da Terra tão pequeno chateia-se na Terra lugar de muita miséria e pouca diversão, faz um foguete, uma cápsula, um módulo toca para a Lua desce cauteloso na Lua pisa na Lua planta bandeirola na Lua experimenta a Lua coloniza a Lua civiliza a Lua humaniza a Lua. Lua humanizada: tão igual à Terra. O homem chateia-se na Lua. Vamos para Marte – ordena a suas máquinas. Elas obedecem, o homem desce em Marte pisa em Marte experimenta coloniza civiliza humaniza Marte com engenho e arte. Marte humanizado, que lugar quadrado. (...)”. (ANDRADE, C. D. O Homem; As viagens, As impurezas do Branco. In: Poesia Completa. Rio de Janeiro, Editora Nova Aguilar, p. 718, 2002.) (KRENAK, A. A vida não é útil. Pesquisa e organização de Rita Carelli. São Paulo: Com­ panhia das Letras, 2020.) Em relação às reflexões de Ailton Krenak, é correto afirmar que esse trecho do poema</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>responsabiliza a ciência e tecnologia, desgastadas em seus valores, pela corrosão das relações nas sociedades contem­ porâneas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>mostra que os Homens, guiados pela ideia de progresso, não adotam uma postura consciente em relação ao seu es­ paço. 21</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>evidencia que a Terra, desgastada em seus valores, foi supe­ rada pelos elementos da conquista espacial.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>identifica a aniquilação das sociedades contemporâneas nos programas de governos persuadidos pelo progresso.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os textos 1 e 2. Texto 1 Aos óculos Só fingem que põem o mundo ao alcance dos meus olhos míopes. Na verdade, me exilam dele com filtrar-lhe a menor imagem. Já não vejo as coisas como são: vejo-as como eles querem que as veja. Logo, são eles que veem, não eu que, mesmo cônscio do logro, lhes sou grato por anteciparem em mim o Édipo curioso de suas próprias trevas. (PAES, J. P. Prosas seguidas de Odes mínimas. São Paulo: Companhia das Letras, p. 63, 1992.) Texto 2 “Do grego odé e do latim ōde (ou ōda), a ode era, na antigui­ dade clássica, um poema destinado a ser cantado, ou um canto alegre, triste ou lírico. Era um poema de alguma extensão, de elevado assunto ou nobre, expressando sentimentos ilustres, em homenagem a algo ou a alguém. Apresentava também a elaboração estrófica, bem como estilo formal nobre e cerimo­ nioso”. (Adaptado do verbete “Ode”, elaborado por Ana Ladeira. In: CEIA, C. E-Dicionário de termos literários (projeto abrigado pela Universidade Nova de Lisboa). Disponível em https://edtl.fcsh.unl.pt/encyclopedia/ode. Acesso em 31/05/2025.) É correto afirmar que a ode mínima de José Paulo Paes reelabo­ ra a definição clássica de “ode” ao</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>respeitar a elevação do assunto, a nobreza do tom e os sen­ timentos ilustres.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>utilizar-se de um tom elevado e cerimonioso para a home­ nagem.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>dirigir-se a um objeto, vinculando-se ao gênero canção po­ pular.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>celebrar um objeto fundamental, os óculos, e não algo/al­ guém ilustre.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="62">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No conto “Réplica”, que integra a coletânea No seu pescoço, de Chimamanda Adichie, a protagonista vive</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o choque cultural, consequente das diásporas africanas con­ temporâneas, reelaborado pelas observações de Nkem.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>as contradições culturais, consequentes do processo de re­ colonização da Nigéria, expressas pelos negócios ilícitos de Obiora.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a opressão feminina, consequente da falência do modelo africano de sororidade, como no relato de Ijemamaka.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o sentimento de nacionalismo, consequente das saudades de práticas culturais, como no estranhamento dos vizinhos brancos (povo oyibo). (ADICHIE, C. N. No seu pescoço. Tradução: Júlia Romeu. São Paulo: Companhia das Le­ tras, 2017.)</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="63">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia a citação a seguir, extraída do conto “Pera, uva ou maçã?”, publicado no livro Morangos mofados, de Caio Fernando Abreu, e assinale a alternativa correta sobre o excerto. Foi então que vi aquelas ameixas e achei tão bonitas e tão vermelhas que pedi um quilo e era minha última grana certo porque meus pais não me dão nada e daí eu pensei assim se comprar essas ameixas agora vou ter que voltar a pé para casa mas que importa volto a pé mesmo pode ser até que acorde um pouco e aquela coisa lá longe volte pra perto de mim e então eu vinha caminhando devagarinho as ameixas eu não conseguia parar de comer sabe já tinha comido acho que umas seis estava toda melada quando dobrei a esquina aqui da rua e ia saindo um caixão de defunto do sobrado amarelo na esquina certo acho que era um caixão cheio quer dizer com defunto dentro porque ia saindo e não entrando certo e foi bem na hora que eu dobrei não deu tempo de parar nem de desviar daí então eu tropecei no caixão e as ameixas todas caíram assim paf! na calçada e foi aí que eu reparei naquelas pessoas todas de preto e óculos escuros e lenços no nariz e uma porrada de coroas de flores devia ser um defunto muito rico certo e aquele carro fú­ nebre ali parado e só aí eu entendi que era um velório. (ABREU, C. F. Morangos Mofados. 9ª. ed. São Paulo: Companhia das Letras, p. 105-106, 2015.)</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A presença de orações como “foi então que vi”, “foi aí que eu reparei” e “só aí eu entendi” cria um efeito de retarda­ mento da narrativa, o que reflete o estado psicológico de apatia da personagem que fala.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A ausência de pontuação cria um efeito de aceleração da narrativa, o que reflete o estado psicológico de ansiedade da personagem que fala.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A presença de orações como “foi então que vi”, “foi aí que eu reparei” e “só aí eu entendi” rompe a sequência tempo­ ral da narrativa, prejudicando o seu desenvolvimento lógico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A ausência de pontuação desorganiza a sequência das ações da personagem, o que reflete sua confusão e causa uma ambiguidade de sentido em sua narrativa.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="64">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O sineiro era um preto velho e doido. Não fazia mais que tocar o sino da capela, para a missa, aos domingos. O resto do tem­ po vivia calado ou resmungando. Ninguém lhe falava, embora fosse manso. [...] Com a razão, perdera a convivência dos mais. Vivia entregue aos pensamentos solitários, mergulhado na in­ consciência e na solidão. A moça representava aos olhos dele alguma coisa mais do que uma simples criatura, era a sociedade humana, e uma sombra de sombra da consciência antiga. (ASSIS, M. de. Casa Velha. Apresentação e notas de Paulo Franchetti. Campinas, SP: Edi­ tora da UNICAMP, p. 85-86, 2023.) 22 No enredo de Casa Velha, é possível afirmar que a cena em que aparece a figura do sineiro cumpre o papel de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>mostrar a solidariedade de classe desenvolvida por Lalau que, sendo uma agregada, identifica seus interesses com os do velho sineiro.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>exibir o caráter caridoso de Dona Antônia, que mantém o escravizado sob seus cuidados mesmo após deixar de ser útil como trabalhador.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>expor a Dona Antônia o sentimento existente entre Lalau e seu filho, enquanto ele observa a compaixão da moça pelo sineiro.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>sugerir a complexidade da organização social característica da Casa Velha, na qual se via representada toda a sociedade humana.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="65">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os versos da canção abaixo e assinale a alternativa correta. ALVORADA Alvorada lá no morro, que beleza, Ninguém chora, não há tristeza, Ninguém sente dissabor. O sol colorindo é tão lindo, é tão lindo. E a natureza sorrindo, tingindo, tingindo. Você também me lembra a alvorada Quando chega iluminando Meus caminhos tão sem vida. E o que me resta é bem pouco, quase nada, do que ir assim vagando numa estrada perdida. (CARTOLA. Alvorada. In: Cartola. Rio de Janeiro: Marcus Pereira Discos, 1974.)</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O eu-lírico enfatiza a harmonia entre a cena idílica do morro no momento da alvorada e a alegria de sua vida junto à pessoa amada.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O eu-lírico enfatiza um contraste entre a alegria da alvora­ da no morro e a pobreza das pessoas que habitam aquele espaço.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A alvorada no morro é, para o eu-lírico, como a imagem da pessoa amada, que lhe traz alegria, apesar de sua desilusão e desesperança.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A alvorada no morro funciona, no poema, como imagem do futuro que pode ser transformado pelo amor, apesar das condições de vida difíceis.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="66">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O desafio de ensinar como as reações químicas acontecem está no fato de que elas geralmente ocorrem por meio de sinais de­ tectáveis pelos nossos sentidos, enquanto que sua explicação geralmente ocorre em um nível invisível ou abstrato. Johnstone, pesquisador escocês em educação científica, propôs que, para se entender um fenômeno do ponto de vista químico, qualquer pessoa precisa ser capaz de pensá-lo em três domínios distin­ tos: o macroscópico, o submicroscópico e o simbólico. A seguir, a figura mostra o triângulo de Johnstone que correlaciona os três domínios, identificados como (1), (2) e (3). Já as ilustrações apresentam os domínios de forma aleatória. (Adaptado de https://edu.rsc.org/feature/develop-deeper-understanding-with-models/30 105 19.article. Acesso em 09/10/2025.) Ilustrações dos domínios A E CH4 + 2O2 = CO2 + 2H2O B F C G D H C2H5OH(l) + 3O2(g) = 2CO2(g) + 3H2O(l) Com base nas informações do enunciado, da figura e das ilus­ trações, é correto afirmar que os domínios (1), (2) e (3) do tri­ ângulo de Johnstone são representados respectivamente pelas ilustrações</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>(F), (H) e (G), enquanto a ilustração (C) apresenta uma com­ binação dos domínios simbólico e submicroscópico.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>(G), (D) e (A), enquanto a ilustração (E) apresenta uma com­ binação dos domínios simbólico e submicroscópico.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>(B), (A) e (H), enquanto a ilustração (E) apresenta uma com­ binação dos domínios simbólico e submicroscópico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>(D), (G) e (H), enquanto a ilustração (C) apresenta uma com­ binação dos domínios simbólico e submicroscópico. H H H H H H C C O O2 + H H H H H C C O O 2 + O Energia Progresso da Reação + + 23</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="67">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os recifes de corais são ecossistemas ricos em biodiversidade, sendo essenciais para a pesca e proteção costeira. Essas es­ truturas são formadas por pólipos com esqueleto externo de carbonato de cálcio e sofrem degradação nas últimas décadas devido às atividades humanas no meio ambiente. O infográ­ fico a seguir representa o efeito da ação humana sobre um dos equilíbrios químicos da água dos oceanos pela emissão de CO2 atmosférico (CO2 atm). Dados: [CO2]atm = concentração de CO2 atmosférico (Adaptado de HOEGH-GULDBERG et al. Science, v. 318, p.1737-1742, 2007.) Com base nas informações do enunciado e do infográfico apre­ sentado, é correto afirmar que as espécies A, B e C são, respec­ tivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>CO2, CO3−2 e CaCO3, enquanto os eixos X e Y no infográfico representam respectivamente [CO3−2] e [CO2]atm. Global­ mente, o aumento da [CO2]atm provoca um aumento do pH dos oceanos e, consequentemente, uma maior degradação dos corais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>CO3−2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográ­ fico representam respectivamente [CO2]atm e [CO3−2]. Glo­ balmente, o aumento da [CO2]atm provoca uma diminuição do pH dos oceanos e, consequentemente, uma maior de­ gradação dos corais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>CO2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográfico representam respectivamente [CO3−2] e [CO2]atm. Global­ mente, o aumento da [CO2]atm provoca uma diminuição do pH dos oceanos e, consequentemente, uma menor degra­ dação dos corais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>CO3−2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográfi­ co representam respectivamente [CO3−2] e [CO2]atm. Global­ mente, o aumento da [CO2]atm provoca um aumento do pH dos oceanos e, consequentemente, uma menor degradação dos corais.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="68">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Aviões são os únicos meios de transporte que cruzam continen­ tes em um dia. Apesar dos avanços em eficiência energética, as aeronaves contribuem com 3,5% do aquecimento global. Por isso, existe o interesse em substituir o querosene usado por essas aeronaves por hidrogênio, com destaque para o uso do hidrogênio líquido combustível. A tabela a seguir apresenta da­ dos desses dois tipos de combustíveis na aviação. Combustível Energia combustão (kJ·mol−1) Densidade do líquido (g·cm−3) Massa molar (g·mol−1) Querosene* 6745 0,804 153 Hidrogênio 240 0,071 2 * valores médios e aproximados. Características como massa e volume da aeronave são fatores importantes para seu desempenho. Levando em conta essa in­ formação, para uma mesma quantidade de energia gerada pelo combustível, é correto afirmar que o hidrogênio é melhor que o querosene, pois</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>sua razão energia por volume é maior.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o volume utilizado será menor.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>sua razão energia por massa é maior.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a massa utilizada será maior.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="69">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Diante das mudanças climáticas, muitos químicos desempe­ nham um papel estratégico no enfrentamento desse problema. Uma dessas ações é o esforço no desenvolvimento de recursos que removem CO2 por meio da captura direta do ar. Nesse sen­ tido, os químicos se dedicam a produzir materiais que, ao mes­ mo tempo, possam capturar o CO2 em situações diversas em quantidades e velocidades altas. Um exemplo disso é a captura cumulativa de CO2 (em mmol) por grama de tetraperoxotitana­ to de potássio K4Ti(O2)4 em função do tempo. Esses resultados são parcialmente mostrados no gráfico a seguir. (Adaptado de BACH, K. et al. ChemRxiv, DOI: 10.26434/chemrxiv-2024-xb06z-v2. Acesso em 09/10/2025.) Dado parcial: Massa molar: K4Ti(O2)4 = 332,3 g·mol−1 Considerando as informações do gráfico, é correto afirmar que após 65 minutos de adsorção: (i) a razão molar [mol CO2 por mol de K4Ti(O2)4] e (ii) o aumento percentual de massa do sólido serão aproximadamente de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>(i) 3 e (ii) 13% em relação ao inicial.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>(i) 1 e (ii) 13% em relação ao inicial.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>(i) 3 e (ii) 30% em relação ao inicial.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>(i) 1 e (ii) 30% em relação ao inicial. 1,2 1,8 2,4 3,0 0,6 0,0 10 20 30 40 50 60 Tempo (min) Captura cumulativa de CO2 (mmol/g) 24</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="70">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A produção industrial de barrilha (carbonato de sódio) é ma­ joritariamente feita pelo processo Solvay. A barrilha é um dos compostos químicos inorgânicos mais importantes globalmen­ te, sendo vital para a fabricação de vidro, sabão, detergente, papel, entre muitos outros produtos. As reações envolvidas no processo Solvay, que ocorrem em fluxo contínuo, estão repre­ sentadas esquematicamente no fluxograma a seguir. (Adaptado de ARAÚJO A. L. et al. Química Nova, v. 21, n. 1, p. 114, 1998.) Nesse processo de fabricação, após o fluxo contínuo de produ­ ção ser iniciado, é necessário adicionar para sua manutenção</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>salmoura e calcário, pois a amônia é totalmente regenerada durante o processo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>gás carbônico e salmoura, pois a amônia é totalmente rege­ nerada durante o processo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>calcário e amônia, pois o gás carbônico é totalmente rege­ nerado durante o processo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>amônia e salmoura, pois o gás carbônico é totalmente rege­ nerado durante o processo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="71">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A Agência Nacional do Petróleo (ANP) é responsável por im­ plementar a política nacional de combustíveis e proteger os in­ teresses dos consumidores quanto a preço, qualidade e oferta de produtos, além de especificar a qualidade dos derivados de petróleo, do gás natural e de seus derivados e dos biocombus­ tíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica algumas características do Etanol Anidro Combustível (EAC), do Etanol Hidratado Combustível (EHC) e do Etanol Hidratado Combustível Premium (EHCP). Algumas dessas características estão na tabela a seguir e nas alternativas. Combustível Massa Específica (kg/m3) Teor Alcoólico (% massa) EAC 791,5 (a) 99,3 (b) EHC (c) entre 92,5 e 94,6 EHCP (d) entre 95,5 e 96,5 (Adaptado da Resolução ANP nº 907 de 18/11/2022.) Considerando que água e etanol formam uma mistura ideal, para preencher corretamente essa tabela, as letras a, b, c e d devem corresponder, respectivamente, a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>máximo; mínimo; entre 805 e 811 e entre 800 e 803.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>mínimo; máximo; entre 805 e 811 e entre 800 e 803. NH3 (g) CO2 (g) CaO (s) NaCl (saturado) NaHCO3 (s) CaCO3 (s) NH4Cl (aq) CaCl2 (s) Na2CO3 (s) H2O (vap)</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>máximo; mínimo; entre 800 e 803 e entre 805 e 811.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>mínimo; máximo; entre 800 e 803 e entre 805 e 811.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="72">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma patente é uma concessão pública, conferida pelo Estado, que garante ao seu titular a exclusividade de explorar comer­ cialmente a sua criação. É necessário que a patente seja de uma criação inédita. Para ser explorada comercialmente, deve apresentar vantagens para quem vai adquiri-la e utilizá-la na produção a que se propõe. É com base nesses pressupostos que cientistas entraram com pedido de patente para um pro­ cesso de produção de lítio a partir do minério α-espodumênio (α-LiAlSi2O6). Para explicar o seu novo método e compará-lo a um método convencional, os pesquisadores apresentaram a figura a seguir. Considerando apenas essas informações, é correto afirmar que, em relação ao método convencional, esse novo método é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>mais rápido e apresenta maior rendimento, porém consome mais carbonato na etapa final de separação do lítio.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>mais intensivo em energia e com maior consumo de carbo­ nato na etapa final de separação do lítio, porém com maior rendimento.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>mais lento e apresenta menor rendimento, porém consome menos carbonato na etapa final de separação do lítio.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>menos intensivo em energia e com menor consumo de car­ bonato na etapa final de separação do lítio, porém nada se pode afirmar acerca do rendimento. (Adaptado de SUBASINGHE, S.A.D.T. et al. Chemical Engineer Journal, v. 505, n. 159661, 2025.) 25 RASCUNHO</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2013" phase="discursive" day="0" variation="V1" date="2013-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um empreiteiro contratou um serviço com um grupo de trabalhadores pelo valor de ܴ$ 10.800,00 a serem igualmente divididos entre eles. Como três desistiram do trabalho, o valor contratado foi dividido igualmente entre os demais. Assim, o empreiteiro pagou, a cada um dos trabalhadores que realizaram o serviço, ܴ$ 600,00 além do combinado no acordo original.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantos trabalhadores realizaram o serviço?</p>
+        </part>
+        <part>
+          <p>Quanto recebeu cada um deles?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Percorre-se o paralelogramo ܣܤܥܦ em sentido antihorário. A partir de cada vértice atingido ao longo do percurso, prolonga-se o lado recém-percorrido, construindo-se um segmento de mesmo comprimento que esse lado. As extremidades dos prolongamentos são denotadas por ܣ´, ܤ´, ܥ´ e ܦ´, de modo que os novos segmentos sejam, então, ܣܣ´ തതതതത, ܤܤ´ തതതതത, ܥܥ´ തതതതത e ܦܦ´ തതതതത. Dado que ܣܤ ൌ 4 e que a distância de ܦ à reta determinada por ܣ e ܤ é 3, calcule a área do</p>
+      </statement>
+      <parts>
+        <part>
+          <p>paralelogramo ܣܤܥܦ;</p>
+        </part>
+        <part>
+          <p>triângulo ܤܤ´ܥ´;</p>
+        </part>
+        <part>
+          <p>quadrilátero ܣ´ܤ´ܥ´ܦ´. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 4/38 − Caderno Reserva 0000−00 04 880 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um guindaste, instalado em um terreno plano, tem dois braços articulados que se movem em um plano vertical, perpendicular ao plano do chão. Na figura, os pontos ܱ , ܲ ଵ e ܲ ଶ representam, respectivamente, a articulação de um dos braços com a base, a articulação dos dois braços e a extremidade livre do guindaste. O braço ܱܲ ଵ തതതതത tem comprimento 6 e o braço ܲ ଵܲଶ തതതതതത tem comprimento 2. Num dado momento, a altura de ܲଶ é 2, ܲଶ está a uma altura menor do que ܲଵ e a distância de ܱ a ܲଶ é 2√10. Sendo ܳ o pé da perpendicular de ܲଶ ao plano do chão, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o seno e o cosseno do ângulo ܲଶܱ෠ܳ entre a reta ܱܲ ଶ ശሬሬሬሬሬሬሬԦ e o plano do chão;</p>
+        </part>
+        <part>
+          <p>a medida do ângulo ܱܲ ଵ෡ܲ ଶ entre os braços do guindaste;</p>
+        </part>
+        <part>
+          <p>o seno do ângulo ܲଵܱ෠ܳ entre o braço ܱܲ ଵ തതതതത e o plano do chão.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sócrates e Xantipa enfrentam-se em um popular jogo de tabuleiro, que envolve a conquista e ocupação de territórios em um mapa. Sócrates ataca jogando três dados e Xantipa se defende com dois. Depois de lançados os dados, que são honestos, Sócrates terá conquistado um território se e somente se as duas condições seguintes forem satisfeitas:</p>
+        <p>1) o maior valor obtido em seus dados for maior que o maior valor obtido por Xantipa;</p>
+        <p>2) algum outro dado de Sócrates cair com um valor maior que o menor valor obtido por Xantipa.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>No caso em que Xantipa tira 5 e 5, qual é a probabilidade de Sócrates conquistar o território em jogo?</p>
+        </part>
+        <part>
+          <p>No caso em que Xantipa tira 5 e 4, qual é a probabilidade de Sócrates conquistar o território em jogo? 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 6/38 − Caderno Reserva 0000−00 06 220 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No paralelepípedo reto retângulo ܣܤܥܦܧܨܩܪ da figura, tem-se ܣܤൌ2, ܣܦൌ3 e ܣܧൌ4.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é a área do triângulo ܣܤܦ?</p>
+        </part>
+        <part>
+          <p>Qual é o volume do tetraedro ܣܤܦܧ?</p>
+        </part>
+        <part>
+          <p>Qual é a área do triângulo ܤܦܧ?</p>
+        </part>
+        <part>
+          <p>Sendo ܳ o ponto do triângulo ܤܦܧ mais próximo do ponto ܣ, quanto vale ܣܳ?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere o polinômio ݌ሺݔሻൌݔସ൅1.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Ache todas as raízes complexas de ݌ሺݔሻ.</p>
+        </part>
+        <part>
+          <p>Escreva ݌ሺݔሻ como produto de dois polinômios de segundo grau, com coeficientes reais. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 8/38 − Caderno Reserva 0000−00 08 660 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma das hipóteses para explicar a extinção dos dinossauros, ocorrida há cerca de 60 milhões de anos, foi a colisão de um grande meteoro com a Terra. Estimativas indicam que o meteoro tinha massa igual a 1016 kg e velocidade de 30 km/s, imediatamente antes da colisão. Supondo que esse meteoro estivesse se aproximando da Terra, numa direção radial em relação à orbita desse planeta em torno do Sol, para uma colisão frontal, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a quantidade de movimento Pi do meteoro imediatamente antes da colisão;</p>
+        </part>
+        <part>
+          <p>a energia cinética Ec do meteoro imediatamente antes da colisão;</p>
+        </part>
+        <part>
+          <p>a componente radial da velocidade da Terra, Vr, pouco depois da colisão;</p>
+        </part>
+        <part>
+          <p>a energia Ed, em megatons, dissipada na colisão. Note e adote: A órbita da Terra é circular. Massa da Terra: 6x1024 kg. 1 megaton = 4x1015 J é a energia liberada pela explosão de um milhão de toneladas de trinitrotolueno.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O telêmetro de superposição é um instrumento ótico, de concepção simples, que no passado foi muito utilizado em câmeras fotográficas e em aparelhos de medição de distâncias. Uma representação esquemática de um desses instrumentos está na página de respostas. O espelho semitransparente E1 está posicionado a 45o em relação à linha de visão, horizontal, AB. O espelho E2 pode ser girado, com precisão, em torno de um eixo perpendicular à figura, passando por C, variando-se assim o ângulo entre o plano de E2 e a linha horizontal. Deseja-se determinar a distância AB do objeto que está no ponto B ao instrumento.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Desenhe na figura da página de respostas, com linhas cheias, os raios de luz que, partindo do objeto que está em B, atingem o olho do observador - um atravessa o espelho E1 e o outro é refletido por E2 no ponto C. Suponha que ambos cheguem ao olho do observador paralelos e superpostos.</p>
+        </part>
+        <part>
+          <p>Desenhe, com linhas tracejadas, o trajeto aproximado de um raio de luz que parte do objeto em B', incide em C e é refletido por E2. Com o objeto em um ponto B específico, o ângulo ߚ foi ajustado em 44º, para que os raios cheguem ao olho do observador paralelos e superpostos. Nessa condição,</p>
+        </part>
+        <part>
+          <p>determine o valor do ângulo  entre as linhas AB e BC;</p>
+        </part>
+        <part>
+          <p>com AC = 10 cm, determine o valor de AB. Note e adote: sen(22o) ൌ 0,37; cos(22o) ൌ 0,93 sen(44o) ൌ 0,70; cos(44o) ൌ 0,72 sen(88o) ൌ 0,99; cos(88o) ൌ 0,03 As direções AB e AC são perpendiculares entre si. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 10/38 − Caderno Reserva 0000−00 10 318 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um DJ, ao preparar seu equipamento, esquece uma caixa de fósforos sobre o disco de vinil, em um toca-discos desligado. A caixa se encontra a 10 cm do centro do disco. Quando o toca-discos é ligado, no instante t = 0, ele passa a girar com aceleração angular constante α = 1,1 rad/s2, até que o disco atinja a frequência final f = 33 rpm que permanece constante. O coeficiente de atrito estático entre a caixa de fósforos e o disco é e = 0,09. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a velocidade angular final do disco, f, em rad/s;</p>
+        </part>
+        <part>
+          <p>o instante tf em que o disco atinge a velocidade angular f ;</p>
+        </part>
+        <part>
+          <p>a velocidade angular c do disco no instante tc em que a caixa de fósforos passa a se deslocar em relação ao mesmo;</p>
+        </part>
+        <part>
+          <p>o ângulo total  percorrido pela caixa de fósforos desde o instante t = 0 até o instante t = tc. Note e adote: Aceleração da gravidade local g =10 m/s2. π = 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="04">
+      <statement>
+        <p>Em uma aula de laboratório, os alunos determinaram a força eletromotriz ε e a resistência interna r de uma bateria. Para realizar a tarefa, montaram o circuito representado na figura abaixo e, utilizando o voltímetro, mediram a diferença de potencial V para diferentes valores da resistência R do reostato. A partir dos resultados obtidos, calcularam a corrente I no reostato e construíram a tabela apresentada na página de respostas.</p>
+        <p>a) Complete a tabela, na página de respostas, com os valores da corrente I. b) Utilizando os eixos da página de respostas, faça o gráfico de V em função de I. c) Determine a força eletromotriz ε e a resistência interna r da bateria.</p>
+        <p>Note e adote: Um reostato é um resistor de resistência variável. Ignore efeitos resistivos dos fios de ligação do circuito.</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3</p>
+        <p>a) b)</p>
+        <p>V (V) R(Ω) I (A) 1,14 7,55 0,15 1,10 4,40</p>
+        <p>1,05 2,62 0,40 0,96 1,60</p>
+        <p>0,85 0,94 0,90</p>
+        <p>Página 12/38 − Caderno Reserva 0000−00 12 758 Área Reservada Não escreva no topo da folha</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>Um equipamento, como o esquematizado na figura abaixo, foi utilizado por J.J.Thomson, no final do século XIX, para o estudo de raios catódicos em vácuo. Um feixe fino de elétrons (cada elétron tem massa m e carga e) com velocidade de módulo v0, na direção horizontal x, atravessa a região entre um par de placas paralelas, horizontais, de comprimento L. Entre as placas, há um campo elétrico de módulo constante E na direção vertical y. Após saírem da região entre as placas, os elétrons descrevem uma trajetória retilínea até a tela fluorescente T.</p>
+        <p>Determine</p>
+        <p>a) o módulo a da aceleração dos elétrons enquanto estão entre as placas; b) o intervalo de tempo ∆t que os elétrons permanecem entre as placas; c) o desvio ∆y na trajetória dos elétrons, na direção vertical, ao final de seu movimento entre as placas; d) a componente vertical vy da velocidade dos elétrons ao saírem da região entre as placas.</p>
+        <p>Note e adote: Ignore os efeitos de borda no campo elétrico. Ignore efeitos gravitacionais.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A potência elétrica instalada no Brasil é 100 GW. Considerando que o equivalente energético do petróleo seja igual a 4x107 J/L, que a potência média de radiação solar por unidade de área incidente na superfície terrestre seja igual a 250 W/m2 e que a relação de equivalência entre massa m e energia E é expressa por E = mc2, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a área A de superfície terrestre, na qual incide uma potência média de radiação solar equivalente à potência elétrica instalada no Brasil;</p>
+        </part>
+        <part>
+          <p>a energia elétrica EB consumida no Brasil em um ano, supondo que, em média, 80% da potência instalada seja utilizada;</p>
+        </part>
+        <part>
+          <p>o volume V de petróleo equivalente à energia elétrica consumida no Brasil em um ano;</p>
+        </part>
+        <part>
+          <p>a massa m equivalente à energia elétrica consumida no Brasil em um ano. Note e adote: 1 GW = 109 W c = 3 x 108 m/s 1 ano = 3 x 107 s 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 14/38 − Caderno Reserva 0000−00 14 198 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um recipiente contém 100 mL de uma solução aquosa de H2SO4 de concentração 0,1 mol/L. Duas placas de platina são inseridas na solução e conectadas a um LED (diodo emissor de luz) e a uma bateria, como representado abaixo.</p>
+        <p>A intensidade da luz emitida pelo LED é proporcional à concentração de íons na solução em que estão inseridas as placas de platina. Nesse experimento, adicionou-se, gradativamente, uma solução aquosa de Ba(OH)2, de concentração 0,4 mol/L, à solução aquosa de H2SO4, medindo-se a intensidade de luz a cada adição. Os resultados desse experimento estão representados no gráfico.</p>
+        <p>Sabe-se que a reação que ocorre no recipiente produz um composto insolúvel em água.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química que representa essa reação.</p>
+        </part>
+        <part>
+          <p>Explique por que, com a adição de solução aquosa de Ba(OH)2, a intensidade de luz decresce até um valor mínimo, aumentando a seguir.</p>
+        </part>
+        <part>
+          <p>Determine o volume adicionado da solução aquosa de Ba(OH)2 que corresponde ao ponto x no gráfico. Mostre os cálculos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="02">
+      <statement>
+        <p>Uma estudante de Química elaborou um experimento para investigar a reação entre cobre metálico (Cu) e ácido nítrico (HNO3(aq)). Para isso, adicionou o ácido nítrico a um tubo de ensaio (I) e, em seguida, adicionou raspas de cobre metálico a esse mesmo tubo. Observou que houve liberação de calor e de um gás marrom, e que a solução se tornou azul. A seguir, adicionou raspas de cobre a dois outros tubos (II e III), contendo, respectivamente, soluções aquosas de ácido clorídrico (HCl(aq)) e nitrato de sódio (NaNO3(aq)). Não observou qualquer mudança nos tubos II e III, ao realizar esses testes. Sabe-se que soluções aquosas de íons Cu2+ são azuis e que o gás NO2 é marrom.</p>
+        <p>a) Escreva, nos espaços delimitados na página de respostas, as equações que representam a semirreação de oxidação e a semirreação de redução que ocorrem no tubo I.</p>
+        <p>b) Qual foi o objetivo da estudante ao realizar os testes com HCl (aq) e NaNO3(aq)? Explique.</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3</p>
+        <p>a) Semirreação de oxidação</p>
+        <p>Semirreação de redução</p>
+        <p>b)</p>
+        <p>Página 16/38 − Caderno Reserva 0000−00 16 538 Área Reservada Não escreva no topo da folha</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A vida dos peixes em um aquário depende, entre outros fatores, da quantidade de oxigênio (O2) dissolvido, do pH e da temperatura da água. A concentração de oxigênio dissolvido deve ser mantida ao redor de 7 ppm (1 ppm de O2 = 1 mg de O2 em 1000 g de água) e o pH deve permanecer entre 6,5 e 8,5. Um aquário de paredes retangulares possui as seguintes dimensões: 40 x 50 x 60 cm (largura x comprimento x altura) e possui água até a altura de 50 cm. O gráfico abaixo apresenta a solubilidade do O2 em água, em diferentes temperaturas (a 1 atm).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A água do aquário mencionado contém 500 mg de oxigênio dissolvido a 25 oC. Nessa condição, a água do aquário está saturada em oxigênio? Justifique. Dado: densidade da água do aquário = 1,0 g/cm3.</p>
+        </part>
+        <part>
+          <p>Deseja-se verificar se a água do aquário tem um pH adequado para a vida dos peixes. Com esse objetivo, o pH de uma amostra de água do aquário foi testado, utilizando-se o indicador azul de bromotimol, e se observou que ela ficou azul. Em outro teste, com uma nova amostra de água, qual dos outros dois indicadores da tabela dada deveria ser utilizado para verificar se o pH está adequado? Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A reação do tetracloroetano (C2H2Cl4) com zinco metálico produz cloreto de zinco e duas substâncias orgânicas isoméricas, em cujas moléculas há dupla ligação e dois átomos de cloro. Nessas moléculas, cada átomo de carbono está ligado a um único átomo de cloro.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Utilizando fórmulas estruturais, mostre a diferença na geometria molecular dos dois compostos orgânicos isoméricos formados na reação.</p>
+        </part>
+        <part>
+          <p>Os produtos da reação podem ser separados por destilação fracionada. Qual dos dois isômeros tem maior ponto de ebulição? Justifique. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 18/38 − Caderno Reserva 0000−00 18 978 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma vela foi colocada dentro de um recipiente cilíndrico e com raio igual a 10 cm, sem tampa, ao qual também foi adicionado hidrogenocarbonato de sódio sólido, NaHCO3. A vela foi acesa e adicionou-se ao recipiente, lentamente, solução aquosa de ácido acético, C2H4O2, de tal forma que o nível da solução atingiu somente a parte inferior da vela, ficando distante da chama. Após 3 segundos, observou-se que a chama apagou.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Apresente a fórmula estrutural do ácido acético.</p>
+        </part>
+        <part>
+          <p>Escreva a equação química balanceada da reação entre o sólido e a solução aquosa de ácido acético.</p>
+        </part>
+        <part>
+          <p>O experimento foi repetido com outra vela de mesma altura e com as mesmas quantidades de reagentes utilizadas anteriormente. Mudou-se apenas o recipiente, que foi substituído por outro, de mesma altura que o anterior, mas com raio igual a 20 cm. Dessa vez, após os mesmos 3 segundos, observou-se que a chama não apagou. Proponha uma explicação para esse fato, considerando a densidade das substâncias gasosas presentes. Dados: Massa molar (g/mol) C .... 12 N .... 14 O .... 16</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>Os chamados “compostos de Grignard” foram preparados, pela primeira vez, por Victor Grignard no final do século XIX. Esses compostos podem ser obtidos pela reação de um haleto de alquila ou haleto de arila com magnésio metálico, utilizando um éter como solvente, conforme representado pelas seguintes equações químicas:</p>
+        <p>Os compostos de Grignard são muito úteis, por exemplo, para preparar alcoóis a partir de cetonas ou aldeídos, conforme representado abaixo:</p>
+        <p>Os compostos de Grignard também reagem com aminas, alcoóis e ácidos carboxílicos, conforme representado pelas seguintes equações químicas:</p>
+        <p>Assim sendo, para preparar um composto de Grignard, é preciso escolher corretamente o haleto orgânico, que não deve conter grupos funcionais que reajam com o composto de Grignard que se pretende preparar.</p>
+        <p>a) Dentre os cinco compostos representados na página de respostas, apenas dois são adequados para reagir com magnésio e preparar compostos de Grignard. Indique esses dois compostos, justificando sua escolha.</p>
+        <p>b) Escreva a fórmula estrutural do produto orgânico da reação representada na página de respostas.</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3</p>
+        <p>a)</p>
+        <p>b)</p>
+        <p>Página 20/38 − Caderno Reserva 0000−00 20 626 Área Reservada Não escreva no topo da folha</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nas mulheres, uma ovogônia diferencia-se em ovócito primário, que sofre a divisão I da meiose. Dessa divisão, resultam o ovócito secundário e outra célula, chamada primeiro corpúsculo polar. Ao final da divisão II da meiose, o ovócito secundário origina duas células – o óvulo e o segundo corpúsculo polar.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantos cromossomos existem na ovogônia, no óvulo e no segundo corpúsculo polar?</p>
+        </part>
+        <part>
+          <p>Admitindo que a quantidade de DNA da ovogônia é X, quanto DNA existe no ovócito primário, no ovócito secundário, e no primeiro e no segundo corpúsculos polares?</p>
+        </part>
+        <part>
+          <p>Quantos gametas resultam de uma ovogônia?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Logo após a realização de provas esportivas, parte da rotina dos atletas inclui a ingestão de água e de bebidas isotônicas; também é feita a coleta de urina para exames antidoping, em que são detectados medicamentos e drogas, eventualmente ingeridos, que o corpo descarta. As bebidas isotônicas contêm água, glicose e sais minerais, apresentando concentração iônica semelhante à encontrada no sangue humano. No esquema ao lado, os números de 1 a 4 indicam processos, que ocorrem em um néfron do rim humano.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual(is) número(s) indica(m) processo(s) pelo(s) qual(is) passa a água?</p>
+        </part>
+        <part>
+          <p>Qual(is) número(s) indica(m) processo(s) pelo(s) qual(is) passam as substâncias dissolvidas, detectáveis no exame antidoping?</p>
+        </part>
+        <part>
+          <p>Após uma corrida, um atleta, em boas condições de saúde, eliminou muito suor e muita urina e, depois, ingeriu bebida isotônica. Entre os componentes da bebida isotônica, qual(is) não será(ão) utilizado(s) para repor perdas de substâncias eliminadas pela urina e pelo suor? Justifique sua resposta. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 22/38 − Caderno Reserva 0000−00 22 066 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Piaimã virou o herói de cabeça para baixo. Então Macunaíma fez cócegas com os ramos nas orelhas do gigante (...). Chegaram no hol. Por debaixo da escada tinha uma gaiola de ouro com passarinhos cantadores. E os passarinhos do gigante eram cobras e lagartos.</p>
+        <p>Mário de Andrade, Macunaíma.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Suponha que o gigante Piaimã tenha encontrado os ovos de lagarto e os tenha posto para chocar, pensando que fossem de aves. O exame dos anexos embrionários dos ovos desses dois grupos de animais permite diferenciar se eles são de lagartos ou de passarinhos? Justifique.</p>
+        </part>
+        <part>
+          <p>Considere que a gaiola esteja embaixo da escada em local frio e úmido, e com alimento disponível. Que animais ─ cobras, lagartos ou passarinhos ─ teriam maior dificuldade para sobreviver por período muito longo nessas condições? Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Num estudo, a população do inseto Caliothrips phaseoli (espécie A) permaneceu isolada de outros insetos; o gráfico 1 abaixo mostra o número médio de indivíduos por planta, registrado ao longo de seis semanas.</p>
+        <p>Em outra situação do estudo, os insetos da espécie Caliothrips phaseoli (espécie A) foram mantidos na presença de insetos da espécie Orius insidiosus (espécie B). O gráfico 2 mostra o número médio de insetos da espécie A por planta.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite um tipo de interação ecológica que possa ter ocorrido entre as espécies A e B. Que informação fornecida nos gráficos apoia sua resposta?</p>
+        </part>
+        <part>
+          <p>Cite um tipo de interação ecológica entre as espécies A e B, que não seja compatível com os dados apresentados nos gráficos. Para serem compatíveis com a interação ecológica citada, os números médios de indivíduos por planta, no gráfico 2, deveriam ser maiores ou menores? Justifique sua resposta. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 24/38 − Caderno Reserva 0000−00 24 406 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os equinodermos são animais deuterostômios marinhos que apresentam simetria radial na fase adulta e bilateral na fase de larva.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A palavra deuterostômio deriva do grego: deuteros = segundo, secundário; stoma = boca. Que característica justifica denominar os equinodermos como deuterostômios? Cite outro filo animal com o qual essa característica é compartilhada.</p>
+        </part>
+        <part>
+          <p>No desenvolvimento dos equinodermos, verifica-se a transição de simetria bilateral para simetria radial. Essa sequência reflete o que ocorreu com a simetria ao longo da evolução dos metazoários invertebrados? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura abaixo mostra um equipamento que coleta gases produzidos por plantas aquáticas. Nele, são colocados ramos que ficam submersos em líquido; uma válvula controla a saída dos gases.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que gás(gases) é(são) coletado(s) de um equipamento como esse, quando a planta é mantida sob mesma temperatura e sob intensidade luminosa a1) inferior ao ponto de compensação fótico? a2) superior ao ponto de compensação fótico?</p>
+        </part>
+        <part>
+          <p>Dois equipamentos, preparados com a mesma quantidade de planta e o mesmo volume de líquido, foram mantidos sob as mesmas condições de temperatura e de exposição à luz; apenas um fator diferiu entre as duas preparações. Após duas horas, verificou-se que a quantidade de gases coletada de um dos equipamentos foi 20% maior do que a do outro. Qual fator, que variou entre as preparações, pode explicar essa diferença na quantidade de gases coletada? 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 26/38 − Caderno Reserva 0000−00 26 846 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia o texto e examine a imagem.</p>
+        <p>A arte gótica reúne e desenvolve os fermentos novos [...] e os organiza em sistema; e esse sistema tem um lugar seguro na mais vasta organização do saber.</p>
+        <p>G. C. Argan. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Cosac &amp; Naif, 2003, v. 1, p. 337. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique, a partir da imagem, dois elementos característicos do chamado estilo gótico.</p>
+        </part>
+        <part>
+          <p>Do ponto de vista cultural, apresente e explique uma característica do “sistema”, que, segundo o texto, “tem um lugar seguro na mais vasta organização do saber”.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Representando apenas 19,6% das exportações brasileiras em 1822 (com a média de 18,4% nos anos 1820), o café passou a liderar as exportações brasileiras na década dos 1830 (com 28,6%), assumindo assim o lugar tradicionalmente ocupado pelo açúcar desde o período colonial. Nos meados do século XIX, passava a representar quase a metade do valor das exportações e, no último decênio do período monárquico, alcançava 61,5%. Já a participação do açúcar no quadro dos valores das exportações brasileiras passou de 30,1%, na década de 1820, a apenas 9,9%, nos anos 1880. O algodão alcançava 20,6%, na década de 1820, cifra jamais alcançada depois, em todo o período monárquico. Com exceção dos anos da guerra civil americana, que se refletiram na elevada participação do produto no conjunto das exportações dos anos 1870 (18,3%), verifica-se o declínio das exportações que, nos anos 1880, têm uma participação de apenas 4,2%. O comportamento das exportações de fumo revela que essas oscilaram em torno de baixas percentagens, durante todo o período monárquico. Alcançando 2,5% do valor global das exportações na década de 1820, decaiu, nas duas décadas seguintes (1,9% para os anos 1830 e 1,8% para os anos 1840). Na segunda metade do século, melhorou a posição do fumo no conjunto das exportações, tendo alcançado, nos anos 1860 e 1870, as maiores percentagens do período, com 3% e 3,4%. A participação do cacau no conjunto das exportações nacionais cresceu de 0,5% na década de 1820 para 1,6% na última década da monarquia, a mais alta porcentagem do período.</p>
+        <p>Sérgio Buarque de Holanda (org.). História geral da civilização brasileira. II. O Brasil Monárquico. 4. Declínio e queda do império. Rio de Janeiro: Difel, 1985, p. 119-126. Adaptado.</p>
+        <p>Com base no texto, responda ao que se pede:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Elabore um gráfico das exportações brasileiras de café, açúcar e algodão no período monárquico, incluindo os respectivos dados percentuais (aproximados).</p>
+        </part>
+        <part>
+          <p>Qual foi o principal produto de exportação brasileiro, respectivamente, nas décadas de 1820, 1830 e 1880? 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 28/38 − Caderno Reserva 0000−00 28 286 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe a foto abaixo, tirada no Gueto de Varsóvia, em 1943, durante a ocupação nazista da Polônia.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Por que o menino porta uma estrela nas costas e o que essa estrela representava nas zonas de domínio nazista?</p>
+        </part>
+        <part>
+          <p>Explique a dinâmica de funcionamento do Gueto de Varsóvia e o que ele representou na dominação nazista da Polônia.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os textos abaixo:</p>
+        <p>Coube ao Gen. Mourão Filho, Cmt. da 4a Região Militar, essa histórica iniciativa, a 31 de março, nas altaneiras montanhas de Minas. E a Revolução, sem que tivesse havido elaboradas articulações prévias entre os Chefes Militares, ─ não teria havido tempo para isto ─ empolga o Exército, a Marinha e a Aeronáutica, para ter seu epílogo às 11h45min do dia 2 de abril, no Aeroporto Salgado Filho, em Porto Alegre, com a partida do ex-Presidente João Goulart para o estrangeiro.</p>
+        <p>M. P. Figueiredo. A Revolução de 1964. Um depoimento para a história pátria. Rio de Janeiro: APEC, 1970, p. 11-12. Adaptado.</p>
+        <p>Lembro-me bem do dia 31 de março de 1964. Era aluno do curso de Sociologia e Política da Faculdade de Ciências Econômicas da antiga Universidade de Minas Gerais e militava na Ação Popular, grupo de esquerda católica [...] No dia seguinte, 1o de abril, já não havia dúvida sobre a vitória do golpe. Saí em companhia de colegas a vagar pelas ruas de Belo Horizonte [...] Contemplávamos, perplexos, a alegria dos que celebravam a vitória e assistíamos, assustados, ao início da violência contra os derrotados.</p>
+        <p>J. M. de Carvalho. Forças Armadas e Política no Brasil. Rio de Janeiro: Jorge Zahar Editor, 2005, p. 118.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que denominação cada autor utilizou para se referir ao regime instaurado após 31 de março de 1964? A que se deve essa diferença de denominação?</p>
+        </part>
+        <part>
+          <p>Tal diferença se relaciona com a criação da Comissão da Verdade em 2012? Justifique. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 30/38 − Caderno Reserva 0000−00 30 934 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Não esqueçamos que o processo de formação de um povo e de uma civilização gregos não se desenrolou segundo um plano premeditado, nem de maneira realmente consciente. Tentativa, erro e imitação foram os principais meios, de tal modo que uma certa margem de diversidade social e cultural, amiúde muito marcada, caracterizou os inícios da Grécia. De fato, nem o ritmo nem a própria direção da mudança deixaram de se alterar ao longo da história grega.</p>
+        <p>Moses I. Finley. O mundo de Ulisses. 3ª ed. Lisboa: Presença, 1998, p.16.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique um elemento “imitado” de outros povos e sociedades que teria estado presente nos “inícios da Grécia”.</p>
+        </part>
+        <part>
+          <p>Ofereça pelo menos dois exemplos do que o autor chama de “diversidade social e cultural”, que “caracterizou os inícios da Grécia”.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A Revolução Mexicana, iniciada em 1910, arrastou-se por quase dez anos e envolveu diversos projetos políticos e sociais.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique e analise uma das principais reivindicações dos zapatistas durante essa Revolução.</p>
+        </part>
+        <part>
+          <p>Cite e analise duas das principais mudanças sociais trazidas por essa Revolução. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 32/38 − Caderno Reserva 0000−00 32 374 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os centros de inovação tecnológica são exemplos de transformações espaciais originados da chamada Terceira Revolução Industrial.</p>
+        <p>Com base no mapa e em seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>aponte duas características da Terceira Revolução Industrial que favoreceram o aparecimento dos centros de inovação tecnológica. Explique.</p>
+        </part>
+        <part>
+          <p>identifique e caracterize o conjunto de centros de inovação tecnológica destacado na porção sudoeste dos Estados Unidos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A partir do início dos anos 2000, o governo brasileiro começa a lançar mão de uma nova estratégia de proteção ambiental no território nacional da qual resultou a delimitação das áreas a serem conservadas, representadas no mapa abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique dois objetivos da criação de corredores ecológicos. Explique.</p>
+        </part>
+        <part>
+          <p>Identifique duas ameaças à proteção ambiental no corredor Leste da Amazônia. Explique. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 34/38 − Caderno Reserva 0000−00 34 714 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A agência de proteção ambiental dos Estados Unidos, “EPA”, estima que 30 a 40 milhões de computadores pessoais são descartados anualmente no mundo. O programa ambiental das Nações Unidas, “UNEP”, calcula em 50 milhões de toneladas anuais a produção mundial de lixo eletrônico, “e-waste”. Os maiores produtores desse tipo de dejetos são os Estados Unidos, a Europa e o Japão, os quais reciclam cerca de 30% deles, sendo o restante exportado principalmente para a China, países da África, Índia e Paquistão. National Geographic – High-Tech Trash, 2008. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Aponte um motivo pelo qual os países desenvolvidos exportam parte de seu lixo eletrônico. Explique.</p>
+        </part>
+        <part>
+          <p>Indique um motivo pelo qual países pobres, ou em desenvolvimento, aceitam receber o lixo eletrônico proveniente de países exportadores desse lixo. Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No mapa estão assinaladas importantes áreas de conflito envolvendo países da América do Sul.</p>
+        <p>Com base no mapa e em seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>identifique e explique o principal tipo de conflito existente nas duas regiões assinaladas com a letra A;</p>
+        </part>
+        <part>
+          <p>identifique e explique o principal tipo de conflito existente nas duas regiões assinaladas com a letra B. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 Página 36/38 − Caderno Reserva 0000−00 36 154 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as afirmações I, II e III.</p>
+        <p>I: Há dois elementos fundamentais na agricultura que a diferem da indústria: o primeiro deles é o tempo da natureza. II: Em 2009, o Brasil alcançou o primeiro lugar no ranking mundial de consumo de agrotóxicos. III: Ressalte-se que 92% da receita líquida gerada pelas indústrias fabricantes de agrotóxicos em 2010 ficaram com apenas seis grandes empresas de capital estrangeiro.</p>
+        <p>Bombardi, 2012. Disponível em www.mcpbrasil.org.br. Acessado em outubro de 2012. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Analise a afirmação II, considerando a afirmação I.</p>
+        </part>
+        <part>
+          <p>Qual o processo a que se refere a afirmação III? Explique.</p>
+        </part>
+        <part>
+          <p>Indique dois impactos socioambientais decorrentes do uso de agrotóxicos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Entre as características que distinguem a água do mar das águas dos rios continentais, destaca-se a alta concentração de sal. Pensando-se na escala planetária, essa concentração não é, todavia, a mesma em todos os lugares e varia conforme se pode ver no planisfério abaixo.</p>
+        <p>Com base nas informações acima e em seus conhecimentos sobre as zonas climáticas, a precipitação atmosférica e a hidrografia do planeta,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>explique um fator natural responsável pela menor concentração de sal das águas oceânicas nas proximidades dos polos;</p>
+        </part>
+        <part>
+          <p>identifique e explique uma causa da diminuição da salinidade das águas oceânicas em direção ao continente africano na área assinalada. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2013 PROVA 3 FUVEST Fundação Universitária para o Vestibular|18/12/2012|09:11:03 192.168.5.86 18/12/2012 09:20:20 000 000/000 FUVEST 2013 2ª Fase − Terceiro Dia (08/01/2013) 000/000 Página 38/38 − Caderno Reserva 0000−00 38 594 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

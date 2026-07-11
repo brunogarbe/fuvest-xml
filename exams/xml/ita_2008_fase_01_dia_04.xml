@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2008" phase="objective" day="0" variation="V1" date="2008-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Considere uma população de igual número de homens e mulheres, em que sejam daltônicos 5% dos homens e 0; 25% das mulheres. Indique a probabilidade de que seja mulher uma pessoa daltônica selecionada ao acaso nessa população. A ( ) 1 21 B ( ) 1 8 C ( ) 3 21 D ( ) 5 21 E ( ) 1 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Sejam ; 2 C tais que jj = jj = 1 e j j = p 2: Então 2 + 2 é igual a A ( ) 2 B ( ) 0 C ( ) 1 D ( ) 2 E ( ) 2i</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Considere o sistema Ax = b; em que A = 0 @ 1 2 3 2 k 6 1 3 k 3 1 A ; b = 0 @ 1 6 0 1 A e k 2 R: Sendo T a soma de todos os valores de k que tornam o sistema impossível e sendo S a soma de todos os valores de k que tornam o sistema possível e indeterminado, então o valor de T S é A ( ) 4 B ( ) 3 C ( ) 0 D ( ) 1 E ( ) 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Sejam A e C matrizes n n inversíveis tais que det(I + C1A) = 1=3 e det A = 5: Sabendo-se que B = 3 (A1 + C1)t ; então o determinante de B é igual a A ( ) 3n B ( ) 2 3n 52 C ( ) 1 5 D ( ) 3n1 5 E ( ) 53n1</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Um polinômio P é dado pelo produto de 5 polinômios cujos graus formam uma progressão geométrica. Se o polinômio de menor grau tem grau igual a 2 e o grau de P é 62, então o de maior grau tem grau igual a A ( ) 30 B ( ) 32 C ( ) 34 D ( ) 36 E ( ) 38</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Um diedro mede 120. A distância da aresta do diedro ao centro de uma esfera de volume 4 p 3 cm3 que tangencia as faces do diedro é, em cm, igual a A ( ) 3 p 3 B ( ) 3 p 2 C ( ) 2 p 3 D ( ) 2 p 2 E ( ) 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Considere o quadrado ABCD com lados de 10 m de comprimento. Seja M um ponto sobre o lado AB e N um ponto sobre o lado AD; eqüidistantes de A. Por M traça-se uma reta r paralela ao lado AD e por N uma reta s paralela ao lado AB; que se interceptam no ponto O. Considere os quadrados AMON e OPCQ, onde P é a intersecção de s com o lado BC e Q é a intersecção de r com o lado DC. Sabendose que as áreas dos quadrados AMON; OPCQ e ABCD constituem, nesta ordem, uma progressão geométrica, então a distância entre os pontos A e M é igual, em metros, a A ( ) 15 + 5 p 5 B ( ) 10 + 5 p 5 C ( ) 10 p 5 D ( ) 15 5 p 5 E ( ) 10 3 p 5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Considere o polinômio p(x) = a5 x5 + a4 x4 + a3 x3 + a2 x2 a1; em que uma das raízes é x = 1: Sabendo-se que a1, a2, a3, a4 e a5 são reais e formam, nesta ordem, uma progressão aritmética com a4 = 1=2, então p(2) é igual a A ( ) 25 B ( ) 27 C ( ) 36 D ( ) 39 E ( ) 40</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Sobre a equação polinomial 2x4 + ax3 + bx2 + cx 1 = 0, sabemos que os coe…cientes a; b; c são reais, duas de suas raízes são inteiras e distintas e 1=2i=2 também é sua raiz. Então, o máximo de a; b; c é igual a A ( ) 1 B ( ) 1 C ( ) 2 D ( ) 3 E ( ) 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. É dada a equação polinomial (a + c + 2) x3 + (b + 3c + 1) x2 + (c a) x + (a + b + 4) = 0 com a; b; c reais. Sabendo-se que esta equação é recíproca de primeira espécie e que 1 é uma raiz, então o produto abc é igual a A ( ) 2 B ( ) 4 C ( ) 6 D ( ) 9 E ( ) 12</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Sendo [=2; =2] o contradomínio da função arcoseno e [0; ] o contradomínio da função arcocosseno, assinale o valor de cos arcsen 3 5 + arccos 4 5 : A ( ) 1 p 12 B ( ) 7 25 C ( ) 4 15 D ( ) 1 p 15 E ( ) 1 2 p 5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Dada a cônica : x2 y2 = 1; qual das retas abaixo é perpendicular à no ponto P = 2; p 3 ? A ( ) y = p 3(x 1) B ( ) y = p 3 2 x C ( ) y = p 3 3 (x + 1) D ( ) y = p 3 5 (x 7) E ( ) y = p 3 2 (x 4)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. O conjunto imagem e o período de f(x) = 2 sen2 (3x) + sen(6x) 1 são, respectivamente, A ( ) [3; 3] e 2 B ( ) [2; 2] e 2 3 C ( ) p 2; p 2 e 3 D ( ) [1; 3] e 3 E ( ) [1; 3] e 2 3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Para x 2 R; o conjunto solução de j53x 52x+1 + 4 5xj = j5x 1j é A ( ) n 0; 2 p 5; 2 p 3 o B ( ) n 0; 1; log5 2 + p 5 o C ( ) ( 0; 1 2 log5 2; 1 2 log5 3; log5 p 2 2 !) D ( ) n 0; log5 2 + p 5 ; log5 2 + p 3 ; log5 2 p 3 o E ( ) A única solução é x = 0</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Um subconjunto D de R tal que a função f : D ! R; de…nida por f(x) = jln (x2 x + 1)j é injetora, é dado por A ( ) R B ( ) (1; 1] C ( ) [0; 1=2] D ( ) (0; 1) E ( ) [1=2; 1)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. A soma de todas as soluções distintas da equação cos 3x + 2 cos 6x + cos 9x = 0; que estão no intervalo 0 x =2; é igual a A ( ) 2 B ( ) 23 12 C ( ) 9 6 D ( ) 7 6 E ( ) 13 12</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Considere o conjunto D = fn 2 N; 1 n 365g e H P(D) formado por todos os subconjuntos de D com 2 elementos. Escolhendo ao acaso um elemento B 2 H; a probabilidade de a soma de seus elementos ser 183 é igual a A ( ) 1 730 B ( ) 46 33 215 C ( ) 1 365 D ( ) 92 33 215 E ( ) 91 730</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Considere o triângulo ABC isósceles em que o ângulo distinto dos demais, B ^AC; mede 40: Sobre o lado AB, tome o ponto E tal que A ^CE = 15: Sobre o lado AC, tome o ponto D tal que D ^BC = 35. Então, o ângulo E ^DB vale A ( ) 35 B ( ) 45 C ( ) 55 D ( ) 75 E ( ) 85</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Sejam X; Y; Z; W subconjuntos de N tais que (X Y ) \ Z = f1; 2; 3; 4g ; Y = f5; 6g ; Z \ Y = ;; W \ (X Z) = f7; 8g ; X \ W \ Z = f2; 4g : Então o conjunto [X \ (Z [ W)] [W \ (Y [ Z)] é igual a A ( ) f1; 2; 3; 4; 5g B ( ) f1; 2; 3; 4; 7g C ( ) f1; 3; 7; 8g D ( ) f1; 3g E ( ) f7; 8g</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Sejam r e s duas retas paralelas distando 10 cm entre si. Seja P um ponto no plano de…nido por r e s e exterior à região limitada por estas retas, distando 5 cm de r. As respectivas medidas da área e do perímetro, em cm2 e cm, do triângulo equilátero PQR cujos vértices Q e R estão, respectivamente, sobre as retas r e s, são iguais a A ( ) 175 p 3 3 e 5 p 21 B ( ) 175 p 3 3 e 10 p 21 C ( ) 175 p 3 e 10 p 21 D ( ) 175 p 3 e 5 p 21 E ( ) 700 e 10 p 21 As questões dissertativas, numeradas de 21 a 30, devem ser resolvidas e respondidas no caderno de soluções.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Dado o conjunto A = x 2 R; p 3x2 + 2x &lt; x2 ; expresse-o como união de intervalos da reta real.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Determine as raízes em C de 4z6 + 256 = 0; na forma a + bi; com a; b 2 R; que pertençam a S = fz 2 C; 1 &lt; jz + 2j &lt; 3g :</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Seja f(x) = ln (x2 + x + 1) ; x 2 R: Determine as funções h; g : R ! R tais que f(x) = g(x) + h(x); 8x 2 R; sendo h uma função par e g uma função ímpar.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Sejam ; ; 2 R: Considere o polinômio p(x) dado por x5 9x4 +( 2 ) x3 +( + 2 + 2 2) x2 +( + 1) x+(2 + + 1) : Encontre todos os valores de ; e de modo que x = 0 seja uma raiz com multiplicidade 3 de p(x).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Uma matriz real quadrada A é ortogonal se A é inversível e A1 = At: Determine todas as matrizes 22 que são simétricas e ortogonais, expressando-as, quando for o caso, em termos de seus elementos que estão fora da diagonal principal.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Determine todos os valores 2 2 ; 2 tais que a equação (em x) x4 2 4p 3 x2 + tg = 0 admita apenas raízes reais simples.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Em um espaço amostral com uma probabilidade P; são dados os eventos A; B e C tais que: P (A) = P (B) = 1=2; com A e B independentes, P (A \ B \ C) = 1=16; e sabe-se que P ((A \ B) [ (A \ C)) = 3=10: Calcule as probabilidades condicionais P (CjA \ B) e P CjA \ BC :</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Um triângulo acutângulo de vértices A; B e C está inscrito numa circunferência de raio 5 p 2 3 : Sabe-se que AB mede 2 p 5 e BC mede 2 p 2: Determine a área do triângulo ABC:</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Seja C uma circunferência de raio r e centro O e AB um diâmetro de C: Considere o triângulo equilátero BDE inscrito em C: Traça-se a reta s passando pelos pontos O e E até interceptar em F a reta t tangente à circunferência C no ponto A: Determine o volume do sólido de revolução gerado pela rotação da região limitada pelo arco _ AE e pelos segmentos AF e EF em torno do diâmetro AB:</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Considere a parábola de equação y = ax2 + bx + c; que passa pelos pontos (2; 5) ; (1; 2) e tal que a; b; c formam, nesta ordem, uma progressão aritmética. Determine a distância do vértice da parábola à reta tangente à parábola no ponto (2; 5):</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

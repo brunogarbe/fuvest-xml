@@ -1,0 +1,1850 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2000" phase="objective" day="0" variation="V1" date="2000-01-01" lang="pt-br">
+  <question_group>
+    <context>
+      <p>A explosão dos computadores pessoais, as “infovias”, as grandes redes − a Internet e a World Wide Web − atropelaram o mundo. Tornaram as leis antiquadas, reformularam a economia, reordenaram prioridades, redefiniram os locais de trabalho, desafiaram constituições, mudaram o conceito de realidade e obrigaram as pessoas a ficar sentadas, durante longos períodos de tempo, diante de telas de computadores, enquanto o CD-Rom trabalha. Não há dúvida de que vivemos a revolução da informação e, diz o professor do MIT, Nicholas Negroponte, revoluções não são sutis. (Jornal do Brasil, 13/02/96)</p>
+    </context>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, a expressão que sintetiza os efeitos da revolução operada pela informática é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“atropelaram o mundo”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“tornaram as leis antiquadas”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“reformularam a economia”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“redefiniram os locais de trabalho”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“desafiaram constituições”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A expressão “revoluções não são sutis” indica</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a natureza efêmera das revoluções.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a negação dos benefícios decorrentes das revoluções.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a natureza precária das revoluções.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o caráter radical das revoluções.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o traço progressista das revoluções.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As aspas foram usadas em “infovias” pela mesma razão por que foram usadas em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Mesmo quando a punição foi confirmada, o “Alemão”, seu apelido no Grêmio, não esmoreceu.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>... fica fácil entender por que há cada vez mais pessoas preconizando a “fujimorização” do Brasil.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O Paralamas, que normalmente sai “carregado” de prêmios, só venceu em edição.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A renda média “per capita” da América latina baixou para 25% em 1995.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A torcida gritava “olé” a cada toque de seus jogadores.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Na planície avermelhada, os juazeiros alargavam duas manchas verdes. Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos. Ordinariamente andavam pouco, mas como haviam repousado bastante na areia do rio seco, a viagem progredira bem três léguas. Fazia horas que procuravam uma sombra. A folhagem dos juazeiros apareceu longe, através dos galhos pelados da caatinga rala. (Graciliano Ramos, Vidas secas)</p>
+    </context>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Reestruturando-se o terceiro período do texto, mantém-se o sentido original apenas em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A viagem progredira bem três léguas, uma vez que haviam repousado bastante na areia do rio seco, dado que ordinariamente andavam pouco.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Haviam repousado bastante na areia do rio seco; a viagem progredira bem três léguas porque ordinariamente andavam pouco.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Porque haviam repousado bastante na areia do rio seco, ordinariamente andavam pouco, e a viagem progredira bem três léguas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Ainda que ordinariamente andassem pouco, a viagem progredira bem três léguas, pois haviam repousado bastante na areia do rio seco.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Em virtude de andarem ordinariamente pouco e de haverem repousado bastante na areia do rio seco, a viagem progredira bem três léguas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Tendo em vista a relação, neste texto, entre o vocabulário e os efeitos de sentido, é INCORRETO afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o adjetivo “avermelhada” retrata o rigor do clima.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“rio seco”, “galhos pelados”, “caatinga rala” caracterizam um espaço hostil aos viajantes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>as palavras empregadas pelo narrador reproduzem as das personagens.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os nomes dos viajantes substituem-se por um adjetivo substantivado – “os infelizes”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a expressão “o dia inteiro” equivale a “todo o dia”. 3 V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>As duas manas Lousadas! Secas, escuras e gárrulas como cigarras, desde longos anos, em Oliveira, eram elas as esquadrinhadoras de todas as vidas, as espalhadoras de todas as maledicências, as tecedeiras de todas as intrigas. E na desditosa cidade, não existia nódoa, pecha, bule rachado, coração dorido, algibeira arrasada, janela entreaberta, poeira a um canto, vulto a uma esquina, bolo encomendado nas Matildes, que seus olhinhos furantes de azeviche sujo não descortinassem e que sua solta língua, entre os dentes ralos, não comentasse com malícia estridente. (Eça de Queirós, A ilustre Casa de Ramires)</p>
+    </context>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, o emprego de artigos definidos e a omissão de artigos indefinidos têm como efeito, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>atribuir às personagens traços negativos de caráter; apontar Oliveira como cidade onde tudo acontece.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>acentuar a exclusividade do comportamento típico das personagens; marcar a generalidade das situações que são objeto de seus comentários.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>definir a conduta das duas irmãs como criticável; colocá-las como responsáveis pela maioria dos acontecimentos na cidade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>particularizar a maneira de ser das manas Lousadas; situá-las numa cidade onde são famosas pela maledicência.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>associar as ações das duas irmãs; enfatizar seu livre acesso a qualquer ambiente na cidade.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Há, no texto, analogia entre o sentido da expressão “gárrulas como cigarras” e o sentido de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“tecedeiras de todas as intrigas”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“olhinhos furantes”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“azeviche sujo”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“sua solta língua”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“entre os dentes ralos”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A correlação de tempos que, neste texto, se verifica entre as formas verbais existia, descortinassem e comentasse, mantém-se apenas em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>não existe; não descortinem; não comente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>não existiu; não teriam descortinado; não teria comentado.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>não existira; não tinham descortinado; não tinha comentado.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>não existirá; não tiverem descortinado; não tiver comentado.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>não existiria; não descortinavam; não comentava.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Essa vida por aqui é coisa familiar; mas diga-me retirante, sabe benditos rezar? sabe cantar excelências, defuntos encomendar? sabe tirar ladainhas, sabe mortos enterrar? (João Cabral de Melo Neto, Morte e vida severina)</p>
+    </context>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Neste contexto, o verso “defuntos encomendar” significa</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ordenar a morte de alguém.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>lavar e vestir o defunto.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>matar alguém.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>preparar a urna funerária.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>orar pelo defunto.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O número de sílabas métricas (ou poéticas) dos versos do excerto é o mesmo do seguinte provérbio:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A bom entendedor/ meia palavra basta.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Água mole em pedra dura/ tanto bate até que fura.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Quem semeia vento/ colhe tempestades.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Quem dorme com cães/ amanhece com pulgas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Cabeça de vadio/ hospedaria do diabo.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um dos recursos expressivos de Guimarães Rosa consiste em deslocar palavras da classe gramatical a que elas pertencem. Destas frases de “Sorôco, sua mãe, sua filha”, a única em que isso NÃO ocorre é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“...os mais detrás quase que corriam. Foi o de não sair mais da memória”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“...não queria dar-se em espetáculo, mas representava de outroras grandezas”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“...mas depois puxando pela voz ela pegou a cantar”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“...sem jurisprudência, de motivo nem lugar, nenhum, mas pelo antes, pelo depois”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“...ela batia com a cabeça, nos docementes”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Você pode dar um rolê de bike, lapidar o estilo a bordo de um skate, curtir o sol tropical, levar sua gata para surfar. Considerando-se a variedade lingüística que se pretendeu reproduzir nesta frase, é correto afirmar que a expressão proveniente de variedade diversa é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“dar um rolê de bike”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“lapidar o estilo”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“a bordo de um skate”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“curtir o sol tropical”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“levar sua gata para surfar”. 4 V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Sinha Vitória falou assim, mas Fabiano resmungou, franziu a testa, achando a frase extravagante. Aves matarem bois e cabras, que lembrança! Olhou a mulher, desconfiado, julgou que ela estivesse tresvariando. (Graciliano Ramos, Vidas secas)</p>
+    </context>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma das características do estilo de Vidas secas é o uso do discurso indireto livre, que ocorre no trecho</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“Sinha Vitória falou assim”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“Fabiano resmungou”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“franziu a testa”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“que lembrança”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“olhou a mulher”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O prefixo assinalado em “tresvariando” traduz idéia de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>substituição.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>contigüidade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>privação.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>inferioridade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>intensidade.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as seguintes afirmações sobre a fala do velho do Restelo, em Os Lusíadas: INo seu teor de crítica às navegações e conquistas, encontra-se refletida e sintetizada a experiência das perdas que causaram, experiência esta já acumulada na época em que o poema foi escrito. IIAs críticas aí dirigidas às grandes navegações e às conquistas são relativizadas pelo pouco crédito atribuído a seu emissor, já velho e com um “saber só de experiências feito”. IIIA condenação enfática que aí se faz à empresa das navegações e conquistas revela que Camões teve duas atitudes em relação a ela: tanto criticou o feito quanto o exaltou. Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I e III.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Ossian o bardo é triste como a sombra Que seus cantos povoa. O Lamartine É monótono e belo como a noite, Como a lua no mar e o som das ondas... Mas pranteia uma eterna monodia, Tem na lira do gênio uma só corda; Fibra de amor e Deus que um sopro agita: Se desmaia de amor a Deus se volta, Se pranteia por Deus de amor suspira. Basta de Shakespeare. Vem tu agora, Fantástico alemão, poeta ardente Que ilumina o clarão das gotas pálidas Do nobre Johannisberg! Nos teus romances Meu coração deleita-se... Contudo, Parece-me que vou perdendo o gosto, (. . .) (Álvares de Azevedo, Lira dos vinte anos)</p>
+    </context>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando-se este excerto no contexto do poema a que pertence (“Idéias íntimas”), é correto afirmar que, nele,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o eu-lírico manifesta tanto seu apreço quanto sua insatisfação em relação aos escritores que evoca.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a dispersão do eu-lírico, própria da ironia romântica, exprime-se na métrica irregular dos versos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o eu-lírico rejeita a literatura e os demais poetas porque se identifica inteiramente com a natureza.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a recusa dos autores estrangeiros manifesta o projeto nacionalista típico da segunda geração romântica brasileira.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Lamartine é criticado por sua irreverência para com Deus e a religião, muito respeitados pela segunda geração romântica.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Fibra de amor e Deus que um sopro agita:” (verso 7) Os dois pontos no final deste verso introduzem uma</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>citação.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>explicação.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>enumeração.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>gradação.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>concessão.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em A ilustre Casa de Ramires, a novela histórica escrita por Gonçalo apresenta traços dominantes de um tipo de narrativa e de um estilo praticados principalmente durante o</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Arcadismo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Romantismo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Realismo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Naturalismo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Simbolismo. 5 V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Óbito do autor Algum tempo hesitei se devia abrir estas memórias pelo princípio ou pelo fim, isto é, se poria em primeiro lugar o meu nascimento ou a minha morte. Suposto o uso vulgar seja começar pelo nascimento, duas considerações me levaram a adotar diferente método: a primeira é que eu não sou propriamente um autor defunto, mas um defunto autor, para quem a campa foi outro berço; a segunda é que o escrito ficaria assim mais galante e mais novo. (Machado de Assis, Memórias póstumas de Brás Cubas, Capítulo primeiro)</p>
+    </context>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando-se este fragmento no contexto da obra a que pertence, é correto afirmar que, nele,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o discurso argumentativo, de tipo racional e lógico, apresenta afirmações que ultrapassam a razão e o senso comum.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a combinação de hesitações e autocrítica já caracteriza o tom de arrependimento com que o defunto autor relatará sua vida improdutiva.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>as hesitações e dúvidas revelam a presença de um narrador inseguro, que teme assumir a condução da narrativa e a autoridade sobre os fatos narrados.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>as preocupações com questões de método e as reflexões de ordem moral mostram um narrador alheio às meras questões literárias, tais como estilo e originalidade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>as considerações sobre o método e sobre a lógica da narração configuram o modo característico de se iniciar o romance no Realismo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A metáfora presente em “a campa foi outro berço” baseia-se</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>na relação abstrato/concreto que há em campa/berço.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>no sentido conotativo que assume a palavra campa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>na relação de similaridade estabelecida entre campa e berço.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>no sentido denotativo que tem a palavra berço.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>na relação todo/parte que existe em campa/berço.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, o particípio suposto expressa uma idéia de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>causa.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>finalidade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>tempo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>concessão.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>conformidade.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Comparando-se Brás Cubas e Macunaíma, é correto afirmar que, apesar de diferentes, ambos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>possuem muitos defeitos, mas conservam uma ingenuidade infantil, isenta de traços de malícia e de egoísmo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>tiveram seu principal relacionamento amoroso com mulheres tipicamente submissas, desprovidas de iniciativa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>não trabalham, caracterizando-se pela ausência de qualquer demanda ou busca que lhes mobilize o interesse.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>narram suas histórias diretamente ao leitor, em primeira pessoa, depois de mortos: Brás Cubas, como defunto autor; Macunaíma, utilizando-se do papagaio.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>têm a vida avaliada, na parte final dos relatos, em um pequeno balanço, ou breve avaliação de conjunto, com resultado negativo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>IEm Vidas secas, a existência dos seres oprimidos e necessitados é apresentada como um mundo fechado, no qual os sonhos e esperanças são ilusões; já em Primeiras estórias, na vida de carências e opressões, algumas vezes abrem-se brechas que dão lugar à solidariedade, ao humor e aos sonhos realizáveis. IIEm Primeiras estórias, o homem rústico, dotado de cultura oralpopular, já se encontra ausente; em Vidas secas, ele ainda ocupa o centro da narrativa. IIIEm Vidas secas, a visão de mundo das personagens infantis é parte importante da narrativa; já naqueles contos de Primeiras estórias em que elas surgem, a percepção da criança não se mostra importante ou reveladora. A oposição entre Vidas secas e Primeiras estórias está correta apenas em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e III.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e III. 6 V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em Vidas secas e em Morte e vida severina, os retirantes Fabiano e Severino</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>são quase desprovidos de expressão verbal, o que lhes dificulta a comunicação até mesmo com os mais próximos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>encontram na relação carinhosa com os filhos sua única fonte permanente de ternura em um meio hostil.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>surgem como flagelados, que fogem das regiões secas, mas se decepcionam quando chegam ao Recife.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>são homens rústicos e incultos, que não possuem habilidades técnicas ou ofícios que lhes permitam trabalhar.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>aparecem como oprimidos tanto pelo meio agreste quanto pelas estruturas sociais.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>I- “.......... o recebia cordialmente e o tratava como amigo; seu caráter nobre simpatizava com aquela natureza inculta.” II- “Em ........., o índio fizera a mesma impressão que lhe causava sempre a presença de um homem daquela cor; lembrara-se de sua mãe infeliz, da raça de que provinha.” III- “Quanto a .........., via em Peri um cão fiel que tinha um momento prestado um serviço à família, e a quem se pagava com um naco de pão.” Nestes excertos, registram-se as reações de três personagens de O Guarani à presença de Peri, quando este começa a freqüentar a casa de D. Antônio de Mariz. Apenas seus nomes foram omitidos. Mantida a ordem da seqüência, essas três personagens são</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>D. Antônio; Cecília; Isabel.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Álvaro; Isabel; Cecília.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>D. Antônio; Isabel; D. Lauriana.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>D. Diogo; Cecília; D. Lauriana.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>D. Diogo; Isabel; Cecília.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O caso triste, e digno da memória Que do sepulcro os homens desenterra, Aconteceu da mísera e mesquinha Que depois de ser morta foi rainha. Para o correto entendimento destes versos de Camões, é necessário saber que o sujeito do verbo desenterra é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>os homens (por licença poética).</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ele (oculto).</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o primeiro que.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o caso triste.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>sepulcro. INGLÊS ARA CROFT, adventurer and archaeologist, flees through an underground cav-ern from a pack of pursuing dogs, only to find her way blocked by a chasm. Cornered, she reaches over her shoulder into her back- pack, retrieves an orange bottle, and drinks its contents. Revitalised, she gives the dogs the slip and sprints to safety. So runs the latest British television commercial for Lucozade, a soft drink. Ms Croft, the energetic computer-generated heroine of the “Tomb Raider” games, was the obvious Lara uplifted person to star in it. But if a character from a computer game can appear in an advertisement, what about the other way around? Why not put ads in computer games? THE ECONOMIST JULY 24TH 1999</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage, Lara Croft is</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>an adventurer who lives in an underground cavern.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a film star appearing in an ad run by British television.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>an actress playing the role of a heroine in a computer game.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a character appearing in a British TV programme called “Tomb-Raider”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a character appearing in a British TV ad based on a computer game.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“the energetic computer-generated heroine” (line 11) means</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>the energetic heroine who was generated by a computer.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>the energetic computer that generated a heroine.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>the computer which generated an energetic heroine.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>the heroine who generated an energetic computer.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>the energetic heroine who generated a computer.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>We can deduce from the passage that it might be a good idea to</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>use TV stars in computer games.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>use stars to advertise computer games on TV.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>advertise computer games on TV.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>put commercials in computer games.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>use ads featuring energetic stars on TV. L 7 V CHICAGO, July 29 – On a Sunday morning at a Roman Catholic church here, Mary Hallan Fiorito glanced at a nearby pew to see a woman drinking a can of Coke at Mass. At a musical in a Broadway theater, Alex Wang turned to the row behind him to discover people eating corn on the cob. In schools that once forbade chewing gum, students now bring doughnuts and candy to class – along with chewing gum. Americans seem to be eating all the time, and wherever they please. “Consumers now see eating as something to be done while you do something else,” said Bobby Calder, a marketing professor at Northwestern University. “Everybody wants to save time by multitasking. So you don’t just sit down and eat. You eat while you work, while you’re watching TV, while you drive.” The automobile, among the favorite places for people to snack, is well on its way to becoming a rolling dining room. A car is scarcely considered worth driving now without cup holders in the front and back. Some cars now have refrigerated glove-boxes. And within the next six months, the Samsung Corporation plans to market the first microwave for cars and minivans. The micro-wave will plug into the cigarette lighter. THE NEW YORK TIMES NATIONAL FRIDAY, JULY 30, 1999</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage, Mary Hallan Fiorito</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>was sitting in the back row of a Roman Catholic Church when she saw a woman drinking a Coke beside her.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>caught sight of a woman drinking a Coke while attending Mass in a Roman Catholic Church.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>was standing nearby a Roman Catholic Church when a woman drinking a Coke glanced at her.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>was attending Mass at a Roman Catholic Church when a woman drinking a Coke stared at her.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>was drinking a Coke at Mass when she noticed that a woman standing nearby was watching her.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="31">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>The passage tells us that</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>American churchgoers have become used to snacking at Mass.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Americans regard their cars as better places for snacking than their dining rooms.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>chewing gum used to be forbidden in some American schools.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Americans have been using automobiles as rolling dining rooms.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>soft drinks were once forbidden in some American churches.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>some Americans eat a lot whenever they have to do difficult tasks.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Northwestern University students are being taught to save time by multitasking.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Professor Bobby Calder believes multitasking to be the ideal way of saving time.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Professor Bobby Calder advises his students to save time by eating wherever they please.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Americans seem to see no point in eating without doing other things at the same time.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="33">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Which of these statements is true according to the passage?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Nowadays, Americans can hardly do without cup holders in cars.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Although most American cars are fitted with cigarette lighters, few of them are equipped with cup holders.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Cars with refrigerated glove-boxes have become as popular as those with microwave ovens in the USA.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Within the next six months, all cars marketed in the USA will be fitted with microwave ovens.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Nowadays, Americans seem unwilling to drive cars that can’t be converted into rolling dining rooms. 8 V he Sydney Olympics – billed as the Green Games – open in exactly 64 weeks, on 15 September 2000. In bidding for the Games, the Sydney delegates promised that theirs would be the most environmentally-friendly Games ever. But there are growing doubts that Sydney will deliver on its promises, even though Australia holds a commanding lead in the race to develop key environmentally-friendly technologies. The biggest single obstacle to the Green Games is the site itself. The land around Homebush Bay, in western Sydney, was an industrial graveyard previously used by chemical giants such as ICI and Union Carbide – infamous for the Bhopal plant leak on 3 December 1984 that poisoned thousands in India. Their legacy was toxic waste in unmarked sites. The bodies associated with the bid knew about this, and saw the Games as a way to clean up the mess and create a new community. Thus Sydney’s bid document featured a glorious artist’s impression of a ceremonial entrance on the waterfront, where, beneath fluttering bunting, Olympic athletes and grandees arrive from downtown on eco-friendly water taxis. It was, says Murray Hogarth, environmental correspondent of the Sydney Morning Herald, “an absolutely key facet of the bid”. THE FRIDAY REVIEW The Independent 25 June 1999</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="34">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage, while campaigning for the 2000 Olympics, delegates</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>promised that the Sydney Olympics would be more environmentally-friendly than any games ever held in their country.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>stressed that no country was as friendly as Australia for receiving athletes of all races.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>promised that theirs would actually be the first eco-friendly games in sports history.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pointed out that there could scarcely be a more promising environment for the Games than Sydney.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>promised to make the Olympics to be held in Sydney the most eco-friendly ones of all times.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage, Australia´s Olympic campaigners</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>knew that despite Australia´s key ecofriendly technologies, they might fail to keep all their promises.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>were aware that the problems concerning the contamination on the Olympic site would have to be dealt with.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>wondered whether the official site could ever be cleaned.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>learned that the site itself would be an obstacle to the Green Games after Sydney was awarded the 2000 Olympics.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>knew that they would be unable to deliver on their promises.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="36">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Which of the following would hardly be found at an industrial graveyard (line 13)?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>polluted soil.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>reusable waste.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>poisoned bodies.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>toxic deposits.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>hazardous waste.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Choose the question for the statement: “...the Sydney delegates promised that theirs would be the most environmentally-friendly Games ever.” (lines 4-7)</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Whose Games the Sydney delegates promised that would be the most environmentallyfriendly Games ever?</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Who did the Sydney delegates promise that would be the most environmentally-friendly Games ever?</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Who did promise that theirs would be the most environmentally-friendly Games ever?</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Whose Games did the Sydney delegates promise that would be the most environmentally-friendly Games ever?</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Which Games the Sydney delegates promised that would be the most environmentallyfriendly Games ever?</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Their legacy” (line 17) means</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>what Bhopal´s victims left behind.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>what the chemical giants were left with.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>what was left of ICI and Union Carbide.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>what the chemical giants left behind.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>what was left after the plant leak.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>We can deduce from the passage that the bid document</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>featured an impressive illustration of the glories of Australia´s athletes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>contained an artistic representation of the opening ceremony of the Games.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>was published in the Sydney Morning Herald.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>was prepared by Australia´s most glorious artist.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>included Murray Hogarth´s impressions of what the 2000 Olympics would be like.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>The major idea of the passage is:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Australia´s eco-friendly initiatives regarding the 2000 Olympic Games.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>the biggest obstacles to be faced by the Olympic authorities.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>the likelihood that the Sydney Olympics will be greener on paper than in practice.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>the Olympic organisers´ doubts concerning the site selected for the Games.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Sydney´s attempts to get rid of toxic waste. T 9 V FÍSICA OBSERVAÇÃO (para todas as questões de Física): O valor da aceleração da gravidade na Terra é representado por g. Quando necessário adote: para g, o valor 10m/s2; para a massa específica (densidade) da água, o valor 1.000 kg/m3 = 1 g/cm3; para o calor específico da água, o valor 1,0 cal/g (1 caloria ≅ 4 joules). Lembre-se de que sen 30° = cos 60° = 0,5.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="41">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma onda eletromagnética propaga-se no ar com velocidade praticamente igual à da luz no vácuo (c = 3x108 m/s), enquanto o som propaga-se no ar com velocidade aproximada de 330 m/s. Deseja-se produzir uma onda audível que se propague no ar com o mesmo comprimento de onda daquelas utilizadas para transmissões de rádio em freqüência modulada (FM) de 100 MHz (100 x 106 Hz). A freqüência da onda audível deverá ser aproximadamente de:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>110 Hz</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1033 Hz</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>11.000 Hz</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>108 Hz</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>9 × 1013 Hz</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um espelho plano, em posição inclinada, forma um ângulo de 45° com o chão. Uma pessoa observa-se no espelho, conforme a figura. A flecha que melhor representa a direção para a qual ela deve dirigir seu olhar, a fim de ver os sapatos que está calçando, é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>B</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>C</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>D</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>E</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="43">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No Sistema Solar, o planeta Saturno tem massa cerca de 100 vezes maior do que a da Terra e descreve uma órbita, em torno do Sol, a uma distância média 10 vezes maior do que a distância média da Terra ao Sol (valores aproximados). A razão (FSat/FT) entre a força gravitacional com que o Sol atrai Saturno e a força gravitacional com que o Sol atrai a Terra é de aproximadamente:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1000</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>0,1</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>0,001</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="44">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um disco é colocado diante de uma lente convergente, com o eixo que passa por seu centro coincidindo com o eixo óptico da lente. A imagem P do disco é formada conforme a figura. Procurando ver essa imagem, um observador coloca-se, sucessivamente, nas posições A, B e C, mantendo os olhos num plano que contém o eixo da lente. (Estando em A, esse observador dirige o olhar para P através da lente). Assim, essa imagem poderá ser vista</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>somente da posição A</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>somente da posição B</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>somente da posição C</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>somente das posições B ou C</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>em qualquer das posições A, B ou C</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um copo grande, termicamente isolado, contendo água à temperatura ambiente (25ºC), são colocados 2 cubos de gelo a 0ºC. A temperatura da água passa a ser, aproximadamente, de 1ºC. Nas mesmas condições se, em vez de 2, fossem colocados 4 cubos de gelo iguais aos anteriores, ao ser atingido o equilíbrio, haveria no copo</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>apenas água acima de 0ºC</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>apenas água a 0ºC</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>gelo a 0ºC e água acima de 0ºC</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>gelo e água a 0ºC</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>apenas gelo a 0ºC</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="46">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um bujão de gás de cozinha contém 13 kg de gás liquefeito, à alta pressão. Um mol desse gás tem massa de, aproximadamente, 52 g. Se todo o conteúdo do bujão fosse utilizado para encher um balão, à pressão atmosférica e à temperatura de 300K, o volume final do balão seria aproximadamente de:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>13 m3</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>6,2 m3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3,1 m3</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>0,98 m3</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>0,27 m3 Constante dos gases R R = 8,3 J/(mol.K) ou R = 0,082 atm.l /(mol.K) Patmosférica = 1 atm ≈ 1 x 105 Pa (1Pa = 1 N/m2) 1 m3 = 1000 l 10 V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma caminhada, um jovem consome 1 litro de O2 por minuto, quantidade exigida por reações que fornecem a seu organismo 20 kJ/minuto (ou 5 "calorias dietéticas"/minuto). Em dado momento, o jovem passa a correr, voltando depois a caminhar. O gráfico representa seu consumo de oxigênio em função do tempo. Por ter corrido, o jovem utilizou uma quantidade de energia a mais, do que se tivesse apenas caminhado durante todo o tempo, aproximadamente, de:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>10 kJ</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>21 kJ</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>200 kJ</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>420 kJ</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>480 kJ</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="48">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a montagem abaixo, composta por 4 resistores iguais R, uma fonte de tensão F, um medidor de corrente A, um medidor de tensão V e fios de ligação. O medidor de corrente indica 8,0 A e o de tensão 2,0 V. Pode-se afirmar que a potência total dissipada nos 4 resistores é, aproximadamente, de:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>8 W</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>16 W</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>32 W</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>48 W</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>64 W</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas esferas metálicas A e B estão próximas uma da outra. A esfera A está ligada à Terra, cujo potencial é nulo, por um fio condutor. A esfera B está isolada e carregada com carga +Q. Considere as seguintes afirmações: I. O potencial da esfera A é nulo II. A carga total da esfera A é nula III. A força elétrica total sobre a esfera A é nula Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e II</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I , II e III</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="50">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As velocidades de crescimento vertical de duas plantas A e B, de espécies diferentes, variaram, em função do tempo decorrido após o plantio de suas sementes, como mostra o gráfico. É possível afirmar que:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A atinge uma altura final maior do que B</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>B atinge uma altura final maior do que A</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A e B atingem a mesma altura final</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A e B atingem a mesma altura no instante t0</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A e B mantêm altura constante entre os instantes t1 e t2</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="51">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um motorista pára em um posto e pede ao frentista para regular a pressão dos pneus de seu carro em 25 "libras" (abreviação da unidade "libra força por polegada quadrada" ou "psi"). Essa unidade corresponde à pressão exercida por uma força igual ao peso da massa de 1 libra, distribuída sobre uma área de 1 polegada quadrada. Uma libra corresponde a 0,5 kg e 1 polegada a 25×10-3 m, aproximadamente. Como 1 atm corresponde a cerca de 1 x 105 Pa no SI (e 1 Pa = 1 N/m2), aquelas 25 "libras" pedidas pelo motorista equivalem aproximadamente a:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2 atm</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1 atm</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>0,5 atm</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>0,2 atm</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>0,01 atm</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="52">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um certo tipo de lâmpada incandescente comum, de potência nominal 170W e tensão nominal 130V, apresenta a relação da corrente (I), em função da tensão (V), indicada no gráfico abaixo. Suponha que duas lâmpadas (A e B), desse mesmo tipo, foram utilizadas, cada uma, durante 1 hora, sendo A – em uma rede elétrica de 130 V B – em uma rede elétrica de 100 V Ao final desse tempo, a diferença entre o consumo de energia elétrica das duas lâmpadas, em watt.hora (Wh), foi aproximadamente de:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0 Wh</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>10 Wh</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>40 Wh</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>50 Wh</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>70 Wh 11 V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Apoiado sobre uma mesa, observa-se o trecho de um fio longo, ligado a uma bateria. Cinco bússolas são colocadas próximas ao fio, na horizontal, nas seguintes posições: 1 e 5 sobre a mesa; 2, 3 e 4 a alguns centímetros acima da mesa. As agulhas das bússolas só podem mover-se no plano horizontal. Quando não há corrente no fio, todas as agulhas das bússolas permanecem paralelas ao fio. Se passar corrente no fio, será observada deflexão, no plano horizontal, das agulhas das bússolas colocadas somente</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>na posição 3</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>nas posições 1 e 5</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>nas posições 2 e 4</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>nas posições 1, 3 e 5</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>nas posições 2, 3 e 4</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="54">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um ímã é colocado próximo a um arranjo, composto por um fio longo enrolado em um carretel e ligado a uma pequena lâmpada, conforme a figura. O ímã é movimentado para a direita e para a esquerda, de tal forma que a posição x de seu ponto médio descreve o movimento indicado pelo gráfico, entre -x0 e +x0. Durante o movimento do ímã, a lâmpada apresenta luminosidade variável, acendendo e apagando. Observa-se que a luminosidade da lâmpada</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>é máxima quando o ímã está mais próximo do carretel (x = +x0)</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>é máxima quando o ímã está mais distante do carretel (x = -x0)</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>independe da velocidade do ímã e aumenta à medida que ele se aproxima do carretel</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>independe da velocidade do ímã e aumenta à medida que ele se afasta do carretel</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>depende da velocidade do ímã e é máxima quando seu ponto médio passa próximo a x = 0 *</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em agosto de 1999, ocorreu o último eclipse solar total do século. Um estudante imaginou, então, uma forma de simular eclipses. Pensou em usar um balão esférico e opaco, de 40 m de diâmetro, que ocultaria o Sol quando seguro por uma corda a uma altura de 200 m. Faria as observações, protegendo devidamente sua vista, quando o centro do Sol e o centro do balão estivessem verticalmente colocados sobre ele, num dia de céu claro. Considere as afirmações abaixo, em relação aos possíveis resultados dessa proposta, caso as observações fossem realmente feitas, sabendo-se que a distância da Terra ao Sol é de 150×106 km e que o Sol tem um diâmetro de 0,75×106 km, aproximadamente. I. O balão ocultaria todo o Sol: o estudante não veria diretamente nenhuma parte do Sol. II. O balão é pequeno demais: o estudante continuaria a ver diretamente partes do Sol. III. O céu ficaria escuro para o estudante, como se fosse noite. Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e III</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e III * A questão V-55 apareceu com uma imprecisão: em vez de "... o Sol tem um diâmetro de ..." leia-se "... o raio do Sol é ...". A resposta correta continua sendo a alternativa (a). Esta questão reaparece nas outras versões da prova como K73, Q-15, X-69 e Z-09. Agradecemos a um Colaborador anônimo que nos apresentou o erro.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="56">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas jarras iguais A e B, cheias de água até a borda, são mantidas em equilíbrio nos braços de uma balança, apoiada no centro. A balança possui fios flexíveis em cada braço (f1 e f2), presos sem tensão, mas não frouxos, conforme a figura. Coloca-se na jarra B um objeto metálico, de densidade maior que a da água. Esse objeto deposita-se no fundo da jarra, fazendo com que o excesso de água transborde para fora da balança. A balança permanece na mesma posição horizontal devido à ação dos fios. Nessa nova situação, pode-se afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>há tensões iguais e diferentes de zero nos dois fios</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>há tensão nos dois fios, sendo a tensão no fio f1 maior do que no fio f2</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>há tensão apenas no fio f1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>há tensão apenas no fio f2</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>não há tensão em nenhum dos dois fios 12 V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="57">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pessoa puxa um caixote, com uma força F, ao longo de uma rampa inclinada de 30º com a horizontal, conforme a figura, sendo desprezível o atrito entre o caixote e a rampa. O caixote, de massa m, desloca-se com velocidade v constante, durante um certo intervalo de tempo ∆t. Considere as seguintes afirmações: I. O trabalho realizado pela força F é igual a F v ∆t II. O trabalho realizado pela força F é igual a m g v ∆t/2 III. A energia potencial gravitacional varia de m g v ∆t/2 Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>III</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e II</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I, II e III</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="58">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma caminhonete A, parada em uma rua plana, foi atingida por um carro B, com massa mB = mA/2, que vinha com velocidade vB. Como os veículos ficaram amassados, pode-se concluir que o choque não foi totalmente elástico. Consta no boletim de ocorrência que, no momento da batida, o carro B parou enquanto a caminhonete A adquiriu uma velocidade vA = vB/2, na mesma direção de vB. Considere estas afirmações de algumas pessoas que comentaram a situação: I. A descrição do choque não está correta, pois é incompatível com a lei da conservação da quantidade de movimento II. A energia mecânica dissipada na deformação dos veículos foi igual a 1/2 mAvA 2 III. A quantidade de movimento dissipada no choque foi igual a 1/2 mBvB Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e III</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e III</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um objeto menos denso que a água está preso por um fio fino, fixado no fundo de um aquário cheio de água, conforme a figura. Sobre esse objeto atuam as forças peso, empuxo e tensão no fio. Imagine que tal aquário seja transportado para a superfície de Marte, onde a aceleração gravitacional é de aproximadamente g/3, sendo g a aceleração da gravidade na Terra. Em relação aos valores das forças observadas na Terra, pode-se concluir que, em Marte,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o empuxo é igual e a tensão é igual</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o empuxo é igual e a tensão aumenta</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o empuxo diminui e a tensão é igual</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o empuxo diminui e a tensão diminui</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o empuxo diminui e a tensão aumenta</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="60">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um carrinho é largado do alto de uma montanha russa, conforme a figura. Ele se movimenta, sem atrito e sem soltar-se dos trilhos, até atingir o plano horizontal. Sabe-se que os raios de curvatura da pista em A e B são iguais. Considere as seguintes afirmações: I. No ponto A, a resultante das forças que agem sobre o carrinho é dirigida para baixo. II. A intensidade da força centrípeta que age sobre o carrinho é maior em A do que em B. III. No ponto B, o peso do carrinho é maior do que a intensidade da força normal que o trilho exerce sobre ele. Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e III 13 V QUÍMICA</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O diagrama esboçado abaixo mostra os estados físicos do CO2 em diferentes pressões e temperaturas. As curvas são formadas por pontos em que coexistem dois ou mais estados físicos. Um método de produção de gelo seco (CO2 sólido) envolve I. compressão isotérmica do CO2(g), inicialmente a 25ºC e 1 atm, até passar para o estado líquido; II. rápida descompressão até 1 atm, processo no qual ocorre forte abaixamento de temperatura e aparecimento de CO2 sólido. Em I, a pressão mínima a que o CO2 (g) deve ser submetido para começar a liquefação, a 25ºC, é y e, em II, a temperatura deve atingir x. Os valores de y e x são, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>67 atm e 0ºC</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>73 atm e –78ºC</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>5 atm e –57ºC</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>67 atm e –78ºC</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>73 atm e –57ºC</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="62">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Do livro de Antoine Laurent Lavoisier, Traité Élémentaire de Chimie, traduziu-se o seguinte trecho: “Ácido cítrico é mais facilmente obtido saturando-se suco de limão com cal suficiente para formar citrato de cálcio, que é insolúvel em água. Lava-se esse sal e acrescentase quantidade apropriada de ácido sulfúrico. Forma-se sulfato de cálcio, que precipita, deixando o ácido cítrico livre na parte líquida”. Representando-se o ácido cítrico por H3Cit, o procedimento descrito por Lavoisier pode ser esquematizado pela seqüência de equações: 2H3Cit(aq) + x CaO(s) → Y (s) + 3H2O(l) Y(s) + z H2SO4(aq) → 3CaSO4(s) + 2H3Cit(aq) Em tal seqüência, x, Y, e z correspondem, respectivamente, a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>3, Ca3(Cit)2 e 3</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2, Ca2(Cit)3 e 3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3, Ca3(Cit)2 e 2</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3, Ca2(Cit)3 e 3</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2, Ca3(Cit)2 e 2</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="63">
+      <statement>
+        <p>Propriedades de algumas substâncias: Solubilidade (g/100 cm3) a 25ºC Substância Ponto de fusão (ºC) em água em CCl4 Densidade (g/cm3) a 25ºC CCl4* -23,0 ≅0 - 1,59 iodo 113,5 0,03 2,90 4,93 água 0,0 - ≅0 1,00 * CCl4 = tetracloreto de carbono A 25ºC, 3,00g de iodo, 70 cm3 de água e 50 cm3 de CCl4 são colocados em um funil de separação. Após agitação e repouso, qual dos esquemas abaixo deve representar a situação final?</p>
+      </statement>
+    </essay_question>
+    <objective_question number="64">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um relógio de parede funciona normalmente, por algum tempo, se substituirmos a pilha original por dois terminais metálicos mergulhados em uma solução aquosa ácida (suco de laranja), conforme esquematizado ao lado. Durante o funcionamento do relógio, I. o pH do suco de laranja aumenta. II. a massa do magnésio diminui. III. a massa do cobre permanece constante. Dessas afirmações,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>apenas a I é correta.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>apenas a II é correta.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>apenas a III é correta.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>apenas a II e a III são corretas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a I, a II e a III são corretas. 14 V</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="65">
+      <statement>
+        <p>Em um artigo publicado em 1808, Gay-Lussac relatou que dois volumes de hidrogênio reagem com um volume de oxigênio, produzindo dois volumes de vapor de água (volumes medidos nas mesmas condições de pressão e temperatura). Em outro artigo, publicado em 1811, Avogadro afirmou que volumes iguais, de quaisquer gases, sob as mesmas condições de pressão e temperatura, contêm o mesmo número de moléculas. Dentre as representações abaixo, a que está de acordo com o exposto e com as fórmulas moleculares atuais do hidrogênio e do oxigênio é:</p>
+      </statement>
+    </essay_question>
+    <objective_question number="66">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As espécies Fe2+ e Fe3+, provenientes de isótopos distintos do ferro, diferem entre si, quanto ao número</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>atômico e ao número de oxidação.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>atômico e ao raio iônico.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>de prótons e ao número de elétrons.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>de elétrons e ao número de nêutrons.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>de prótons e ao número de nêutrons.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="67">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ácido clorídrico pode reagir com diversos materiais, formando diferentes produtos, como mostrado no esquema abaixo: Os seguintes sinais evidentes de transformações químicas: liberação de gás, desaparecimento parcial ou total de sólido e formação de sólido são observáveis, respectivamente, em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I, II e III</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II, I e III</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II, III e I</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>III, I e II</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>III, II e I</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="68">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Recentemente, na Bélgica, descobriu-se que frangos estavam contaminados com uma dioxina contendo 44%, em massa, do elemento cloro. Esses frangos apresentavam, por kg, 2,0 × 10-13 mol desse composto, altamente tóxico. Supondo que um adulto possa ingerir, por dia, sem perigo, no máximo 3,23 × 10-11 g desse composto, a massa máxima diária, em kg de frango contaminado, que tal pessoa poderia consumir seria igual a:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>0,5</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="69">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere os seguintes materiais: I. Artefato de bronze (confeccionado pela civilização inca). II. Mangueira centenária (que ainda produz frutos nas ruas de Belém do Pará). III. Corpo humano mumificado (encontrado em tumbas do Egito antigo). O processo de datação, por carbono-14, é adequado para estimar a idade apenas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>do material I</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>do material II</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>do material III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>dos materiais I e II</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>dos materiais II e III</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="70">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Deseja-se distinguir, de maneira simples, as substâncias de cada um dos pares abaixo, utilizando-se os testes sugeridos do lado direito da tabela: Par de substâncias Teste I) nitrato de sódio e bicarbonato de sódio X) dissolução em água II) cloreto de sódio e glicose Y) pH de suas soluções aquosas III) naftaleno e sacarose Z) condutibilidade elétrica de suas soluções aquosas As substâncias dos pares I, II e III podem ser distinguidas, utilizando-se, respectivamente, os testes:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>X, Y e Z</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>X, Z e Y</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Z, X e Y</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Y, X e Z</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Y, Z e X Dados: 1 mol da dioxina contém 4 mols de átomos de cloro. massa molar do cloro (Cl)= 35,5 g/mol 15 V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="71">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No gráfico, estão os valores das pressões parciais de NO2 e de N2O4, para diferentes misturas desses dois gases, quando, a determinada temperatura, é atingido o equilíbrio: Com os dados desse gráfico, pode-se calcular o valor da constante (Kp) do equilíbrio atingido, naquela temperatura. Seu valor numérico é próximo de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>4</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>8</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>12</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="72">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A tabela seguinte fornece dados sobre duas soluções aquosas de certo ácido monoprótico, HA, a 25ºC. Solução Concentração de HA (mol/L) pH 1 1,0 3,0 2 1,0 × 10-2 4,0 Esses dados indicam que I. a concentração de íons H+(aq), na solução 2, é dez vezes maior do que na solução 1. II. a solução 1 conduzirá melhor a corrente elétrica do que a solução 2. III. O pH da solução do ácido HA, a 25ºC, tenderá ao valor 7,0 quando a concentração de HA tender a zero, ou seja, quando a diluição tender ao infinito. Dessas afirmações, apenas a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I é correta.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II é correta.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III é correta.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e a II são corretas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e a III são corretas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="73">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um hidrocarboneto gasoso (que pode ser eteno, etino, propano, etano ou metano) está contido em um recipiente de 1L, a 25ºC e 1 atm. A combustão total desse hidrocarboneto requer exatamente 5L de O2, medidos nas mesmas condições de temperatura e pressão. Portanto, esse hidrocarboneto deve ser:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>eteno.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>etino.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>propano.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>etano.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>metano.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="74">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base nos dados da tabela, Ligação Energia de ligação (kJ/mol) H-H 436 Cl-Cl 243 H-Cl 432 pode-se estimar que o ∆H da reação representada por H2(g) + Cl2(g) → 2HCl(g), dado em kJ por mol de HCl(g), é igual a:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>–92,5</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>–185</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>–247</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>+185</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>+92,5</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="75">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>mestranol Analisando a fórmula estrutural do mestranol, um anticoncepcional, foram feitas as seguintes previsões sobre seu comportamento químico: I. deve sofrer hidrogenação. II. pode ser esterificado, em reação com um ácido carboxílico. III. deve sofrer saponificação, em presença de soda cáustica. Dessas previsões:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>apenas a I é correta.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>apenas a II é correta.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>apenas a I e a II são corretas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>apenas a II e a III são corretas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a I, a II e a III são corretas. 16 V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="76">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ácido adípico, empregado na fabricação do náilon, pode ser preparado por um processo químico, cujas duas últimas etapas estão representadas a seguir: Nas etapas I e II ocorrem, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>oxidação de A e hidrólise de B.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>redução de A e hidrólise de B.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>oxidação de A e redução de B.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>hidrólise de A e oxidação de B.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>redução de A e oxidação de B.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="77">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No sistema aquoso representado acima, existe o seguinte equilíbrio químico: Ao balão, foi acrescentado benzeno, que é um líquido incolor, imiscível com água, no qual, dentre as espécies do equilíbrio, somente o iodo é muito solúvel, conferindolhe cor vermelha. Como resultado de tal perturbação, após agitação e repouso, estabelece-se um novo estado de equilíbrio. Em relação à situação inicial, têm-se agora:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>maior [Cu2+(aq)], maior quantidade de CuI(s) e benzeno vermelho.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>maior [Cu2+(aq)], menor quantidade de CuI(s) e benzeno incolor.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>menor [Cu2+(aq)], menor quantidade de CuI(s) e benzeno vermelho.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>menor [Cu2+(aq)], menor quantidade de CuI(s) e benzeno incolor.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>menor [Cu2+(aq)], maior quantidade de CuI(s) e benzeno vermelho.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="78">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Misturando-se soluções aquosas de nitrato de prata (AgNO3) e de cromato de potássio (K2CrO4), forma-se um precipitado de cromato de prata (Ag2CrO4), de cor vermelhotijolo, em uma reação completa. A solução sobrenadante pode se apresentar incolor ou amarela, dependendo de o excesso ser do primeiro ou do segundo reagente. Na mistura de 20 mL de solução 0,1 mol/L de AgNO3 com 10 mL de solução 0,2 mol/L de K2CrO4, a quantidade em mol do sólido que se forma e a cor da solução sobrenadante, ao final da reação, são respectivamente:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1 × 10-3 e amarela.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1 × 10-3 e incolor.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1 e amarela.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 × 10-3 e amarela.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2 × 10-3 e incolor.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="79">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>I e II são equações de reações que ocorrem em água, espontaneamente, no sentido indicado, em condições padrão. I) Fe + Pb2+ → Fe2+ + Pb II) Zn + Fe2+ → Zn2+ + Fe Analisando tais reações, isoladamente ou em conjunto, pode-se afirmar que, em condições padrão,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>elétrons são transferidos do Pb2+ para o Fe.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>reação espontânea deve ocorrer entre Pb e Zn2+.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Zn2+ deve ser melhor oxidante do que Fe2+.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Zn deve reduzir espontaneamente Pb2+ a Pb.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Zn2+ deve ser melhor oxidante do que Pb2+.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="80">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Pode-se produzir metanol a partir de uma reserva natural (X), conforme o esquema seguinte: Em tal esquema, X e Y devem ser, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>metano e oxigênio.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>carvão e hidrogênio.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>celulose e gás carbônico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>calcário e soda cáustica.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>sacarose e etanol.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

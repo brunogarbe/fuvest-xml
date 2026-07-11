@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2005" phase="discursive" day="0" variation="V1" date="2005-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Procedimento de segurança, em auto-estradas, recomenda que o motorista mantenha uma “distância” de 2 segundos do carro que está à sua frente, para que, se necessário, tenha espaço para frear (“Regra dos dois segundos”). Por essa regra, a distância D que o carro percorre, em 2s, com velocidade constante V0, deve ser igual à distância necessária para que o carro pare completamente após frear. Tal procedimento, porém, depende da velocidade V0 em que o carro trafega e da desaceleração máxima α fornecida pelos freios.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o intervalo de tempo T0, em segundos, necessário para que o carro pare completamente, percorrendo a distância D referida.</p>
+        </part>
+        <part>
+          <p>Represente, no sistema de eixos da folha de resposta, a variação da desaceleração α em função da velocidade V0, para situações em que o carro pára completamente em um intervalo T0 (determinado no item anterior).</p>
+        </part>
+        <part>
+          <p>Considerando que a desaceleração α depende principalmente do coeficiente de atrito µ entre os pneus e o asfalto, sendo 0,6 o valor de µ, determine, a partir do gráfico, o valor máximo de velocidade VM, em m/s, para o qual a Regra dos dois segundos permanece válida.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Num espetáculo de fogos de artifício, um rojão, de massa M0 = 0,5 kg, após seu lançamento, descreve no céu a trajetória indicada na figura. No ponto mais alto de sua trajetória (ponto P), o rojão explode, dividindo-se em dois fragmentos, A e B, de massas iguais a M0/2. Logo após a explosão, a velocidade horizontal de A, VA, é nula, bem como sua velocidade vertical.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o intervalo de tempo T0, em segundos, transcorrido entre o lançamento do rojão e a explosão no ponto P.</p>
+        </part>
+        <part>
+          <p>Determine a velocidade horizontal VB, do fragmento B, logo após a explosão, em m/s.</p>
+        </part>
+        <part>
+          <p>Considerando apenas o que ocorre no momento da explosão, determine a energia E0 fornecida pelo explosivo aos dois fragmentos A e B, em joules. NOTE E ADOTE: A massa do explosivo pode ser considerada desprezível.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um sistema mecânico faz com que um corpo de massa M0, após um certo tempo em queda, atinja uma velocidade descendente constante V0, devido ao efeito do movimento de outra massa m, que age como freio. A massa m é vinculada a uma haste H, presa ao eixo E de um cilindro C, de raio R0, conforme mostrado na figura. Quando a massa M0 cai, desenrola-se um fio que movimenta o cilindro e o eixo, fazendo com que a massa m descreva um movimento circular de raio R0. A velocidade V0 é mantida constante, pela força de atrito, entre a massa m e a parede A, devido ao coeficiente de atrito µ entre elas e à força centrípeta que age sobre essa massa. Para tal situação, em função dos parâmetros m, M0, R0, V0, µ e g, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o trabalho Tg, realizado pela força da gravidade, quando a massa M0 percorre uma distância vertical correspondente a uma volta completa do cilindro C.</p>
+        </part>
+        <part>
+          <p>o trabalho TA, dissipado pela força de atrito, quando a massa m realiza uma volta completa.</p>
+        </part>
+        <part>
+          <p>a velocidade V0, em função das demais variáveis.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um satélite artificial, em órbita circular em torno da Terra, mantém um período que depende de sua altura em relação à superfície da Terra. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o período T0 do satélite, em minutos, quando sua órbita está muito próxima da superfície. (Ou seja, está a uma distância do centro da Terra praticamente igual ao raio da Terra).</p>
+        </part>
+        <part>
+          <p>o período T4 do satélite, em minutos, quando sua órbita está a uma distância do centro da Terra aproximadamente igual a quatro vezes o raio da Terra. NOTE E ADOTE: O trabalho dissipado pela força de atrito em uma volta é igual ao trabalho realizado pela força peso, no movimento correspondente da massa M0, com velocidade V0. NOTE E ADOTE: A força de atração gravitacional sobre um corpo de massa m é F= GmMT/r2, em que r é a distância entre a massa e o centro da Terra, G é a constante gravitacional e MT é a massa da Terra. Na superfície da Terra, F= mg em que g = GMT/RT 2; g= 10m/s2 e RT = 6,4 x 106m. (Para resolver essa questão, não é necessário conhecer nem G nem MT). Considere π ≈ 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um tanque industrial, cilíndrico, com altura total H0 = 6,0 m, contém em seu interior água até uma altura h0, a uma temperatura de 27 °C (300 K). O tanque possui um pequeno orifício A e, portanto, está à pressão atmosférica P0, como esquematizado em I. No procedimento seguinte, o orifício é fechado, sendo o tanque invertido e aquecido até 87°C (360 K). Quando o orifício é reaberto, e mantida a temperatura do tanque, parte da água escoa, até que as pressões no orifício se equilibrem, restando no interior do tanque uma altura h1 = 2,0 m de água, como em II. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a pressão P1, em N/m2, no interior do tanque, na situação II.</p>
+        </part>
+        <part>
+          <p>a altura inicial h0 da água no tanque, em metros, na situação I.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma fonte de luz intensa L, praticamente pontual, é utilizada para projetar sombras em um grande telão T, a 150 cm de distância. Para isso, uma lente convergente, de distância focal igual a 20 cm, é encaixada em um suporte opaco a 60 cm de L, entre a fonte e o telão, como indicado na figura A, em vista lateral. Um objeto, cuja região opaca está representada pela cor escura na figura B, é, então, colocado a 40 cm da fonte, para que sua sombra apareça no telão. Para analisar o efeito obtido, indique, no esquema da folha de resposta,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a posição da imagem da fonte, representando-a por L’.</p>
+        </part>
+        <part>
+          <p>a região do telão, na ausência do objeto, que não é iluminada pela fonte, escurecendo-a a lápis. (Faça, a lápis, as construções dos raios auxiliares, indicando por A1 e A2 os raios que permitem definir os limites de tal região).</p>
+        </part>
+        <part>
+          <p>a região do telão, na presença do objeto, que não é iluminada pela fonte, escurecendo-a a lápis. (Faça, a lápis, as construções dos raios auxiliares necessários para tal determinação). NOTE E ADOTE: Patmosférica= 1 Pa = 1,0 x 105 N/m2 ρ(água) = 1,0 x 103 kg/m3 ; g =10 m/s2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ano de 2005 foi declarado o Ano Internacional da Física, em comemoração aos 100 anos da Teoria da Relatividade, cujos resultados incluem a famosa relação E = ∆m.c2. Num reator nuclear, a energia provém da fissão do Urânio. Cada núcleo de Urânio, ao sofrer fissão, divide-se em núcleos mais leves, e uma pequena parte, ∆m, de sua massa inicial transforma-se em energia. A Usina de Angra II tem uma potência elétrica de cerca 1350 MW, que é obtida a partir da fissão de Urânio-235. Para produzir tal potência, devem ser gerados 4000 MW na forma de calor Q. Em relação à Usina de Angra II, estime a</p>
+      </statement>
+      <parts>
+        <part>
+          <p>quantidade de calor Q, em joules, produzida em um dia.</p>
+        </part>
+        <part>
+          <p>quantidade de massa ∆m que se transforma em energia na forma de calor, a cada dia.</p>
+        </part>
+        <part>
+          <p>massa MU de Urânio-235, em kg, que sofre fissão em um dia, supondo que a massa ∆m, que se transforma em energia, seja aproximadamente 0,0008 (8 x 10-4) da massa MU.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O som produzido por um determinado instrumento musical, longe da fonte, pode ser representado por uma onda complexa S, descrita como uma sobreposição de ondas senoidais de pressão, conforme a figura. Nela, está representada a variação da pressão P em função da posição, num determinado instante, estando as três componentes de S identificadas por A, B e C.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine os comprimentos de onda, em metros, de cada uma das componentes A, B e C, preenchendo o quadro da folha de respostas.</p>
+        </part>
+        <part>
+          <p>Determine o comprimento de onda λ0, em metros, da onda S.</p>
+        </part>
+        <part>
+          <p>Represente, no gráfico apresentado na folha de respostas, as intensidades das componentes A e C. Nesse mesmo gráfico, a intensidade da componente B já está representada, em unidades arbitrárias. NOTE E ADOTE u.a. = unidade arbitrária Velocidade do som ~ 340 m/s A intensidade I de uma onda senoidal é proporcional ao quadrado da amplitude de sua onda de pressão. A freqüência f0 corresponde à componente que tem menor freqüência. E = ∆mc2 Essa relação indica que massa e energia podem se transformar uma na outra. A quantidade de energia E que se obtém está relacionada à quantidade de massa ∆m, que “desaparece”, através do produto dela pelo quadrado da velocidade da luz (c). NOTE E ADOTE: Em um dia, há cerca de 9 x 104 s 1 MW = 106 W c = 3 x 108m/s Quadro λ (m) A B C</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um determinado aquecedor elétrico, com resistência R constante, é projetado para operar a 110 V. Pode-se ligar o aparelho a uma rede de 220V, obtendo os mesmos aquecimento e consumo de energia médios, desde que haja um dispositivo que o ligue e desligue, em ciclos sucessivos, como indicado no gráfico. Nesse caso, a cada ciclo, o aparelho permanece ligado por 0,2s e desligado por um intervalo de tempo ∆t. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a relação Z1 entre as potências P220 e P110, dissipadas por esse aparelho em 220V e 110V, respectivamente, quando está continuamente ligado, sem interrupção.</p>
+        </part>
+        <part>
+          <p>o valor do intervalo ∆t, em segundos, em que o aparelho deve permanecer desligado a 220V, para que a potência média dissipada pelo resistor nessa tensão seja a mesma que quando ligado continuamente em 110V.</p>
+        </part>
+        <part>
+          <p>a relação Z2 entre as correntes médias I220 e I110, que percorrem o resistor quando em redes de 220V e 110V, respectivamente, para a situação do item anterior.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma espira condutora ideal, com 1,5 m por 5,0 m, é deslocada com velocidade constante, de tal forma que um de seus lados atravessa uma região onde existe um campo magnético B, uniforme, criado por um grande eletroímã. Esse lado da espira leva 0,5 s para atravessar a região do campo. Na espira está inserida uma resistência R com as características descritas. Em conseqüência do movimento da espira, durante esse intervalo de tempo, observa-se uma variação de temperatura, em R, de 40°C. Essa medida de temperatura pode, então, ser utilizada como uma forma indireta para estimar o valor do campo magnético B. Assim determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a energia E, em joules, dissipada no resistor sob a forma de calor.</p>
+        </part>
+        <part>
+          <p>a corrente I, em ampères, que percorre o resistor durante o aquecimento.</p>
+        </part>
+        <part>
+          <p>o valor do campo magnético B, em teslas. NOTE E ADOTE: Potência média é a razão entre a energia dissipada em um ciclo e o período total do ciclo. CARACTERÍSTICAS DO RESISTOR R: Massa = 1,5 g Resistência = 0,40 Ω Calor específico = 0,33 cal/g NOTE E ADOTE: 1 cal ≈ 4 J F = I B L é a força F que age sobre um fio de comprimento L, percorrido por uma corrente I, em um campo magnético B. ⏐fem⏐ = ∆φ / ∆t, ou seja, o módulo da força eletromotriz induzida é igual à variação de fluxo magnético φ por unidade de tempo. φ = B.S, onde B é a intensidade do campo através de uma superfície de área S, perpendicular ao campo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

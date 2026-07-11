@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2025" phase="discursive" day="0" variation="V1" date="2025-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>a 10). 7. A resolução das questões deve ser apresentada nos respectivos cadernos de soluções, no local destinado a cada questão. 8. Apenas as resoluções presentes nos espaços destinados para uma dada questão serão consideradas na correção dessa questão. Não será considerado para correção o conteúdo das páginas de rascunho. 9. Nas questões que envolvem cálculo matemático, as expressões numéricas devem ser resolvidas até o final. Em caso contrário, poderá haver prejuízo de nota atribuída à solução. 10. É obrigatória a devolução dos cadernos de questões e de soluções, sob pena de desclassificação do candidato. 11. No dia 04/12/2024, serão divulgadas as médias obtidas nas provas da segunda fase. 12. Aguarde o aviso para iniciar a prova. Ao terminá-la, avise o fiscal e aguarde-o no seu lugar. F´ISICA Quando necess´ario, use os seguintes valores para as constantes: Acelerac¸ ˜ao local da gravidade g = 10 m/s2. Velocidade da luz no v´acuo c = 3,0×108 m/s. Constante de gravitac¸ ˜ao universal G = 6,7 ×10–11 N·m2/kg2. Massa da Terra MTerra = 6,0 ×1024 kg. Raio da Terra RTerra = 6,4 ×106 m. Permissividade el´etrica no v´acuo ε0 = 8, 85 × 10–12 C2·N–1·m–2. Energia de ionizac¸ ˜ao do ´atomo de hidrogˆenio IH = 13, 6 eV. Massa do pr´oton mp = 1, 6 × 10–27 kg = 938 MeV/c2. Carga elementar e = 1, 6 × 10–19 C. Quest˜ao 1. O quantum de ﬂuxo magn´etico Φ0 pode ser deﬁnido como metade do ﬂuxo magn´etico obtido a partir da combinac¸ ˜ao da constante de Planck h, da velocidade da luz c e da carga fundamental e. Considere um el´etron se movendo em uma ´orbita circular de raio R, sob a ac¸ ˜ao de um campo magn´etico de modo que o ﬂuxo magn´etico dentro de sua ´orbita ´e igual a Φ0. Fac¸a o que se pede nos itens a seguir.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Obtenha a express˜ao para Φ0.</p>
+        </part>
+        <part>
+          <p>Sabendo que a velocidade do el´etron ´e dada por βc (β ≪1), calcule o raio R, em termos de h, c, β e me, a massa do el´etron.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quest˜ao 2. Considere uma barra homogˆenea de comprimento L e massa M, suspensa horizontalmente por uma corda vertical que tem um n´o ﬁxo no teto e outro numa das extremidade da barra (x = 0). Uma massa m est´a pendurada na outra extremidade (x = L), e uma distribuic¸ ˜ao de forc¸as ´e aplicada ao longo da barra, de forma que o sistema se encontra em equil´ıbrio est´atico. Essa distribuic¸ ˜ao pode ser descrita por N forc¸as, que obedecem `a relac¸ ˜ao de recorrˆencia⃗Fn =⃗Fn–1 2 (n = 0, 1, ..., N – 1), aplicadas nos pontos xn = 2–nL. Calcule, em termos de M, m, g, L e N,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a forc¸a F0;</p>
+        </part>
+        <part>
+          <p>a forc¸a de trac¸ ˜ao da corda.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quest˜ao 3. Considere um objeto de massa m que se movimenta sobre uma cunha de massa M, inclinac¸ ˜ao α e coeﬁciente de atrito µ. A cunha se move horizontalmente para a direita, sob a ac¸ ˜ao de uma forc¸a⃗F em uma superf´ıcie lisa. Considere que, inicialmente, o sistema se encontra em repouso, com esse objeto no topo da cunha. Sabe-se que o intervalo de tempo que ele leva para chegar ao solo com a cunha em movimento ´e o triplo do que levaria se a cunha estivesse ﬁxa. Com base nessas informac¸ ˜oes, calcule, em func¸ ˜ao de m, M, α, µ e g, a magnitude</p>
+      </statement>
+      <parts>
+        <part>
+          <p>da acelerac¸ ˜ao da cunha;</p>
+        </part>
+        <part>
+          <p>da forc¸a normal que o plano inclinado faz no objeto;</p>
+        </part>
+        <part>
+          <p>da forc¸a⃗F. m</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quest˜ao 4. Um objeto de massa m se movimenta em direc¸ ˜ao a outro objeto de massa M inicialmente em repouso. Ap´os a colis˜ao, a velocidade dos objetos forma, respectivamente, ˆangulos α e θ com a horizontal. Fac¸a o que se pede nos itens a seguir.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine as express˜oes para os m´odulos de⃗v1 e⃗v2 em func¸ ˜ao de α, θ e v.</p>
+        </part>
+        <part>
+          <p>Denotando a variac¸ ˜ao relativa entre a energia cin´etica ﬁnal e inicial do sistema por δ, determine a raz˜ao m/M em func¸ ˜ao de θ e δ, para α = 90◦.</p>
+        </part>
+        <part>
+          <p>Calcule o valor num´erico da raz˜ao M/m, para θ = 30◦, α = 90◦e perda relativa de 60% de energia cin´etica depois da colis˜ao.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quest˜ao 5. Considere um ve´ıculo lanc¸ador de nanossat´elites (VLNS) de massa Mv a uma altitude h e com velocidade v0, perpendicular ao raio da Terra em relac¸ ˜ao a um referencial inercial centrado na Terra. Um nanossat´elite (NS) de massa m encontra-se imerso em um ﬂuido incompress´ıvel armazenado em um tubo localizado na extremidade do VLNS, conforme a ﬁgura. O tubo possui dois diˆametros distintos: um de valor d1 e outro de valor d2 &lt; d1. Durante a ejec¸ ˜ao, o NS acompanha a velocidade do ﬂuido, que vale v1 em d1, em relac¸ ˜ao ao VLNS. Considere a massa e o raio da Terra como sendo, respectivamente, MT e RT , a constante da gravitac¸ ˜ao universal como G e a massa do ﬂuido como desprez´ıvel. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a velocidade de ejec¸ ˜ao do NS, com relac¸ ˜ao ao VLNS, em termos de v0, v1, d1 e d2;</p>
+        </part>
+        <part>
+          <p>qual diˆametro d2 permite que o NS entre em ´orbita circular.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quest˜ao 6. Uma sonda tripulada foi projetada para resistir ao calor da atmosfera de merc´urio, que pode atingir uma temperatura T0 = 430 ◦C. A sonda tem uma estrutura semelhante `a de uma casca esf´erica composta por duas camadas, como mostra a ﬁgura. A camada externa, de espessura d1, ´e composta por um material r´ıgido de condutividade t´ermica K1. A camada interna, de espessura d2, ´e composta por um material termorresistente e isolante t´ermico de condutividade t´ermica K2. O raio externo da estrutura ´e igual a R. Considerando a situac¸ ˜ao descrita acima, fac¸a o que se pede nos itens a seguir.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Expresse a condutividade t´ermica efetiva da sonda em func¸ ˜ao de R, K1, K2 e d, em que d = d1 = d2 e R ≫d.</p>
+        </part>
+        <part>
+          <p>Estime a potˆencia, em kW, que um refrigerador deve ter para manter a temperatura interna da sonda em Ti = 23 ◦C, assumindo que R = 20 m, d1 = d2 = 30 cm, K1 = 50 W/(m ◦C), K2 = 0, 020 W/(m ◦C) e que a m´aquina refrigeradora tem um coeﬁciente de performance ideal.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quest˜ao 7. O interferˆometro de Mach-Zehnder ´e um dispositivo ´optico que, atrav´es do uso de espelhos semirreﬂetores, divide um feixe de luz em duas partes, uma reﬂetida e uma transmitida, de igual intensidade. Essas duas partes percorrem dois caminhos distintos, C1 e C2, e depois s˜ao recombinadas, permitindo observar padr˜oes de interferˆencia. O interferˆometro possui como componentes dois detectores, D1 e D2, dois espelhos semirreﬂetores, S1 e S2, e dois espelhos de reﬂex˜ao total E, conforme ilustra a ﬁgura. A cada reﬂex˜ao, ocorre um avanc¸o de 1/4 de comprimento de onda, λ/4. Por outro lado, a onda transmitida n˜ao sofre defasagem. Sabendo que o feixe incidente ´e uma onda senoidal de intensidade I0, fac¸a o que se pede nos itens a seguir. S1 S2 E E D1 D2 feixe incidente M C2 C1</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a intensidade medida por cada um dos detectores. Justiﬁque.</p>
+        </part>
+        <part>
+          <p>Considere agora que um material M, que causa um deslocamento de fase de φ na onda transmitida, seja inserido no caminho entre E e S2. Esboce os gr´aﬁcos de intensidade versus deslocamento de fase φ, correspondentes `a detecc¸ ˜ao de f´otons em D1 e D2, para φ = [0, 2π].</p>
+        </part>
+        <part>
+          <p>Se o feixe incidente fosse composto por apenas um f´oton, discuta se ele iria percorrer um caminho espec´ıﬁco at´e um dos detectores.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quest˜ao 8. N part´ıculas (N &gt; 2) de massa m e carga de m´odulo q descrevem movimentos circulares uniformes de raio R com a mesma velocidade angular. As part´ıculas interagem gravitacional e eletricamente. Sabendo que todas as part´ıculas descrevem a mesma trajet´oria e que apenas duas delas possuem cargas positivas, fac¸a o que se pede nos itens a seguir.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine uma conﬁgurac¸ ˜ao para a qual a situac¸ ˜ao descrita seja ﬁsicamente poss´ıvel.</p>
+        </part>
+        <part>
+          <p>Calcule o m´odulo da forc¸a resultante em cada part´ıcula na conﬁgurac¸ ˜ao determinada.</p>
+        </part>
+        <part>
+          <p>Calcule a velocidade angular de cada part´ıcula na conﬁgurac¸ ˜ao determinada.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>Quest˜ao 9. Uma balanc¸a de corrente montada sobre uma base isolante horizontal ´e composta por um ´ım˜a, um circuito el´etrico, uma massa m´ovel m e um contrapeso, ambos isolantes. O circuito ´e constitu´ıdo de um arranjo met´alico m´ovel, apoiado sobre suportes met´alicos, ligados a uma diferenc¸a de potencial (d.d.p.), um amper´ımetro e um potenciˆometro. Uma extremidade do arranjo, com comprimento ℓ= 10 cm e situada a uma distˆancia L = 1, 0 m dos pontos de apoio, localiza-se entre os polos do ´ım˜a, sob a inﬂuˆencia de seu campo magn´etico. Considere que o campo magn´etico, no interior do ´ım˜a, ´e uniforme, est´a na direc¸ ˜ao horizontal e ´e desprez´ıvel fora do ´ım˜a. A outra extremidade possui um contrapeso que equilibra o arranjo met´alico. Uma massa m´ovel m, isolante, est´a posicionada a uma distˆancia d dos pontos de apoio no arranjo met´alico, conforme ilustrado na ﬁgura. Durante o experimento, a distˆancia d do objeto ´e variada, ent˜ao mede-se a corrente i necess´aria para equilibrar a balanc¸a quando m = 10 mg. Os resultados das medic¸ ˜oes s˜ao apresentados em um gr´aﬁco. A partir desses dados, estime o valor do campo magn´etico do ´ım˜a.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quest˜ao 10. Em uma cˆamara de alto v´acuo, um feixe monoenerg´etico de el´etrons ´e misturado a um feixe colimado e monoenerg´etico de ´ıons totalmente ionizados, conforme mostra a ﬁgura. As velocidades dos el´etrons e dos ´ıons s˜ao iguais. A abertura de um detector de f´otons ´e apontada perpendicularmente `a direc¸ ˜ao dos feixes misturados. Foram feitos trˆes experimentos a baixas energias: o primeiro com um feixe de pr´otons, o segundo com um feixe de h´elio totalmente ionizado e o terceiro com um feixe de oxigˆenio totalmente ionizado. Em um quarto experimento, usando um feixe de pr´otons relativ´ısticos, o detector de f´otons ´e apontado paralelamente `a direc¸ ˜ao dos feixes misturados. Considerando essa situac¸ ˜ao experimental, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>as energias m´aximas dos f´otons em eV detectadas no primeiro, segundo e terceiro experimentos;</p>
+        </part>
+        <part>
+          <p>um valor aproximado para o desvio percentual da m´axima energia do f´oton no quarto experimento com relac¸ ˜ao `a m´axima energia do f´oton do primeiro experimento, considerando que a energia cin´etica dos ´ıons, no referencial do laborat´orio, era de 234,5 MeV no quarto experimento.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="11">
+      <statement>
+        <p>RASCUNHO</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

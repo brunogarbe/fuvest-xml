@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2001" phase="discursive" day="0" variation="V1" date="2001-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma mistura de carbonato de amônio e carbonato de cálcio foi aquecida até a completa decomposição. Obteve-se 0,20 mol de um resíduo sólido, além de uma mistura gasosa que, resfriada a 25 ºC, condensou-se parcialmente. A fase gasosa restante, a essa mesma temperatura e sob 1 atm de pressão, ocupou 12,2 L.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação que representa a decomposição do carbonato de amônio e a que representa a decomposição do carbonato de cálcio, indicando o estado físico de cada substância a 25 ºC.</p>
+        </part>
+        <part>
+          <p>Calcule a quantidade, em mols, de carbonato de amônio e de carbonato de cálcio na mistura original. Dados: Volume molar dos gases a 25 ºC e 1 atm: 24,4 L/mol A pressão de vapor d'água, a 25 ºC, é desprezível.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A constante do equilíbrio</p>
+        <p>Co(s) + Ni2+(aq) Ni(s) + Co2+(aq),</p>
+        <p>em termos de concentrações em mol/L, a 25 ºC, é igual a 10.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a expressão matemática dessa constante de equilíbrio. A 25 ºC, monta-se uma pilha na qual um dos eletrodos é uma barra de cobalto mergulhada numa solução de sulfato de cobalto, e o outro eletrodo é uma barra de níquel mergulhada numa solução de sulfato de níquel. As soluções estão ligadas por meio de uma ponte salina e o circuito é fechado por um voltímetro.</p>
+        </part>
+        <part>
+          <p>Qual é o pólo positivo da pilha quando as soluções de Co2+(aq) e Ni2+(aq) têm, ambas, concentração igual a 1,0 mol/L?</p>
+        </part>
+        <part>
+          <p>Qual será a relação entre as concentrações de Co2+(aq) e Ni2+(aq) quando esta pilha deixar de funcionar? Justifique as respostas aos itens b e c, utilizando argumentos de constante de equilíbrio. Química – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A reação de um alceno com ozônio, seguida da reação do produto formado com água, produz aldeídos ou cetonas ou misturas desses compostos. Porém, na presença de excesso de peróxido de hidrogênio, os aldeídos são oxidados a ácidos carboxílicos ou a CO2, dependendo da posição da dupla ligação na molécula do alceno:</p>
+        <p>CH3CH=CH2 CH3COOH + CO2</p>
+        <p>CH3CH=CHCH3 2CH3COOH</p>
+        <p>Determinado hidrocarboneto insaturado foi submetido ao tratamento acima descrito, formando-se os produtos abaixo, na proporção, em mols, de 1 para 1 para 1:</p>
+        <p>HOOCCH2CH2CH2COOH ; CO2 ; ácido propanóico</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a fórmula estrutural do hidrocarboneto insaturado que originou os três produtos acima.</p>
+        </part>
+        <part>
+          <p>Dentre os isômeros de cadeia aberta de fórmula molecular C4H8, mostre os que não podem ser distinguidos, um do outro, pelo tratamento acima descrito. Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma experiência, realizada a 25 ºC, misturaram-se volumes iguais de soluções aquosas de hidróxido de sódio e de acetato de metila, ambas de concentração 0,020 mol/L. Observou-se que, durante a hidrólise alcalina do acetato de metila, ocorreu variação de pH.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação da hidrólise alcalina do acetato de metila.</p>
+        </part>
+        <part>
+          <p>Calcule o pH da mistura de acetato de metila e hidróxido de sódio no instante em que as soluções são misturadas (antes de a reação começar).</p>
+        </part>
+        <part>
+          <p>Calcule a concentração de OH− na mistura, ao final da reação. A equação que representa o equilíbrio de hidrólise do íon acetato é CH3COO−(aq) + H2O(l) CH3COOH(aq) + OH−(aq) A constante desse equilíbrio, em termos de concentrações em mol/L, a 25 ºC, é igual a 5,6 x 10−10. Dados: produto iônico da água, Kw = 10−14 (a 25 ºC) 6 5, = 2,37 Química – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A adição de HBr a um alceno pode conduzir a produtos diferentes caso, nessa reação, seja empregado o alceno puro ou o alceno misturado a uma pequena quantidade de peróxido.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O 1-metilciclopenteno reage com HBr de forma análoga. Escreva, empregando fórmulas estruturais, as equações que representam a adição de HBr a esse composto na presença e na ausência de peróxido.</p>
+        </part>
+        <part>
+          <p>Dê as fórmulas estruturais dos metilciclopentenos isoméricos (isômeros de posição).</p>
+        </part>
+        <part>
+          <p>Indique o metilciclopenteno do item b que forma, ao reagir com HBr, quer na presença, quer na ausência de peróxido, uma mistura de metilciclopentanos monobromados que são isômeros de posição. Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para determinar o volume de sangue de uma pessoa, injeta-se em sua corrente sanguínea uma solução aquosa radioativa de citrato de gálio e, depois de certo tempo, colhe-se uma amostra de sangue e mede-se sua atividade. Em uma determinação, a concentração do radioisótopo gálio-67 na solução era de 1,20 x 1012 átomos por mililitro, no momento de sua preparação. Decorridas 24 horas de sua preparação, 1,00 mL dessa solução foi injetado na pessoa. A coleta de sangue foi feita 1 hora após a injeção, sendo que a amostra coletada apresentou 2,00 x 108 átomos de gálio-67 por mililitro. A diminuição da concentração do radioisótopo deveu-se apenas ao seu decaimento radioativo e à sua diluição no sangue.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Use o gráfico abaixo para determinar de quanto caiu a atividade do gálio-67, após 25 horas.</p>
+        </part>
+        <part>
+          <p>Calcule o volume de sangue da pessoa examinada.</p>
+        </part>
+        <part>
+          <p>O gálio-67 emite radiação γ quando seu núcleo captura um elétron de sua eletrosfera. Escreva a equação dessa reação nuclear e identifique o nuclídeo formado. Dados: 29 Cu 30 Zn 31 Ga 32 Ge 33 As parte da tabela periódica, com números atômicos 0,4 0,5 0,6 0,7 0,8 0,9 1,0 0 25 50 75 100 t/h Atividade relativa atividade relativa do gálio-67 em função do tempo Química – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O minério caliche, cujo principal componente é o salitre do Chile, contém cerca de 0,1%, em massa, de iodato de sódio (NaIO3). A substância simples I2 pode ser obtida em um processo que envolve a redução desse iodato com hidrogenossulfito de sódio (NaHSO3), em meio aquoso. Nessa redução também são produzidos íons sulfato, íons H+ e água.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação iônica balanceada que representa a formação de iodo nessa solução aquosa, indicando o oxidante e o redutor.</p>
+        </part>
+        <part>
+          <p>Calcule a massa de caliche necessária para preparar 10,0 kg de iodo, pelo método acima descrito, considerando que todo o iodato é transformado em iodo. Dados: massas molares (g/mol) NaIO3 ... 198 I2.......... 254</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Passando acetileno por um tubo de ferro, fortemente aquecido, forma-se benzeno (um trímero do acetileno). Pode-se calcular a variação de entalpia dessa transformação, conhecendo-se as entalpias de combustão completa de acetileno e benzeno gasosos, dando produtos gasosos. Essas entalpias são, respectivamente, −1256 kJ/mol de C2H2 e −3168 kJ/mol de C6H6.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule a variação de entalpia, por mol de benzeno, para a transformação de acetileno em benzeno ( 1 H ∆ ). O diagrama ao lado mostra as entalpias do benzeno e de seus produtos de combustão, bem como o calor liberado na combustão ( 2 H ∆ ).</p>
+        </part>
+        <part>
+          <p>Complete o diagrama ao lado para a transformação de acetileno em benzeno, considerando o calor envolvido nesse processo ( 1 H ∆ ). Um outro trímero do acetileno é o 1,5-hexadiino. Entretanto, sua formação, a partir do acetileno, não é favorecida. Em módulo, o calor liberado nessa transformação é menor do que o envolvido na formação do benzeno.</p>
+        </part>
+        <part>
+          <p>No mesmo diagrama, indique onde se localizaria, aproximadamente, a entalpia do 1,5-hexadiino.</p>
+        </part>
+        <part>
+          <p>Indique, no mesmo diagrama, a entalpia de combustão completa ( 3 H ∆ ) do 1,5-hexadiino gasoso, produzindo CO2 e H2O gasosos. A entalpia de combustão do 1,5-hexadiino, em módulo e por mol de reagente, é maior ou menor do que a entalpia de combustão do benzeno? Química – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A hidrólise ácida de uma nitrila produz um ácido carboxílico. As nitrilas podem ser preparadas pela reação de um haleto de alquila com cianeto de sódio ou pela reação de um composto carbonílico com ácido cianídrico, como ilustrado abaixo: Essas transformações químicas foram utilizadas para preparar, em laboratório, ácido cítrico. Assim sendo, dê a fórmula estrutural</p>
+      </statement>
+      <parts>
+        <part>
+          <p>do ácido cítrico.</p>
+        </part>
+        <part>
+          <p>de B.</p>
+        </part>
+        <part>
+          <p>de A.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Medidas experimentais mostraram que uma gotícula de um ácido graxo "ômega-6", de volume igual a 3,10 x 10−3 mL, contém aproximadamente 6,0 x 1018 moléculas do ácido. Sabendo-se que a fórmula molecular desse ácido é CnH2n−4O2, determine o valor de n, utilizando os dados fornecidos. Mostre seus cálculos e escreva a fórmula molecular do ácido.</p>
+        </part>
+        <part>
+          <p>Esse ácido é praticamente insolúvel em água. Quando se adiciona tal ácido à água, ele se distribui na superfície da água. Mostre a orientação das moléculas do ácido que estão diretamente em contato com a água. Represente as moléculas do ácido por CO2H, e a superfície da água por uma linha horizontal. Dados: densidade do ácido nas condições do experimento: 0,904 g/mL. constante de Avogadro: 6,0 x 1023 mol−1 massas molares (g/mol) H........... 1 C......... 12 O......... 16 Química – FUVEST 2001 Gráfico utilizado para responder a questão 08 C6H6(g) ∆H2 = −3168 kJ/mol 6CO2(g) + 3H2O(g)</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

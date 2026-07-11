@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2024" phase="discursive" day="0" variation="V1" date="2024-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="M01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um móbile matemático é uma figura que simula móbiles físicos. Ela é formada por segmentos de reta e figuras planas com valores numéricos racionais positivos, de forma a buscar um equilíbrio. A figura 1 ilustra um móbile básico matemático. Para ele estar em equilíbrio, os valores devem cumprir as equações 𝑥= 𝑎𝑐+ 𝑏𝑑 e 𝑎𝑐= 𝑏𝑑. Quando não aparecem valores para as letras 𝑎 e 𝑏, significa que ambas valem 1.</p>
+        <p>Figura 1 Um móbile pode ser composto por diversos móbiles básicos, como a figura 2. Note que, nele, tem-se 5 = 3 + 1 + 1, mantendo o móbile em equilíbrio.</p>
+        <p>Figura 2 Considerando os móbiles I, II e III, apresentados na folha de respostas, responda ao que se pede:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Complete o móbile I, preenchendo as formas geométricas vazias com os valores que faltam para que ele esteja em equilíbrio.</p>
+        </part>
+        <part>
+          <p>Determine 𝑛∈𝑁 para que o móbile II esteja em equilíbrio.</p>
+        </part>
+        <part>
+          <p>Complete o móbile III, preenchendo as formas geométricas vazias com os valores que faltam para que ele esteja em equilíbrio.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="M02">
+      <statement>
+        <p>Uma padaria faz parte de um movimento que pretende combater o desperdício de alimentos e vende com descontos seus produtos próximos à data de vencimento. São montados três tipos de kits: A (doces), B (salgados) e C (mistos). No momento da compra, um cliente deve indicar apenas uma preferência entre os kits A, B ou C, mas receberá um kit surpresa (A, B ou C), conforme a disponibilidade de produtos em promoção. Sabendo que 40% dos consumidores preferem o kit A, 30% preferem o kit B e 40% preferem o kit C e que a probabilidade de um cliente ter a sua preferência atendida é de 80% para o kit A, 90% para o kit B e 70% para o kit C, responda: a) Qual a probabilidade de um cliente não ter a sua preferência atendida? b) Dois amigos fazem uma compra cada um, indicando preferências distintas entre si. Qual a probabilidade de ambos terem as suas preferências atendidas? c) Um cliente teve a sua preferência atendida. Qual a probabilidade de que ele tenha pedido o kit B?</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        <p>a) Móbile I:</p>
+        <p>b) Móbile II:</p>
+        <p>c) Móbile III:</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="M03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a parábola 𝑃 dada pela equação 𝑦 = 𝑥ଶ e a reta 𝑟 dada pela equação 𝑎𝑥 + 𝑏𝑦 + 𝑐 = 0, onde 𝑎, 𝑏, e 𝑐 são constantes reais. Denote por 𝑂= (0,0) a origem do sistema de coordenadas cartesiano 𝑂𝑥𝑦.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Se 𝑎= 2, 𝑏= −1 e 𝑐= 3, determine todos os pontos do plano cartesiano que pertencem, simultaneamente, à reta 𝑟 e à parábola 𝑃.</p>
+        </part>
+        <part>
+          <p>Se 𝑎= 4, 𝑏= 3 e 𝑐= −7, determine o ponto da reta 𝑟 que está mais próximo de 𝑂.</p>
+        </part>
+        <part>
+          <p>Considere três pontos 𝐴, 𝐵 e 𝐶 na parábola 𝑃, tais que 𝐴= (−1,1), 𝐵 pertence ao primeiro quadrante e os segmentos 𝐴𝐵 e 𝑂𝐶 são paralelos. Determine 𝐵 e 𝐶 de forma que a distância de 𝐵 até 𝐶 seja √17.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Vamos admitir que uma corda presa nas extremidades de duas hastes paralelas e de mesma altura descreve uma curva que é dada pela equação 𝑦= 2௫+ 2ି௫. Uma representação gráfica dessa equação, limitada por duas retas verticais paralelas ao eixo 𝑂𝑦 e onde o eixo 𝑂𝑥 indica o solo, é dada pela figura. A unidade de medida é o metro (m).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual a altura mais baixa que a corda assume?</p>
+        </part>
+        <part>
+          <p>Qual será a altura das hastes se a distância entre elas for de 3 m?</p>
+        </part>
+        <part>
+          <p>Qual a distância entre dois pontos da corda que estão a uma altura de 4 m do solo? 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura a seguir esboça, no plano cartesiano, a região hachurada delimitada pelo eixo 𝑂𝑥, pelo eixo 𝑂𝑦 e pela reta 𝑥 + 𝑦 = 4.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule a área da região determinada pela intersecção do plano 𝑂𝑥𝑦 com o sólido de revolução gerado pela rotação da região hachurada quando gira em torno do eixo 𝑂𝑦.</p>
+        </part>
+        <part>
+          <p>Calcule o volume do sólido de revolução gerado pela rotação da região hachurada quando gira em torno da reta vertical 𝑥 = 4.</p>
+        </part>
+        <part>
+          <p>Calcule o volume do sólido de revolução gerado pela rotação da região hachurada quando gira em torno da reta 𝑥+ 𝑦 = 4.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em matemática, define-se o piso de um número real 𝑥 como sendo o maior número inteiro menor ou igual a 𝑥. O símbolo para o piso de 𝑥 é ⌊𝑥⌋. Por exemplo: ⌊0,8⌋= 0 ; ⌊1,2⌋= 1 ; ⌊10⌋= 10 ; ⌊−3,4⌋= −4.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine 𝑥 tal que 𝑥⌊𝑥⌋= 10.</p>
+        </part>
+        <part>
+          <p>Determine todas as soluções reais da equação ⌊2𝑥⌋+ ⌊𝑥⌋= 7.</p>
+        </part>
+        <part>
+          <p>Determine todas as soluções reais da equação⌊𝑥ଶ⌋−4⌊𝑥⌋+ 3 = 0. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um estudo recente feito por pesquisadores do Caltech(1) mostrou que, desde o início do século XXI, o volume de gelo acumulado no oceano Ártico durante o inverno diminuiu em cerca de 6000 km3, redução em grande parte impulsionada pela mudança na espessura do gelo, passando de um padrão denominado “plurianual” para outro padrão conhecido como “gelo marinho sazonal”. Segundo os autores do estudo, o gelo mais antigo e plurianual tende a ser mais espesso e, portanto, seu derretimento é mais demorado. À medida que esse “reservatório” de gelo “antigo” marinho do Ártico se esgota e o gelo sazonal passa a predominar, espera-se que a espessura e o volume globais do gelo marinho do Ártico diminuam.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Estime, em kg, o acréscimo na massa de água no oceano devido ao degelo no Ártico desde o início do século XXI.</p>
+        </part>
+        <part>
+          <p>Sabendo que a área do oceano Ártico é de aproximadamente 1,5×107 km2, se todo esse gelo perdido formasse uma camada sobre a superfície desse oceano, qual seria a espessura dessa camada?</p>
+        </part>
+        <part>
+          <p>Estime a mínima quantidade de energia (em joules) para derreter completamente uma tonelada de gelo inicialmente a uma temperatura de −20oC. Note e adote: Propriedades do gelo (plurianual ou sazonal): Densidade = 0,92 g/cm3 Calor específico = 2×103 J/kg.°C Calor latente de fusão = 3×105 J/kg (1) Sahra Kacimi et al, “Arctic snow depth, ice 3/4 thickness and volume from ICESat‐2 and CryoSat‐2: 2018‐2021”, Geophysical Research Letters (2022). DOI: 10.1029/2021GL097448</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No manual de instalação de um filtro de torneira, consta a seguinte mensagem: Instruções para obter vazão de água recomendada: Para filtração adequada, acima de 100 kPa utilize o redutor de vazão que acompanha o produto, encaixando-o no filtro. Dica: Caso não saiba qual a pressão no ponto de uso do filtro, meça o tempo para encher com água um copo de 240 mL. Se o tempo for menor que 6 segundos, recomenda-se encaixar o redutor de vazão na base do filtro.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule a força sobre um tampão de vedação colocado na ponta de um cano de 40 mm de diâmetro se a pressão da água no interior do cano neste local é de 100 kPa.</p>
+        </part>
+        <part>
+          <p>Considere que uma torneira esteja instalada no 4º andar de um prédio de 12 andares (ponto B) e esteja conectada a uma caixa d’água localizada na laje desse prédio (ponto A), conforme a figura. Calcule a distância vertical ℎ e a diferença de pressão entre os pontos B e A.</p>
+        </part>
+        <part>
+          <p>Para um filtro instalado em um apartamento de outro andar (sem o redutor de vazão), verifica-se que o tempo para encher um copo de 240 mL é de 5 s. Dado que o diâmetro da saída do filtro é de 4 mm, calcule a velocidade da água na saída do filtro (em m/s). Note e adote: A altura padrão de cada andar de um prédio é de 3 metros. Considere a água como um fluido ideal com densidade de 1000 kg/m3. A vazão de um fluido em regime de fluxo constante é dada pelo produto da velocidade do fluido pela área da seção reta do tubo de escoamento. Aceleração da gravidade (g) = 10 m/s2 1 Pa = 1 N/m2 Considere 𝜋≈3 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere uma mesma corda de violoncelo vibrando, em situações distintas, conforme os padrões de ondas estacionárias mostrados nos diagramas a seguir, em que a amplitude das vibrações, por clareza, está grandemente ampliada. No diagrama 1, a corda vibra no comprimento 𝐿 mostrado na figura. No diagrama 2, a corda está pinçada a 2/3 do comprimento 𝐿, de modo que não há vibração no terço restante.</p>
+        <p>Diagrama 1 Diagrama 2</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Um aluno afirma que, por se tratar de padrões estacionários, a velocidade de propagação de uma onda qualquer na corda é nula. Essa afirmação é correta? Justifique a sua resposta.</p>
+        </part>
+        <part>
+          <p>Considere agora a situação mostrada no diagrama 1. Se o comprimento 𝐿 fosse de 60 cm, qual seria o comprimento de onda da vibração mostrada nesse diagrama?</p>
+        </part>
+        <part>
+          <p>Suponha agora que a frequência da vibração da corda no padrão mostrado no diagrama 1 seja de 220 Hz. Determine a frequência de vibração da corda no padrão mostrado no diagrama 2.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere uma amostra de 2 mols de um gás monoatômico, em que cada átomo possui uma massa de aproximadamente 7 × 10ିଶସ gramas. O gás pode ser tratado como ideal.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a massa total do gás na amostra, em gramas.</p>
+        </part>
+        <part>
+          <p>A energia interna da amostra a uma temperatura de 300 K é de 7500 J. Quanta energia é preciso transferir para a amostra para que sua temperatura atinja 400 K?</p>
+        </part>
+        <part>
+          <p>A descoberta de Einstein sobre a equivalência entre massa e energia é válida mesmo em fenômenos mais familiares, como o aquecimento de um fluido, embora, nesse caso, o efeito seja muito pequeno para ser perceptível. Nesse contexto, calcule a variação na massa da amostra de gás do enunciado quando ela experimenta um processo de expansão ao longo do qual recebe 13500 J de calor do entorno e realiza um trabalho de 4500 J. Note e adote: Número de Avogadro: 6×1023 mol−1 Relação de Einstein: 𝐸= 𝑚𝑐ଶ Velocidade da luz no vácuo: 3×108 m/s 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um período da vida do físico J. Robert Oppenheimer pouco retratado no recente filme Oppenheimer é o seu Doutorado na Alemanha sob a orientação de Max Born. Em 1927, eles publicaram um trabalho muito importante, que se tornaria uma das bases da física atômica e molecular. A chamada Aproximação de Born‐Oppenheimer usa o fato de que a massa dos núcleos é muito maior que a massa dos elétrons para justificar um tratamento independente do movimento dos núcleos e o dos elétrons em átomos e moléculas. Para ilustrar a validade da aproximação, considere um modelo clássico para o átomo de hidrogênio composto de um próton de massa 𝑀 e carga +𝑒 e um elétron de massa 𝑚 e carga – 𝑒 separados por uma distância 𝐷, como mostra a figura.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando o sistema inicialmente estático, desenhe, na folha de respostas, os vetores das forças elétricas que atuam sobre as duas partículas. Considere agora que as velocidades das cargas estão sempre em sentidos opostos e perpendiculares à linha que une os seus centros, como mostra a figura. Considere também que a única força que atua sobre as partículas é a força elétrica entre elas, de modo que a quantidade de movimento total (ou momento linear total) do sistema é nula. Considere ainda que ambas as cargas estejam em movimento circular uniforme em torno do centro de massa do sistema, de modo que distância entre as duas partículas não se altere.</p>
+        </part>
+        <part>
+          <p>Sendo 𝑀/𝑚 = 1800, calcule a razão ௱௧೐ ௱௧೛ entre os intervalos de tempo que o elétron e o pósitron, respectivamente, levam para percorrer um arco de circunferência de mesmo comprimento 𝛥𝑠.</p>
+        </part>
+        <part>
+          <p>Na aproximação de Born-Oppenheimer, pode ser feita a hipótese de que o próton permanece em repouso enquanto o elétron gira em torno dele. Utilizando essa hipótese e supondo ainda que a trajetória do elétron seja uma circunferência de raio 𝐷, calcule a energia cinética do elétron em termos de 𝑒, de 𝐷 e da constante eletrostática da Lei de Coulomb 𝑘଴.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="F06">
+      <statement>
+        <p>O fenômeno da aurora polar, há muito tempo conhecido nos hemisférios norte e sul do planeta Terra, caracteriza-se por um brilho observado no céu em decorrência de colisões entre os átomos da atmosfera, predominantemente oxigênio e nitrogênio, e as partículas (prótons e elétrons) lançadas por erupções solares e canalizadas pelo campo magnético terrestre. a) Determine a velocidade (em m/s) de um próton com energia cinética de 3,2×10−13 J. b) Considerando agora elétrons com velocidade de 1,6×106 m/s e que descrevam órbitas circulares sob ação do campo magnético terrestre, cuja intensidade é de 10−4 T, calcule o módulo da força magnética atuando sobre cada elétron. As diferentes cores observadas na aurora devem-se à emissão de fótons em processos de desexcitação de átomos presentes nas diferentes camadas da atmosfera. As cores mais comuns da luz associada a esses fótons são a verde e a vermelha, devido à predominância de oxigênio e nitrogênio nas altitudes de 200 km e 100 km, respectivamente. c) Calcule (em joules) a variação da energia de um átomo quando este emite um fóton da cor verde.</p>
+        <p>Note e adote: 1eV = 1,6x10−19J; massa do próton = 1,6×10−27 kg; massa do elétron = 9×10−31 kg; carga do elétron = 1,6×10−19 C Comprimento de onda da luz verde: λ = 500 nm Energia de um fóton de frequência 𝑓: 𝐸= ℎ𝑓, onde ℎ = 6×10-34 J.s Velocidade da luz no vácuo: 3×108 m/s Um processo de desexcitação atômica envolve a passagem de um elétron de um nível atômico de energia mais alta para outro de energia mais baixa.</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        <p>a)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ácido fosfórico (H3PO4) é um importante produto químico usado na produção de fertilizantes, detergentes e na indústria alimentícia. A produção de H3PO4 pode ocorrer por dois processos distintos. No processo úmido, faz-se reagir rocha fosfática (Ca5(PO4)3F) com ácido sulfúrico. Outra opção é oxidar o fósforo elementar (P4) com oxigênio gasoso para formar o P4O10 e, em seguida, reagir essa espécie com água formando o ácido fosfórico.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando Ca5(PO4)3F e P4O10, qual das duas espécies possui o maior teor de P em massa? Justifique a sua resposta mostrando os cálculos.</p>
+        </part>
+        <part>
+          <p>Apresente, na tabela da folha de repostas, a equação da reação global balanceada para a produção de ácido fosfórico a partir do P4 e o número de oxidação do fósforo no reagente e no produto.</p>
+        </part>
+        <part>
+          <p>Um volume de 10 mL de um refrigerante previamente desgaseificado foi adicionado em um balão volumétrico de 50 mL, que foi completado com água destilada. Essa solução foi analisada e obteve-se uma concentração de 0,2 g/L de ácido fosfórico. Considerando que o valor máximo de ácido fosfórico permitido em refrigerantes é de 0,07 g para cada 100 mL, a concentração de ácido fosfórico nesse refrigerante encontra-se dentro do limite permitido pela legislação? Justifique a sua resposta mostrando os cálculos. Note e adote: Massas molares (g/mol): Ca5(PO4)3F = 504; P4O10 = 284; P = 31</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q02">
+      <statement>
+        <p>A intolerância à lactose é uma condição causada pela incapacidade de digerir a lactose, que é o açúcar do leite. Essa condição impede a quebra da lactose em dois monossacarídeos – os isômeros glicose e galactose. Para verificar essa condição, pode-se administrar lactose ao paciente e acompanhar a concentração de glicose no seu sangue (glicemia) ao longo do tempo. a) Na folha de respostas, é apresentada uma curva que representa a glicemia ao longo do tempo de um paciente capaz de digerir a lactose. Esboce, na mesma figura, a curva esperada em um exame positivo para intolerância à lactose, partindo-se da mesma glicemia inicial. Produtos chamados “zero lactose” são tratados com lactase na sua produção. A lactase é a enzima que transforma lactose em glicose e galactose de forma a mitigar o efeito da lactose no organismo. A seguir, são apresentas tabelas nutricionais para o mesmo leite, nas versões “não tratado” e “tratado apenas com lactase”. Leite não tratado com lactase Leite tratado com lactase (“zero lactose”) Proteínas 2,9 g Proteínas 2,9 g Glicose 0,3 g Glicose Não informado Galactose 0,1 g Galactose 2,1 g Gorduras totais 3,0 g Gorduras totais 3,0 g Gorduras saturadas 2,0 g Gorduras saturadas 2,0 g Gorduras trans 0 g Gorduras trans 0 g Valores para uma porção de 100 mL. b) Qual massa de glicose, em gramas, deveria ser informada na tabela nutricional do leite “zero lactose”? Justifique a sua resposta. c) A quebra da lactose em galactose e glicose, ilustrada a seguir (I), ocorre de forma semelhante à quebra da sacarose, que produz glicose e frutose (II). Considerando o esquema, complete, no espaço reservado na folha de respostas, a estrutura da sacarose.</p>
+        <p>(I) (II)</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        <p>b) Equação química:</p>
+        <p>NOX do P no P4 NOX do P no H3PO4</p>
+        <p>a)</p>
+        <p>b)</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A quantificação de compostos químicos, em geral, é feita de maneira experimental, empregando instrumentos, como balões volumétricos, que estão sujeitos a erros intrínsecos. A figura mostra um balão de 250 mL ao nível do menisco, com um desvio de 0,15 mL para mais ou para menos, em uma temperatura de 20 °C. Com base nessa informação, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A 20°C, qual o desvio porcentual do volume desse balão?</p>
+        </part>
+        <part>
+          <p>Considere que o balão está em equilíbrio térmico a 20 °C em um laboratório com temperatura controlada e foi preenchido com 250 mL de uma solução 0,1 mol/L de NaCl a 10 °C. Após o conjunto balão e solução atingirem novamente o equilíbrio térmico com o laboratório, a concentração da solução presente no balão será menor, maior ou igual a 0,1 mol/L? Justifique a sua resposta.</p>
+        </part>
+        <part>
+          <p>Em outro balão volumétrico, com as mesmas especificações do balão mostrado na figura, foram adicionados 25 mL de uma solução de NaOH de concentração 0,1 mol/L. O balão foi completado com água até atingir o menisco. Qual a diferença de pH entre a solução inicial e a solução final? Justifique a sua resposta mostrando os cálculos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q04">
+      <statement>
+        <p>As interações entre as bases nitrogenadas do DNA são fundamentais para a manutenção da vida. Normalmente, essas interações ocorrem por ligações de hidrogênio, conforme proposto no modelo de Watson-Crick. Entretanto, existe também o modelo de Hoogsteen. A interação entre as bases adenina (A) e timina (T) para a formação do par A-T para ambos os modelos está representada a seguir:</p>
+        <p>Adenina (A)</p>
+        <p>Timina (T) a) Nas estruturas representadas na folha de respostas, circule as interações que são responsáveis por manter essas bases pareadas. b) Considerando que esses dois tipos de pareamento estão em equilíbrio e que, comumente, o pareamento de Watson-Crick é predominante, a constante de equilíbrio K do processo representado é menor, maior ou igual a 1? Justifique a sua resposta. O mecanismo de funcionamento de alguns fármacos para combate ao câncer, como os agentes alquilantes, depende da inserção de um grupo alquila nas bases de DNA, conforme representado esquematicamente a seguir para grupamentos amina das bases nitrogenadas.</p>
+        <p>c) A molécula de adenina consumiria mais, menos ou a mesma quantidade de agente alquilante do que a timina consumiria para bloquear todos os seus grupos suscetíveis à reação de alquilação ilustrada? Considere um rendimento de 100% e justifique a sua resposta com base nas diferenças estruturais entre as moléculas.</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        <p>a)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O motor de um automóvel produz monóxido de carbono (CO) à taxa de, aproximadamente, 200 g de CO por hora. O CO é tóxico pois compete com o O2 para se ligar à hemoglobina (Hb), formando HbCO, que impede o transporte de oxigênio pela oxi-hemoglobina (HbO2). Por esse motivo, em alguns países, é comum a instalação de sensores para a detecção de CO em garagens fechadas. Cabe destacar que esse gás não reage com o O2 atmosférico em condições normais, de modo que o CO pode se acumular e atingir concentrações letais.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique, com base no equilíbrio HbCO + O2 ⇌ HbO2 + CO, por que o tratamento para intoxicação por CO é administrar oxigênio em alta concentração aos pacientes.</p>
+        </part>
+        <part>
+          <p>Uma forma de detectar CO é pelo uso de um sensor colorimétrico. Quando exposto ao CO, um dos sais presentes no sensor sofre redução, mudando de cor, enquanto o CO é oxidado a CO2, conforme representado a seguir: CO + Sal (forma oxidada) → CO2 + Sal (forma reduzida) Com base no processo descrito e na reação apresentada, é correto afirmar que o sal atua como catalisador da reação de oxidação do CO a CO2? Justifique a sua resposta.</p>
+        </part>
+        <part>
+          <p>Suponha que um carro foi deixado ligado em uma garagem com 6,0 m de comprimento, 4,0 m de largura e 2,0 m de altura, sem ventilação. Quantas horas levaria para a produção de CO atingir a concentração tóxica de 10 mg/L? Justifique a sua resposta mostrando os cálculos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Alguns minerais alcalinos, quando em contato com soluções ácidas, sofrem intemperismo, como representado a seguir: Mineral Ponto de Fusão/°C Reação com solução ácida Anortita (CaAl 2Si2O8) 1550 CaAl 2Si2O8(s) + 2H+(aq) + H2O(l) → Ca2+(aq) + Al 2Si2O5(OH)4(s) Olivina (FeMgSiO4) 1200 FeMgSiO4(s) + 4H+(aq)→ Fe2+(aq) + Mg2+(aq) + H4SiO4(s) Albita (NaAl Si3O8) 1100 NaAl Si3O8(s)+ H+(aq) + 9/2H2O(l) → Na+(aq) + 2H4SiO4(s) + 1/2Al 2Si2O5(OH)4(s) Com base nas informações sobre os minerais descritas na tabela, responda às questões:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A propensão ao intemperismo desses minerais por soluções ácidas é regida pela razão Si:O, sendo que, quanto menor a razão, maior a propensão ao intemperismo. Considerando a razão Si:O dos minerais e a estequiometria das reações, qual dos minerais apresentados teria maior capacidade de neutralizar uma mesma quantidade de chuva ácida?</p>
+        </part>
+        <part>
+          <p>A queima de combustíveis fósseis e consequente emissão de CO2 na atmosfera tem resultado na acidificação dos oceanos, pois o CO2 atmosférico governa o equilíbrio do carbonato na água do mar, conforme a reação CO2(g) + H2O(l) ⇌ H+(aq) + HCO3−(aq). Seria possível remover CO2 da atmosfera dispersando grandes quantidades de minerais alcalinos no oceano? Explique sua resposta com base nos equilíbrios químicos das reações.</p>
+        </part>
+        <part>
+          <p>Esses minerais são considerados rochas ígneas, ou seja, são o resultado do resfriamento e solidificação do magma. A formação de cada mineral ocorre por um processo de separação chamado de cristalização fracionada. Considerando o ponto de fusão de cada mineral, apresente a ordem de cristalização dos minerais com o resfriamento do magma. Justifique a sua resposta. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na China, até 1958, grandes populações de pardais se alimentavam de grãos, em especial arroz e trigo. Naquele ano, o governo chinês instituiu uma lei estimulando cidadãos a dizimar as populações dessas aves, objetivando controlar o que era chamado de “peste” dos pardais. Estima-se que quase 2 bilhões de pardais foram mortos nesse período. A consequência do desaparecimento dos pardais, ainda em 1958, foi uma explosão populacional de gafanhotos, que infestaram as mesmas plantações e alteraram os níveis de produção de grãos. Essa alteração da produção afetou a população humana da China. Em 1960, o governo chinês reverteu a lei para evitar mais mortes de pardais, e o país chegou a importar 250 mil pardais da União Soviética para recolonizar seus campos. A partir de então, as populações de gafanhotos declinaram, impactando novamente os sistemas produtivos, o que, por sua vez, afetou também a população humana chinesa. O gráfico a seguir complementa os dados do texto para o período de 1955 a 1964. A linha pontilhada representa uma estimativa da produção de grãos (em milhões de toneladas), e a linha contínua representa a taxa de mortalidade da população humana (em óbitos por mil habitantes).</p>
+        <p>A partir desses dados, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique a relação entre a taxa de mortalidade da população humana chinesa e a produção de grãos mostrada no gráfico.</p>
+        </part>
+        <part>
+          <p>No gráfico da folha de respostas, represente as curvas que refletem os dados descritos para o tamanho das populações de pardais e de gafanhotos.</p>
+        </part>
+        <part>
+          <p>Represente graficamente a teia trófica com os organismos envolvidos no processo descrito.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="B02">
+      <statement>
+        <p>Os indivíduos da mariposa Biston betularia apresentam variação de coloração que vai desde tons mais claros até mais escuros. Populações dessa mariposa na Grã-Bretanha apresentavam uma maior frequência de fenótipos mais claros antes da Revolução Industrial (RI). Com o avanço da RI, a liberação maciça de fuligem pelas máquinas tornou mais escuras as superfícies onde as mariposas pousavam, como as árvores e estruturas urbanas. Com isso, o número de indivíduos de fenótipos mais claros diminuiu. O esquema a seguir sintetiza esse fenômeno.</p>
+        <p>Com base no texto e no esquema, e considerando que o tamanho da população de mariposas permaneceu inalterado depois da RI, responda: a) Qual é o processo evolutivo envolvido nas mudanças da frequência dos fenótipos ao longo do tempo, passando de uma predominância dos mais claros (antes da RI) para uma predominância dos mais escuros (depois da RI)? b) Cite o fator biótico que explica a diminuição de fenótipos mais claros. Justifique a sua resposta. c) No gráfico da folha de respostas, a abcissa indica o fenótipo (de mais claro a mais escuro), e a ordenada indica a frequência de indivíduos. A linha tracejada é a síntese do padrão de distribuição dos fenótipos pré-RI. No mesmo gráfico, represente a curva de distribuição dos fenótipos pós-RI.</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        <p>b)</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="B03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A tabela a seguir mostra o resultado de algumas variáveis de um exame de sangue realizado por uma pessoa adulta. Os dados dos exames são relacionados à série vermelha, à série branca e a alguns patógenos.</p>
+        <p>Elementos averiguados Resultado Intervalo de referência para o estado “normal” Série vermelha</p>
+        <p>Eritrócitos 4,58×106 /μL 4,50 a 5,50×106 /μL Hemoglobina 15,3 g/dL 13,0 a 17,0 g/dL Hematócrito 46,5 % 40,0 a 50,0 % Série branca</p>
+        <p>Leucócitos 14.180 /μL 4.000 a 10.000 /μL Neutrófilos 13.457 /μL 1.800 a 7.800 /μL Eosinófilos 0 /μL 20 a 500 /μL Basófilos 0 /μL 20 a 100 /μL Linfócitos 553 /μL 1.000 a 3.000 /μL Monócitos 170 /μL 200 a 1.000 /μL Patógeno (todos para anticorpos IgM) Citomegalovírus 0,2 Não reagente: &lt;0,7 Reagente: ≥1,0 Vírus da COVID-19 0,4 UA/mL Não reagente: &lt;0,9 UA/mL Reagente: ≥1,1 UA/mL Vírus da dengue &lt;0,1 Não reagente: &lt;0,8 Reagente: ≥1,1 Toxoplasma 35,7 Não reagente: &lt;0,5 Reagente: ≥0,6 Herpes simplex 1/2 0,4 Não reagente: &lt;0,9 Reagente: ≥1,1 Com base nesses dados, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que evidências permitem dizer que essa pessoa não tem um quadro de anemia?</p>
+        </part>
+        <part>
+          <p>Cite todos os elementos que permitem afirmar que essa pessoa tem um quadro infeccioso e inflamatório.</p>
+        </part>
+        <part>
+          <p>Qual patógeno gerou esse quadro infeccioso? Cite um sintoma relacionado a essa doença.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Barata tem cheiro? Esses insetos são controversos até quanto ao odor que liberam. Há pessoas que garantem sentir cheiro de barata. Essa habilidade é conferida pela presença de uma proteína codificada pelo gene TAAR5, que se expressa no epitélio olfativo, e que é ativada pela trimetilamina, uma substância que é liberada por baratas para comunicação entre indivíduos. O gene TAAR5 localiza-se no cromossomo 6 humano. Uma mutação que leva à substituição de um aminoácido serina por uma prolina reduz a capacidade do ser humano de detectar a trimetilamina. Somente pessoas que possuem a mutação em homozigose não sentem cheiro de barata. Modificado de https://www.uol.com.br/vivabem/noticias/redacao/2023/08/03/barata-tem-cheiro.amp.htm/.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite uma característica morfológica exclusiva e comum a todos os animais da mesma classe das baratas.</p>
+        </part>
+        <part>
+          <p>Qual é o padrão de herança da habilidade de sentir o cheiro de barata? Justifique a sua resposta.</p>
+        </part>
+        <part>
+          <p>Em que molécula ocorrem as mutações que repercutem em alteração na estrutura de proteínas? Qual foi o nucleotídeo substituído que gerou a mutação? Note e adote: Considere os seguintes códons do RNAm que codificam a Serina: UCU/UCC/UCA/UCG Considere os seguintes códons do RNAm que codificam a Prolina: CCU/CCC/CCA/CCG 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ciclo de produção e queda de folhas das plantas ao longo do ano, denominado fenologia foliar, é regulado por hormônios, cuja produção é influenciada principalmente pela temperatura e quantidade de horas de luz durante o dia (= fotoperíodo). Numa floresta cujas condições ambientais estão representadas nas figuras I e II, para o ano de 1980, notou-se que, ao longo das últimas quatro décadas, houve alterações na fenologia foliar das árvores, representada na figura III. Os pesquisadores acreditam que essas alterações fenológicas são devidas às mudanças climáticas globais. I</p>
+        <p>II</p>
+        <p>III</p>
+        <p>Com base nos três gráficos apresentados, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é a zona climática em que ocorre essa floresta?</p>
+        </part>
+        <part>
+          <p>Cite duas alterações no padrão fenológico foliar que ocorreram entre 1980 e 2020.</p>
+        </part>
+        <part>
+          <p>Como essas alterações fenológicas poderiam afetar o balanço de carbono na atmosfera? Justifique a sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="B06">
+      <statement>
+        <p>Ambientes de restinga apresentam diversas zonas de vegetação no trecho entre a linha da maré mais alta e o interior do continente, criando uma zonação, como esquematizado no perfil de vegetação da figura ao lado. As plantas dessas zonas (A, B, C, D, E) apresentam adaptações ao gradiente de condições ambientais em que se encontram. Os gráficos a seguir mostram o aumento de biomassa durante um experimento realizado com duas espécies de plantas: o feijão-dapraia, que se encontra na zona A, e o maracujá-da-praia, que ocorre na zona C. Indivíduos dessas duas plantas foram regados com água destilada (H2O) e solução salina nas concentrações de 3% e 10%.</p>
+        <p>a) Cite uma possível adaptação de uma planta da zona A para sobreviver no solo móvel da duna. b) Compare a tolerância de cada uma das plantas à salinidade. Justifique a sua resposta com base nos gráficos. c) Complete o gráfico da folha de respostas demonstrando o padrão da curva de biomassa vegetal total ao longo da zonação representada no perfil de vegetação.</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="G01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“O Censo Demográfico do ano de 2022, do IBGE, revela que há 1.327.802 (0,65% da população total do país) de indivíduos que pertencem a uma comunidade tradicional em todo o país. A maior parte dessa população, 68,2% (905 mil pessoas), vive nos estados do Nordeste brasileiro. Ao todo, os territórios desse grupo estão em 1.696 municípios. O estado da Bahia é a Unidade da Federação com maior quantidade de pessoas, com 29,90% da população, em seguida, vem o Maranhão, com 20,26% dessa população. É a primeira vez ao longo dos levantamentos censitários que este dado é incluído.” Disponível em https://agenciadenoticias.ibge.gov.br/. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique a qual comunidade tradicional o texto faz referência.</p>
+        </part>
+        <part>
+          <p>Aponte dois fatores que contribuem para a presença de 68,2% desse grupo na região Nordeste do Brasil.</p>
+        </part>
+        <part>
+          <p>Indique e explique um fator que contribui para a redução das áreas ocupadas por essas comunidades no Brasil atual.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em agosto de 2023, ocorreu a Cúpula de Johanesburgo, na África do Sul. Entre os principais assuntos, destacou-se o debate sobre a ampliação dos países integrantes dos BRICS. O quadro a seguir traz informações importantes sobre alguns dos países interessados em ingressar no grupo: Principais candidatos País População PIB (em US$) Arábia Saudita 35,9 milhões 833 bilhões Argentina 45,8 milhões 487 bilhões Egito 109,3 milhões 404 bilhões Emirados Árabes Unidos 9,3 milhões 415 bilhões Irã 87,9 milhões 359 bilhões Fonte: Banco Mundial / Infográfico Estadão, 2023. A partir dos dados e de seus conhecimentos sobre o tema, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Conceitue BRICS.</p>
+        </part>
+        <part>
+          <p>Considerando os dados apresentados, indique duas vantagens econômicas, aos atuais países membros, decorrentes da ampliação dos BRICS.</p>
+        </part>
+        <part>
+          <p>Cite e explique uma mudança geopolítica que a ampliação dos BRICS poderia trazer para a atual ordem mundial. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura a seguir apresenta a síntese da evolução do tempo em que as atividades humanas começaram a ter impacto significativo nos sistemas do planeta Terra (tempo conhecido por Antropoceno). As fases desse tempo são destacadas na escala apresentada. GOUDIE, A. S.; VILES, H. A. Geomorphology in the Anthropocene. Nova York: Cambridge University Press, 2016. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A qual período geológico se refere o Antropoceno?</p>
+        </part>
+        <part>
+          <p>Cite duas causas para a aceleração do impacto humano sobre os sistemas do planeta Terra a partir da Era Industrial.</p>
+        </part>
+        <part>
+          <p>A escala de tempo culmina na fase de Medidas Mitigadoras. Cite e explique uma medida para minimizar o impacto da ação humana sobre os sistemas do planeta Terra.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o gráfico a seguir: Taxa média geométrica de crescimento anual da população – 1872-2022</p>
+        <p>Fonte: O Estado de São Paulo, 2022. Adaptado. A partir dos seus conhecimentos sobre o tema:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Conceitue taxa média geométrica de crescimento anual da população.</p>
+        </part>
+        <part>
+          <p>Indique duas causas para aumento da taxa média geométrica de crescimento anual da população entre os anos de 1872 e 1960.</p>
+        </part>
+        <part>
+          <p>Cite e explique uma consequência da queda da taxa média geométrica de crescimento anual da população brasileira na atualidade. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“A República de Nauru é um país insular do hemisfério sul, localizado na Oceania, que compreende uma área de 21 quilômetros quadrados, o que faz dele o menor país insular do mundo. A história da importância econômica começou há alguns milhões de anos pelo fato de estar localizada longe de grandes massas continentais, o lugar se tornou um paraíso para as aves marinhas, que não possuíam nenhum predador nativo. Ao nidificarem na região por milhões de anos, depositaram toneladas de excremento (chamado guano) no solo da região. Após a sedimentação desse material, rochas ricas em fósforo se tornaram o principal afloramento no local, sendo o ponto chave da história futura do país. Em 1907, com a descoberta de fosfato, amplamente utilizado na agricultura e na produção de explosivos, Nauru se tornou o 2º país do mundo em renda per capita. No entanto, as reservas se exauriram, as florestas foram dizimadas e o ecossistema costeiro foi totalmente degradado, levando Nauru a ocupar a 76ª posição no ranking atual de PIB per capita.” Disponível em http://www.nauru.gov.nr/. Com base na descrição dos fatos do texto, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual o nome do processo descrito?</p>
+        </part>
+        <part>
+          <p>Cite um recurso natural no território brasileiro que sofreu processo análogo ao descrito no texto. Justifique a sua resposta.</p>
+        </part>
+        <part>
+          <p>Cite e explique uma medida que poderia ter sido adotada para mitigar o declínio da economia nauruana.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe as imagens do litoral do município de Balneário Camboriú-SC e leia o texto a seguir. Abril de 2021. Maio de 2023. Em 2021, foi realizada uma obra na principal faixa costeira de Balneário Camboriú-SC, a Praia Central, com o objetivo de triplicar o espaço disponível a partir de tubos que dragaram a areia do fundo do mar para a costa. Com base nas imagens, no texto e em seus conhecimentos, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique o compartimento geomorfológico onde a intervenção foi realizada.</p>
+        </part>
+        <part>
+          <p>Cite duas consequências da intervenção que sejam favoráveis à economia.</p>
+        </part>
+        <part>
+          <p>Indique e explique uma consequência da intervenção que seja desfavorável ao meio ambiente. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“O castelo que se tornou personagem mítica da sociedade medieval e da civilização europeia foi o castelo medieval. [...] Desde a Idade Média, ele às vezes era confundido com o palácio, mas é preciso distingui-lo com cuidado na história da realidade e do mito. O palácio apresenta duas características específicas que o diferenciam do castelo medieval. Primeiro, trata-se essencialmente de uma residência real, ou pelo menos principesca, ao passo que o castelo medieval pertence a um simples senhor, embora os reis possam ter construído castelos medievais enquanto senhores. Além disso, das duas funções essenciais do castelo, a militar e a residencial, é esta última que o palácio privilegia, ao passo que o castelo medieval privilegia a primeira.” LE GOFF, Jacques. Heróis e maravilhas da Idade Média. Petrópolis: Vozes, 2009, p. 89-90.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite uma função, mencionada no excerto, do palácio medieval.</p>
+        </part>
+        <part>
+          <p>Indique dois elementos da imagem que permitam caracterizar a edificação como castelo.</p>
+        </part>
+        <part>
+          <p>Como a ênfase militar dos castelos senhoriais se relaciona com a estrutura política dos reinos medievais? Ilustração de Pierre de Baud, representando a edificação de Derval, em 1373. In: CASSAGNES-BROUQUET, Sophie. La France au Moyen Âge. Rennes: Ouest France, 2014, p. 13.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ao estudar a transição do Império para a República, o historiador José Murilo de Carvalho assinalou uma série de tensões entre as bases sociais e as estruturas políticas do novo regime: “Em frase que se tornou famosa, Aristides Lobo, o propagandista da República, manifestou seu desapontamento com a maneira pela qual foi proclamado o novo regime. Segundo ele, o povo, que pelo ideário republicano deveria ser protagonista dos acontecimentos, assistira a tudo bestializado, sem compreender o que se passava, julgando ver talvez uma parada militar”. José Murilo de Carvalho. Os bestializados. São Paulo: Companhia das Letras, 1987, p. 9.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que significa a expressão “bestializado”, empregada no excerto?</p>
+        </part>
+        <part>
+          <p>Por que razão o excerto utiliza a imagem da “parada militar” para se referir à proclamação da República?</p>
+        </part>
+        <part>
+          <p>Cite e caracterize um evento rural ou urbano que tenha exposto o cenário de tensão social das duas primeiras décadas do regime republicano. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Será verdade que só em seu maior infortúnio vemos outros seres humanos como nós mesmos? Será o infortúnio aquilo que os homens possuem em comum? No caso de Hiroshima, trata-se da catástrofe mais concentrada que já se abateu sobre os homens. Numa passagem de seu diário, o médico japonês dr. Hachiya pensa em Pompeia. Mas nem mesmo esta oferece termo de comparação. Sobre Hiroshima se abateu uma catástrofe que foi planejada e executada com a maior precisão por seres humanos. A ‘natureza’ está fora do jogo.” Elias Canetti. “O diário do Dr. Hachiya, de Hiroshima”. A consciência das palavras. São Paulo: Companhia das Letras, 1990, p. 220-221. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual a diferença entre a catástrofe de Pompeia e a de Hiroshima?</p>
+        </part>
+        <part>
+          <p>Cite dois motivos que justifiquem a afirmação final sobre Hiroshima.</p>
+        </part>
+        <part>
+          <p>Associe a catástrofe de Hiroshima à Guerra Fria.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Disponível em https://felakuti.com/us/. A imagem reproduz a capa do álbum No agreement (Sem acordo) do saxofonista e compositor nigeriano Fela Kuti, lançado em 1977. Suas canções trazem forte mensagem de repúdio ao passado colonial e à condição pós-colonial.</p>
+        <p>A partir das mensagens da capa do álbum, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que foi o Pan-africanismo?</p>
+        </part>
+        <part>
+          <p>Como se relacionam as noções de black consciousness e total emancipation?</p>
+        </part>
+        <part>
+          <p>Qual o significado da afirmação No agreement no cenário das sociedades africanas após as emancipações políticas? 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Tradução do texto legível na imagem: “A Humanidade precisa pôr um fim à guerra, ou... um fim”. “Anti-Vietnam war march. Washington”, D.C., USA. October 21st, 1967. Marc Riboud / Magnum Photos.</p>
+        <p>“Confronting the American National Guard outside the Pentagon during the 1967 anti-Vietnam march”. Washington D.C., 1967. Marc Riboud / Magnum Photos. Fonte das imagens: https://www.magnumphotos.com/newsroom/politics/behind-the-image-protesting-vietnam-war-with-flower/.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que aspecto relativo à Guerra do Vietnã é apresentado nas imagens?</p>
+        </part>
+        <part>
+          <p>Identifique um elemento de cada imagem que revele a posição dos manifestantes diante da Guerra do Vietnã.</p>
+        </part>
+        <part>
+          <p>Cite duas razões que contribuíram para o fortalecimento da mobilização política exposta nas imagens.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Indicadores Macroeconômicos Selecionados 1968 1969 1970 1971 1972 1973 Crescimento do PIB brasileiro (%) 9,8 9,5 10,4 11,3 11,9 14,0 Inﬂação brasileira (IGP, % a.a.) 25,5 19,3 19,3 19,5 15,7 15,5 População brasileira (mil habitantes) 88.337 90.733 93.139 95.551 97.975 100.417 Crescimento do PIB mundial (%) 4,5 6,0 3,4 3,7 4,7 5,9 Crescimento do PIB na América LaƟna (%) 6,9 7,1 6,9 6,7 6,9 8,4 Tabela elaborada a partir dos dados disponíveis em: GIAMBIAGI, F. et alii. (orgs.). Economia Brasileira Contemporânea. Rio de Janeiro: Campus, 2005, p. 247. A partir dos indicadores macroeconômicos selecionados, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual indicador da tabela justifica o argumento de que, à época, o Brasil vivia um “milagre econômico”?</p>
+        </part>
+        <part>
+          <p>Compare as taxas de crescimento do PIB brasileiro com as taxas de crescimento do PIB nos conjuntos “América Latina” e “mundial”, referidos na tabela, e caracterize o comportamento da inflação no período de 1968 a 1973.</p>
+        </part>
+        <part>
+          <p>Por que o chamado milagre econômico não foi acompanhado pelo aumento do poder aquisitivo das camadas sociais mais pobres? Indique dois motivos. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2024 PROVA FUVEST 2024 PROVA 2 CAIXA1 1/1 FUVEST 2024 2ª Fase − Segundo Dia ESCOLA SALA LUGAR LOTE SEQ. 0/0 Página 14/14 − Caderno Reserva LOTE SEQUÊNCIA 2 PÁGINA Área Reservada Não escreva no topo da folha %%$#IIMMDDHHMMSS#$%%</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

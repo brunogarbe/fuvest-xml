@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2003" phase="discursive" day="0" variation="V1" date="2003-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura na folha de respostas representa, na linguagem da óptica geométrica, uma lente L de eixo E e centro C, um objeto O com extremidades A e B, e sua imagem I com extremidades A’ e B’. Suponha que a lente L seja girada de um ângulo α em torno de um eixo perpendicular ao plano do papel e fique na posição L* indicada na figura. Responda as questões, na figura da folha de respostas, utilizando os procedimentos e as aproximações da óptica geométrica. Faça as construções auxiliares a lápis e apresente o resultado final utilizando caneta.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique com a letra F as posições dos focos da lente L.</p>
+        </part>
+        <part>
+          <p>Represente, na mesma figura, a nova imagem I* do objeto O, gerada pela lente L* , assinalando os extremos de I* por A* e por B*.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um recipiente cilíndrico contém 1,5 L (litro) de água à temperatura de 40ºC. Uma tampa, colocada sobre a superfície da água, veda o líquido e pode se deslocar verticalmente sem atrito. Um aquecedor elétrico E, de 1800 W, fornece calor à água. O sistema está isolado termicamente de forma que o calor fornecido à água não se transfere ao recipiente. Devido ao peso da tampa e à pressão atmosférica externa, a pressão sobre a superfície da água permanece com o valor P0=1,00×105Pa. Ligando-se o aquecedor, a água esquenta até atingir, depois de um intervalo de tempo tA, a temperatura de ebulição (100ºC). A seguir a água passa a evaporar, preenchendo a região entre a superfície da água e a tampa, até que, depois de mais um intervalo de tempo tB, o aquecedor é desligado. Neste processo, 0,27 mol de água passou ao estado de vapor. NOTE/ADOTE 1 Pa = 1 pascal = 1N/m2 Massa de 1 mol de água: 18 gramas Calor específico da água: 4.000 J/(ºC.kg) Massa específica da água: 1,0 kg/L Na temperatura de 100ºC e à pressão de 1,00× 105Pa, 1 mol de vapor de água ocupa 30L e o calor de vaporização da água vale 40.000J/mol. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o intervalo de tempo tA, em segundos, necessário para levar a água até a ebulição.</p>
+        </part>
+        <part>
+          <p>o intervalo de tempo tB, em segundos, necessário para evaporar 0,27 mol de água.</p>
+        </part>
+        <part>
+          <p>o trabalho τ, em joules, realizado pelo vapor de água durante o processo de ebulição.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere uma bolinha, de pequeno raio, abandonada de uma certa altura, no instante t=0, a partir do repouso, acima de uma pesada placa metálica horizontal. A bolinha atinge a placa, pela primeira vez, com velocidade V = 10 m/s, perde parte de sua energia cinética, volta a subir verticalmente e sofre sucessivos choques com a placa. O módulo da velocidade logo após cada choque vale 80% do módulo da velocidade imediatamente antes do choque (coeficiente de restituição = 0,80). A aceleração da gravidade no local é g = 10m/s2. Suponha que o movimento ocorra no vácuo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Construa, na figura da folha de respostas, o gráfico da velocidade da bolinha em função do tempo, desde o instante t=0, em que ela é abandonada, até o terceiro choque com a placa. Considere positivas as velocidades com sentido para cima e negativas, as para baixo.</p>
+        </part>
+        <part>
+          <p>Determine o módulo V3 da velocidade da bolinha logo após o terceiro choque.</p>
+        </part>
+        <part>
+          <p>Analisando atentamente o gráfico construído, estime o instante T, a partir do qual a bolinha pode ser considerada em repouso sobre a placa.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Alienígenas desejam observar o nosso planeta. Para tanto, enviam à Terra uma nave N, inicialmente ligada a uma nave auxiliar A, ambas de mesma massa. Quando o conjunto de naves se encontra muito distante da Terra, sua energia cinética e sua energia potencial gravitacional são muito pequenas, de forma que a energia mecânica total do conjunto pode ser considerada nula. Enquanto o conjunto é acelerado pelo campo gravitacional da Terra, sua energia cinética aumenta e sua energia potencial fica cada vez mais negativa, conservando a energia total nula. Quando o conjunto N-A atinge, com velocidade V0 (a ser determinada), o ponto P de máxima aproximação da Terra, a uma distância R0 de seu centro, um explosivo é acionado, separando N de A. A nave N passa a percorrer, em torno da Terra, uma órbita circular de raio R0, com velocidade VN (a ser determinada). A nave auxiliar A, adquire uma velocidade VA (a ser determinada). Suponha que a Terra esteja isolada no espaço e em repouso. NOTE/ADOTE 1) A força de atração gravitacional F, entre um corpo de massa m e o planeta Terra, de massa M, é dada por R 2 mg R GMm F = = . 2) A energia potencial gravitacional EP do sistema formado pelo corpo e pelo planeta Terra, com referencial de potencial zero no infinito, é dada por: R GMm EP − = . G: constante universal da gravitação. R: distância do corpo ao centro da Terra. gR: aceleração da gravidade à distância R do centro da Terra. Determine, em função de M, G e R0,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a velocidade V0 com que o conjunto atinge o ponto P.</p>
+        </part>
+        <part>
+          <p>a velocidade VN, de N, em sua órbita circular .</p>
+        </part>
+        <part>
+          <p>a velocidade VA, de A, logo após se separar de N.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um avião voa horizontalmente sobre o mar com velocidade V constante (a ser determinada). Um passageiro, sentado próximo ao centro de massa do avião, observa que a superfície do suco de laranja, que está em um copo sobre a bandeja fixa ao seu assento, permanece paralela ao plano da bandeja. Estando junto à janela, e olhando numa direção perpendicular à da trajetória do avião, o passageiro nota que a ponta da asa esquerda do avião tangencia a linha do horizonte, como mostra a figura A. O piloto anuncia que, devido a um problema técnico, o avião fará uma curva de 1800 para retornar ao ponto de partida. Durante a curva, o avião se inclina para a esquerda, de um ângulo º 30 = θ , sem que haja alterações no módulo de sua velocidade e na sua altura. O passageiro, olhando sempre na direção perpendicular à da velocidade do avião, observa que a ponta da asa esquerda permanece durante toda a curva apontando para um pequeno rochedo que aflora do mar, como representado na figura B. O passageiro também nota que a superfície do suco permaneceu paralela à bandeja, e que o avião percorreu a trajetória semicircular de raio R (a ser determinado), em 90s. Percebe, então, que com suas observações, e alguns conhecimentos de Física que adquiriu no Ensino Médio, pode estimar a altura e a velocidade do avião.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Encontre uma relação entre V, R, g e θ , para a situação descrita.</p>
+        </part>
+        <part>
+          <p>Estime o valor da velocidade V do avião, em km/h ou m/s.</p>
+        </part>
+        <part>
+          <p>Estime o valor da altura H, acima do nível do mar, em metros, em que o avião estava voando.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma lâmpada L está ligada a uma bateria B por 2 fios, F1 e F2, de mesmo material, de comprimentos iguais e de diâmetros d e 3d, respectivamente. Ligado aos terminais da bateria, há um voltímetro ideal M (com resistência interna muito grande), como mostra a figura. Nestas condições a lâmpada está acesa, tem resistência RL =2,0 Ω e dissipa uma potência igual a 8,0W. A força eletromotriz da bateria é ε = 9,0V e a resistência do fio F1 é R1=1,8 Ω. Determine o valor da</p>
+      </statement>
+      <parts>
+        <part>
+          <p>corrente I , em ampères, que percorre o fio F1.</p>
+        </part>
+        <part>
+          <p>potência P2, em watts, dissipada no fio F2.</p>
+        </part>
+        <part>
+          <p>diferença de potencial VM, em volts, indicada pelo voltímetro M. NOTE/ADOTE π=3; sen300=0,5; cos300=0,86; tg300=0,6=1/1,7 Aceleração da gravidade: g=10m.s-2 As distâncias envolvidas no problema são grandes em relação às dimensões do avião.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura representa uma câmara fechada C, de parede cilíndrica de material condutor, ligada à terra. Em uma de suas extremidades, há uma película J, de pequena espessura, que pode ser atravessada por partículas. Coincidente com o eixo da câmara, há um fio condutor F mantido em potencial positivo em relação à terra. O cilindro está preenchido com um gás de tal forma que partículas alfa, que penetram em C, através de J, colidem com moléculas do gás podendo arrancar elétrons das mesmas. Neste processo, são formados íons positivos e igual número de elétrons livres que se dirigem, respectivamente, para C e para F. O número de pares elétron-ion formados é proporcional à energia depositada na câmara pelas partículas alfa, sendo que para cada 30eV de energia perdida por uma partícula alfa, um par é criado. Analise a situação em que um número n = 2x104 partículas alfa, cada uma com energia cinética igual a 4,5MeV, penetram em C, a cada segundo, e lá perdem toda a sua energia cinética. Considerando que apenas essas partículas criam os pares elétron-ion, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o número N de elétrons livres produzidos na câmara C a cada segundo.</p>
+        </part>
+        <part>
+          <p>a diferença de potencial V entre os pontos A e B da figura, sendo a resistência R=5x107 Ω.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ímã representado na figura, com largura L = 0,20 m, cria, entre seus pólos, P1 e P2, um campo de indução magnética B, horizontal, de intensidade constante e igual a 1,5T. Entre os pólos do ímã, há um fio condutor f, com massa m=6,0 x 10-3kg, retilíneo e horizontal, em uma direção perpendicular à do campo B. As extremidades do fio, fora da região do ímã, estão apoiadas e podem se mover ao longo de guias condutores, verticais, ligados a um gerador de corrente G. A partir de um certo instante, o fio f passa a ser percorrido por uma corrente elétrica constante I = 50A. Nessas condições, o fio sofre a ação de uma força F0, na direção vertical, que o acelera para cima. O fio percorre uma distância vertical d = 0,12 m, entre os pólos do ímã e, a seguir, se desconecta dos guias, prosseguindo em movimento livre para cima, até atingir uma altura máxima H. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o valor da força eletromagnética F0, em newtons, que age sobre o fio.</p>
+        </part>
+        <part>
+          <p>o trabalho total τ, em joules, realizado pela força F0.</p>
+        </part>
+        <part>
+          <p>a máxima altura H, em metros, que o fio alcança, medida a partir de sua posição inicial. NOTE/ADOTE 1) A carga de um elétron é e =-1,6x 10-19C 2) elétron-volt (eV) é uma unidade de energia 3) 1 MeV = 106 eV NOTE/ADOTE 1) Um fio condutor retilíneo, de comprimento C, percorrido por uma corrente elétrica I, totalmente inserido em um campo de indução magnética de módulo B, perpendicular à direção do fio, fica sujeito a uma força F, de módulo igual a BIC, perpendicular à direção de B e à direção do fio. 2) Aceleração da gravidade g = 10m.s-2 3) Podem ser desprezados os efeitos de borda do campo B, o atrito entre o fio e os guias e a resistência do ar.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas pequenas esferas metálicas, A e B, são mantidas em potenciais eletrostáticos constantes, respectivamente, positivo e negativo. As linhas cheias do gráfico na folha de resposta representam as intersecções, com o plano do papel, das superfícies equipotenciais esféricas geradas por A, quando não há outros objetos nas proximidades. De forma análoga, as linhas tracejadas representam as intersecções com o plano do papel, das superfícies equipotenciais geradas por B. Os valores dos potenciais elétricos dessas superfícies estão indicados no gráfico. As questões se referem à situação em que A e B estão na presença uma da outra, nas posições indicadas no gráfico, com seus centros no plano do papel. NOTE/ADOTE Uma esfera com carga Q gera, fora dela, a uma distância r do seu centro, um potencial V e um campo elétrico de módulo E, dados pelas expressões: V = K (Q/r) E = K (Q/r2) = V/r K = constante; 1 volt / metro = 1 newton / coloumb</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Trace, com caneta, em toda a extensão do gráfico da folha de respostas, a linha de potencial V=0, quando as duas esferas estão nas posições indicadas. Identifique claramente essa linha por V=0.</p>
+        </part>
+        <part>
+          <p>Determine, em volt / metro, utilizando dados do gráfico, os módulos dos campos elétricos EPA e EPB criados, no ponto P, respectivamente, pelas esferas A e B.</p>
+        </part>
+        <part>
+          <p>Represente, em uma escala conveniente, no gráfico, com origem no ponto P, os vetores EPA, EPB e o vetor campo elétrico EP resultante em P. Determine, a partir desta construção gráfica, o módulo de EP, em volt / metro.</p>
+        </part>
+        <part>
+          <p>Estime o módulo do valor do trabalho τ, em joules, realizado quando uma pequena carga q=2,0nC é levada do ponto P ao ponto S, indicados no gráfico. (2,0nC=2,0 nanocoulombs =2,0 x 10-9C). + 1 0 0 0 V + 5 0 0 V + 4 0 0 V + 3 0 0 V + 2 5 0 V + 2 00V + 150 V +1 25 V +100 V - 2 0 0 0 V - 1 0 0 0 V - 50 0 V - 400 V -3 00 V - 25 0 V -200 V -150 V B A P S 0 0,02 0,04 0,06 0,08 0,10 0,12 0,14 X (m) 0,10 0,08 0,06 0,04 0,02 Y (m)</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma onda sonora plana se propaga, em uma certa região do espaço, com velocidade V=340m/s, na direção e sentido do eixo y, sendo refletida por uma parede plana perpendicular à direção de propagação e localizada à direita da região representada no gráfico da folha de respostas. As curvas I e R desse gráfico representam, respectivamente, para as ondas sonoras incidente e refletida, a diferença entre a pressão P e a pressão atmosférica P0, (P – P0), em função da coordenada y, no instante t=0. As flechas indicam o sentido de propagação dessas ondas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a freqüência f da onda incidente.</p>
+        </part>
+        <part>
+          <p>Represente, com caneta, no gráfico da folha de respostas, a curva de P – P0, em função de y, no instante t=0, para a onda sonora resultante da superposição, nesta região do espaço, das ondas incidente e refletida. (Represente ao menos um ciclo completo).</p>
+        </part>
+        <part>
+          <p>Uma pessoa caminhando lentamente ao longo da direção y percebe, com um de seus ouvidos (o outro está tapado), que em algumas posições o som tem intensidade máxima e em outras tem intensidade nula. Determine uma posição y0 e outra ym, do ouvido, onde o som tem intensidade nula e máxima, respectivamente. Encontre, para a onda resultante, o valor da amplitude Am, de P – P0, em pascals, na posição ym.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2005" phase="discursive" day="0" variation="V1" date="2005-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Palíndromo – Diz-se da frase ou palavra que, ou se leia da esquerda para a direita, ou da direita para a esquerda, tem o mesmo sentido.” Aurélio. Novo Dicionário da Língua Portuguesa, 2a ed., 40a imp., Rio de Janeiro, Ed. Nova Fronteira, 1986, p.1251.</p>
+        <p>“Roma me tem amor” e “a nonanona” são exemplos de palíndromo.</p>
+        <p>A nonanona é um composto de cadeia linear. Existem quatro nonanonas isômeras.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a fórmula estrutural de cada uma dessas nonanonas.</p>
+        </part>
+        <part>
+          <p>Dentre as fórmulas do item a, assinale aquela que poderia ser considerada um palíndromo.</p>
+        </part>
+        <part>
+          <p>De acordo com a nomenclatura química, podem-se dar dois nomes para o isômero do item b. Quais são esses nomes?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Industrialmente, o clorato de sódio é produzido pela eletrólise da salmoura* aquecida, em uma cuba eletrolítica, de tal maneira que o cloro formado no anodo se misture e reaja com o hidróxido de sódio formado no catodo. A solução resultante contém cloreto de sódio e clorato de sódio. 2NaCl (aq) + 2H2O (l) → Cl2 (g) + 2NaOH (aq) + H2 (g) 3Cl2 (g) + 6 NaOH (aq) → 5 NaCl (aq) + NaClO3 (aq) + 3H2O (l)</p>
+        <p>Ao final de uma eletrólise de salmoura, retiraram-se da cuba eletrolítica, a 90 oC, 310 g de solução aquosa saturada tanto de cloreto de sódio quanto de clorato de sódio. Essa amostra foi resfriada a 25 oC, ocorrendo a separação de material sólido.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quais as massas de cloreto de sódio e de clorato de sódio presentes nos 310 g da amostra retirada a 90 oC? Explique.</p>
+        </part>
+        <part>
+          <p>No sólido formado pelo resfriamento da amostra a 25 oC, qual o grau de pureza (% em massa) do composto presente em maior quantidade?</p>
+        </part>
+        <part>
+          <p>A dissolução, em água, do clorato de sódio libera ou absorve calor? Explique. * salmoura = solução aquosa saturada de cloreto de sódio 0 10 20 30 40 50 60 70 80 90 100 20 Temperatura / C o Solubilidade / (g sal / 100 g água) NaClO3 NaCl</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para aumentar a vida útil de alimentos que se deterioram em contacto com o oxigênio do ar, foram criadas embalagens compostas de várias camadas de materiais poliméricos, um dos quais é pouco resistente à umidade, mas não permite a passagem de gases. Este material, um copolímero, tem a seguinte fórmula</p>
+        <p>e é produzido por meio de um processo de quatro etapas, esquematizado abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dentre os compostos, vinilbenzeno (estireno) acetato de vinila propeno propenoato de metila, qual pode ser o monômero X ? Dê sua fórmula estrutural.</p>
+        </part>
+        <part>
+          <p>Escreva a equação química que representa a transformação que ocorre na etapa Y do processo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Alcanos reagem com cloro, em condições apropriadas, produzindo alcanos monoclorados, por substituição de átomos de hidrogênio por átomos de cloro, como esquematizado: Considerando os rendimentos percentuais de cada produto e o número de átomos de hidrogênio de mesmo tipo (primário, secundário ou terciário), presentes nos alcanos acima, pode-se afirmar que, na reação de cloração, efetuada a 25 oC, • um átomo de hidrogênio terciário é cinco vezes mais reativo do que um átomo de hidrogênio primário. • um átomo de hidrogênio secundário é quatro vezes mais reativo do que um átomo de hidrogênio primário.</p>
+        <p>Observação: Hidrogênios primário, secundário e terciário são os que se ligam, respectivamente, a carbonos primário, secundário e terciário.</p>
+        <p>A monocloração do 3-metilpentano, a 25 oC, na presença de luz, resulta em quatro produtos, um dos quais é o 3-cloro-3-metilpentano, obtido com 17% de rendimento.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a fórmula estrutural de cada um dos quatro produtos formados.</p>
+        </part>
+        <part>
+          <p>Com base na porcentagem de 3-cloro-3-metilpentano formado, calcule a porcentagem de cada um dos outros três produtos. grupo vinila H2C = CH</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um ácido monocarboxílico saturado foi preparado pela oxidação de 2,0 g de um álcool primário, com rendimento de 74%. Para identificar o ácido formado, efetuou-se sua titulação com solução aquosa de hidróxido de sódio de concentração igual a 0,20 mol L-1. Gastaram-se 100 mL para consumir todo o ácido.</p>
+        <p>Elemento H C O massa molar/ g mol-1 1 12 16</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a massa molar do álcool empregado.</p>
+        </part>
+        <part>
+          <p>Escreva a fórmula molecular do ácido carboxílico resultante da oxidação do álcool primário.</p>
+        </part>
+        <part>
+          <p>Escreva as fórmulas estruturais dos ácidos carboxílicos, cuja fórmula molecular é a obtida no item b.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A L-isoleucina é um aminoácido que, em milhares de anos, se transforma no seu isômero, a D-isoleucina. Assim, quando um animal morre e aminoácidos deixam de ser incorporados, o quociente entre as quantidades, em mol, de D-isoleucina e de L-isoleucina, que é igual a zero no momento da morte, aumenta gradativamente até atingir o valor da constante de equilíbrio. A determinação desses aminoácidos, num fóssil, permite datá-lo. O gráfico traz a fração molar de L-isoleucina, em uma mistura dos isômeros D e L, em função do tempo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Leia no gráfico as frações molares de L-isoleucina indicadas com uma cruz e construa uma tabela com esses valores e com os tempos correspondentes.</p>
+        </part>
+        <part>
+          <p>Complete sua tabela com os valores da fração molar de D-isoleucina formada nos tempos indicados. Explique.</p>
+        </part>
+        <part>
+          <p>Calcule a constante do equilíbrio da isomerização L-isoleucina D-isoleucina</p>
+        </part>
+        <part>
+          <p>Qual é a idade de um osso fóssil em que o quociente entre as quantidades de D-isoleucina e L-isoleucina é igual a 1?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma jovem senhora, não querendo revelar sua idade, a não ser às suas melhores amigas, convidou-as para festa de aniversário, no sótão de sua casa, que mede 3,0 m x 2,0 m x 2,0 m. O bolo de aniversário tinha velas em número igual à idade da jovem senhora, cada uma com 1,55 g de parafina. As velas foram queimadas inteiramente, numa reação de combustão completa. Após a queima, a porcentagem de gás carbônico, em volume, no sótão, medido nas condições-ambiente, aumentou de 0,88 %. Considere que esse aumento resultou, exclusivamente, da combustão das velas.</p>
+        <p>Dados: massa molar da parafina, C22H46 310 g mol-1 volume molar dos gases nas condições-ambiente de pressão e temperatura 24 L mol-1</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação de combustão completa da parafina.</p>
+        </part>
+        <part>
+          <p>Calcule a quantidade de gás carbônico, em mols, no sótão, após a queima das velas.</p>
+        </part>
+        <part>
+          <p>Qual é a idade da jovem senhora? Mostre os cálculos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ácido nítrico é produzido pela oxidação de amônia com excesso de oxigênio, sobre um catalisador de platina, em uma seqüência de reações exotérmicas. Um esquema simplificado desse processo é</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as equações químicas balanceadas das reações que ocorrem no reator, na torre de oxidação e na torre de absorção. Note que, desta última, sai NO(g), nela gerado. A maior parte desse gás é aproveitada na própria torre, onde há oxigênio em excesso. Duas reações principais ocorrem nessa torre.</p>
+        </part>
+        <part>
+          <p>A velocidade da reação que ocorre na torre de oxidação, ao contrário da velocidade da maioria das reações químicas, diminui com o aumento da temperatura. Baseando-se em tal informação, explique o que deve ser o dispositivo A.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Recentemente, foi lançado no mercado um tira-manchas, cujo componente ativo é 2Na2CO3⋅3H2O2. Este, ao se dissolver em água, libera peróxido de hidrogênio, que atua sobre as manchas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Na dissolução desse tira-manchas, em água, forma-se uma solução neutra, ácida ou básica? Justifique sua resposta por meio de equações químicas balanceadas.</p>
+        </part>
+        <part>
+          <p>A solução aquosa desse tira-manchas (incolor) descora rapidamente uma solução aquosa de iodo (marrom). Com base nos potenciais-padrão de redução indicados, escreva a equação química que representa essa transformação.</p>
+        </part>
+        <part>
+          <p>No experimento descrito no item b, o peróxido de hidrogênio atua como oxidante ou como redutor? Justifique. Semi-reação de redução θ redução E / volt H2O2 (aq) + 2H+ (aq) + 2e- 2H2O (l) 1,77 I2 (s) + 2e- 2I- (aq) 0,54 O2 (g) + 2H2O (l) + 2e- H2O2 (aq) + 2OH- (aq) -0,15</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Define-se balanço de oxigênio de um explosivo, expresso em percentagem, como a massa de oxigênio faltante (sinal negativo) ou em excesso (sinal positivo), desse explosivo, para transformar todo o carbono, se houver, em gás carbônico e todo o hidrogênio, se houver, em água, dividida pela massa molar do explosivo e multiplicada por 100. O gráfico ao lado traz o calor liberado na decomposição de diversos explosivos, em função de seu balanço de oxigênio.</p>
+        <p>Um desses explosivos é o tetranitrato de pentaeritritol (PETN, C5H8N4O12). A equação química da decomposição desse explosivo pode ser obtida, seguindo-se as seguintes regras: - Átomos de carbono são convertidos em monóxido de carbono. - Se sobrar oxigênio, hidrogênio é convertido em água. - Se ainda sobrar oxigênio, monóxido de carbono é convertido em dióxido de carbono. - Todo o nitrogênio é convertido em nitrogênio gasoso diatômico.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química balanceada para a decomposição do PETN.</p>
+        </part>
+        <part>
+          <p>Calcule, para o PETN, o balanço de oxigênio.</p>
+        </part>
+        <part>
+          <p>Calcule o ∆H de decomposição do PETN, utilizando as entalpias de formação das substâncias envolvidas nessa transformação.</p>
+        </part>
+        <part>
+          <p>Que conclusão é possível tirar, do gráfico apresentado, relacionando calor liberado na decomposição de um explosivo e seu balanço de oxigênio? Substância O PETN Substância PETN(s) CO2 (g) CO (g) H2O (g) massa molar / g mol -1 16 316 Entalpia de formação kJ mol -1 -538 -394 -110 -242</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

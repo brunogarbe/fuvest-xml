@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2006" phase="discursive" day="0" variation="V1" date="2006-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Géographie 2e, Hachette, 2000.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Analise os momentos I e II da charge do continente africano.</p>
+        </part>
+        <part>
+          <p>Como os momentos I e II podem ser caracterizados na África do Sul?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Qual é o papel da ONU</p>
+      </statement>
+      <parts>
+        <part>
+          <p>na resolução de conflitos sócio–econômicos mundiais? Dê um exemplo.</p>
+        </part>
+        <part>
+          <p>no controle da expansão do uso da tecnologia nuclear? Dê um exemplo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p>Segundo o documento Avaliação Ecossistêmica do Milênio (ONU, 2005), resultado de pesquisas de 1350 cientistas de 95 países, o mundo caminha para um colapso ambiental. O trabalho concluiu que o maior problema da degradação ambiental não é o crescimento populacional.</p>
+        <p>Explique as duas afirmações, considerando a exploração florestal e mineral. Dê exemplos.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Responda a partir do gráfico:</p>
+        <p>Banco Mundial e OCDE, 2005.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual desses países teve mais gastos militares em relação ao PIB, em 2003? Justifique.</p>
+        </part>
+        <part>
+          <p>Qual país repassou mais recursos, em relação ao PIB, a países pobres em 2003? Justifique.</p>
+        </part>
+        <part>
+          <p>Relacione a busca de paz mundial aos dados da tabela.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nos últimos anos, dois tipos de eventos naturais de alta magnitude chegaram a atingir um grande número de pessoas e regiões costeiras no globo. Um deles ocorreu na Ásia, em dezembro de 2004, e o outro tipo, mais freqüente, no sul dos Estados Unidos, no 2º semestre de 2005.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique esses dois tipos de eventos e compare-os quanto às suas causas e efeitos.</p>
+        </part>
+        <part>
+          <p>A partir dos casos referidos, escolha um deles como exemplo e avalie a importância das ações governamentais na prevenção de seus efeitos catastróficos, bem como os diferentes tipos de assistência prestados à população.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere o mapa e as figuras.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique por que a localização geográfica da área urbana da metrópole de São Paulo amplia os conflitos de uso da água.</p>
+        </part>
+        <part>
+          <p>Caracterize a situação de abastecimento de água na região metropolitana de São Paulo, levando em consideração a demanda e os recursos disponíveis.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O mapa distingue áreas onde predominam dois tipos de turismo no Brasil.</p>
+        <p>Simielli, 2004.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique os tipos.</p>
+        </part>
+        <part>
+          <p>Cite um exemplo de cada tipo e explique suas ocorrências.</p>
+        </part>
+        <part>
+          <p>Aponte e explique um impacto sócio-ambiental de cada exemplo citado.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o mapa. Foco original da febre aftosa no Brasil. (segundo semestre de 2005)</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique o estado da federação brasileira em que apareceu recentemente o foco original da aftosa. Indique e explique duas possíveis causas do aparecimento desse foco.</p>
+        </part>
+        <part>
+          <p>Aponte conseqüências sócio-econômicas, uma interna e outra externa, que tenham resultado dessa ocorrência. Fundamente sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>IBGE, 2001.</p>
+        <p>IBGE, 2002.</p>
+        <p>Santos, 2001.</p>
+        <p>A partir dos mapas,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>comente os critérios utilizados para o estabelecimento de cada uma das três regionalizações do Brasil.</p>
+        </part>
+        <part>
+          <p>compare as regiões Sudeste, Centro-Sul e a Região Concentrada quanto à industrialização.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Desenho de Percy Lau. IBGE, 1970.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique a formação vegetal representada e sua área de ocorrência original.</p>
+        </part>
+        <part>
+          <p>Considerando ao menos um fator de ordem física, explique por que essa formação tem ocorrências fora de sua área nuclear.</p>
+        </part>
+        <part>
+          <p>Identifique três das principais atividades econômicas que promoveram a substituição de tal formação vegetal.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

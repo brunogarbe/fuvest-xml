@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2018" phase="objective" day="0" variation="V1" date="2018-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Os lados de um triângulo de vértices A, B e C medem AB = 3 cm, BC = 7 cm e CA = 8 cm. A circunferência inscrita no triângulo tangencia o lado AB no ponto N e o lado CA no ponto K. Então, o comprimento do segmento NK, em cm, é A ( ) 2. D ( ) 2 √ 3. B ( ) 2 √ 2. E ( ) 7 2. C ( ) 3.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Se x é um número real que satisfaz x3 = x + 2, então x10 é igual a A ( ) 5x2 + 7x + 9. D ( ) 7x2 + 5x + 9. B ( ) 3x2 + 6x + 8. E ( ) 9x2 + 3x + 10. C ( ) 13x2 + 16x + 12.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Sejam a e b números inteiros positivos. Se a e b são, nessa ordem, termos consecutivos de uma progressão geométrica de razão 1 2 e o termo independente de ax − b √x 12 é igual a 7920, então a + b é A ( ) 2. B ( ) 3. C ( ) 4. D ( ) 5. E ( ) 6.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Considere as funções f, g : R →R dadas por f(x) = ax + b e g(x) = cx + d, com a, b, c, d ∈R, a̸ = 0 e c̸ = 0. Se f −1 ◦g−1 = g−1 ◦f −1, então uma relação entre as constantes a, b, c e d é dada por A ( ) b + ad = d + bc. D ( ) b + ac = d + ba. B ( ) d + ba = c + db. E ( ) c + da = b + cd. C ( ) a + db = b + cd.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Sejam x1, . . . , x5 e y1, . . . , y5 números reais arbitrários e A = (aij) uma matriz 5 × 5 denida por aij = xi + yj, 1 ≤i, j ≤5. Se r é a característica da matriz A, então o maior valor possível de r é A ( ) 1. B ( ) 2. C ( ) 3. D ( ) 4. E ( ) 5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Sobre duas retas paralelas r e s são tomados 13 pontos, m pontos em r e n pontos em s, sendo m &gt; n. Com os pontos são formados todos os triângulos e quadriláteros convexos possíveis. Sabe-se que o quociente entre o número de quadriláteros e o número de triângulos é 15/11. Então, os valores de n e m são, respectivamente, A ( ) 2 e 11. B ( ) 3 e 10. C ( ) 4 e 9. D ( ) 5 e 8. E ( ) 6 e 7.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Considere a denição: duas circunferências são ortogonais quando se interceptam em dois pontos distintos e nesses pontos suas tangentes são perpendiculares. Com relação às circunferências C1 : x2 + (y + 4)2 = 7, C2 : x2 + y2 = 9 e C3 : (x −5)2 + y2 = 16, podemos armar que A ( ) somente C1 e C2 são ortogonais. B ( ) somente C1 e C3 são ortogonais. C ( ) C2 é ortogonal a C1 e a C3. D ( ) C1, C2 e C3 são ortogonais duas a duas. E ( ) não há ortogonalidade entre as circunferências.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. As raízes do polinômio 1 + z + z2 + z3 + z4 + z5 + z6 + z7, quando representadas no plano complexo, formam os vértices de um polígono convexo cuja área é A ( ) √ 2 −1 2 . D ( ) 3 √ 2 + 1 2 . B ( ) √ 2 + 1 2 . E ( ) 3 √ 2. C ( ) √ 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Se log2 π = a e log5 π = b, então A ( ) 1 a + 1 b ≤1 2. D ( ) 3 2 &lt; 1 a + 1 b ≤2. B ( ) 1 2 &lt; 1 a + 1 b ≤1. E ( ) 2 &lt; 1 a + 1 b. C ( ) 1 &lt; 1 a + 1 b ≤3 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. O lugar geométrico das soluções da equação x2 + bx + 1 = 0, quando |b| &lt; 2, b ∈R, é representado no plano complexo por A ( ) dois pontos. C ( ) uma circunferência menos dois pontos. E ( ) uma circunferência. B ( ) um segmento de reta. D ( ) uma circunferência menos um ponto.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Em um triângulo de vértices A, B e C são dados ˆB = π/2, ˆC = π/3 e o lado BC = 1 cm. Se o lado AB é o diâmetro de uma circunferência, então a área da parte do triângulo ABC externa à circunferência, em cm2, é A ( ) π 8 −3 √ 3 16 . D ( ) 5 √ 3 16 −π 8 . B ( ) 5 √ 3 4 −π 2 . E ( ) 5π 8 −3 √ 3 16 . C ( ) 5π 8 −3 √ 3 4 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Com relação à equação tg3x −3tgx 1 −3tg2x + 1 = 0, podemos armar que A ( ) no intervalo i −π 2 , π 2 h a soma das soluções é igual a 0. B ( ) no intervalo i −π 2 , π 2 h a soma das soluções é maior que 0. C ( ) a equação admite apenas uma solução real. D ( ) existe uma única solução no intervalo h 0, π 2 i . E ( ) existem duas soluções no intervalo i −π 2 , 0 i .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Sejam A e B matrizes quadradas n×n tais que A+B = A·B e In a matriz identidade n × n. Das armações: I. In −B é inversível; II. In −A é inversível; III. A · B = B · A. é (são) verdadeira(s) A ( ) Somente I. D ( ) Somente I e II. B ( ) Somente II. E ( ) Todas. C ( ) Somente III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Se o sistema    x + y + z = 0 2a2y + (2a4 −a)z = 0 x + ay + (a3 −1)z = 0 admite innitas soluções, então os possíveis valores do parâmetro a são A ( ) 0, −1, −1 − √ 3 2 , −1 + √ 3 2 . C ( ) 0, −1, −1 + √ 3 2 , 1 + √ 3 2 . E ( ) 0, −1, 1 − √ 3, 1 + √ 3. B ( ) 0, −1, 1 − √ 3 2 , 1 + √ 3 2 . D ( ) 0, −1, −1 − √ 3, −1 + √ 3.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Considere a matriz   1 x x2 x3 1 2 3 4 −1 3 4 5 −2 2 1 1  , x ∈R. Se o polinômio p(x) é dado por p(x) = detA, então o produto das raízes de p(x) é A ( ) 1 2. B ( ) 1 3. C ( ) 1 5. D ( ) 1 7. E ( ) 1 11.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Considere a classicação: dois vértices de um paralelepípedo são não adjacentes quando não pertencem à mesma aresta. Um tetraedro é formado por vértices não adjacentes de um paralelepípedo de arestas 3 cm, 4 cm e 5 cm. Se o tetraedro tem suas arestas opostas de mesmo comprimento, então o volume do tetraedro é, em cm3: A ( ) 10. B ( ) 12. C ( ) 15. D ( ) 20. E ( ) 30.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Os triângulos equiláteros ABC e ABD têm lado comum AB. Seja M o ponto médio de AB e N o ponto médio de CD. Se MN = CN = 2 cm, então a altura relativa ao lado CD do triângulo ACD mede, em cm, A ( ) √ 60 3 . B ( ) √ 50 3 . C ( ) √ 40 3 . D ( ) √ 30 3 . E ( ) 2 √ 6 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Uma progressão aritmética (a1, a2, . . . , an) satisfaz a propriedade: para cada n ∈N, a soma da progressão é igual a 2n2 + 5n. Nessas condições, o determinante da matriz   a1 a2 a3 a4 a5 a6 a7 + 2 a8 a9  é A ( ) −96. B ( ) −85. C ( ) 63. D ( ) 99. E ( ) 115.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. São dadas duas caixas, uma delas contém três bolas brancas e duas pretas e a outra contém duas bolas brancas e uma preta. Retira-se, ao acaso, uma bola de cada caixa. Se P1 é a probabilidade de que pelo menos uma bola seja preta e P2 a probabilidade de as duas bolas serem da mesma cor, então P1 + P2 vale A ( ) 8 15. B ( ) 7 15. C ( ) 6 15. D ( ) 1. E ( ) 17 15.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Para que o sistema x + y = 1 x3 + y3 = c2 admita apenas soluções reais, todos os valores reais de c pertencem ao conjunto A ( ) −∞, −1 4 . D ( ) 1 2, ∞ . B ( ) −∞, −1 4 ∪ 1 4, ∞ . E ( ) −∞, −1 2 ∪ 1 2, ∞ . C ( ) −1 2, −1 4 . AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Um poliedro convexo tem faces triangulares e quadrangulares. Sabe-se que o número de arestas, o número de faces triangulares e o número de faces quadrangulares formam, nessa ordem, uma progressão aritmética de razão −5. Determine o número de vértices do poliedro.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Encontre o conjunto solução S ⊂R da inequação exponencial: 3x−2 + 4 X k=1 3x+k ≤1081 18 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. No plano cartesiano são dadas as circunferências C1 : x2+y2 = 1 e C2 : (x−4)2+y2 = 4. Determine o centro e o raio de uma circunferência C tangente simultaneamente a C1 e C2, passando pelo ponto A = (3, √ 3).</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja z = cos π 7 + isenπ 7 . Pedem-se:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Use a propriedade zk = cos kπ 7 + isenkπ 7 , k ∈N, para expressar cos π 7 , cos 3π 7 e cos 5π 7 em função de z.</p>
+        </part>
+        <part>
+          <p>Determine inteiros a e b tais que a b = cos π 7 + cos 3π 7 + cos 5π 7 .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Uma reta r separa um plano π em dois semiplanos π1 e π2. Considere pontos A e B tais que A ∈π1 e B ∈π2 de modo que d(A, r) = 3, d(B, r) = 6 e d(A, B) = 15. Uma circunferência contida em π passa pelos pontos A e B e encontra r nos pontos M e N. Determine a menor distância possível entre os pontos M e N.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. De uma caixa que contém 10 bolas brancas e 6 bolas pretas, são selecionadas ao acaso k bolas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual a probabilidade de que exatamente r bolas sejam brancas, nas condições 0 ≤k −r ≤6 e 0 ≤k ≤10.</p>
+        </part>
+        <part>
+          <p>Use o item (a) para calcular a soma 6 X r=0 10 r 6 6 −r .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Quantos pares de números inteiros positivos (A, B) existem cujo mínimo múltiplo comum é 126 × 103? Para efeito de contagem, considerar (A, B) ≡(B, A).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. A aresta lateral de uma pirâmide reta de base quadrada mede 13 cm e a área do círculo inscrito na base mede 25π 2 cm2. Dois planos, π1 e π2, paralelos à base, decompõem a pirâmide em três sólidos de mesmo volume. Determine a altura de cada um desses sólidos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Seja p(x) um polinômio não nulo. Se x3 −4x2 + 5x −2 e x3 −5x2 + 8x −4 são divisores de p(x), determine o menor grau possível de p(x).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. No plano cartesiano são dados o ponto P = (0, 3) e o triângulo de vértices A = (0, 0), B = (3, 0) e C = (3, 2). Determine um ponto N sobre o eixo dos x de modo que a reta que passa por P e N divida o triângulo ABC em duas regiões de mesma área.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

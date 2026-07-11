@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2022" phase="discursive" day="0" variation="V1" date="2022-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Seja x ∈R. Considere um retângulo R de lados medindo a = 9x2−5x4 e b = 8x−8x3. Sabendo que o perímetro de R é 8 determine a e b. 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Seja z ∈C e denote por ℑ(z) a parte imaginária de z. Determine todos os possíveis z ∈C com ℑ(z)̸ = 0 tais que temos simultaneamente ℑ(z3) = 0 e ℑ((1 + z)3) = 0. 3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Seja A a matriz com 5 linhas e 10 colunas cujas entradas an,m são dadas por an,m = ( 1, se m = 1 n + an,(m−1), se m &gt; 1 . Determine a soma de todas as entradas de A. 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. No jogo da velha, dois jogadores competem em um tabuleiro ordenado formado por 3 linhas e 3 colunas. Os jogadores se alternam marcando uma casa ainda não ocupada até que um deles ocupe toda uma linha, coluna ou diagonal, sendo declarado o vencedor. Quantas conﬁgurações diferentes do tabuleiro correspondem à vitória do primeiro jogador na sua terceira jogada? 5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Considere arccos : [−1, 1] →[0, π] e arcsen : [−1, 1] →[−π/2, π/2]. Determine todos os valores de arccos(x) dado que x satisfaz arccos(x4) + arcsen (x2 −1/4) = π/2. 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Seja A = (0, 1). Considere a reta r de equação y = 1 −x/4 e seja s uma reta passando pela origem O e que intersecta r no 1º quadrante em um ponto P. Determine o ponto Q do 2º quadrante que pertence a r e dista √ 2 de s sabendo que A ˆPO = θ e que tan(θ) = 5 3. 7</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Considere T um tronco de pirâmide regular de altura h = 4 + 2 √ 3 com bases hexagonais paralelas. Sabendo que o lado da maior base hexagonal mede 8 √ 3/3 e que o ângulo diedral entre as faces laterais e a base do tronco mede 75o, determine o volume de T. 8</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Seja Q um quadrilátero de vértices A, B, C e D cujos lados satisfazem m(AB) = 5 = m(CD), m(BC) = 3 e m(DA) = 8. Sabendo que Q é inscrito em uma circunferência de raio r, determine r. 9</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Sejam P1 = (0, 6), P2 = (1, 5) e P3 = (2, 6) e sejam C1, C2 e C3 circunferências centradas em P1, P2 e P3, respectivamente. Sabendo que existe uma reta horizontal que é tangente a C1, C2 e C3 determine C1 ∩C2 ∩C3 quando este não for vazio. 10</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Considere um octaedro regular de aresta de comprimento l1. Inscreva nesse octaedro um cubo cujos vértices estão nos baricentros das faces do octaedro. Dentro desse cubo inscreva um novo octaedro regular de aresta de comprimento l2 cujos vértices estão nos centros das faces do cubo. Continue com esse processo obtendo uma sequência li para i ∈N. Determine então o valor da razão l10/l1. 11</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

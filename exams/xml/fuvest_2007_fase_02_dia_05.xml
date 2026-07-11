@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2007" phase="discursive" day="0" variation="V1" date="2007-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>Se Amélia der R$ 3,00 a Lúcia, então ambas ficarão com a mesma quantia. Se Maria der um terço do que tem a Lúcia, então esta ficará com R$ 6,00 a mais do que Amélia. Se Amélia perder a metade do que tem, ficará com uma quantia igual a um terço do que possui Maria. Quanto possui cada uma das meninas Amélia, Lúcia e Maria?</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura abaixo, os segmentos AB e CD são paralelos, o ângulo B Aˆ O mede 120o, 3 AO = e 2 AB = . Sabendo-se ainda que a área do triângulo OCD vale 3 600 ,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>calcule a área do triângulo OAB.</p>
+        </part>
+        <part>
+          <p>determine OC e CD.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma progressão aritmética a1, a2, ..., an, ... a soma dos n primeiros termos é dada por n bn S 2 n + = , sendo b um número real. Sabendo-se que 7 a3 = , determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o valor de b e a razão da progressão aritmética.</p>
+        </part>
+        <part>
+          <p>o 20o termo da progressão.</p>
+        </part>
+        <part>
+          <p>a soma dos 20 primeiros termos da progressão.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura representa um trapézio ABCD de bases AB e CD , inscrito em uma circunferência cujo centro O está no interior do trapézio. Sabe-se que AB = 4, CD = 2 e 2 3 AC = .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a altura do trapézio.</p>
+        </part>
+        <part>
+          <p>Calcule o raio da circunferência na qual ele está inscrito.</p>
+        </part>
+        <part>
+          <p>Calcule a área da região exterior ao trapézio e delimitada pela circunferência.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p>Um arco x está no terceiro quadrante do círculo trigonométrico e verifica a equação 4 3senx 5cos2x = + .</p>
+        <p>Determine os valores de senx e cosx.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura ao lado, os pontos A1, A2, A3, A4, A5, A6 são vértices de um hexágono regular de lado 3 com centro na origem O de um sistema de coordenadas no plano. Os vértices A1 e A4 pertencem ao eixo x. São dados também os pontos ) 0 , 2 ( B = e )1 , 0 ( C = . Considere a reta que passa pela origem O e intersecta o segmento BC no ponto P, de modo que os triângulos OPB e OPC tenham a mesma área. Nessas condições, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a equação da reta OP .</p>
+        </part>
+        <part>
+          <p>os pontos de interseção da reta OP com o hexágono.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma urna contém 5 bolas brancas e 3 bolas pretas. Três bolas são retiradas ao acaso, sucessivamente, sem reposição. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a probabilidade de que tenham sido retiradas 2 bolas pretas e 1 bola branca.</p>
+        </part>
+        <part>
+          <p>a probabilidade de que tenham sido retiradas 2 bolas pretas e 1 bola branca, sabendo-se que as três bolas retiradas não são da mesma cor.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="08">
+      <statement>
+        <p>Um castelo está cercado por uma vala cujas bordas são dois círculos concêntricos de raios 41 m e 45 m. A profundidade da vala é constante e igual a 3 m.</p>
+        <p>O proprietário decidiu enchê-la com água e, para este fim, contratou caminhões-pipa, cujos reservatórios são cilindros circulares retos com raio da base de 1,5 m e altura igual a 8 m. Determine o número mínimo de caminhões-pipa necessário para encher completamente a vala.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Represente, no sistema de coordenadas desenhado na folha de respostas ao lado, os gráficos das funções 2 7 x g(x) e x 4 f(x) 2 + = − = .</p>
+        </part>
+        <part>
+          <p>Resolva a inequação 2 7 x x 4 2 + ≤ − .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O cubo ABCDEFGH possui arestas de comprimento a. O ponto M está na aresta AE e ME 3</p>
+        <p>AM ⋅ = . Calcule:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O volume do tetraedro BCGM.</p>
+        </part>
+        <part>
+          <p>A área do triângulo BCM.</p>
+        </part>
+        <part>
+          <p>A distância do ponto B à reta suporte do segmento CM .</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2005" phase="discursive" day="0" variation="V1" date="2005-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nas últimas décadas, em Davos, na Suíça, vem ocorrendo anualmente um dos mais importantes eventos sobre a economia mundial. Participam dele especialistas, empresários e governantes que se dedicam a discussão e proposição de metas econômico-financeiras para o planeta. No final da década de 1990, diversas entidades não-governamentais de vários países associaram-se para se contrapor às resoluções de Davos, criando um outro tipo de evento global, que também vem sendo realizado anualmente desde 2001.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique os eventos citados.</p>
+        </part>
+        <part>
+          <p>Caracterize o evento de contraposição mencionado quanto a seus objetivos e participantes.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Fonte: McKnight, 1996.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique o relevo submarino, apontado pela flecha negra, na ilustração.</p>
+        </part>
+        <part>
+          <p>Explique sua formação, considerando a dinâmica da crosta terrestre.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p>Em setembro de 2004, a tomada de uma escola em Ossétia do Norte, na cidade de Beslan, por terroristas tchetchenos, e a violenta reação russa provocaram centenas de mortes e feridos além de uma grande indignação mundial.</p>
+        <p>Explique o conflito da Tchetchênia, contextualizando geograficamente seu território (aspectos físicos e sócioeconômicos).</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A base de dados climatológicos e os modelos de previsão meteorológica atualmente existentes podem ser considerados conhecimentos com valor geopolítico e econômico para nações e corporações.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique como é possível, hoje, realizar previsões meteorológicas com alto nível de precisão.</p>
+        </part>
+        <part>
+          <p>Explique a importância dessas previsões para nações e corporações.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe a figura e leia a frase:</p>
+        <p>“O Brasil e a China acabam de ficar mais próximos”.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique as características econômicas da China atual.</p>
+        </part>
+        <part>
+          <p>Quais os interesses do Brasil em se aproximar da China?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Trata-se de um conjunto de atividades econômicas que inclui a produção do campo em que a biotecnologia tem um papel fundamental. Também estão compreendidas atividades nas quais matérias-primas animais e vegetais são transformadas em produtos de maior valor agregado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique o assunto central do texto e cite duas localidades e dois produtos brasileiros em que a situação descrita se aplica.</p>
+        </part>
+        <part>
+          <p>Faça uma análise crítica do uso da biotecnologia nesse processo quanto a conseqüências ambientais e sociais.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Portos secos são recintos alfandegados de uso público, situados em zona secundária, nas quais são executadas operações de movimentação, armazenagem e despacho aduaneiro de mercadorias e de bagagens, sob responsabilidade da Secretaria da Receita Federal. Seu funcionamento tem permitido a interiorização desses serviços no país, antes realizados principalmente em portos e aeroportos”. Fonte: Adapt. Receita Federal, 2004.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite duas características geográficas do centro-oeste brasileiro que justifiquem a criação de um porto seco.</p>
+        </part>
+        <part>
+          <p>Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe os mapas:</p>
+        <p>Fonte: IBGE, 2003</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Descreva o avanço do desmatamento no período de 1950-2000, destacando as atividades econômicas predominantes.</p>
+        </part>
+        <part>
+          <p>Analise a participação do estado nesse processo, utilizando-se de exemplos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o mapa do Brasil: Domínios Morfoclimáticos</p>
+        <p>Fonte: AB’SABER, 1969.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique o domínio morfoclimático apontado no mapa.</p>
+        </part>
+        <part>
+          <p>Apresente duas de suas características que, associadas à ocupação no estado de São Paulo, desencadearam degradação ambiental. Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe os mapas do município de São Paulo.</p>
+        <p>Fonte: Adapt. Cepid-Fapesp / CEM – Cebrap, 2004.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Associe as informações dos mapas A e B.</p>
+        </part>
+        <part>
+          <p>Associe as informações dos mapas B e C. Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2011" phase="objective" day="0" variation="V1" date="2011-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Dado z = 1 2(−1 + √ 3 i), então 89 n=1 zn é igual a A ( ) −89 2 √ 3 i. B ( ) −1. C ( ) 0. D ( ) 1. E ( ) 89 6 √ 3 i.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Das aﬁrmações abaixo sobre números complexos z1 e z2 : I − | z1 −z2| ≤| | z1| −| z2| | . II − | z1.z2| = | | z2| . | z2| | . III − Se z1 = | z1| (cos θ + i sen θ)̸ = 0, então z−1 1 = | z1|−1 (cos θ −i sen θ). é(são) sempre verdadeira(s) A ( ) apenas I. B ( ) apenas II. C ( ) apenas III. D ( ) apenas II e III. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. A soma de todas as soluções da equação em C : z2 + |z|2 + i z −1 = 0 é igual a A ( ) 2. B ( ) i 2. C ( ) 0. D ( ) −1 2. E ( ) −2 i. 1</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Numa caixa com 40 moedas, 5 apresentam duas caras, 10 são normais (cara e coroa) e as demais apresentam duas coroas. Uma moeda é retirada ao acaso e a face observada mostra uma coroa. A probabilidade de a outra face desta moeda também apresentar uma coroa é A ( ) 7 8. B ( ) 5 7. C ( ) 5 8. D ( ) 3 5. E ( ) 3 7.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Sejam A e B conjuntos ﬁnitos e não vazios tais que A ⊂B e n({C : C ⊂B ∖A}) = 128. Então, das aﬁrmações abaixo: I − n(B) −n(A) é único; II − n(B) + n(A) ≤128; III − a dupla ordenada (n(A), n(B)) é única; é(são) verdadeira(s) A ( ) apenas I. B ( ) apenas II. C ( ) apenas III. D ( ) apenas I e II. E ( ) nenhuma.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. O sistema    x + 2y + 3z = a y + 2z = b 3x −y −5c z = 0 A ( ) é possível, ∀a, b, c ∈R. B ( ) é possível quando a = 7 b 3 ou c̸ = 1. C ( ) é impossível quando c = 1, ∀a, b ∈R. D ( ) é impossível quando a̸ = 7 b 3 , ∀c ∈R. E ( ) é possível quando c = 1 e a̸ = 7 b 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Considere as aﬁrmações abaixo: I − Se M é uma matriz quadrada de ordem n &gt; 1, não-nula e não-inversível, então existe matriz não-nula N, de mesma ordem, tal que MN é matriz nula. II − Se M é uma matriz quadrada inversível de ordem n tal que det(M2 −M) = 0, então existe matriz não-nula X, de ordem n × 1, tal que MX = X. III − A matriz   cos θ −sen θ tg θ sec θ 1 −2 sen2 θ 2  é inversível, ∀θ̸ = π 2 + kπ, k ∈Z. Destas, é(são) verdadeira(s) A ( ) apenas II. B ( ) apenas I e II. C ( ) apenas I e III. D ( ) apenas II e III. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Se 1 é uma raiz de multiplicidade 2 da equação x4 + x2 + ax + b = 0, com a, b ∈R, então a2 −b3 é igual a A ( ) −64. B ( ) −36. C ( ) −28. D ( ) 18. E ( ) 27. 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. O produto das raízes reais da equação |x2 −3x + 2| = |2x −3| é igual a A ( ) −5. B ( ) −1. C ( ) 1. D ( ) 2. E ( ) 5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Considere a equação algébrica 3 k=1 (x −ak)4−k = 0. Sabendo que x = 0 é uma das raízes e que (a1, a2, a3) é uma progressão geométrica com a1 = 2 e soma 6, pode-se aﬁrmar que A ( ) a soma de todas as raízes é 5. B ( ) o produto de todas as raízes é 21. C ( ) a única raiz real é maior que zero. D ( ) a soma das raízes não reais é 10. E ( ) todas as raízes são reais.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. A expressão 4e2x + 9e2y −16ex −54ey + 61 = 0, com x e y reais, representa A ( ) o conjunto vazio. B ( ) um conjunto unitário. C ( ) um conjunto não-unitário com um número ﬁnito de pontos. D ( ) um conjunto com um número inﬁnito de pontos. E ( ) o conjunto {(x, y) ∈R2 | 2(ex −2)2 + 3(ey −3)2 = 1} .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Com respeito à equação polinomial 2x4 −3x3 −3x2 +6x−2 = 0 é correto aﬁrmar que A ( ) todas as raízes estão em Q. B ( ) uma única raiz está em Z e as demais estão em Q ∖Z. C ( ) duas raízes estão em Q e as demais têm parte imaginária não-nula. D ( ) não é divisível por 2x −1. E ( ) uma única raiz está em Q ∖Z e pelo menos uma das demais está em R ∖Q.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Sejam m e n inteiros tais que m n = −2 3 e a equação 36x2 + 36y2 + mx + ny −23 = 0 representa uma circunferência de raio r = 1 cm e centro C localizado no segundo quadrante. Se A e B são os pontos onde a circunferência cruza o eixo Oy, a área do triângulo ABC, em cm2, é igual a A ( ) 8 √ 2 3 . B ( ) 4 √ 2 3 . C ( ) 2 √ 2 3 . D ( ) 2 √ 2 9 . E ( ) √ 2 9 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Entre duas superposições consecutivas dos ponteiros das horas e dos minutos de um relógio, o ponteiro dos minutos varre um ângulo cuja medida, em radianos, é igual a A ( ) 23 11π. B ( ) 13 6 π. C ( ) 24 11π. D ( ) 25 11π. E ( ) 7 3π.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Seja ABC um triângulo retângulo cujos catetos AB e BC medem 8 cm e 6 cm, respectivamente. Se D é um ponto sobre AB e o triângulo ADC é isósceles, a medida do segmento AD, em cm, é igual a A ( ) 3 4. B ( ) 15 6 . C ( ) 15 4 . D ( ) 25 4 . E ( ) 25 2 . 3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Sejam ABCD um quadrado e E um ponto sobre AB. Considere as áreas do quadrado ABCD, do trapézio BEDC e do triângulo ADE. Sabendo que estas áreas deﬁnem, na ordem em que estão apresentadas, uma progressão aritmética cuja soma é 200 cm2, a medida do segmento AE , em cm, é igual a A ( ) 10 3 . B ( ) 5. C ( ) 20 3 . D ( ) 25 3 . E ( ) 10.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Num triângulo ABC o lado AB mede 2 cm, a altura relativa ao lado AB mede 1 cm, o ângulo A ∧ BC mede 1350 e M é o ponto médio de AB. Então a medida de B ∧ AC + B ∧ MC, em radianos, é igual a A ( ) 1 5π. B ( ) 1 4π. C ( ) 1 3π. D ( ) 3 8π. E ( ) 2 5π.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Um triângulo ABC está inscrito numa circunferência de raio 5 cm. Sabe-se ainda que AB é o diâmetro, BC mede 6 cm e a bissetriz do ângulo A ∧ BC intercepta a circunferência no ponto D. Se α é a soma das áreas dos triângulos ABC e ABD e β é a área comum aos dois, o valor de α −2β, em cm2, é igual a A ( ) 14. B ( ) 15. C ( ) 16. D ( ) 17. E ( ) 18.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Uma esfera está inscrita em uma pirâmide regular hexagonal cuja altura mede 12 cm e a aresta da base mede 10 3 √ 3 cm. Então o raio da esfera, em cm, é igual a A ( ) 10 3 √ 3. B ( ) 13 3 . C ( ) 15 4 . D ( ) 2 √ 3. E ( ) 10 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Considere as aﬁrmações: I − Existe um triedro cujas 3 faces têm a mesma medida a = 1200. II − Existe um ângulo poliédrico convexo cujas faces medem, respectivamente, 300, 450, 500, 500 e 1700. III − Um poliedro convexo que tem 3 faces triangulares, 1 face quadrangular, 1 face pentagonal e 2 faces hexagonais tem 9 vértices. IV − A soma das medidas de todas as faces de um poliedro convexo com 10 vértices é 28800. Destas, é(são) correta(s) apenas A ( ) II. B ( ) IV. C ( ) II e IV. D ( ) I, II e IV. E ( ) II, III e IV. AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E REPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Analise a existência de conjuntos A e B, ambos não-vazios, tais que (A∖B)∪(B∖A) = A.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Sejam n ≥3 ímpar, z ∈C ∖{0} e z1, z2, ..., zn as raízes de zn = 1. Calcule o número de valores |zi −zj| , i, j = 1, 2, ..., n, com i̸ = j, distintos entre si. 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Sobre uma mesa estão dispostos 5 livros de história, 4 de biologia e 2 de espanhol. Determine a probabilidade de os livros serem empilhados sobre a mesa de tal forma que aqueles que tratam do mesmo assunto estejam juntos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Resolva a inequação em R: 16 &lt; 1 4</p>
+        <p>log 1 5 ( x2 −x +19 ).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Determine todas as matrizes M ∈M2 × 2(R) tais que MN = NM, ∀N ∈M2 × 2(R).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Determine todos os valores de m ∈R tais que a equação (2−m) x2+2m x+m+2 = 0 tenha duas raízes reais distintas e maiores que zero.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Considere uma esfera Ωcom centro em C e raio r = 6 cm e um plano Σ que dista 2 cm de C. Determine a área da intersecção do plano Σ com uma cunha esférica de 30◦em Ωque tenha aresta ortogonal a Σ.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule (cos2 π 5−sen2 π 5) cos π 10 −2 sen π 5 cos π 5 sen π 10.</p>
+        </part>
+        <part>
+          <p>Usando o resultado do item anterior, calcule sen π 10 cos π 5.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Num triângulo AOB o ângulo A ∧ OB mede 1350 e os lados AB e OB medem √ 2 cm e</p>
+        <p>2 − √ 3 cm, respectivamente. A circunferência de centro em O e raio igual à medida de OB intercepta AB no ponto C (̸= B).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Mostre que O ∧ AB mede 150.</p>
+        </part>
+        <part>
+          <p>Calcule o comprimento de AC.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere um triângulo equilátero cujo lado mede 2 √ 3 cm. No interior deste triângulo existem 4 círculos de mesmo raio r. O centro de um dos círculos coincide com o baricentro do triângulo. Este círculo tangencia externamente os demais e estes, por sua vez, tangenciam 2 lados do triângulo.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Determine o valor de r.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Calcule a área do triângulo não preenchida pelos círculos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Para cada círculo que tangencia o triângulo, determine a distância do centro ao vértice mais próximo. 5</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

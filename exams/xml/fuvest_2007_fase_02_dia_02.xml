@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2007" phase="discursive" day="0" variation="V1" date="2007-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De cima de um morro, um jovem assiste a uma exibição de fogos de artifício, cujas explosões ocorrem na mesma altitude em que ele se encontra. Para avaliar a que distância L os fogos explodem, verifica que o tempo decorrido entre ver uma explosão e ouvir o ruído correspondente é de 3 s. Além disso, esticando o braço, segura uma régua a 75 cm do próprio rosto e estima que o diâmetro D do círculo aparente, formado pela explosão, é de 3 cm. Finalmente, avalia que a altura H em que a explosão ocorre é de aproximadamente 2,5 vezes o diâmetro D dos fogos. Nessas condições, avalie</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a distância, L, em metros, entre os fogos e o observador.</p>
+        </part>
+        <part>
+          <p>o diâmetro D, em metros, da esfera formada pelos fogos.</p>
+        </part>
+        <part>
+          <p>a energia E, em joules, necessária para enviar o rojão até a altura da explosão, considerando que ele tenha massa constante de 0,3 kg.</p>
+        </part>
+        <part>
+          <p>a quantidade de pólvora Q, em gramas, necessária para lançar esse rojão a partir do solo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um carro de corrida, de massa M = 800 kg, percorre uma pista de provas plana, com velocidade constante V0 = 60 m/s. Nessa situação, observa-se que a potência desenvolvida pelo motor, P1 = 120 kW, é praticamente toda utilizada para vencer a resistência do ar (Situação 1, pista horizontal). Prosseguindo com os testes, faz-se o carro descer uma ladeira, com o motor desligado, de forma que mantenha a mesma velocidade V0 e que enfrente a mesma resistência do ar (Situação 2, inclinação α). Finalmente, faz-se o carro subir uma ladeira, com a mesma velocidade V0, sujeito à mesma resistência do ar (Situação 3, inclinação θ).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Estime, para a Situação 1, o valor da força de resistência do ar FR, em newtons, que age sobre o carro no sentido oposto a seu movimento.</p>
+        </part>
+        <part>
+          <p>Estime, para a Situação 2, o seno do ângulo de inclinação da ladeira, sen α, para que o carro mantenha a velocidade V0 = 60 m/s.</p>
+        </part>
+        <part>
+          <p>Estime, para a Situação 3, a potência P3 do motor, em kW, para que o carro suba uma ladeira de inclinação dada por sen θ = 0,3, mantendo a velocidade V0 = 60 m/s. NOTE E ADOTE 2 A combustão de 1 g de pólvora libera uma energia de 2000 J; apenas 1% da energia liberada na combustão é aproveitada no lançamento do rojão. NOTE E ADOTE 1 A velocidade do som, no ar, vsom ≈ 333 m/s. Despreze o tempo que a luz da explosão demora para chegar até o observador. NOTE E ADOTE Potência = Força x Velocidade Considere, nessas três situações, que apenas a resistência do ar dissipa energia.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma bola chutada horizontalmente de cima de uma laje, com velocidade V0, tem sua trajetória parcialmente registrada em uma foto, representada no desenho abaixo. A bola bate no chão, no ponto A, voltando a atingir o chão em B, em choques parcialmente inelásticos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Estime o tempo T, em s, que a bola leva até atingir o chão, no ponto A.</p>
+        </part>
+        <part>
+          <p>Calcule a distância D, em metros, entre os pontos A e B.</p>
+        </part>
+        <part>
+          <p>Determine o módulo da velocidade vertical da bola VA, em m/s, logo após seu impacto com o chão no ponto A.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma substância radioativa, cuja meia-vida é de aproximadamente 20 minutos, pode ser utilizada para medir o volume do sangue de um paciente. Para isso, são preparadas duas amostras, A e B, iguais, dessa substância, diluídas em soro, com volume de 10 cm3 cada. Uma dessas amostras, A, é injetada na circulação sanguínea do paciente e a outra, B, é mantida como controle. Imediatamente antes da injeção, as amostras são monitoradas, indicando NA1 = NB1 = 160 000 contagens por minuto. Após uma hora, é extraída uma amostra C de sangue do paciente, com igual volume de 10 cm3, e seu monitoramento indica NC = 40 contagens por minuto.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Estime o número NB2, em contagens por minuto, medido na amostra de controle B, uma hora após a primeira monitoração.</p>
+        </part>
+        <part>
+          <p>A partir da comparação entre as contagens NB2 e NC, estime o volume V, em litros, do sangue no sistema circulatório desse paciente. NOTE E ADOTE Nos choques, a velocidade horizontal da bola não é alterada. Desconsidere a resistência do ar, o atrito e os efeitos de rotação da bola. NOTE E ADOTE A meia vida é o intervalo de tempo após o qual o número de átomos radioativos presentes em uma amostra é reduzido à metade. Na monitoração de uma amostra, o número de contagens por intervalo de tempo é proporcional ao número de átomos radioativos presentes.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para medir a temperatura T0 do ar quente expelido, em baixa velocidade, por uma tubulação, um jovem utilizou uma garrafa cilíndrica vazia, com área da base S = 50 cm2 e altura H = 20 cm. Adaptando um suporte isolante na garrafa, ela foi suspensa sobre a tubulação por alguns minutos, para que o ar expelido ocupasse todo o seu volume e se estabelecesse o equilíbrio térmico a T0 (Situação 1). A garrafa foi, então, rapidamente colocada sobre um recipiente com água mantida à temperatura ambiente TA = 27° C. Ele observou que a água do recipiente subiu até uma altura h = 4 cm, dentro da garrafa, após o ar nela contido entrar em equilíbrio térmico com a água (Situação 2). Estime</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o volume VA, em cm3, do ar dentro da garrafa, após a entrada da água, na Situação 2.</p>
+        </part>
+        <part>
+          <p>a variação de pressão ΔP, em N/m2, do ar dentro da garrafa, entre as Situações 1 e 2.</p>
+        </part>
+        <part>
+          <p>a temperatura inicial T0, em °C, do ar da tubulação, desprezando a variação de pressão do ar dentro da garrafa.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma seta luminosa é formada por pequenas lâmpadas. Deseja-se projetar a imagem dessa seta, ampliada, sobre uma parede, de tal forma que seja mantido o sentido por ela indicado. Para isso, duas lentes convergentes, L1 e L2, são colocadas próximas uma da outra, entre a seta e a parede, como indicado no esquema abaixo. Para definir a posição e a característica da lente L2,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>determine, no esquema da folha de resposta, traçando as linhas de construção apropriadas, as imagens dos pontos A e B da seta, produzidas pela lente L1, cujos focos F1 estão sinalizados, indicando essas imagens por A1 e B1 respectivamente.</p>
+        </part>
+        <part>
+          <p>determine, no esquema da folha de resposta, traçando as linhas de construção apropriadas, a posição onde deve ser colocada a lente L2, indicando tal posição por uma linha vertical, com símbolo L2.</p>
+        </part>
+        <part>
+          <p>determine a distância focal f2 da lente L2, em cm, traçando os raios convenientes ou calculando-a. Escreva o resultado, no espaço assinalado, na folha de respostas. NOTE E ADOTE PV = nRT T (K) = T (°C) + 273</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma ilha distante, um equipamento eletrônico de monitoramento ambiental, que opera em 12 V e consome 240 W, é mantido ligado 20 h por dia. A energia é fornecida por um conjunto de N baterias ideais de 12 V. Essas baterias são carregadas por um gerador a diesel, G, através de uma resistência R de 0,2 Ω. Para evitar interferência no monitoramento, o gerador é ligado durante 4 h por dia, no período em que o equipamento permanece desligado. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a corrente I, em ampères, que alimenta o equipamento eletrônico C.</p>
+        </part>
+        <part>
+          <p>o número mínimo N, de baterias, necessário para manter o sistema, supondo que as baterias armazenem carga de 50 A·h cada uma.</p>
+        </part>
+        <part>
+          <p>a tensão V, em volts, que deve ser fornecida pelo gerador, para carregar as baterias em 4 h.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O plutônio (238Pu) é usado para a produção direta de energia elétrica em veículos espaciais. Isso é realizado em um gerador que possui duas placas metálicas, paralelas, isoladas e separadas por uma pequena distância D. Sobre uma das placas deposita-se uma fina camada de 238Pu, que produz 5×1014 desintegrações por segundo. O 238Pu se desintegra, liberando partículas alfa, ¼ das quais alcança a outra placa, onde são absorvidas. Nesse processo, as partículas alfa transportam uma carga positiva Q e deixam uma carga -Q na placa de onde saíram, gerando uma corrente elétrica entre as placas, usada para alimentar um dispositivo eletrônico, que se comporta como uma resistência elétrica R = 3,0×109 Ω. Estime</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a corrente I, em ampères, que se estabelece entre as placas.</p>
+        </part>
+        <part>
+          <p>a diferença de potencial V, em volts, que se estabelece entre as placas.</p>
+        </part>
+        <part>
+          <p>a potência elétrica PE, em watts, fornecida ao dispositivo eletrônico nessas condições. NOTE E ADOTE (1 ampère x 1 segundo = 1 coulomb) O parâmetro usado para caracterizar a carga de uma bateria, produto da corrente pelo tempo, é o ampère·hora (A·h). Suponha que a tensão da bateria permaneça constante até o final de sua carga. NOTE E ADOTE O 238Pu é um elemento radioativo, que decai naturalmente, emitindo uma partícula alfa (núcleo de 4He). Carga Q da partícula alfa = 2 × 1,6×10-19 C</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas bobinas iguais, B1 e B2, com seus eixos alinhados, são percorridas por uma mesma corrente elétrica e produzem um campo magnético uniforme no espaço entre elas. Nessa região, há uma espira, na qual, quando o campo magnético varia, é induzida uma força eletromotriz ε , medida pelo voltímetro. Quando a corrente I, que percorre as bobinas, varia em função do tempo, como representado no Gráfico A da folha de repostas, mede-se A ε = 1,0 V, para o instante t = 2 s. Para analisar esse sistema,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>construa, na folha de respostas, o gráfico RA, da variação de ε , em função do tempo, para o intervalo entre 0 e 6 s, quando a corrente I varia como no Gráfico A.</p>
+        </part>
+        <part>
+          <p>determine o valor de B ε para t = 2 s e construa o gráfico RB, da variação de ε , em função do tempo, para o intervalo entre 0 e 6 s, quando a corrente I varia como no Gráfico B.</p>
+        </part>
+        <part>
+          <p>determine o valor de C ε para t = 5 s e construa o gráfico RC, da variação de ε , em função do tempo, para o intervalo entre 0 e 6 s, quando a corrente I varia como no Gráfico C.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Recentemente Plutão foi “rebaixado”, perdendo sua classificação como planeta. Para avaliar os efeitos da gravidade em Plutão, considere suas características físicas, comparadas com as da Terra, que estão apresentadas, com valores aproximados, no quadro ao lado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o peso, na superfície de Plutão (PP), de uma massa que na superfície da Terra pesa 40 N (PT = 40 N).</p>
+        </part>
+        <part>
+          <p>Estime a altura máxima H, em metros, que uma bola, lançada verticalmente com velocidade V, atingiria em Plutão. Na Terra, essa mesma bola, lançada com a mesma velocidade, atinge uma altura hT = 1,5 m. Massa da Terra (MT) = 500 x Massa de Plutão (MP) Raio da Terra (RT) = 5 x Raio de Plutão (RP) NOTE E ADOTE: 2 R GMm F = Peso = mg NOTE E ADOTE A força eletromotriz induzida em uma espira é proporcional à variação temporal do fluxo do campo magnético em sua área.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,1392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="UNICAMP" year="2024" phase="objective" day="1" variation="V1" date="2024-01-01" lang="pt-br">
+  <question_group>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>‘Nevou’ no Rio Em pleno verão, o fenômeno que vem chamando atenção nas ruas do Rio é conhecido como “nevada carioca”, ou apenas “nevou”. Trata-se da mania de descolorir, platinando os cabelos até os fios ficarem completamente brancos, que tomou conta das cabeças dos jovens de Norte a Sul e virou a febre do mo­ mento. A onda começou às vésperas do Natal, ganhou força no réveillon e entrou em janeiro lotando os salões. Nascida nas comunidades e nos subúrbios, a tendência ultrapassou frontei­ ras geográficas e sociais da cidade, principalmente depois de ganhar as redes e de ter conquistado artistas e atletas. Cabe­ leireiros e donos de salão apostam que o modismo resiste com força até os dias de folia. (Adaptado de: https://oglobo.globo.com/rio/noticia/2023/01/nevou-no-rio-mania-de­ -descolorir-o-cabelo-ate-ficar-quase-branco-vira-moda-entre-os-cariocas.ghtml. Acesso em 22/06/2023.) No texto, o verbo nevar apresenta sentido</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>literal e é sinônimo de descolorir.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>figurado e quer dizer embranquecer.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>metafórico e é antônimo de escurecer.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>metonímico e significa cabelos brancos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Assinale a alternativa em que todas as palavras listadas têm um mesmo referente dentro do texto.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>fenômeno – onda – tendência – modismo</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>mania – onda – febre – força</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>fenômeno – momento – mania – febre</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>modismo – tendência – força – momento</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Texto 1 Vivemos no limiar de uma transição, em que a automação ocu­ pará cada vez mais espaços na sociedade. Neste novo cenário, há um componente atuando com desenvoltura entre nós. Suas ações e decisões, invisíveis e muitas vezes autônomas, estão cada vez mais presentes no dia a dia da vida contemporânea. Seu comportamento, no entanto, é opaco e pouco compreen­ dido. Trata-se dos algoritmos. São eles que, muitas vezes, deci­ dem se você é contratado ou demitido, se você vai ter acesso a um benefício social, se seu visto de imigração vai ser concedido ou negado, quais notícias você vai ver nas redes sociais, qual o melhor trajeto do trabalho para casa ou qual o parceiro mais apropriado para um relacionamento. (Adaptado de: MENDONÇA, R.F.; FIGUEIRAS, F.; ALMEIDA, V. Algoritmos controlam socie­ dade e tomam decisões de vida ou morte. Folha de S. Paulo, 7 abr. 2021.) Texto 2 (Quadrinhos com o personagem laranja e amarelo, que representa um algoritmo, da sé­ rie criada por André Dahmer. Disponível em: https://diplomatique.org.br/novas-tirinhas­ -de-andre-dahmer-transformam-algoritmo-em-personagem-intrometido/. Acesso em 28/07/2023.) A partir do texto 1, é possível afirmar que o texto 2 explora o fato de que os algoritmos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>definem o que é melhor ou mais apropriado para cada pes­ soa.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>são opacos porque aleatoriamente expõem às pessoas pro­ dutos para compra.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>se servem dos nossos dados para nos oferecer continua­ mente produtos a serem consumidos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>controlam a vida humana para aperfeiçoar as nossas toma­ das de decisão.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O anúncio (Texto 1) reproduzido a seguir foi postado nas redes sociais da Portela, escola de samba carioca, para divulgar uma festa literária. A escola, que traz a águia como símbolo em to­ dos os seus desfiles (Texto 2), completou 100 anos em 2023. Texto 1 Texto 2 (Disponível em: https://www.instagram.com/p/CrlVA_tOmAW/. Acesso em 24/06/2023.) (Águia da Portela no desfile de 2017. Foto: Ricardo Moraes/Reuters. 2017.) 2 Considerando a imagem no texto 2, podemos afirmar que o texto 1 promove uma</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>fusão entre o símbolo da escola e o produto da expressão literária, que aparece materializado no desenho das asas da águia.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>relação entre a festa literária, mencionada em segundo pla­ no, e o desenho do símbolo da escola, que passa a personi­ ficar a literatura.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>associação das asas da águia com o título atribuído à fes­ ta literária, que mostra o nome da escola antecedido pelo prefixo fli.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>ressignificação do símbolo da Portela, cujo desenho faz re­ ferência direta à arte literária, para destacar o centenário da escola como tema da festa.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O texto a seguir é um trecho da canção Pantanal, que foi tema de abertura da novela com o mesmo nome, exibida original­ mente pela TV Manchete em 1990 e regravada pela TV Globo em 2022. Lendas de raças, cidades perdidas nas selvas do coração do Bra­ sil. Contam os índios de deuses que descem do espaço no coração do Brasil. Redescobrindo as Américas quinhentos anos depois, Lutar com unhas e dentes pra termos direito a um depois. Fim do milênio, resgate da vida, do sonho, do bem. A terra é tão verde e azul. Os filhos dos filhos dos filhos dos nossos filhos verão. (Pantanal, letra de Marcus Viana, gravada pelo grupo Sagrado Coração da Terra na cole­ tânea em LP Sagrado – Farol da Liberdade, lançada em 1991 pelo selo Sonhos &amp; Sons.) Nesse trecho da canção, podemos identificar</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>repetição de advérbios que indicam as mesmas circunstân­ cias de tempo e de lugar, para produzir um efeito de redun­ dância a respeito da luta pela terra.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>indeterminação de sujeito com verbo na terceira pessoa do plural, para produzir um efeito de incerteza quanto ao papel das futuras gerações.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>atribuição de características positivas por meio de substanti­ vos que indicam cores, para produzir um efeito de otimismo na preservação da natureza.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>encadeamento sucessivo de termos ligados por preposição, para produzir um efeito de continuidade temporal quanto à condição do planeta.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>je ne parle pas bien* je ne parle pas bien je ne parle pas bien je ne parle pas bien eu tenho uma língua solta que não me deixa esquecer que cada palavra minha é resquício da colonização cada verbo que aprendi conjugar foi ensinado com a missão de me afastar de quem veio antes nossas escolas não nos ensinam a dar voos [...] reinvenção nossa revolução surge e urge das nossas bocas das falas aprendidas que são ensinadas e muitas não compreendidas salve, a cada gíria je ne parle pas bien [...] o que era pra ser arma de colonizador está virando revide de ex colonizado estamos aprendendo as suas línguas e descolonizando os pensamento * Je ne parle pas bien, do francês, significa “Eu não falo direi­ to”. Podemos afirmar que o uso repetido do verso Je ne parle pas bien no poema slam de Luz Ribeiro</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>expressa a necessidade de repetir muitas vezes uma mesma sentença como forma de resistir ao esquecimento de uma língua.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>enfatiza a ideia de que a língua francesa do colonizador ain­ da não foi aprendida e precisa ser repetida várias vezes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>é uma constatação de que, na posição de ex-colônia, não conseguimos aprender línguas estrangeiras.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>indica um posicionamento de resistência por meio de uma crítica à aprendizagem forçada da língua do colonizador.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Texto 1 “Que século, meus Deus! – exclamaram os ratos E começaram a roer o edifício”. (“Edifício Esplendor” (1955), de Carlos Drummond de Andrade, epígrafe do conto “Semi­ nário dos Ratos”, de Lygia Fagundes Telles.) Texto 2 Epígrafe é um paratexto (um texto que acompanha o texto principal), que pode justificar ou comentar um título ou texto; referenciar a relação entre o autor do texto e o da epígrafe; criar um efeito por meio do qual a presença da epígrafe já evoca a identificação do autor do texto com uma época ou movimento. (Adaptado de: GENETTE, G. Paratextos Editoriais. Tradução de Álvaro Faleiros. Cotia: Ate­ liê Editorial, 2009.) Considerando os textos 1 e 2, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A epígrafe associa o conto de Lygia ao “sentimento do mun­ do” drummondiano. (Fragmentos do poema Je ne parle pas bien, de Luz Ribeiro, publicado na Revista Opiniães: Revista dos alunos de Literatura Brasileira, n.10, 2017.) 3</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A epígrafe mostra que os versos de Drummond são impres­ cindíveis à escrita do conto.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A epígrafe justifica o título do conto e comenta os possíveis sentidos críticos dele.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A epígrafe identifica Lygia à geração de 30 do Modernismo, ao lado de Drummond.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia o trecho da reportagem: “Mulher espancada após boatos em rede social morre no Gua­ rujá, SP (...) A dona de casa Fabiane Maria de Jesus, de 33 anos, morreu na manhã desta segunda-feira (5), dois dias após ter sido espan­ cada por dezenas de moradores do Guarujá, no litoral de São Paulo. Segundo a família, ela foi agredida a partir de um boato gerado por uma página em uma rede social (...)” (G1, Santos, 05/05/2014. Disponível em: https://g1.globo.com/sp/santos-regiao/noti­ cia/2014/05/mulher-espancada-apos-boatos-em-rede-social-morre-em-guaruja-sp.html. Acessado em 04/07/2023.) Assinale o trecho de um dos contos a seguir – extraídos de EVA­ RISTO, Conceição. Olhos d’Água. Rio de Janeiro: Pallas; Fun­ dação Biblioteca Nacional, 2016 –, trecho este que relaciona o acontecimento da reportagem ao texto de ficção:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“Os mais velhos, acumulados de tanto sofrimento, olhavam para trás e do passado nada reconheciam no presente. Suas lutas, seu fazer e saber, tudo parecia ter se perdido no tem­ po (...) Deram de clamar pela morte. E a todo instante eles partiam” (p. 112).</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas eram tantas lágrimas, que eu me perguntei se minha mãe tinha olhos ou rios caudalosos sobre a face. E só então com­ preendi. Minha mãe trazia, serenamente em si, águas cor­ rentezas (...). Águas de Mamãe Oxum!” (p. 18-19).</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“Os assaltantes desceram rápido. Maria olhou saudosa e desesperada para o primeiro. (...) Alguém gritou que aquela puta safada lá da frente conhecia os assaltantes (...). A pri­ meira voz, a que acordou a coragem de todos, (...) levantou e se encaminhou em direção à Maria (...)” (p. 41-42).</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“Nos últimos tempos na favela, os tiroteios aconteciam com frequência e a qualquer hora. Os componentes dos grupos rivais brigavam para garantir seus espaços e freguesias. Ha­ via ainda o confronto constante com os policiais que inva­ diam a área” (p. 76).</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No início da novela Casa Velha, de Machado de Assis, o cônego da Capela Imperial, um personagem da história, assumindo a voz narrativa dela, conta a seus interlocutores: “– Não desejo ao meu maior inimigo o que me aconteceu no mês de abril de 1839.” (MACHADO DE ASSIS. Casa Velha. Rio de Janeiro: Paz e Terra, 1986, p. 11.) De acordo com o texto, o acontecimento desagradável que viti­ mou o religioso faz com que ele possa ser considerado, ao final da narrativa, como</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>um boêmio que se sente entediado na presença dos convi­ vas da Casa Velha: “Disseram-me que era amiga da família, e se chamava Mafalda. (...) Creio que disseram ainda outras coisas; mas não me interessando nada, nem a conversação, nem a hóspeda, (...) deixei-me estar comigo” (p. 29-30).</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>um antiescravista, obrigado a conviver, na mesma casa gran­ de, com senhores, agregados e escravos: “Lalau (...) com as mãos no ombro do moleque, ora fitava os olhos na carapi­ nha deste, ouvindo somente as palavras de Félix; ora erguia­ -os para o moço (...)” (p. 67).</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>um republicano que suporta um velho Coronel de posições conservadoras: “Reverendíssimo, (...) os farrapos invadiram Santa Catarina, entraram na Laguna, e os legais fugiram. Eu, se fosse o governo, mandava fuzilar a todos estes para escarmento...” (p. 89).</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>um ingênuo que se deixa iludir em suas relações pessoais: “nem por sombras me acudiu que a revelação de Dona An­ tônia podia não ser verdadeira (...) Não adverti sequer na minha cumplicidade. Em verdade, eu é que proferira as pa­ lavras que ela trazia na mente (...)” (p. 89).</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Um deles viu umas contas brancas de rosário, acenou que lhas dessem e divertiu-se muito com elas. Enrolou-as ao pescoço, depois tirou-as e embrulhou-as no braço, e acenava para a terra e depois para as contas, e em seguida para o colar do capitão, dando a entender que eles dariam ouro por aquilo. Isto nós entendíamos assim porque queríamos. Mas se ele queria dizer que levaria as contas e mais o colar, isto nós não queríamos entender, porque não lho daríamos." (CAMINHA, Pero Vaz de. Carta de Achamento do Brasil. Campinas: Editora da UNICAMP, p. 108, 2001.) Em seu relato de viagem, Pero Vaz de Caminha</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>descreve a natureza e as pessoas que os portugueses en­ contraram no Novo Mundo, inventariando os detalhes da viagem, com vistas à preservação da História Colonial.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>descreve e interpreta os fatos, mostrando que a compreen­ são dos portugueses sobre os povos originários era mediada pelos interesses do colonizador.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>descreve como os povos originários do Novo Mundo auxilia­ ram os colonizadores na prospecção por riquezas, anteven­ do a realização do projeto colonizador.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>descreve e interpreta os fatos, sugerindo que, na visão dos povos originários, era possível a convivência pacífica com o colonizador, já que compartilhavam os mesmos interesses.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 1921, Mário de Andrade, escrevendo a série de artigos “Mestres do passado”, publicados no Jornal do Comércio (edi­ ção de São Paulo), observou: 4 "Tarde [de Olavo Bilac] foi uma promessa de anos seguidos. Tais são, tão salientes os artifícios e tão repetidos que muito bem provam o esforço do poeta decaído da poesia e a sua parca inspiração (...).” (ANDRADE, M. Mestres do passado – Olavo Bilac. In: BRITO, M.S. História do modernis­ mo brasileiro. Antecedentes da Semana de Arte Moderna. 5.ed. Rio de Janeiro: Civiliza­ ção Brasileira, p. 288-289, 1978.) Relacione, ao poema a seguir, o trecho da crítica anterior, assi­ nalando a alternativa que coincide com a ideia geral de Mário sobre a obra de Bilac. As estrelas Olavo Bilac Desenrola-se a sombra no regaço Da morna tarde, no esmaiado anil; Dorme, no ofego do calor febril, A natureza, mole de cansaço. Vagarosas estrelas! passo a passo,</p>
+        <p>O aprisco desertando, às mil e às mil,</p>
+        <p>Vindes do ignoto seio do redil</p>
+        <p>Num compacto rebanho, e encheis o espaço...</p>
+        <p>E, enquanto, lentas, sobre a paz terrena,</p>
+        <p>Vos tresmalhais tremulamente a flux, – Uma divina música serena Desce rolando pela vossa luz: Cuida-se ouvir, ovelhas de ouro: a avena Do invisível pastor que vos conduz... (BILAC, Olavo. Tarde. Rio de Janeiro: Livraria Francisco Alves, p. 42-43, 1919.) Esmaiado: esmaecido, pálido Aprisco: curral Redil: curral para o gado ovino ou caprino; rebanho de ovelhas Tresmalhar: Afastar-se, perder-se do rebanho Flux: fluxo Avena: flauta pastoril</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O crítico lamenta o espaçamento da criação poética de Bi­ lac, o que se expressa no poema pela imagem das estrelas que se afastam umas das outras.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O crítico elogia os salientes artifícios da linguagem poética de Tarde, o que se pode perceber, por exemplo, pela varie­ dade de sinônimos para a palavra “curral”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O crítico evoca, como resultado da pouca inspiração artística do poeta, a sobrecarga de investimento formal (os hipérba­ tos ou inversões, por exemplo).</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O crítico associa a poesia de Bilac ao estilo decadentista, o que é reforçado pelas imagens de esgotamento, como se vê nas palavras “morna”, “esmaiado”, “ofego”, “mole”, “lentas”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia as duas citações a seguir, extraídas do início e do final de O Ateneu: “Lembramo-nos, entretanto, com saudade hipócrita, dos feli­ zes tempos; como se a mesma incerteza de hoje, sob outro aspecto, não nos houvesse perseguido outrora e não viesse de longe a enfiada das decepções que nos ultrajam. Eufemismo, os felizes tempos, eufemismo apenas, igual aos outros que nos alimentam, a saudade dos dias que correram como melhores. Bem considerando, a atualidade é a mesma em todas as datas. Feita a compensação dos desejos que variam, das aspirações que se transformam, alentadas perpetuamente do mesmo ar­ dor, sobre a mesma base fantástica de esperanças, a atualidade é uma (...)”. “Aqui suspendo a crônica das saudades. Saudades verdadei­ ramente? Puras recordações, saudades talvez, se ponderarmos que o tempo é a ocasião passageira dos fatos, mas sobretudo — o funeral para sempre das horas.” (POMPEIA, Raul. O Atheneu (Chronica de saudades). Rio de Janeiro: Tipografia de Gaze­ ta de Notícias, p 3-4 e 368, 1888.) Com base nessas duas citações, é possível afirmar que, ao fim da narrativa de Sérgio sobre sua vida no colégio, o narrador</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>idealiza a felicidade experimentada na infância, suas aspira­ ções, seu ardor e suas esperanças.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>considera que a felicidade passada não era maior que a do presente, pois os tempos são iguais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>duvida da própria saudade, separando as lembranças relati­ vas ao passado daquele sentimento associado a elas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>denuncia a hipocrisia da saudade que sente, por saber que a passagem do tempo é incerta.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Estudos, publicados na Nature Geoscience e na revista Science, apontam para a queda acentuada das temperaturas na Europa e na Ásia a partir do ano de 536, gerando a chamada “Peque­ na Idade do Gelo da Antiguidade Tardia”. As mudanças nas temperaturas podem ter sido causadas por erupções vulcâni­ cas, cujos efeitos foram reforçados pelas correntes oceânicas, pela expansão do gelo e pela coincidência de um mínimo solar (século VI). A conjugação desses fatores teria gerado mudanças efetivas na história, já que a agricultura e a pastagem teriam sido diretamente atingidas. Exemplos dessas relações entre o clima e a história humana podem ser encontrados na Antigui­ dade, como a invasão da Europa por vários povos das estepes, a queda do segundo império persa, a entrada dos turcos na Anatólia, o início da expansão árabe, entre outros. (Adaptado de: CRIADO, M.l Á. “Uma pequena ‘idade do gelo’ pode ter mudado a história da Antiguidade (...)”. El País, fev, 2016.) Com base em seus conhecimentos sobre a Antiguidade e tendo em vista o excerto anterior, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a história do planeta Terra e a história humana são indis­ sociáveis; eventos do século VI são bons exemplos disso: mudanças nos ecossistemas teriam gerado peste, fome e escassez, levando aos deslocamentos de povos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a “Pequena Idade do Gelo da Antiguidade Tardia”, assim como as mudanças climáticas dos séculos XX e XXI, foram provocadas, em especial, pela ação humana e também pelas mudanças nas paisagens dos campos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>os efeitos das mudanças climáticas no passado eram locais; os eventos históricos citados se desconectavam das mudan­ ças nos ecossistemas encontrados na Europa e na Ásia. 5</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os estudos sobre as mudanças nas temperaturas no sécu­ lo VI apresentam uma visão sobre o passado, destacando como grupamentos humanos controlavam as mudanças na natureza.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Dos pretos é tão própria e natural a união que a todos os que têm a mesma cor, chamam parentes; a todos os que servem na mesma casa, chamam parceiros; e a todos os que se embarcam no mesmo navio, chamam malungos.” (VIEIRA, Padre Antônio. Sermão XX. Parte II. Lisboa: Impressão Craesbeeckiana, p. 165, 1688.) Sobre as comunidades de malungos no período da escravidão, é correto afirmar, de acordo com o texto, que são formadas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>nos laços entre africanos de múltiplas etnias, os quais ha­ viam atravessado juntos o Atlântico.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>no encontro dos africanos nas senzalas, no exercício de ofí­ cios e no trabalho da lavoura.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>no Novo Mundo por pessoas de uma mesma etnia que se reconheciam como iguais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>nos quilombos rurais e urbanos, formados por escravizados fugidos de muitas etnias.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No processo de Independência, várias tropas indígenas foram recrutadas para proteger o território contra uma possível inva­ são portuguesa no litoral cearense entre setembro e novem­ bro de 1822. Já os índios da vila de Cimbres, em Pernambuco, se posicionaram em 1824 a favor de Dom João VI, opondo-se à Independência e à Constituição. No entanto, o que parecia ser mais comum era o engajamento dos índios no projeto de Brasil independente, identificando-se como “brasileiros”. Nas revoltas, buscavam muito menos se contrapor aos europeus e, assim, lutar por uma nova posição social que não mais os obri­ gasse ao trabalho forçado. (Adaptado de: COSTA, J. P. P. “Povos indígenas e a Independência”. Disponível em: ht­ tps://bicentenario2022.com.br/textos/. Acesso em 21/05/2023.) Tendo em vista seus conhecimentos sobre a participação dos povos indígenas no processo de Independência, e considerando o texto do blog citado, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>As disputas dos ameríndios em torno do “ser brasileiro” vi­ savam à manutenção da ordem social vigente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>As populações indígenas participaram, com projetos políti­ cos específicos, dos processos da Independência.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A independência era entendida pelos indígenas como uma ameaça a Dom João VI, símbolo da nação brasileira.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A diversidade da ação indígena se relacionava à distribuição de terras e títulos estabelecidos pela Corte portuguesa.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Muitos fotógrafos no século XIX registraram obras de enge­ nharia. O francês Édouard Baldus (1813-1889) atuou, primeiro como pintor e depois como fotógrafo, no inventário de monu­ mentos arquitetônicos da Comissão dos Monumentos Históri­ cos (1851) na França. Suas fotografias sobre esses monumentos renderam-lhe fama de fotógrafo de arquitetura. Sob encomen­ da, Baldus editou um álbum para a Companhia dos Caminhos Férreos do Norte (1855) e registrou estações, instalações ferro­ viárias, portos e cidades, ao longo desta via entre Paris e a cida­ de de Boulogne-sur-Mer. A rainha Vitória ganhou um exemplar dessa publicação. (Adaptado de: OLIVEIRA, E. R. Vistas fotográficas das ferrovias: a produção de registros de obra pública no Brasil do século XIX. Hist cienc saude-Manguinhos [Internet], 25(3), p. 695-723, 2018.) Tendo em vista seus conhecimentos sobre mundo contemporâ­ neo e considerando o texto, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Na Europa do século XIX, a difusão social das fotografias das obras públicas se dava por meio de jornais impressos com baixa circulação social e restrita aos estudiosos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>No século XIX, a dissociação entre as fotografias de obras públicas e a vida política europeia expressa a desvalorização da técnica e do conhecimento científico positivista.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A fotografia teve vários usos e funções no século XIX, entre eles, o de compor inventários arquitetônicos e retratar obras de engenharia.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O álbum fotográfico dado à rainha Vitória era um gesto di­ plomático que mostrava o descontentamento francês com a política inglesa.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>É correto afirmar que a fotografia anterior</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>foi produzida durante a Guerra Fria e documenta o seques­ tro, no sudeste asiático, da parte dos soldados norte-ameri­ canos, de mulheres. O estupro e a prostituição forçada são aceitos pelas cortes internacionais como estratégia de guer­ ra, já que os crimes de guerra referem-se apenas às armas usadas nos campos. (Foto, legenda e definição do termo disponíveis em: https://forbes. com.br/colunas/2017/07/imagens-raras-mostram-mulheres-de- -conforto-da-2a-guerra-mundial/ Acesso em 25 de maio de 2023 .) Legenda: Imagens de “mulheres de conforto”**, em 1944, na Coreia do Sul. ** Termo usado para designar coreanas, filipinas e chinesas, obrigadas a se prostituírem em bordéis usados por militares japoneses. 6</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>comprova a ação dos soldados norte-americanos, durante a Guerra do Vietnã, em relação às mulheres e às crianças fotografadas. A prostituição consensual era usada como es­ tratégia de criação de novos laços sociais e o povoamento dos territórios conquistados.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>traz a imagem de mulheres enfileiradas, capturadas e obri­ gadas a se prostituírem durante a II Guerra Mundial. A vio­ lação sexual tem sido usada historicamente como arma para fragilizar os supostos inimigos, já que as vítimas da violência sexual trazem marcas da humilhação e da limpeza étnica e tem os laços sociais destruídos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>registra mulheres que, durante a Guerra das Coreias, esco­ lheram se casar e migrar com os soldados japoneses. A vio­ lação sexual é uma das marcas dos conflitos entre nações, atingindo em especial mulheres e crianças que, entendidas como vulneráveis, se tornam vítimas do domínio masculino.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Prisões e torturas igualmente triplicaram, principalmente as de jornalistas. Dentre elas, a mais emblemática foi a de Vladimir Herzog, diretor da TV Cultura, que, embora fosse militante do PCB, não desenvolvia atividade clandestina nem perten­ cia aos quadros do partido. Herzog foi assassinado dentro do DOI-CODI, sendo a versão oficial de sua morte falsamente atri­ buída a um enforcamento. Em sua Autobiografia, Rita Lee pu­ blicou o bilhete de Elis Regina que fazia menção a uma música feita para “Vlado” e que, obviamente, fora censurada. (Adaptado de: LIMA, N. Ditadura no Brasil e Censura nas Canções de Rita Lee. Curitiba: Appris, 2019, p.17.) A partir da leitura do texto e de seus conhecimentos a respeito desse período da História do Brasil, é correto afirmar, sobre os eventos narrados, que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Rita Lee, Elis Regina, Caetano Veloso, Chico Buarque, entre outros artistas nacionais, tiveram suas músicas censuradas pela Ditadura Militar, apesar da manutenção da garantia constitucional da liberdade de expressão.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A Ditadura Militar permitiu a continuidade do Partido Co­ munista Brasileiro e perseguia sua atuação revolucionária vinculada a Stalin e à União Soviética; por conta disso, pren­ dia e torturava seus filiados.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Centros de detenção da Ditadura Militar, como o DOI-CODI, operaram dentro da legalidade constitucional, sendo que os presos, políticos ou não, eram fichados e tinham direito à defesa garantido por lei.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Vladimir Herzog e outros jornalistas foram vítimas de perse­ guição política, prisões, torturas e execuções realizadas por militares, com apoio de parte da sociedade civil, em nome da ideologia da segurança nacional.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com propósitos diferentes, ambas as imagens promovem a de­ sinformação. Comparando historicamente os dois exemplos de desinformação, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>as campanhas de desinformação podem ser encontradas em diferentes contextos, como visto no uso do panfleto da rainha pela coroa francesa – com o objetivo de defender a monarquia – e na imagem do Papa – que explora a contra­ dição entre a riqueza do Vaticano e os excluídos defendidos por ele.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>no século XVIII e no século XXI, a produção e a circulação de fake news e desinformação são controladas pelos aparelhos de censura que revisam conteúdos orais e impressos, ainda que estruturados a partir de tecnologias diferenciadas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>na era digital, a ruptura causada pelo uso de Inteligência Artificial e seu potencial na produção de desinformação está ao alcance do público, na instantaneidade e no realismo da imagem. No início da contemporaneidade, as manipulações em imagens e em notícias eram acessadas pelo público atra­ vés de jornais e panfletos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os dispositivos de Inteligência Artificial representam uma ruptura no combate à desinformação ao possibilitar o ras­ treio e a eliminação instantânea de fake news. No século XVIII, o público era refém de notícias falsas pela ausência desta tecnologia. Imagem postada em março de 2023 no Reddit, uma comu­ nidade de fóruns, na página específica do Midjourney. Essa página reúne criações feitas na ferramenta de Inteligência Ar­ tificial, ferramenta que permi­ te criar imagens hiper-realistas a partir de uma descrição em texto. A imagem viralizou a partir do Twitter. O Papa nun­ ca usou aquele casaco branco. Tradução da legenda: Eu apenas respiro por você. Um beijo, meu belo anjo! Panfleto anônimo produ­ zido na França pré-revolu­ cionária do final do século XVIII retratando a rainha Maria Antonieta em um romance com a sua amiga, a duquesa Yolande de Po­ lignac. (Disponível em: https://www.uol.com.br/ tilt/noticias/redacao/2023/03/26/foto-do-pa­ pa-usando-casaco-estiloso-foi-criada-por-in­ teligencia-artificial.htm?cmpid=copiaecola. Acesso em 04/05/2023.) (Biblioteca Nacional da França, sem data, RES 8-LB39-12153. Disponível em: ht­ tps://gallica.bnf.fr/ark:/12148/btv1b6 942376r.item. Acesso em 04/05/2023.) 7 Texto comum às questões 20 e 21: Texto 1 A OMS (Organização Mundial de Saúde) recomenda que a in­ gestão de açúcares livres esteja abaixo de 5% da ingestão total de energia diária para o nosso organismo. Como alternativa aos açúcares livres, tem-se intensificado o uso de adoçantes não nutritivos, como, por exemplo, sacarina, sucralose, stevia e as­ partame. A própria OMS atualmente recomenda que adoçantes não sejam utilizados para controlar a massa corporal, pois não oferecem benefício na redução da gordura corporal. Uma be­ bida muito consumida no cotidiano, o refrigerante, apresenta esses dois aspectos para os quais a OMS chama atenção: os comuns têm cerca de 11 g de açúcar por 100 mL e os diets contêm adoçantes não nutritivos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O gráfico a seguir apresenta o consumo médio de refrigerante por habitante por ano, no período de 2010 a 2021, no Brasil. Dados: i) ingestão total de energia diária para adultos: 8400 kJ (reco­ mendação da OMS). ii) energia por grama de açúcar: 16,5 kJ. De acordo com as informações do gráfico e do texto 1, pode-se afirmar que a média de consumo diário de açúcar, por habitan­ te, para cada ano, devido somente à ingestão de refrigerante,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>foi sempre superior à recomendada pela OMS, o que pode indicar uma baixa conscientização da população sobre o consumo de açúcar.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>foi sempre inferior à recomendada pela OMS, o que pode indicar uma alta conscientização da população sobre o con­ sumo de açúcar.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>foi superior; porém, mais recentemente, tornou-se inferior à recomendada pela OMS, o que pode indicar uma melho­ ra na conscientização da população sobre o consumo de açúcar.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>foi inferior; porém, mais recentemente, tornou-se superior à recomendada pela OMS, o que pode indicar uma piora na conscientização da população sobre o consumo de açúcar.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A resposta glicêmica é a curva da concentração de glicose, em função do tempo, no sangue. Ela é utilizada como uma forma de classificar os alimentos com base em seu potencial de elevar a glicose (açúcar) no sangue. Pesquisadores da Universidade Johns Hopkins (EUA) testaram os efeitos de quatro adoçantes na respos­ ta glicêmica de indivíduos saudáveis. Cada grupo foi exposto a uma condição, conforme a figura ao lado, acompanhando-se a respos­ ta glicêmica. Com base nas informações da figura e do texto 1, pode-se concluir que a preocupação da OMS quanto ao uso de adoçantes não nutritivos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois os adoçantes provocam o aparecimento de glicose no sangue.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>não precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois os adoçantes não provocaram o aumento de glicose no sangue.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>não precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois apenas dois adoçantes não provocaram o aparecimento de glicose no sangue.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois dois adoçantes provoca­ ram um aumento de glicose no sangue.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um refrigerante comum é uma formulação de vários ingredien­ tes: açúcar (11 g por 100 mL), água (88 g por 100 mL) – com­ ponentes majoritários –, além de acidulantes, antioxidantes, conservantes, adoçantes e CO2 (componentes em pequenas quantidades). O acidulante tem como finalidade regular a do­ çura do açúcar, realçar o paladar e reduzir o pH do refrigerante, que deve estar entre 2,7 e 3,5. Assim, para se usar uma peque­ na massa de acidulante que proporcione a redução do pH para o valor desejado, a massa molar do acidulante deve ser</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pequena e seu pKa deve estar abaixo da faixa de pH do refrigerante. 8</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>pequena e seu pKa deve estar acima da faixa de pH do re­ frigerante.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>grande e seu pKa deve estar abaixo da faixa de pH do refri­ gerante.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>grande e seu pKa deve estar acima da faixa de pH do refri­ gerante.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O mau gerenciamento da produção das baterias automotivas chumbo-ácido e de sua reciclagem após uso pode ocasionar contaminação do meio ambiente e de pessoas. Para minimizar esses problemas, a indústria pode levar em conta a “hierarquia de resíduos”, uma ordem de preferência nas ações de combate à contaminação. A figura a seguir, incompleta, mostra duas ações possíveis dessa hierarquia. Para minimizar os problemas, as ações a serem adotadas, em ordem de preferência e conside­ rando a direcionalidade indicada na figura, seriam</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>descarte adequado; reciclagem; prevenção.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>prevenção; descarte adequado; reciclagem.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>descarte adequado; prevenção; reciclagem.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>prevenção; reciclagem; descarte adequado.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No início de 2023, um grupo de pes­ quisadores estudou o desenvolvimento de uma poliamina sólida contendo co­ bre, capaz de ad­ sorver CO2 na fase gasosa e em baixas concentrações. A fi­ gura ao lado mostra o esquema de ad­ sorção com a repre­ sentação do sólido: De acordo com os autores do estudo, 1 kg de poliamina con­ tendo cobre é capaz de adsorver até 5 mols de CO2, uma quan­ tidade bem superior ao que se conhece até então. Com base nessas informações, pode-se concluir que a porcentagem em massa de cobre no sólido é cerca de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>16% e que 1 kg do sólido é capaz de absorver até 110 g de gás carbônico.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>32% e que 1 kg do sólido é capaz de absorver até 110 g de gás carbônico.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>16% e que 1 kg do sólido é capaz de absorver até 220 g de gás carbônico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>32% e que 1 kg do sólido é capaz de absorver até 220 g de gás carbônico.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Algumas baterias transformam certas substâncias em outras, gerando energia elétrica. Isso permite, por exemplo, o funciona­ mento de equipamentos tendo como base essa energia (carros elétricos) ou então auxilia o funcionamento de equipamentos (carros de combustão interna). É por isso que os carros elétricos precisam se abastecer de energia elétrica de tempos em tempos e os de combustão não, já que a bateria desses últimos é carre­ gada durante seu funcionamento. Na descarga da bateria, dois comportamentos são importantes: curva de tensão (Figura A) e ciclo de vida (Figura B), sendo esse último a quantidade de vezes que a bateria pode ser recarregada em função da profundidade de sua descarga. Levando em conta essas informações, seria apropriado escolher para equipar um carro</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>elétrico uma bateria com as características da curva Y e da curva II; para o carro de combustão interna qualquer com­ binação serviria. 9</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>elétrico uma bateria com as características da curva X e da curva I; para o carro de combustão interna, qualquer com­ binação serviria.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>de combustão interna uma bateria com as características da curva X e da curva I; para o carro elétrico, qualquer combi­ nação serviria.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>de combustão interna uma bateria com as características da curva Y e da curva II; para o carro elétrico qualquer combi­ nação serviria.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="26">
+      <statement>
+        <p>Um grupo de pesquisadores estudou a atividade antibacteria­ na – em ação sobre duas bactérias, a saber, Escherichia coli e Staphylococcus aureus – da curcumina livre e da curcumina combinada com octaarginina. Os pesquisadores observaram que a curcumina livre apresenta atividade antibacteriana frente a uma das bactérias. Na forma combinada, a curcumina foi mais eficiente – em comparação com a forma livre – no combate aos dois microrganismos. Tendo em vista essas informações, os gráficos que melhor representam os resultados do estudo são os seguintes: a) b) c) d) Dados: (i) E. coli; (ii) S. aureus.  curcumina livre;  curcumina combinada com octaarginina.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Povos e comunidades tradicionais são grupos culturalmente di­ ferenciados e que se reconhecem como tais. Esses grupos con­ tam com formas próprias de organização social, além de ocupa­ rem e usarem territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica. Para tanto, utilizam conhecimentos, inovações e práticas gera­ dos e transmitidos pela tradição (Inciso I, Art. 3º, Decreto 6.040 / 2007). Estima-se que cerca de 4,5 milhões de pessoas fazem parte de comunidades tradicionais atualmente no Brasil. (Adaptado de: Populações Tradicionais – Instituto Chico Mendes de Conservação da Biodiversidade. Disponível em: https://www.gov.br/icmbio/pt-br/assuntos/populacoes­ -tradicionais. Acesso em 12/06/2023.) Assinale a alternativa que faz a correspondência correta dos po­ vos e comunidades tradicionais com a sua região de atuação e com as suas práticas específicas de organização socioterritorial.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Mulheres quebradeiras de coco babaçu da região do Meio­ -norte aproveitam as matas de cocais e fazem uso comuni­ tário dos babaçuais para a coleta de coco e de outros pro­ dutos das palmeiras.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Geraizeiros da região da Amazônia Ocidental se beneficiam dos rios para a pesca e praticam o extrativismo de frutos uti­ lizados na culinária regional e transformados em produtos alimentícios.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Caiçaras da região litorânea do Ceará praticam a pesca arte­ sanal, utilizam as riquezas naturais da Mata Atlântica para o extrativismo de frutos e fazem uso dos roçados para ativida­ des agrícolas de subsistência.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Faxinalenses do norte de Minas Gerais usufruem dos cam­ pos para o desenvolvimento do extrativismo vegetal da erva mate e do pinhão, do cultivo agrícola em pequena escala e da criação de animais soltos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="28">
+      <statement>
+        <p>O litoral brasileiro tem uma história fisiográfica e ecológica rica e complexa, influenciada por uma variedade de fatores e pro­ cessos interligados. O Brasil conta com um litoral intertropical e subtropical onde é possível observar uma diversidade de ocor­ rências geomorfológicas e paisagísticas que se sucedem ao lon­ go de sua costa. (Adaptado de: AB'SABER, A. Litoral do Brasil/Brazilian coast. São Paulo: Metalivros, p. 281, 2005.) A partir de seus conhecimentos sobre o litoral brasileiro, assina­ le a alternativa correta. a) Os manguezais localizam-se nas planícies marinhas recober­ tas por espécies herbáceas e arbóreas. b) Os campos de dunas associam-se aos depósitos argilosos e arenosos, fixados por vegetação pioneira. c) As falésias ativas evoluem de processos continentais e mari­ nhos, com ausência de vegetação na sua base. d) Os deltas são formados por sedimentos fluviais e cobertos por espécies arbóreas de grande porte. 10 (United Nations, Department of Economic and Social Affairs, Population Division (2022). Probabilistic Population Projections based on the World Population Prospects 2022. Dis­ ponível em: http://population.un.org/wpp/. Acesso em 25/08/2023.) Tendo em vista seus conhecimentos sobre dinâmica populacio­ nal e considerando o gráfico, assinale a alternativa correta. a) Nigéria e EUA têm trajetórias demográficas distintas, ainda que ambos apresentem taxas de natalidade semelhantes. Isso afetará seus sistemas de saúde. b) Os EUA, ao contrário da Nigéria, apresentam, pela primeira vez, crescimento vegetativo negativo. Isso afetará a oferta de mão-de-obra no território norte-americano. c) A Nigéria, ao contrário dos EUA, manterá elevada a taxa de fecundidade. Haverá maior pressão sobre as políticas públi­ cas de educação e de saúde. d) Nigéria e EUA enfrentam expressiva redução da população em idade adulta ativa. Ambos os países terão problemas com a seguridade social.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="31">
+      <statement>
+        <p>Dentro de um território nacional, as regiões são hoje atingidas por complexos vetores de ordem técnica e política, típicos do período da globalização. Neste sentido, as regiões, tanto quan­ to são internamente construídas, seguem as oscilações econô­ micas nacionais e internacionais. Isso as torna, diferentemente do passado, mais instáveis e sujeitas a frequentes crises. E, con­ forme se especializam em diferentes tipos de produção para atender os mercados internacionais, suas fronteiras tornam-se mais cambiáveis. (Adaptado de: SMITH, N. Contorno de uma política espacializada: veículos dos sem-teto e produção da escala geográfica. In: ARANTES, A. A. (Org.) O espaço da diferença. Cam­ pinas: Papirus, p. 152, 2000.)</p>
+      </statement>
+    </essay_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Moradores em situação de rua em São Paulo/SP (Ronaldo Silva/Photopress/Estadão Conteúdo. https://www.cnnbrasil.com.br/nacional/ prefeitura-faz-moradores-de-rua-desmontarem-barracas-durante-o-dia/ – Acesso em 18/06/2023.) Nas grandes cidades de todo o planeta, com maior ou menor intensidade, cresce o número de pessoas em situação de rua. No caso brasileiro, todavia, essa é uma realidade urbana perene, agravada em momentos de crise. Segundo estimativa do Insti­ tuto de Pesquisa Econômica Aplicada (IPEA), em 2022, existiam 281.472 pessoas em situação de rua no Brasil. (MONTFERRE, H., População em situação de rua supera 281,4 mil pessoas no Brasil. IPEA, 08/12/2022) O fenômeno descrito no excerto, e reportado na imagem, se constituiu historicamente nas cidades brasileiras em função</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>da crise conjuntural da última década, agravada com a pan­ demia de covid-19; muitas vezes, a gestão urbana impõe a essa população a precariedade da circulação sem fim pela cidade e mesmo pela rede urbana.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>do processo de modernização-urbanização excludente; as ações de política urbana implementam programas de habi­ tação popular nas áreas centrais para viabilizar a gentrifica­ ção e o direito à cidade a essa população.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>da crise conjuntural da última década, agravada pela pande­ mia de covid-19; a gestão urbana busca formas de integrar essa população aos espaços urbanos por meio das casas de acolhimento e de programas de emprego e renda.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>do processo de modernização-urbanização excludente; a gestão urbana promove, muitas vezes, práticas de “higie­ nização” do espaço, isto é, de expulsão, com o apoio de setores da sociedade.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As projeções de população são importantes para o cálculo dos indicadores sociodemográficos que fornecem subsídios para a formulação de políticas públicas. Segundo as Nações Unidas, o mundo atingiu a cifra de 8 bilhões de habitantes em 2022, devendo atingir 9,7 bilhões em 2050. Ainda que a população mundial continue a aumentar, a dinâmica demográfica varia entre as regiões do mundo. Nesse contexto, Estados Unidos da América (EUA) e Nigéria passam por mudanças demográficas com reflexos socioeconômicos significativos. 11 Tendo em vista seus conhecimentos sobre a dinâmica das regi­ ões no mundo contemporâneo e considerando o texto anterior, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>desapareceram os laços internos de construção regional, uma vez que a escala de comando internacional regula as especializações produtivas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>múltiplas escalas de ações perpassam e dinamizam a coesão regional, ocasionando instabilidade socioeconômica e mu­ tações aceleradas em suas fronteiras.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o comando externo da produção vinculado aos mercados internacionais torna as fronteiras regionais estáveis e dura­ douras na escala do território nacional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a conformação de arranjos produtivos regionais nesse con­ texto homogeniza o espaço nacional, apagando as antigas identidades e as desigualdades socioterritoriais.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Por se situar em uma região limítrofe entre diferentes placas tectônicas, a Turquia tem histórico de terremotos de grande magnitude e poder destrutivo. Em 1939, um terremoto de magnitude 7,8 provocou a morte de cerca de 30.000 pessoas. Em fevereiro de 2023, registrou-se um terremoto de magnitude 7,8 às 4h17 (horário local) e, nove horas depois, registrou-se novo abalo sísmico, dessa vez de magnitude 7,6, o que levou 50.000 pessoas à morte. A figura a seguir mostra a localização do sistema de falhas da placa da Anatólia e indica as áreas atingidas pelos respectivos terremotos. (How the February 2023 Türkiye Earthquakes Ruptured and Produced Damaging Shaking. Disponível em: https://www.seismosoc.org/news/how-the-february-2023-turkiye-earth­ quakes-ruptured-and-produced-damaging-shaking/. Acesso em 12/06/2023.) Os tremores de 1939 e de 2023 foram gerados, respectivamen­ te, pelo deslocamento entre a Placa da Anatólia e as placas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Euroasiática e Arábica; o sentido de deslocamento das pla­ cas forma falhas transcorrentes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Indiana e Africana; o sentido de deslocamento forma falhas normais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Arábica e Euroasiática; o sentido de deslocamento das pla­ cas forma falhas normais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Africana e Indiana; o sentido de deslocamento forma falhas transcorrentes.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="33">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As convenções cartográficas utilizam símbolos pontuais, linea­ res, areais, bem como representações proporcionais e gradação de cores (coroplética) que permitem certo grau de compreensão e intuição de seu significado, possibilitando a leitura da infor­ mação contida no mapa por diferentes pessoas. (Adaptado de: https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia/ convenc-o-es-cartogra-ficas.html. Acesso em: 25/08/2023.) Com base no excerto e na figura, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Os símbolos pontuais se prestam a representar fenômenos não hierárquicos, a exemplo da rede urbana e da tipologia de cidades.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>As representações lineares qualificam os fenômenos, não permitindo a sua hierarquização, a exemplo da tipologia dos sistemas de transportes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O uso do gradiente de cores serve para diferenciar fenôme­ nos espaciais com variação contínua, a exemplo da altitude e da profundidade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Um mesmo fenômeno pode ser representado por meio de diferentes formas e de variadas cores, a exemplo dos cursos e corpos de água. 12 Use os valores aproximados: g = 10 m/s2 e π = 3. Texto comum às questões 34, 35, 36 e 37. Uma das etapas mais difíceis de um voo espacial tripulado é a reentrada na atmosfera terrestre. Ao reencontrar as camadas mais altas da atmosfera, a nave sofre forte desaceleração e sua temperatura externa atinge milhares de graus Celsius. Caso a reentrada não ocorra dentro das condições apropriadas, há ris­ co de graves danos à nave, inclusive de explosão, e até mesmo risco de ela ser lançada de volta ao espaço.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="34">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Logo ao reentrar na atmosfera terrestre, uma cápsula espacial passa a descrever, durante certo tempo, um movimento retilí­ neo uniformemente variado em que ela é freada com acelera­ ção a 5 0 , . m/s2 Se no início dessa etapa (t = 0 ) do mo­ vimento a velocidade da cápsula é v0 7000 = m/s, qual é a distância percorrida até o tempo t = 200 s?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1300 km.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1400 km.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1500 km.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>4900 km.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Após viajar pela atmosfera por determinado tempo, o módulo da velocidade da cápsula, que inicialmente era v0 = 7000 m/s, fica reduzido a v = 5000 m/s. Sendo a massa da cápsula m = 3000 kg, qual foi o trabalho da força resultante sobre a cápsula durante esse tempo?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>–11,1 × 1010 J.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>–3,60 × 1010 J.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>–6,00 × 106 J.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>–3,00 × 106 J.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="36">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ar atmosférico comporta-se como um gás perfeito. Sendo a pressão e a temperatura do ar, numa determinada posição da alta atmosfera, dadas por p = 2,0 Pa e T = 180 K (sem a presen­ ça da cápsula na vizinhança), e sendo a constante universal dos gases perfeitos 8 J/mol.K, R qual é o volume ocupado por um mol de ar naquela posição?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1,38 × 10 –3 m3.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>9,00 × 101 m3.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>7,20 × 102 m3.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2,88 × 103 m3.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A temperatura extremamente elevada no exterior da cápsula ioniza o ar atmosférico à sua volta. Esses íons blindam a cápsula como uma gaiola de Faraday, impedindo, por alguns minutos, a comunicação por ondas eletromagnéticas de rádio (conversas entre a tripulação e a base na Terra, comandos à distância para ajustes de navegação, etc.). O gráfico da figura a seguir mostra que, quanto maior a temperatura do ar externo, Tar , maior é a frequência limite da onda eletromagnética, f0 , abaixo da qual não se pode estabelecer comunicação com a cápsula. Se a tem­ peratura do ar for Tar = 4800 K, qual é o comprimento de onda λ0 correspondente à frequência limite f0 ? Dado: Velocidade da luz no vácuo: c = 3,0 ×108 m/s.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,06 m.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>16,7 m.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>0,05 m.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>20 m.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um corpo em queda nas proximidades da superfície terrestre so­ fre a ação da força gravitacional e da força de resistência do ar,  ar F ; essa última atua em sentido oposto à força gravitacional. Nos primeiros instantes, ar 0 F    se o corpo parte do repouso. À medida que a velocidade aumenta,  ar F também aumenta. Com isso, a aceleração do corpo diminui gradativamente, tornando­ -se praticamente nula a partir de certo momento. Desse ponto em diante, o corpo passa a cair com velocidade constante, cha­ mada de velocidade terminal. Um objeto de massa m = 200 g é solto a partir de certa altura e atinge a velocidade terminal após determinado tempo. Qual é o módulo da força de resistência do ar depois que o objeto atinge a velocidade terminal?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,20 N.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2,0 N.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>200 N.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2000 N. Texto comum às questões 39 e 40. A neurotransmissão no organismo humano pode ter origem química ou elétrica. O entendimento das sinapses elétricas ocorreu só mais recentemente, graças a estudos avançados das propriedades elétricas dos neurônios. As propriedades mecâni­ cas dos neurônios – como a elasticidade – são, por seu turno, importantes para a compreensão do desenvolvimento deles.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um estudo do comportamento elétrico de neurônios, apli­ ca-se uma diferença de potencial elétrico (ddp, da ordem de 10 –3 V) e mede-se a corrente elétrica (da ordem de 10 –12 A) que passa pelo sistema. A partir dos resultados desse experimento, representados no gráfico da figura a seguir, conclui-se que a resistência elétrica do sistema é igual a 13</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>14 Ω.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>70 mΩ.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>70 MΩ.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>14 GΩ.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um experimento destinado a investigar propriedades elásti­ cas, uma diminuta ponta aplica uma força  F na superfície do neurônio, produzindo uma deformação ∆L de forma análoga a uma mola (ver figura). Foram estudados dois neurônios distin­ tos, designados pelos índices 1 e 2, que foram submetidos à ação de forças idênticas ( =   1 2 F F ). As deformações observadas foram ∆L1 = 20 nm e ∆L2 = 30 nm. Se k1 = 9,0 × 10 –6 N/m é a constante elástica para o neurônio 1, pode-se deduzir que o valor de k2 é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4,0 × 10 –6 N/m.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>6,0 × 10 –6 N/m.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>13,5 × 10 –6 N/m.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>20,25 × 10 –6 N/m.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="41">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A região à margem do rio Guaporé em Rondônia é conside­ rada uma das mais importantes do planeta para a espécie Podocnemis expansa, popularmente conhecida como tartaru­ ga-da-amazônia. Assinale a alternativa que apresenta corretamente uma caracte­ rística importante para a vida de quelônios fluviais no ambiente terrestre.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A pele é seca e completamente impermeável, recoberta por uma espessa camada, em forma de espículas, composta da proteína quitina.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Os alvéolos com grande superfície de troca gasosa permi­ tem a respiração pulmonar e cutânea mesmo nas espécies aquáticas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A principal excreta nitrogenada liberada é a ureia, que se caracteriza por ser pouco tóxica e que requer mínima quan­ tidade de água para ser eliminada.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A fecundação é interna e há formação de ovo amniótico; esse ovo possui uma bolsa contendo líquido que envolve o embrião.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O conceito apresentado na figura a seguir é importante para fundamentar a classificação biológica baseada nas relações evo­ lutivas entre os organismos. (Adaptado de: https://evolution.berkeley.edu/similarities-and-differences-understanding­ -homology-and-analogy-ms/.../. Acesso em 22/8/2023.) É correto afirmar que as estruturas anatômicas indicadas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>no humano e no lagarto são consideradas análogas; trata-se de um caso de evolução convergente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>na baleia e no pássaro são consideradas homólogas; trata-se de um caso de evolução divergente.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>no lagarto e no pássaro são consideradas homólogas; trata­ -se de um caso de evolução convergente.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>no humano e na baleia são consideradas análogas; trata-se de um caso de evolução divergente.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="43">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sabe-se que o uso indiscriminado e irregular de anabolizantes gera consequências negativas significativas à saúde humana, tais como: tremores, acne severa, hipertensão arterial sistêmica, tumores no fígado e pâncreas, distúrbios de coagulação, distúr­ bios testiculares e menstruais, insônia, entre outros. (Adaptado de: https://bvsms.saude.gov.br/anabolizantes/. Acesso em 12/4/2023.) Assinale a alternativa que preenche corretamente as lacunas no excerto a seguir. A testosterona desempenha importante função no desenvol­ vimento de tecidos e órgãos do sistema reprodutor masculino, como (i) ___________ e testículos, além de atuar na promoção de características sexuais secundárias, como aumento de massa muscular, crescimento dos pelos corporais, espessamento das pregas vocais e (ii) ____________. Esse hormônio anabolizante é sintetizado em várias etapas a partir (iii) __________ e é con­ vertido para metabólitos inativos no (iv) __________.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>(i) próstata; (ii) maturação dos ossos; (iii) do colesterol; (iv) fígado.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>(i) vesícula seminal; (ii) maturação dos ossos; (iii) da creatina; (iv) fígado. 14</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>(i) próstata; (ii) produção de esperma; (iii) da creatina; (iv) pâncreas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>(i) vesícula seminal; (ii) produção de esperma; (iii) do coles­ terol; (iv) pâncreas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="44">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os lisossomos são organelas centrais que desempenham fun­ ções importantes para a homeostase celular. Assinale a alternativa que descreve corretamente a função dos lisossomos representada na figura a seguir. (Adaptado de: YANG, C.; WANG, X. Journal of Cell Biology, Nova Iorque, v. 220, p.e202102001, mai. 2021.)</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Heterofagia por pinocitose, o que permite à célula degradar fragmentos de microrganismos, fragmentos esses importan­ tes na apresentação de antígenos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Autofagia, que permite à célula empacotar, modificar e ex­ portar proteínas sintetizadas no lúmen das cisternas do retí­ culo endoplasmático.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Autofagia, que permite à célula eliminar porções envelhe­ cidas ou danificadas do citoplasma, incluindo organelas e moléculas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Heterofagia por fagocitose, o que permite à célula capturar macromoléculas, utilizando-as nas diferentes vias biossinté­ ticas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma quimera é um indivíduo formado por dois ou mais tipos de células, em que cada tipo contém um genoma distinto. Os ma­ chos da espécie de formiga Anoplolepis gracilipes são quimeras formadas por dois tipos de células haploides, bastante distintas do ponto de vista genético; essas células são provenientes de duas linhagens de formigas, podendo ser chamadas de linha­ gem 1 e linhagem 2. As rainhas (fêmeas capazes de produzir óvulos) desta espécie são indivíduos formados pela fusão en­ tre um óvulo com genoma característico da linhagem 1 e um espermatozoide com genoma característico da linhagem 1. Já as fêmeas operárias (não reprodutivas) são indivíduos forma­ dos pela fusão entre um óvulo com genoma característico da linhagem 1 e um espermatozoide com genoma característico da linhagem 2. (Adaptado de: DARRAS, H. et al. Science, Washington, v. 380, p.55-58, abr. 2023.) Com base em seus conhecimentos e considerando o texto apre­ sentado, pode-se dizer que as diferenças genéticas entre rai­ nhas e operárias se explicam pelo fato de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>os gametas se fundirem nos machos e operárias.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>os machos conterem células haploides das linhagens 1 e 2.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>os machos serem homozigotos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os machos serem diploides oriundos das linhagens 1 e 2.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="46">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A dinâmica populacional de duas espécies que compartilham o mesmo habitat é representada na figura a seguir. O tamanho máximo da população de cada espécie é limitado pela disponi­ bilidade de recursos no habitat. Considerando seus conhecimentos e os dados apresentados, é correto afirmar que as espécies</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>competem por recursos e apresentam diferenças na eficiên­ cia de utilização do alimento disponível.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ocupam nichos ecológicos distintos e têm crescimento po­ pulacional até o limite imposto pela resistência ambiental.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>são generalistas e assim têm nichos ecológicos mais restri­ tos, o que diminui a competição entre elas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>apresentam uma relação de cooperação, facilitando o cres­ cimento populacional na ausência da resistência ambiental.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A partir da organização tecidual, é possível reconhecer o está­ gio de desenvolvimento das plantas e mesmo diferenciar mono­ cotiledôneas e eudicoti­ ledôneas. Nas figuras A e B são apresentados esquemas de raízes em crescimento primário, com a indicação dos te­ cidos 1 e 2. Assinale a alternativa que, de maneira correta, indica, respecti­ vamente, a espécie eudicotiledônea e seus tecidos 1 e 2.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Figura A, floema e endoderme.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Figura B, floema e periciclo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Figura A, xilema e endoderme.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Figura B, xilema e periciclo. 15</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="48">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando desempenho minha tarefa de irmão, de marido ou de cidadão, quando executo os compromissos que assumi, eu cum­ pro deveres que estão definidos fora de mim e de meus atos, no direito e nos costumes. Ainda que eles estejam de acordo com os meus sentimentos próprios e que eu sinta interiormente a realidade deles, tal realidade não deixa de ser objetiva, pois não fui eu que os fiz, mas os recebi pela educação. Eis aí, portanto, maneiras de agir, de pensar e de sentir que apresentam essa no­ tável propriedade de existirem fora das consciências individuais. (Adaptado de: DURKHEIM, E. As regras do método sociológico. São Paulo: Martins Fon­ tes, 2014.) Émile Durkheim é um dos fundadores da Sociologia e analisa a relação entre indivíduo e sociedade. A partir do texto, podemos afirmar que os modos de agir, de pensar e de sentir, em uma sociedade, são definidos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pelo livre-arbítrio dos indivíduos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>pelos sentimentos próprios dos indivíduos e independem do meio social.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pelo direito e pelos costumes, que são, por sua vez, defini­ dos livremente pelos indivíduos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pela própria sociedade, que constitui uma realidade objetiva que exerce coerção sobre o indivíduo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Texto 1 Manifesto de lançamento da “Coalizão Negra Por Direitos”, reunião de entidades e coletivos do movimento negro brasilei­ ro, 2020. Texto 2 O sociólogo Octavio Ianni afirmou que democracia e cidadania são processos políticos marcados por dificuldades e retrocessos, pois a participação social – especialmente a de grupos como mulheres, negros, indígenas – é uma luta penosa e que, no Brasil, vem sendo realizada precariamente ao longo da história. (Adaptado de: “Entrevista com Octavio Ianni: Comunicação e Globalização”. Revista Novos Olhares, n. 4, p. 25, 1999.) De acordo com os textos 1 e 2, é possível dizer que, no caso brasileiro, os conceitos de democracia e de cidadania</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>são limitados pela persistência histórica do racismo, pois os movimentos sociais pouco se ocupam dessa temática, redu­ zindo a possibilidade da conquista de igualdade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>podem ser tomados como conceitos relacionados, relativos à esfera do indivíduo, e marcados por processos lineares de conquistas de direitos sociais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>podem ser tomados como conceitos relacionados, próprios da esfera coletiva, e marcados por processos não lineares de conquistas e perdas de direitos sociais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>são marcados por disputas sociais e históricas, e influen­ ciam, de modo secundário, o exercício da igualdade, espe­ cialmente para grupos como mulheres, negros e indígenas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="50">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As sociólogas Patrícia Hill Collins e Sirma Bilge procuram ex­ plicar as relações entre mérito, oportunidade e desigualdades utilizando a metáfora de um campo de futebol. Elas imaginam uma situação na qual o campo seria um terreno levemente em declive, na qual o gol do Time 1 fica no topo e o do Time 2, na parte baixa. Quando o Time 1 tenta marcar um gol, a topogra­ fia do campo ajuda, o que não ocorre com o Time 2, que pode ter talento e disciplina, mas sempre trava uma batalha morro acima para marcar um gol. No caso de uma partida de futebol, torcedores ficariam indignados se os campos de verdade fos­ sem inclinados dessa maneira. No entanto, é isso que fazem as divisões sociais de classe, gênero e raça, ou seja, achamos que estamos jogando em igualdade de condições quando, na verdade, não estamos. (Adaptado de: HILL COLLINS, P.; BILGE, S. Interseccionalidades. São Paulo: Boitempo, p. 32-33, 2016.) A partir do texto, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>divisões sociais de classe, gênero e raça permitem que to­ das as pessoas tenham acesso às mesmas oportunidades e possam igualmente desenvolver suas habilidades e aptidões.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>condições de competição individual são marcadas por divi­ sões de classe, gênero e raça, e são influenciadas pelo con­ texto social, político e econômico.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o mérito e o esforço individual podem ser isolados das divi­ sões de classe, gênero e raça e considerados como parâme­ tros justos para a dinâmica da vida social.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>divisões de classe, gênero e raça estão presentes na vida em sociedade e têm relação marginal com o fenômeno da desigualdade.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="51">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"A negação da plena humanidade do Outro, o seu enclausura­ mento em categorias que lhe são estranhas, a afirmação de sua incapacidade inata para o desenvolvimento e aperfeiçoamento humano, a destituição da sua capacidade de produzir cultura e civilização prestam-se a afirmar uma razão racializada, que hegemoniza e naturaliza a superioridade europeia." (CARNEIRO, Sueli. Dispositivo de racialidade. A construção do outro como não ser como fundamento do ser. São Paulo: Zahar, p. 91, 2023.) Escolha a alternativa que apresenta crítica semelhante à de Sueli Carneiro.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>"Tão essencial é a diferença entre essas duas raças humanas [branca e negra], que parece ser tão grande em relação às capacidades mentais quanto às diferenças de cores." (E. Kant. Observações sobre o sentimento do belo e do sublime. Campinas: Papirus, p. 7576,1993.) 16</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>"É na brutalidade e na selvageria que vemos o homem afri­ cano, na medida em que o podemos observar; e assim per­ manece hoje." (Hegel. A razão na história. Lisboa: Edições 70, p. 218.)</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“A nossa solução foi medíocre. Estragou as duas raças, fundindo-as. O negro perdeu as suas admiráveis qualidades físicas de selvagem, e o branco sofreu a inevitável piora de caráter, consequente a todos os cruzamentos entre raças díspares". (Personagem Miss Jane, do livro O Presidente Negro, de Monteiro Lobato. São Paulo: Editora Lafonte, p. 82, 2019.)</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>"Na medida em que o racismo, enquanto discurso, se situa entre os discursos de exclusão, o grupo por ele excluído é tratado como objeto e não como sujeito." (Lélia Gonzales. Cultu­ ra, etnicidade e trabalho: efeitos linguísticos e políticos da exploração da mulher". In: RIOS, F.; LIMA, M. Por um feminismo afro-latino-americano. São Paulo: Zahar, p. 43, 2020.)</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="52">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Excerto 1 Quase todos estão de acordo que a felicidade é o maior de todos os bens que se pode alcançar pela ação; diferem, porém, quanto ao que seja a felicidade. A julgar pela vida que os ho­ mens levam em geral, a maioria deles, e os homens de tipo mais vulgar, parecem identificar o bem ou a felicidade com o prazer, e por isso amam a vida dos gozos. (Adaptado de: Aristóteles. Ética a Nicomaco, Livro I, seções 4 e 5.) Excerto 2 O conhecimento seguro dos desejos leva a direcionar toda a es­ colha e toda recusa para a saúde do corpo e para a serenidade do espírito, visto que essa é a finalidade da vida feliz. O prazer é o início e o fim de uma vida feliz. Embora o prazer seja nosso primeiro bem inato, nem por isso escolhemos qualquer prazer. (Adaptado de: Epicuro. Carta sobre a felicidade. São Paulo: Editora UNESP, p. 35-37, 2002.) Considerando os excertos dos filósofos gregos Aristóteles e Epi­ curo, ambos do século IV a.C., é possível afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Aristóteles e Epicuro sustentam a ideia de que há relação entre a felicidade e o prazer, pois ambos entendem que o prazer é o início e o fim de uma vida feliz.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>diferentemente de Aristóteles, Epicuro defende que a feli­ cidade consiste na realização irrestrita dos nossos desejos, uma vez que o prazer é o início e o fim de uma vida feliz.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>tanto Aristóteles quanto Epicuro – ainda que com concep­ ções éticas distintas – entendem que não há uma identifica­ ção imediata entre felicidade e prazer.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Aristóteles e Epicuro concordam entre si e discordam daque­ les que pensam que a felicidade seja o maior dos bens que se possa alcançar pela ação.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"Apesar de sua presumida evidência, a articulação entre liber­ dade e igualdade é mais complicada do que parece. Sua reunião em um mesmo indivíduo, que seria, ao mesmo tempo, livre e igual a seus semelhantes, esconde tensões significativas. Como, por exemplo, alguém poderia ser livre em um contexto no qual prevalecem desigualdades aberrantes? Em contrapartida, o que resta da liberdade se os indivíduos não puderem singularizar-se e diferenciar-se uns dos outros?" (FIGUEIREDO, V. A paixão da Igualdade: uma genealogia do indivíduo moral na França. Belo Horizonte: Relicário, p. 9, 2021.) Escolha, dentre as alternativas a seguir, aquela que sintetiza melhor a ideia expressa na citação de Figueiredo:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A realização da liberdade e da igualdade independe da su­ pressão de desigualdades profundas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A articulação entre liberdade e igualdade é um ideal que não contrasta com regimes políticos antidemocráticos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A articulação entre liberdade e igualdade é complexa porque exige tanto a supressão de desigualdades extremas quanto a possibilidade da afirmação das diferenças individuais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O desenvolvimento pleno do capitalismo e da livre concor­ rência são condições suficientes para a concretização da li­ berdade e da igualdade.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="54">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sr. Gauss tem uma pizzaria, chamada π-zzaria, que vende dois tipos de pizzas circulares: uma individual, de diâmetro d; e uma de 20 cm de diâmetro, partida em quatro pedaços iguais. Considerando que o preço de uma pizza é proporcional à sua área, qual precisa ser o valor de d para que quatro pizzas indi­ viduais custem o mesmo que a pizza mencionada, de quatro pedaços?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>6 cm.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>8 cm.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>10 cm.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>12 cm.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Todo final de semana, as amigas Ana, Bruna e Carol se encon­ tram em um parque para andar de bicicleta ou de patins. Nesta brincadeira, a escolha entre patins e bicicleta é feita usando a seguinte regra: Se Ana anda de patins, então Carol também anda de patins. Bruna anda de patins apenas quando Carol anda de bicicleta. Sabendo que neste final de semana Carol andou de patins, en­ tão é necessariamente verdade que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Ana andou de patins.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Ana não andou de patins.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Bruna andou de patins.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Bruna não andou de patins.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="56">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Luísa estava conversando com seu irmão ao telefone quando passou perto de uma feira de adoção de animais. Ela comentou que, na feira, havia cachorros, gatos e pintinhos. O irmão, curioso, perguntou-lhe quantos gatos havia. Luí­ sa, que adora charadas matemáticas, limitou-se a dizer que a quantidade de gatos somada à quantidade de pintinhos era 4 a mais do que a quantidade de cachorros, e que a quantidade de gatos somada à quantidade de cachorros era 6 a mais do que a quantidade de pintinhos. 17 O irmão de Luísa, que adora as aulas de matemática, rapida­ mente chegou à resposta correta. Havia quantos gatos para adoção?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>5.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>6.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>7.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="57">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Laura é geóloga e está fazendo pesquisa numa caverna cuja en­ trada tem o formato de uma parábola invertida. Essa entrada, no nível do chão, tem 2m de largura e seu ponto mais alto está a 2,5m do chão, conforme figura a seguir. Para realizar sua pesquisa, ela precisa entrar na caverna com um equipamento guardado em uma caixa de 1m de largura. Qual é a altura máxima, em metros, que a caixa pode ter para passar pela entrada da caverna?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>11/8.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>13/8.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>15/8.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>17/8.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="58">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Joaquim estava brincando com um graveto, quando acertou uma parede e o graveto se partiu em três pedaços, de compri­ mentos a,b,c, com a ≤ b ≤ c. Ele recolheu os pedaços e tentou construir um triângulo cujos lados seriam exatamente os peda­ ços do graveto: não foi possível. Sabendo que o graveto tinha 50 cm de comprimento e que b = a + 2, qual é o maior valor possível de a?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>9,5 cm.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>10,5 cm.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>11,5 cm.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>12,5 cm.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere os conjuntos A = {x ∈ ℝ | x2 – 2x – 24 &lt; 0} e B = {x ∈ ℝ | 2x – 7 ≤ 0}. Quantos números inteiros pertencem à interseção A ∩ B?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>3.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>5.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>7.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>9.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="60">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Terminado o almoço, Ana foi à cozinha para a escolha das so­ bremesas. A garota estava decidida a pegar dois itens. Seu pai, preocupado com a alimentação dela, instruiu-a da seguinte for­ ma: "Escolha o que quiser, mas, se você pegar algum pirulito, pegue também alguma fruta". Na cozinha, tinha 5 frutas dife­ rentes, 3 pirulitos diferentes e 2 pedaços de bolos de sabores diferentes. De quantas formas Ana poderia escolher seus dois itens?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>34.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>36.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>45.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>47.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>João e Maria estão passeando pela floresta. Para não se per­ derem no caminho, levaram consigo uma sacola com 100 pe­ drinhas, sendo 60 pedrinhas brancas e 40 pedrinhas pretas. A cada 5 passos eles retiram aleatoriamente uma pedrinha da sa­ cola e jogam-na no chão para marcar o caminho. Quando eles pararam para fazer um lanche, notaram que já ti­ nham sido jogadas 35 pedrinhas brancas e 25 pedrinhas pretas. Qual a probabilidade de as próximas duas pedrinhas jogadas serem brancas?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>7/13.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>5/13.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>11/52.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>7/52.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="62">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Seja p (x) = x + 2024. A equação p (x) + p (2x) + p (3x) + ... + p (2023x) + p (2024x) = 0 tem uma solução x que satisfaz:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>x &lt; –2.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>–2 &lt; x &lt; 0.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>0 &lt; x &lt; 2.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>x &gt; 2.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="63">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura a seguir, ABCD é um trapézio com AB=1 e CD=5. Os pontos M e N são pontos médios de AB e BC, respectivamente.</p>
+        <p>Sabendo que a área de MBN é 1, a área do trapézio é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>18.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>20.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>22.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>24.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="64">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as funções 𝑓(x) = 2x + c e g(x) = 5 – 6x, com c &gt; 0. Sejam P e Q os pontos de interseção, com o eixo y, dos gráficos de y = 𝑓(g(x)) e y = g(𝑓(x)), respectivamente. Para que a origem seja o ponto médio do segmento PQ, qual deverá ser o valor de c?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>4. 18</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="65">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No losango abaixo, qual é a medida do comprimento do seg­ mento BE?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>26 .</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>27 .</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>28 .</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>29 .</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="66">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Texto 1 I have a dream that one day down in Alabama, with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification; that one day right down in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers (Martin Luther King, 1963). (Adaptado de: https://kr.usembassy.gov/martin-luther-king-jr-dream-speech-1963/. Acesso em 26/05/2023.) Texto 2</p>
+        <p>Considere os dois textos e assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O texto 2 apresenta uma consequência social advinda do fato de que o “sonho” mencionado no texto 1 tornou-se realidade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Os textos 1 e 2 são complementares porque usam diferentes linguagens para ilustrar a natureza velada do racismo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O texto 2 funciona como um indício de que aquilo que se almejava em 1 ainda não se tornou realidade em todos os contextos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Os textos 1 e 2 são contraditórios porque empregam dife­ rentes recursos de linguagem para tratar do racismo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="67">
+      <statement>
+        <p>Em uma visita a um museu de arte indígena, um estudante ob­ servou uma obra seguida de uma placa explicativa: In some indigenous cultures, headdresses represent Native peoples’ right to govern themselves according to their own laws. The materials they are constructed with can vary greatly, including wood, iron, feathers, and ivory. Rather than using gridded designs (symbols of spiritual beliefs) or putting birds or mammals at center stage, as several others do, horns were attached to this headdress, an emblem of power reserved for those “whose exceeding worth and power is admitted by all the nation”. (Imagens (nas alternativas) e texto (acima) adaptados de: https://americanindian.si.edu/ exhibitions/infinityofnations/introduction.html. Acesso em 31/05/2023.) Qual das imagens corresponde à descrição da placa? a) b) c) d)</p>
+      </statement>
+    </essay_question>
+    <objective_question number="68">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O texto a seguir é parte de uma chamada para publicação de artigos em uma edição especial da revista Nature. The environmental and ethical implications of traditional livestock rearing, combined with an increasing global population and demand for protein-rich nutrition, has led to investments in alternative protein research. One emerging approach is cellular agriculture, in which traditional ‘meat’ tissues, such as muscle and fat cells from cows, chicken and fish, or alternative protein sources, such as algae, are cultivated under controlled laboratory conditions. However, the optimisation of these protocols is highly dependent on cell types, and further development is required to make cellular agriculture an economically viable alternative to traditional sources of protein. This special issue welcomes research on improvements to cellular agriculture protocols to maximize sustainable protein production. (Adaptado de: https://www.nature.com/collections/chhdggaffd. Acesso em 12/05/2023.) Qual seria o tópico específico da edição especial ao qual o texto se refere?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Alternativas economicamente viáveis dentro da agricultura tradicional.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Desafios éticos e ambientais da pecuária.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Sustentabilidade na pesquisa de novos protocolos para agri­ cultura tradicional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Agricultura celular de diversas fontes de proteína. (Adaptado de: https://www.toronto.ca/wp-con­ tent/uploads/2019/04/8f80-Anti-Black-Racism­ -Poster-1.pdf. Acesso em 27/05/2023.) 19</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="69">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma matéria para um site, jornalistas fizeram interações com o ChatGPT a fim de analisar sua capacidade de criar textos possivelmente problemáticos. Para tanto, eles pediram que o programa de inteligência artificial reescrevesse um e-mail que seria, hipoteticamente, usado como golpe. Eis o texto reescrito pelo ChatGPT: (Adaptado de: https://mashable.com/article/chatgpt-scary-uses. Acesso em 12/05/2023.) O e-mail criado pelo programa chama a atenção</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pelo uso de linguagem agressiva, pois se apoia em expres­ sões violentas para tentar extorquir o usuário.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>por reproduzir a sintaxe da comunicação humana à medida que recorre ao humor para acusar o usuário.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pelo emprego de um tom sarcástico, pois se apoia em lin­ guagem informal para ameaçar o usuário.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>por infringir questões éticas, uma vez que informa ter torna­ do públicas informações privadas do usuário.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="70">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Netflix’s “Wednesday” draws many real-world parallels. It fea­ tures unusual creatures (werewolves and psychics) collectively referred to as Outcasts, while they refer to non-supernatural humans as Normies. The Outcasts are stand-ins for anyone othered by society, such as indigenous people, People of Color, the LGBT+, and the neurodivergent. Every so often, the Normies’ distrust in the Outcasts boils over into hatred and violence, and the othering and dehumanization normalizes violence against the Outcasts in day-to-day life. In the show, the town’s colonial era saw Outcasts not only being “othered”, but also murdered by Pilgrims. These acts of butchery were all but erased from their history books. It’s a distressingly familiar story. (Adaptado de: https://atribecalledgeek.com/woe-to-the-colonizer-an-indigenous-pers­ pective-of-wednesday/. Acesso em 12/05/2023.) A análise do autor sobre “Wednesday” se apoia em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>paralelos entre ficção e realidade para discutir como a exis­ tência de grupos marginalizados tem sido historicamente apagada dos livros de história.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>elementos fictícios presentes na série para aludir ao modo como a desumanização da alteridade é um processo histó­ rico e violento.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>fatos históricos para traçar a origem da exploração de povos indígenas e o modo como foram violentamente desumani­ zados na série.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>comparações históricas sobre os conflitos entre colonizado­ res e peregrinos para criticar o modo como esse conflito é retratado na série. “Hey there. You're probably wondering why you're getting this e-mail. The truth is, I put some malware on a website that you visited. My malware took control of your browser and recorded everything, including your contacts from your messenger, Facebook, and e-mail account. To top it all off, I also took videos of you. So I'll give you the option to make a deal before I do anything with it.”</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="71">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Guardians of the Galaxy Vol.3” does something few movies have ever done: it tells a compassionate story about testing on animals to a Marvel-size audience. The film features gorgeously animated animals who take moviegoers on an emotional roller­ coaster while exposing the evils of animal testing. The strength of James Gunn’s screenplay lies in the fact that it doesn’t back away from the tough subject matter, and we’re thrilled by a story about having empathy for all animals. For his compelling portrayal of Rocket and for reminding moviegoers that animals tortured in laboratories are not the numbers tattooed on them, PETA (People for the Ethical Treatment of Animals) is honoring Gunn with the “Not a Number” Award. (Adaptado de: https://www.peta.org/blog/guardians-of-the-galaxy-vol-3/. Acesso em 19/05/2023.) Para a autora dessa crítica, o diferencial do filme está</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>na coragem do roteiro em dar destaque à polêmica de expe­ rimentação em animais para testes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>no ineditismo da abordagem do tema em produções de grande alcance, como os filmes da Marvel.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>no retrato das emoções de animais usados em experimentos em laboratórios.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>no impacto da abordagem do tema para órgãos de grande repercussão, como a PETA.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="72">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No trecho a seguir, observa-se o uso de uma variedade linguís­ tica de inglês conhecida como African American Vernacular English (AAVE). Ainda que tão diversa e sofisticada quanto quaisquer outras variedades, a AAVE ainda é estigmatizada por ter características linguísticas diferentes daquelas que marcam a variedade de prestígio, isto é, a padrão. Assinale a alternativa que preenche corretamente as lacunas no trecho a seguir: É correto dizer que o excerto apresenta aspectos linguísticos – que diferem dos observados na variedade padrão – como (i) _________, e que sua temática central é a (ii) ________.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>(i) a repetição do verbo de ligação; (ii) corrupção e o sofri­ mento inerentes ao homem.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>(i) a possibilidade de dupla negação; (ii) previsibilidade da vontade de Deus.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>(i) a concordância verbal não padrão; (ii) ilusão do homem quanto à sua superioridade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>(i) a omissão de sujeito em orações; (ii) ganância do homem em se sobrepor a Deus. “– Listen, God love everything you love – and a mess of stuff you don't. (…) It always making little surprises and springing them on us when us least expect. (…) Man corrupt everything (…) He try to make you think he everywhere (…), you think he God. But he ain't. (…) I start to wonder why us suffer. Why us black. It didn’t take long to realize I didn’t hardly know nothing.” (Adaptado de: WALKER, Alice. The Color Purple. London: The Orion Publishing Group, 1983.)</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

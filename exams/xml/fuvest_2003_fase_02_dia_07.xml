@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2003" phase="discursive" day="0" variation="V1" date="2003-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 1861, o pesquisador Kekulé e o professor secundário Loschmidt apresentaram, em seus escritos, as seguintes fórmulas estruturais para o ácido acético (C2H4O2): Mais tarde, Lewis introduziu uma maneira, ainda utilizada, de representar estruturas moleculares. Nas fórmulas de Lewis, o total de elétrons de valência dos átomos contribui para as ligações químicas, bem como para que cada átomo passe a ter configuração de gás nobre.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Faça uma legenda para as fórmulas de Kekulé e Loschmidt, indicando as figuras utilizadas para representar os átomos de C, H e O.</p>
+        </part>
+        <part>
+          <p>Escreva a fórmula de Lewis do ácido acético.</p>
+        </part>
+        <part>
+          <p>Mostre, usando fórmulas estruturais, as interações que mantêm próximas duas moléculas de ácido acético.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma mistura de cloreto de sódio e nitrato de sódio, de massa 20,20 g, foi dissolvida em água suficiente. A essa solução adicionaram-se 250 mL de solução aquosa de nitrato de prata de concentração 0,880 mol/L. Separou-se o sólido formado, por filtração, e no filtrado mergulhou-se uma placa de cobre metálico de massa igual a 20,00 g. Após certo tempo, observou-se depósito prateado sobre a placa e coloração azul na solução. A placa seca pesou 21,52 g. O esquema desse procedimento é:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação balanceada que representa a reação química que ocorre na etapa B.</p>
+        </part>
+        <part>
+          <p>Qual a quantidade, em mols, do depósito prateado formado sobre a placa de cobre? Mostre os cálculos.</p>
+        </part>
+        <part>
+          <p>Qual a quantidade, em mols, de nitrato de prata em 250 mL da solução precipitante? Mostre os cálculos.</p>
+        </part>
+        <part>
+          <p>Qual a massa de nitrato de sódio na mistura original? Mostre os cálculos. Dados: massas molares (g/mol) Ag.....108 Cu.....64 NaCl.....58</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As florestas, que cobrem partes de nosso planeta, participam da remoção do dióxido de carbono do ar atmosférico que respiramos. No entanto, em uma nave espacial, é preciso utilizar determinadas substâncias para retirar o dióxido de carbono do ar que os astronautas respiram. Isto pode ser feito por meio de qualquer das seguintes transformações: peróxido de sódio + dióxido de carbono → carbonato de sódio + oxigênio hidróxido de magnésio + dióxido de carbono → carbonato de magnésio + água hidróxido de lítio + dióxido de carbono → carbonato de lítio + água</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Utilizando fórmulas químicas, escreva as equações balanceadas que representam essas transformações.</p>
+        </part>
+        <part>
+          <p>Uma nave espacial deve carregar o mínimo de carga. Assim, qual dos reagentes das três transformações acima seria o mais adequado para uma viagem interplanetária? Explique.</p>
+        </part>
+        <part>
+          <p>Um astronauta produz cerca de 400 L de CO2, medidos a 25 ºC e 1 atm, a cada 24 horas. Calcule a massa do reagente, escolhido no item b, que será necessária para remover esse volume de CO2. Dados: Volume molar de gás a 25 ºC e 1 atm: 25 L/mol Massas molares (g/mol) H...1,0 Li...7,0 C...12 O...16 Na...23 Mg...24</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A “química verde”, isto é, a química das transformações que ocorrem com o mínimo de impacto ambiental, está baseada em alguns princípios: 1) utilização de matéria–prima renovável, 2) não geração de poluentes, 3) economia atômica, ou seja, processos realizados com a maior porcentagem de átomos dos reagentes incorporados ao produto desejado. Analise os três processos industriais de produção de anidrido maléico, representados pelas seguintes equações químicas:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual deles apresenta maior economia atômica? Justifique.</p>
+        </part>
+        <part>
+          <p>Qual deles obedece pelo menos a dois princípios dentre os três citados? Justifique.</p>
+        </part>
+        <part>
+          <p>Escreva a fórmula estrutural do ácido que, por desidratação, pode gerar o anidrido maléico.</p>
+        </part>
+        <part>
+          <p>Escreva a fórmula estrutural do isômero geométrico do ácido do item c.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O 2-metilbutano pode ser obtido pela hidrogenação catalítica, em fase gasosa, de qualquer dos seguintes alcenos isoméricos: 2-metil-2-buteno + H2 → 2-metilbutano ∆H1 = -113 kJ/mol 2-metil-1-buteno + H2 → 2-metilbutano ∆H2 = -119 kJ/mol 3-metil-1-buteno + H2 → 2-metilbutano ∆H3 = -127 kJ/mol</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Complete o esquema da página ao lado com a fórmula estrutural de cada um dos alcenos que faltam. Além disso, ao lado de cada seta, coloque o respectivo ∆H de hidrogenação.</p>
+        </part>
+        <part>
+          <p>Represente, em uma única equação e usando fórmulas moleculares, as reações de combustão completa dos três alcenos isoméricos.</p>
+        </part>
+        <part>
+          <p>A combustão total de cada um desses alcenos também leva a uma variação negativa de entalpia. Essa variação é igual para esses três alcenos? Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A reação de acetato de fenila com água, na presença de catalisador, produz ácido acético e fenol. Os seguintes dados de concentração de acetato de fenila, [A], em função do tempo de reação, t, foram obtidos na temperatura de 5 ºC: t/min 0 0,25 0,50 0,75 1,00 1,25 1,50 [A]/mol L-1 0,80 0,59 0,43 0,31 0,23 0,17 0,12</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Com esses dados, construa um gráfico da concentração de acetato de fenila (eixo y) em função do tempo de reação (eixo x), utilizando o quadriculado da página ao lado.</p>
+        </part>
+        <part>
+          <p>Calcule a velocidade média de reação no intervalo de 0,25 a 0,50 min e no intervalo de 1,00 a 1,25 min.</p>
+        </part>
+        <part>
+          <p>Utilizando dados do item b, verifique se a equação de velocidade dessa reação pode ser dada por: v = k [A] onde v = velocidade da reação k = constante, grandeza que independe de v e de [A] [A] = concentração de acetato de fenila</p>
+        </part>
+        <part>
+          <p>Escreva a equação química que representa a hidrólise do acetato de fenila.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ao cozinhar alimentos que contêm proteínas, forma-se acrilamida (amida do ácido acrílico), substância suspeita de ser cancerígena. Estudando vários aminoácidos, presentes nas proteínas, com o α -aminogrupo marcado com nitrogênio-15, verificou-se que apenas um deles originava a acrilamida e que este último composto não possuía nitrogênio-15. Dados:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dê a fórmula estrutural da acrilamida.</p>
+        </part>
+        <part>
+          <p>Em função dos experimentos com nitrogênio-15, qual destes aminoácidos, a asparagina ou o ácido glutâmico, seria responsável pela formação da acrilamida? Justifique.</p>
+        </part>
+        <part>
+          <p>Acrilamida é usada industrialmente para produzir poliacrilamida. Represente um segmento da cadeia desse polímero.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Cobalto pode ser obtido a partir de seu óxido, por redução com hidrogênio ou com monóxido de carbono. São dadas as equações representativas dos equilíbrios e suas respectivas constantes a 550 ºC. I. CoO(s) + H2(g) Co(s) + H2O(g) K1 = 67 II. CoO(s) + CO(g) Co(s) + CO2(g) K2 = 490</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Mostre como se pode obter a constante (K3) do equilíbrio representado por CO(g) + H2O(g) CO2(g) + H2(g) a 550 ºC, a partir das constantes dos equilíbrios I e II.</p>
+        </part>
+        <part>
+          <p>Um dos processos industriais de obtenção de hidrogênio está representado no item a. A 550 ºC, a reação, no sentido da formação de hidrogênio, é exotérmica. Para este processo, discuta a influência de cada um dos seguintes fatores: – aumento de temperatura. – uso de catalisador. – variação da pressão.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma mistura constituída de 45 g de cloreto de sódio e 100 mL de água, contida em um balão e inicialmente a 20 ºC, foi submetida à destilação simples, sob pressão de 700 mm Hg, até que fossem recolhidos 50 mL de destilado. O esquema abaixo representa o conteúdo do balão de destilação, antes do aquecimento:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>De forma análoga à mostrada acima, represente a fase de vapor, durante a ebulição.</p>
+        </part>
+        <part>
+          <p>Qual a massa de cloreto de sódio que está dissolvida, a 20 ºC, após terem sido recolhidos 50 mL de destilado? Justifique.</p>
+        </part>
+        <part>
+          <p>A temperatura de ebulição durante a destilação era igual, maior ou menor que 97,4 ºC? Justifique. Dados: Curva de solubilidade do cloreto de sódio em água: Ponto de ebulição da água pura a 700 mm Hg: 97,4 ºC</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dimetil-hidrazina e tetróxido de dinitrogênio foram usados nos foguetes do módulo que pousou na Lua nas missões Apollo. A reação, que ocorre pela simples mistura desses dois compostos, pode ser representada por (CH3)2N – NH2(l) + 2 N2O4(l) → 3N2(g) + 4 H2O(g) + 2 CO2(g)</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Entre os reagentes, identifique o oxidante e o redutor. Justifique sua resposta, considerando os números de oxidação do carbono e do nitrogênio.</p>
+        </part>
+        <part>
+          <p>Cite duas características da reação apresentada que tornam adequado o uso desses reagentes.</p>
+        </part>
+        <part>
+          <p>Qual a pressão parcial do gás nitrogênio quando a pressão da mistura gasosa liberada se iguala à pressão na superfície da Lua? Mostre os cálculos. Dados: número de oxidação do carbono na dimetil-hidrazina: -2 pressão na superfície lunar: 3 x 10-10 Pa ATENÇÃO ESTE CADERNO CONTÉM 10 (DEZ) QUESTÕES. VERIFIQUE SE ESTÁ COMPLETO. DURAÇÃO DA PROVA: 3 (TRÊS) HORAS. VERIFIQUE SE NA PÁGINA CORRESPONDENTE À RESPOSTA DAS QUESTÕES 05 e 06 APARECE UM DESENHO PRÉ-IMPRESSO. SE FALTAR, PEÇA AO FISCAL A SUBSTITUIÇÃO DA PÁGINA. • A correção de uma questão será restrita somente ao que estiver apresentado no espaço correspondente, na folha de resposta, à direita da questão. É necessário indicar a resolução das questões que envolvem cálculos, não sendo suficiente apenas escrever as respostas. • Há espaço para rascunho, tanto no início quanto no final deste caderno. RASCUNHO</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2017" phase="objective" day="0" variation="V1" date="2017-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Ondas gravitacionais foram previstas por Einstein em 1916 e diretamente detectadas pela primeira vez em 2015. Sob determinadas condições, um sistema girando com velocidade angular w irradia tais ondas com potência proporcional a GcβQγwδ, em que G é a constante de gravitação universal; c, a velocidade da luz e Q, uma grandeza que tem unidade em kg.m2. Assinale a opção correta. A ( ) β = −5, γ = 2, e δ = 6 B ( ) β = −3/5, γ = 4/3, e δ = 4 C ( ) β = −10/3, γ = 5/3, e δ = 5 D ( ) β = 0 γ = 1, e δ = 3 E ( ) β = −10, γ = 3, e δ = 9</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Um bastão rígido e uniforme, de comprimento L, toca os pinos P e Q ﬁxados numa parede vertical, interdistantes de a, conforme a ﬁgura. O coeﬁciente de atrito entre cada pino e o bastão é µ, e o ângulo deste com a horizontal é α. Assinale a condição em que se torna possível o equilíbrio estático do bastão. A ( ) L ≥a(1 + tan α/µ) B ( ) L ≥a(−1 + tan α/µ) C ( ) L ≥a(1 + tan α/2µ) D ( ) L ≥a(−1 + tan α/2µ) E ( ) L ≥a(1 + tan α/µ)/2 b b a L α P Q</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Na ﬁgura, o vagão move-se a partir do repouso sob a ação de uma aceleração a constante. Em decorrência, desliza para trás o pequeno bloco apoiado em seu piso de coeﬁciente de atrito µ. No instante em que o bloco percorrer a distância L, a velocidade do bloco, em relação a um referencial externo, será igual a A ( ) g √ L/√a −µg B ( ) g √ L/√a + µg C ( ) µg √ L/√a −µg D ( ) µg √ 2L/√a −µg E ( ) µg √ 2L/√a + µg ////////////////////////////////////////////////// L b b a</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Carregada com um potencial de 100 V, ﬂutua no ar uma bolha de sabão condutora de eletricidade, de 10 cm de raio e 3,3 ×10−6 cm de espessura. Sendo a capacitância de uma esfera condutora no ar proporcional ao seu raio, assinale o potencial elétrico da gota esférica formada após a bolha estourar. A ( ) 6 kV B ( ) 7 kV C ( ) 8 kV D ( ) 9 kV E ( ) 10 kV</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Considere um automóvel com tração dianteira movendo-se aceleradamente para a frente. As rodas dianteiras e traseiras sofrem forças de atrito respectivamente para: A ( ) frente e frente. B ( ) frente e trás. C ( ) trás e frente. D ( ) trás e trás. E ( ) frente e não sofrem atrito.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Na ﬁgura, um tubo ﬁno e muito leve, de área de seção reta S e comprimento a, encontra-se inicialmente cheio de água de massa M e massa especíﬁca ρ. Graças a uma haste ﬁna e de peso desprezível, o conjunto forma um pêndulo simples de comprimento L medido entre o ponto de suspensão da haste e o centro de massa inicial da água. Posto a oscilar, no instante inicial começa a pingar água pela base do tubo a uma taxa constante r = −∆M/∆t. Assinale a expressão da variação temporal do período do pêndulo. A ( ) 2π √ L/√g B ( ) 2π√ρLS −rt/√ρSg C ( ) 2π√ρLS + rt/√ρSg D ( ) 2π√2ρLS −rt/√2ρSg E ( ) 2π√2ρLS + rt/√2ρSg //////////////////// b b L a</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Na ﬁgura, a extremidade de uma haste delgada livre, de massa m uniformemente distribuída, apoia-se sem atrito sobre a massa M do pêndulo simples. Considerando o atrito entre a haste e o piso, assinale a razão M/m para que o conjunto permaneça em equilíbrio estático. A ( ) tan φ/2 tanθ B ( ) (1 −tanφ)/4senθ cos φ C ( ) (sen2φ cot θ −2sen2θ)/4 D ( ) (senφ cot θ −2sen22θ)/4 E ( ) (sen2φ cot θ −sen2θ)/4 //////////////////// b b //////////////////// θ φ m M</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Em um experimento no vácuo, um pulso intenso de laser incide na superfície de um alvo sólido, gerando uma nuvem de cargas positivas, elétrons e átomos neutros. Uma placa metálica, ligada ao terra por um resistor R de 50 Ω, é colocada a 10 cm do alvo e intercepta parte da nuvem, sendo observado no osciloscópio o gráﬁco da variação temporal da tensão sobre o resistor. Considere as seguintes aﬁrmativas: I. A área indicada por M no gráﬁco é proporcional à carga coletada de elétrons, e a indicada por N é proporcional à de cargas positivas coletadas. II. A carga total de elétrons coletados que atinge a placa é aproximadamente do mesmo valor (em módulo) que a carga total de cargas positivas coletadas, e mede aproximadamente 1 nC. III. Em qualquer instante a densidade de cargas positivas que atinge a placa é igual à de elétrons. 0 0.05 0.10 0.15 0.20 -0.05 -0.10 -0.15 -0.20 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 Tensão [V] Tempo [µs] M N laser osciloscópio //////////////////// nuvem R Esta(ão) correta(as) apenas A ( ) I. B ( ) II. C ( ) III. D ( ) I e II. E ( ) II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Uma placa é feita de um metal cuja função trabalho W é menor que hν, sendo ν uma frequência no intervalo do espectro eletromagnético visível e h a constante de Planck. Deixada exposta, a placa interage com a radiação eletromagnética proveniente do Sol absorvendo uma potência P. Sobre a ejeção de elétrons da placa metálica nesta situação é correto aﬁrmar que os elétrons A ( ) não são ejetados instantaneamente, já que precisam de um tempo mínimo para acúmulo de energia. B ( ) podem ser ejetados instantaneamente com uma mesma energia cinética para qualquer elétron. C ( ) não podem ser ejetados pois a placa metálica apenas reﬂete toda a radiação. D ( ) podem ser ejetados instantaneamente, com energia que depende da frequência da radiação absorvida e da energia do elétron no metal. E ( ) não podem ser ejetados instantaneamente e a energia cinética após a ejeção depende da frequência da radiação absorvida e da energia do elétron no metal.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. A ﬁgura mostra dois anteparos opacos à radiação, sendo um com fenda de tamanho variável d, com centro na posição x = 0, e o outro com dois fotodetectores de intensidade da radiação, tal que F1 se situa em x = 0 e F2, em x = L &gt; 4d. No sistema incide radiação eletromagnética de comprimento de onda λ constante. Num primeiro experimento, a relação entre d e λ é tal que d ≫λ, e são feitas as seguintes aﬁrmativas: I. Só F1 detecta radiação. II. F1 e F2 detectam radiação. III. F1 não detecta e F2 detecta radiação. Num segundo experimento, d é reduzido até à ordem do comprimento de λ e, neste caso, são feitas estas aﬁrmativas: IV. F2 detecta radiação de menor intensidade que a detectada em F1. V. Só F1 detecta radiação. VI. Só F2 detecta radiação. Assinale as aﬁrmativas possíveis para a detecção da radiação em ambos os experimentos. A ( ) I, II e IV B ( ) I, IV e V C ( ) II, IV e V D ( ) III, V e VI E ( ) I, IV e VI b b x F1 F2 d L λ</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Um sistema é constituído por uma sequência vertical de N molas ideais interligadas, de mesmo comprimento natural ℓe constante elástica k, cada qual acoplada a uma partícula de massa m. Sendo o sistema suspenso a partir da mola 1 e estando em equilíbrio estático, pode-se aﬁrmar que o comprimento da A ( ) mola 1 é igual a ℓ+ (N −1)mg/k. B ( ) mola 2 é igual a ℓ+ Nmg/k. C ( ) mola 3 é igual a ℓ+ (N −2)mg/k. D ( ) mola N −1 é igual a ℓ+ mg/k. E ( ) mola N é igual a ℓ.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Elétrons com energia cinética inicial de 2 MeV são injetados em um dispositivo (bétatron) que os acelera em uma trajetória circular perpendicular a um campo magnético cujo ﬂuxo varia a uma taxa de 1 000 Wb/s. Assinale a energia cinética ﬁnal alcançada pelos elétrons após 500 000 revoluções. A ( ) 498 MeV B ( ) 500 MeV C ( ) 502 MeV D ( ) 504 MeV E ( ) 506 MeV</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Uma carga q de massa m é solta do repouso num campo gravitacional g onde também atua um campo de indução magnética uniforme de intensidade B na horizontal. Assinale a opção que fornece a altura percorrida pela massa desde o repouso até o ponto mais baixo de sua trajetória, onde ela ﬁca sujeita a uma aceleração igual e oposta à que tinha no início. A ( ) g(m/qB)2 B ( ) g(qB/m)2 C ( ) 2g(m/qB)2 D ( ) 2g(qB/m)2 E ( ) g(m/qB)2/2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Um automóvel percorre um trecho retilíneo de uma rodovia. A ﬁgura mostra a velocidade do carro em função da distância percorrida, em km, indicada no odômetro. Sabendo que a velocidade escalar média no percurso é de 36 km/h, assinale respectivamente o tempo total dispendido e a distância entre os pontos inicial e ﬁnal do percurso. A ( ) 9 min e 2 km. B ( ) 10 min e 2 km. C ( ) 15 min e 2 km. D ( ) 15 min e 3 km. E ( ) 20 min e 2 km. b b v [km/h] d [km] 60 30 0 -30 -60 1 2 3 4 5 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Num experimento que mede o espectro de emissão do átomo de hidrogênio, a radiação eletromagnética emitida pelo gás hidrogênio é colimada por uma fenda, passando a seguir por uma rede de difração. O espectro obtido é registrado em chapa fotográﬁca, cuja parte visível é mostrada na ﬁgura. λα [nm] 656,3 λβ [nm] 486,1 λγ [nm] 430,5 λδ [nm] 410,2 λǫ [nm] 364,6 b b b Pode-se aﬁrmar que A ( ) O modelo de Bohr explica satisfatoriamente as linhas do espectro visível do átomo de Hidrogênio. B ( ) Da esquerda para a direita as linhas correspondem a comprimentos de onda do violeta ao vermelho. C ( ) O espaçamento entre as linhas adjacentes decresce para um limite próximo ao infravermelho. D ( ) As linhas do espectro encontrado são explicadas pelo modelo de Rutherford. E ( ) Balmer obteve em 1885 a fórmula empírica para o comprimento de onda: λ = R 1 22 − 1 n2 , em que n = 3, 4 · · · e R é a constante de Rydberg.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Com os motores desligados, uma nave executa uma trajetória circular com período de 5 400 s próxima à superfície do planeta em que orbita. Assinale a massa especíﬁca média desse planeta. A ( ) 1,0 g/cm3 B ( ) 1,8 g/cm3 C ( ) 2,4 g/cm3 D ( ) 4,8 g/cm3 E ( ) 20,0 g/cm3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Um emissor E1 de ondas sonoras situa-se na origem de um sistema de coordenadas e um emissor E2, num ponto do seu eixo y, emitindo ambos o mesmo sinal de áudio senoidal de comprimento de onda λ, na frequência de 34 kHz. Mediante um receptor R situado num ponto do eixo x a 40 cm de E1, observa-se a interferência construtiva resultante da superposição das ondas produzidas por E1 e E2. É igual a λ a diferença entre as respectivas distâncias de E2 e E1 até R. Variando a posição de E2 ao longo de y, essa diferença chega a 10λ. As distâncias (em centímetros) entre E1 e E2 nos dois casos são A ( ) 9 e 30. B ( ) 1 e 10. C ( ) 12,8 e 26,4. D ( ) 39 e 30. E ( ) 12,8 e 128</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Uma transformação cíclica XYZX de um gás ideal indicada no gráﬁco P × V opera entre dois extremos de temperatura, em que YZ é um processo de expansão adiabática reversível. Considere R = 2,0 cal/mol.K = 0,082 atm.ℓ/mol.K , PY = 20 atm, VZ = 4,0 ℓ, VY = 2,0 ℓe a razão entre as capacidades térmicas molar, a pressão e a volume constante, dada por CP/CV = 2,0. Assinale a razão entre o rendimento deste ciclo e o de uma máquina térmica ideal operando entre os mesmos extremos de temperatura. A ( ) 0,38 B ( ) 0,44 C ( ) 0,55 D ( ) 0,75 E ( ) 2,25 V P X Y Z</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Uma onda harmônica propaga-se para a direita com velocidade constante em uma corda de densidade linear µ = 0,4 g/cm. A ﬁgura mostra duas fotos da corda, uma num instante t = 0 s e a outra no instante t = 0,5 s. Considere as seguintes aﬁrmativas: I. A velocidade mínima do ponto P da corda é de 3 m/s. II. O ponto P realiza um movimento oscilatório com período de 0,4 s. III. A corda está submetida a uma tensão de 0,36 N. Assinale a(s) aﬁrmativa(s) possível(possíveis) para o movimento da onda na corda A ( ) I. B ( ) II. C ( ) III. D ( ) I e II. E ( ) II e III. x[m] t = 0,0s t = 0,5s b P 0 6 12 18 24 30</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Água de um reservatório é usada para girar um moinho de raio R com velocidade angular w constante graças ao jato que ﬂui do orifício de área S situado a uma profundidade h do seu nível. Com o jato incidindo perpendicularmente em cada pá, com choque totalmente inelástico, calcule o torque das forças de atrito no eixo do moinho, sendo ρ e g, respectivamente, a massa especíﬁca da água e a aceleração da gravidade. A ( ) 2ρghRS B ( ) ρR2Sw√2gh C ( ) 2ρghRS(1 −√2gh/wR) D ( ) 2ρghRS(1 −wR/√2gh) E ( ) ρR2Sw√2gh(1 −wR/√2gh) b h ///////////////////// R As Questões de 21 a 30 devem ser resolvidas no caderno de soluções</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Em queda livre a partir do repouso, um imã atravessa longitudinalmente o interior de um tubo de plástico, sem tocar-lhe as paredes, durante um intervalo de tempo ∆t. Caso este tubo fosse de metal, o tempo para essa travessia seria maior, igual ou menor que ∆t? Justiﬁque sua resposta.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Suponha que a atmosfera de Vênus seja composta dos gases CO2, N2, Ar, Ne e He, em equilíbrio térmico a uma temperatura T = 735 K.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a razão entre a velocidade quadrática média das moléculas de cada gás e a velocidade de escape nesse planeta.</p>
+        </part>
+        <part>
+          <p>Que conclusão pode ser obtida sobre a provável concentração desses gases nessa atmosfera? Obs.: Considere Vênus com o raio igual ao da Terra e a massa igual a 0,810 vezes a desta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. De uma planície horizontal, duas partículas são lançadas de posições opostas perfazendo trajetórias num mesmo plano vertical e se chocando elasticamente no ponto de sua altitude máxima – a mesma para ambas. A primeira partícula é lançada a 30o e aterriza a 90o, também em relação ao solo, a uma distância L de seu lançamento. A segunda é lançada a 60o em relação ao solo. Desprezando a resistência do ar, determine:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a relação entre as massas das partículas,</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a distância entre os pontos de lançamento e</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a distância horizontal percorrida pela segunda partícula.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Duas cordas de mesmo comprimento, de densidades lineares µ1 e µ2, tendo a primeira o dobro da massa da outra, são interconectadas formando uma corda única aﬁxada em anteparos interdistantes de ℓ. Dois pulsos propagam-se ao mesmo tempo em sentidos opostos nessa corda. Determine o instante e a posição em que os pulsos se encontram sabendo que a corda está submetida a uma tensão T.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Dispondo de até 5 resistências R, monte um circuito no interior da caixa da ﬁgura, tal que</p>
+      </statement>
+      <parts>
+        <part>
+          <p>com uma bateria de tensão V entre os terminais AB, um voltímetro entre os terminais CD mede uma diferença de potencial V/2, e</p>
+        </part>
+        <part>
+          <p>com essa bateria entre os terminais CD, um amperímetro entre os terminais AB mede uma corrente igual a V/3R. A B C D</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Mediante um ﬁo inextensível e de peso desprezível, a polia da ﬁgura suporta à esquerda uma massa de 60 kg, e à direita, uma massa de 55 kg tendo em cima outra de 5 kg, de formato anelar, estando este conjunto a 1 m acima da massa da esquerda. Num dado instante, por um dispositivo interno, a massa de 5 kg é lançada para cima com velocidade v = 10 m/s, após o que, cai e se choca inelasticamente com a de 55 kg. Determine a altura entre a posição do centro de massa de todo o sistema antes do lançamento e a deste centro logo após o choque. b</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Em equilíbrio, o tubo emborcado da ﬁgura contém mercúrio e ar aprisionado. Com a pressão atmosférica de 760 mm de Hg a uma temperatura de 27oC, a altura da coluna de mercúrio é de 750 mm. Se a pressão atmosférica cai a 740 mm de Hg a uma temperatura de 2oC, a coluna de mercúrio é de 735 mm. Determine o comprimento ℓaparente do tubo. Hg ℓ</p>
+      </statement>
+    </essay_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Deseja-se aquecer uma sala usando uma máquina térmica de potência P operando conforme o ciclo de Carnot, tendo como fonte de calor o ambiente externo à temperatura T1. A troca de calor através das paredes se dá a uma taxa κ(T2 −T1), em que T2 é a temperatura da sala num dado instante e κ, uma constante com unidade em J/s.K. Pedem-se:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A temperatura ﬁnal de equilíbrio da sala.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A nova temperatura de equilíbrio caso se troque a máquina térmica por um resistor dissipando a mesma potência P.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Entre tais equipamentos, indique qual o mais adequado em termos de consumo de energia. Justiﬁque.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Num ponto de coordenadas (0,0,0) atua na direção x um campo de indução magnética com 2 × 10−5T de intensidade. No espaço em torno deste ponto coloca-se um ﬁo retilíneo, onde ﬂui uma corrente de 5 A, acarretando nesse ponto um campo de indução magnética resultante de 2 √ 3 × 10−5 T na direção y. Determine o lugar geométrico dos pontos de intersecção do ﬁo com o plano xy.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. A ﬁgura mostra uma lente semiesférica no ar de raio R = √ 3/2 m com índice de refração n = √ 3. Um feixe de luz paralelo incide na superfície plana, formando um ângulo de 60o em relação a x.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Indique se há raio refratado saindo da lente paralelamente aos incidentes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Se houver, ele incide a que distância do centro da lente?</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Para quais ângulos θ será iluminado o anteparo esférico de raio 2R de mesmo centro da lente? b θ x Anteparo</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

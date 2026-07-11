@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2010" phase="objective" day="0" variation="V1" date="2010-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. A figura ao lado apresenta a curva de aquecimento de 100 g de uma substância pura genérica no estado sólido. Sabe-se que calor é fornecido a uma velocidade constante de 500 cal min–1. Admite-se que não há perda de calor para o meio ambiente, que a pressão é de 1 atm durante toda a transformação e que a substância sólida apresenta apenas uma fase cristalina. Considere que sejam feitas as seguintes afirmações em relação aos estágios de aquecimento descritos na figura:</p>
+        <p>I. No segmento PQ ocorre aumento da energia cinética das moléculas. II. No segmento QR ocorre aumento da energia potencial. III. O segmento QR é menor que o segmento ST porque o calor de fusão da substância é menor que o seu calor de vaporização. IV. O segmento RS tem inclinação menor que o segmento PQ porque o calor específico do sólido é maior que o calor específico do líquido.</p>
+        <p>Das afirmações acima, está(ão) ERRADA(S):</p>
+        <p>A ( ) apenas I.</p>
+        <p>B ( ) apenas I, II e III.</p>
+        <p>C ( ) apenas II e IV. D ( ) apenas III.</p>
+        <p>E ( ) apenas IV.</p>
+        <p>T/°C Tempo/min 0 40 80 120 160 -40 0 40 80 120</p>
+        <p>P Q R S T T/°C Tempo/min 0 40 80 120 160 -40 0 40 80 120</p>
+        <p>P Q R S T</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Historicamente, a teoria atômica recebeu várias contribuições de cientistas. Assinale a opção que apresenta, na ordem cronológica CORRETA, os nomes de cientistas que são apontados como autores de modelos atômicos.</p>
+        <p>A ( ) Dalton, Thomson, Rutherford e Bohr. B ( ) Thomson, Millikan, Dalton e Rutherford. C ( ) Avogadro, Thomson, Bohr e Rutherford. D ( ) Lavoisier, Proust, Gay-Lussac e Thomson. E ( ) Rutherford, Dalton, Bohr e Avogadro.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. HC (g) A é borbulhado e dissolvido em um solvente X. A solução resultante é não-condutora em relação à corrente elétrica. O solvente X deve ser necessariamente</p>
+        <p>A ( ) polar.</p>
+        <p>B ( ) não-polar.</p>
+        <p>C ( ) hidrofílico. D ( ) mais ácido que HCA. E ( ) menos ácido que HCA.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Uma solução aquosa de HCA 0,1 mol L–1 foi titulada com uma solução aquosa de NaOH 0,1 mol L–1. A figura ao lado apresenta a curva de titulação obtida em relação à condutância da solução de HCA em função do volume de NaOH adicionado.</p>
+        <p>Com base nas informações apresentadas nesta figura, assinale a opção ERRADA.</p>
+        <p>A ( ) Os íons responsáveis pela condutância da solução no ponto R são: H+, CA− e Na+. B ( ) Os íons responsáveis pela condutância da solução no ponto S são: Na+ e CA−. C ( ) A condutância da solução no ponto R é maior que no ponto S porque a mobilidade iônica dos íons presentes em R é maior que a dos íons presentes em S. D ( ) A condutância da solução em T é maior que em S porque os íons OH− têm maior mobilidade iônica que os íons CA−. E ( ) No ponto S, a solução apresenta neutralidade de cargas, no R, predominância de cargas positivas e, no T, de cargas negativas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Uma barra de ferro e um fio de platina, conectados eletricamente a um voltímetro de alta impedância, são parcialmente imersos em uma mistura de soluções aquosas de FeSO4 (1,0 mol L–1) e HCA isenta de oxigênio. Um fluxo de gás hidrogênio é mantido constante sobre a parte imersa da superfície da platina, com pressão nominal 2 H (P ) de 1,0 atm, e a força eletromotriz medida a 25 °C é igual a 0,292 V. Considerando-se que ambos os metais são quimicamente puros e que a platina é o polo positivo do elemento galvânico formado, assinale a opção CORRETA que apresenta o valor calculado do pH desse meio aquoso. Dados: 2 0 2 o o H /H Fe /Fe E 0,000V; E 0,440V + + = = −</p>
+        <p>A ( ) 0,75</p>
+        <p>B ( ) 1,50</p>
+        <p>C ( ) 1,75</p>
+        <p>D ( ) 2,50</p>
+        <p>E ( ) 3,25</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. A seguinte reação não-balanceada e incompleta ocorre em meio ácido:</p>
+        <p>2 2 3 2 7 2 4 2 (Cr O ) (C O ) Cr CO − − + + → +</p>
+        <p>A soma dos coeficientes estequiométricos da reação completa e balanceada é igual a</p>
+        <p>A ( ) 11.</p>
+        <p>B ( ) 22.</p>
+        <p>C ( ) 33.</p>
+        <p>D ( ) 44.</p>
+        <p>E ( ) 55.</p>
+        <p>Volume de NaOH Condutância R S T Volume de NaOH Condutância R S T</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Considere os seguintes líquidos, todos a 25 °C:</p>
+        <p>I. 3 2 Cu(NO ) (aq) II. 2 CS ( )A III. 3 2 CH CO H(aq) IV. 3 2 16 2 CH (CH ) CH OH( )A V. HC (aq) A</p>
+        <p>VI. 6 6 C H ( )A</p>
+        <p>Assinale a opção que indica o(s) líquido(s) solúvel(eis) em tetracloreto de carbono.</p>
+        <p>A ( ) Apenas I, III e V</p>
+        <p>B ( ) Apenas II, IV e VI</p>
+        <p>C ( ) Apenas III D ( ) Apenas IV</p>
+        <p>E ( ) Apenas V</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Considere o seguinte mecanismo de reação genérica:</p>
+        <p>4 2 3 3 A B A B (etapa lenta) + + + + + → +</p>
+        <p>4 3 3 4 A B A B (etapa rápida) + + + + + → +</p>
+        <p>4 3 2 C B C B (etapa rápida) + + + + + → +</p>
+        <p>Com relação a este mecanismo, assinale a opção ERRADA.</p>
+        <p>A ( ) A reação global é representada pela equação 4 3 3 C 2A C 2A + + + + + → + . B ( ) 2 B + é catalisador. C ( ) 3 B + e 4 B + são intermediários da reação. D ( ) A lei de velocidade é descrita pela equação 4 v k[C ][A ] + + = . E ( ) A reação é de segunda ordem.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. A 25 °C e 1 atm, uma solução de água pura contendo algumas gotas de solução alcoólica de indicador ácido-base azul de bromotimol apresenta coloração azulada. Nestas condições, certa quantidade de uma substância no estado sólido é adicionada e a solução torna-se amarelada. Assinale a opção que apresenta a substância sólida adicionada.</p>
+        <p>A ( ) Iodo.</p>
+        <p>B ( ) Sacarose.</p>
+        <p>C ( ) Gelo seco. D ( ) Nitrato de prata.</p>
+        <p>E ( ) Cloreto de sódio.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Em cinco béqueres foram adicionados 50 mL de uma solução de referência, que consiste de uma solução aquosa saturada em cloreto de prata, contendo corpo de fundo, a 25 °C e 1 atm. A cada béquer, foram adicionados 50 mL de uma solução aquosa diluída diferente, dentre as seguintes:</p>
+        <p>I. Solução de cloreto de sódio a 25 °C. II. Solução de Glicose a 25 °C. III. Solução de Iodeto de sódio a 25 °C. IV. Solução de Nitrato de prata a 25 °C. V. Solução de Sacarose a 50 °C.</p>
+        <p>Considere que o corpo de fundo permanece em contato com as soluções após rápida homogeneização das misturas aquosas e que não ocorre formação de óxido de prata sólido. Nestas condições, assinale a opção que indica a(s) solução(ões), dentre as acima relacionadas, que altera(m) a constante de equilíbrio da solução de referência.</p>
+        <p>A ( ) Apenas I, III e IV</p>
+        <p>B ( ) Apenas I e IV</p>
+        <p>C ( ) Apenas II e V D ( ) Apenas III</p>
+        <p>E ( ) Apenas V</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. A 25 °C e 1 atm, uma amostra de 1,0 L de água pura foi saturada com oxigênio gasoso (O2) e o sistema foi mantido em equilíbrio nessas condições. Admitindo-se comportamento ideal para o O2 e sabendo-se que a constante da Lei de Henry para esse gás dissolvido em água é igual a 1,3 x 10–3 mol L–1 atm–1, nas condições do experimento, assinale a opção CORRETA que exprime o valor calculado do volume, em L, de O2 solubilizado nessa amostra.</p>
+        <p>A ( ) 1,3 x 10–3</p>
+        <p>B ( ) 2,6 x 10–3</p>
+        <p>C ( ) 3,9 x 10–3 D ( ) 1,6 x 10–2</p>
+        <p>E ( ) 3,2 x 10–2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Um vaso de pressão com volume interno de 250 cm3 contém gás nitrogênio (N2) quimicamente puro, submetido à temperatura constante de 250 °C e pressão total de 2,0 atm. Assumindo que o N2 se comporta como gás ideal, assinale a opção CORRETA que apresenta os respectivos valores numéricos do número de moléculas e da massa específica, em kg m–3, desse gás quando exposto às condições de pressão e temperatura apresentadas.</p>
+        <p>A ( ) 3,7 x 1021 e 1,1</p>
+        <p>B ( ) 4,2 x 1021 e 1,4</p>
+        <p>C ( ) 5,9 x 1021 e 1,4 D ( ) 7,2 x 1021 e 1,3</p>
+        <p>E ( ) 8,7 x 1021 e 1,3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Um recipiente contendo gás hidrogênio (H2) é mantido à temperatura constante de 0 °C. Assumindo que, nessa condição, o H2 é um gás ideal e sabendo-se que a velocidade média das moléculas desse gás, nessa temperatura, é de 1,85 x 103 m s–1, assinale a alternativa CORRETA que apresenta o valor calculado da energia cinética média, em J, de uma única molécula de H2.</p>
+        <p>A ( ) 3,1 x 10–24</p>
+        <p>B ( ) 5,7 x 10–24</p>
+        <p>C ( ) 3,1 x 10–21 D ( ) 5,7 x 10–21</p>
+        <p>E ( ) 2,8 x 10–18</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Assinale a opção que apresenta a afirmação CORRETA sobre uma reação genérica de ordem zero em relação ao reagente X.</p>
+        <p>A ( ) A velocidade inicial de X é maior que sua velocidade média. B ( ) A velocidade inicial de X varia com a concentração inicial de X. C ( ) A velocidade de consumo de X permanece constante durante a reação. D ( ) O gráfico do logaritmo natural de X versus o inverso do tempo é representado por uma reta. E ( ) O gráfico da concentração de X versus tempo é representado por uma curva exponencial decrescente.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Uma solução aquosa saturada em fosfato de estrôncio [Sr3(PO4)2] está em equilíbrio químico à temperatura de 25 °C, e a concentração de equilíbrio do íon estrôncio, nesse sistema, é de 7,5 x 10–7 mol L–1. Considerando-se que ambos os reagentes (água e sal inorgânico) são quimicamente puros, assinale a alternativa CORRETA com o valor do PS(25 C) pK ° do Sr3(PO4)2. Dado: KPS = constante do produto de solubilidade.</p>
+        <p>A ( ) 7,0</p>
+        <p>B ( ) 13,0</p>
+        <p>C ( ) 25,0</p>
+        <p>D ( ) 31,0</p>
+        <p>E ( ) 35,0</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Sabe-se que a 25 °C as entalpias de combustão (em kJ mol−1) de grafita, gás hidrogênio e gás metano são, respectivamente: –393,5; –285,9 e –890,5. Assinale a alternativa que apresenta o valor CORRETO da entalpia da seguinte reação:</p>
+        <p>2 4 C(grafita) 2H (g) CH (g) + →</p>
+        <p>A ( ) 1 211,1 kJ mol− −</p>
+        <p>B ( ) 1 74,8 kJ mol− −</p>
+        <p>C ( ) 1 74,8 kJ mol−</p>
+        <p>D ( ) 1 136,3 kJ mol−</p>
+        <p>E ( ) 1 211,1 kJ mol−</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Uma lâmpada incandescente comum consiste de um bulbo de vidro preenchido com um gás e de um filamento metálico que se aquece e emite luz quando percorrido por corrente elétrica. Assinale a opção com a afirmação ERRADA a respeito de características que o filamento metálico deve apresentar para o funcionamento adequado da lâmpada.</p>
+        <p>A ( ) O filamento deve ser feito com um metal de elevado ponto de fusão. B ( ) O filamento deve ser feito com um metal de elevada pressão de vapor. C ( ) O filamento deve apresentar resistência à passagem de corrente elétrica. D ( ) O filamento deve ser feito com um metal que não reaja com o gás contido no bulbo. E ( ) O filamento deve ser feito com um metal dúctil para permitir a produção de fios finos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Em um processo de eletrodeposição de níquel, empregou-se um eletrodo ativo de níquel e um eletrodo de cobre, ambos parcialmente imersos em uma solução aquosa contendo sais de níquel (cloreto e sulfato) dissolvidos, sendo este eletrólito tamponado com ácido bórico. No decorrer do processo, conduzido à temperatura de 55 °C e pressão de 1 atm, níquel metálico depositou-se sobre a superfície do eletrodo de cobre. Considere que as seguintes afirmações sejam feitas:</p>
+        <p>I. Ocorre formação de gás cloro no eletrodo de cobre. II. A concentração de íons cobre aumenta na solução eletrolítica. III. Ocorre formação de hidrogênio gasoso no eletrodo de níquel. IV. O ácido bórico promove a precipitação de níquel na forma de produto insolúvel no meio aquoso.</p>
+        <p>Com relação ao processo de eletrodeposição acima descrito, assinale a opção CORRETA.</p>
+        <p>A ( ) Todas as afirmações são verdadeiras. B ( ) Apenas a afirmação IV é verdadeira. C ( ) Apenas a afirmação III é falsa. D ( ) Apenas as afirmações II e IV são falsas. E ( ) Todas as afirmações são falsas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Considere duas reações químicas, mantidas à temperatura e pressão ambientes, descritas pelas equações abaixo:</p>
+        <p>I. 1 2 2 2 2 H (g) O (g) H O(g) + →</p>
+        <p>ΙΙ. 1 2 2 2 2 H (g) O (g) H O( ) + → A</p>
+        <p>Assinale a opção que apresenta a afirmação ERRADA sobre estas reações.</p>
+        <p>A ( ) As reações I e II são exotérmicas. B ( ) Na reação I, o valor, em módulo, da variação de entalpia é menor que o da variação de energia interna. C ( ) O valor, em módulo, da variação de energia interna da reação I é menor que o da reação II. D ( ) O valor, em módulo, da variação de entalpia da reação I é menor que o da reação II. E ( ) A capacidade calorífica do produto da reação I é menor que a do produto da reação II.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Considere o composto aromático do tipo C6H5Y, em que Y representa um grupo funcional ligado ao anel. Assinale a opção ERRADA com relação ao(s) produto(s) preferencialmente formado(s) durante a reação de nitração deste tipo de composto nas condições experimentais apropriadas.</p>
+        <p>A ( ) Se Y representar o grupo –CH3, o produto formado será o m–nitrotolueno. B ( ) Se Y representar o grupo –COOH, o produto formado será o ácido m–nitro benzóico. C ( ) Se Y representar o grupo –NH2, os produtos formados serão o–nitroanilina e p–nitroanilina. D ( ) Se Y representar o grupo –NO2, o produto formado será o 1,3–dinitrobenzeno. E ( ) Se Y representar o grupo –OH, os produtos formados serão o–nitrofenol e p–nitrofenol.</p>
+        <p>AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESPONDIDAS NO CADERNO DE SOLUÇÕES. AS QUESTÕES NUMÉRICAS DEVEM SER DESENVOLVIDAS ATÉ O FINAL E O VALOR ABSOLUTO DO RESULTADO DEVE SER APRESENTADO.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Determine o valor aproximado do pH no ponto de equivalência, quando se titula 25,0 mL de ácido acético 0,1000 mol L–1 com hidróxido de sódio 0,1000 mol L–1. Sabe-se que log 2 = 0,3 e Ka = 1,8 x 10–5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Proponha um método de obtenção de sulfato de cobre anidro a partir de uma reação de neutralização. Expresse as etapas para a sua obtenção por meio de equações químicas, indicando as condições necessárias para que cada etapa seja realizada.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. A nitroglicerina, C3H5(ONO2)3(A), é um óleo denso que detona se aquecido a 218 °C ou quando é submetido a um choque mecânico. Escreva a equação que representa a reação química do processo, sabendo que a reação de decomposição é completa, e explique porque a molécula é explosiva.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Foram realizadas duas experiências com dois ovos de galinha. Inicialmente, ambos foram imersos em vinagre até a dissolução total da casca, que pode ser considerada constituída prioritariamente por carbonato de cálcio. Os ovos envoltos apenas em suas membranas foram cuidadosamente retirados do vinagre e deixados secar por um breve período. A seguir, um ovo foi imerso em água pura e, o outro, numa solução saturada de sacarose, sendo ambos assim mantidos até se observar variação volumétrica de cada ovo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química balanceada que descreve a reação de dissolução da casca de ovo.</p>
+        </part>
+        <part>
+          <p>O volume dos ovos imersos nos líquidos deve aumentar ou diminuir? Explique sucintamente por que estas variações volumétricas ocorrem.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Considere a curva de variação da energia potencial das espécies A, B, C, D e E, envolvidas em uma reação química genérica, em função do caminho da reação, apresentada na figura ao lado. Suponha que a reação tenha sido acompanhada experimentalmente, medindo-se as concentrações de A, B e C em função do tempo.</p>
+        <p>a) Proponha um mecanismo de reação para o processo descrito na figura, indicando a reação global. b) Indique a etapa lenta do processo e escreva a lei de velocidade da reação. c) Baseado na sua resposta ao item b) e conhecendo as concentrações de A, B e C em função do tempo, explique como determinar a constante de velocidade desta reação.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Dada a fórmula molecular C3H4CA2, apresente as fórmulas estruturais dos compostos de cadeia aberta que apresentam isomeria geométrica e dê seus respectivos nomes.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Considere que certa solução aquosa preparada recentemente contém nitratos dos seguintes cátions: 2 2 2 Pb ,Cu ,Fe e Ag + + + + . Descreva um procedimento experimental para separar esses íons, supondo que você dispõe de placas polidas dos seguintes metais puros: zinco, cobre, ferro, prata, chumbo e ouro e os instrumentos de vidro adequados. Descreva cada etapa experimental e apresente todas as equações químicas balanceadas. Dados: 2 2 2 2 3 o o Zn / Zn Fe /Fe o o Pb /Pb Cu /Cu o o Ag /Ag Au /Au E 0,76V E 0,44V E 0,13V E 0,34V E 0,80V E 1,40V + + + + + + = − = − = − = = =</p>
+        <p>A+B D+E C Caminho da reação Energia A+B D+E C Caminho da reação Energia</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Considere que as reações químicas representadas pelas equações não balanceadas abaixo ocorram em condições experimentais apropriadas e que as espécies A, B, C, D, E e F representam os produtos destas reações.</p>
+        <p>6 6 3 C H OCH HI A B + → +</p>
+        <p>3 2 CH CH I Na C D + → +</p>
+        <p>3 2 3 2 CH CH I CH CH C C Na E F + ≡ → +</p>
+        <p>Apresente as equações químicas balanceadas e os respectivos produtos.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma chapa metálica de cobre recoberta com uma camada passiva de óxido de cobre (I) é imersa em um recipiente de vidro contendo água destilada acidificada (pH = 4) e gás oxigênio (O2) dissolvido, sendo a temperatura e a pressão deste sistema iguais a 25 °C e 1 atm, respectivamente. Admitindo-se que a concentração inicial de equilíbrio dos íons de cobre (II) na solução aquosa é de 10–6 mol L–1 e, considerando que, nessas condições, a camada de óxido que envolve o metal pode ser dissolvida:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química balanceada da reação que representa o processo de corrosão do Cu2O(s) no referido meio líquido com o O2(g) dissolvido.</p>
+        </part>
+        <part>
+          <p>Determine o valor numérico da pressão de oxigênio, expresso em atm, a partir do qual o Cu2O(s) apresenta tendência termodinâmica de sofrer corrosão espontânea no meio descrito acima. Dados: 2 2 2 2 o o O /H O Cu /Cu O E 0,20V; E 1,23V + = =</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Cobre metálico exposto à atmosfera ambiente úmida sofre corrosão, com formação de cuprita (Cu2O) sobre a sua superfície. Este fato é comprovado em laboratório com a aplicação de corrente elétrica, proveniente de um gerador de corrente contínua, em um eletrodo de cobre (isento de óxido) imerso numa solução aquosa neutra de cloreto de potássio (pH = 7) contendo oxigênio gasoso (O2) dissolvido. Considere que esse procedimento é realizado nas seguintes condições:</p>
+        <p>I. Eletrodos metálicos empregados: catodo de platina e anodo de cobre. II. Área imersa do anodo: 350,0 cm2. III. Densidade de corrente aplicada: 10,0 μA cm–2. IV. Tempo de eletrólise: 50 s.</p>
+        <p>Baseado no procedimento experimental acima descrito:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Escreva as equações químicas balanceadas que representam as reações envolvidas na formação da cuprita sobre cobre metálico.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Calcule o valor numérico da massa de cuprita, expressa em g, formada sobre a superfície do anodo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Sabendo que a massa específica média da cuprita é igual a 6,0 g cm–3, calcule o valor numérico da espessura média, expressa em μm, desse óxido formado durante a eletrólise.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

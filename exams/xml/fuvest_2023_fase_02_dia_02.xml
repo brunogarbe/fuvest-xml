@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2023" phase="discursive" day="0" variation="V1" date="2023-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="M01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas empresas de entrega de mercadorias, 𝐴 e 𝐵, são concorrentes. A empresa 𝐴 cobra R$ 4,00 por quilo da encomenda e mais R$ 30,00 de taxa fixa. Já a tarifa da empresa 𝐵 é de R$ 6,00 por quilo, sem taxa fixa, para encomendas de até 30 quilos; para encomendas de mais de 30 quilos, a empresa 𝐵 cobra R$ 2,00 por quilo, mais uma taxa fixa de R$ 120,00.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dê a expressão da função que descreve a tarifa cobrada pela empresa 𝐴 em termos do peso 𝑥 da encomenda.</p>
+        </part>
+        <part>
+          <p>Para qual intervalo de pesos é mais barato pedir uma entrega pela empresa 𝐴 do que pela empresa 𝐵?</p>
+        </part>
+        <part>
+          <p>Um cliente solicitou duas encomendas: uma entregue pela empresa 𝐴, e outra, pela empresa 𝐵, com peso total de 200 quilos. Quais são as possíveis maneiras de distribuir esse peso entre as duas empresas, sabendo que a tarifa de entrega total foi de R$ 850,00?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere 𝑎, 𝑏, 𝑐∈ℝ e a função 𝑓: ℝ→ℝ dada por 𝑓(𝑥) = 𝑎𝑥ଶ + 𝑏𝑥+ 𝑐.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine os valores de 𝑎, 𝑏 e 𝑐 para que 𝑓(1) = 1, 𝑓(0) = 0 e 𝑓(−1) = 1.</p>
+        </part>
+        <part>
+          <p>Para 𝑎= −1 e 𝑏= 4, determine o valor de 𝑐 de modo que a área do triângulo 𝐴𝐵𝑉 da figura seja igual a 32 u.a., onde 𝑉 é o vértice da parábola representada por 𝑓.</p>
+        </part>
+        <part>
+          <p>Considere 𝑔: ℝ→ℝ a função dada por 𝑔(𝑡) = cos 𝑡. Se 𝑎= 3 e 𝑐= −8, determine para quais valores de 𝑏 a equação 𝑓(𝑔(𝑡)) = 0 possui ao menos uma solução real. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando 𝐴= {1,2,3,4} e 𝐵= {1,2,3,4,5,6},</p>
+      </statement>
+      <parts>
+        <part>
+          <p>quantas funções 𝑓: 𝐴→𝐴 (não necessariamente sobrejetoras) existem?</p>
+        </part>
+        <part>
+          <p>quantas são as funções 𝑓: 𝐵→𝐵 que satisfazem 𝑓൫𝑓(𝑛)൯= 𝑛, para todo 𝑛∈𝐵?</p>
+        </part>
+        <part>
+          <p>escolhendo aleatoriamente uma função 𝑓: 𝐵→𝐵 bijetora, qual é a probabilidade de 𝑓 ter ao menos um ponto fixo? Note e adote: Dizemos que 𝑛∈𝐵 é um ponto fixo de 𝑓 se 𝑓(𝑛) = 𝑛.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as circunferências 𝐶, 𝐶ଵ, 𝐶ଶ, 𝐶ଷ, … , 𝐶௡, … e a reta s satisfazendo as seguintes propriedades:</p>
+        <p>• A circunferência 𝐶ଵtem centro (0,0) e raio 𝑟= 4. Os centros das demais circunferências pertencem ao eixo 𝑂𝑥. • A circunferência 𝐶ଶ é tangente a 𝐶ଵ e a 𝐶ଷ, a circunferência 𝐶ଷ é tangente a 𝐶ଶ e a 𝐶ସ, e assim por diante. • A reta 𝑠 é tangente a cada circunferência 𝐶௡ para 𝑛≥1. • O segmento que liga o centro de 𝐶ଵ ao ponto em que s tangencia 𝐶ଵ forma um ângulo de 60° com o eixo 𝑂𝑥. • A circunferência 𝐶 é tangente a 𝐶ଵ no ponto 𝑄= (−4,0) e passa pelo ponto 𝑃= (𝑥଴, 0). Com base nessas informações,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>determine o raio da circunferência 𝐶.</p>
+        </part>
+        <part>
+          <p>dado 𝑛≥1, determine a razão entre os raios das circunferências consecutivas 𝐶௡ାଵ e 𝐶௡.</p>
+        </part>
+        <part>
+          <p>determine a área da região sombreada na figura. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Segundo as normas da NBR 9077, uma escada deve ter todos os degraus com a mesma altura e a mesma largura. Além disso, indicando por 𝐿 a largura de um degrau e por 𝐴 a sua altura, ambas em centímetros, as seguintes desigualdades devem ser satisfeitas:</p>
+        <p>63 ≤2𝐴+ 𝐿≤64 16 ≤𝐴≤18</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Se 𝐴= 16, quais são os possíveis valores de 𝐿?</p>
+        </part>
+        <part>
+          <p>A altura do primeiro andar de um sobrado é 2,52 metros, medido de um pavimento ao outro. O arquiteto projetou a escada para ter o maior comprimento (soma das larguras dos degraus) possível, respeitando as normas citadas. Dessa forma, quantos degraus terá a escada e qual é a altura e largura de cada um?</p>
+        </part>
+        <part>
+          <p>Quais são o maior e o menor valor possível para a tangente do ângulo de inclinação de uma escada construída de acordo com essa norma? Note e adote: A figura é meramente ilustrativa e não representa a escada do enunciado.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um número complexo é da forma 𝑧= 𝑥+ 𝑦𝑖, onde 𝑥, 𝑦∈ℝ e 𝑖ଶ= −1.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o valor de 𝑏∈ℝ para que a parte real do número complexo ଶା௕௜ ଵା௜ seja igual a zero.</p>
+        </part>
+        <part>
+          <p>Determine a solução da equação |𝑧| −𝑧= 1 + 2𝑖.</p>
+        </part>
+        <part>
+          <p>Determine o valor de 𝑎∈ℝ, 𝑎≠0, para que a equação 𝑎𝑧𝑧+ (1 + 𝑖)𝑧+ (1 + 𝚤˙)𝑧+ 1 = 0 descreva uma circunferência no plano cartesiano. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Usinas hidrelétricas convertem energia mecânica em energia elétrica, que depois é transportada por linhas de transmissão até residências, indústrias etc.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A potência aproximada da usina hidrelétrica de Itaipu, a maior do Brasil, é de 15 GW. A potência dissipada por um aparelho de TV em modo de espera (stand by) é de cerca de 6 W. Supondo que, em média, cada um dos cerca de 75 milhões de domicílios brasileiros tenha 1 aparelho de TV em modo de espera, que percentagem da potência de Itaipu é consumida apenas para manter TVs brasileiras nesse modo?</p>
+        </part>
+        <part>
+          <p>Uma versão simples de usina hidrelétrica utiliza a queda livre da água para girar uma turbina. Supondo que a água inicie, praticamente do repouso, uma queda de 20 m até a turbina, com que velocidade a água atinge a turbina?</p>
+        </part>
+        <part>
+          <p>O impulso da água faz girar a turbina, que por sua vez aciona um gerador. A presença de um campo magnético no gerador em movimento leva ao surgimento de uma força eletromotriz que varia no tempo. Após o transporte da eletricidade até uma residência, o gráfico da força eletromotriz tem o aspecto mostrado na figura ao lado. Se conectarmos à tomada da residência um ferro de passar com um resistor ôhmico de 40 Ω, qual será a máxima corrente elétrica que percorrerá o resistor do ferro durante sua operação? Note e adote: Despreze a resistência do ar e adote o valor de 10 m/sଶ para a aceleração da gravidade.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="F02">
+      <statement>
+        <p>O telescópio espacial James Webb lançado em 2021 é, em muitos sentidos, um aprimoramento do antigo telescópico Hubble. Uma das diferenças mais notáveis está nas dimensões e nas propriedades ópticas dos espelhos principais destes dois telescópios. Por exemplo: enquanto o espelho principal do Hubble tem uma distância focal de aproximadamente 58 m, a distância focal do espelho principal do James Webb é de aproximadamente o dobro (131 metros). Tratando de maneira aproximada o funcionamento destes telescópios, consideraremos aqui a reflexão por somente um espelho esférico. Suponha um sistema binário de estrelas separadas por uma distância 𝐻, e localizado a uma distância 𝐷 do espelho do telescópio que as observa, conforme mostra a figura. A distância entre o foco do espelho (ponto 𝐹) e o vértice do espelho (ponto 𝑉) é a chamada distância focal do espelho (𝑑௙).</p>
+        <p>a) Dois raios luminosos (“raio 1” e “ raio 2”) partindo da estrela A atingem o espelho. O “raio 1” é paralelo ao eixo do espelho, enquanto o “raio 2” passa pelo ponto 𝐹. Na figura da folha de respostas, trace os raios refletidos pelo espelho. b) Considere que o sistema está sendo observado pelo telescópio Hubble, para o qual 𝑑௙= 𝑑. Calcule a razão 𝐴= ு಺ ு onde 𝐻ூ é a distância entre as imagens das estrelas formadas pelo espelho. Essa razão é também chamada de “aumento” do espelho, embora esta razão possa ser menor do que 1. Expresse sua resposta em termos de 𝐷 e 𝑑. c) Considere agora que o sistema esteja sendo observado pelo telescópio James Webb, para o qual 𝑑௙= 2𝑑. Calcule a razão entre os aumentos dos dois espelhos. Expresse sua resposta em termos de 𝐷 e 𝑑.</p>
+        <p>Note e adote: As estrelas podem ser consideradas fontes luminosas pontuais. Para espelhos esféricos, o inverso da distância focal é igual à soma do inverso da distância do objeto com o inverso da distância em que a imagem se forma (todas em relação ao centro do espelho).</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        <p>a)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="F03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere um mergulhador em um lago de águas calmas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Esse mergulhador possui massa de 75 kg e volume corporal de 70 L. Para um mergulho, ele acopla a si um cilindro de ar de 15 kg e volume de 10 L. Estando completamente imersos na água (mergulhador e cilindro), o mergulhador para de nadar. Ele afundará ou subirá até a superfície? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Durante um mergulho, o mergulhador consulta seu manômetro de pulso e verifica que a pressão absoluta local é de 2,0 atm. A que profundidade o mergulhador está?</p>
+        </part>
+        <part>
+          <p>Finalmente, considere que o mergulhador está no fundo do lago, onde a temperatura da água é de 7℃ e a pressão é de 2,8 atm. Ele produz uma bolha de ar volume 𝑉ଵ, que sobe em direção à superfície. Quando a bolha houver subido até a iminência de atingir a superfície, onde a temperatura da água é 27℃, seu volume será 𝑉଴. Determine a razão 𝑉଴/𝑉ଵ. Note e adote: A densidade da água é de 1,0 kg/L. Adote como aceleração da gravidade o valor 10 m/sଶ e como densidade da água o valor 1,0 × 10ଷ kg/m3 e utilize 1,0 atm = 1,0 × 10ହ Pa. Trate o ar na bolha como um gás ideal e suponha que não escape ar da bolha durante a subida.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um circuito é formado por dois resistores em paralelo imersos no vácuo, separados por uma distância 𝑑 ligados a uma bateria de força eletromotriz 𝑉. Cada resistor é formado por um fio muito longo, de mesmo comprimento e área de seção transversal, mas com resistividades elétricas 𝜌ଵ e 𝜌ଶ diferentes entre si, conforme ilustrado na figura.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Sendo 𝑃ଵ e 𝑃ଶ as potências dissipadas nos resistores 1 e 2, respectivamente, calcule a razão 𝑃ଵ/𝑃ଶ. Expresse sua resposta em termos de 𝜌ଵ e 𝜌ଶ.</p>
+        </part>
+        <part>
+          <p>Considerando que a corrente total no circuito seja 𝐼, obtenha, em função de 𝐼, ρ1 e ρ2, o valor das correntes 𝐼ଵ e 𝐼ଶ que atravessam os resistores 1 e 2, respectivamente.</p>
+        </part>
+        <part>
+          <p>Obtenha a expressão para o módulo do campo magnético no ponto 𝐶, mostrado na figura, equidistante dos dois resistores, considerando 𝐼ଵ= 𝐼ଶ/4. Expresse sua resposta somente em termos de 𝑑, µ0 (constante de permeabilidade magnética do vácuo) e da corrente total 𝐼. Note e adote: A resistência elétrica é diretamente proporcional ao comprimento, à resistividade e inversamente proporcional à área da seção transversal. O módulo do campo magnético produzido por um fio muito longo transportando uma corrente 𝐼 a uma distância 𝑟 é dado por µ଴𝐼/2𝜋𝑟, onde µ଴ é a constante de permeabilidade do vácuo. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O efeito Doppler é caracterizado pela detecção de uma frequência diferente daquela emitida pela fonte, devido ao movimento relativo entre fonte e observador. Ele possui diversas aplicações, seja na medicina, astronomia ou ainda em sonares de velocidade, nos quais a velocidade de um objeto é medida comparando-se a frequência sonora emitida com aquela que é detectada. Considere um sonar de velocidade que envia ondas sonoras de 0,10 MHz em direção a um veículo que se aproxima com velocidade desconhecida.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule o comprimento de onda emitido pelo sonar.</p>
+        </part>
+        <part>
+          <p>Suponha que exista um detector de ondas sonoras no carro. Calcule a frequência detectada por este detector considerando que o carro se aproxima do sonar com velocidade de 30 m/s.</p>
+        </part>
+        <part>
+          <p>Encontre a velocidade do veículo sabendo que o sonar detecta uma frequência de 0,15 MHz refletida de volta, do carro para o sonar. Note e adote: Considere a velocidade do som como 300 m/s. No efeito Doppler, a frequência 𝑓ௗ detectada pelo observador e a frequência 𝑓௘ emitida pela fonte se relacionam de acordo com a expressão: ௙೏ ௩ೞ ± ௩೏= ௙೐ ௩ೞ ± ௩೐ , onde 𝑣௦ é a velocidade do som, 𝑣ௗ é a velocidade do observador e 𝑣௘ é a velocidade da fonte de emissão. Os sinais " + " e " −" são escolhidos de acordo com o movimento relativo entre fonte e observador.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em artigo publicado em 2022, uma física e um físico brasileiros propuseram uma interessante analogia entre congestionamentos de carros e a física de buracos negros (Luanna K. de Souza, George E. A. Matsas, “Black-hole analog in vehicular traffic”, American J. of Phys. 90, 692 (2022)). Considere uma fila de 9 carros inicialmente em posições 𝑥଴, 𝑥ଵ, 𝑥ଶ, … . , 𝑥଼ separados um do outro por uma distância D e se movendo com velocidade constante 𝑣 na direção negativa de um eixo x.</p>
+        <p>No instante inicial, o carro 0 freia, acionando sua luz de freio. Após um tempo de reação 𝑇ଵ, o carro 1 freia, acionando agora a sua luz de freio. O carro 2, por sua vez, freia e aciona sua luz de freio um tempo 𝑇ଶ após o carro 1 acionar a sua luz de freio e assim sucessivamente. Para este problema, considere que no instante da primeira frenagem (instante inicial): (i) o carro 0 esteja localizado na origem (𝑥଴= 0); (ii) a distância entre os carros seja de 𝐷= 20 m; e (iii) todos os carros tenham a mesma velocidade escalar |𝑣⃗| = 𝑣ini.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dada a velocidade 𝑣ini = 72 km/h, calcule o tempo de reação máximo 𝑇máx para que não ocorram colisões entre quaisquer dois carros. Texto para os itens (b) e (c): Em geral, os tempos de reação dos motoristas não são iguais. Por exemplo, se os primeiros carros estiverem envoltos em neblina ou fumaça, os tempos de reação serão maiores para os primeiros carros da fila e menores para os últimos carros da fila. Considere a tabela a seguir, que mostra os tempos de reação 𝑇ଵ, 𝑇ଶ, … , 𝑇଼ (em segundos) retratando uma situação como essa. Índice j 1 2 3 4 5 6 7 8 𝑇௝(s) 4,5 2,3 1,6 1,0 0,90 0,75 0,64 0,56 Se o tempo de reação de um dado carro for maior que 𝑇máx, este carro inevitavelmente irá colidir com o carro da frente. Em uma analogia proposta pelos autores do artigo, este carro entra no “horizonte de eventos” de um “buraco negro veicular”.</p>
+        </part>
+        <part>
+          <p>Suponha agora uma outra velocidade 𝑣ini tal que 𝑇máx = 0,89 s. Utilizando os dados da tabela, determine, em metros, a posição do “horizonte de eventos”, ou seja, a posição 𝑥ு tal que todos os carros com posição inicial 𝑥௝≤𝑥ு inevitavelmente colidirão com o carro da frente.</p>
+        </part>
+        <part>
+          <p>Calcule o intervalo de velocidades 𝑣ini compatível com 𝑥ு= 60 m. Note e adote: Assuma que a distância entre os carros D seja muito maior que o comprimento dos carros. Considere que, dada a velocidade 𝑣ini, após o acionamento dos freios, todos os carros que não colidem percorrem uma mesma distância até atingirem o repouso. Tempo de reação: O intervalo de tempo que o motorista demora para acionar o freio após ver o sinal emitido pelo carro da frente. Horizonte de eventos de um buraco negro: Superfície teórica em torno de seu centro a partir da qual nenhum outro evento pode fazer com que um objeto ou radiação escape de, eventualmente, ser sugado em direção ao centro do buraco negro. No caso do “buraco negro veicular” é o ponto a partir do qual um carro inevitavelmente irá colidir com o carro da frente e não pode escapar de uma colisão em seu futuro do mesmo modo que nada (nem a luz) escapa de um buraco negro real. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma das formas de se compreender estruturas de moléculas orgânicas é utilizando modelos como os apresentados a seguir para as moléculas de etano e de eteno. Etano</p>
+        <p>Eteno</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Complete, na folha de respostas, os átomos correspondentes a cada tipo de bolinha do modelo de etano.</p>
+        </part>
+        <part>
+          <p>O etino, também conhecido como acetileno, é um composto usado como gás de solda e como matéria prima para centenas de outros compostos. Usando a notação de Lewis, desenhe, na folha de respostas, a molécula de acetileno. Essa molécula apresenta algum tipo de isomeria?</p>
+        </part>
+        <part>
+          <p>Considere que dois dos átomos representados pelas bolinhas claras foram substituídos por outro átomo distinto (verde) em cada molécula, como na figura a seguir. Em qual das moléculas geradas poderia ocorrer isomeria geométrica? Pinte, na tabela periódica na folha de respostas, três elementos que poderiam representar a bolinha verde. Molécula A Molécula B</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q02">
+      <statement>
+        <p>O diamante, uma estrutura cristalina de carbono, é o material mais duro encontrado na natureza. Mastigar diamantes provavelmente quebraria os dentes e a sua ingestão causaria desconforto. Entretanto, há uma forma extravagante de ingerir um diamante, que é utilizá-lo para produzir água com gás, como no seguinte procedimento: 1 – O diamante triturado foi inserido dentro de um tubo de vidro; 2 – Foi injetado oxigênio gasoso no tubo de vidro, que foi aquecido com um maçarico; 3 – O gás produzido foi recolhido dentro de um tubo de ensaio imerso em nitrogênio líquido; 4 – Todo o sólido formado dentro do tubo de ensaio foi transferido para um cilindro de gás de volume interno de 1 L com a válvula fechada. Todo o CO2 sublimou dentro desse cilindro; 5 – O cilindro de gás foi então conectado a uma garrafa de água, que foi gaseificada com a abertura da válvula do cilindro. a) Com base no esquema, a temperatura de fusão do N2 é maior, menor ou igual a temperatura de fusão do CO2? b) Se um experimento exatamente igual for realizado trocando o volume de diamante utilizado pelo mesmo volume de grafite, a quantidade de CO2 formado ao fim do processo será menor, igual ou maior? Explique. c) Partindo-se de 3 g de diamante, qual a massa de gelo seco obtida? Qual será a pressão gerada pelo CO2(g) dentro do cilindro de gás a 27 °C? Considere que o rendimento do experimento é de 100%.</p>
+        <p>Note e adote: Densidade (g/cm3): Grafite = 2,0; Diamante = 3,5. Massas molares (g/mol): C = 12; O = 16. Constante universal dos gases ideais: R = 0,082 atm.L.mol-1.K-1</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        <p>a)</p>
+        <p>Molécula Bolinha clara Bolinha escura Etano</p>
+        <p>b)</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em laboratório, os peptídeos podem ser sintetizados com reagentes que promovem a ligação entre diferentes aminoácidos. O EDC é um composto que pode ser utilizado em solução aquosa com essa finalidade, como representado a seguir:</p>
+        <p>DCC R1 e R2 = cadeia carbônica Um reagente similar chamado de DCC, representado acima, também pode ser utilizado para promover o mesmo tipo de reação, mas não é indicado para o uso em meios polares, como soluções aquosas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva, no quadro da folha de respostas, a estrutura do subproduto formado quando DCC é utilizado em substituição ao EDC.</p>
+        </part>
+        <part>
+          <p>O DCC é menos adequado para ser utilizado em solução aquosa do que o EDC por ser menos solúvel. Indique, no quadro da folha de respostas, quais tipos de interações intermoleculares justificam a diferença de solubilidade de cada uma dessas espécies em água. Um dos métodos utilizados para quantificar proteínas é o método de Kjeldahl, no qual é realizada a determinação da quantidade de matéria nitrogenada total em uma amostra. Esse método consiste em degradar toda a proteína de forma que todos os átomos de nitrogênio da amostra sejam convertidos em sulfato de amônio.</p>
+        </part>
+        <part>
+          <p>Considere uma amostra de 550,2 mg de um peptídeo de fórmula molecular C123H193N35O37 que foi submetida ao método de Kjeldahl. Calcule a quantidade total máxima de mols de sulfato de amônio ((NH4)2SO4) que seria produzida pela análise dessa amostra utilizando esse método. Note e adote: Massa molar do C123H193N35O37: 2751 g/mol.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q04">
+      <statement>
+        <p>Os acontecimentos globais recentes mostraram a importância da oferta de fertilizantes nitrogenados, como amônia e ureia, para a manutenção da segurança alimentar da população mundial. As mudanças na disponibilidade de gás natural impactam diretamente a produção de fertilizantes nitrogenados. As reações a seguir mostram o processo de formação de amônia e ureia a partir do gás natural: (I) CH4(g) + H2O(g) → CO(g) + 3H2(g) (II) N2(g) + 3H2(g) → 2NH3(g) (III) CO2(g) + 2NH3(g) → CO(NH2)2(s) + H2O(g) Com base nessas informações e seus conhecimentos, responda: a) Qual o principal componente do gás natural utilizado na produção de fertilizantes nitrogenados? b) Uma outra forma de gerar H2 para a reação II é por meio da eletrólise da água utilizando energia solar. Escreva a equação balanceada da reação de eletrólise da água. Dê um argumento que justifique essa fonte de hidrogênio tornar o processo mais sustentável. c) O Brasil consome cerca de 6 milhões de toneladas de ureia por ano. Considerando que toda a produção de ureia tenha o metano como partida, qual a massa, em toneladas, de gás natural necessária para a obtenção de 6 milhões de toneladas de ureia? Considere que o metano corresponde a 50%, em massa, de gás natural.</p>
+        <p>Note e adote: Massas molares (g/mol): H = 1; C = 12; N = 14; O = 16.</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        <p>a) Estrutura:</p>
+        <p>b)</p>
+        <p>Tipo de interação intermolecular com a água EDC</p>
+        <p>DCC</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O escurecimento de joias e artigos de prata ocorre devido à reação da prata, na presença de oxigênio atmosférico, com compostos de enxofre presentes no próprio ambiente, formando o sulfeto de prata, que é um composto de coloração preta. Essa reação é representada a seguir: 4Ag(s) + O2(g) + 2S2-(aq) + 4H+(aq) → 2Ag2S(s) +2H2O(l) Uma das receitas caseiras para o clareamento da prata é descrita a seguir: 1. Adicionar uma solução aquecida de água, sal de cozinha e bicarbonato de sódio em um recipiente forrado internamente com papel alumínio; 2. Adicionar o objeto de prata no recipiente com a solução e deixar reagir por 3 minutos; 3. Retirar o objeto de prata, lavar com água em abundância e secar. Considerando que os potenciais padrão de redução do Al 3+ e do Ag2S são: Al 3+(aq) + 3e− ⇌ Al (s) E° = - 1,66 V Ag2S(s) + 2e− ⇌ 2Ag(s) + S2− (aq) E° = - 0,69 V</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva, no quadro da folha de respostas, o número de oxidação da prata antes do escurecimento e no composto formado depois do escurecimento.</p>
+        </part>
+        <part>
+          <p>Escreva a equação global balanceada e calcule a diferença de potencial da reação de clareamento da prata (restituição da prata metálica).</p>
+        </part>
+        <part>
+          <p>Outra receita caseira envolve o uso de pasta de dente, que contém fluoreto, na limpeza de objetos de prata por abrasão e polimento da sua superfície. Considerando que o potencial de redução (E°) do flúor é de +2,87 V, a presença de fluoreto contribui para a limpeza da prata? Justifique com base no potencial da reação global.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um processo típico de adulteração do leite envolve uma simples diluição com água. Essa adulteração pode ser avaliada pela quantidade de proteína na amostra. Segundo pesquisadores do CENA-USP (Centro de Energia Nuclear na Agricultura da Universidade São Paulo), as proteínas do leite podem ser precipitadas com sulfato de cobre em meio salino por efeito dos íons Cu2+. Pela quantidade de Cu2+ remanescente em solução, é possível calcular, por diferença, a quantidade de proteína na amostra.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Esboce, na folha de respostas, um gráfico da variação da concentração de proteína em função do volume de água adicionado ao leite.</p>
+        </part>
+        <part>
+          <p>Suponha que uma amostra de 1L de leite não adulterado foi tratada com uma certa quantidade de sulfato de cobre, de modo que toda a proteína presente na amostra fosse precipitada. Se essa mesma quantidade de sulfato de cobre for utilizada em 1L de uma amostra de leite adulterado por diluição, a solução remanescente terá menor, maior ou a mesma concentração de Cu2+ livre em solução? Justifique.</p>
+        </part>
+        <part>
+          <p>Uma forma de quantificar os íons Cu2+ na solução remanescente é por meio de titulação utilizando um agente complexante como o EDTA, que se liga ao Cu2+ formando um complexo estável de coloração azul. Sabendo que o ponto final da titulação de 10 mL da solução remanescente ocorre quando 25 mL de EDTA 0,01 mol/L são utilizados para complexar o Cu2+, calcule a concentração de Cu2+, em mol/L, nessa solução, considerando que a estequiometria do Cu2+ com EDTA é de 1:1, ou seja, na viragem, o número de mols de EDTA e de Cu2+ são iguais. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O gráfico mostra a cobertura do solo em 1985 e 2021 em seis estados brasileiros. Em cada barra, o azul escuro representa vegetação nativa e o azul claro, ambientes antrópicos.</p>
+        <p>Dados obtidos em: Projeto MapBiomas - Mapeamento Anual de Cobertura e Uso da Terra no Brasil - Coleção 7.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual bioma brasileiro predomina nos estados do Paraná, Espírito Santo e Rio de Janeiro?</p>
+        </part>
+        <part>
+          <p>Cite uma característica abiótica típica do bioma brasileiro no qual estão inseridos os estados de Rondônia, Pará e Acre? Cite uma consequência, para a biodiversidade, da perda da vegetação natural que vem ocorrendo nesse mesmo bioma.</p>
+        </part>
+        <part>
+          <p>Considerando os seis estados, cite os dois onde houve maior diminuição na proporção de vegetação nativa entre 1985 e 2021. Qual causa histórico-temporal explica a predominância de ambientes antrópicos já em 1985 nos estados do Paraná, Espírito Santo e Rio de Janeiro?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="B02">
+      <statement>
+        <p>Os rins em vertebrados são órgãos do sistema excretor e osmorregulador com estruturas filtrantes, chamadas néfrons, que são capazes de regular a quantidade de água e sais a serem excretados ou reabsorvidos. A função e a anatomia renal podem ser moduladas a depender das diferentes condições ambientais e fisiológicas. a) O que acontece com o volume de urina produzido quando há liberação do hormônio antidiurético (ADH)? b) Observando a ilustração das células epiteliais de cada segmento do néfron (1 a 7), indique aquele que mais reabsorve o conteúdo filtrado. Justifique a sua resposta. c) O castor e o rato canguru são dois roedores com habitats distintos. O castor é semiaquático e vive nas proximidades de rios em florestas temperadas, já o rato canguru vive nos desertos da América do Norte. Considerando a relação entre a área ocupada pelos néfrons e a concentração da urina nessas duas espécies, complete o gráfico da folha de respostas com as respectivas posições ocupadas pelo rato canguru e pelo castor. Representação de células epiteliais (1 a 7) em diferentes segmentos de um néfron de rim de vertebrado. Disponível em https://basicmedicalkey.com/. Adaptado.</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="B03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Um homem que vive com HIV desde a década de 1980 foi curado. Este é apenas o quarto caso do tipo no mundo. Ele recebeu um transplante de medula óssea para tratar uma leucemia que desenvolveu aos 63 anos, e o doador era naturalmente resistente ao vírus. A equipe médica responsável pelo seu tratamento decidiu que ele precisava do transplante para substituir sua medula óssea doente por células normais. O HIV entra nos glóbulos brancos do nosso corpo usando uma porta microscópica - uma proteína chamada CCR5. No entanto, algumas pessoas, incluindo o doador, têm mutações no gene CCR5 que fecham essa porta e impedem a entrada do vírus.” Disponível em https://www.bbc.com/portuguese/geral-62324526. Adaptado. O HIV liga-se ao receptor CCR5 durante o processo de infecção dos glóbulos brancos. A mutação delta 32 do CCR5 inviabiliza sua inserção na membrana plasmática impedindo a entrada do HIV conforme ilustrado a seguir:</p>
+        <p>Disponível em https://doi.org/10.1007/s40011-021-01237-y/. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite outra infecção sexualmente transmissível, além da AIDS.</p>
+        </part>
+        <part>
+          <p>Um laboratório de análises clínicas possui amostras de sangue e mucosa bucal colhidas do paciente antes do transplante e após 1 ano do procedimento. Qual dessas 4 amostras é a indicada para confirmar a presença da mutação no gene CCR5 no paciente curado? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Considerando a estrutura dos genes eucarióticos, a deleção de 32 pares de bases aconteceu em que parte do gene CCR5? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="B04">
+      <statement>
+        <p>Em um experimento, pesquisadores filmaram os folíolos da leguminosa Mimosa pudica (popularmente conhecida como “dormideira” ou “sensitiva”) ao serem estimulados mecanicamente no tempo 0 s e seu comportamento durante os 12 minutos seguintes, conforme a sequência de fotos:</p>
+        <p>Adaptado de DOI: 10.1111/j.1365-3040.2009.02066.x</p>
+        <p>a) O mecanismo do movimento de fechamento dos folíolos nas dormideiras difere de qualquer mecanismo de movimentos que ocorre em animais. Cite um tipo de célula envolvida em movimentos nos animais, mas que não está presente em plantas. b) Represente, nos gráficos da folha de respostas, as curvas resultantes dos processos de fechamento (Gráfico I) e de reabertura (Gráfico II) dos folíolos. c) O comportamento de fechamento dos folíolos tem um papel no balanço energético da planta, isto é, quanta energia a planta produz e gasta. Cite um processo envolvido nesse balanço energético e justifique sua resposta.</p>
+        <p>Note e adote: Para o item b), considere os folíolos totalmente abertos e totalmente fechados como 0% e 100%, respectivamente.</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        <p>a) Tipo celular = _____________________________</p>
+        <p>b)</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="B05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura a seguir mostra uma composição ideal e balanceada de sete grupos alimentares em uma dieta considerada saudável para uma pessoa de 30 anos (I) e os valores médios correspondentes às dietas que ocorrem em países da América Latina (II), Estados Unidos e Canadá (III) e África Subsaariana (IV). Esse mesmo estudo vai além e considera importante que a saúde humana seja conjugada à saúde planetária, para que haja uma produção sustentável de alimentos para uma população mundial crescente. Ou seja, é importante entender que a produção de alimentos tem uma demanda ambiental que deve ser considerada para se conseguir um sistema de produção global sustentável.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em qual grupo alimentar espera-se encontrar alimentos com maior teor de vitamina C (ácido ascórbico)?</p>
+        </part>
+        <part>
+          <p>Dentre os 21 picos das regiões II, III e IV, aponte aquele que apresenta a maior diferença proporcional em relação à dieta considerada como saudável (I). Cite uma consequência negativa à saúde que este consumo inadequado pode causar.</p>
+        </part>
+        <part>
+          <p>Escolha dois grupos alimentares e cite, para cada um: um exemplo de produto deste grupo alimentar e um impacto ambiental decorrente da produção não sustentável deste produto. Utilize a tabela específica da folha de respostas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="B06">
+      <statement>
+        <p>Quem mora ou já visitou Alagoas sabe que o sururu é uma tradição na culinária local e uma fonte de renda para quem vive às margens da lagoa Mundaú. Mas o tradicional molusco alagoano sumiu da lagoa. Desde as chuvas de junho, o sururu não é mais encontrado, deixando pelo menos 3.000 pessoas sem o sustento gerado pela pesca e tratamento do molusco. Ao mesmo tempo, uma espécie de bivalve invasor (classe de moluscos à qual também pertence o sururu), com origem na América Central e distribuída em diversos ambientes estuarinos pelo mundo, ganhou terreno e ameaça tomar o local, numa disputa com a espécie nativa. Segundo um biólogo explicou, “há um grande risco de essa espécie invasora se adaptar bem e começar a disputar e dominar o alimento e o espaço do sururu, cuja população está em queda no número de indivíduos". O bivalve invasor não tem valor de mercado e, quando pescado, é descartado de volta. O “sururu já vinha sofrendo com uma forte pressão por conta dos poluentes e pesca sem controle, mas as fortes chuvas em junho e julho em Alagoas diminuíram a salinidade da água e uma grande quantidade de matéria orgânica, lixo, esgotos, resíduos e principalmente sedimentos levados pelo rio Mundaú se acumularam lá”, afirma o biólogo. Sem o sururu, a comunidade está apreensiva porque a população da orla sofre com prejuízos e falta de renda, já que, na comunidade, uma parte das pessoas saía nos barcos para pescar e outra tratava o sururu em um processo chamado de despinicar (que é tirar o produto do molusco de dentro da casca). Adaptado de “Patrimônio de Alagoas, sururu sofre com espécie invasora e some de lagoa”, publicado no UOL em 28/08/2022. a) A que parte do indivíduo corresponde o “produto do molusco” que é referido no texto no processo de “despinicar”? b) Baseado no texto, cite, no espaço reservado na folha de respostas, um fator biótico e um fator abiótico, com suas respectivas causas, que estão relacionados ao desaparecimento do sururu na lagoa Mundaú. c) Cite um risco para a saúde humana associado ao consumo de espécies de bivalves e uma forma de prevenir esse risco ao consumir essa iguaria.</p>
+        <p>0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        <p>a) ______________________________________ b) Região Grupo alimentar Consequência negativa do consumo excessivo</p>
+        <p>c) Grupo alimentar Produto Impacto ambiental</p>
+        <p>a) “produto” = ________________________________ b)</p>
+        <p>Fator Causa Biótico</p>
+        <p>Abiótico</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="G01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Da fossa das Marianas, no oceano Pacífico, aos Alpes; das praias de Fernando de Noronha às grandes metrópoles, os microplásticos estão em toda parte, em geral sem serem vistos. Como tema de estudo é algo relativamente novo e ganhou impulso somente neste século, com mais força nos últimos anos. Disponível em https://revistapesquisa.fapesp.br/a-ameaca-dos-microplasticos/. Adaptado. Baseado no texto e em seus conhecimentos sobre os microplásticos, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite uma fonte de liberação dos microplásticos.</p>
+        </part>
+        <part>
+          <p>Indique e explique em quais ambientes ocorre a maior concentração de microplásticos no planeta.</p>
+        </part>
+        <part>
+          <p>Indique duas estratégias que podem ser adotadas pela população para reduzir a produção de microplásticos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o gráfico a seguir:</p>
+        <p>A partir dos seus conhecimentos sobre o tema,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>conceitue Segurança Alimentar.</p>
+        </part>
+        <part>
+          <p>explique duas medidas socioeconômicas que poderiam ser adotadas para ampliar a segurança alimentar no Brasil.</p>
+        </part>
+        <part>
+          <p>explique a tendência da Segurança Alimentar no Brasil entre 2004 e 2022, indicando uma causa para o aumento da Insegurança Alimentar grave a partir de 2013. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe as imagens relativas a uma grande inundação que atingiu o Paquistão a aproximadamente 1000 km da cadeia montanhosa do Himalaia, em agosto de 2022.</p>
+        <p>https://earthobservatory.nasa.gov/images/150279/devastating-floods-in-pakistan/. https://earthobservatory.nasa.gov/.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique o principal regime climático associado à inundação de tal magnitude.</p>
+        </part>
+        <part>
+          <p>Cite e explique outra causa que pode estar associada a essa grande inundação no Paquistão.</p>
+        </part>
+        <part>
+          <p>A partir das imagens de satélite, indique e explique uma das características da paisagem que permitem apontar que a área destacada é suscetível à inundação.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe a reportagem a seguir:</p>
+        <p>UM PLANETA SEM DISTORÇÕES: FÍSICOS PROPÕEM A ADOÇÃO DE UM NOVO MAPA-MÚNDI O astrofísico Richard Gott, o matemático Robert Vanderbei e o cosmólogo David Goldberg chegaram ao conceito do disco aberto, mostrado abaixo, com o intuito de corrigir os equívocos do modelo usado da mesma forma há mais de quatro séculos, baseado na projeção de Mercator.</p>
+        <p>Revista Veja, 05 de março de 2021. Adaptado.</p>
+        <p>A notícia faz alusão às distorções produzidas pela projeção de Mercator. A partir dos seus conhecimentos sobre cartografia,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>cite o contexto no qual foi proposta a projeção de Mercator.</p>
+        </part>
+        <part>
+          <p>cite e explique uma dessas distorções que podem ser evitadas pela projeção apresentada na reportagem.</p>
+        </part>
+        <part>
+          <p>indique e explique outra projeção cartográfica que apresenta distorção diferente daquela encontrada na projeção de Mercator. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em diversos países da Europa o preço do gás aumentou mais de 50%. Energia fóssil considerada abundante e menos prejudicial ao ambiente do que o petróleo ou o carvão, o gás natural continua a ser um recurso essencial no quadro energético europeu e no centro das questões estratégicas entre os países produtores e os países consumidores. Magazine Carto, Agosto de 2022. Adaptado.</p>
+        <p>https://www.areion24.news/2022/08/01/geopolitique-du-gaz-une-europe-trop-dependante/ A reportagem refere-se ao período de 2021-2022, em que questões geopolíticas envolvendo a Rússia, maior produtora de gás natural da Europa, resultaram na elevação do preço desse recurso energético. Com base no texto, na interpretação do mapa e em seus conhecimentos, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual evento, envolvendo a Rússia, resultou no aumento do preço do gás natural nos anos 2021-2022?</p>
+        </part>
+        <part>
+          <p>Cite e explique uma consequência positiva para a Rússia relacionada à construção dos gasodutos Nord Stream 1 e Nord Stream 2 na região do Mar Báltico.</p>
+        </part>
+        <part>
+          <p>Cite e explique uma consequência negativa para a Rússia relacionada à localização dos gasodutos Blue Stream e Turkstream na região do Mar Negro.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 4 de março de 1513, o espanhol Juan Ponce de León saiu da ilha de Porto Rico com três navios e cerca de 200 homens para explorar o Norte. No dia 2 de abril, quase um mês mais tarde, ele conquistou um novo território: a Flórida. Ficou lá por cinco dias e depois recomeçou a expedição, agora indo na direção Sul. Mas dessa vez o movimento foi diferente. Havia uma corrente nas águas do mar tão forte que, mesmo com vento a favor, os navios eram empurrados para trás – o San Cristóbal, o menor dos três, chegou a se perder dos outros por dois dias. Ponce de León e seus marinheiros não sabiam, mas estavam bem no meio da Corrente Marítima do Golfo – que é especialmente forte entre a Flórida e as Bahamas, onde eles estavam. Com o tempo, os navegadores espanhóis aprenderam a usar aquilo a seu favor: a corrente dava um belo empurrão na volta das expedições, permitindo retornar à Europa mais depressa. Disponível em https://super.abril.com.br/sociedade/. Adaptado. Baseado no texto e em seus conhecimentos, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Tendo Flórida e Europa como referência, indique para qual sentido a corrente marítima do Golfo levava os navios.</p>
+        </part>
+        <part>
+          <p>Indique duas razões por que essa corrente oceânica, em seu local de origem, é quente na superfície.</p>
+        </part>
+        <part>
+          <p>Cite e explique um efeito dessa corrente oceânica sobre o clima da Europa Setentrional. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“El Juramento de los treinta y tres orientales”, óleo sobre tela, de Blanes (entre 1875 e 1878). “Independência ou morte”, óleo sobre tela, de Pedro Américo (1888). https://www.gov.br/. https://blanes.montevideo.gub.uy/.</p>
+        <p>“O quadro Independência ou Morte retrata o momento em que D. Pedro levanta a espada e proclama a independência do Brasil. Saliento, nessa obra, a pompa em sua composição que sobressai em todos os detalhes. Além disso, note-se que a luz esplendorosa que ilumina os personagens vem do alto, do céu. A tela do maçom Blanes representa o juramento de 33 homens que, em 25 de agosto de 1825, deram início à reconquista militar da Província Oriental [que] culminou com a independência nacional uruguaia. Enfatizo nesta pintura que os homens pisam num terreno plano e usam roupas comuns. Uma forte luz, que brota da terra, os ilumina, mostrando sua força e determinação interiores. Assim, Pedro Américo revestiu seu tema com grandeza, ressaltando as aparências exteriores. De outra parte, o uruguaio salienta as virtudes que vinham de dentro dos heróis, fazendo dos trajes apenas acessórios menores que não ofuscam a magnitude da cena histórica. Na minha visão, as escolhas pictóricas de Pedro Américo estão relacionadas ao imaginário simbólico da monarquia e as de Blanes foram inspiradas pelo ideário republicano. São as afinidades políticas que nos fazem entender as concepções diferentes dos dois pintores sobre o mesmo tema da independência.”</p>
+        <p>PRADO, Maria Ligia C. “A pintura e a construção das identidades nacionais na América Latina”. Nossa América, Revista do Memorial da América Latina, n. 59, 2022; p. 22 e 23. Adaptado. Com base no texto e na leitura das imagens, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Como, no tema da tela pintada por Blanes, se articulam as histórias do Brasil e do Uruguai?</p>
+        </part>
+        <part>
+          <p>Que elementos corroboram a ideia de pompa na pintura de Pedro Américo e de despojamento na de Blanes? Indique um elemento de cada imagem.</p>
+        </part>
+        <part>
+          <p>Como, na visão da autora, as pinturas se relacionam com os regimes políticos adotados, após as independências, no Brasil e no Uruguai?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Os operários não deviam ser proibidos de pensar. Na época do velho, o mineiro vivia como um animal, enterrado na mina, sem se dar conta do que acontecia. Por isso os ricos podiam chupar o sangue dos operários. Mas esses já estavam acordando. No fundo da terra germinava uma semente, e um belo dia os homens brotariam da terra, um exército de homens que viria restabelecer a justiça. Desde a Revolução Francesa todos os cidadãos não eram considerados iguais?” ZOLA, Émile. Germinal. São Paulo: Companhia das Letras, 2008, p.58-59.</p>
+        <p>Com base na leitura do excerto do romance naturalista Germinal publicado na França em 1885,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>indique um tema presente no excerto.</p>
+        </part>
+        <part>
+          <p>cite dois elementos que evidenciem as mudanças em curso na condição dos operários.</p>
+        </part>
+        <part>
+          <p>exponha duas razões pelas quais a Revolução Francesa é mencionada na denúncia das injustiças. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Audiência de portugueses com o rei do Congo, século XVII. LOPES, David. “The destruction of the Kingdom of Kongo”. Civil Rights Journal (Vol. 6, Issue 1). p. 35. Winter 2002. O reino do Congo se formou a partir da mistura, por meio de casamentos, de uma elite tradicional com uma elite nova, descendente dos estrangeiros que vieram do outro lado do rio. Isso ocorreu no início do século XV, e quando os portugueses a ele chegaram (o primeiro contato se deu em 1483), encontraram uma sociedade hierarquizada, com aglomerados populacionais que funcionavam como capitais regionais e uma capital central, na qual o mani Congo, como o obá do Benin e muitos outros chefes de grupos diversos, vivia em construções grandiosas, cercado de suas mulheres e filhos, conselheiros, escravos e ritos. SOUZA, Marina de Mello e. África e Brasil africano. São Paulo: Ática, 2008. p. 38. A partir da leitura da imagem e do texto, responda às questões a seguir:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>De que forma a caracterização do reino do Congo como uma sociedade hierarquizada é representada na imagem?</p>
+        </part>
+        <part>
+          <p>Cite dois elementos da imagem que remetem a símbolos europeus de realeza.</p>
+        </part>
+        <part>
+          <p>Como a imagem representa as relações entre as nações europeias e os reinos africanos no início da Idade Moderna?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre o movimento cultural denominado Tropicália que se desenvolveu nos anos 1960 associado à era dos Festivais, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite o nome de um(a) artista ou de uma canção identificada com o movimento.</p>
+        </part>
+        <part>
+          <p>Aponte duas características do movimento.</p>
+        </part>
+        <part>
+          <p>Indique uma diferença da Tropicália em relação às denominadas canções de protesto e outro em relação à Jovem Guarda. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“A Biblioteca de Alexandria cria um espaço abstrato do qual sábios de origens diversas vão poder apropriar-se. Esse espaço é o do helenismo, horizonte comum de textos, crenças, modelos intelectuais e tradições, que dependem, doravante, de tarefas coletivas – arquivar, editar, comentar, elaborar mapas, escrever a história, recensear. Poder-se-ia dizer que uma das chaves da cultura alexandrina é a relação paradoxal que ela mantém com a memória. A ausência de uma tradição e de uma memória locais explica talvez como a biblioteca, esse lugar de memória artificial, criado por uma política voluntarista, terá podido atrair e reter gregos de todas as origens.” JACOB, Christian. “Ler para escrever: navegações alexandrinas”. In: BARATIN, Marc e JACOB, Christian. O poder das bibliotecas. Rio de Janeiro: Ed.UERJ, 2000, p.53-54. Adaptado.</p>
+        <p>Com base na leitura do texto, responda às questões:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que foi o helenismo?</p>
+        </part>
+        <part>
+          <p>Cite dois exemplos que indicam a relação entre a cultura alexandrina e a memória.</p>
+        </part>
+        <part>
+          <p>Indique dois elementos que tornaram possível aos pensadores humanistas (séculos XIV-XVI) se apropriarem do patrimônio cultural clássico.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>BARDI, Pietro Maria. Coleção Arte e Cultura. Vol. VI. São Paulo: Banco Sudameris, 1983. p.59.</p>
+        <p>Com base na leitura da Carta das Estradas de Ferro da Província de São Paulo (ca. 1880), responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que atividade econômica subsidia a configuração da rede ferroviária na província de S. Paulo?</p>
+        </part>
+        <part>
+          <p>Indique dois elementos que atestam a importância da cidade de Santos nessa rede de transporte.</p>
+        </part>
+        <part>
+          <p>Relacione o traçado das ferrovias com as dinâmicas econômicas e sociais da província paulista no século XIX. 0 1 2 3 4 5 − − − − 0 1 2 3 4 5 − − − − [35] FUVEST 2023 PROVA FUVEST 2023 PROVA 2 CAIXA1 1/1 FUVEST 2023 2ª Fase − Segundo Dia ESCOLA SALA LUGAR LOTE SEQ. 0/0 Página 14/14 − Caderno Reserva LOTE SEQUÊNCIA 2 PÁGINA Área Reservada Não escreva no topo da folha %%$#IIMMDDHHMMSS#$%%</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

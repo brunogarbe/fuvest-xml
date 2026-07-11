@@ -1,0 +1,1819 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2001" phase="objective" day="0" variation="V1" date="2001-01-01" lang="pt-br">
+  <question_group>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o mapa abaixo. Adap. Folha S. Paulo, 1993 / Le Monde, 1996.</p>
+        <p>Apenas em países de baixa renda,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>existem "capitais" de drogas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ocorre lavagem de dinheiro.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>há distribuição de drogas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>acontece trânsito de drogas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>ocorre produção de drogas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base no mapa, assinale a alternativa correta.</p>
+        <p>Adap. Atlas de Peters, 1994.</p>
+        <p>O consumo de energia é maior em países com</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>produção de bens intermediários para exportação e transição demográfica inicial.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>elevada produção na indústria de base e transição demográfica concluída.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>produção de bens de consumo não duráveis para exportação e elevado crescimento vegetativo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>elevada produção na indústria de base e elevado crescimento vegetativo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>produção de bens de consumo não duráveis para exportação e predomínio de população jovem.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No segundo semestre de 2000, o Brasil sediou a Reunião de Presidentes da América do Sul. Nesse encontro, buscou-se</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>regulamentar a organização da ALCA.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>atenuar a influência dos Estados Unidos na região.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>estabelecer normas para implantação do Plano Colômbia.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>criar uma força militar sul americana para combater o narcotráfico.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>fortalecer a OEA, depois dos incidentes envolvendo as eleições no Peru.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As legendas corretas para as fotos abaixo são:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I - Cadeia orogênica do Terciário, com formação ligada à tectônica de placas. II - Área de sedimentação do Cenozóico, com depósitos fluviais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I - Cadeia orogênica do Quaternário, com formação ligada à ação vulcânica. II - Área de sedimentação do Paleozóico, com depósitos eólicos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I - Cadeia orogênica do Terciário, com formação ligada à ação vulcânica. II - Área de sedimentação do Pré-Cambriano, com depósitos fluviais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I - Cadeia orogênica do Quaternário, com formação ligada à ação vulcânica. II - Área de sedimentação do Cenozóico, com depósitos fluviais.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I - Cadeia orogênica do Arqueozóico, com formação ligada à tectônica de placas. II - Área de sedimentação do Paleozóico, com depósitos eólicos. 3T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No mapa, está destacada a região habitada pelos ......................, que buscam construir um estado nacional. Assinale a alternativa que completa corretamente a frase.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Chechenos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Ossétios.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Curdos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Tibetanos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Palestinos. Adap. Simielli, 2000.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Após o término da bi-polaridade, característica do período da Guerra Fria, os conflitos armados</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>aumentaram, devido à inegável supremacia militar dos Estados Unidos no mundo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>diminuíram, devido ao surgimento de outros pólos de poder no mundo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>diminuíram, devido à derrota do socialismo soviético.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>aumentaram, devido à retomada de antigas diferenças étnicas e religiosas entre povos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>aumentaram, devido ao crescimento de países que detêm armas nucleares.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre o modelo de industrialização implementado em países do Sudeste Asiático, como Coréia do Sul e Taiwan e o adotado em países da América Latina, como a Argentina, o Brasil e o México, pode-se afirmar que,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>nos países do Sudeste Asiático, a participação de capital estrangeiro impediu o desenvolvimento de tecnologia local, ao passo que, nos países latinoamericanos, ela promoveu esse desenvolvimento.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>nos dois casos, não houve participação do Estado na criação de infra-estrutura necessária à industrialização.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>nos países do Sudeste Asiático, a organização dos trabalhadores, em sindicatos livres, encareceu o produto final, ao passo que, nos países latinoamericanos, a ausência dessa organização tornou os produtos mais competitivos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>nos dois casos, houve importante participação de capital japonês, responsável pelo desenvolvimento tecnológico nessas regiões.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>nos países do Sudeste Asiático, a produção industrial visou à exportação, ao passo que, nos países latino-americanos, a produção objetivou o mercado interno.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Segundo dados do IBGE, em 1998, um terço do lixo coletado no Brasil era tratado. Parte do lixo tratado, transformado em adubo orgânico, pode ser empregado na agricultura. A técnica de tratamento que permite tal uso é a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>reciclagem do lixo seco.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>deposição em aterros sanitários.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>deposição a céu aberto.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>compostagem.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>incineração.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No Brasil, os temas "crescimento populacional" e "exclusão social" aparecem, muitas vezes, vinculados às discussões sobre crescimento urbano. Considerando as associações mencionadas, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>As altas taxas de crescimento populacional, decorrentes da industrialização, produzem a exclusão social nas grandes cidades.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>As altas taxas de crescimento vegetativo nas grandes cidades produzem crise da habitação, sendo responsáveis pela existência dos "sem-teto".</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O alto índice de crescimento demográfico e os baixos investimentos privados em infra-estrutura urbana geram uma população socialmente excluída.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A macrocefalia urbana, decorrente da superpopulação e da ampliação da megalópole, gera uma população socialmente excluída.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>As altas taxas de crescimento populacional nas grandes cidades e a má distribuição de renda conduzem à exclusão social.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe os mapas que apresentam áreas com problemas ambientais e relacione-os com os itens a seguir. Adap. Simielli, 2000.</p>
+        <p>I - Poluição do ar e da água por atividade industrial. II - Ocorrência de chuva ácida. III - Intenso desmatamento. IV - Desertificação. V - Intensificação do processo erosivo.</p>
+        <p>Assinale a alternativa correta.</p>
+        <p>A B C D</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I V IV II</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II IV III V</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II I V III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I III II IV</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>V I IV III 4T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A desconcentração industrial verificada no Brasil, na última década, decorre, entre outros fatores, da</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ação do Estado, por meio de políticas de desenvolvimento regional, a exemplo da Zona Franca de Manaus.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>elevação da escolaridade dos trabalhadores, o que torna todo o território nacional atraente para novos investimentos industriais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>presença de sindicatos fortes nos estados das Regiões Sul e Sudeste, o que impede novos investimentos nessas regiões.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>isenção fiscal oferecida por vários Estados, associada à baixa remuneração da mão-de-obra local.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>globalização da economia que, por meio das privatizações, induz o desenvolvimento da atividade industrial em todo o território.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Analise os mapas abaixo e assinale a alternativa que indique a resolução cartográfica mais adequada para representar, com precisão, as distâncias da cidade de São Paulo em relação às várias localidades do mundo.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Projeção Azimutal Eqüidistante (Soukup)</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Projeção Cilíndrica Conforme (Mercator)</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Projeção Equivalente Interrompida (Good)</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Projeção Equivalente (com base em Mollweide)</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Projeção Cilíndrica Equivalente (Peters) Adap. Ferreira, 1998.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O quadro abaixo apresenta algumas características de Estados brasileiros.</p>
+        <p>Estado Característi ca natural Atividade primária Recurso mineral I Maranhão Extensa planície litorânea Extrativism o vegetal Ouro II Bahia Predomínio de planície aluvial Produção de tabaco e especiarias Bauxita III Rio Grande do Sul Recifes de arenito Produção de arroz em terrenos inundados Manganês IV Rio Grande do Norte Fraca nebulosidad e Pecuária extensiva e cana-deaçúcar Sal</p>
+        <p>Estão corretas somente as características apresentadas em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e III.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e IV.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e IV.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando o desenvolvimento econômico da Amazônia, nos últimos trinta anos, assinale a afirmação correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A integração da Amazônia à economia nacional baseou-se nas atividades agrícolas e minerais que promoveram o desenvolvimento sustentável da região.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O desenvolvimento das atividades mineradoras esteve relacionado às empresas estrangeiras com alta capacidade de investimentos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>As atividades econômicas desenvolveram-se sem exigência de vultosos investimentos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A abundância de água não foi aproveitada, como recurso energético, devido às baixas altitudes regionais.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A inexistência de institutos de pesquisa na região comprometeu a exploração de seus recursos minerais.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dentre os vários aspectos que justificam a diversidade biológica da Mata Atlântica, encontram-se: I - Concentração nas baixas latitudes, associada a elevadas precipitações. II - Distribuição em áreas de clima tropical e subtropical úmido. III - Ocorrência apenas em planícies litorâneas, que recebem umidade vinda dos oceanos. IV - Ocorrência em diferentes altitudes. Assinale a alternativa que apresenta apenas afirmações corretas.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e III.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e IV.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II e III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e IV.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>III e IV. 5T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As rochas mesozóicas da bacia sedimentar do Paraná ocupam extensas áreas na região Sudeste. Em especial, sobre os ........................ , a pedogênese deu origem a solos com boa fertilidade natural. Com o avanço da cultura ....................., acelerou-se a devastação das florestas primárias. Atualmente, os maiores produtores dessa cultura são os Estados de .............................. e ................................. .</p>
+        <p>Que alternativa completa, na seqüência correta, as lacunas do texto?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>derrames basálticos / cafeeira / Minas Gerais e Espírito Santo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>derrames basálticos / cafeeira / Minas Gerais e Rio de Janeiro.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>depósitos eólicos / canavieira / Rio de Janeiro e São Paulo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>depósitos eólicos / canavieira / Minas Gerais e Espírito Santo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>depósitos aluviais / cafeeira / Rio de Janeiro e São Paulo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="17">
+      <statement>
+        <p>Assinale a alternativa que indica o climograma que corresponde a uma cidade localizada aproximadamente a 3º Sul e 60º Oeste.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A propósito da agricultura brasileira, pode-se afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a escravidão por dívida consiste numa situação de servidão do trabalhador, característica da parceria.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o Estatuto do Trabalhador Rural dos anos sessenta substituiu a antiga Legislação dos Trabalhadores Rurais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a empresa agropecuária capitalista caracteriza-se pela presença do trabalhador agregado.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a denominação "bóia-fria" é dada ao trabalhador temporário que vive nos latifúndios.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a unidade familiar de subsistência tanto pode contratar força de trabalho quanto vender trabalho familiar.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Municípios brasileiros (1996) Municípios Populaçã o Total (A) Populaçã o Urbana (B) Popula ção Rural (C) Área (km2) (D) (B/A) x100 % (C/A) x100 % A/D Nova Bandeirantes (MT) 5.226 4.572 654 201 87,6 12,4 26,0 Nova Belém (MG) 4.555 749 3.806 149 16,4 83,6 30,6 Nova Cruz (RN) 31.992 12.003 19.989 9.537 37,5 62,5 3,4 Fonte: BIM/IBGE, 2000.</p>
+        <p>Com relação aos municípios da tabela acima, pode-se afirmar que:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Nova Bandeirantes caracteriza-se por ser um município com altas taxas de população rural.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Nova Cruz possui a maior densidade demográfica devida à maior porcentagem de população urbana.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Nova Belém apresenta a maior densidade demográfica e a menor taxa de urbanização.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Nova Bandeirantes destaca-se pela menor densidade demográfica.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Nova Cruz tem elevadas taxas de urbanização e também de densidade demográfica.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No trajeto destacado no mapa, predominavam, até fins do século XIX, diferentes tipos de vegetação original. Assinale a alternativa que indica a seqüência correta, segundo a direção NO-SE.</p>
+        <p>NO SE</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Floresta Amazônica Complexo do Pantanal Cerrado Mata Atlântica</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Complexo do Pantanal Cerrado Mata Atlântica Campos</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Complexo do Pantanal Mata Atlântica Campos Cerrado</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Floresta Amazônica Campos Complexo do Pantanal Mata Atlântica</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Campos Complexo do Pantanal Mata Atlântica Cerrado 6T BIOLOGIA</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A recente descoberta de uma vasta região de mar descongelado no Pólo Norte é um exemplo dos efeitos do aquecimento global pelo qual passa o planeta. Alarmados com a situação, alguns países industrializados elaboraram uma carta de intenções em que se comprometem a promover amplos reflorestamentos, como uma estratégia para reduzir o efeito estufa e conter o aquecimento global. Tal estratégia baseia-se na hipótese de que o aumento das áreas de floresta promoverá maior</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>liberação de gás oxigênio, com aumento da camada de ozônio e redução da radiação ultravioleta.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>retenção do carbono na matéria orgânica das árvores, com diminuição do gás carbônico atmosférico responsável pelo efeito estufa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>disponibilidade de combustíveis renováveis e, conseqüentemente, menor queima de combustíveis fósseis, que liberam CFC (clorofluorcarbono).</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>absorção de CFC, gás responsável pela destruição da camada de ozônio.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>sombreamento do solo, com resfriamento da superfície terrestre.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“O tico-tico tá comendo meu fubá / Se o tico-tico pensa / em se alimentar / que vá comer / umas minhocas no pomar (...) / Botei alpiste para ver se ele comia / Botei um gato, um espantalho e um alçapão (...)” (Zequinha de Abreu, Tico-tico no Fubá).</p>
+        <p>No contexto da música, na teia alimentar da qual fazem parte tico-tico, fubá, minhoca, alpiste e gato,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a minhoca aparece como produtor e o tico-tico como consumidor primário.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o fubá aparece como produtor e o tico-tico como consumidor primário e secundário.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o fubá aparece como produtor e o gato como consumidor primário.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o tico-tico e o gato aparecem como consumidores primários.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o alpiste aparece como produtor, o gato como consumidor primário e a minhoca como decompositor.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os liquens da tundra ártica constituem a principal fonte de alimento para renas e caribus durante o inverno. As substâncias orgânicas do alimento desses animais, portanto, são primariamente produzidas por um dos organismos componentes do líquen. Qual é esse organismo e que processo ele utiliza para produzir substâncias orgânicas?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Um fungo; fermentação.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Um fungo; fotossíntese.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Um protozoário; fermentação.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Uma alga; fotossíntese.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Uma cianobactéria; quimiossíntese.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As substâncias orgânicas de que uma planta necessita para formar os componentes de suas células são</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>sintetizadas a partir de substâncias orgânicas retiradas do solo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>sintetizadas a partir de substâncias orgânicas retiradas do solo e de substâncias inorgânicas retiradas do ar.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>sintetizadas a partir de substâncias inorgânicas retiradas do solo e do ar.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>extraídas de bactérias e de fungos que vivem em associação com suas raízes.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>extraídas do solo juntamente com a água e os sais minerais.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Que características esperamos encontrar em uma angiosperma aquática e submersa?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Sistema vascular bem desenvolvido e epiderme rica em estômatos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Tecidos de sustentação bem desenvolvidos e epiderme rica em estômatos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Tecidos de sustentação bem desenvolvidos e sistema vascular reduzido.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Tecidos de sustentação e sistema vascular bem desenvolvidos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Tecidos de sustentação pouco desenvolvidos e epiderme sem estômatos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O diagrama representa as relações filogenéticas entre as algas e os principais grupos de plantas atuais. Cada círculo numerado indica uma aquisição evolutiva compartilhada apenas pelos grupos representados nos ramos acima desse círculo. Por exemplo, o círculo 1 representa “embrião dependente do organismo genitor”, característica comum a todos os grupos, exceto ao das algas. Os círculos de números 2, 3 e 4 representam, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>alternância de gerações; fruto; semente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>alternância de gerações; tecidos condutores; fruto.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>tecidos condutores; fruto; flor.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>tecidos condutores; semente; fruto.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>semente; flor; tecidos condutores. 7T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os produtos imediatos da meiose de uma abelha e de uma samambaia são</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>esporos e gametas, respectivamente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>gametas e esporos, respectivamente.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>gametas e zigotos, respectivamente.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>ambos esporos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>ambos gametas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pessoa tem alergia a moluscos. Em um restaurante onde são servidos “frutos do mar”, ela pode comer, sem problemas, pratos que contenham</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>lula e camarão.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>polvo e caranguejo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>mexilhão e lagosta.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>lula e polvo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>camarão e lagosta.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um animal de corpo cilíndrico e alongado, dotado de cavidade celômica, apresenta fendas branquiais na faringe durante sua fase embrionária. Esse animal pode ser:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>uma cobra.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>um poliqueto.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>uma lombriga.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>uma minhoca.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>uma tênia.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pessoa pretende processar um hospital com o argumento de que a doença de Chagas, da qual é portadora, foi ali adquirida em uma transfusão de sangue. A acusação</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>não procede, pois a doença de Chagas é causada por um verme platelminto que se adquire em lagoas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>não procede, pois a doença de Chagas é causada por um protozoário transmitido pela picada de mosquitos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>não procede, pois a doença de Chagas resulta de uma malformação cardíaca congênita.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>procede, pois a doença de Chagas é causada por um protozoário que vive no sangue.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>procede, pois a doença de Chagas é causada por um vírus transmitido por contato sexual ou por transfusão sangüínea.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="31">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pessoa passará a excretar maior quantidade de uréia se aumentar, em sua dieta alimentar, a quantidade de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>amido.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>cloreto de sódio.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>glicídios.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>lipídios.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>proteínas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma pessoa jovem e com boa saúde, quando ocorre a sístole (contração) dos ventrículos, as grandes artérias ( 1 ) e a pressão sangüínea em seu interior atinge, em média, cerca de ( 2 ). Qual das alternativas a seguir contém os termos que substituem corretamente os números 1 e 2 entre parênteses?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>contraem-se; 120 mm Hg</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>contraem-se; 80 mm Hg</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>relaxam-se; 120 mm Hg</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>relaxam-se; 80 mm Hg</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>não se alteram; 120 mm Hg</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="33">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Se uma mulher tiver seus ovários removidos por cirurgia, quais dos seguintes hormônios deixarão de ser produzidos?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Hormônio folículo-estimulante (FSH) e hormônio luteinizante (LH).</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Hormônio folículo-estimulante (FSH) e estrógeno.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Hormônio folículo-estimulante (FSH) e progesterona.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Hormônio luteinizante (LH) e estrógeno.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Estrógeno e progesterona.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="34">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O anúncio do seqüenciamento do genoma humano, em 21 de junho de 2000, significa que os cientistas determinaram</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a seqüência de nucleotídeos dos cromossomos humanos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>todos os tipos de proteína codificados pelos genes humanos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a seqüência de aminoácidos do DNA humano.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a seqüência de aminoácidos de todas as proteínas humanas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o número correto de cromossomos da espécie humana.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A introdução de uma cópia de um gene humano no genoma do pronúcleo masculino de um zigoto originou uma ovelha transgênica. Se essa ovelha for cruzada com um macho não-transgênico, que porcentagem de descendentes portadores do gene humano espera-se obter?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Zero.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>25 %.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>50 %.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>75 %.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>100%.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="36">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O daltonismo é causado por um alelo recessivo de um gene localizado no cromossomo X. Em uma amostra representativa da população, entre 1000 homens analisados, 90 são daltônicos. Qual é a porcentagem esperada de mulheres daltônicas nessa população?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,81 %.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>4,5 %.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>9 %.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>16 %.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>83 %. 8T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A vinblastina é um quimioterápico usado no tratamento de pacientes com câncer. Sabendo-se que essa substância impede a formação de microtúbulos, pode-se concluir que sua interferência no processo de multiplicação celular ocorre na</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>condensação dos cromossomos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>descondensação dos cromossomos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>duplicação dos cromossomos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>migração dos cromossomos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>reorganização dos nucléolos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um pesquisador estudou uma célula ao microscópio eletrônico, verificando a ausência de núcleo e de compartimentos membranosos. Com base nessas observações, ele concluiu que a célula pertence a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>uma bactéria.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>uma planta.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>um animal.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>um fungo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>um vírus.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Células animais, quando privadas de alimento, passam a degradar partes de si mesmas como fonte de matéria-prima para sobreviver. A organela citoplasmática diretamente responsável por essa degradação é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o aparelho de Golgi.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o centríolo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o lisossomo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a mitocôndria.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o ribossomo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para a ocorrência de osmose, é necessário que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>as concentrações de soluto dentro e fora da célula sejam iguais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>as concentrações de soluto dentro e fora da célula sejam diferentes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>haja ATP disponível na célula para fornecer energia ao transporte de água.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>haja um vacúolo no interior da célula no qual o excesso de água é acumulado.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>haja uma parede celulósica envolvendo a célula, o que evita sua ruptura. 9T MATEMÁTICA</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="41">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os vértices de um triângulo ABC, no plano cartesiano, são: ( ) 0 1, A = , ( ) 1 , 0 B = e ( ) 3 , 0 C = . Então, o ângulo C Aˆ B mede:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>60o</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>45o</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>30o</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>18o</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>15o</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura abaixo, os quadrados ABCD e EFGH têm, ambos, lado a e centro O. Se 1 EP = , então a é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1 2 2 −</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1 3 2 −</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2 2</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1 2 2 −</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="43">
+      <statement>
+        <p>O conjunto dos pontos ( ) y , x do plano cartesiano, cujas coordenadas satisfazem a equação ( )( ) ( ) 0 3 y 2 x 3 1 y 3 x 2 1 y x 2 2 = + − − + + + , pode ser representado, graficamente, por:</p>
+      </statement>
+    </essay_question>
+    <objective_question number="44">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere os seguintes dados, obtidos em 1996 pelo censo do IBGE:</p>
+        <p>i) A distribuição da população, por grupos de idade, é:</p>
+        <p>idade número de pessoas de 4 a 14 anos 37.049.723 de 15 a 17 anos 10.368.618 de 18 a 49 anos 73.644.508 50 anos ou mais 23.110.079</p>
+        <p>ii) As porcentagens de pessoas, maiores de 18 anos, filiadas, ou não, a sindicatos, órgãos comunitários, órgãos de classe, são:</p>
+        <p>iii) As porcentagens de pessoas, maiores de 18 anos, filiadas a sindicatos, órgãos comunitários e órgãos de classe são:</p>
+        <p>A partir dos dados acima, pode-se afirmar que o número de pessoas, maiores de 18 anos, filiadas a órgãos comunitários é, aproximadamente, em milhões:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>6</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>12</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>21</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>31</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um comerciante deu um desconto de 20% sobre o preço de venda de uma mercadoria e, mesmo assim, conseguiu um lucro de 20% sobre o preço que pagou pela mesma. Se o desconto não fosse dado, seu lucro, em porcentagem, seria:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>40%</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>45%</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>50%</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>55%</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>60% 69% Não filiados 31% Filiados 10T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="46">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A elipse 4 9 2 y x 2 2 = + e a reta 1 x 2 y + = , do plano cartesiano, se interceptam nos pontos B e A . Pode-se, pois, afirmar que o ponto médio do segmento B A é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>      − − 3 1 , 3 2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>      −3 7 , 3 2</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>      −3 5 , 3 1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>     − 3 1 , 3 1</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>     − 2 1 , 4 1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma senhora tinha entre trinta e quarenta ações de uma empresa para dividir igualmente entre todos os seus netos. Num ano, quando tinha 3 netos, se a partilha fosse feita, deixaria 1 ação sobrando. No ano seguinte, nasceu mais um neto e, ao dividir igualmente entre os quatro netos o mesmo número de ações, ela observou que sobrariam 3 ações. Nesta última situação, quantas ações receberá cada neto?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>6</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>7</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>8</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>9</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>10</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="48">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No jogo de bocha, disputado num terreno plano, o objetivo é conseguir lançar uma bola de raio 8 o mais próximo possível de uma bola menor, de raio 4. Num lançamento, um jogador conseguiu fazer com que as duas bolas ficassem encostadas, conforme ilustra a figura abaixo. A distância entre os pontos A e B, em que as bolas tocam o chão, é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>8</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2 6</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2 8</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3 4</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3 6</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A função f(x), definida para 3 x 3 ≤ ≤ − , tem o seguinte gráfico:</p>
+        <p>onde as linhas ligando ( ) 0 , 1 − a ( ) 2 , 0 e ( ) 2 , 0 a ( ) 0 , 1</p>
+        <p>são segmentos de reta. Supondo 0 ≤ a , para que valores de a o gráfico do polinômio ( ) ( ) 4 x x p 2 − = a intercepta o gráfico de f(x) em exatamente 4 pontos distintos?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0 2 1 &lt; &lt; − a</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2 1 1 − &lt; &lt; − a</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1 2 3 − &lt; &lt; − a</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 3 2 − &lt; &lt; − a</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2 − &lt; a</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="50">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sendo ( ) b , a P =</p>
+        <p>um ponto qualquer da circunferência de centro na origem e raio 1, que satisfaça b a e 0 b ± ≠ &gt; , pode-se afirmar que                 − − 1 b a b a b log 4 4 2 2 3 vale:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>b log −</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>b log</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>b log 2</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="51">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma progressão aritmética e uma progressão geométrica têm, ambas, o primeiro termo igual a 4, sendo que os seus terceiros termos são estritamente positivos e coincidem. Sabe-se ainda que o segundo termo da progressão aritmética excede o segundo termo da progressão geométrica em 2. Então, o terceiro termo das progressões é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>12</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>14</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>16</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>18 11T</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="52">
+      <statement>
+        <p>O quadrado ao lado tem O como centro e M como ponto médio de um de seus lados. Para cada ponto X pertencente aos lados do quadrado, seja θ o ângulo X Oˆ M , medido em radianos, no sentido anti-horário. O gráfico que melhor representa a distância de O a X, em função de θ , é:</p>
+      </statement>
+    </essay_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Se 2 tg = θ , então o valor de θ + θ 2 sen 1 2 cos é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>–3</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 1 −</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3 1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3 2</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>4 3</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="54">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura abaixo, a reta r é paralela ao segmento AC , sendo E o ponto de intersecção de r com a reta determinada por D e C. Se as áreas dos triângulos ADC e ACE são 4 e 10, respectivamente, e a área do quadrilátero ABED é 21, então a área do triângulo BCE é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>6</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>7</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>8</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>9</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>10</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Numa circunferência, c1 é o comprimento do arco de 6 π radianos e c2 é o comprimento da secante determinada por este arco, como ilustrado na figura abaixo. Então, a razão 2 1 c c é igual a 6 π multiplicado por:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 2 1+</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3 2 +</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3 2 2 +</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3 3 +</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="56">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O polinômio 6 x 2 x x 2 4 + − + admite i 1+ como raiz, onde 1 i2 − = . O número de raízes reais deste polinômio é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>4</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="57">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura abaixo, tem-se que AE AD = , CF CD =</p>
+        <p>e BC BA = . Se o ângulo F Dˆ E mede 80o, então o ângulo C Bˆ A mede:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>20o</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>30o</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>50o</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>60o</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>90o 12T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="58">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um lenhador empilhou 3 troncos de madeira num caminhão de largura 2,5m, conforme a figura abaixo. Cada tronco é um cilindro reto, cujo raio da base mede 0,5 m. Logo, a altura h, em metros, é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2 7 1+</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 7 1+</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>4 7 1+</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3 7 1+</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>4 7 1+</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma classe de Educação Física de um colégio é formada por dez estudantes, todos com alturas diferentes. As alturas dos estudantes, em ordem crescente, serão designadas por 10 2 1 h ..., , h , h</p>
+        <p>( ) 10 9 2 1 h h ... h h &lt; &lt; &lt; &lt; . O professor vai escolher cinco desses estudantes para participar de uma demonstração na qual eles se apresentarão alinhados, em ordem crescente de suas alturas. Dos 252 5 10 =       grupos que podem ser escolhidos, em quantos, o estudante, cuja altura é 7 h , ocupará a posição central durante a demonstração?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>7</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>21</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>45</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p></p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="60">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>60 Na figura abaixo, ABCD é um tetraedro regular de lado a. Sejam E e F os pontos médios de CD e AB , respectivamente. Então, o valor de EF é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2 a</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2 2 a</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>4 2 a</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 3 a</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>4 3 a 13T HISTÓRIA</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"Em verdade é maravilhoso refletir sobre a grandeza que Atenas alcançou no espaço de cem anos depois de se livrar da tirania... Mas acima de tudo é ainda mais maravilhoso observar a grandeza a que Roma chegou depois de se livrar de seus reis." (Maquiavel, Discursos sobre a primeira década de Tito Lívio). Nessa afirmação, o autor</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>critica a liberdade política e a participação dos cidadãos no governo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>celebra a democracia ateniense e a República romana.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>condena as aristocracias ateniense e romana.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>expressa uma concepção populista sobre a antigüidade clássica.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>defende a pólis grega e o Império romano.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="62">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A economia da Europa ocidental, durante o longo intervalo entre a crise do escravismo, no século III, e a cristalização do feudalismo, no século IX, foi marcada pela</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>depressão, que atingiu todos os setores, provocando escassez permanente e fomes intermitentes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>expansão, que ficou restrita à agricultura, por causa do desaparecimento das cidades e do comércio.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>estagnação, que só poupou a agricultura graças à existência de um numeroso campesinato livre.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>prosperidade, que ficou restrita ao comércio e ao artesanato, insuficientes para resolver a crise agrária.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>continuidade, que preservou os antigos sistemas de produção, impedindo as inovações tecnológicas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="63">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"...o desejo de dar uma forma e um estilo ao sentimento não é exclusivo da arte e da literatura; desenvolve-se também na própria vida: nas conversas da corte, nos jogos, nos desportos... Se, por conseguinte, a vida pede à literatura os motivos e as formas, a literatura, afinal, não faz mais do que copiar a vida." (Johan Huizinga, O Declínio da Idade Média). Na Idade Média essa relação entre literatura e vida foi exercida principalmente pela</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>vassalagem</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>guilda</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>cavalaria</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>comuna</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>monarquia</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="64">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"É praticamente impossível treinar todos os súditos de um [Estado] nas artes da guerra e ao mesmo tempo mantê-los obedientes às leis e aos magistrados." (Jean Bodin, teórico do absolutismo, em 1578). Essa afirmação revela que a razão principal de as monarquias européias recorrerem ao recrutamento de mercenários estrangeiros, em grande escala, devia-se à necessidade de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>conseguir mais soldados provenientes da burguesia, a classe que apoiava o rei.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>completar as fileiras dos exércitos com soldados profissionais mais eficientes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>desarmar a nobreza e impedir que esta liderasse as demais classes contra o rei.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>manter desarmados camponeses e trabalhadores urbanos e evitar revoltas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>desarmar a burguesia e controlar a luta de classes entre esta e a nobreza.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="65">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nas Revoluções Francesa (1789), Mexicana (1910), Russa (1917) e Chinesa (1949), há um elemento comum a todas. Trata-se da</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>presença imperialista.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ideologia socialista.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>ideologia liberal.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>participação do operariado.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>participação do campesinato.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="66">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A incorporação de novas áreas, entre 1820 e 1850, que deu aos Estados Unidos sua atual conformação territorial, estendendo-se do Atlântico ao Pacífico, deveu-se fundamentalmente</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a um avanço natural para o oeste, tendo em vista a chegada de um imenso contingente de imigrantes europeus.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>aos acordos com as lideranças indígenas, Sioux e Apache, tradicionalmente aliadas aos brancos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>à vitória na guerra contra o México que, derrotado, foi obrigado a ceder quase a metade de seu território.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>à compra de territórios da Inglaterra e Rússia que assumiram uma posição pragmática diante do avanço norte-americano para o oeste.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>à compra de territórios da França e da Espanha que estavam, naquele período, atravessando graves crises econômicas na Europa.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="67">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Gandhi (1869-1948) conseguiu mobilizar milhões de indianos na luta para tornar o país independente da dominação britânica, recorrendo ao</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>socialismo, à denúncia do sistema de castas e à guerra revolucionária.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>nacionalismo, à modernização social e à ação coletiva não violenta.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>tradicionalismo, à defesa das castas e à luta armada.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>capitalismo, à cooperação com o imperialismo e à negociação.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>fascismo, à aliança com os paquistaneses e ao fundamentalismo religioso. 14T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="68">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Portugal foi o país que mais resistiu ao processo de descolonização na África, sendo Angola, Moçambique e Guiné-Bissau os últimos países daquele continente a se tornarem independentes. Isto se explica</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pela ausência de movimentos de libertação nacional naquelas colônias.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>pelo pacifismo dos líderes Agostinho Neto, Samora Machel e Amílcar Cabral.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pela suavidade da dominação lusitana baseada no paternalismo e na benevolência.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pelos acordos políticos entre Portugal e África do Sul para manter a dominação.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>pela intransigência do salazarismo somente eliminada com a Revolução de Abril de 1974.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="69">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"Eles mesmos [os pobres] são a causa de sua pobreza; os meios de encontrar o remédio estão em suas mãos e não nas mãos de nenhuma outra pessoa." (R. Malthus, Ensaio sobre a população, 1798). Nas últimas décadas do século XX, concepções muito semelhantes a esta sobre os pobres e a pobreza são propagadas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pelo neoliberalismo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>pela social-democracia.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pela democracia cristã.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pelo neo-populismo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>pelo justicialismo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="70">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nunca, na história contemporânea mundial, como nesta virada de século e de milênio, a propriedade privada dos meios de produção em geral e da terra em particular foi tão forte e os ideais coletivos tão enfraquecidos. Essa situação pode ser atribuída</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>à vigência cada vez mais ampla dos Direitos Humanos e do multiculturalismo étnico.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>às exigências da divisão internacional do trabalho e ao avanço da democracia social.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>à imposição da política econômica keynesiana e à adoção da terceira via ou política do possível.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>à vitória do capitalismo na guerra fria sobre o chamado socialismo real e à crise das utopias.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>à força cada vez maior das religiões e das Igrejas, favoráveis, por princípio, ao individualismo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="71">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"Eu, el-rei D. João III, faço saber a vós, Tomé de Sousa, fidalgo da minha casa que ordenei mandar fazer nas terras do Brasil uma fortaleza e povoação grande e forte na Baía de Todos-os-Santos. (...)Tenho por bem enviar-vos por governador das ditas terras do Brasil." Regimento de Tomé de Sousa, 1549</p>
+        <p>As determinações do rei de Portugal estavam relacionadas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>à necessidade de colonizar e povoar o Brasil para compensar a perda das demais colônias agrícolas portuguesas do Oriente e da África.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>aos planos de defesa militar do império português para garantir as rotas comerciais para a Índia, Indonésia, Timor, Japão e China.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a um projeto que abrangia conjuntamente a exploração agrícola, a colonização e a defesa do território.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>aos projetos administrativos da nobreza palaciana visando à criação de fortes e feitorias para atrair missionários e militares ao Brasil.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>ao plano de inserir o Brasil no processo de colonização escravista semelhante ao desenvolvido na África e no Oriente.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="72">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Gabriel Soares, um oficial português, escreveu em 1587 sobre os índios Guaianá: "É gente de pouco trabalho(...); se encontram com gente branca, não fazem nenhum dano, antes boa companhia, e quem acerta de ter um escravo guaianá não espera dele nenhum serviço, porque é gente folgazã de natureza e não sabe trabalhar." O texto expressa</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a diferença entre as concepções de trabalho do mundo europeu e das culturas indígenas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o preconceito racial que coibiu formas de miscigenação cultural na colônia.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a ineficiência do ensino dos missionários ministrado aos grupos indígenas sem tradição agrícola.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o argumento básico para se elaborarem leis, proibindo a escravização indígena na colônia.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a forma usual de resistência indígena para evitar a dominação cultural e a escravização.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="73">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O barroco no Brasil foi</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>uma manifestação artística de caráter religioso limitada às regiões de mineração.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>uma expressão artística de origem européia reelaborada e adaptada às condições locais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>um estilo original na pintura, mantendo a tradição manuelina nas edificações.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>uma criação artística popular predominante em todo o Brasil colônia e no império.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>uma produção artística, imposta pelo modelo absolutista português, na época da mineração. 15T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="74">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os Estados Nacionais que se organizam depois das independências no Brasil e nos países americanos de colonização espanhola, entre as décadas de 1820 e 1880, são semelhantes quanto à</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>adoção de regimes políticos e diferentes com relação às posições implementadas sobre a escravidão negra.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>decisão de imediata abolição da escravidão e diferentes com relação à defesa da propriedade comunal indígena.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>defesa do sufrágio universal e diferentes com relação às práticas do liberalismo econômico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>defesa da ampliação do acesso à terra pelos camponeses e diferentes com relação à submissão à Igreja Católica.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>vontade de participar do comércio internacional e diferentes quanto à adoção de regimes políticos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="75">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A economia brasileira, durante o período monárquico, caracterizou-se fundamentalmente</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pelo princípio da diversificação da produção agrária e pelo incentivo ao setor de serviços.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>pelo estímulo à imigração italiana e espanhola e pelo fomento à incipiente indústria.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pela regionalização econômica e pela revolução no sistema bancário nacional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pela produção destinada ao mercado externo e pela busca de investimentos internacionais.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>pela convivência das mãos-de-obra escrava e imigrante e pelo controle do "deficit" público.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="76">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"Com efeito, a política científica evidencia que a separação entre o poder espiritual e o poder temporal é a condição indispensável de toda Ordem e de todo Progresso na sociedade moderna." Miguel Lemos, Rio de Janeiro, 1890 As afirmações apresentadas no texto correspondem às idéias</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>evolucionistas</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>positivistas</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>católicas</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>românticas</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>republicanas</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="77">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>"Visitei todo o comércio,</p>
+        <p>Fiz muito bom apurado,</p>
+        <p>E vi que de muito povo</p>
+        <p>Eu me achava acompanhado.</p>
+        <p>Alguns pediam esmolas:</p>
+        <p>Então não me fiz de rogado." Os versos de Chagas Baptista em homenagem ao cangaceiro Antonio Silvino, o "Governador do Sertão", sugerem que o cangaço</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>possuía um caráter político institucional que ameaçava a estabilidade social e econômica do nordeste.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>contava com o apoio popular, propondo a reforma agrária e uma nova distribuição de renda.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>representava a faceta do movimento anarquista, com propostas de socialização da terra nas áreas rurais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>era uma forma de banditismo sem ameaças à estabilidade fundiária e, portanto, aceito pelas oligarquias e trabalhadores.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>tinha apoio popular e representava uma forma de resistência à opressão dos grandes proprietários rurais.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="78">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A charge da revista ilustra</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>os conflitos do governo de Getúlio Vargas com as companhias norte-americanas para nacionalizar a extração e produção de petróleo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a pressão de empresas internacionais contra o processo de nacionalização do petróleo brasileiro, intensificado após a 2ª Guerra Mundial.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a crise de produção de petróleo, após a 2ª Guerra Mundial, que levou as "sete irmãs" a exigirem a desnacionalização da produção no Brasil.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o momento da criação da Petrobrás, com o apoio das companhias de petróleo internacionais, interessadas em explorar o solo brasileiro.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>as dificuldades de extração de petróleo pela Petrobrás que foi obrigada a recorrer ao capital e a técnicos estrangeiros. 16T</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="79">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre os últimos 50 anos no Brasil, é possível afirmar que:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>cresceu a população das cidades, desapareceu a dependência econômica e acentuou-se o preconceito racial.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>progrediu a tendência ao federalismo, a Igreja Católica perdeu seu poder e foram raras as crises econômicas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>aumentou o setor de serviços, houve significativo êxodo rural e a condição da mulher transformouse.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>melhorou a pesquisa científica, a economia atingiu patamares de primeiro mundo e a tecnologia alcançou a maioria da população.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>avançou a reforma agrária, a renda nacional passou a ser melhor distribuída e aumentou o protecionismo à produção nacional.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="80">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre a política indigenista do governo brasileiro no século XX, é possível afirmar que ela</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>concedeu emancipação jurídica aos indígenas, equiparando-os durante todo o período aos cidadãos brancos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>criou vários serviços de proteção ao silvícola, permitindo que fossem dirigidos pelos próprios grupos indígenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>enviou expedições oficiais para contato com grupos indígenas, comandadas por membros da Igreja Católica.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>preocupou-se com a demarcação de terras indígenas, sem conseguir protegê-las de invasores brancos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>copiou a política dos Estados Unidos, já que a situação dos indígenas, nos dois países, tem sido muito semelhante. FUVEST 2001 Primeira Fase – Segundo Exame Prova T GABARITO – 03/12/2000 T 01 – E T 02 – B T 03 – B T 04 – A T 05 – C T 06 – D T 07 – E T 08 – D T 09 – E T 10 – C T 11 – D T 12 – A T 13 – C T 14 – B T 15 – D T 16 – A T 17 – B T 18 – E T 19 – C T 20 – A T 21 – B T 22 – B T 23 – D T 24 – C T 25 – E T 26 – D T 27 – B T 28 – E T 29 – A T 30 – D T 31 – E T 32 – C T 33 – E T 34 – A T 35 – C T 36 – A T 37 – D T 38 – A T 39 – C T 40 – B T 41 – E T 42 – E T 43 – D T 44 – C T 45 – C T 46 – D T 47 – B T 48 – C T 49 – A T 50 – C T 51 – D T 52 – A T 53 – B T 54 – B T 55 – C T 56 – A T 57 – A T 58 – E T 59 – D T 60 – B T 61 – B T 62 – A T 63 – C T 64 – D T 65 – E T 66 – C T 67 – B T 68 – E T 69 – A T 70 – D T 71 – C T 72 – A T 73 – B T 74 – E T 75 – D T 76 – B T 77 – E T 78 – B T 79 – C T 80 – D</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

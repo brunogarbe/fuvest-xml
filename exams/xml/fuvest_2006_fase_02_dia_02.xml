@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2006" phase="discursive" day="0" variation="V1" date="2006-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pista de skate, para esporte radical, é montada a partir de duas rampas R1 e R2, separadas entre A e B por uma distância D, com as alturas e ângulos indicados na figura. A pista foi projetada de tal forma que um skatista, ao descer a rampa R1, salta no ar, atingindo sua altura máxima no ponto médio entre A e B, antes de alcançar a rampa R2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o módulo da velocidade VA, em m/s, com que o skatista atinge a extremidade A da rampa R1.</p>
+        </part>
+        <part>
+          <p>Determine a altura máxima H, em metros, a partir do solo, que o skatista atinge, no ar, entre os pontos A e B.</p>
+        </part>
+        <part>
+          <p>Calcule qual deve ser a distância D, em metros, entre os pontos A e B, para que o skatista atinja a rampa R2 em B, com segurança.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um gaveteiro, cujas dimensões estão indicadas no corte transversal, em escala, representado nas figuras, possui três gavetas iguais, onde foram colocadas massas de 1 kg, 8 kg e 3 kg, distribuídas de modo uniforme, respectivamente no fundo das gavetas G1, G2 e G3. Quando a gaveta G2 é puxada, permanecendo aberta, existe o risco de o gaveteiro ficar desequilibrado e inclinar-se para frente.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique, no esquema da folha de resposta, a posição do centro de massa de cada uma das gavetas quando fechadas, identificando esses pontos com o símbolo ×.</p>
+        </part>
+        <part>
+          <p>Determine a distância máxima D, em cm, de abertura da gaveta G2 , nas condições da figura 2, de modo que o gaveteiro não tombe para frente.</p>
+        </part>
+        <part>
+          <p>Determine a maior massa Mmax , em kg, que pode ser colocada em G2 , sem que haja risco de desequilibrar o gaveteiro quando essa gaveta for aberta completamente, mantendo as demais condições. NOTE E ADOTE Desconsidere a resistência do ar, o atrito e os efeitos das acrobacias do skatista. sen 30º = 0,5; cos 30º ≅ 0,87 NOTE E ADOTE Desconsidere o peso das gavetas e do gaveteiro vazios.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um elevador de carga, com massa M = 5 000 kg, é suspenso por um cabo na parte externa de um edifício em construção. Nas condições das questões abaixo, considere que o motor fornece a potência P = 150 kW.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a força F1, em N, que o cabo exerce sobre o elevador, quando ele é puxado com velocidade constante.</p>
+        </part>
+        <part>
+          <p>Determine a força F2, em N, que o cabo exerce sobre o elevador, no instante em que ele está subindo com uma aceleração para cima de módulo a = 5 m/s2.</p>
+        </part>
+        <part>
+          <p>Levando em conta a potência P do motor, determine a velocidade V2, em m/s, com que o elevador estará subindo, nas condições do item (b) (a = 5 m/s2).</p>
+        </part>
+        <part>
+          <p>Determine a velocidade máxima VL, em m/s, com que o elevador pode subir quando puxado pelo motor.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma figura gravada em uma folha de plástico (transparência) foi projetada sobre uma parede branca, usando-se uma fonte de luz e uma única lente, colocada entre a folha e a parede, conforme esquema ao lado. A transparência e a imagem projetada, nas condições de tamanho e distância usadas, estão representadas, em escala, na folha de respostas. As figuras 1 e 2 correspondem a vistas de frente e a figura 3, a vista lateral.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine, no esquema da folha de resposta, traçando as linhas de construção apropriadas , a posição onde foi colocada a lente, indicando essa posição por uma linha vertical e a letra L. Marque o centro óptico da lente e indique sua posição pela letra C.</p>
+        </part>
+        <part>
+          <p>Determine graficamente, no esquema da folha de resposta, traçando as linhas de construção apropriadas , a posição de cada um dos focos da lente, indicando suas posições pela letra F.</p>
+        </part>
+        <part>
+          <p>Represente, indicando por Bnova, na figura 2, a posição da linha B, quando o centro óptico da lente for rebaixado em 10 cm (1 quadradinho). NOTE E ADOTE A potência P, desenvolvida por uma força F, é igual ao produto da força pela velocidade V do corpo em que atua, quando V tem a direção e o sentido da força. NOTE E ADOTE Todo raio que passa pelo centro óptico de uma lente emerge na mesma direção que incide.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dois tanques cilíndricos verticais, A e B, de 1,6 m de altura e interligados, estão parcialmente cheios de água e possuem válvulas que estão abertas, como representado na figura para a situação inicial. Os tanques estão a uma temperatura T0 = 280 K e à pressão atmosférica P0. Em uma etapa de um processo industrial, apenas a válvula A é fechada e, em seguida, os tanques são aquecidos a uma temperatura T1, resultando na configuração indicada na figura para a situação final.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a razão R1 = P1/P0, entre a pressão final P1 e a pressão inicial P0 do ar no tanque A.</p>
+        </part>
+        <part>
+          <p>Determine a razão R2 = T1/T0, entre a temperatura final T1 e a temperatura inicial T0 dentro dos tanques.</p>
+        </part>
+        <part>
+          <p>Para o tanque B, determine a razão R3 = m0/m1 entre a massa de ar m0 contida inicialmente no tanque B e a massa de ar final m1, à temperatura T1, contida nesse mesmo tanque.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>Imagens por ultra-som podem ser obtidas a partir da comparação entre o pulso de um sinal emitido e o pulso proveniente da reflexão em uma superfície do objeto que se quer analisar. Em um teste de controle de qualidade, para conferir a espessura de uma placa de plástico, são usados pulsos de ondas com freqüência f = 1,5 MHz. Os gráficos I e II representam, respectivamente, as intensidades em função do tempo dos pulsos emitidos e dos pulsos captados no receptor, em uma certa parte da placa.</p>
+        <p>a) Determine o intervalo de tempo ∆t, em µs, entre os pulsos emitidos e os pulsos captados.</p>
+        <p>b) Estime a espessura D, em mm, da placa.</p>
+        <p>c) Determine o comprimento de onda λ, em mm, das ondas de ultra-som utilizadas.</p>
+        <p>NOTE E ADOTE PV = nRT ; ∆P= ρ g ∆H Patmosférica ≈ 1,00 x 105 N/m2 NOTE E ADOTE 1 µs = 10-6 s 1 MHz = 106 Hz Velocidade do ultra-som no plástico = 1200 m/s. Os gráficos representam a intensidade I em uma escala arbitrária. Cada pulso é composto por inúmeros ciclos da onda de ultra-som. Cada pulso só é emitido depois da recepção do pulso anterior.</p>
+        <p>a)</p>
+        <p>b)</p>
+        <p>c)</p>
+        <p>∆t = µs D = mm λ = mm</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na época da formação da Terra, estimada como tendo ocorrido há cerca de 4,2 bilhões de anos, os isótopos de Urânio radioativo 235U e 238U existiam em maior quantidade, pois, ao longo do tempo, parte deles desintegrouse, deixando de existir como elemento Urânio. Além disso, eram encontrados em proporções diferentes das de hoje, já que possuem meias-vidas diferentes. Atualmente, em uma amostra de 1,000 kg de Urânio, há 0,993 kg de 238U e 0,007 kg de 235U, de modo que o 235U corresponde a 0,7% da massa total e tem importância estratégica muito grande, pela sua utilização em reatores nucleares.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Estime a massa M238, em kg, de uma amostra de 238U, na época da formação da Terra, a partir da qual restaram hoje 0,993 kg de 238U.</p>
+        </part>
+        <part>
+          <p>Estime, levando em conta o número de meias-vidas do 235U, a massa M235, em kg, de uma amostra de 235U, na época da formação da Terra, a partir da qual restaram hoje 0,007 kg de 235U.</p>
+        </part>
+        <part>
+          <p>Estime a porcentagem P em massa de 235U em relação à massa total de Urânio em uma amostra na época da formação da Terra.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pequena esfera, com carga elétrica positiva Q = 1,5 x 10 -9 C, está a uma altura D = 0,05 m acima da superfície de uma grande placa condutora, ligada à Terra, induzindo sobre essa superfície cargas negativas, como na figura 1. O conjunto dessas cargas estabelece um campo elétrico que é idêntico, apenas na parte do espaço acima da placa, ao campo gerado por uma carga +Q e uma carga -Q, como se fosse uma “imagem” de Q que estivesse colocada na posição representada na figura 2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a intensidade da força F, em N, que age sobre a carga +Q, devida às cargas induzidas na placa.</p>
+        </part>
+        <part>
+          <p>Determine a intensidade do campo elétrico E0, em V/m, que as cargas negativas induzidas na placa criam no ponto onde se encontra a carga +Q.</p>
+        </part>
+        <part>
+          <p>Represente, no diagrama da folha de resposta, no ponto A, os vetores campo elétrico + E r e − E r , causados, respectivamente, pela carga +Q e pelas cargas induzidas na placa, bem como o campo resultante, A E r . O ponto A está a uma distância D do ponto O da figura e muito próximo à placa, mas acima dela.</p>
+        </part>
+        <part>
+          <p>Determine a intensidade do campo elétrico resultante EA, em V/m, no ponto A. NOTE E ADOTE A meia-vida de um elemento radioativo é o intervalo de tempo necessário para que a metade da massa de uma amostra se desintegre; o restante de sua massa continua a se desintegrar. Meia-vida do 238U ≈ 4,2 bilhões de anos (4,2 x 109 anos) Meia-vida do 235U ≈ 700 milhões de anos (0,7 x 109 anos) (Os valores acima foram aproximados, para facilitar os cálculos). NOTE E ADOTE F = k Q1Q2/r2; E = k Q/r2; onde k = 2 2 9 C / m N 10 9 ⋅ × 1 V/m = 1 N/C</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A relação entre tensão e corrente de uma lâmpada L, como a usada em automóveis, foi obtida por meio do circuito esquematizado na figura 1, onde G representa um gerador de tensão variável. Foi medido o valor da corrente indicado pelo amperímetro A, para diferentes valores da tensão medida pelo voltímetro V, conforme representado pela curva L no Gráfico 1, da folha de resposta. O circuito da figura 1 é, então, modificado, acrescentando-se um resistor R de resistência 6,0 Ω em série com a lâmpada L, conforme esquematizado na figura 2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Construa, no Gráfico 2 da folha de resposta, o gráfico da potência dissipada na lâmpada, em função da tensão U entre seus terminais, para U variando desde 0 até 12 V.</p>
+        </part>
+        <part>
+          <p>Construa, no Gráfico 1 da folha de resposta, o gráfico da corrente no resistor R em função da tensão U aplicada em seus terminais, para U variando desde 0 até 12 V.</p>
+        </part>
+        <part>
+          <p>Considerando o circuito da figura 2, construa, no Gráfico 3 da folha de resposta, o gráfico da corrente indicada pelo amperímetro em função da tensão U indicada pelo voltímetro, quando a corrente varia desde 0 até 2 A.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um procedimento para estimar o campo magnético de um ímã baseia-se no movimento de uma grande espira condutora E através desse campo. A espira retangular E é abandonada à ação da gravidade entre os pólos do ímã de modo que, enquanto a espira cai, um de seus lados horizontais (apenas um) corta perpendicularmente as linhas de campo. A corrente elétrica induzida na espira gera uma força eletromagnética que se opõe a seu movimento de queda, de tal forma que a espira termina atingindo uma velocidade V constante. Essa velocidade é mantida enquanto esse lado da espira estiver passando entre os pólos do ímã. A figura representa a configuração usada para medir o campo magnético, uniforme e horizontal, criado entre os pólos do ímã. As características da espira e do ímã estão apresentadas na tabela. Para a situação em que um dos lados da espira alcança a velocidade constante V = 0,40 m/s entre os pólos do ímã, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A intensidade da força eletromagnética F, em N, que age sobre a espira, de massa M, opondo-se à gravidade no seu movimento de queda a velocidade constante.</p>
+        </part>
+        <part>
+          <p>O trabalho realizado pela força de gravidade por unidade de tempo (potência), que é igual à potência P dissipada na espira, em watts.</p>
+        </part>
+        <part>
+          <p>A intensidade da corrente elétrica i, em amperes, que percorre a espira, de resistência R.</p>
+        </part>
+        <part>
+          <p>O campo magnético B, em tesla, existente entre os pólos do ímã. NOTE E ADOTE O voltímetro e o amperímetro se comportam como ideais. Na construção dos gráficos, marque os pontos usados para traçar as curvas. Espira: Massa M 0,016 kg Resistência R 0,10 Ω Dimensões do ímã: Largura a 0,20 m Altura b 0,15 m NOTE E ADOTE P = F V ; P = i2 R ; F = Bil (Desconsidere o campo magnético da Terra).</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

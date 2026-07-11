@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2007" phase="discursive" day="0" variation="V1" date="2007-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um determinado agente antimofo consiste em um pote com tampa perfurada, contendo 80 g de cloreto de cálcio anidro que, ao absorver água, se transforma em cloreto de cálcio diidratado (CaCl 2 . 2H2O). Em uma experiência, o agente foi mantido durante um mês em ambiente úmido. A cada 5 dias, o pote foi pesado e registrado o ganho de massa: dias ganho de massa / g 0 0 5 7 10 15 15 22 20 30 25 37 30 45</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Construa, na folha de respostas ao lado, o gráfico que representa o ganho de massa versus o número de dias.</p>
+        </part>
+        <part>
+          <p>Qual o ganho de massa quando todo o cloreto de cálcio, contido no pote, tiver se transformado em cloreto de cálcio diidratado? Mostre os cálculos.</p>
+        </part>
+        <part>
+          <p>A quantos dias corresponde o ganho de massa calculado no item anterior? Indique no gráfico, utilizando linhas de chamada.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="02">
+      <statement>
+        <p>Em 1912, François Auguste Victor Grignard recebeu o prêmio Nobel de Química pela preparação de uma nova classe de compostos contendo, além de carbono e hidrogênio, magnésio e um halogênio – os quais passaram a ser denominados “compostos de Grignard”. Tais compostos podem ser preparados pela reação de um haleto de alquila com magnésio em solvente adequado. Os compostos de Grignard reagem com compostos carbonílicos (aldeídos e cetonas), formando álcoois. Nessa reação, forma-se um composto intermediário que, reagindo com água, produz o álcool. Por este método, para preparar o álcool terciário há duas possibilidades de escolha dos reagentes. Preencha a tabela da folha de respostas ao lado para cada uma delas. Dados: massas molares (g / mol) água...............….... 18 cloreto de cálcio....111 Composto carbonílico Reagente de Grignard Haleto de alquila Possibilidade 1 Possibilidade 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>Ésteres podem ser preparados pela reação de ácidos carboxílicos ou cloretos de ácido, com álcoois, conforme exemplificado: Recentemente, dois poliésteres biodegradáveis (I e II) foram preparados, utilizando, em cada caso, um dos métodos citados. Dentre os seguintes compostos, quais são os reagentes apropriados para a preparação de</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na produção de hidrogênio por via petroquímica, sobram traços de CO e CO2 nesse gás, o que impede sua aplicação em hidrogenações catalíticas, uma vez que CO é veneno de catalisador. Usando-se o próprio hidrogênio, essas impurezas são removidas, sendo transformadas em CH4 e H2O. Essas reações ocorrem a temperaturas elevadas, em que reagentes e produtos são gasosos, chegando a um equilíbrio de constante KI no caso do CO e a um equilíbrio de constante KII no caso do CO2. O gráfico traz a variação dessas constantes com a temperatura.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Num experimento de laboratório, realizado a 460 oC, as pressões parciais de CO, H2, CH4 e H2O, eram, respectivamente, 4 x 10-5 atm; 2 atm; 0,4 atm; e 0,4 atm. Verifique se o equilíbrio químico foi alcançado. Explique.</p>
+        </part>
+        <part>
+          <p>As transformações de CO e CO2 em CH4 mais H2O são exotérmicas ou endotérmicas? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Em qual das duas transformações, na de CO ou na de CO2, o calor desprendido ou absorvido é maior? Explique, em termos do módulo da quantidade de calor ) ( Q envolvida.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Foi realizado o seguinte experimento, em quatro etapas: I) Em um copo de vidro, contendo alguns pregos de ferro lixados, foi colocada uma solução de tintura de iodo (iodo em solução de água e álcool comum, de cor castanho-avermelhada), em quantidade suficiente para cobrir os pregos. Depois de algumas horas, observou-se descoloração da solução. II) A solução descolorida foi despejada em um outro copo, separando-se-a dos pregos. III) À solução descolorida, foram adicionadas algumas gotas de água sanitária (solução aquosa de hipoclorito de sódio, cujo pH é maior que 7). Observou-se o reaparecimento imediato da cor castanho-avermelhada e formação de um precipitado. IV) Adicionaram-se, à mistura heterogênea obtida em III, algumas gotas de ácido clorídrico concentrado. A solução continuou castanho-avermelhada, mas o precipitado foi dissolvido.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química balanceada para a reação que ocorre na etapa I.</p>
+        </part>
+        <part>
+          <p>Quais os produtos das transformações que ocorrem na etapa III?</p>
+        </part>
+        <part>
+          <p>Escreva a equação química balanceada para a reação que ocorre na etapa IV.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A Agência Nacional do Petróleo (ANP) estabelece que o álcool combustível, utilizado no Brasil, deve conter entre 5,3% e 7,4% de água, em massa. Porcentagens maiores de água significam que o combustível foi adulterado. Um método que está sendo desenvolvido para analisar o teor de água no álcool combustível consiste em saturá-lo com cloreto de sódio, NaCl, e medir a condutividade elétrica da solução resultante. Como o NaCl é muito solúvel em água e pouco solúvel em etanol, a quantidade de sal adicionada para saturação aumenta com o teor de água no combustível. Observa-se que a condutividade elétrica varia linearmente com o teor de água no combustível, em um intervalo de porcentagem de água que abrange os limites estabelecidos pela ANP.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique por que o etanol (CH3CH2OH) forma mistura homogênea com água em todas as proporções.</p>
+        </part>
+        <part>
+          <p>Faça um desenho, representando os íons Na+ e Cl - em solução aquosa e mostrando a interação desses íons com as moléculas de água.</p>
+        </part>
+        <part>
+          <p>Esboce um gráfico que mostre a variação da condutividade elétrica da mistura combustível, saturada com NaCl , em função do teor de água nesse combustível. Justifique por que o gráfico tem o aspecto esboçado. Observações: Hipoclorito, Cl O-, é um oxidante que se reduz a cloreto, Cl -, em meio aquoso. O precipitado da etapa III envolve o cátion formado na etapa I. Na tintura de iodo, o álcool está presente apenas para aumentar a solubilidade do iodo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Existem vários tipos de carvão mineral, cujas composições podem variar, conforme exemplifica a tabela a seguir. tipo de carvão umidade (% em massa) material volátil* (% em massa) carbono não volátil (% em massa) outros constituintes** (% em massa) antracito 3,9 4,0 84,0 8,1 betuminoso 2,3 19,6 65,8 12,3 sub-betuminoso 22,2 32,2 40,3 5,3 lignito 36,8 27,8 30,2 5,2 * Considere semelhante a composição do material volátil para os quatro tipos de carvão. ** Dentre os outros constituintes, o principal composto é a pirita, 2 2 2 S Fe .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual desses tipos de carvão deve apresentar menor poder calorífico (energia liberada na combustão por unidade de massa de material)? Explique sua resposta.</p>
+        </part>
+        <part>
+          <p>Qual desses tipos de carvão deve liberar maior quantidade de gás poluente (sem considerar CO e CO2) por unidade de massa queimada? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Escreva a equação química balanceada que representa a formação do gás poluente a que se refere o item b (sem considerar CO e CO2).</p>
+        </part>
+        <part>
+          <p>Calcule o calor liberado na combustão completa de 1,00 x 103 kg de antracito (considere apenas a porcentagem de carbono não volátil).</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma técnica de análise química consiste em medir, continuamente, a massa de um sólido, ao mesmo tempo em que é submetido a um aquecimento progressivo. À medida em que o sólido vai se decompondo e liberando produtos gasosos, sua massa diminui e isso é registrado graficamente. Por exemplo, se aquecermos AgNO3(s) anidro, por volta de 470 oC, esse sal começará a se decompor, restando prata metálica ao final do processo. No caso do oxalato de cálcio monoidratado, (s) O H O CaC 2 4 2  , ocorre perda de moléculas de água de hidratação, por volta de 160 oC; o oxalato de cálcio anidro então se decompõe, liberando monóxido de carbono (na proporção de 1 mol : 1 mol), por volta de 500 oC; e o produto sólido resultante, finalmente, se decompõe em óxido de cálcio, por volta de 650 oC.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as equações químicas balanceadas, correspondentes aos três processos sucessivos de decomposição descritos para o O H O CaC 2 4 2  (s).</p>
+        </part>
+        <part>
+          <p>Esboce o gráfico que mostra a variação de massa, em função da temperatura, para o experimento descrito. Dados: entalpia de formação do dióxido de carbono gasoso .... – 400 kJ/mol massa molar do carbono ..............………………............ 12 g/mol</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O Brasil é campeão de reciclagem de latinhas de alumínio. Essencialmente, basta fundi-las, sendo, entretanto, necessário compactá-las, previamente, em pequenos fardos. Caso contrário, o alumínio queimaria no forno, onde tem contato com oxigênio do ar.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química que representa a queima do alumínio.</p>
+        </part>
+        <part>
+          <p>Use argumentos de cinética química para explicar por que as latinhas de alumínio queimam, quando jogadas diretamente no forno, e por que isso não ocorre, quando antes são compactadas? Uma latinha de alumínio vazia pode ser quebrada em duas partes, executando-se o seguinte experimento: - Com uma ponta metálica, risca-se a latinha em toda a volta, a cerca de 3 cm do fundo, para remover o revestimento e expor o metal. - Prepara-se uma solução aquosa de CuCl 2, dissolvendo-se 2,69 g desse sal em 100 mL de água. Essa solução tem cor verde-azulada. - A latinha riscada é colocada dentro de um copo de vidro, contendo toda a solução aquosa de Cu Cl 2, de tal forma a cobrir o risco. Mantém-se a latinha imersa, colocando-se um peso sobre ela. Após algum tempo, observa-se total descoramento da solução e formação de um sólido floculoso avermelhado tanto sobre o risco, quanto no fundo da latinha. Um pequeno esforço de torção sobre a latinha a quebra em duas partes.</p>
+        </part>
+        <part>
+          <p>Escreva a equação química que representa a transformação responsável pelo enfraquecimento da latinha de alumínio.</p>
+        </part>
+        <part>
+          <p>Calcule a massa total do sólido avermelhado que se formou no final do experimento, ou seja, quando houve total descoramento da solução.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="10">
+      <statement>
+        <p>Reescreva as seguintes equações químicas, utilizando estruturas de Lewis (fórmulas eletrônicas em que os elétrons de valência são representados por x ou x), tanto para os reagentes quanto para os produtos. Dados: H N O F Na número atômico 1 7 8 9 11 número de elétrons de valência 1 5 6 7 1 Dados: massas molares (g/mol) Cu .......... 63,5 Cl ........... 35,5</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

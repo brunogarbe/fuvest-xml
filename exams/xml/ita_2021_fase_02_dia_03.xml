@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2021" phase="discursive" day="0" variation="V1" date="2021-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Sejam dados os seguintes pares redox e seus respectivos potenciais padrão de eletrodo, a 25 oC. Semirreação Eo (V versus EPH)</p>
+        <p>Semirreação Eo (V versus EPH) Mg2+ + 2e− ⇌ Mg −2,37</p>
+        <p>2H+ + 2e− ⇌ H2 0,00 Al3+ + 3e− ⇌ Al −1,66</p>
+        <p>Cu2+ + 2e− ⇌ Cu 0,34 Cr3+ + 3e− ⇌ Cr −0,74</p>
+        <p>Ag+ + e− ⇌ Ag 0,80 Fe2+ + 2e− ⇌ Fe −0,44</p>
+        <p>O2 + 4H+ + 4e− ⇌ 2H2O 1,23 Pb2+ + 2e− ⇌ Pb −0,13</p>
+        <p>Au3+ + 3e− ⇌ Au 1,50 Com base nessas informações, responda aos itens abaixo sobre a tendência à corrosão de metais em diferentes meios. a) Apresente os elementos metálicos listados na tabela em ordem decrescente (do maior para o menor) de tendência à corrosão. b) Se esses elementos metálicos forem mergulhados em uma solução desaerada de H2SO4 a 0,5 mol⋅L−1, quais deles sofrerão corrosão? Justifique. c) Se a solução do item b) for aerada, a tendência à corrosão dos elementos metálicos será alterada? Se sim, quais sofrerão corrosão? Justifique. d) Se os elementos metálicos forem mergulhados em uma solução aquosa desaerada de NaOH a 1 mol⋅L−1, quais deles sofrerão corrosão? Justifique. e) Se a solução do item d) for substituída por uma de NaOH a 0,1 mol⋅L−1 e aerada, a tendência à corrosão dos elementos metálicos será alterada? Se sim, quais sofrerão corrosão? Justifique. Dado eventualmente necessário: log 2 = 0,3.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Três regiões industrializadas apresentaram as seguintes concentrações (em partes por milhão em volume) de óxidos gasosos em suas atmosferas: Região Gás(es) presente(s) Concentração (ppmv) R CO2 5,00 × 102 S NO2 4,00 NO 1,45 × 101 T SO2 2,00 × 103 Sabe-se que a chuva ácida se refere à água da chuva com pH menor que 5,6 (equivale a [H+] &gt; 2,5×10−6 mol⋅L−1). Considere a pressão atmosférica igual a 1 atm e a formação apenas dos ácidos H2CO3, HNO2 e H2SO3 na dissolução dos gases.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a concentração molar de H+ esperada para a água da chuva em cada uma das regiões.</p>
+        </part>
+        <part>
+          <p>Organize as regiões em ordem crescente de pH esperado da água da chuva.</p>
+        </part>
+        <part>
+          <p>Qual(is) região(ões) pode(m) sofrer os efeitos negativos de uma chuva ácida? Dados eventualmente necessários: KH = constante da lei de Henry, Ka = constante de ionização da espécie ácida A formada na solubilização do gás X. Substância X KH (mol⋅atm−1⋅L−1) X(g) ⇌ X(aq) Ka1 HA(aq) ⇌ H+(aq) + A−(aq) Ka2 HA−(aq) ⇌ H+(aq) + A2−(aq) CO2 0,04 4,5 × 10−7 4,7 × 10−11 NO2 0,01 7,0 × 10−4 −−−−−− NO 0,002 SO2 0,04 1,2 × 10−2 6,6 × 10−8</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Um reator químico, projetado com uma válvula de alívio de pressão que é acionada a 8,5 atm, contém uma mistura gasosa composta por quantidades iguais de um reagente (A) e de uma substância inerte (B), a 10 oC e 2 atm. Ao elevar rapidamente a temperatura do reator para 293 °C, o reagente A começa a se decompor de acordo com a seguinte equação estequiométrica genérica: 2A(g) → 3C(g) + 4D(g) + E(g) Sabendo que a velocidade de consumo de A nessa temperatura é dada por νA = −0,25 × (PA)0 (em atm⋅h−1), onde PA corresponde à pressão parcial da substância A, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Após quanto tempo de reação a válvula de alívio é acionada?</p>
+        </part>
+        <part>
+          <p>Quais as pressões parciais de cada espécie (A, B, C, D e E) presente no reator no momento do acionamento da válvula de alívio?</p>
+        </part>
+        <part>
+          <p>Assumindo 100% de rendimento da reação, qual a quantidade máxima de mistura gasosa que pode ser adicionada ao reator sem que a válvula de alívio seja acionada?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. O poder calorífico é um indicativo do potencial energético dos combustíveis, sendo que a diferença entre o poder calorífico superior (PCS) e o poder calorífico inferior (PCI) equivale à energia necessária para a vaporização da água formada numa reação de combustão completa. Sabe-se que o PCS do metano é 55 MJ⋅kg−1 e do etanol é 30 MJ⋅kg−1 e que a entalpia de vaporização da água é ∆H, = 44 kJ⋅mol−1.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule os valores do PCI do metano e do etanol, em kJ⋅mol−1.</p>
+        </part>
+        <part>
+          <p>Sabendo que o gás natural é composto principalmente por metano e que os outros componentes possuem PCS muito inferiores ao deste gás, estime a porcentagem em massa de metano presente em um gás natural cujo PCS = 52 MJ⋅kg−1.</p>
+        </part>
+        <part>
+          <p>Explique por que o PCS do metano é muito superior ao do etanol.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Sulfeto de níquel é pouco solúvel em água, apresentando a constante do produto de solubilidade igual a Kps = 4 × 10−19. Ao adicionar 18,15 g desse sal a 1 L de água e, em seguida, ajustar o pH do meio com adição de ácido sulfúrico, observou-se a solubilização do sal com formação de ácido sulfídrico. Desprezando-se a variação de volume do meio reacional pela adição do ácido e dadas as constantes de ionização do ácido sulfídrico Ka1 = 1 × 10−7 e Ka2 = 1 × 10−14, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A constante de equilíbrio K da reação de solubilização do sulfeto de níquel em meio ácido.</p>
+        </part>
+        <part>
+          <p>A faixa de valores de pH na qual todo o sulfeto de níquel é solubilizado.</p>
+        </part>
+        <part>
+          <p>A porcentagem de sulfeto de níquel solubilizado quando o pH do meio for 3.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere a combustão de um determinado alceno com uma quantidade definida de ar em excesso. Considere, ainda, que o ar é composto apenas por nitrogênio e oxigênio numa proporção molar de 3,76 e que o nitrogênio não sofre oxidação durante a combustão. Para esta reação, determine a porcentagem do(s) gás(es) em cada uma das situações descritas abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Na combustão incompleta do alceno com ar em excesso, além dos produtos esperados numa combustão completa, há a formação de monóxido de carbono na proporção molar de 1 para 8 em relação ao dióxido de carbono. Além disso, a quantidade em mol de O2 que sobrou após a reação é 15 igual à de carbono no início da reação. Com base nessas informações, determine a composição percentual aproximada dos gases resultantes da reação, considerando a remoção prévia da água.</p>
+        </part>
+        <part>
+          <p>Determine o percentual de ar em excesso na reação de combustão completa do alceno.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Responda às seguintes questões:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Sabe-se que a primeira afinidade eletrônica do oxigênio é exotérmica (−141 kJ⋅mol−1) e a segunda é altamente endotérmica (+798 kJ⋅mol−1). Justifique a razão pela qual a maioria dos compostos iônicos contendo oxigênio são encontrados na forma do ânion O2−.</p>
+        </part>
+        <part>
+          <p>A primeira energia de ionização para o oxigênio (1313,9 kJ⋅mol−1) é menor do que a primeira energia de ionização para o nitrogênio (1402,3 kJ⋅mol−1), enquanto um comportamento oposto é observado para a segunda energia de ionização para oxigênio (3388,3 kJ⋅mol−1) e nitrogênio (2856 kJ⋅mol−1). Justifique esse comportamento.</p>
+        </part>
+        <part>
+          <p>A primeira energia de ionização para o sódio (495,8 kJ⋅mol−1) é consideravelmente maior que a do potássio (418,8 kJ⋅mol−1). Um comportamento semelhante pode ser observado para o magnésio (737,7 kJ⋅mol−1) e para o cálcio (589,8 kJ⋅mol−1). No entanto, essa tendência não é observada para os elementos alumínio (577,5 kJ⋅mol−1) e gálio (578,8 kJ⋅mol−1). Justifique esses comportamentos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere a reação de oxirredução não balanceada de um mol de sulfato de chumbo com ácido hipocloroso, a 25 °C. 1PbSO4(s) + HOCl(aq) → Cl2(g) + PbO2(s) + HSO (aq) + H+(aq) Para esta reação, a variação de entalpia padrão é ∆Hο = +19,9 kJ. Sabe-se que o potencial de eletrodo padrão da espécie que sofre oxidação é +1,63 V e o da espécie que sofre redução é +1,61 V.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as semirreações, a reação global balanceada e o potencial padrão da reação global.</p>
+        </part>
+        <part>
+          <p>Determine a variação de energia interna da reação (∆Uο), considerando comportamento ideal das espécies.</p>
+        </part>
+        <part>
+          <p>Justifique termodinamicamente a diferença entre os valores de ∆Hο e ∆Uο para a reação acima.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. O polietileno é um polímero largamente utilizado devido às suas características estruturais e às suas propriedades. Dependendo das condições reacionais e do sistema catalítico empregado na polimerização, diferentes tipos de polietileno podem ser produzidos. Dois dos principais tipos de polietileno são: polietileno de baixa densidade (PEBD) e polietileno de alta densidade (PEAD), ilustrados abaixo:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a fórmula estrutural do monômero do polietileno e também do produto de polimerização com três unidades repetitivas do monômero. Qual é o nome dessa reação de polimerização?</p>
+        </part>
+        <part>
+          <p>Como a linearidade da cadeia do polímero afeta sua rigidez? Pelo critério de linearidade, qual dos dois polímeros (PEBD ou PEAD) seria mais rígido?</p>
+        </part>
+        <part>
+          <p>Como a cristalinidade de um polímero afeta sua transparência/opacidade? Pelo critério da cristalinidade, qual dos dois polímeros (PEBD ou PEAD) teria maior transparência?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere o composto 2,4-pentanodiona.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva, utilizando fórmulas estruturais, a equação química que representa o equilíbrio tautomérico deste composto com a sua forma enólica.</p>
+        </part>
+        <part>
+          <p>Desenhe as estruturas de ressonância da forma enólica do item a).</p>
+        </part>
+        <part>
+          <p>Explique por que a 2,4-pentanodiona é um composto ácido.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

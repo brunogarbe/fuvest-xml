@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2002" phase="objective" day="0" variation="V1" date="2002-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>Camada de texto ilegível (codificação de fonte corrompida); extração automática indisponível (OCR necessário).</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

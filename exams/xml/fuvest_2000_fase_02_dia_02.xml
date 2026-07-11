@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2000" phase="discursive" day="0" variation="V1" date="2000-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um elevador, aberto em cima, vindo do subsolo de um edifício, sobe mantendo sempre uma velocidade constante Ve=5,0 m/s. Quando o piso do elevador passa pelo piso do térreo, um dispositivo colocado no piso do elevador lança verticalmente, para cima, uma bolinha, com velocidade inicial vb=10,0 m/s, em relação ao elevador. Na figura, h e h' representam, respectivamente, as alturas da bolinha em relação aos pisos do elevador e do térreo e H representa a altura do piso do elevador em relação ao piso do térreo. No instante t=0 do lançamento da bolinha, H=h=h’=0.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>No sistema de coordenadas da folha de respostas, construa e identifique os gráficos H(t), h(t) e h’(t), entre o instante t = 0 e o instante em que a bolinha retorna ao piso do elevador.</p>
+        </part>
+        <part>
+          <p>Indique o instante tmax em que a bolinha atinge sua altura máxima, em relação ao piso do andar térreo. FUVEST 2000 - 2a Fase - Física - 06/01/2000 Página 2 de 8</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um observador O olha-se em um espelho plano vertical, pela abertura de uma porta, com 1 m de largura, paralela ao espelho, conforme a figura abaixo e o esquema da folha de respostas. Segurando uma régua longa, ele a mantém na posição horizontal, paralela ao espelho e na altura dos ombros, para avaliar os limites da região que consegue enxergar através do espelho (limite D, à sua direita, e limite E, à sua esquerda).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>No esquema da folha de respostas, trace os raios que, partindo dos limites D e E da região visível da régua, atingem os olhos do observador O. Construa a solução, utilizando linhas cheias para indicar esses raios e linhas tracejadas para prolongamentos de raios ou outras linhas auxiliares. Indique, com uma flecha, o sentido de percurso da luz.</p>
+        </part>
+        <part>
+          <p>Identifique D e E no esquema, estimando, em metros, a distância L entre esses dois pontos da régua. FUVEST 2000 - 2a Fase - Física - 06/01/2000 Página 3 de 8</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pista é formada por duas rampas inclinadas, A e B, e por uma região horizontal de comprimento L. Soltando-se, na rampa A, de uma altura HA, um bloco de massa m, verifica-se que ele atinge uma altura HB na rampa B (conforme figura), em experimento realizado na Terra. O coeficiente de atrito cinético entre o bloco e a pista é nulo nas rampas e igual a µ na região horizontal. Suponha que esse mesmo experimento seja realizado em Marte, onde a aceleração da gravidade é gM ≅ g /3, e considere que o bloco seja solto na mesma rampa A e da mesma altura HA. Determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a razão Ra = vA Terra/vA Marte, entre as velocidades do bloco no final da rampa A (ponto A), em cada uma das experiências (Terra e Marte).</p>
+        </part>
+        <part>
+          <p>a razão Rb = WTerra/WMarte, entre as energias mecânicas dissipadas pela força de atrito na região horizontal, em cada uma das experiências (Terra e Marte).</p>
+        </part>
+        <part>
+          <p>a razão Rc = HB Terra/HB Marte, entre as alturas que o bloco atinge na rampa B, em cada uma das experiências (Terra e Marte). FUVEST 2000 - 2a Fase - Física - 06/01/2000 Página 4 de 8</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma caixa C, parada sobre uma superfície horizontal, tem em seu interior um bloco B, que pode deslizar sem atrito e colidir elasticamente com ela. O bloco e a caixa têm massas iguais, sendo mC = mB = 20 kg. Na situação representada na figura, no instante t=0, é dado um empurrão na caixa, que passa a se mover, sem atrito, com velocidade inicial v0 = 15 cm/s. O bloco e a parede esquerda da caixa colidem no instante t1=2s, passando o bloco, depois, a colidir sucessivamente com as paredes direita e esquerda da caixa, em intervalos de tempo ∆t iguais.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine os intervalos de tempo ∆t.</p>
+        </part>
+        <part>
+          <p>Construa, nos sistemas de coordenadas da folha de respostas, os gráficos abaixo: • Quantidade de movimento QC da caixa em função do tempo t • Quantidade de movimento QB do bloco em função do tempo t • Energia total E do sistema em função do tempo t Em todos os gráficos, considere pelo menos quatro colisões e indique valores e unidades nos eixos verticais. FUVEST 2000 - 2a Fase - Física - 06/01/2000 Página 5 de 8</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma determinada máquina pneumática aplica, por meio da haste H, uma força para cima e para baixo sobre um mecanismo externo. A haste H interliga dois êmbolos, de áreas S1=1,2m2 e S2=3,6m2, que podem mover-se em dois cilindros coaxiais, ao longo de um comprimento L = 0,50m, limitado por pinos (E). O conjunto (êmbolos e haste) tem massa M=8000kg. Os êmbolos separam três regiões: câmara C, mantida sempre em vácuo; câmara B, entre esses dois êmbolos; região A, aberta ao ambiente. A câmara B pode se comunicar com o ambiente, por um registro R1, e com um reservatório de ar comprimido, à pressão constante P=5,0×105Pa, por meio de um registro R2 (conforme figura). Inicialmente, com o registro R1 aberto e R2 fechado, os êmbolos deslocam-se lentamente para cima, puxando o mecanismo externo com uma força constante FC. No final do percurso, R1 é fechado e R2 aberto, de forma que os êmbolos deslocam-se para baixo, empurrando o mecanismo externo com uma força constante FB. (Considere a temperatura como constante e a pressão ambiente como P0 = 1,0 x 105 Pa. Lembre-se de que 1 Pa = 1 N/m2). Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a intensidade, em N, da força FC.</p>
+        </part>
+        <part>
+          <p>a intensidade, em N, da força FB.</p>
+        </part>
+        <part>
+          <p>o trabalho T, sobre o mecanismo externo, em J, em um ciclo completo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma experiência é realizada para estimar o calor específico de um bloco de material desconhecido, de massa mb = 5,4 kg. Em recipiente de isopor, uma quantidade de água é aquecida por uma resistência elétrica R = 40 Ω, ligada a uma fonte de 120V, conforme a figura. Nessas condições, e com os devidos cuidados experimentais, é medida a variação da temperatura T da água, em função do tempo t, obtendo-se a reta A do gráfico. A seguir, repete-se a experiência desde o início, desta vez colocando o bloco imerso dentro d’água, obtendo-se a reta B do gráfico.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Estime a massa M, em kg, da água colocada no recipiente.</p>
+        </part>
+        <part>
+          <p>Estime o calor específico cb do bloco, explicitando claramente as unidades utilizadas. FUVEST 2000 - 2a Fase - Física - 06/01/2000 Página 6 de 8</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma bolinha de isopor é mantida submersa, em um tanque, por um fio preso ao fundo. O tanque contém um líquido de densidade ρ igual à da água. A bolinha, de volume V = 200 cm3 e massa m = 40 g, tem seu centro mantido a uma distância H0 = 50 cm da superfície (figura 1). Cortando o fio, observa-se que a bolinha sobe, salta fora do líquido, e que seu centro atinge uma altura h = 30 cm acima da superfície (figura 2). Desprezando os efeitos do ar, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A altura h’, acima da superfície, que o centro da bolinha atingiria, se não houvesse perda de energia mecânica (devida, por exemplo, à produção de calor, ao movimento da água, etc.).</p>
+        </part>
+        <part>
+          <p>A energia mecânica E (em joules) dissipada entre a situação inicial e a final.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma partícula, de massa m e com carga elétrica Q, cai verticalmente com velocidade constante v0. Nessas condições, a força de resistência do ar pode ser considerada como Rar = kv, sendo k uma constante e v a velocidade. A partícula penetra, então, em uma região onde atua um campo magnético uniforme e constante B, perpendicular ao plano do papel e, nele entrando, conforme a figura. A velocidade da partícula é, então, alterada, adquirindo, após certo intervalo de tempo, um novo valor vL, constante. (Lembre-se de que a intensidade da força magnética FM=qvB, em unidades SI, para v perpendicular a B).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Expresse o valor da constante k em função de m, g e v0.</p>
+        </part>
+        <part>
+          <p>Esquematize os vetores das forças (Peso, Rar e FM) que agem sobre a partícula, em presença do campo B, na situação em que a velocidade passa a ser a velocidade vL. Represente, por uma linha tracejada, direção e sentido de vL.</p>
+        </part>
+        <part>
+          <p>Expresse o valor da velocidade vL da partícula, na região onde atua o campo B, em função de m, g, k, B e Q. FUVEST 2000 - 2a Fase - Física - 06/01/2000 Página 7 de 8</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um painel de células solares funciona como um gerador, transformando energia luminosa em energia elétrica. Quando, sobre a área de captação do painel, de 2 m2, incide uma densidade superficial de potência luminosa de 400 W/m2, obtémse uma relação entre I (corrente) e V (tensão), conforme gráfico abaixo. (Os valores de I e V são os indicados pelo amperímetro A e pelo voltímetro V, no circuito esquematizado, variando-se R em uma ampla faixa de valores). Nas aplicações práticas, substitui-se a resistência por um aparelho elétrico. Para as condições acima:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Construa, no sistema de coordenadas da folha de respostas, um esboço do gráfico da potência fornecida pelo painel solar em função da tensão entre seus terminais.</p>
+        </part>
+        <part>
+          <p>Estime a eficiência máxima (ηmax) de transformação de energia solar em energia elétrica do painel.</p>
+        </part>
+        <part>
+          <p>Estime a resistência Rmax, quando a potência elétrica gerada pelo painel for máxima. FUVEST 2000 - 2a Fase - Física - 06/01/2000 Página 8 de 8</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura mostrada na folha de respostas, estão representadas as superfícies equipotenciais do potencial eletrostático criado por duas esferas carregadas S1 e S2. Os centros das esferas estão sobre a reta OO'. A diferença de potencial entre duas linhas sucessivas é de 1 volt, e as equipotenciais de −3V e −4V estão indicadas no gráfico.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique os sinais das cargas elétricas Q1 e Q2 nas esferas S1 e S2. Indique a relação entre os módulos das cargas Q1 e Q2, utilizando os símbolos &gt; , &lt; ou =.</p>
+        </part>
+        <part>
+          <p>Represente, na figura, direção e sentido do vetor campo elétrico E no ponto A.</p>
+        </part>
+        <part>
+          <p>Estime o valor do campo elétrico E no ponto A, em N/C (newton/coulomb), utilizando a escala de distâncias indicada na figura.</p>
+        </part>
+        <part>
+          <p>Se existirem um ou mais pontos em que o campo elétrico seja nulo, demarque, com a letra N, aproximadamente, a região onde isso acontece. Se em nenhum ponto o campo for nulo, registre na folha de respostas: “Em nenhum ponto o campo é nulo”.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

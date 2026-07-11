@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2008" phase="objective" day="0" variation="V1" date="2008-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. No circuito representado na figura, têm-se duas lâmpadas incandescentes idênticas, L1 e L2, e três fontes idênticas, de mesma tensão V. Então, quando a chave é fechada,</p>
+        <p>A ( ) apagam-se as duas lâmpadas. B ( ) o brilho da L1 aumenta e o da L2 permanece o mesmo. C ( ) o brilho da L2 aumenta e o da L1 permanece o mesmo. D ( ) o brilho das duas lâmpadas aumenta. E ( ) o brilho das duas lâmpadas permanece o mesmo.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. A estrela anã vermelha Gliese 581 possui um planeta que, num período de 13 dias terrestres, realiza em torno da estrela uma órbita circular, cujo raio é igual a 1/14 da distância média entre o Sol e a Terra. Sabendo que a massa do planeta é aproximadamente igual à da Terra, pode-se dizer que a razão entre as massas da Gliese 581 e do nosso Sol é de aproximadamente</p>
+        <p>A ( ) 0,05</p>
+        <p>B ( ) 0,1</p>
+        <p>C ( ) 0,6</p>
+        <p>D ( ) 0,3</p>
+        <p>E ( ) 4,0</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. A figura mostra uma barra de 50 cm de comprimento e massa desprezível, suspensa por uma corda OQ, sustentando um peso de 3000 N no ponto indicado. Sabendo que a barra se apóia sem atrito nas paredes do vão, a razão entre a tensão na corda e a reação na parede no ponto S, no equilíbrio estático, é igual a</p>
+        <p>A ( ) 1,5</p>
+        <p>B ( ) 3,0</p>
+        <p>C ( ) 2,0 D ( ) 1,0</p>
+        <p>E ( ) 5,0</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Numa dada balança, a leitura é baseada na deformação de uma mola quando um objeto é colocado sobre sua plataforma. Considerando a Terra como uma esfera homogênea, assinale a opção que indica uma posição da balança sobre a superfície terrestre onde o objeto terá a maior leitura.</p>
+        <p>A ( ) Latitude de 45o. B ( ) Latitude de 60o. C ( ) Latitude de 90o. D ( ) Em qualquer ponto do Equador. E ( ) A leitura independe da localização da balança já que a massa do objeto é invariável.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Define-se intensidade I de uma onda como a razão entre a potência que essa onda transporta por unidade de área perpendicular à direção dessa propagação. Considere que para uma certa onda de amplitude a, freqüência f e velocidade v, que se propaga em um meio de densidade ρ, foi determinada que a intensidade é dada por: . 2 x y I 2 f va = π ρ Indique quais são os valores adequados para x e y, respectivamente.</p>
+        <p>A ( )</p>
+        <p>B ( ) x 2 ; y 2 = = x 1 ; y 2 = =</p>
+        <p>C ( )</p>
+        <p>x 1 ; y 1 = = 2 2 D ( )</p>
+        <p>E ( ) x 2 ; y = − = x 2 ; y = − = −</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Uma partícula P1 de dimensões desprezíveis oscila em movimento harmônico simples ao longo de uma reta com período de 8/3 s e amplitude a. Uma segunda partícula, P2, semelhante a P1, oscila de modo idêntico numa reta muito próxima e paralela à primeira, porém com atraso de π/12 rad em relação a P1. Qual a distância que separa P1 de P2, 8/9 s depois de P2 passar por um ponto de máximo deslocamento?</p>
+        <p>A ( ) 1,00 a</p>
+        <p>B ( ) 0,29 a</p>
+        <p>C ( ) 1,21 a</p>
+        <p>D ( ) 0,21 a</p>
+        <p>E ( ) 1,71 a</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Uma corrente elétrica passa por um fio longo, (L) coincidente com o eixo y no sentido negativo. Uma outra corrente de mesma intensidade passa por outro fio longo, (M), coincidente com o eixo x no sentido negativo, conforme mostra a figura. O par de quadrantes nos quais as correntes produzem campos magnéticos em sentidos opostos entre si é</p>
+        <p>A ( ) I e II B ( ) II e III C ( ) I e IV D ( ) II e IV E ( ) I e III</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Considere uma espira retangular de lados a e b percorrida por uma corrente I, cujo plano da espira é paralelo a um campo magnético B. Sabe-se que o módulo do torque sobre essa espira é dado por τ = I B a b. Supondo que a mesma espira possa assumir qualquer outra forma geométrica, indique o valor máximo possível que se consegue para o torque.</p>
+        <p>A ( ) 2 IB(a b) + π</p>
+        <p>B ( ) IB</p>
+        <p>C ( ) 2I</p>
+        <p>ab Bab D ( ) IBab 2π</p>
+        <p>E ( ) IBab π</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Um elétron e um pósitron, de massa m = 9,11 x 10-31 kg, cada qual com energia cinética de 1,20 MeV e mesma quantidade de movimento, colidem entre si em sentidos opostos. Neste processo colisional as partículas aniquilam-se, produzindo dois fótons 1γ e 2 γ . Sendo dados: constante de Planck h = 6,63 x 10-34 J.s; velocidade da luz c = 3,00 x 108 m/s; 1 eV = 1,6 x 10-19 J; 1 femtometro = 1 fm = 1 x 10-15 m, indique os respectivos valores de energia E e do comprimento de onda dos fótons.</p>
+        <p>A ( ) E = 1,20 MeV ; λ = 2435 fm</p>
+        <p>B ( ) E = 1,20 MeV; λ = 1035 fm</p>
+        <p>C ( ) E = 1,71 MeV; λ = 726 fm D ( ) E = 1,46 MeV; λ = 0,28 x 10-2 fm E ( ) E = 1,71 MeV; λ = 559 fm</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. – A figura mostra uma bobina com 80 espiras de 0,5 m2 de área e 40Ω de resistência. Uma indução magnética de 4 teslas é inicialmente aplicada ao longo do plano da bobina. Esta é então girada de modo que seu plano perfaça um ângulo de 30o em relação à posição inicial. Nesse caso, qual o valor da carga elétrica que deve fluir pela bobina?</p>
+        <p>A ( ) 0,025 C B ( ) 2,0 C</p>
+        <p>C ( ) 0,25 C</p>
+        <p>D ( ) 3,5 C</p>
+        <p>E ( ) 0,50 C</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. A figura mostra um circuito formado por uma barra fixa FGHJ e uma barra móvel MN, imerso num campo magnético perpendicular ao plano desse circuito. Considerando desprezível o atrito entre as barras e também que o circuito seja alimentado por um gerador de corrente constante I, o que deve acontecer com a barra móvel MN?</p>
+        <p>A ( ) Permanece no mesmo lugar. B ( ) Move-se para a direita com velocidade constante. C ( ) Move-se para a esquerda com velocidade constante. D ( ) Move-se para a direita com aceleração constante. E ( ) Move-se para a esquerda com aceleração constante.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Na figura, um bloco sobe um plano inclinado, com velocidade inicial Vo. Considere μ ο coeficiente de atrito entre o bloco e a superfície. Indique a sua velocidade na descida ao passar pela posição inicial.</p>
+        <p>A ( ) o sen sen V cos cos θ−μ θ θ−μ θ</p>
+        <p>B ( ) o sen cos V sen cos θ−μ θ θ+μ θ</p>
+        <p>C ( ) o sen cos V sen cos θ+μ θ θ−μ θ</p>
+        <p>D ( ) o sen cos V sen cos μ θ+ θ μ θ− θ</p>
+        <p>E ( ) o sen cos V sen cos μ θ− θ μ θ+ θ</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Na figura, um gato de massa m encontra-se parado próximo a uma das extremidades de uma prancha de massa M que flutua em repouso na superfície de um lago. A seguir, o gato salta e alcança uma nova posição na prancha, à distância L. Desprezando o atrito entre a água e a prancha, sendo θ o ângulo entre a velocidade inicial do gato e a horizontal, e g a aceleração da gravidade, indique qual deve ser a velocidade u de deslocamento da prancha logo após o salto.</p>
+        <p>A ( ) g LM u M 1 msen cos m = ⎛ ⎞ + θ ⎜ ⎟ ⎝ ⎠ θ</p>
+        <p>B ( ) g LM u M 1 2msen 2 m = ⎛ ⎞ + θ ⎜ ⎟ ⎝ ⎠</p>
+        <p>C ( ) g LM u M 1 2msen m = ⎛ ⎞ + θ ⎜ ⎟ ⎝ ⎠</p>
+        <p>D ( ) g Lm u M 1 2M tan m = ⎛ ⎞ + θ ⎜ ⎟ ⎝ ⎠</p>
+        <p>E ( ) 2g Lm u M 1 M tan m = ⎛ ⎞ + θ ⎜ ⎟ ⎝ ⎠</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Um aro de 1 kg de massa encontra-se preso a uma mola de massa desprezível, constante elástica k = 10N/m e comprimento inicial Lo = 1 m quando não distendida, afixada no ponto O. A figura mostra o aro numa posição P em uma barra horizontal fixa ao longo da qual o aro pode deslizar sem atrito. Soltando o aro do ponto P, qual deve ser sua velocidade, em m/s, ao alcançar o ponto T, a 2 m de distância?</p>
+        <p>A ( ) 30,0</p>
+        <p>B ( ) 40,0 C ( ) 23,4</p>
+        <p>D ( ) 69,5</p>
+        <p>E ( ) 8,2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. No estudo de ondas que se propagam em meios elásticos, a impedância característica de um material é dada pelo produto da sua densidade pela velocidade da onda nesse material, ou seja, z = μ v . Sabe-se, também, que uma onda de amplitude a1, que se propaga em um meio 1 ao penetrar em uma outra região, de meio 2, origina ondas, refletida e transmitida, cuja amplitudes são, respectivamente:</p>
+        <p>1 2 r 1 t 1 1 2 2 1 z 1 z 2 a a a z z 1 1 z z ⎡ ⎤ ⎡ ⎤ − ⎢ ⎥ ⎢ ⎥ ⎢ ⎥ ⎢ ⎥ = = ⎢ ⎥ ⎢ ⎥ + + ⎢ ⎥ ⎢ ⎥ ⎣ ⎦ ⎣ ⎦ a</p>
+        <p>Num fio, sob tensão τ, a velocidade da onda nesse meio é dada por v τ = μ . Considere agora o caso de uma onda que se propaga num fio de densidade linear μ (meio 1) e penetra num trecho desse fio em que a densidade linear muda para 4μ (meio 2). Indique a figura que representa corretamente as ondas refletidas (r) e transmitida (t)?</p>
+        <p>A ( )</p>
+        <p>B ( )</p>
+        <p>C ( )</p>
+        <p>D ( )</p>
+        <p>E ( )</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Indique a opção que explicita o representado pelo gráfico da figura:</p>
+        <p>A ( ) A soma de uma freqüência fundamental com a sua primeira harmônica mais a sua segunda harmônica, todas elas de mesma amplitude. B ( ) A soma de uma freqüência fundamental com a sua primeira harmônica de amplitude 5 vezes menor mais a segunda harmônica de amplitude 10 vezes menor. C ( ) A soma de uma freqüência fundamental com a sua segunda harmônica, ambas com amplitudes iguais. D ( ) A soma de uma freqüência fundamental com a sua segunda harmônica com metade da amplitude. E ( ) A soma de uma freqüência fundamental com a sua primeira harmônica com metade da amplitude.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Numa brincadeira de aventura, o garoto (de massa M) lança-se por uma corda amarrada num galho de árvore num ponto de altura L acima do gatinho (de massa m) da figura, que pretende resgatar. Sendo g a aceleração da gravidade e H a altura da plataforma de onde se lança, indique o valor da tensão na corda, imediatamente após o garoto apanhar o gato para aterrisá-lo na outra margem do lago.</p>
+        <p>A ( ) 2H Mg 1 L ⎛+ ⎜⎝ ⎠ ⎞ ⎟</p>
+        <p>B ( ) ( ) 2 M m 2H M m g 1 M L ⎛ ⎞ + ⎛ ⎞ ⎜ ⎟ + −⎜ ⎟ ⎜ ⎟ ⎝ ⎠ ⎝ ⎠</p>
+        <p>C ( ) 2H Mg 1 L ⎛− ⎜⎝ ⎠ ⎞ ⎟</p>
+        <p>D ( ) ( ) 2 M 2H M m g 1 M m L ⎛ ⎞ ⎛ ⎞ ⎜ + +⎜ ⎟ ⎜ ⎟ + ⎝ ⎠ ⎝ ⎠ ⎟ E ( ) ( ) 2 M 2H m M g 1 M m L ⎛ ⎞ ⎛ ⎞ ⎜ ⎟ + − ⎜ ⎟ ⎜ ⎟ + ⎝ ⎠ ⎝ ⎠</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Um feixe de luz é composto de luzes de comprimentos de onda λ 1 e λ 2 , sendo λ 1 15%</p>
+        <p>maior que λ2</p>
+        <p>. Esse feixe de luz incide perpendicularmente num anteparo com dois pequenos orifícios, separados entre si por uma distância d. A luz que sai dos orificios é projetada num segundo anteparo, onde se observa uma figura de interferência. Pode-se afirmar então, que</p>
+        <p>A ( ) o ângulo de arcsen (5 λ1/d) corresponde à posição onde somente a luz de comprimento de onda λ1</p>
+        <p>é observada. B ( ) o ângulo de arcsen (10 λ1/d) corresponde à posição onde somente a luz de comprimento de onda λ1 é observada.</p>
+        <p>C ( ) o ângulo de arcsen (15 λ1/d) corresponde à posição onde somente a luz de comprimento de onda λ1 é observada.</p>
+        <p>D ( ) o ângulo de arcsen (10 λ2/d) corresponde à posição onde somente a luz de comprimento de onda λ2</p>
+        <p>é observada. E ( ) o ângulo de arcsen (15 λ2/d) corresponde à posição onde somente a luz de comprimento de onda λ2</p>
+        <p>é observada.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. A figura 1 mostra um capacitor de placas paralelas com vácuo entre as placas, cuja capacitância é Co. Num determinado instante, uma placa dielétrica de espessura d/4 e constante dielétrica K é colocada entre as placas do capacitor, conforme a figura 2. Tal modificação altera a capacitância do capacitor para um valor C1. Determine a razão C0/C1.</p>
+        <p>A ( ) 3k 1 4K +</p>
+        <p>B ( ) 4k 3K 1 +</p>
+        <p>C ( ) 4 12K 3 +</p>
+        <p>D ( ) 3 4 12K +</p>
+        <p>E ( ) 1 4 12K +</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Certa quantidade de oxigênio (considerado aqui como gás ideal) ocupa um volume vi a uma temperatura Ti e pressão pi . A seguir, toda essa quantidade é comprimida, por meio de um processo adiabático e quase estático, tendo reduzido o seu volume para vf</p>
+        <p>= vi</p>
+        <p>/ 2. Indique o valor do trabalho realizado sobre esse gás.</p>
+        <p>A ( ) ( )( ) 0,7 i i 3 W p v 2 2 = −1</p>
+        <p>B ( ) ( )( ) 0,7 i i 5 W p v 2 2 1 = −</p>
+        <p>C ( ) ( )( 0,4 i i 5 W p v 2 2 = −) 1</p>
+        <p>D ( ) ( )( 1,7 i i 3 W p v 2 2 = −)1</p>
+        <p>E ( ) ( )( ) 1,4 i i 5 W p v 2 2 1 = −</p>
+        <p>AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Considere um condutor esférico A de 20 cm de diâmetro colocado sobre um pedestal fixo e isolante. Uma esfera condutora B de 0,5 mm de diâmetro, do mesmo material da esfera A, é suspensa por um fio fixo e isolante. Em posição oposta à esfera A é colocada uma campainha C ligada à terra, conforme mostra a figura. O condutor A é então carregado a um potencial eletrostático Vo, de forma a atrair a esfera B. As duas esferas entram em contacto devido à indução eletrostática e, após a transferência de carga, a esfera B é repelida, chocando-se com a campainha C, onde a carga adquirida é escoada para a terra. Após 20 contatos com a campainha, verifica-se que o potencial da esfera A é de 10000 V. Determine o potencial inicial da esfera A. Considere ( )n 1 x 1 nx se x 1 + ≅+ &lt;</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Num dos pratos de uma balança que se encontra em equilibrio estático, uma mosca de massa m está em repouso no fundo de um frasco de massa M. Mostrar em que condições a mosca poderá voar dentro do frasco sem que o equilíbrio seja afetado.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. A figura mostra uma bola de massa m que cai com velocidade 1 v JJG G sobre a superfície de um suporte rígido, inclinada de um ângulo θ em relação ao plano horizontal. Sendo e o coeficiente de restituição para esse impacto, calcule o módulo da velocidade JJ com que a bola é ricocheteada, em função de v 2 v 1, θ e e. Calcule também o ângulo α .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Um apreciador de música ao vivo vai a um teatro, que não dispõe de amplificação eletrônica, para assistir a um show de seu artista predileto. Sendo detalhista, ele toma todas as informações sobre as dimensões do auditório, cujo teto é plano e nivelado. Estudos comparativos em auditórios indicam preferência para aqueles em que seja de 30 ms a diferença de tempo entre o som direto e aquele que primeiro chega após uma reflexão. Portanto, ele conclui que deve se sentar a 20 m do artista, na posição indicada na figura. Admitindo a velocidade do som no ar de 340m/s, a que altura h deve estar o teto com relação a sua cabeça?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Um resistor Rx é mergulhado num reservatório de óleo isolante. A fim de estudar a variação da temperatura do reservatório, o circuito de uma ponte de Wheatstone foi montado, conforme mostra a figura 1. Sabe-se que Rx é um resistor de fio metálico de 10m de comprimento, área da seção transversal de 0,1 mm2, e resistividade elétrica ρ de 2,0 x 10 o -8 Ω m, a 20 oC. O comportamento da resistividade ρ versus temperatura t é mostrado na figura 2. Sabendo-se que o resistor Rx foi variado entre os valores de 10Ω e 12Ω para que o circuito permanecesse em equilibrio, determine a variação da temperatura nesse reservatório.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Um cilindro de diâmetro D e altura h repousa sobre um disco que gira num plano horizontal, com velocidade angular ω. Considere o coeficiente de atrito entre o disco e o cilindro , L a distância entre o eixo do disco e o eixo do cilindro, e g a aceleração da gravidade. O cilindro pode escapar do movimento circular de duas maneiras: por tombamento ou por deslisamento. Mostrar o que ocorrerá primeiro, em função das variáveis. D / h μ&gt;</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Durante a realização de um teste, colocou-se 1 litro de água a 20o C no interior de um forno de microondas. Após permanecer ligado por 20 minutos, restou meio litro de água. Considere a tensão da rede de 127 V e de 12 A a corrente consumida pelo forno. Calcule o fator de rendimento do forno. Dados: calor de vaporização da água Lv = 540 cal/g ; calor específico da água C = 1 cal/g 0C ; 1 caloria = 4,2 joules</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Considere o transformador da figura, onde Vp é a tensão no primário, Vs é a tensão no secundário, R um resistor, N1 e N2 são o número de espiras no primário e secundário, respectivamente, e S uma chave. Quando a chave é fechada, qual deve ser a corrente Ip no primário?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. De acordo com a Lei de Stefan-Boltzmann, o equilíbrio da atmosfera terrestre é obtido pelo balanço energético entre a energia de radiação do Sol absorvida pela Terra e a reemitida pela mesma. Considere que a energia fornecida por unidade de tempo pela radiação solar é dada por P = A e σ T4, em que σ = 5,67 x 10-8 W m-2 K-4; A é a área da superfície do corpo; T a temperatura absoluta, e o parâmetro e é a emissividade que representa a razão entre a taxa de radiação de uma superfície particular e a taxa de radiação de uma superfície de um corpo ideal, com a mesma área e mesma temperatura. Considere a temperatura média da Terra T 287K = e, nesta situação, e = 1. Sabendo que a emissão de gases responsáveis pelo aquecimento global reduze a emissividade, faça uma estimativa de quanto aumentará a temperatura média da Terra devido à emissão de gases responsáveis pelo aquecimento global, se a emissividade diminuir 8%. Considere ( )1/ 4 x 4 1 x 1 − ≅−</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Foi René Descartes em 1637 o primeiro a discutir claramente a formação do arco-íris. Ele escreveu: “Considerando que esse arco-íris aparece não apenas no céu, mas também no ar perto de nós, sempre que haja gotas de água iluminadas pelo sol, como podemos ver em certas fontes, eu imediatamente entendi que isso acontece devido apenas ao caminho que os raios de luz traçam nessas gotas e atingem nossos olhos. Ainda mais, sabendo que as gotas são redondas, como fora anteriormente provado e, mesmo que sejam grandes ou pequenas, a aparência do arco-iris não muda de forma nenhuma, tive a idéia de considerar uma bem grande, para que pudesse examinar melhor...” Ele então apresentou a figura onde estão representadas as trajetórias para os arco-íris primário e secundário. Determinar o ângulo entre o raio incidente na gota, AB, e o incidente no olho do observador, DE, no caso do arco-íris primário, em termos do ângulo de incidência, e do índice de refração da água na . Considere o índice de refração do ar n = 1.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

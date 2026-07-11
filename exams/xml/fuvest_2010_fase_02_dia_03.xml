@@ -1,0 +1,726 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2010" phase="discursive" day="0" variation="V1" date="2010-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sejam ݔ e ݕ dois números reais, com 0 ൏ݔ൏ ߨ2 ൗ e ߨ2 ൗ ൏ݕ൏ߨ, satisfazendo sen ݕൌ4 5 ൗ e 11 sen ݔ൅5 cosሺݕെݔሻൌ3.</p>
+        <p>Nessas condições, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>cos ݕ.</p>
+        </part>
+        <part>
+          <p>sen 2ݔ.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No sistema ortogonal de coordenadas cartesianas ܱ ݔݕ da figura, estão representados a circunferência de centro na origem e raio 3, bem como o gráfico da função</p>
+        <p>ݕൌ√8 |ݔ| .</p>
+        <p>Nessas condições, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>as coordenadas dos pontos ܣ, ܤ, ܥ, ܦ de interseção da circunferência com o gráfico da função.</p>
+        </part>
+        <part>
+          <p>a área do pentágono ܱܣܤܥܦ.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="01">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>Seja ݊ um número inteiro, ݊ ൒0.</p>
+        <p>a) Calcule de quantas maneiras distintas ݊ bolas idênticas podem ser distribuídas entre Luís e Antônio.</p>
+        <p>b) Calcule de quantas maneiras distintas ݊ bolas idênticas podem ser distribuídas entre Pedro, Luís e Antônio.</p>
+        <p>c) Considere, agora, um número natural ݇ tal que 0 ൑݇ ൑݊ . Supondo que cada uma das distribuições do item b) tenha a mesma chance de ocorrer, determine a probabilidade de que, após uma dada distribuição, Pedro receba uma quantidade de bolas maior ou igual a ݇.</p>
+        <p>Observação: Nos itens a) e b), consideram-se válidas as distribuições nas quais uma ou mais pessoas não recebam bola alguma.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dois planos ߨଵ e ߨଶ se interceptam ao longo de uma reta ݎ , de maneira que o ângulo entre eles meça ߙ radianos, 0 ൏ߙ ൏ߨ2 ൗ. Um triângulo equilátero ܣܤܥ, de lado ℓ, está contido em ߨଶ, de modo que ܣܤ തതതത esteja em ݎ. Seja ܦ a projeção ortogonal de ܥ sobre o plano ߨଵ, e suponha que a medida ߠ, em radianos, do ângulo ܥܣመܦ, satisfaça sen ߠൌ√6 4 ൗ.</p>
+        <p>Nessas condições, determine, em função de ℓ,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o valor de ߙ.</p>
+        </part>
+        <part>
+          <p>a área do triângulo ܣܤܦ.</p>
+        </part>
+        <part>
+          <p>o volume do tetraedro ܣܤܥܦ.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>Determine a solução ሺݔ, ݕሻ, ݕ൐1, para o sistema de equações</p>
+        <p>ቊ log௬ሺ9ݔെ35ሻൌ6 logଷ௬ሺ27ݔെ81ሻൌ3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No triângulo ܣܤܥ da figura, a mediana ܣܯ തതതതത, relativa ao lado ܤܥ തതതത, é perpendicular ao lado ܣܤ തതതത. Sabese também que ܤܥൌ4 e ܣܯ ൌ 1. Se ߙ é a medida do ângulo ܣܤ෠ܥ, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>sen ߙ.</p>
+        </part>
+        <part>
+          <p>o comprimento ܣܥ.</p>
+        </part>
+        <part>
+          <p>a altura do triângulo ܣܤܥ relativa ao lado ܣܤ തതതത.</p>
+        </part>
+        <part>
+          <p>a área do triângulo ܣܯܥ.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="01">
+      <statement>
+        <p>Segundo uma obra de ficção, o Centro Europeu de Pesquisas Nucleares, CERN, teria recentemente produzido vários gramas de antimatéria. Sabe-se que, na reação de antimatéria com igual quantidade de matéria normal, a massa total m é transformada em energia E, de acordo com a equação E=mc2, onde c é a velocidade da luz no vácuo.</p>
+        <p>a) Com base nessas informações, quantos joules de energia seriam produzidos pela reação de 1 g de antimatéria com 1 g de matéria?</p>
+        <p>b) Supondo que a reação matéria-antimatéria ocorra numa fração de segundo (explosão), a quantas “Little Boy” (a bomba nuclear lançada em Hiroshima, em 6 de agosto de 1945) corresponde a energia produzida nas condições do item a)?</p>
+        <p>c) Se a reação matéria-antimatéria pudesse ser controlada e a energia produzida na situação descrita em a) fosse totalmente convertida em energia elétrica, por quantos meses essa energia poderia suprir as necessidades de uma pequena cidade que utiliza, em média, 9 MW de potência elétrica?</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pessoa pendurou um fio de prumo no interior de um vagão de trem e percebeu, quando o trem partiu do repouso, que o fio se inclinou em relação à vertical. Com auxílio de um transferidor, a pessoa determinou que o ângulo máximo de inclinação, na partida do trem, foi 14o. Nessas condições,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>represente, na figura da página de resposta, as forças que agem na massa presa ao fio.</p>
+        </part>
+        <part>
+          <p>indique, na figura da página de resposta, o sentido de movimento do trem.</p>
+        </part>
+        <part>
+          <p>determine a aceleração máxima do trem. NOTE E ADOTE: 1 MW =106 W. A explosão de “Little Boy” produziu 60×1012 J (15 quilotons). 1 mês ؄ 2,5×106 s. velocidade da luz no vácuo, c = 3,0 x 108 m/s. Indique a resolução da questão. Não é suficiente apenas escrever as respostas. NOTE E ADOTE: tg 14o = 0,25. aceleração da gravidade na Terra, g = 10 m/s2. Verifique se o diagrama foi impresso no espaço reservado para resposta. Indique a resolução da questão. Não é suficiente apenas escrever as respostas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="01">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Pedro atravessa a nado, com velocidade constante, um rio de 60 m de largura e margens paralelas, em 2 minutos. Ana, que boia no rio e está parada em relação à água, observa Pedro, nadando no sentido sul-norte, em uma trajetória retilínea, perpendicular às margens. Marta, sentada na margem do rio, vê que Pedro se move no sentido sudoeste-nordeste, em uma trajetória que forma um ângulo θ com a linha perpendicular às margens. As trajetórias, como observadas por Ana e por Marta, estão indicadas nas figuras abaixo, respectivamente por PA e PM. Se o ângulo θ for tal que cos θ = 3/5 (sen θ = 4/5), qual o valor do módulo da velocidade</p>
+      </statement>
+      <parts>
+        <part>
+          <p>de Pedro em relação à água?</p>
+        </part>
+        <part>
+          <p>de Pedro em relação à margem?</p>
+        </part>
+        <part>
+          <p>da água em relação à margem?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Luz proveniente de uma lâmpada de vapor de mercúrio incide perpendicularmente em uma das faces de um prisma de vidro de ângulos 30º, 60º e 90º, imerso no ar, como mostra a figura ao lado. A radiação atravessa o vidro e atinge um anteparo. Devido ao fenômeno de refração, o prisma separa as diferentes cores que compõem a luz da lâmpada de mercúrio e observam-se, no anteparo, linhas de cor violeta, azul, verde e amarela. Os valores do índice de refração n do vidro para as diferentes cores estão dados abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule o desvio angular ߙ, em relação à direção de incidência, do raio de cor violeta que sai do prisma.</p>
+        </part>
+        <part>
+          <p>Desenhe, na figura da página de respostas, o raio de cor violeta que sai do prisma.</p>
+        </part>
+        <part>
+          <p>Indique, na representação do anteparo na folha de respostas, a correspondência entre as posições das linhas L1, L2, L3 e L4 e as cores do espectro do mercúrio. NOTE E ADOTE: θ (graus) senθ Cor n (vidro) 60 0,866 violeta 1,532 50 0,766 azul 1,528 40 0,643 verde 1,519 30 0,500 amarelo 1,515 lei de Snell: n1 senθ1 = n2 senθ2 n=1 para qualquer comprimento de onda no ar. Verifique se a figura foi impressa no espaço reservado para resposta. Indique a resolução da questão. Não é suficiente apenas escrever as respostas. NOTE: Indique a resolução da questão. Não é suficiente apenas escrever as respostas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>Um balão de ar quente é constituído de um envelope (parte inflável), cesta para três passageiros, queimador e tanque de gás. A massa total do balão, com três passageiros e com o envelope vazio, é de 400 kg. O envelope totalmente inflado tem um volume de 1500 m3.</p>
+        <p>a) Que massa de ar M1 caberia no interior do envelope, se totalmente inflado, com pressão igual à pressão atmosférica local (Patm) e temperatura T=27 oC?</p>
+        <p>b) Qual a massa total de ar M2, no interior do envelope, após este ser totalmente inflado com ar quente a uma temperatura de 127 oC e pressão Patm?</p>
+        <p>c) Qual a aceleração do balão, com os passageiros, ao ser lançado nas condições dadas no item b) quando a temperatura externa é T=27 oC ?</p>
+        <p>NOTE E ADOTE:</p>
+        <p>Densidade do ar a 27 oC e à pressão atmosférica local = 1,2 kg/m3. Aceleração da gravidade na Terra, g = 10 m/s2. Considere todas as operações realizadas ao nível do mar. Despreze o empuxo acarretado pelas partes sólidas do balão. T (K) = T (oC) + 273</p>
+        <p>Indique a resolução da questão. Não é suficiente apenas escrever as respostas.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura abaixo mostra o esquema de um instrumento (espectrômetro de massa), constituído de duas partes. Na primeira parte, há um campo elétrico EሬሬԦ, paralelo a esta folha de papel, apontando para baixo, e também um campo magnético BሬሬԦ1 perpendicular a esta folha, entrando nela. Na segunda, há um campo magnético BሬሬԦ2 , de mesma direção que BሬሬԦ1 , mas em sentido oposto. Íons positivos, provenientes de uma fonte, penetram na primeira parte e, devido ao par de fendas F1 e F2 , apenas partículas com velocidade vሬԦ, na direção perpendicular aos vetores EሬሬԦ e BሬሬԦ1, atingem a segunda parte do equipamento, onde os íons de massa m e carga q têm uma trajetória circular com raio R.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Obtenha a expressão do módulo da velocidade vሬԦ em função de E e de B1.</p>
+        </part>
+        <part>
+          <p>Determine a razão m/q dos íons em função dos parâmetros E, B1, B2 e R.</p>
+        </part>
+        <part>
+          <p>Determine, em função de R, o raio R’ da trajetória circular dos íons, quando o campo magnético, na segunda parte do equipamento, dobra de intensidade, mantidas as demais condições. NOTE E ADOTE: Felétrica = q E (na direção do campo elétrico). Fmagnética = q v B sen θ (na direção perpendicular a vሬԦ e a BሬሬԦ; θ é o ângulo formado por vሬԦ e BሬሬԦ). Indique a resolução da questão. Não é suficiente apenas escrever as respostas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O sólido MgCl2·6NH3 pode decompor-se, reversivelmente, em cloreto de magnésio e amônia. A equação química que representa esse processo é:</p>
+        <p>Ao ser submetido a um aquecimento lento, e sob uma corrente de nitrogênio gasoso, o sólido MgCl2·6NH3 perde massa, gradativamente, como representado no gráfico:</p>
+        <p>As linhas verticais, mostradas no gráfico, delimitam as três etapas em que o processo de decomposição pode ser dividido.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule a perda de massa, por mol de MgCl2·6NH3, em cada uma das três etapas.</p>
+        </part>
+        <part>
+          <p>Com base nos resultados do item anterior, escreva uma equação química para cada etapa de aquecimento. Cada uma dessas equações deverá representar a transformação que ocorre na etapa escolhida.</p>
+        </part>
+        <part>
+          <p>No processo descrito, além do aquecimento, que outro fator facilita a decomposição do MgCl2·6NH3? Explique. Dados: massa molar (g/mol): MgCl2·6NH3....... 197 NH3..................... 17,0</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Cloreto de nitrosila puro (NOCl) foi aquecido a 240 oC em um recipiente fechado. No equilíbrio, a pressão total foi de 1,000 atm e a pressão parcial do NOCl foi de 0,640 atm. A equação abaixo representa o equilíbrio do sistema:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule as pressões parciais do NO e do Cl2 no equilíbrio.</p>
+        </part>
+        <part>
+          <p>Calcule a constante do equilíbrio.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="01">
+      <statement>
+        <p>a)</p>
+        <p>b) Etapa 1</p>
+        <p>Etapa 2</p>
+        <p>Etapa 3</p>
+        <p>c)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>A hidroxicetona (I) pode ser oxidada à dicetona (II), pela ação de ácido nítrico concentrado, com formação do gás N2O4.</p>
+        <p>Utilizando fórmulas moleculares,</p>
+        <p>a) escreva a equação química balanceada que representa a semirreação de oxidação da hidroxicetona (I).</p>
+        <p>b) escreva a equação química balanceada que representa a semirreação de redução do íon nitrato.</p>
+        <p>c) com base nas semirreações dos itens a) e b), escreva a equação química global balanceada que representa a transformação de (I) em (II) e do íon nitrato em N2O4.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na dupla hélice do DNA, as duas cadeias de nucleotídeos são mantidas unidas por ligações de hidrogênio entre as bases nitrogenadas de cada cadeia. Duas dessas bases são a citosina (C) e a guanina (G).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Mostre a fórmula estrutural do par C-G, indicando claramente as ligações de hidrogênio que nele existem. No nosso organismo, a síntese das proteínas é comandada pelo RNA mensageiro, em cuja estrutura estão presentes as bases uracila (U), citosina (C), adenina (A) e guanina (G). A ordem em que aminoácidos se ligam para formar uma proteína é definida por tríades de bases, presentes no RNA mensageiro, cada uma correspondendo a um determinado aminoácido. Algumas dessas tríades, com os aminoácidos correspondentes, estão representadas na tabela da folha de respostas. Assim, por exemplo, a tríade GUU corresponde ao aminoácido valina. Letra da esquerda G Letra do meio U Letra da direita U</p>
+        </part>
+        <part>
+          <p>Com base na tabela da folha de respostas e na estrutura dos aminoácidos aqui apresentados, mostre a fórmula estrutural do tripeptídeo, cuja sequência de aminoácidos foi definida pela ordem das tríades no RNA mensageiro, que era GCA, GGA, GGU. O primeiro aminoácido desse tripeptídeo mantém livre seu grupo amino.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>Letra da esquerda Letra do meio Letra da direita U C A G G Val Ala Asp Gly U G Val Ala Asp Gly C G Val Ala Glu Gly A G Val Ala Glu Gly G</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma substância pode apresentar solubilidades diferentes em solventes diversos. Assim, por exemplo, o ácido butanodioico é mais solúvel em água do que em éter. Ao misturar ácido butanodioico, éter e água, agitar a mistura e deixá-la em repouso por alguns minutos, separam-se duas fases, uma de éter e outra de água. Ambas contêm ácido butanodioico, em concentrações diferentes e que não mais se alteram, pois o sistema atingiu o equilíbrio.</p>
+        <p>Para determinar a constante desse equilíbrio, também chamada de coeficiente de partição, foram efetuados cinco experimentos. Em cada um, foi adicionado ácido butanodioico a uma mistura de 25 mL de água e 25 mL de éter. Após a agitação e separação das fases, as concentrações de ácido butanodioico, em cada fase, foram determinadas.</p>
+        <p>Experimento Concentração de equilíbrio do ácido butanodioico na água (mol/L) Concentração de equilíbrio do ácido butanodioico no éter (mol/L) 1 0,152 0,023 2 0,182 0,028 3 0,242 0,036 4 0,300 0,044 5 0,349 0,051</p>
+      </statement>
+      <parts>
+        <part>
+          <p>No quadriculado da folha de respostas, construa um gráfico da concentração de ácido butanodioico em éter versus a concentração de ácido butanodioico em água.</p>
+        </part>
+        <part>
+          <p>Calcule o valor do coeficiente de partição éter/água do ácido butanodioico.</p>
+        </part>
+        <part>
+          <p>Qual a massa, em gramas, de ácido butanodioico utilizada no experimento 5? Mostre os cálculos.</p>
+        </part>
+        <part>
+          <p>Em outro experimento, foram utilizadas duas diferentes amostras de ácido butanodioico. Uma delas continha, em suas moléculas, apenas o isótopo oxigênio-18, e a outra continha apenas oxigênio-16. A primeira (com oxigênio-18) foi adicionada à água, e a segunda (com oxigênio-16) foi adicionada ao éter. Após misturar as soluções, agitar a mistura e separar as fases, onde foi detectado o oxigênio-18? Explique. Dado: massa molar do ácido butanodioico.........118 g/mol</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Determinou-se o número de moléculas de água de hidratação (x) por molécula de ácido oxálico hidratado (H2C2O4·xH2O), que é um ácido dicarboxílico. Para isso, foram preparados 250 mL de uma solução aquosa, contendo 5,04 g de ácido oxálico hidratado. Em seguida, 25,0 mL dessa solução foram neutralizados com 16,0 mL de uma solução de hidróxido de sódio, de concentração 0,500 mol/L.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule a concentração, em mol/L, da solução aquosa de ácido oxálico.</p>
+        </part>
+        <part>
+          <p>Calcule o valor de x. Dados: Massas molares (g/mol) H 1 C 12 O 16</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O quadro abaixo mostra diferenças que ocorrem no reino animal quanto ao plano corporal e aos sistemas digestório, circulatório e nervoso:</p>
+        <p>1 2 3 A - Simetria na fase adulta Ausente Radial Bilateral B - Sistema digestório Ausente Incompleto Completo C - Sistema circulatório Ausente Aberto Fechado D - Sistema nervoso Ausente Cordão nervoso ventral Dorsal</p>
+        <p>Os anelídeos, por exemplo, apresentam as características A3, B3, C3 e D2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que grupo animal apresenta as características A1, B1, C1 e D1?</p>
+        </part>
+        <part>
+          <p>Que características de A, B, C e D estão presentes em um crustáceo?</p>
+        </part>
+        <part>
+          <p>Que características de A, B, C e D estão presentes em um anfíbio?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nas células somáticas de um animal, um cromossomo tem os alelos M1, Q1, R1 e T1, e seu homólogo possui os alelos M2, Q2, R2 e T2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Na folha de respostas, está esquematizada uma célula germinativa desse animal com esses cromossomos duplicados. Ordene os alelos dos lócus M, Q, R e T nesses cromossomos.</p>
+        </part>
+        <part>
+          <p>Admitindo a ocorrência de um único crossing-over (permutação) entre os lócus Q e R na divisão dessa célula germinativa, esquematize as células resultantes dessa divisão com os respectivos alelos dos lócus M, Q, R e T.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="01">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O esquema abaixo representa o coração de um mamífero.</p>
+        <p>Indique, com os números correspondentes,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>as câmaras do coração em que o sangue apresenta maior concentração de gás carbônico;</p>
+        </part>
+        <part>
+          <p>as câmaras do coração às quais chega sangue trazido por vasos;</p>
+        </part>
+        <part>
+          <p>o vaso que sai do coração com sangue venoso;</p>
+        </part>
+        <part>
+          <p>a câmara da qual o sangue arterial sai do coração.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As mariposas da espécie Diataea saccharalis colocam seus ovos na parte inferior de folhas de canade-açúcar. Esses ovos desenvolvem-se em larvas que penetram no caule e se alimentam do parênquima ali presente. As galerias feitas por essas larvas servem de porta de entrada para fungos da espécie Colleotrichum falcatum. Esses fungos alimentam-se da sacarose armazenada no caule. As usinas de açúcar e álcool combatem as mariposas, liberando pequenas vespas (Cofesia flavipes), cujos ovos são depositados sobre as larvas das mariposas. Quando os ovos eclodem, as larvas da vespa passam a se alimentar das larvas da mariposa.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Com base nas informações contidas no texto acima, indique os organismos que ocupam os seguintes níveis tróficos: a1) produtor; a2) consumidor primário; a3) consumidor secundário.</p>
+        </part>
+        <part>
+          <p>Dentre as interações descritas nesse texto, indique uma que você classificaria como parasitismo, justificando sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>As plantas Z e W, embora morfologicamente muito semelhantes, não possuem relação de parentesco próximo. Em ambas, as folhas são modificadas em espinhos. O mapa ao lado mostra suas áreas originais de ocorrência na América do Sul (planta Z) e na África (planta W). Como se explica que essas plantas, que ocorrem em continentes diferentes, apresentem folhas modificadas de maneira semelhante?</p>
+        </part>
+        <part>
+          <p>Um arbusto possui folhas largas, com estômatos em suas duas faces e alta concentração de clorofila. Cite um bioma brasileiro em que esse arbusto ocorre, relacionando as características da folha com as do bioma.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As duas curvas (A e B) do gráfico mostram a concentração de anticorpos produzidos por um camundongo, durante oito semanas, em resposta a duas injeções de um determinado antígeno. Essas injeções foram realizadas com intervalo de seis meses.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique as curvas que correspondem à primeira e à segunda injeção de antígenos.</p>
+        </part>
+        <part>
+          <p>Quais são as características das duas curvas que permitem distinguir a curva correspondente à primeira injeção de antígenos daquela que representa a segunda injeção?</p>
+        </part>
+        <part>
+          <p>Por que as respostas a essas duas injeções de antígenos são diferentes?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na passagem da época romana para a época medieval, houve não só rupturas, mas também continuidades. Caracterize essas continuidades no campo da</p>
+      </statement>
+      <parts>
+        <part>
+          <p>religião.</p>
+        </part>
+        <part>
+          <p>língua.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe as rotas no mapa e responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que representou, para os interesses de Portugal, a rota marítima Lisboa-Cabo da Boa Esperança-Calicute?</p>
+        </part>
+        <part>
+          <p>O que significou a expedição de Pedro Álvares Cabral para o Império Português?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="01">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ontem plena liberdade, A vontade por poder... Hoje.. cum’lo de maldade, Nem são livres p’ra morrer... Prende-os a mesma corrente ─ Férrea, lúgubre serpente ─ Nas roscas da escravidão. E assim zombando da morte, Dança a lúgubre coorte Ao som do açoite... Irrisão!...</p>
+        <p>Castro Alves, O Navio Negreiro, 1868.</p>
+        <p>O poema, a que pertencem esses versos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>representou uma crítica a aspectos sociais do Brasil no período imperial. Explique.</p>
+        </part>
+        <part>
+          <p>causou forte impacto na opinião pública, contribuindo, assim, junto com outros fatores, para as mudanças políticas que ocorreram no final do Império. Explique tais mudanças.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O conceito de revolução, aplicado ao movimento de 1930 no Brasil, é alvo de polêmica entre historiadores. Independentemente da controvérsia, não há como negar que houve mudanças importantes, nessa década, com relação às diretrizes da política econômica e à questão social.</p>
+        <p>Explique as mudanças no que se refere à</p>
+      </statement>
+      <parts>
+        <part>
+          <p>política econômica.</p>
+        </part>
+        <part>
+          <p>questão social.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o gráfico e, a partir dele,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>indique as transformações demográficas ocorridas no período mencionado.</p>
+        </part>
+        <part>
+          <p>discorra sobre as mudanças sociais decorrentes da urbanização.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Franklin D. Roosevelt assumiu a presidência dos Estados Unidos, no ano de 1933, em meio a uma grave crise econômica, iniciada em 1929; também Barak Obama deparou com um problema similar ao se tornar presidente do mesmo país, em 2009.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Com relação ao governo Roosevelt, indique as medidas adotadas por ele para fazer frente à crise de 1929.</p>
+        </part>
+        <part>
+          <p>Com relação à crise de 2008, enfrentada pelo presidente Obama, indique os principais fatores que a desencadearam e como ela se manifestou.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o gráfico abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Analise a matriz brasileira dos transportes, em 2005, considerando aspectos históricos e políticos.</p>
+        </part>
+        <part>
+          <p>Explique a previsão da matriz brasileira dos transportes, para o ano de 2025, considerando aspectos ambientais implícitos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Grande parte da produção de petróleo, no Brasil, provém de bacias localizadas na plataforma continental (off shore). Todavia, a produção de petróleo, em área terrestre (on shore), tem significativa importância econômica.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique duas áreas produtoras de petróleo on shore no Brasil e explique as causas da existência de petróleo nessas áreas.</p>
+        </part>
+        <part>
+          <p>No Brasil, nos últimos anos, a exportação de petróleo tem superado, em volume, a importação. Apesar disso, persiste um deficit comercial relativo a esse produto. Explique o porquê desse deficit.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="01">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base no mapa acima e em seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>identifique o tipo de indústria predominante na região Nordeste, considerando sua capacidade geradora de emprego.</p>
+        </part>
+        <part>
+          <p>caracterize o parque industrial da região Sudeste. Considere, na sua análise, a presença da indústria de ponta de alta tecnologia nessa região e sua capacidade geradora de emprego.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O poder do cidadão, o poder de cada um de nós, limita-se, na esfera política, a tirar um governo de que não gosta e a pôr outro de que talvez venha a se gostar. Nada mais. Mas as grandes decisões são tomadas em uma grande esfera e todos sabemos qual é. As grandes organizações financeiras internacionais, os FMIs, a Organização Mundial do Comércio, os bancos mundiais, tudo isso. Nenhum desses organismos é democrático. E, portanto, como é que podemos falar em democracia, se aqueles que efetivamente governam o mundo não são eleitos democraticamente pelo povo?</p>
+        <p>Discurso de José Saramago, disponível em www.revistaforum.com.br. Acessado em 11/09/2009.</p>
+        <p>Na charge acima, o cidadão sentado representa o presidente de um país emergente.</p>
+        <p>Considerando a referida charge, o texto e seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>caracterize a Nova Ordem Econômica Mundial.</p>
+        </part>
+        <part>
+          <p>analise a relação entre regime político democrático e neoliberalismo, no mundo atual.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base no mapa e em seus conhecimentos, explique por que</p>
+      </statement>
+      <parts>
+        <part>
+          <p>França (A) e Índia (B) ocupam a mesma classe estatística na representação acima sobre as desigualdades na distribuição dos rendimentos.</p>
+        </part>
+        <part>
+          <p>o Sistema Tributário Nacional contribui para a expressiva desigualdade na distribuição dos rendimentos, no Brasil.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em maio de 2008, um terremoto, de 7,8 graus na escala Richter, atingiu severamente a Província de Sichuan (China), matando milhares de pessoas. Em janeiro de 2009, um tremor de terra, de 6,2 graus, atingiu a Costa Rica, causando prejuízos materiais, além de ceifar vidas. Em setembro de 2009, tremores de terra, de 7,6 graus, atingiram a Indonésia, provocando mortes e danos materiais.</p>
+        <p>Considerando o mapa, os fatos acima citados e seus conhecimentos, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quais os principais fatores que geram atividades sísmicas no planeta?</p>
+        </part>
+        <part>
+          <p>Por que, no Brasil, as atividades sísmicas são, predominantemente, de baixa intensidade?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>FUVEST Fundação Universitária para o Vestibular|12/12/2009|09:37:04 BOX 118 001/009 FUVEST 2010 2ª Fase − Terceiro Dia (05/01/2010) 001/040 Página 16/16 − Caderno Reserva</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

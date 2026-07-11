@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2003" phase="discursive" day="0" variation="V1" date="2003-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantos múltiplos de 9 há entre 100 e 1000?</p>
+        </part>
+        <part>
+          <p>Quantos múltiplos de 9 ou 15 há entre 100 e 1000?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="02">
+      <statement>
+        <p>Um caminhão transporta maçãs, pêras e laranjas, num total de 10.000 frutas. As frutas estão condicionadas em caixas (cada caixa só contém um tipo de fruta), sendo que cada caixa de maçãs, pêras e laranjas, tem, respectivamente 50 maçãs, 60 pêras e 100 laranjas e custam, respectivamente, 20, 40 e 10 reais. Se a carga do caminhão tem 140 caixas e custa 3300 reais, calcule quantas maçãs, pêras e laranjas estão sendo transportadas.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>A reta r passa pela origem do plano cartesiano e tem coeficiente angular 0 m &gt; . A circunferência C passa pelos pontos ( ) ( ) 0 ,3 e 0 ,1 e tem centro no eixo x. Para qual valor de m a reta r é tangente a C?</p>
+        </part>
+        <part>
+          <p>Suponha agora que o valor de m seja menor que aquele determinado no item anterior. Calcule a área do triângulo determinado pelo centro de C e pelos pontos de intersecção de r com C.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma equipe de basquete, a distribuição de idades dos seus jogadores é a seguinte: idade Nº de jogadores 22 1 25 3 26 4 29 1 31 2 32 1 Será sorteada, aleatoriamente, uma comissão de dois jogadores que representará a equipe junto aos dirigentes.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantas possibilidades distintas existem para formar esta comissão?</p>
+        </part>
+        <part>
+          <p>Qual a probabilidade da média de idade dos dois jogadores da comissão sorteada ser estritamente menor que a média de idade de todos os jogadores?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura ao lado, M é o ponto médio da corda PQ da circunferência e 8 PQ = . O segmento RM é perpendicular a PQ e 3 3 4 RM = . Calcule:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O raio da circunferência.</p>
+        </part>
+        <part>
+          <p>A medida do ângulo Q Oˆ P , onde O é o centro da circunferência.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura ao lado, as circunferências têm centros A e B. O raio da maior é 4 5 do raio da menor; P é um ponto de intersecção delas e a reta AQ é tangente à circunferência menor no ponto Q. Calcule:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Q Bˆ A cos</p>
+        </part>
+        <part>
+          <p>P Bˆ A cos</p>
+        </part>
+        <part>
+          <p>P Bˆ Q cos</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="07">
+      <statement>
+        <p>No trapézio ABCD, M é o ponto médio do lado AD ; N está sobre o lado BC e NC BN 2 = . Sabese que as áreas dos quadriláteros ABNM e CDMN são iguais e que 10 DC = . Calcule AB.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nos itens abaixo, z denota um número complexo e i a unidade imaginária ( 1 i2 − = ). Suponha i z ≠.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Para quais valores de z tem-se 2 iz 1 i z = + + ?</p>
+        </part>
+        <part>
+          <p>Determine o conjunto de todos os valores de z para os quais iz 1 i z + + é um número real.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>Determine os valores de x no intervalo ] [ π 2 ,0 para os quais 3 x sen 3 x cos + ≥ .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>Um cilindro oblíquo tem raio das bases igual a 1, altura 3 2</p>
+        <p>e está inclinado de um ângulo de 60o (ver figura). O plano β é perpendicular às bases do cilindro, passando por seus centros. Se P e A são os pontos representados na figura, calcule PA.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

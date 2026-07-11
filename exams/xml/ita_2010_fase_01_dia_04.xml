@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2010" phase="objective" day="0" variation="V1" date="2010-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Considere as a…rmações abaixo relativas a conjuntos A; B e C quaisquer: I. A negação de x 2 A \ B é : x =2 A ou x =2 B. II. A \ (B [ C) = (A \ B) [ (A \ C). III. (AnB) [ (BnA) = (A [ B)n(A \ B). Destas, é (são) falsa(s) A ( ) apenas I. B ( ) apenas II. C ( ) apenas III. D ( ) apenas I e III. E ( ) nenhuma.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Considere conjuntos A; B R e C (A[B): Se A[B; A\C e B\C são os domínios das funções reais de…nidas por ln(xp); p x2 + 6x 8 e rx 5 x ; respectivamente, pode-se a…rmar que A ( ) C =]p; 5[: B ( ) C = [2; ]: C ( ) C = [2; 5[: D ( ) C = [; 4]: E ( ) C não é intervalo.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Se z é uma solução da equação em C; z z + jzj2 = "p 2 + i p 2 1 3 i p 2 + 1 3 !#12 ; pode-se a…rmar que A ( ) i(z z) &lt; 0. B ( ) i(z z) &gt; 0. C ( ) jzj 2 [5; 6]. D ( ) jzj 2 [6; 7]. E ( ) z + 1 z &gt; 8.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Os argumentos principais das soluções da equação em z; iz + 3z + (z + z)2 i = 0; pertencem a A ( ) 4 ; 3 4 : B ( ) 3 4 ; 5 4 : C ( ) 5 4 ; 3 2 : D ( ) i 4 ; 2 h [ 3 2 ; 7 4 : E ( ) i 0; 4 h [ 7 4 ; 2 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Considere a progressão aritmética (a1; a2; ::: ; a50) de razão d: Se 10 P n=1 an = 10 + 25d e 50 P n=1 an = 4550; então d a1 é igual a A ( ) 3: B ( ) 6: C ( ) 9: D ( ) 11: E ( ) 14.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Sejam f; g : R ! R tais que f é par e g é ímpar. Das seguintes a…rmações: I. f g é ímpar, II. f g é par, III. g f é ímpar, é (são) verdadeira(s) A ( ) apenas I. B ( ) apenas II. C ( ) apenas III. D ( ) apenas I e II. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. A equação em x; arctg (ex + 2) arccotg ex e2x 1 = 4 ; x 2 Rnf0g; A ( ) admite in…nitas soluções, todas positivas. B ( ) admite uma única solução, e esta é positiva. C ( ) admite três soluções que se encontram no intervalo 5 2; 3 2 : D ( ) admite apenas soluções negativas. E ( ) não admite solução.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Sabe-se que o polinômio p(x) = x5 a x3 + a x2 1; a 2 R; admite a raiz i: Considere as seguintes a…rmações sobre as raízes de p: I. Quatro das raízes são imaginárias puras. II. Uma das raízes tem multiplicidade dois. III. Apenas uma das raízes é real. Destas, é (são) verdadeira(s) apenas A ( ) I. B ( ) II. C ( ) III. D ( ) I e III. E ( ) II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Um polinômio real p(x) = 5P n=0 an xn; com a5 = 4; tem três raízes reais distintas, a; b e c; que satisfazem o sistema 8 &lt; : a + 2b + 5c = 0 a + 4b + 2c = 6 2a + 2b + 2c = 5 : Sabendo que a maior das raízes é simples e as demais têm multiplicidade dois, pode-se a…rmar que p(1) é igual a A ( ) 4: B ( ) 2: C ( ) 2: D ( ) 4: E ( ) 6.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Considere o polinômio p(x) = 15 P n=0 an xn com coe…cientes a0 = 1 e an = 1 + i an1; n = 1; 2; :::; 15: Das a…rmações: I. p(1) =2 R, II. jp(x)j 4 3 + p 2 + p 5 ; 8x 2 [1; 1], III. a8 = a4, é (são) verdadeira(s) apenas A ( ) I: B ( ) II: C ( ) III: D ( ) I e II: E ( ) II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. A expressão 2 p 3 + p 5 5 2 p 3 p 5 5 é igual a A ( ) 2630 p 5. B ( ) 2690 p 5. C ( ) 2712 p 5. D ( ) 1584 p 15. E ( ) 1604 p 15.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Um palco possui 6 re‡etores de iluminação. Num certo instante de um espetáculo moderno os re‡etores são acionados aleatoriamente de modo que, para cada um dos re‡etores, seja de 2 3 a probabilidade de ser aceso: Então, a probabilidade de que, neste instante, 4 ou 5 re‡etores sejam acesos simultaneamente, é igual a A ( ) 16 27: B ( ) 49 81: C ( ) 151 243: D ( ) 479 729: E ( ) 24 34 + 25 35.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Considere a matriz A = 2 4 a1 a2 a3 0 a4 a5 0 0 a6 3 5 2 M33(R); em que a4 = 10; det A = 1000 e a1; a2; a3; a4; a5 e a6 formam, nesta ordem, uma progressão aritmética de razão d &gt; 0: Pode-se a…rmar que a1 d é igual a A ( ) 4: B ( ) 3: C ( ) 2: D ( ) 1: E ( ) 1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Sobre os elementos da matriz A = 2 664 x1 x2 x3 x4 y1 y2 y3 y4 0 0 0 1 1 0 0 0 3 775 2 M44(R) sabe-se que (x1; x2; x3; x4) e (y1; y2; y3, y4) são duas progressões geométricas de razão 3 e 4 e de soma 80 e 255, respectivamente. Então, det(A1) e o elemento (A1)23 valem, respectivamente, A ( ) 1 72 e 12: B ( ) 1 72 e 12: C ( ) 1 72 e 12: D ( ) 1 72 e 1 12: E ( ) 1 72 e 1 12.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. O valor da soma 6P n=1 sen 2 3n sen 3n ; para todo 2 R, é igual a A ( ) 1 2 h cos 729 cos i : B ( ) 1 2 h sen 243 sen 729 i : C ( ) cos 243 cos 729 : D ( ) 1 2 h cos 729 cos 243 i : E ( ) cos 729 cos .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Se os números reais e , com + = 4 3 ; 0 ; maximizam a soma sen + sen ; então é igual a A ( ) p 3 3 : B ( ) 2 3 : C ( ) 3 5 : D ( ) 5 8 : E ( ) 7 12.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Considere as circunferências C1 : (x4)2+(y3)2 = 4 e C2 : (x10)2+(y11)2 = 9: Seja r uma reta tangente interna a C1 e C2; isto é, r tangencia C1 e C2 e intercepta o segmento de reta O1O2 de…nido pelos centros O1 de C1 e O2 de C2: Os pontos de tangência de…nem um segmento sobre r que mede A ( ) 5 p 3. B ( ) 4 p 5. C ( ) 3 p 6. D ( ) 25 3 . E ( ) 9.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Um cilindro reto de altura p 6 3 cm está inscrito num tetraedro regular e tem sua base em uma das faces do tetraedro. Se as arestas do tetraedro medem 3 cm; o volume do cilindro, em cm3; é igual a A ( ) p 3 4 : B ( ) p 3 6 : C ( ) p 6 6 : D ( ) p 6 9 : E ( ) 3 :</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Um triângulo equilátero tem os vértices nos pontos A; B e C do plano xOy; sendo B = (2; 1) e C = (5; 5): Das seguintes a…rmações: I. A se encontra sobre a reta y = 3 4x + 11 2 , II. A está na intersecção da reta y = 3 4x + 45 8 com a circunferência (x 2)2 + (y 1)2 = 25, III. A pertence às circunferências (x 5)2 + (y 5)2 = 25 e x 7 2 2 + (y 3)2 = 75 4 , é (são) verdadeira(s) apenas A ( ) I: B ( ) II: C ( ) III: D ( ) I e II: E ( ) II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Sejam A; B; C e D os vértices de um tetraedro regular cujas arestas medem 1 cm: Se M é o ponto médio do segmento AB e N é o ponto médio do segmento CD; então a área do triângulo MND; em cm2; é igual a A ( ) p 2 6 : B ( ) p 2 8 : C ( ) p 3 6 : D ( ) p 3 8 : E ( ) p 3 9 . AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Sejam A; B e C conjuntos tais que C B; n(BnC) = 3n(B \ C) = 6n(A \ B); n(A [ B) = 22 e (n(C); n(A); n(B)) é uma progressão geométrica de razão r &gt; 0:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine n(C):</p>
+        </part>
+        <part>
+          <p>Determine n(P(BnC)).</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="22">
+      <statement>
+        <p>. A progressão geométrica in…nita (a1; a2, ..., an; ...) tem razão r &lt; 0: Sabe-se que a progressão in…nita (a1; a6, ..., a5n+1; ...) tem soma 8 e a progessão in…nita (a5; a10, ..., a5n; ...) tem soma 2. Determine a soma da progressão in…nita (a1; a2, ..., an; ...).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Analise se a função f : R ! R; f(x) = 3x 3x 2 é bijetora e, em caso a…rmativo, determine a função inversa f 1:</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Seja f : R ! R bijetora e ímpar. Mostre que a função inversa f 1 : R ! R também é ímpar.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Considere o polinômio p(x) = 6P n=0 anxn; com coe…cientes reais, sendo a0 6= 0 e a6 = 1: Sabe-se que se r é raiz de p, r também é raiz de p. Analise a veracidade ou falsidade das a…rmações: I. Se r1 e r2; jr1j 6= jr2j ; são raízes reais e r3 é raiz não real de p, então r3 é imaginário puro. II. Se r é raiz dupla de p; então r é real ou imaginário puro. III. a0 &lt; 0.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma urna de sorteio contém 90 bolas numeradas de 1 a 90, sendo que a retirada de uma bola é equiprovável à retirada de cada uma das demais.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Retira-se aleatoriamente uma das 90 bolas desta urna. Calcule a probabilidade de o número desta bola ser um múltiplo de 5 ou de 6.</p>
+        </part>
+        <part>
+          <p>Retira-se aleatoriamente uma das 90 bolas desta urna e, sem repô-la, retira-se uma segunda bola. Calcule a probabilidade de o número da segunda bola retirada não ser um múltiplo de 6.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere as matrizes A 2 M44(R) e X; B 2 M41(R) : A = 2 664 a 1 b 1 b 1 a 0 0 2 0 0 a 2 b 1 3 775 ; X = 2 664 x y z w 3 775 e B = 2 664 b1 b2 b3 b4 3 775 :</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Encontre todos os valores reais de a e b tais que a equação matricial AX = B tenha solução única.</p>
+        </part>
+        <part>
+          <p>Se a2 b2 = 0; a 6= 0 e B = [1 1 2 4]t; encontre X tal que AX = B.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere a equação (3 2 cos2 x) 1 + tg2 x 2 6 tg x 2 = 0:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine todas as soluções x no intervalo [0; [.</p>
+        </part>
+        <part>
+          <p>Para as soluções encontradas em a); determine cotg x.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Determine uma equação da circunferência inscrita no triângulo cujos vértices são A = (1; 1); B = (1; 7) e C = (5; 4) no plano xOy.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. As superfícies de duas esferas se interceptam ortogonalmente (isto é, em cada ponto da intersecção os respectivos planos tangentes são perpendiculares). Sabendo que os raios destas esferas medem 2 cm e 3 2 cm; respectivamente, calcule</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a distância entre os centros das duas esferas.</p>
+        </part>
+        <part>
+          <p>a área da superfície do sólido obtido pela intersecção das duas esferas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

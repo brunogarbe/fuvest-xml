@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2021" phase="discursive" day="0" variation="V1" date="2021-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Determine o raio da circunferência circunscrita a um trapézio isóceles cujas bases e altura têm comprimentos 4, 2 e 3, respectivamente.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Determine todos os valores do número real a para os quais a matriz       1 a3 −a 3 2 2 a2 1 a3 a 0 0 0 a −a2 −a 0 0 0 3 a2 0 0 −3 0       é não singular.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. O primeiro termo de uma progressão geométrica de números reais é 1 e a soma de seus primeiros 79 termos é igual ao produto de seus primeiros 13 termos. Determine: (a) a soma dos 40 primeiros termos; (b) o produto dos 7 primeiros termos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Determine todos os pontos (x, y) que pertencem à circunferência de centro (5, 0) e raio 5, que satisfazem a equação: p 3x −y −4 = p x2 −7x −5y −4.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Determine as raízes comuns aos polinômios: p(x) = x5 + x4 −8x2 −9x + 15 e q(x) = 3x4 + 6x3 + 13x2 −4x −10.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere z = a √ 3 + i ∈C, onde a ∈R. Determine todos os números reais a para os quais z7 e z13 estão à mesma distância de z no plano complexo.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Um relógio digital mostra o horário no formato H : M : S, onde H é um inteiro entre 1 e 12 representando as horas, M é um inteiro representando os minutos e S é um inteiro representando os segundos, ambos entre 0 e 59. Quantas vezes em um dia (H, M, S) são, nessa ordem, os três primeiros termos de uma progressão aritmética de razão estritamente positiva?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Seja P uma pirâmide regular com base quadrada. Suponha que os centros das esferas inscrita e circunscrita a P coincidam. Determine a razão entre as áreas das esferas circunscrita e inscrita a P.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Sejam α, β, γ ∈R tais que α+β +γ = −3π, senα+ senβ + senγ = 1 2 e cos α+cos β +cos γ = −1 2. Determine o valor de cos2 α + cos2 β + cos2 γ.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Uma moeda é lançada sucessivas vezes até que se tenha a ocorrência de 2 caras. Qual a probabilidade do número total de lançamentos ser par? 1</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

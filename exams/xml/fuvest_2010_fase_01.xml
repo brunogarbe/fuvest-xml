@@ -1,0 +1,2137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2010" phase="objective" day="1" variation="V1" date="2010-01-01" lang="pt-br">
+  <question_group>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Pela primeira vez na história da humanidade, mais de um bilhão de pessoas, concretamente 1,02 bilhão, sofrerão de subnutrição em todo o mundo. O aumento da insegurança alimentar que aconteceu em 2009 mostra a urgência de encarar as causas profundas da fome com rapidez e eficácia.”</p>
+        <p>Relatório da Organização das Nações Unidas para a Agricultura e Alimentação [FAO], primeiro semestre de 2009.</p>
+        <p>Tendo em vista as questões levantadas pelo texto, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a principal causa da fome e da subnutrição é a falta de terra agricultável para a produção de alimentos necessários para toda a população mundial.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a proporção de subnutridos e famintos, de acordo com os dados do texto, é inferior a 10% da população mundial.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>as principais causas da fome e da subnutrição são disparidades econômicas, pobreza extrema, guerras e conflitos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>as consequências da subnutrição severa em crianças são revertidas com alimentação adequada na vida adulta.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o uso de organismos geneticamente modificados na agricultura tem reduzido a subnutrição nas regiões mais pobres do planeta.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O Índice de Massa Corporal (IMC) é o número obtido pela divisão da massa de um indivíduo adulto, em quilogramas, pelo quadrado da altura, medida em metros. É uma referência adotada pela Organização Mundial de Saúde para classificar um indivíduo adulto, com relação ao seu peso e altura, conforme a tabela abaixo.</p>
+        <p>IMC Classificação até 18,4 Abaixo do peso de 18,5 a 24,9 Peso normal de 25,0 a 29,9 Sobrepeso de 30,0 a 34,9 Obesidade Grau 1 de 35,0 a 39,9 Obesidade Grau 2 a partir de 40,0 Obesidade Grau 3</p>
+        <p>Levando em conta esses dados, considere as seguintes afirmações:</p>
+        <p>I. Um indivíduo adulto de 1,70 m e 100 kg apresenta Obesidade Grau 1. II. Uma das estratégias para diminuir a obesidade na população é aumentar a altura média de seus indivíduos por meio de atividades físicas orientadas para adultos. III. Uma nova classificação que considere obesos somente indivíduos com IMC maior que 40 pode diminuir os problemas de saúde pública.</p>
+        <p>Está correto o que se afirma somente em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe a gravura e considere as afirmações.</p>
+        <p>I. Pentágonos regulares congruentes podem substituir os hexágonos da gravura de modo a recobrir todo o plano sem sobreposição. II. Pelo menos um dos animais representados passa pelo processo de metamorfose na natureza. III. A sequência de espécies animais representadas da esquerda para a direita do leitor corresponde à do processo evolutivo na biosfera.</p>
+        <p>Está correto o que se afirma somente em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A magnitude de um terremoto na escala Richter é proporcional ao logaritmo, na base 10, da energia liberada pelo abalo sísmico. Analogamente, o pH de uma solução aquosa é dado pelo logaritmo, na base 10, do inverso da concentração de íons H+. Considere as seguintes afirmações:</p>
+        <p>I. O uso do logaritmo nas escalas mencionadas justificase pelas variações exponenciais das grandezas envolvidas. II. A concentração de íons H+ de uma solução ácida com pH 4 é 10 mil vezes maior que a de uma solução alcalina com pH 8. III. Um abalo sísmico de magnitude 6 na escala Richter libera duas vezes mais energia que outro, de magnitude 3.</p>
+        <p>Está correto o que se afirma somente em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O avanço científico-tecnológico permitiu identificar e dimensionar partículas e sistemas microscópicos e submicroscópicos fundamentais para o entendimento de fenômenos naturais macroscópicos. Desse modo, tornouse possível ordenar, em função das dimensões, entidades como cromossomo (C), gene (G), molécula de água (M), núcleo do hidrogênio (N) e partícula alfa (P). Assinale a alternativa que apresenta essas entidades em ordem crescente de tamanho.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>N, P, M, G, C.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>P, N, M, G, C.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>N, M, P, G, C.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>N, P, M, C, G.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>P, M, G, N, C. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A personagem Mafalda, que está em Buenos Aires, olha o globo em que o Norte está para cima e afirma: “a gente está de cabeça pra baixo”. Quem olha para o céu noturno dessa posição geográfica não vê a estrela Polar, referência do polo astronômico Norte, e sim o Cruzeiro do Sul, referência do polo astronômico Sul. Se os polos do globo de Mafalda estivessem posicionados de acordo com os polos astronômicos, ou seja, o polo geográfico Sul apontando para o polo astronômico Sul, seria correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o Norte do globo estaria para cima, o Sul para baixo e Mafalda estaria realmente de cabeça para baixo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o Norte do globo estaria para cima e o Sul para baixo, mas Mafalda não estaria de cabeça para baixo por causa da gravidade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o Norte do globo estaria para cima, o Sul para baixo, e quem estaria de cabeça para baixo seriam os habitantes do hemisfério norte.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o Sul do globo estaria para cima e o Norte para baixo, mas Mafalda estaria de cabeça para baixo por causa da gravidade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o Sul do globo estaria para cima, o Norte para baixo e Mafalda não teria razão em afirmar que está de cabeça para baixo. ________________________________________________________________________________________________</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma maneira de compreender a distribuição temporal de fenômenos ocorridos em longos períodos é situá-los em um ano de 365 dias. Por exemplo, ao transpor os 4,6 bilhões de anos da Terra para esse ano, a formação do planeta teria ocorrido em 1o de janeiro, o surgimento do oxigênio na atmosfera em 13 de junho, o aumento e a diversificação da vida macroscópica a partir de 15 de novembro e o início da separação da Pangea em 13 de dezembro. Considere os seguintes eventos:</p>
+        <p>Evento 1. Surgimento do Homo sapiens. Evento 2. Revolução agrícola do Neolítico. Evento 3. Declínio do Império Romano. Evento 4. A colonização da América pelos europeus.</p>
+        <p>A partir das informações do texto, é correto situar os referidos eventos no mês de dezembro desse ano, no(s) dia(s)</p>
+        <p>Evento 1 Evento 2 Evento 3 Evento 4</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>29 29 30 30</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>29 30 30 31</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>30 30 31 31</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>30 31 31 31</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>31 31 31 31</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A chamada Lei do Agrotóxico (no 7.802, de 11/06/89) determina que os rótulos dos produtos não contenham afirmações ou imagens que possam induzir o usuário a erro quanto a sua natureza, composição, segurança, eficácia e uso. Também proíbe declarações sobre a inocuidade, tais como “seguro”, “não venenoso”, “não tóxico”, mesmo que complementadas por afirmações do tipo “quando utilizado segundo as instruções”. Em face das proibições da Lei, a compreensão da frase: “Cuidado, este produto pode ser tóxico”</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>precisa levar em consideração que a condição suficiente para que um produto possa ser tóxico é sua ingestão, inalação ou contato com a pele e não sua composição.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>exige cautela, pois a expressão “pode ser” pressupõe “pode não ser”, permitindo a interpretação de que se trata de um produto “seguro”, “não venenoso”, “não tóxico”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>precisa levar em consideração que a expressão “pode ser” elimina o sentido de “pode não ser”, consistindo em um alerta ao usuário sobre a inocuidade dos produtos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>exige admitir que a condição necessária para que um produto seja tóxico é a sua composição, induzindo o usuário a erro quanto à inocuidade e ao mau uso dos produtos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>precisa ser complementada com a consideração de que a segurança no manuseio dos agrotóxicos elimina sua toxicidade, bem como eventuais riscos de intoxicação. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A Gripe A, causada pelo vírus Influenza A (H1N1), tem sido relacionada com a Gripe Espanhola, pandemia ocorrida entre 1918 e 1919. No genoma do vírus Influenza A, há dois genes que codificam proteínas de superfície, chamadas de Hemaglutinina (H) e Neuraminidase (N), das quais existem, respectivamente, 16 e 9 tipos. Com base nessas informações, analise as afirmações:</p>
+        <p>I. O número de combinações de proteínas de superfície do vírus Influenza A é 25, o que dificulta a produção de medicamentos antivirais específicos. II. Tanto na época atual quanto na da Gripe Espanhola, as viagens transoceânicas contribuíram para a disseminação do vírus pelo mundo. III. O sistema imunológico do indivíduo reconhece segmentos das proteínas de superfície do vírus para combatê-lo.</p>
+        <p>Está correto o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I, somente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e II, somente.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e III, somente.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III, somente.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I, II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Cesarismo/cesarista são termos utilizados para caracterizar governantes atuais que, à maneira de Júlio César (de onde o nome), na antiga Roma, exercem um poder</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>teocrático.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>democrático.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>aristocrático.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>burocrático.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>autocrático.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“A instituição das corveias variava de acordo com os domínios senhoriais, e, no interior de cada um, de acordo com o estatuto jurídico dos camponeses, ou de seus mansos [parcelas de terra].”</p>
+        <p>Marc Bloch. Os caracteres originais da França rural, 1952.</p>
+        <p>Esta frase sobre o feudalismo trata</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>da vassalagem.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>do colonato.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>do comitatus.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>da servidão.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>da guilda.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os primeiros jesuítas chegaram à Bahia com o governador-geral Tomé de Sousa, em 1549, e em pouco tempo se espalharam por outras regiões da colônia, permanecendo até sua expulsão, pelo governo de Portugal, em 1759. Sobre as ações dos jesuítas nesse período, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>criaram escolas de arte que foram responsáveis pelo desenvolvimento do barroco mineiro.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>defenderam os princípios humanistas e lutaram pelo reconhecimento dos direitos civis dos nativos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>foram responsáveis pela educação dos filhos dos colonos, por meio da criação de colégios secundários e escolas de “ler e escrever”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>causaram constantes atritos com os colonos por defenderem, esses religiosos, a preservação das culturas indígenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>formularam acordos políticos e diplomáticos que garantiram a incorporação da região amazônica ao domínio português.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“E o pior é que a maior parte do ouro que se tira das minas passa em pó e em moeda para os reinos estranhos e a menor quantidade é a que fica em Portugal e nas cidades do Brasil...”</p>
+        <p>João Antonil. Cultura e opulência do Brasil por suas drogas e minas, 1711.</p>
+        <p>Esta frase indica que as riquezas minerais da colônia</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>produziram ruptura nas relações entre Brasil e Portugal.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>foram utilizadas, em grande parte, para o cumprimento do Tratado de Methuen entre Portugal e Inglaterra.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>prestaram-se, exclusivamente, aos interesses mercantilistas da França, da Inglaterra e da Alemanha.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>foram desviadas, majoritariamente, para a Europa por meio do contrabando na região do rio da Prata.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>possibilitaram os acordos com a Holanda que asseguraram a importação de escravos africanos. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Carlos III, rei da Espanha entre 1759 e 1788, implementou profundas reformas – conhecidas como bourbônicas – que tiveram grandes repercussões sobre as colônias espanholas na América. Entre elas,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o estabelecimento de medidas econômicas e políticas, para maior controle da Coroa sobre as colônias.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o redirecionamento da economia colonial, para valorizar a indústria em detrimento da agricultura de exportação.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a promulgação de medidas políticas, levando à separação entre a Igreja Católica e a Coroa.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a reestruturação das tradicionais comunidades indígenas, visando instituir a propriedade privada.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a decretação de medidas excepcionais, permitindo a escravização dos africanos e, também, a dos indígenas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Eis que uma revolução, proclamando um governo absolutamente independente da sujeição à corte do Rio de Janeiro, rebentou em Pernambuco, em março de 1817. É um assunto para o nosso ânimo tão pouco simpático que, se nos fora permitido [colocar] sobre ele um véu, o deixaríamos fora do quadro que nos propusemos tratar.”</p>
+        <p>F. A. Varnhagen. História geral do Brasil, 1854.</p>
+        <p>O texto trata da Revolução pernambucana de 1817. Com relação a esse acontecimento é possível afirmar que os insurgentes</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pretendiam a separação de Pernambuco do restante do reino, impondo a expulsão dos portugueses desse território.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>contaram com a ativa participação de homens negros, pondo em risco a manutenção da escravidão na região.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>dominaram Pernambuco e o norte da colônia, decretando o fim dos privilégios da Companhia do Grão-Pará e Maranhão.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>propuseram a independência e a república, congregando proprietários, comerciantes e pessoas das camadas populares.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>implantaram um governo de terror, ameaçando o direito dos pequenos proprietários à livre exploração da terra.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No Ocidente, o período entre 1848 e 1875 “é primariamente o do maciço avanço da economia do capitalismo industrial, em escala mundial, da ordem social que o representa, das ideias e credos que pareciam legitimá-lo e ratificá-lo”.</p>
+        <p>E. J. Hobsbawm. A era do capital 1848-1875.</p>
+        <p>A “ordem social” e as “ideias e credos” a que se refere o autor caracterizam-se, respectivamente, como</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>aristocrática e conservadoras.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>socialista e anarquistas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>popular e democráticas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>tradicional e positivistas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>burguesa e liberais.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No “Manifesto Antropófago”, lançado em São Paulo, em 1928, lê-se: “Queremos a Revolução Caraíba (...). A unificação de todas as revoltas eficazes na direção do homem (...). Sem nós, a Europa não teria sequer a sua pobre declaração dos direitos do homem.”</p>
+        <p>Essas passagens expressam a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>defesa de concepções artísticas do impressionismo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>crítica aos princípios da Revolução Francesa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>valorização da cultura nacional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>adesão à ideologia socialista.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>afinidade com a cultura norte-americana.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A partir da redemocratização do Brasil (1985), é possível observar mudanças econômicas significativas no país. Entre elas, a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>exclusão de produtos agrícolas do rol das principais exportações brasileiras.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>privatização de empresas estatais em diversos setores como os de comunicação e de mineração.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>ampliação das tarifas alfandegárias de importação, protegendo a indústria nacional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>implementação da reforma agrária sem pagamento de indenização aos proprietários.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>continuidade do comércio internacional voltado prioritariamente aos mercados africanos e asiáticos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Cartaz de 1994 da campanha de Nelson Mandela à presidência da África do Sul.</p>
+        <p>Essa campanha representou a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>luta dos sul-africanos contra o regime do apartheid então vigente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>conciliação entre os segregacionistas e os partidários da democracia racial.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>proposta de ampliação da luta anti-apartheid no continente africano.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>contemporização diante dos atos de violência contra os direitos humanos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>superação dos preconceitos raciais por parte dos africânderes. V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Belo Horizonte, 28 de julho de 1942.</p>
+      <p>Meu caro Mário, Estou te escrevendo rapidamente, se bem que haja muitíssima coisa que eu quero te falar (a respeito da Conferência, que acabei de ler agora). Vem-me uma vontade imensa de desabafar com você tudo o que ela me fez sentir. Mas é longo, não tenho o direito de tomar seu tempo e te chatear. Fernando Sabino.</p>
+    </context>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Neste trecho de uma carta de Fernando Sabino a Mário de Andrade, o emprego de linguagem informal é bem evidente em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“se bem que haja”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“que acabei de ler agora”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“Vem-me uma vontade”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“tudo o que ela me fez sentir”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“tomar seu tempo e te chatear”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, o conectivo “se bem que” estabelece relação de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>conformidade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>condição.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>concessão.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>alternância.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>consequência.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Desde pequeno, tive tendência para personificar as coisas. Tia Tula, que achava que mormaço fazia mal, sempre gritava: “Vem pra dentro, menino, olha o mormaço!” Mas eu ouvia o mormaço com M maiúsculo. Mormaço, para mim, era um velho que pegava crianças! Ia pra dentro logo. E ainda hoje, quando leio que alguém se viu perseguido pelo clamor público, vejo com estes olhos o Sr. Clamor Público, magro, arquejante, de preto, brandindo um guarda-chuva, com um gogó protuberante que se abaixa e levanta no excitamento da perseguição. E já estava devidamente grandezinho, pois devia contar uns trinta anos, quando me fui, com um grupo de colegas, a ver o lançamento da pedra fundamental da ponte Uruguaiana-Libres, ocasião de grandes solenidades, com os presidentes Justo e Getúlio, e gente muita, tanto assim que fomos alojados os do meu grupo num casarão que creio fosse a Prefeitura, com os demais jornalistas do Brasil e Argentina. Era como um alojamento de quartel, com breve espaço entre as camas e todas as portas e janelas abertas, tudo com os alegres incômodos e duvidosos encantos de uma coletividade democrática. Pois lá pelas tantas da noite, como eu pressentisse, em meu entredormir, um vulto junto à minha cama, sentei-me estremunhado* e olhei atônito para um tipo de chiru*, ali parado, de bigodes caídos, pala pendente e chapéu descido sobre os olhos. Diante da minha muda interrogação, ele resolveu explicar-se, com a devida calma: Pois é! Não vê que eu sou o sereno...</p>
+      <p>Mário Quintana, As cem melhores crônicas brasileiras.</p>
+      <p>*Glossário: estremunhado: mal acordado. chiru: que ou aquele que tem pele morena, traços acaboclados (regionalismo: Sul do Brasil).</p>
+    </context>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No início do texto, o autor declara sua “tendência para personificar as coisas”. Tal tendência se manifesta na personificação dos seguintes elementos:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Tia Tula, Justo e Getúlio.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>mormaço, clamor público, sereno.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>magro, arquejante, preto.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>colegas, jornalistas, presidentes.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>vulto, chiru, crianças.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A caracterização ambivalente da “coletividade democrática” (L. 20 e 21), feita com humor pelo cronista, ocorre também na seguinte frase relativa à democracia:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Meu ideal político é a democracia, para que todo homem seja respeitado como indivíduo, e nenhum, venerado. (A. Einstein)</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A democracia é a pior forma de governo, com exceção de todas as demais. (W. Churchill)</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A democracia é apenas a substituição de alguns corruptos por muitos incompetentes. (B. Shaw)</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>É uma coisa santa a democracia praticada honestamente, regularmente, sinceramente. (Machado de Assis)</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A democracia se estabelece quando os pobres, tendo vencido seus inimigos, massacram alguns, banem os outros e partilham igualmente com os restantes o governo e as magistraturas. (Platão)</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando que “silepse é a concordância que se faz não com a forma gramatical das palavras, mas com seu sentido, com a ideia que elas representam”, indique o fragmento em que essa figura de linguagem se manifesta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“olha o mormaço”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“pois devia contar uns trinta anos”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“fomos alojados os do meu grupo”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“com os demais jornalistas do Brasil”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“pala pendente e chapéu descido sobre os olhos”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No contexto em que ocorre, a frase “estava devidamente grandezinho, pois devia contar uns trinta anos” (L. 11 e 12 ) constitui</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>recurso expressivo que produz incoerência, uma vez que não se usa o adjetivo “grande” no diminutivo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>exemplo de linguagem regional, que se manifesta também em outras partes do texto, como na palavra “brandindo”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>expressão de nonsense (linguagem surreal, ilógica), que, por sinal, ocorre também quando o autor afirma ouvir o M maiúsculo de “mormaço”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>manifestação de humor irônico, o qual, aliás, corresponde ao tom predominante no texto.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>parte do sonho que está sendo narrado e que é revelado apenas no final do texto, principalmente no trecho “em meu entredormir”. 5 10 15 20 25 V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Leia esta notícia científica:</p>
+      <p>Há 1,5 milhão de anos, ancestrais do homem moderno deixaram pegadas quando atravessaram um campo lamacento nas proximidades do Ileret, no norte do Quênia. Uma equipe internacional de pesquisadores descobriu essas marcas recentemente e mostrou que elas são muito parecidas com as do “Homo sapiens”: o arco do pé é alongado, os dedos são curtos, arqueados e alinhados. Também, o tamanho, a profundidade das pegadas e o espaçamento entre elas refletem a altura, o peso e o modo de caminhar atual. Anteriormente, houve outras descobertas arqueológicas, como, por exemplo, as feitas na Tanzânia, em 1978, que revelaram pegadas de 3,7 milhões de anos, mas com uma anatomia semelhante à de macacos. Os pesquisadores acreditam que as marcas recém-descobertas pertenceram ao “Homo erectus”. Revista FAPESP, nº 157, março de 2009. Adaptado.</p>
+    </context>
+    <objective_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, a sequência temporal é estabelecida principalmente pelas expressões:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“Há 1,5 milhão de anos”; “recentemente”; “anteriormente”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“ancestrais”; “moderno”; “proximidades”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“quando atravessaram”; “norte do Quênia”; “houve outras descobertas”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“marcas recém-descobertas”; “em 1978”; “descobertas arqueológicas”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“descobriu”; “mostrou”; “acreditam”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No trecho “semelhante à de macacos”, fica subentendida uma palavra já empregada na mesma frase. Um recurso linguístico desse tipo também está presente no trecho assinalado em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A água não é somente herança de nossos predecessores; ela é, sobretudo, um empréstimo às futuras gerações.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Recorrer à exploração da miséria humana, infelizmente, está longe de ser um novo ingrediente no cardápio da tevê aberta à moda brasileira.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Ainda há quem julgue que os recursos que a natureza oferece à humanidade são, de certo modo, inesgotáveis.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A prática do patrimonialismo acaba nos levando à cultura da tolerância à corrupção.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Já está provado que a concentração de poluentes em área para não fumantes é muito superior à recomendada pela OMS.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>[José Dias] Teve um pequeno legado no testamento, uma apólice e quatro palavras de louvor. Copiou as palavras, encaixilhou-as e pendurou-as no quarto, por cima da cama. “Esta é a melhor apólice”, dizia ele muita vez. Com o tempo, adquiriu certa autoridade na família, certa audiência, ao menos; não abusava, e sabia opinar obedecendo. Ao cabo, era amigo, não direi ótimo, mas nem tudo é ótimo neste mundo. E não lhe suponhas alma subalterna; as cortesias que fizesse vinham antes do cálculo que da índole. A roupa durava-lhe muito; ao contrário das pessoas que enxovalham depressa o vestido novo, ele trazia o velho escovado e liso, cerzido, abotoado, de uma elegância pobre e modesta. Era lido, posto que de atropelo, o bastante para divertir ao serão e à sobremesa, ou explicar algum fenômeno, falar dos efeitos do calor e do frio, dos polos e de Robespierre. Contava muita vez uma viagem que fizera à Europa, e confessava que a não sermos nós, já teria voltado para lá; tinha amigos em Lisboa, mas a nossa família, dizia ele, abaixo de Deus, era tudo.</p>
+      <p>Machado de Assis, Dom Casmurro.</p>
+    </context>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, o narrador diz que José Dias “sabia opinar obedecendo”. Considerada no contexto da obra, essa característica da personagem é motivada, principalmente, pelo fato de José Dias ser</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>um homem culto, porém autodidata.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>homeopata, mas usuário da alopatia.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pessoa de opiniões inflexíveis, mas também um homem naturalmente cortês.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>um homem livre, mas dependente da família proprietária.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>católico praticante e devoto, porém perverso.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerado o contexto, qual das expressões sublinhadas foi empregada em sentido metafórico?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“Teve um pequeno legado”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“Esta é a melhor apólice”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“certa audiência, ao menos”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“ao cabo, era amigo”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“o bastante para divertir”.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Por caminhos diferentes, tanto Pedro Bala (de Capitães de areia, de Jorge Amado) quanto o operário (do conhecido poema “O operário em construção”, de Vinícius de Moraes) passam por processos de “aquisição de uma consciência política” (expressão do próprio Vinícius). O contexto dessas obras indica também que essa conscientização leva ambos à</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>exclusão social, que arruína precocemente suas promissoras carreiras profissionais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>sublimação intelectual do ímpeto revolucionário, motivada pelo contato com estudantes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>condição de meros títeres, manipulados por partidos políticos oportunistas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>luta, em associação com seus pares de grupo ou de classe social, contra a ordem vigente.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>cumplicidade com criminosos comuns, com o fito de atacar as legítimas forças de repressão. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="31">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(...) É uma bela moça, mas uma bruta... Não há ali mais poesia, nem mais sensibilidade, nem mesmo mais beleza do que numa linda vaca turina. Merece o seu nome de Ana Vaqueira. Trabalha bem, digere bem, concebe bem. Para isso a fez a Natureza, assim sã e rija; e ela cumpre. O marido todavia não parece contente, porque a desanca. Também é um belo bruto... Não, meu filho, a serra é maravilhosa e muito grato lhe estou... Mas temos aqui a fêmea em toda a sua animalidade e o macho em todo o seu egoísmo...</p>
+        <p>Eça de Queirós, A cidade e as serras.</p>
+        <p>Neste excerto, o julgamento expresso por Jacinto, ao falar de um casal que o serve em sua quinta de Tormes, manifesta um ponto de vista semelhante ao do</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Major Vidigal, de Memórias de um sargento de milícias, ao se referir aos desocupados cariocas do tempo do rei.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>narrador de Iracema, em particular quando se refere a tribos inimigas e a franceses.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>narrador de Vidas secas, principalmente quando ele enfoca as relações sexuais de Fabiano e Sinha Vitória.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Anjo, do Auto da barca do inferno, ao condenar os pecados da carne cometidos pelos humanos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>narrador de O cortiço, especialmente quando se refere a personagens de classes sociais inferiores.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Inimigo da riqueza e do trabalho, amigo das festas, da música, do corpo das cabrochas. Malandro. Armador de fuzuês. Jogador de capoeira navalhista, ladrão quando se fizer preciso. Jorge Amado, Capitães de areia.</p>
+        <p>O tipo cujo perfil se traça, em linhas gerais, neste excerto, aparece em romances como Memórias de um sargento de milícias, O cortiço, além de Capitães de areia. Essa recorrência indica que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>certas estruturas e tipos sociais originários do período colonial foram repostos durante muito tempo, nos processos de transformação da sociedade brasileira.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o atraso relativo das regiões Norte e Nordeste atraiu para elas a migração de tipos sociais que o progresso expulsara do Sul/Sudeste.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>os romancistas brasileiros, embora críticos da sociedade, militaram com patriotismo na defesa de nossas personagens mais típicas e mais queridas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>certas ideologias exóticas influenciaram negativamente os romancistas brasileiros, fazendo-os representar, em suas obras, tipos sociais já extintos quando elas foram escritas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a criança abandonada, personagem central dos três livros, torna-se, na idade adulta, um elemento nocivo à sociedade dos homens de bem.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="33">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Mais do que a mais garrida a minha pátria tem Uma quentura, um querer bem, um bem Um “libertas quae sera tamen”* Que um dia traduzi num exame escrito: “Liberta que serás também” E repito!</p>
+        <p>Vinícius de Moraes, “Pátria minha”, Antologia poética.</p>
+        <p>*A frase em latim traduz-se, comumente, por “liberdade ainda que tardia”.</p>
+        <p>Considere as seguintes afirmações:</p>
+        <p>I. O diálogo com outros textos (intertextualidade) é procedimento central na composição da estrofe.</p>
+        <p>II. O espírito de contradição manifesto nos versos indica que o amor da pátria que eles expressam não é oficial nem conformista.</p>
+        <p>III. O apego do eu lírico à tradição da poesia clássica patenteia-se na escolha de um verso latino como núcleo da estrofe.</p>
+        <p>Está correto o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I, apenas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II, apenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e II, apenas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III, apenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I, II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="34">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em qual destas frases a vírgula foi empregada para marcar a omissão do verbo?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Ter um apartamento no térreo é ter as vantagens de uma casa, além de poder desfrutar de um jardim.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Compre sem susto: a loja é virtual; os direitos, reais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Para quem não conhece o mercado financeiro, procuramos usar uma linguagem livre do economês.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A sensação é de estar perdido: você não vai encontrar ninguém no Jalapão, mas vai ver a natureza intocada.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Esta é a informação mais importante para a preservação da água: sabendo usar, não vai faltar.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A única frase que segue as normas da língua escrita padrão é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A janela propiciava uma vista para cuja beleza muito contribuía a mata no alto do morro.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Em pouco tempo e gratuitamente, prepare-se para a universidade que você se inscreveu.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Apesar do rigor da disciplina, militares se mobilizam no sentido de voltar a cujos postos estavam antes de se licenciarem.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Sem pretender passar por herói, aproveito para contar coisas as quais fui testemunha nos idos de 1968 e que hoje tanto se fala.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Sem muito sacrifício, adotou um modo de vida a qual o permitia fazer o regime recomendado pelo médico. V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Last month America’s unemployment rate climbed to 8,1%, the highest in a quarter of a century. For those newly out of a job, the chances of finding another soon are the worst since records began 50 years ago. In China 20m migrant workers (maybe 3% of the labour force) have been laid off. Cambodia’s textile industry, its main source of exports, has cut one worker in ten. In Spain the building bust has pushed the jobless rate up by two-thirds in a year, to 14.8% in January. And in Japan, where official unemployment used to be all but unknown, tens of thousands of people on temporary contracts are losing not just their jobs but also the housing provided by their employers.</p>
+      <p>The next phase of the world’s economic downturn is taking shape: a global jobs crisis. Its contours are only just becoming clear, but the severity, breadth and likely length of the recession, together with changes in the structure of labour markets in both rich and emerging economies, suggest the world is about to undergo its biggest increase in unemployment for decades.</p>
+      <p>The Economist, March 14th 2009.</p>
+    </context>
+    <objective_question number="36">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com o texto, publicado em março de 2009,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o aumento de postos de trabalho é vital para as economias emergentes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a crise mundial poderia afetar sobretudo os países mais pobres.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a estrutura do mercado de trabalho vigente em países ricos é a principal responsável pela crise.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o mundo poderia enfrentar a maior crise de desemprego das últimas décadas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a crise que a economia mundial vivencia vem sendo anunciada há décadas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Segundo o texto, no Japão,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o número oficial de desempregados é desconhecido.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>milhares de pessoas estão perdendo seus empregos e sua moradia.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>grande parte dos trabalhadores possui contratos temporários de trabalho.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os empregadores omitem o número de postos de trabalho porque muitos não são oficiais.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>os desempregados estão lutando para manter suas casas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O pronome “another” (L. 3) na sentença “...the chances of finding another...” refere-se a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>país.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>trabalhador.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>emprego.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>oportunidade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>recorde.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>As everybody knows, if you do not work out, your muscles get flaccid. What most people don’t realize, however, is that your brain also stays in better shape when you exercise.</p>
+      <p>Surprised? Although the idea of exercising cognitive machinery by performing mentally demanding activities – popularly termed the “use it or lose it” hypothesis – is better known, a review of dozens of studies shows that maintaining a mental edge requires more than that. Other things you do – including participating in activities that make you think, getting regular exercise, staying socially engaged and even having a positive attitude – have a meaningful influence on how effective your cognitive functioning will be in old age.</p>
+      <p>www.scientificamerican.com/article. Acessado em 06/07/2009. Adaptado.</p>
+    </context>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O texto informa que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>exercícios físicos são benéficos para o corpo e para a saúde mental.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>as pessoas não se dão conta da importância de músculos fortes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o cérebro é muito pouco exercitado por pessoas que não trabalham.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>todo mundo deveria exercitar-se diariamente.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>grande parte das pessoas preocupa-se apenas com a aparência física.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Segundo o texto, o bom funcionamento de nosso cérebro na velhice depende, entre outros fatores,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>das perdas e ganhos que vivenciamos ao longo da vida.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>da herança genética que trazemos conosco.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>das modalidades de exercícios físicos que realizamos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>da complexidade de exercícios intelectuais a que somos expostos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>de nosso engajamento em atividades intelectuais e sociais. 5 10 15 20 V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="41">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia a charge a seguir:</p>
+        <p>A charge chama a atenção, principalmente, para a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>precariedade da legislação ambiental em vigor nos países nórdicos, caracterizados pela intensa exploração de seus recursos florestais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>expansão do capitalismo monopolista globalizado, que se caracteriza, a partir da II Guerra Mundial, pela busca de condições mais vantajosas para a produção industrial.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>internacionalização da pobreza, com a presença globalizada de trabalho infantil e de condições sub-humanas de trabalho.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>nova regionalização do espaço mundial, caracterizada pela centralização das indústrias, e pela concentração do capital e do trabalho.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Divisão Internacional do Trabalho, caracterizada, a partir da II Guerra Mundial, pela inexistência de centros hegemônicos de poder e pela formação de blocos econômicos. ________________________________________________________________________________________________</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Serviços como o fotolog e o Orkut, tal qual outras ferramentas para mensagens instantâneas na Internet (MSN e ICQ), não devem ser lidos como sintomas de um mundo que a velocidade da comunicação e as tecnologias digitais teriam tornado “pequeno”. Ligar-se em rede e “estreitar” o mundo é uma escolha, algo como uma camada adicional de sociabilidade disponível somente para alguns, e que também, somente para alguns, faz sentido acionar.</p>
+        <p>Maria Isabel Mendes de Almeida e Fernanda Eugênio (Orgs). Culturas Jovens: novos mapas do afeto, 2006. Adaptado.</p>
+        <p>Considere o texto acima e as três afirmações: I. As redes de comunicação propiciadas pela Internet têm a propriedade da conectividade e, ao mesmo tempo, são suscetíveis de funcionar como instrumentos de integração e exclusão. II. A revolução tecnológica pode consolidar as desigualdades sociais e também aprofundá-las, produzindo um distanciamento cognitivo entre os que já convivem com ela e os que estão sem acesso a ela. III. Nesse ambiente comunicacional, as fronteiras se relativizam e tem-se a possibilidade de adicionar, às noções de espaço e tempo tradicionais, uma nova noção de espaço: o ciberespaço.</p>
+        <p>Está correto o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I, apenas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II, apenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e II, apenas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III, apenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I, II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="43">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre os muçulmanos que vivem na África e Ásia é correto afirmar:</p>
+        <p>África Ásia</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A grande concentração está no norte do continente, mas tem ocorrido aumento dessa população nos países subsaarianos. No oeste da China, centenas de muçulmanos, da etnia uigur, foram mortos em conflitos ocorridos em julho deste ano.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Após a eliminação do apartheid, na África do Sul, os muçulmanos deixaram de ser marginalizados nesse país. As peregrinações anuais a Meca foram suspensas, nos últimos cinco anos, devido a ataques terroristas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A grande concentração está no norte do continente, mas tem ocorrido aumento dessa população nos países subsaarianos. Em agosto deste ano, os muçulmanos do grupo Taleban assumiram o governo no Afeganistão, desestruturando outros grupos políticos, não muçulmanos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Após a eliminação do apartheid, na África do Sul, os muçulmanos deixaram de ser marginalizados nesse país. No oeste da China, centenas de muçulmanos, da etnia uigur, foram mortos em conflitos ocorridos em julho deste ano.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Os conflitos de Darfur, no Sudão, com milhares de refugiados, são consequência de embates tribais entre muçulmanos. Em agosto deste ano, os muçulmanos do grupo Taleban assumiram o governo no Afeganistão, desestruturando outros grupos políticos, não muçulmanos. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="44">
+      <statement>
+        <p>Sempre deixamos marcas no meio ambiente. Para medir essas marcas, William Rees propôs um(a) indicador/estimativa chamado(a) de “Pegada Ecológica”. Segundo a Organização WWF, esse índice calcula a superfície exigida para sustentar um gênero de vida específico. Mostra até que ponto a nossa forma de viver está de acordo com a capacidade do planeta de oferecer e renovar seus recursos naturais e também de absorver os resíduos que geramos. Assim, por exemplo, países de alto consumo e grande produção de lixo, bem como países mais industrializados e com alta emissão de CO2, apresentam maior Pegada Ecológica.</p>
+        <p>www.wwf.org.br. Acessado em 17/08/09. Adaptado.</p>
+        <p>Assinale a anamorfose que melhor representa a atual Pegada Ecológica dos diferentes países.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A Organização dos Estados Americanos (OEA) revogou, por meio da Resolução de 03/06/2009, a decisão, tomada em 1962, que excluía Cuba dessa organização. Em relação a esse tema, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>os países membros impuseram, como condição para a volta de Cuba à OEA, o cumprimento do acordo de fechamento da prisão de Guantánamo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o retorno de Cuba à OEA deve resultar de um processo de diálogo a pedido do próprio governo cubano.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a atual decisão da OEA foi criticada por países da América do Sul que não fazem parte dessa organização como, por exemplo, Venezuela e Bolívia.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o Brasil não participou da decisão da OEA, em junho de 2009, mantendo-se alheio ao processo de diálogo e de negociação com Cuba.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>os EUA retiraram-se do processo de discussão da referida Resolução por discordarem da readmissão de Cuba à OEA.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="46">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Desde o final da década de 1970, no Brasil, os movimentos sociais urbanos têm reivindicado o chamado Direito à Cidade, em que a moradia é elemento fundamental. Acerca desse tema, considere os gráficos, seus conhecimentos e as seguintes afirmações:</p>
+        <p>I. A Região Sudeste responde por mais da metade do PIB nacional, sendo, porém, a região com maior deficit habitacional. Consequentemente, forte concentração de capital não significa acesso à moradia.</p>
+        <p>II. A Região Nordeste tem o segundo maior deficit habitacional e a terceira maior participação no PIB nacional. Isso significa que a histórica desigualdade social nessa região foi superada.</p>
+        <p>III. A Região Norte tem o segundo menor deficit habitacional e a menor participação no PIB nacional. Isso significa que o deficit habitacional é um problema desvinculado da produção/distribuição de riqueza.</p>
+        <p>Está correto o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I, apenas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e II, apenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e III, apenas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III, apenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I, II e III. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere os mapas do Estado de São Paulo, seus conhecimentos e as afirmativas abaixo.</p>
+        <p>I. A expansão desse cultivo tem ocorrido, principalmente, com vistas ao aumento da produção de etanol para o abastecimento dos mercados interno e externo. II. O cultivo desse produto agrícola tem ocupado porções do Oeste Paulista que, tradicionalmente, eram ocupadas com pasto. III. A expansão desse cultivo tem acarretado a diminuição da produção de gêneros alimentícios em algumas regiões do estado.</p>
+        <p>Está correto o que se afirma em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e II, apenas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II, apenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II e III, apenas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>III, apenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I, II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="48">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em algumas cidades, pode-se observar no horizonte, em certos dias, a olho nu, uma camada de cor marrom. Essa condição afeta a saúde, principalmente, de crianças e de idosos, provocando, entre outras, doenças respiratórias e cardiovasculares. http://tempoagora.uol.com.br/noticias. Acessado em 20/06/2009. Adaptado.</p>
+        <p>As figuras e o texto acima referem-se a um processo de formação de um fenômeno climático que ocorre, por exemplo, na cidade de São Paulo. Trata-se de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ilha de calor, caracterizada pelo aumento de temperaturas na periferia da cidade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>zona de convergência intertropical, que provoca o aumento da pressão atmosférica na área urbana.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>chuva convectiva, caracterizada pela formação de nuvens de poluentes que provocam danos ambientais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>inversão térmica, que provoca concentração de poluentes na baixa camada da atmosfera.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>ventos alíseos de sudeste, que provocam o súbito aumento da umidade relativa do ar.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em se tratando de commodities, o Brasil tem papel relevante no mercado mundial, graças à exportação de minérios. Destacam-se os minérios de ferro e de manganês, bases para a produção de aço, e a bauxita, da qual deriva o alumínio. A relação entre minério e sua localização no território brasileiro está corretamente expressa em:</p>
+        <p>Minério Localização geográfica</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ferro Quadrilátero Ferrífero (Planalto da Borborema)</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ferro Serra dos Carajás (Planalto das Guianas)</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>bauxita Vale do Trombetas (Serra do Espinhaço)</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>manganês Maciço do Urucum (Pantanal Mato-Grossense)</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>manganês Vale do Aço (Chapada dos Parecis)</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="50">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os gráficos revelam</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pequena quantidade de propriedades, com até 100 ha, ocupando a maior parcela da área, o que significa uma distribuição desigual da terra.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>grande quantidade de propriedades, com mais de 1000 ha, correspondendo à maior parcela da área ocupada, o que significa uma distribuição equitativa da terra.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>grande quantidade de propriedades, com até 100 ha, correspondendo às menores parcelas da área ocupada, o que significa uma distribuição desigual da terra.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pequena quantidade de propriedades, de 100 a 1000 ha, ocupando a maior parcela da área, o que significa uma distribuição equitativa da terra.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>pequena quantidade de propriedades, com mais de 1000 ha, correspondendo à menor parcela da área ocupada, o que significa uma distribuição desigual da terra. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="51">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os animais que consomem as folhas de um livro alimentam-se da celulose contida no papel. Em uma planta, a celulose é encontrada</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>armazenada no vacúolo presente no citoplasma.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>em todos os órgãos, como componente da parede celular.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>apenas nas folhas, associada ao parênquima.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>apenas nos órgãos de reserva, como caule e raiz.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>apenas nos tecidos condutores do xilema e do floema. _______________________________________________________________________________________________</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="52">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O conhecimento sobre a origem da variabilidade entre os indivíduos, sobre os mecanismos de herança dessa variabilidade e sobre o comportamento dos genes nas populações foi incorporado à teoria da evolução biológica por seleção natural de Charles Darwin. Diante disso, considere as seguintes afirmativas:</p>
+        <p>I. A seleção natural leva ao aumento da frequência populacional das mutações vantajosas num dado ambiente; caso o ambiente mude, essas mesmas mutações podem tornar seus portadores menos adaptados e, assim, diminuir de frequência. II. A seleção natural é um processo que direciona a adaptação dos indivíduos ao ambiente, atuando sobre a variabilidade populacional gerada de modo casual. III. A mutação é a causa primária da variabilidade entre os indivíduos, dando origem a material genético novo e ocorrendo sem objetivo adaptativo. Está correto o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I, II e III.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e III, apenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e II, apenas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I, apenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>III, apenas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um determinado animal adulto é desprovido de crânio e apêndices articulares. Apresenta corpo alongado e cilíndrico. Esse animal pode pertencer ao grupo dos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>répteis ou nematelmintos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>platelmintos ou anelídeos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>moluscos ou platelmintos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>anelídeos ou nematelmintos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>anelídeos ou artrópodes.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="54">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Há uma impressionante continuidade entre os seres vivos (...). Talvez o exemplo mais marcante seja o da conservação do código genético (...) em praticamente todos os seres vivos. Um código genético de tal maneira “universal” é evidência de que todos os seres vivos são aparentados e herdaram os mecanismos de leitura do RNA de um ancestral comum.</p>
+        <p>Morgante &amp; Meyer, Darwin e a Biologia, O Biólogo 10:12–20, 2009.</p>
+        <p>O termo “código genético” refere-se</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ao conjunto de trincas de bases nitrogenadas, cada trinca correspondendo a um determinado aminoácido.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ao conjunto de todos os genes dos cromossomos de uma célula, capazes de sintetizar diferentes proteínas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>ao conjunto de proteínas sintetizadas a partir de uma sequência específica de RNA.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a todo o genoma de um organismo, formado pelo DNA de suas células somáticas e reprodutivas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>à síntese de RNA a partir de uma das cadeias do DNA, que serve de modelo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pessoa, ao encontrar uma semente, pode afirmar, com certeza, que dentro dela há o embrião de uma planta, a qual, na fase adulta,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>forma flores, frutos e sementes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>forma sementes, mas não produz flores e frutos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>vive exclusivamente em ambiente terrestre.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>necessita de água para o deslocamento dos gametas na fecundação.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>tem tecidos especializados para condução de água e de seiva elaborada. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="56">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as seguintes características atribuídas aos seres vivos:</p>
+        <p>I. Os seres vivos são constituídos por uma ou mais células.</p>
+        <p>II. Os seres vivos têm material genético interpretado por um código universal.</p>
+        <p>III. Quando considerados como populações, os seres vivos se modificam ao longo do tempo.</p>
+        <p>Admitindo que possuir todas essas características seja requisito obrigatório para ser classificado como “ser vivo”, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>os vírus e as bactérias são seres vivos, porque ambos preenchem os requisitos I, II e III.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>os vírus e as bactérias não são seres vivos, porque ambos não preenchem o requisito I.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>os vírus não são seres vivos, porque preenchem os requisitos II e III, mas não o requisito I.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os vírus não são seres vivos, porque preenchem o requisito III, mas não os requisitos I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>os vírus não são seres vivos, porque não preenchem os requisitos I, II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="57">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No esquema abaixo, as setas numeradas de I a IV indicam transferências de moléculas ou energia entre seres vivos e entre eles e o ambiente.</p>
+        <p>Assinale a alternativa do quadro abaixo que mostra, corretamente, as passagens em que há transferência de gás carbônico, de moléculas orgânicas ou de energia.</p>
+        <p>Transferência de</p>
+        <p>gás carbônico moléculas orgânicas energia</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e II I e IV I e III</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e IV II I, III e IV</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I, II e IV III I, II, III e IV</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I, II e III III e IV I, II, III e IV</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II, III e IV II e III I e III</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="58">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Numa espécie de planta, a cor das flores é determinada por um par de alelos. Plantas de flores vermelhas cruzadas com plantas de flores brancas produzem plantas de flores cor-de-rosa. Do cruzamento entre plantas de flores cor-de-rosa, resultam plantas com flores</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>das três cores, em igual proporção.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>das três cores, prevalecendo as cor-de-rosa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>das três cores, prevalecendo as vermelhas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>somente cor-de-rosa.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>somente vermelhas e brancas, em igual proporção.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O fígado humano é uma glândula que participa de processos de digestão e absorção de nutrientes, ao</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>produzir diversas enzimas hidrolíticas que atuam na digestão de carbo-hidratos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>produzir secreção rica em enzimas que digerem as gorduras.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>produzir a insulina e o glucagon, reguladores dos níveis de glicose no sangue.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>produzir secreção rica em sais que facilita a digestão e a absorção de gorduras.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>absorver excretas nitrogenadas do sangue e transformá-las em nutrientes proteicos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="60">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A cana-de-açúcar é importante matéria-prima para a produção de etanol. A energia contida na molécula de etanol e liberada na sua combustão foi</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>captada da luz solar pela cana-de-açúcar, armazenada na molécula de glicose produzida por fungos no processo de fermentação e, posteriormente, transferida para a molécula de etanol.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>obtida por meio do processo de fermentação realizado pela cana-de-açúcar e, posteriormente, incorporada à molécula de etanol na cadeia respiratória de fungos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>captada da luz solar pela cana-de-açúcar, por meio do processo de fotossíntese, e armazenada na molécula de clorofila, que foi fermentada por fungos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>obtida na forma de ATP no processo de respiração celular da cana-de-açúcar e armazenada na molécula de glicose, que foi, posteriormente, fermentada por fungos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>captada da luz solar por meio do processo de fotossíntese realizado pela cana-de-açúcar e armazenada na molécula de glicose, que foi, posteriormente, fermentada por fungos. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os elementos químicos se relacionam de diferentes maneiras com os organismos vivos. Alguns elementos são parte da estrutura das moléculas que constituem os organismos vivos. Outros formam íons essenciais à manutenção da vida. Outros, ainda, podem representar riscos para os seres vivos: alguns, por serem tóxicos; outros, por serem radioativos. Observe o esquema da Tabela Periódica, no qual estão destacados quatro elementos químicos, identificados pelas letras w, x, y e z.</p>
+        <p>Considerando suas posições na Tabela Periódica, assinale a alternativa que melhor associa esses quatro elementos químicos com as propriedades discutidas acima.</p>
+        <p>Elemento w Elemento x Elemento y Elemento z</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>elemento radioativo íon essencial metal tóxico elemento estrutural</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>metal tóxico íon essencial elemento estrutural elemento radioativo</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>elemento radioativo elemento estrutural íon essencial metal tóxico</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>elemento estrutural elemento radioativo íon essencial metal tóxico</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>elemento radioativo metal tóxico elemento estrutural íon essencial</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="62">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na produção de combustível nuclear, o trióxido de urânio é transformado no hexafluoreto de urânio, como representado pelas equações químicas:</p>
+        <p>Sobre tais transformações, pode-se afirmar, corretamente, que ocorre oxirredução apenas em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="63">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As figuras a seguir representam, de maneira simplificada, as soluções aquosas de três ácidos, HA, HB e HC, de mesmas concentrações. As moléculas de água não estão representadas.</p>
+        <p>Considerando essas representações, foram feitas as seguintes afirmações sobre os ácidos:</p>
+        <p>I. HB é um ácido mais forte do que HA e HC. II. Uma solução aquosa de HA deve apresentar maior condutibilidade elétrica do que uma solução aquosa de mesma concentração de HC. III. Uma solução aquosa de HC deve apresentar pH maior do que uma solução aquosa de mesma concentração de HB.</p>
+        <p>Está correto o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I, apenas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e II, apenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II e III, apenas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e III, apenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I, II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="64">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma estudante de química realizou quatro experimentos, que consistiram em misturar soluções aquosas de sais inorgânicos e observar os resultados. As observações foram anotadas em uma tabela:</p>
+        <p>Experimento Solutos contidos inicialmente nas soluções que foram misturadas Observações 1 Ba(CO3)2 Mg(IO3)2 formação de precipitado branco 2 Mg(IO3)2 Pb(CO3)2 formação de precipitado branco 3 MgCrO4 Pb(CO3)2 formação de precipitado amarelo 4 MgCrO4 Ca(CO3)2 nenhuma transformação observada</p>
+        <p>A partir desses experimentos, conclui-se que são pouco solúveis em água somente os compostos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Ba(IO3)2 e Mg(CO3)2 .</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>PbCrO4 e Mg(CO3)2 .</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Pb(IO3)2 e CaCrO4 .</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Ba(IO3)2, Pb(IO3)2 e PbCrO4 .</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Pb(IO3)2, PbCrO4 e CaCrO4 . V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="65">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um estudante desejava estudar, experimentalmente, o efeito da temperatura sobre a velocidade de uma transformação química. Essa transformação pode ser representada por:</p>
+        <p>Após uma série de quatro experimentos, o estudante representou os dados obtidos em uma tabela:</p>
+        <p>Número do experimento 1 2 3 4 temperatura ( oC) 15 20 30 10 massa de catalisador (mg) 1 2 3 4 concentração inicial de A (mol/L) 0,1 0,1 0,1 0,1 concentração inicial de B (mol/L) 0,2 0,2 0,2 0,2 tempo decorrido até que a transformação se completasse (em segundos) 47 15 4 18</p>
+        <p>Que modificação deveria ser feita no procedimento para obter resultados experimentais mais adequados ao objetivo proposto?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Manter as amostras à mesma temperatura em todos os experimentos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Manter iguais os tempos necessários para completar as transformações.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Usar a mesma massa de catalisador em todos os experimentos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Aumentar a concentração dos reagentes A e B.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Diminuir a concentração do reagente B.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="66">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sob condições adequadas, selênio (Se) e estanho (Sn) podem reagir, como representado pela equação</p>
+        <p>Em um experimento, deseja-se que haja reação completa, isto é, que os dois reagentes sejam totalmente consumidos. Sabendo-se que a massa molar do selênio (Se) é 2/3 da massa molar do estanho (Sn), a razão entre a massa de selênio e a massa de estanho (mSe : mSn), na reação, deve ser de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2 : 1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 : 2</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>4 : 3</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 : 3</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1 : 2</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="67">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um experimento, alunos associaram os odores de alguns ésteres a aromas característicos de alimentos, como, por exemplo:</p>
+        <p>Analisando a fórmula estrutural dos ésteres apresentados, pode-se dizer que, dentre eles, os que têm cheiro de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>maçã e abacaxi são isômeros.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>banana e pepino são preparados com álcoois secundários.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pepino e maçã são heptanoatos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pepino e pera são ésteres do mesmo ácido carboxílico.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>pera e banana possuem, cada qual, um carbono assimétrico.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="68">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Do ponto de vista da “Química Verde”, as melhores transformações são aquelas em que não são gerados subprodutos. Mas, se forem gerados, os subprodutos não deverão ser agressivos ao ambiente. Considere as seguintes transformações, representadas por equações químicas, em que, quando houver subprodutos, eles não estão indicados.</p>
+        <p>A ordem dessas transformações, da pior para a melhor, de acordo com a “Química Verde”, é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I, II, III.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I, III, II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II, I, III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II, III, I.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>III, I, II. V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="69">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O “besouro bombardeiro” espanta seus predadores, expelindo uma solução quente. Quando ameaçado, em seu organismo ocorre a mistura de soluções aquosas de hidroquinona, peróxido de hidrogênio e enzimas, que promovem uma reação exotérmica, representada por:</p>
+        <p>O calor envolvido nessa transformação pode ser calculado, considerando-se os processos:</p>
+        <p>Assim sendo, o calor envolvido na reação que ocorre no organismo do besouro é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>-558 kJ.mol-1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>-204 kJ.mol-1</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>+177 kJ.mol-1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>+558 kJ.mol-1</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>+585 kJ.mol-1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="70">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um botânico observou que uma mesma espécie de planta podia gerar flores azuis ou rosadas. Decidiu então estudar se a natureza do solo poderia influenciar a cor das flores. Para isso, fez alguns experimentos e anotou as seguintes observações:</p>
+        <p>I. Transplantada para um solo cujo pH era 5,6 , uma planta com flores rosadas passou a gerar flores azuis. II. Ao adicionar um pouco de nitrato de sódio ao solo, em que estava a planta com flores azuis, a cor das flores permaneceu a mesma. III. Ao adicionar calcário moído (CaCO3) ao solo, em que estava a planta com flores azuis, ela passou a gerar flores rosadas.</p>
+        <p>Considerando essas observações, o botânico pôde concluir que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>em um solo mais ácido do que aquele de pH 5,6 , as flores da planta seriam azuis.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a adição de solução diluída de NaC ao solo, de pH 5,6 , faria a planta gerar flores rosadas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a adição de solução diluída de NaHCO3 ao solo, em que está a planta com flores rosadas, faria com que ela gerasse flores azuis.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>em um solo de pH 5,0 , a planta com flores azuis geraria flores rosadas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a adição de solução diluída de A(NO3)3 ao solo, em que está uma planta com flores azuis, faria com que ela gerasse flores rosadas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="71">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um automóvel, modelo flex, consome litros de gasolina para percorrer . Quando se opta pelo uso do álcool, o automóvel consome litros deste combustível para percorrer . Suponha que um litro de gasolina custe . Qual deve ser o preço do litro do álcool para que o custo do quilômetro rodado por esse automóvel, usando somente gasolina ou somente álcool como combustível, seja o mesmo?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p></p>
+        </option>
+        <option label="B" is_correct="false">
+          <p></p>
+        </option>
+        <option label="C" is_correct="false">
+          <p></p>
+        </option>
+        <option label="D" is_correct="false">
+          <p></p>
+        </option>
+        <option label="E" is_correct="false">
+          <p></p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="72">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura, o triângulo é retângulo com catetos e Além disso, o ponto pertence ao cateto , o ponto pertence ao cateto e o ponto pertence à hipotenusa , de tal forma que seja um paralelogramo. Se , então a área do paralelogramo vale</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p></p>
+        </option>
+        <option label="B" is_correct="false">
+          <p></p>
+        </option>
+        <option label="C" is_correct="false">
+          <p></p>
+        </option>
+        <option label="D" is_correct="false">
+          <p></p>
+        </option>
+        <option label="E" is_correct="false">
+          <p></p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="73">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Tendo em vista as aproximações ! , ! , então o maior número inteiro ", satisfazendo # $ %&amp;, é igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p></p>
+        </option>
+        <option label="B" is_correct="false">
+          <p></p>
+        </option>
+        <option label="C" is_correct="false">
+          <p></p>
+        </option>
+        <option label="D" is_correct="false">
+          <p></p>
+        </option>
+        <option label="E" is_correct="false">
+          <p></p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="74">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os números a1, a2, a3 formam uma progressão aritmética de razão r, de tal modo que ' ( , ') * , '+ * estejam em progressão geométrica. Dado ainda que ' , e ') , conclui-se que r é igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>( -</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>( -</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>( -</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>* -</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>* - V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="75">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura, os pontos , , pertencem à circunferência de centro . e '. A reta . /00001 é perpendicular ao segmento e o ângulo .2 mede 3 radianos. Então, a área do triângulo vale</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>')</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>')</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>')</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>')</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>')</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="76">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura representa um quadrado de lado 1. O ponto está em mede - , o ponto está em e é bissetriz do ângulo 4. Nessas condições, o segmento mede</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>-</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>-</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>-</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>-</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>-</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="77">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A função 5 6 7 8 7 tem como gráfico uma parábola e satisfaz 59: ( ; * 59:; : * , para todo número real :. Então, o menor valor de 59:; ocorre quando : é igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p></p>
+        </option>
+        <option label="B" is_correct="false">
+          <p></p>
+        </option>
+        <option label="C" is_correct="false">
+          <p></p>
+        </option>
+        <option label="D" is_correct="false">
+          <p></p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>*</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="78">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No plano cartesiano .:&lt;, a reta de equação : ( &lt; é tangente à circunferência no ponto 9 ;. Além disso, o ponto 9 ; pertence a . Então, o raio de é igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>-</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>-</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>-</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>-</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>-</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="79">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Maria deve criar uma senha de 4 dígitos para sua conta bancária. Nessa senha, somente os algarismos , podem ser usados e um mesmo algarismo pode aparecer mais de uma vez. Contudo, supersticiosa, Maria não quer que sua senha contenha o número , isto é, o algarismo seguido imediatamente pelo algarismo . De quantas maneiras distintas Maria pode escolher sua senha?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p></p>
+        </option>
+        <option label="B" is_correct="false">
+          <p></p>
+        </option>
+        <option label="C" is_correct="false">
+          <p></p>
+        </option>
+        <option label="D" is_correct="false">
+          <p></p>
+        </option>
+        <option label="E" is_correct="false">
+          <p></p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="80">
+      <statement>
+        <p>Uma pirâmide tem como base um quadrado de lado 1, e cada uma de suas faces laterais é um triângulo equilátero. Então, a área do quadrado, que tem como vértices os baricentros de cada uma das faces laterais, é igual a</p>
+        <p>a)</p>
+        <p>b)</p>
+        <p>c) d)</p>
+        <p>e)</p>
+        <p>V</p>
+        <p>OBSERVAÇÃO: Nas questões em que for necessário, adote para g, aceleração da gravidade na superfície da Terra, o valor de 10 m/s2; para c, velocidade da luz no vácuo, o valor de 3108 m/s.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="81">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Astrônomos observaram que a nossa galáxia, a Via Láctea, está a 2,5106 anos-luz de Andrômeda, a galáxia mais próxima da nossa. Com base nessa informação, estudantes em uma sala de aula afirmaram o seguinte:</p>
+        <p>I. A distância entre a Via Láctea e Andrômeda é de 2,5 milhões de km. II. A distância entre a Via Láctea e Andrômeda é maior que 21019 km. III. A luz proveniente de Andrômeda leva 2,5 milhões de anos para chegar à Via Láctea.</p>
+        <p>Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e III.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="82">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na Cidade Universitária (USP), um jovem, em um carrinho de rolimã, desce a rua do Matão, cujo perfil está representado na figura abaixo, em um sistema de coordenadas em que o eixo Ox tem a direção horizontal. No instante t = 0, o carrinho passa em movimento pela posição y = y0 e x = 0.</p>
+        <p>Dentre os gráficos das figuras abaixo, os que melhor poderiam descrever a posição x e a velocidade v do carrinho em função do tempo t são, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e III.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II e IV.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>III e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>IV e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="83">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Numa filmagem, no exato instante em que um caminhão passa por uma marca no chão, um dublê se larga de um viaduto para cair dentro de sua caçamba. A velocidade v do caminhão é constante e o dublê inicia sua queda a partir do repouso, de uma altura de 5 m da caçamba, que tem 6 m de comprimento. A velocidade ideal do caminhão é aquela em que o dublê cai bem no centro da caçamba, mas a velocidade real v do caminhão poderá ser diferente e ele cairá mais à frente ou mais atrás do centro da caçamba. Para que o dublê caia dentro da caçamba, v pode diferir da velocidade ideal, em módulo, no máximo:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1 m/s.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 m/s.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>5 m/s.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>7 m/s.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>9 m/s.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="84">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um avião, com velocidade constante e horizontal, voando em meio a uma tempestade, repentinamente perde altitude, sendo tragado para baixo e permanecendo com aceleração constante vertical de módulo a &gt; g, em relação ao solo, durante um intervalo de tempo t. Podese afirmar que, durante esse período, uma bola de futebol que se encontrava solta sobre uma poltrona desocupada</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>permanecerá sobre a poltrona, sem alteração de sua posição inicial.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>flutuará no espaço interior do avião, sem aceleração em relação ao mesmo, durante o intervalo de tempo t.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>será acelerada para cima, em relação ao avião, sem poder se chocar com o teto, independentemente do intervalo de tempo t.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>será acelerada para cima, em relação ao avião, podendo se chocar com o teto, dependendo do intervalo de tempo t.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>será pressionada contra a poltrona durante o intervalo de tempo t.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="85">
+      <statement>
+        <p>A partícula neutra conhecida como méson K0 é instável e decai, emitindo duas partículas, com massas iguais, uma positiva e outra negativa, chamadas, respectivamente, méson + e méson . Em um experimento, foi observado o decaimento de um K0, em repouso, com emissão do par + e . Das figuras abaixo, qual poderia representar as direções e sentidos das velocidades das partículas + e no sistema de referência em que o K0 estava em repouso?</p>
+        <p>1 ano tem aproximadamente 310 7 s V</p>
+      </statement>
+    </essay_question>
+    <objective_question number="86">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Energia térmica, obtida a partir da conversão de energia solar, pode ser armazenada em grandes recipientes isolados, contendo sais fundidos em altas temperaturas. Para isso, pode-se utilizar o sal nitrato de sódio (NaNO3), aumentando sua temperatura de 300 oC para 550 oC, fazendo-se assim uma reserva para períodos sem insolação. Essa energia armazenada poderá ser recuperada, com a temperatura do sal retornando a 300 oC. Para armazenar a mesma quantidade de energia que seria obtida com a queima de 1 L de gasolina, necessita-se de uma massa de NaNO3 igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4,32 kg.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>120 kg.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>240 kg.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3104 kg.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3,6104 kg.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="87">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um estudo de sons emitidos por instrumentos musicais foi realizado, usando um microfone ligado a um computador. O gráfico abaixo, reproduzido da tela do monitor, registra o movimento do ar captado pelo microfone, em função do tempo, medido em milissegundos, quando se toca uma nota musical em um violino.</p>
+        <p>Nota dó ré mi fá sol lá si Frequência (Hz) 262 294 330 349 388 440 494</p>
+        <p>Consultando a tabela acima, pode-se concluir que o som produzido pelo violino era o da nota</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>dó.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>mi.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>sol.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>lá.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>si.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="88">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Aproxima-se um ímã de um anel metálico fixo em um suporte isolante, como mostra a figura. O movimento do ímã, em direção ao anel,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>não causa efeitos no anel.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>produz corrente alternada no anel.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>faz com que o polo sul do ímã vire polo norte e viceversa.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>produz corrente elétrica no anel, causando uma força de atração entre anel e ímã.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>produz corrente elétrica no anel, causando uma força de repulsão entre anel e ímã.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="89">
+      <statement>
+        <p>Uma determinada montagem óptica é composta por um anteparo, uma máscara com furo triangular e três lâmpadas, L1, L2 e L3, conforme a figura abaixo. L1 e L3 são pequenas lâmpadas de lanterna e L2, uma lâmpada com filamento extenso e linear, mas pequena nas outras dimensões. No esquema, apresenta-se a imagem projetada no anteparo com apenas L1 acesa.</p>
+        <p>O esboço que melhor representa o anteparo iluminado pelas três lâmpadas acesas é</p>
+      </statement>
+    </essay_question>
+    <objective_question number="90">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Medidas elétricas indicam que a superfície terrestre tem carga elétrica total negativa de, aproximadamente, 600.000 coulombs. Em tempestades, raios de cargas positivas, embora raros, podem atingir a superfície terrestre. A corrente elétrica desses raios pode atingir valores de até 300.000 A. Que fração da carga elétrica total da Terra poderia ser compensada por um raio de 300.000 A e com duração de 0,5 s?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1/2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1/3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1/4</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1/10</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1/20 Poder calorífico da gasolina = 3,610 7 J/L Calor específico do NaNO3 = 1,2 10 3 J/kg oC 1 ms =10 -3 s</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

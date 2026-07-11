@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2001" phase="discursive" day="0" variation="V1" date="2001-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O Sistema GPS (Global Positioning System) permite localizar um receptor especial, em qualquer lugar da Terra, por meio de sinais emitidos por satélites. Numa situação particular, dois satélites, A e B, estão alinhados sobre uma reta que tangencia a superfície da Terra no ponto O e encontram-se à mesma distância de O. O protótipo de um novo avião, com um receptor R, encontra-se em algum lugar dessa reta e seu piloto deseja localizar sua própria posição. Os intervalos de tempo entre a emissão dos sinais pelos satélites A e B e sua recepção por R são, respectivamente, ∆tA = 68,5 x 10−3 s e ∆tB = 64,8 x 10−3 s. Desprezando possíveis efeitos atmosféricos e considerando a velocidade de propagação dos sinais como igual à velocidade c da luz no vácuo, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A distância D, em km, entre cada satélite e o ponto O.</p>
+        </part>
+        <part>
+          <p>A distância X, em km, entre o receptor R, no avião, e o ponto O.</p>
+        </part>
+        <part>
+          <p>A posição do avião, identificada pela letra R, localizando-a no esquema da folha de resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um ciclista, em estrada plana, mantém velocidade constante V0 = 5,0 m/s (18 km/h). Ciclista e bicicleta têm massa total M = 90 kg. Em determinado momento, t = t0, o ciclista pára de pedalar e a velocidade V da bicicleta passa a diminuir com o tempo, conforme o gráfico ao lado.</p>
+        <p>Assim, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A aceleração A, em m/s2, da bicicleta, logo após o ciclista deixar de pedalar.</p>
+        </part>
+        <part>
+          <p>A força de resistência horizontal total FR, em newtons, sobre o ciclista e sua bicicleta, devida principalmente ao atrito dos pneus e à resistência do ar, quando a velocidade é V0.</p>
+        </part>
+        <part>
+          <p>A energia E, em kJ, que o ciclista “queimaria”, pedalando durante meia hora, à velocidade V0. Suponha que a eficiência do organismo do ciclista (definida como a razão entre o trabalho realizado para pedalar e a energia metabolizada por seu organismo) seja de 22,5%. Física – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um objeto A, de massa M = 4,0 kg, é largado da janela de um edifício, de uma altura H0 = 45 m. Procurando diminuir o impacto de A com o chão, um objeto B, de mesma massa, é lançado um pouco depois, a partir do chão, verticalmente, com velocidade inicial V0B. Os dois objetos colidem, a uma altura de 25 m, com velocidades tais que |VA| = |VB|. Com o impacto, grudam-se, ambos, um no outro, formando um só corpo AB, de massa 2M, que cai atingindo o chão.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine, a energia mecânica Q, em J, dissipada na colisão.</p>
+        </part>
+        <part>
+          <p>Determine a energia cinética Ec, em J, imediatamente antes de AB atingir o chão.</p>
+        </part>
+        <part>
+          <p>Construa, no sistema de coordenadas da folha de resposta, o gráfico dos módulos das velocidades em função do tempo para A, B e AB, considerando que V0B = 30 m/s. Identifique, respectivamente, com as letras A, B e AB, os gráficos correspondentes. (Se necessário, considere 5 ≈ 2,2)</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dispõe-se de uma lâmpada decorativa especial L, cuja curva característica, fornecida pelo manual do fabricante, é apresentada abaixo. Deseja-se ligar essa lâmpada, em série com uma resistência R = 2,0 Ω, a uma fonte de tensão V0, como no circuito abaixo. Por precaução, a potência dissipada na lâmpada deve ser igual à potência dissipada no resistor.</p>
+        <p>Para as condições acima,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Represente a curva característica I x V do resistor, na folha de resposta, na própria reprodução do gráfico fornecido pelo fabricante, identificando-a com a letra R.</p>
+        </part>
+        <part>
+          <p>Determine, utilizando o gráfico, a corrente I, em ampères, para que a potência dissipada na lâmpada e no resistor sejam iguais.</p>
+        </part>
+        <part>
+          <p>Determine a tensão V0, em volts, que a fonte deve fornecer.</p>
+        </part>
+        <part>
+          <p>Determine a potência P, em watts, que a lâmpada dissipará nessas condições. Física – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um ventilador de teto, com eixo vertical, é constituído por três pás iguais e rígidas, encaixadas em um rotor de raio R = 0,10 m, formando ângulos de 120° entre si. Cada pá tem massa M = 0,20 kg e comprimento L = 0,50 m. No centro de uma das pás foi fixado um prego P, com massa mp = 0,020 kg, que desequilibra o ventilador, principalmente quando este se movimenta. Suponha, então, o ventilador girando com uma velocidade de 60 rotações por minuto e determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A intensidade da força radial horizontal F, em newtons, exercida pelo prego sobre o rotor.</p>
+        </part>
+        <part>
+          <p>A massa M0, em kg, de um pequeno contrapeso que deve ser colocado em um ponto D0, sobre a borda do rotor, para que a resultante das forças horizontais, agindo sobre o rotor, seja nula.</p>
+        </part>
+        <part>
+          <p>A posição do ponto D0, localizando-a no esquema da folha de respostas. (Se necessário, utilize π ≈ 3)</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma pequena esfera de material sólido e transparente é utilizada para produzir, a partir de um pulso de luz laser, vários outros pulsos. A esfera, de raio r = 2,2 cm, é espelhada, exceto em uma pequena região (ponto A). Um pulso de luz, de pequena duração, emitido pelo laser, segue a trajetória R0, incidindo em A com ângulo de incidência de 70°. Nesse ponto, o pulso é, em parte, refletido, prosseguindo numa trajetória R1, e, em parte, refratado, prosseguindo numa trajetória R2 que penetra na esfera com um ângulo de 45° com a normal. Após reflexões sucessivas dentro da esfera, o pulso atinge a região A, sendo em parte, novamente refletido e refratado. E assim sucessivamente. Gera-se, então, uma série de pulsos de luz, com intensidades decrescentes, que saem da esfera por A, na mesma trajetória R1. Considere sen 70° = 0,94 ; sen 45° = 0,70. Nessas condições,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Represente, na figura da folha de respostas, toda a trajetória do pulso de luz dentro da esfera.</p>
+        </part>
+        <part>
+          <p>Determine, em m/s, o valor V da velocidade de propagação da luz no interior da esfera.</p>
+        </part>
+        <part>
+          <p>Determine, em segundos, a separação (temporal) ∆t, entre dois pulsos sucessivos na trajetória R1. O índice de refração de um material é igual à razão entre a velocidade da luz no vácuo e a velocidade da luz nesse material. Física – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um motor de combustão interna, semelhante a um motor de caminhão, aciona um gerador que fornece 25 kW de energia elétrica a uma fábrica. O sistema motor - gerador é resfriado por fluxo de água, permanentemente renovada, que é fornecida ao motor a 25°C e evaporada, a 100°C, para a atmosfera. Observe as características do motor na tabela. Supondo que o sistema só dissipe calor pela água que aquece e evapora, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A potência P, em kW, fornecida à água, de forma a manter a temperatura do sistema constante.</p>
+        </part>
+        <part>
+          <p>A vazão V de água, em kg/s, a ser fornecida ao sistema para manter sua temperatura constante.</p>
+        </part>
+        <part>
+          <p>A eficiência R do sistema, definida como a razão entre a potência elétrica produzida e a potência total obtida a partir do combustível.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um compartimento cilíndrico, isolado termicamente, é utilizado para o transporte entre um navio e uma estação submarina. Tem altura H0 = 2,0 m e área da base S0 = 3,0 m2. Dentro do compartimento, o ar está inicialmente à pressão atmosférica (Patm) e a 27°C, comportando-se como gás ideal. Por acidente, o suporte da base inferior do compartimento não foi travado e a base passa a funcionar como um pistão, subindo dentro do cilindro à medida que o compartimento desce lentamente dentro d’água, sem que ocorra troca de calor entre a água, o ar e as paredes do compartimento. Considere a densidade da água do mar igual à densidade da água. Despreze a massa da base. Quando a base inferior estiver a 40 m de profundidade, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A pressão P do ar, em Pa, dentro do compartimento</p>
+        </part>
+        <part>
+          <p>A altura H, em m, do compartimento, que permanece não inundado.</p>
+        </part>
+        <part>
+          <p>A temperatura T do ar, em °C, no compartimento. Consumo de combustível 15 litros/hora Energia liberada por um litro de combustível 36 x 106J Calor de vaporização da água 2,2 x 106 J/kg Calor específico da água 4000 J/(kg. °C) Curvas PxV para uma massa de ar que, à Patm e 27ºC, ocupa 1 m3: (A) isobárica, (B) isotérmica, (C) sem troca de calor, (D) volume constante. Patm = 105 Pa ; 1 Pa = 1 N/m2 Física – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas pequenas esferas, com cargas positivas e iguais a Q, encontram-se fixas sobre um plano, separadas por uma distância 2a. Sobre esse mesmo plano, no ponto P, a uma distância 2a de cada uma das esferas, é abandonada uma partícula com massa m e carga q negativa. Desconsidere o campo gravitacional e efeitos não eletrostáticos. Determine, em função de Q, K, q, m e a,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A diferença de potencial eletrostático V = VO – VP, entre os pontos O e P.</p>
+        </part>
+        <part>
+          <p>A velocidade v com que a partícula passa por O.</p>
+        </part>
+        <part>
+          <p>A distância máxima Dmax, que a partícula consegue afastar-se de P. Se essa distância for muito grande, escreva Dmax = infinito.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um próton de massa M ≅ 1,6 x 10−27 kg , com carga elétrica Q = 1,6 x10−19C, é lançado em A, com velocidade V0, em uma região onde atua um campo magnético uniforme B, na direção x. A velocidade V0, que forma um ângulo θ com o eixo x, tem componentes V0x = 4,0 x 106 m/s e V0y= 3,0 x 106 m/s. O próton descreve um movimento em forma de hélice, voltando a cruzar o eixo x, em P, com a mesma velocidade inicial, a uma distância L0 = 12 m do ponto A. Desconsiderando a ação do campo gravitacional e utilizando π ≈ 3, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O intervalo de tempo ∆t, em s, que o próton leva para ir de A a P.</p>
+        </part>
+        <part>
+          <p>O raio R, em m, do cilindro que contém a trajetória em hélice do próton.</p>
+        </part>
+        <part>
+          <p>A intensidade do campo magnético B, em tesla, que provoca esse movimento. A força F entre duas cargas Q1 e Q2 é dada por F=K Q1.Q2/r2 onde r é a distância entre as cargas. O potencial V criado por uma carga Q, em um ponto P, a uma distância r da carga , é dado por: V=K Q/r. Uma partícula com carga Q, que se move em um campo B, com velocidade V, fica sujeita a uma força de intensidade F = Q×Vn×B, normal ao plano formado por B e Vn, sendo Vn a componente da velocidade V normal a B. Física – FUVEST 2001 Figura utilizada para responder questão 01 Figura utilizada para responder questão 03 Física – FUVEST 2001 Figura utilizada para responder questão 04 Figura utilizada para responder questão 05 Física – FUVEST 2001 Figura utilizada para responder questão 06</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

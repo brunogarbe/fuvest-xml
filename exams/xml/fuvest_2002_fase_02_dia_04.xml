@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2002" phase="discursive" day="0" variation="V1" date="2002-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A cidade e o Estado não surgiram na Grécia antiga. Mas a Pólis, entre os séculos VIII e III a.C., foi uma criação especificamente grega.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique as instituições básicas da Pólis.</p>
+        </part>
+        <part>
+          <p>Comente sua especificidade e sua importância histórica.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A servidão e a relação feudo-vassálica constituem as duas instituições fundamentais do sistema feudal, tal como este se formou e desenvolveu na Idade Média Ocidental. Explique a origem e o funcionamento:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>da servidão</p>
+        </part>
+        <part>
+          <p>da vassalagem, ou da relação feudo-vassálica.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Andava o conde de Nassau tão ocupado em fabricar a sua nova cidade, que para estimular os moradores a fazerem casas, ele mesmo, com muita curiosidade, lhe andava fazendo as medidas, e endireitando as ruas para ficar a povoação mais vistosa.” Frei Manuel Calado. O valoroso Lucideno e triunfo da liberdade, 1648.</p>
+        <p>Com base no texto, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quem foi o conde de Nassau?</p>
+        </part>
+        <part>
+          <p>Qual o projeto apresentado no texto? Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nas primeiras décadas do século XIX, com as independências das Américas, parecia aos contemporâneos que o colonialismo terminara. Mas, nas últimas décadas do mesmo século, as potências européias estavam guerreando e negociando entre si a partilha da África e da Ásia. Explique os interesses econômicos e os argumentos político-ideológicos presentes</p>
+      </statement>
+      <parts>
+        <part>
+          <p>na superação do velho colonialismo.</p>
+        </part>
+        <part>
+          <p>na constituição do neocolonialismo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Odeio cordialmente as revoluções ... Nas reformas deve haver muita prudência ... Nada se deve fazer aos saltos, mas tudo por graus como manda a natureza... Nunca fui nem serei absolutista, mas nem por isso me alistarei jamais debaixo das esfarrapadas bandeiras da suja e caótica democracia”. José Bonifácio de Andrada e Silva, 1822.</p>
+        <p>Analise o texto, associando-o ao processo de independência do Brasil no que se refere</p>
+      </statement>
+      <parts>
+        <part>
+          <p>à forma assumida pela monarquia no Brasil.</p>
+        </part>
+        <part>
+          <p>à participação popular.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>Em 1872, a cidade de São Paulo possuía 31.385 habitantes. Em 1920, havia 579.033 pessoas na Capital.</p>
+        <p>Explique esse extraordinário crescimento no período.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Havia o professor responsável pela classe que algumas vezes aparecia de uniforme. Ele nos explicou o comunismo: ‘Comunismo é quando passamos por um açougue onde está pendurada uma lingüiça. Quebramos então a vitrine e levamos a lingüiça. Isso é comunismo.” [...] Heiner Müller. Guerra sem batalha.</p>
+        <p>Com base no relato do autor, membro da Juventude Hitlerista, explique</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a concepção de comunismo do professor.</p>
+        </part>
+        <part>
+          <p>como o regime nazista combatia esse inimigo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“As comunidades negras do vale do Ribeira não têm título das terras que ocupam, mas estão reivindicando o direito coletivo de possuí-las, com base na Constituição de 1988 (...).” Liana John. Jornal da Tarde, 28/12/1993.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique a origem das comunidades negras a que se refere o artigo do jornal.</p>
+        </part>
+        <part>
+          <p>Qual a relação entre o problema colocado pelo texto e o fato de a Constituição de 1988 ser chamada de “constituição-cidadã”?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>Jornal O Estado de S. Paulo, 14/08/2001.</p>
+        <p>No primeiro plano desta fotografia, Fernando Henrique Cardoso e Fidel Castro juntam as mãos com Hugo Chávez. Na década de 1970, esta foto seria impossível, já que os governos do Brasil e de Cuba não mantinham relações diplomáticas. Aponte duas razões – uma nacional e outra internacional – para essa impossibilidade.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Se é, como se diz comumente, pelo estudo do passado que se pode compreender o presente, utilize seu conhecimento de História para comentar criticamente</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a manchete de capa da revista Época/Globo, em outubro de 2001: “A Globalização do Medo. Viver ficou perigoso”</p>
+        </part>
+        <part>
+          <p>o ataque terrorista ao Pentágono e ao W.T.C., em 11 de setembro do mesmo ano.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

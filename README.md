@@ -1,2 +1,31 @@
-# fuvest_xml
-This project provides a robust pipeline for converting Fuvest entrance exam materials into a clean, structured XML format. By transforming the original exams into a standardized schema, the repository enables seamless integration with a variety of tools—such as automated analyzers, question banks, learning platforms, and search interfaces.
+# fuvest-xml
+
+Tools for validating, converting, formatting, and indexing entrance-exam XML.
+The command-line interfaces are built with [Typer](https://typer.tiangolo.com/).
+
+## Setup
+
+Install Python and all project dependencies into the managed environment:
+
+```console
+uv sync
+```
+
+## Command-line tools
+
+Run a tool with `uv run <command> --help`:
+
+- `fuvest-xml` / `fuvest-xml-convert`: convert XML to LaTeX or HTML.
+- `fuvest-xml-convert-legacy`: run the older converter.
+- `fuvest-xml-validate`: validate one file or a collection against the XSD.
+- `fuvest-xml-format`: pretty-print an XML file in place.
+- `fuvest-xml-db`: build and query the exam SQLite database.
+- `fuvest-xml-gui`: launch the PyQt desktop interface.
+- `fuvest-xml-read-pdfs`: extract XML from PDFs in an input directory, skipping XML files that already exist.
+
+For example:
+
+```console
+uv run fuvest-xml-validate --help
+uv run fuvest-xml exams/fuvest_2026_fase_01.xml --html
+```

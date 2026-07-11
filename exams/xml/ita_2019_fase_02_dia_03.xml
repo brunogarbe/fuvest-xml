@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2019" phase="discursive" day="0" variation="V1" date="2019-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Considere reações de combustão do etanol. a) Escreva a equação química balanceada para a reação com oxigênio puro. b) Escreva a equação química balanceada para a reação com ar atmosférico. c) Escreva a equação química balanceada para a reação com 50% da quantidade estequiométrica de ar atmosférico. d) Classifique as reações dos itens a), b) e c) em ordem crescente de variação de entalpia reacional.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma determinada quantidade de um composto A foi misturada a uma quantidade molar três vezes maior de um composto B, ou seja, A + 3B. Essa mistura foi submetida a dois experimentos de combustão (I e II) separadamente, observando-se: I. A combustão dessa mistura A + 3B liberou 550 kJ de energia. II. A combustão dessa mistura A + 3B, adicionada de um composto C em quantidade correspondente a 25% em mol do total da nova mistura, liberou 814 kJ de energia. Considerando que os compostos A, B e C não reagem entre si, determine os valores numéricos</p>
+      </statement>
+      <parts>
+        <part>
+          <p>da quantidade, em mol, de A, B e C.</p>
+        </part>
+        <part>
+          <p>do calor de combustão, em kJ mol−1, do composto C, ∆Hc(C). Dados: ∆Hc(A) = −700 kJ mol−1; ∆Hc(B) = −500 kJ mol−1.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Considere uma porção de uma solução aquosa de um eletrólito genérico AB, em formato de um cilindro de 2 cm de diâmetro e 314 cm de comprimento, cuja concentração seja de 1,0 x 10−2 mol L−1. Sabendo que a resistência elétrica dessa porção é de 1,0 x 104 ohm, calcule a sua condutividade molar em S cm2 mol−1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Uma solução aquosa de água oxigenada a 3% (v/v) foi adicionada a soluções aquosas ácidas em dois experimentos diferentes. Foram observados: I. No primeiro experimento: a adição a uma solução aquosa ácida de permanganato de potássio resultou na perda da coloração da solução, tornando-a incolor. II. No segundo experimento: a adição a uma solução aquosa ácida de iodeto de potássio inicialmente incolor resultou em uma solução de coloração castanha. Com base nas observações experimentais, escreva as reações químicas balanceadas para cada experimento e indique os agentes oxidantes e redutores em cada caso, quando houver.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Classifique cada uma das substâncias abaixo como óxidos ácido, básico ou anfótero.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>SeO2</p>
+        </part>
+        <part>
+          <p>N2O3</p>
+        </part>
+        <part>
+          <p>K2O</p>
+        </part>
+        <part>
+          <p>BeO</p>
+        </part>
+        <part>
+          <p>BaO 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere a seguinte reação genérica, nas condições padrão e a 25 °C: + − + + +  3 2 2 2A 2B 2A B Determine a constante de equilíbrio dessa reação a 25 °C, sabendo que os valores dos potenciais de eletrodo padrão de semicélula das espécies envolvidas são iguais a + 0,15 V e − 0,15 V.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Uma solução comercial de HCl é vendida com 37% (em massa) de HCl em água. A densidade dessa solução de HCl é de 1,15 g cm−3. a) Considerando que o HCl se dissocia completamente, determine o pH dessa solução comercial. b) O valor do pH determinado no item a) possui significado físico? Justifique.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere as variações de entalpia de processo abaixo tabeladas. Processo ∆H (kJ mol−1) Ionização do Na0 495,8 Energia de ligação Cl-Cl 242,6 Entalpia de vaporização do Na0 97,4 Afinidade eletrônica do Cl −349 Entalpia de rede do NaCl −787</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Esboce o diagrama de Born-Haber para a formação do NaCl(s) a partir de Na0(s) e Cl2(g) e calcule a variação de entalpia de formação do NaCl(s).</p>
+        </part>
+        <part>
+          <p>Sabe-se que o valor absoluto (em módulo) da entalpia de rede do CaO(s) é maior do que a do NaCl(s). Explique por quê.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>. A figura ao lado mostra a estrutura básica de um triacilglicerídeo, em que R, R’ e R’’ representam cadeias carbônicas, saturadas ou insaturadas, com pelo menos oito átomos de carbono. Sabe-se que o triacilglicerídeo pode reagir tanto por transesterificação (reação A) quanto por hidrólise básica (reação B). Em ambos os casos, um produto comum dessas reações pode ser usado na produção de nitroglicerina (reação C). Com base nessas informações, escreva as equações que descrevem as reações A, B e C.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere a reação genérica 2A(g)  B(g). No instante inicial, apenas o reagente A está presente. Sabendo que a reação direta é exotérmica, construa os gráficos de concentração de cada substância em função do tempo de reação para as seguintes condições:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>desde o instante inicial até o equilíbrio, na presença e na ausência de catalisador.</p>
+        </part>
+        <part>
+          <p>a partir do equilíbrio inicial, com um rápido aumento da temperatura, até um novo equilíbrio.</p>
+        </part>
+        <part>
+          <p>a partir do equilíbrio inicial, com um rápido aumento da pressão, até um novo equilíbrio.</p>
+        </part>
+        <part>
+          <p>a partir do equilíbrio inicial, com a remoção rápida de 50% do produto B, até um novo equilíbrio. HC O C O R' H2C O C O R H2C O C O R''</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

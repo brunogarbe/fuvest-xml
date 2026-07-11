@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2017" phase="objective" day="0" variation="V1" date="2017-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Sejam X e Y dois conjuntos nitos com X ⊂Y e X̸ = Y . Considere as seguintes armações: I. Existe uma bijeção f : X →Y . II. Existe uma função injetora g : Y →X. III. O número de funções injetoras f : X →Y é igual ao número de funções sobrejetoras g : Y →X. É (são) verdadeira(s) A ( ) nenhuma delas. D ( ) apenas I e II. B ( ) apenas I. E ( ) todas. C ( ) apenas III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. O número de soluções da equação (1 + secθ)(1 + cossecθ) = 0, com θ ∈[−π, π], é A ( ) 0. B ( ) 1. C ( ) 2. D ( ) 3. E ( ) 4.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Sejam a, b, c, d ∈R. Suponha que a, b, c, d formem, nesta ordem, uma progressão geométrica e que a, b/2, c/4, d−140 formem, nesta ordem, uma progressão aritmética. Então, o valor de d −b é A ( ) −140. B ( ) −120. C ( ) 0. D ( ) 120. E ( ) 140.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. O maior valor de tg x, com x = 1 2arcsen(3 5) e x ∈ 0, π 2 , é A ( ) 1/4. D ( ) 2. B ( ) 1/3. E ( ) 3. C ( ) 1/2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Considere a reta r: y = 2x. Seja A = (3, 3) o vértice de um quadrado ABCD, cuja diagonal BD está contida em r. A área deste quadrado é A ( ) 9 5. B ( ) 12 5 . C ( ) 18 5 . D ( ) 21 5 . E ( ) 24 5 . 1</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere o sistema de equações S                1 x + 27 y2 + 8 z3 = 3 4 x + 81 y2 + 40 z3 = 10 2 x + 54 y2 + 24 z3 = 7 . Se (x, y, z) é uma solução real de S, então |x| + |y| + |z| é igual a A ( ) 0. B ( ) 3. C ( ) 6. D ( ) 9. E ( ) 12.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. O número de soluções inteiras da inequação 0 ≤x2 −|3x2 + 8x| ≤2 é A ( ) 1. B ( ) 2. C ( ) 3. D ( ) 4. E ( ) 5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Sejam A = {1, 2, 3, 4, 5} e B = {−1, −2, −3, −4, −5}. Se C = {xy : x ∈A e y ∈B}, então o número de elementos de C é A ( ) 10. B ( ) 11. C ( ) 12. D ( ) 13. E ( ) 14.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Sejam S1 = {(x, y) ∈R2 : y ≥||x| −1|} e S2 = {(x, y) ∈R2 : x2 + (y + 1)2 ≤25}. A área da região S1 ∩S2 é A ( ) 25 4 π −2. B ( ) 25 4 π −1. C ( ) 25 4 π. D ( ) 75 4 π −1. E ( ) 75 4 π −2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Sejam a, b, c, d números reais positivos e diferentes de 1. Das armações: I. a(logc b) = b(logc a). II. a b logd c b c logd a c a logd b = 1. III. logab(bc) = loga c é (são) verdadeira(s) A ( ) apenas I. D ( ) apenas II e III. B ( ) apenas II. E ( ) todas. C ( ) apenas I e II. 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Sejam D =   1 0 0 0 2 0 0 0 3  e P =   7 0 2 0 1 0 2 0 5  . Considere A = P −1DP. O valor de det(A2 + A) é A ( ) 144. B ( ) 180. C ( ) 240. D ( ) 324. E ( ) 360.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Considere dois círculos no primeiro quadrante: • C1 com centro (x1, y1), raio r1 e área π 16. • C2 com centro (x2, y2), raio r2 e área 144π. Sabendo que (x1, y1, r1) e (x2, y2, r2) são duas progressões geométricas com somas dos termos iguais a 7 4 e 21, respectivamente, então a distância entre os centros de C1 e C2 é igual a A ( ) √ 123 2 . B ( ) √ 129 2 . C ( ) √ 131 2 . D ( ) √ 135 2 . E ( ) √ 137 2 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Das armações: I. Todo número inteiro positivo pode ser escrito, de maneira única, na forma 2k−1(2m −1), em que k e m são inteiros positivos. II. Existe um número x ∈[0, π/2] de tal modo que os números a1 = sen x, a2 = sen (x + π/4), a3 = sen (x + π/2) e a4 = sen (x + 3π/4) estejam, nesta ordem, em progressão geométrica. III. Existe um número inteiro primo p tal que √p é um número racional. é (são) verdadeira(s) A ( ) apenas I. D ( ) apenas I e II. B ( ) apenas II. E ( ) todas. C ( ) apenas III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Com os elementos 1, 2, . . . , 10 são formadas todas as sequências (a1, a2, . . . , a7). Escolhendo-se aleatoriamente uma dessas sequências, a probabilidade de a sequência escolhida não conter elementos repetidos é A ( ) 7! 107 · 3!. B ( ) 10! 107 · 3!. C ( ) 3! 107 · 7!. D ( ) 10! 103 · 7!. E ( ) 10! 107.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Considere a equação (a −bi)501 = 2(a + bi) (a2 + b2)250 + 1. O número de pares ordenados (a, b) ∈R2 que satisfazem a equação é A ( ) 500. B ( ) 501. C ( ) 502. D ( ) 503. E ( ) 504. 3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Seja ABC um triângulo cujos lados AB, AC e BC medem 6 cm, 8 cm e 10 cm, respectivamente. Considere os pontos M e N sobre o lado BC tais que AM é a altura relativa a BC e N é o ponto médio de BC. A área do triângulo AMN, em cm2, é A ( ) 3, 36. B ( ) 3, 60. C ( ) 4, 20. D ( ) 4, 48. E ( ) 6, 72.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Seis circunferências de raio 5 cm são tangentes entre si duas a duas e seus centros são vértices de um hexágono regular, conforme a gura abaixo. O comprimento de uma correia tensionada que envolve externamente as seis circunferências mede, em cm, A ( ) 18 + 3π. B ( ) 30 + 10π. C ( ) 18 + 6π. D ( ) 60 + 10π. E ( ) 36 + 6π.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. O lugar geométrico dos pontos (a, b) ∈R2 tais que a equação, em z ∈C, z2 + z + 2 −(a + ib) = 0 possua uma raiz puramente imaginária é A ( ) uma circunferência. B ( ) uma parábola. C ( ) uma hipérbole. D ( ) uma reta. E ( ) duas retas paralelas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Um atirador dispõe de três alvos para acertar. O primeiro deste encontra-se a 30m de distância; o segundo, a 40m; o terceiro alvo, a 60m. Sabendo que a probabilidade de o atirador acertar o alvo é inversamente proporcional ao quadrado da distância e que a probabilidade de ele acertar o primeiro alvo é de 2/3, então a probabilidade de acertar ao menos um dos alvos é A ( ) 120 160. B ( ) 119 154. C ( ) 110 144. D ( ) 105 135. E ( ) 119 144.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Considere o triângulo ABC, em que os segmentos AC, CB e AB medem, respectivamente, 10 cm, 15 cm e 20 cm. Seja D um ponto do segmento AB de tal modo que CD é bissetriz do ângulo A ˆCB e seja E um ponto do prolongamento de CD, na direção de D, tal que D ˆBE = D ˆCB. A medida, em cm, de CE é A ( ) 11 √ 6 3 . B ( ) 13 √ 6 3 . C ( ) 17 √ 6 3 . D ( ) 20 √ 6 3 . E ( ) 25 √ 6 3 . 4 AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Considere as retas de equações r : y = √ 2x + a e s : y = bx + c, em que a, b, c são reais. Sabendo que r e s são perpendiculares entre si, com r passando por (0, 1) e s, por ( √ 2, 4), determine a área do triângulo formado pelas retas r, s e o eixo x.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Determine todos os valores reais de x que satisfazem a inequação 43x−1 &gt; 34x.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere o polinômio p(x) = x4 −(1 + 2 √ 3)x3 + (3 + 2 √ 3)x2 −(1 + 4 √ 3)x + 2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine os números reais a e b tais que p(x) = (x2 + ax + 1)(x2 + bx + 2).</p>
+        </part>
+        <part>
+          <p>Determine as raízes de p(x).</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Sejam A e B dois conjuntos com 3 e 5 elementos, respectivamente. Quantas funções sobrejetivas f : B →A existem?</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Sejam A = {1, 2, . . . , 29, 30} o conjunto dos números inteiros de 1 a 30 e (a1, a2, a3) uma progressão geométrica crescente com elementos de A e razão q &gt; 1.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine todas as progressões geométricas (a1, a2, a3) de razão q = 3 2.</p>
+        </part>
+        <part>
+          <p>Escreva q = m n , com m, n ∈Z e mdc(m, n) = 1. Determine o maior valor possível para n.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Esboce o gráco da função f : R →R dada por f(x) = 2−|x| −1 2 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Determine todos os valores reais de a para os quais o seguinte sistema linear é impossível:    x + ay + z = 2 −x −2y + 3z = −1 3x + az = 5 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Um triângulo retângulo com hipotenusa c = 2(1 + √ 6) está circunscrito a um círculo de raio unitário. Determine a área total da superfície do cone obtido ao girar o triângulo em torno do seu maior cateto.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Determine o conjunto das soluções reais da equação 3cossec2 x 2 −tg2x = 1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Considere o cubo ABCDEFGH de aresta 2 tal que: ABCD é o quadrado da base inferior; EFGH, o quadrado da base superior e AE, BF, CG e DH são as arestas verticais. Sejam L, M e N os pontos médios das arestas AB, CG e GH, respectivamente. Determine a área do triângulo LMN. 5</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

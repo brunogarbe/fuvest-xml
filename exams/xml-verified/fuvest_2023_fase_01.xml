@@ -1,0 +1,3072 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2023" phase="objective" day="1" variation="V" date="2022-12-04" lang="pt-br">
+	<question_group>
+		<objective_question number="01" success_rate="94.5">
+			<classification subject="Sociology:General:SocialStructure and Stratification" />
+			<statement>
+				<quote>
+					<p>A associação de sistemas múltiplos de subordinação tem sido descrita de vários modos: discriminação composta, cargas múltiplas ou como dupla ou tripla discriminação. A interseccionalidade é uma conceituação do problema que busca capturar as consequências estruturais e dinâmicas da interação entre dois ou mais eixos da subordinação. Ela trata especificamente da forma pela qual o racismo, o patriarcalismo, a opressão de classe e outros sistemas discriminatórios criam desigualdades básicas que estruturam as posições relativas de mulheres, raças, etnias, classes e outras.</p>
+				</quote>
+				<cite>CRENSHAW, Kimberlé W. <q>Documento para o Encontro de Especialistas em Aspectos da Discriminação Racial Relativos ao Gênero</q>. Estudos Feministas, ano 10, nº 1/2002.</cite>
+				<image src="fuvest/2023/fase01/q01.png" />
+				<cite>DIEESE (Departamento Intersindical de Estatísticas e Estudos Socioeconômicos), 2021. Adaptado.</cite>
+				<p>O texto da professora e jurista estadunidense Kimberlé Crenshaw define o conceito de interseccionalidade para o estudo das múltiplas discriminações[cite: 1276, 1277]. A partir dessa definição, é possível dizer que os dados do Dieese sobre o mercado de trabalho brasileiro em 2021 indicam que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a interseccionalidade de discriminações de gênero, de raça e de classe faz com que homens negros sejam o grupo social mais vulnerável.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>as discriminações de raça e gênero não se relacionam; assim, mulheres negras e homens negros sofrem as mesmas discriminações no mercado de trabalho.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a interseccionalidade de discriminações atinge de maneira igual mulheres brancas e negras pertencentes às classes trabalhadoras.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>a interseccionalidade de discriminações de gênero e raça explica o fato de as mulheres negras ocuparem as posições menos valorizadas e mais mal pagas no mercado de trabalho.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>as situações de gênero e de raça não têm impacto no mercado de trabalho. Trabalhadores e trabalhadoras são discriminados igualmente em virtude da desigualdade de classe social.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="02" success_rate="90.6">
+			<classification subject="Sociology:General:SocialStructure and Stratification" />
+			<statement>
+				<quote>
+					<p>O voto feminino no Brasil completou 90 anos. Desde que a professora Celina Guimarães se alistou para votar em Mossoró, em 1927, e Alzira Soriano, primeira mulher eleita para um cargo público no país, assumiu a Prefeitura de Lajes, em 1929, ambos municípios do Rio Grande do Norte, muita coisa mudou. Em que pesem os avanços legais, o cenário nacional segue desfavorável, e a participação das mulheres na política ainda é irrisória considerando-se o perfil demográfico brasileiro. Mulheres somam 52% dos votantes, mas representam apenas 15% dos parlamentares do Congresso. A maioria da população feminina é negra, ao contrário da parlamentar, que é majoritariamente não negra. Indígena, apenas uma. Verdade que o percentual de participação feminina na Câmara e no Senado cresceu na comparação com legislaturas anteriores. Ainda assim, é pouco. Na prática, a política no Brasil é feita por homens brancos. Dados da União Interparlamentar, que reúne países ligados à ONU, colocam o Brasil na posição 145º do ranking Mulheres nos Parlamentos Nacionais.</p>
+					<p>Numa nação onde em 2021 quatro mulheres foram vítimas de feminicídio por dia, e os casos de estupro voltaram a crescer, já passou da hora de usar a via democrática para tentar mudar esse cenário. É necessário que as mulheres assumam o protagonismo nesse pleito, reivindiquem cabeças de chapas majoritárias e exijam transparência na distribuição dos recursos do fundo partidário. Claro que não há garantias de transformação, mas pode ser uma bela oportunidade de ao menos dar uma sacolejada no jogo e incluir em pauta a discussão de alguns problemas reais do Brasil.</p>
+				</quote>
+				<cite>ROSA, Ana Cristina. <q>Com mulheres na cabeça</q>. Folha de S. Paulo. 27.02.2022. Adaptado.</cite>
+				<p>É correto afirmar que o cenário nacional ao qual se refere a autora do texto</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>dispôs equitativamente as legislaturas, ainda que sem afetar a participação das mulheres.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>sofreu um expressivo retrocesso quanto à participação das mulheres na política.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>alterou-se ao longo da história do Brasil, porém não consolidou significativamente a atuação das mulheres na política.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>adequou-se ao perfil demográfico brasileiro, embora sem alçar o país a boas posições nos rankings de mulheres na política.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>estruturou-se por meio de vias democráticas, visto que possibilitou a discussão de problemas relacionados a fundos partidários.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="03" success_rate="45.3">
+			<classification subject="History:Brazil:Old Republic" />
+			<statement>
+				<quote>
+					<p>O 'País' abriu quarta-feira em suas colunas o mais interessante dos plebiscitos para solução de um importante problema social: Como deve ser educada a mulher... Trata-se de saber se devemos ser educadas para, pelo casamento, sermos sustentadas pelo homem, ou para nos tornarmos hábeis e prover à nossa própria subsistência pelo nosso único trabalho. Se admitis a primeira hipótese, em que consiste a educação feminina para o casamento? Se preferis a segunda, quais são os gêneros de trabalho em que a mulher pode, sem decair, ganhar a vida em nossa terra? (...) Esta forma de educação requer toda uma ordem de conhecimento que não sejam apenas frívolos. (...) Os nossos costumes, por isso mesmo, são ingênuos e se apoiam em preconceitos e tradições, não admitem ainda a mulher que trabalha. (...) Assim mesmo as professoras já lograram subir um pouco na cotação social. As médicas vão impondo-se pouco a pouco....</p>
+				</quote>
+				<cite>Carmem Dolores. <q>A Semana</q>. Rio de Janeiro, 08/04/1906. In: VASCONCELLOS, Eliane (org.). Carmem Dolores. Crônicas, 1905-1910. Rio de Janeiro: Arquivo Público do Estado do Rio de Janeiro, 1998.</cite>
+				<p>De acordo com o excerto, assinale a alternativa mais adequada para expressar o processo de inserção das mulheres no mundo do trabalho no início do século XX.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>O patriarcalismo e o emprego do dote foram erradicados pelos protocolos jurídicos adotados no regime republicano, favorecendo o reconhecimento social do trabalho feminino.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>A educação feminina dissociava-se das convenções vigentes na sociedade e dos padrões morais preconizados pelo catolicismo.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>O reconhecimento social do trabalho feminino estava limitado à esfera pública, pois o espaço doméstico ainda permanecia marcado pela autoridade masculina.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>O processo de feminização do magistério na escola básica proporcionou o reconhecimento do trabalho das mulheres e a conquista de novos papéis sociais.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A ruptura do preconceito para com o trabalho feminino nas fábricas, comércio, serviço público e profissões liberais se deu efetivamente após a conquista dos direitos políticos pelas mulheres, em 1934.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="04" success_rate="55.9">
+			<classification subject="Literature:Brazil:Modernism" />
+			<statement>
+				<verse>
+					<title>FAMÍLIA</title>
+					<stanza>
+						<l>Três meninos e duas meninas,</l>
+						<l>sendo uma ainda de colo.</l>
+						<l>A cozinheira preta, a copeira mulata,</l>
+						<l>o papagaio, o gato, o cachorro,</l>
+						<l>as galinhas gordas no palmo de horta</l>
+						<l>e a mulher que trata de tudo.</l>
+						<l>A espreguiçadeira, a cama, a gangorra,</l>
+						<l>o cigarro, o trabalho, a reza,</l>
+						<l>a goiabada na sobremesa de domingo,</l>
+						<l>o palito nos dentes contentes,</l>
+						<l>o gramofone rouco toda noite</l>
+						<l>e a mulher que trata de tudo.</l>
+						<l>O agiota, o leiteiro, o turco,</l>
+						<l>o médico uma vez por mês,</l>
+						<l>o bilhete todas as semanas</l>
+						<l>branco! mas a esperança sempre verde.</l>
+						<l>A mulher que trata de tudo</l>
+						<l>e a felicidade.</l>
+					</stanza>
+				</verse>
+				<cite>Carlos Drummond de Andrade. Alguma poesia.</cite>
+				<p>No poema de Drummond,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a hierarquização dos substantivos que compõem a primeira estrofe tem a função de situar essa família na sociedade escravagista do século XIX.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>a repetição de um verbo de ação, em contraste com o caráter nominal dos versos, destaca a serventia da figura feminina na organização familiar.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a ausência de menção direta ao homem produz um retrato reativo à família patriarcal, por salientar o protagonismo social da mulher.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o modo como os elementos que compõem a terceira estrofe estão relacionados permite inferir a prosperidade econômica familiar.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o enquadramento da mulher no ambiente doméstico lança luz sobre um regime social que favorece a realização plena das potencialidades femininas.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<quote>
+				<p>Luc Boltanski e Ève Chiapello demonstram com clareza e sagacidade a capacidade antropofágica do capitalismo financeiro que "engole" a linguagem do protesto e da libertação para transformá-la e utilizá-la para legitimar a dominação social e política a partir do próprio mercado.</p>
+				<p>Na dimensão do mundo do trabalho, por exemplo, todo um novo vocabulário teve que ser inventado para escamotear as novas transformações e melhor oprimir o trabalhador. Com essa linguagem aparentemente libertadora, passa-se a impressão de que o ambiente de trabalho melhorou e o trabalhador se emancipou.</p>
+				<p>Assim houve um esforço dirigido para transformar o trabalhador em "colaborador", para eufemizar e esconder a consciência de sua superexploração; tenta-se também exaltar os supostos valores de liderança para possibilitar que, a partir de agora, o próprio funcionário, não mais o patrão, passe a controlar e vigiar o colega de trabalho. Ou, ainda, há a intenção de difundir a cultura do empreendedorismo, segundo a qual todo mundo pode ser empresário de si mesmo. E, o mais importante, se ele falhar nessa empreitada, a culpa é apenas dele. É necessário sempre culpar individualmente a vítima pelo fracasso socialmente construído.</p>
+			</quote>
+			<cite>SOUZA, Jessé. Como o racismo criou o Brasil. Rio de Janeiro: Estação Brasil, 2021.</cite>
+		</context>
+
+		<objective_question number="05" success_rate="84.3">
+			<classification subject="Sociology:General:SocialStructure and Stratification" />
+			<statement>
+				<p>De acordo com o texto, o uso de <q>colaborador</q> no lugar de <q>trabalhador</q>, no campo das relações de trabalho, indica</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>o apagamento da linguagem de reivindicação e a falsa ideia de um trabalhador fortalecido.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a valorização do trabalhador vigiado pelo Estado nas tradicionais relações empregatícias.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a difusão da cultura da meritocracia, que fortalece as relações do trabalhador com o Estado.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a consciência do patrão que rejeita a cultura do neoliberalismo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o impedimento de o trabalhador investir na prática do empreendedorismo.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="06" success_rate="45.6">
+			<classification subject="Portuguese:Grammar:Syntax" />
+			<statement>
+				<p>O uso dos verbos <q>passar</q> (2º parágrafo) e <q>tentar</q> (3º parágrafo) no texto, em sua forma pronominal, revela</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>adequação à forma analítica da voz passiva.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>construção com conjunção integrante.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>marcação da impessoalidade do discurso.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>informalidade correspondente ao gênero discursivo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>ênfase na reciprocidade da linguagem.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<image src="fuvest/2023/fase01/q07-08.png" />
+			<cite>Disponível em https://tirasarmandinho.tumblr.com/. Adaptado.</cite>
+		</context>
+
+		<objective_question number="07" success_rate="75.7">
+			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
+			<statement>
+				<p>Os verbos <q>detonar</q> e <q>avariar</q>, no texto, são exemplos de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>usos linguísticos próprios de gêneros da área jurídica.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>termos cujos sentidos se contradizem na composição da tira.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>vocábulos empregados informalmente.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>recursos linguísticos inadequados à situação de comunicação.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>escolhas vocabulares associadas ao contexto de cada personagem.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="08" success_rate="57.3">
+			<classification subject="Portuguese:Text Interpretation" />
+			<statement>
+				<p>Da leitura da tira, depreende-se que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>o filho leva o pai a uma reflexão inócua a respeito do patrimônio público.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o patrimônio público é restrito a equipamentos dispostos nas vias de uma cidade.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>as lixeiras e as placas de trânsito não fazem parte do patrimônio público.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>a destruição de hospitais, universidades, florestas e estatais é também crime de dano ao patrimônio público.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o pai e o filho discordam quanto aos efeitos da depreciação do patrimônio público.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="09" success_rate="42.8">
+			<classification subject="Geography:Physical:Geomorphology" />
+			<statement>
+				<image src="fuvest/2023/fase01/q09.png" />
+				<p>A partir da figura, pode-se afirmar que as áreas com as condições naturais mais favoráveis à ocupação humana são:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>Os topos mais aplainados dos morros ou a área de terraços fluviais, partes mais planas do relevo; no entanto, variações nas cheias dos rios podem atingir as áreas de terraços, e a ocupação dos topos pode comprometer as áreas de nascentes.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Entre os morros e a planície, áreas de maior declividade sujeitas a desabamentos; também deve evitar os terraços fluviais por possuírem sedimentos consolidados, propensos à erosão.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>O sopé das encostas dos morros ou a área da planície fluvial, partes planas do relevo sem risco de deslizamentos de terra; além disso, a captação das águas para abastecimento público pode ser aproveitada pela proximidade do canal fluvial.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>As áreas de planície com sedimentos inconsolidados resultantes das rochas cristalinas friáveis; além disso, o desmatamento e acúmulo de lixo nas inundações podem soterrar o curso fluvial retilíneo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Os morros com encostas mais inclinadas, suscetíveis a deslizamentos e assoreamentos; estes acabam por prejudicar a conservação das áreas de nascentes que estão a jusante dos setores mais elevados.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="10" success_rate="57.8">
+			<classification subject="Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)" />
+			<statement>
+				<quote>
+					<p>Em nossa época, entretanto, devemos conceber o Estado contemporâneo como uma comunidade humana que, dentro dos limites de determinado território (...) reivindica o monopólio do uso legítimo da violência física. É, com efeito, próprio de nossa época não reconhecer, em relação a qualquer outro grupo ou aos indivíduos, o direito de fazer uso da violência, a não ser nos casos em que o Estado o tolere: o Estado se transforma, portanto, na única fonte do 'direito' à violência.</p>
+				</quote>
+				<cite>WEBER, Max. Ciência e Política: duas vocações. São Paulo: Cultrix, 1970.</cite>
+				<quote>
+					<p>Com a entrada das milícias na disputa por territórios no Rio de Janeiro, elas passaram a se digladiar pelo domínio geográfico das comunidades cariocas e fluminenses (...). Embora as milícias também comandem a comunidade com tirania e sua autoridade se mantenha à base de ameaças, como fazem os traficantes, e aqueles que contestam seu poder possam perder a vida e sofrer torturas, ao contrário do tráfico, os milicianos se vendem como fiadores de mercadorias valiosíssimas: ordem, estabilidade e possibilidade de planejar o futuro, aliança política com o Estado e a polícia. (...) O lado impopular desse modelo é que a maior parte das receitas para bancar o negócio vem da extorsão dos habitantes.</p>
+				</quote>
+				<cite>PAES MANSO, Bruno. A república das milicias. São Paulo: Todavia, 2020.</cite>
+				<p>A partir da definição de Estado proposta por Max Weber e de acordo com a citação de Paes Manso, como é possível analisar a atuação das milícias no Rio de Janeiro?</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>As milícias, assim como o Estado, controlam a população e mantêm a ordem em determinado território com o uso ilegal da violência, da ameaça e da extorsão.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>As milícias contribuem para o exercício do monopólio do uso legítimo da violência pelo Estado, pois garantem a imposição da ordem e o controle do tráfico nos territórios que dominam.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>As milícias desafiam o monopólio do uso legítimo da violência física do Estado ao utilizar a violência ilegalmente para controlar determinados territórios.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>As milícias diferenciam-se dos traficantes ao atuar pacificamente em resposta à reivindicação popular por maior estabilidade e ordem nos territórios em que atuam.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>As milícias e os traficantes, assim como o Estado, possuem autonomia e legitimidade para usar a violência e controlar territórios.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="11" success_rate="72.2">
+			<classification subject="Chemistry:Organic:Reactions" />
+			<statement>
+				<p>Os cães podem ser treinados para identificar certas substâncias, dentre elas, a cocaína. Contudo, no treinamento, os cães não precisam ser expostos à cocaína para aprenderem a reconhecer o seu odor. O treinamento pode ser realizado com o benzoato de metila, um éster de odor pungente, produto volátil da degradação da cocaína.</p>
+				<image src="fuvest/2023/fase01/q11.png" />
+				<p>Considerando o exposto, qual das reações representadas poderia gerar o mesmo éster capaz de atrair um cão treinado para a identificação de cocaína?</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<image src="fuvest/2023/fase01/q11a.png" />
+				</option>
+				<option label="B" is_correct="false">
+					<image src="fuvest/2023/fase01/q11b.png" />
+				</option>
+				<option label="C" is_correct="false">
+					<image src="fuvest/2023/fase01/q11c.png" />
+				</option>
+				<option label="D" is_correct="false">
+					<image src="fuvest/2023/fase01/q11d.png" />
+				</option>
+				<option label="E" is_correct="false">
+					<image src="fuvest/2023/fase01/q11e.png" />
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="12" success_rate="54.4">
+			<classification subject="Chemistry:Physical" />
+			<statement>
+				<p>Em um estudo, pesquisadores mostraram que a energia de interação (E) de <c>SO3</c> com diversas espécies tem relação com a distância da ligação <m>S=O</m> (<m>D_{S=O}</m>), como representado na figura.</p>
+				<image src="fuvest/2023/fase01/q12_1.png" />
+				<p>A energia de interação de uma espécie com outra pode ser entendida como a energia necessária para desfazer a interação entre o $SO_{3}$ e os compostos estudados (X), como representado na figura ao lado.</p>
+				<image src="fuvest/2023/fase01/q12_2.png" />
+				<p>Considerando essas informações, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a interação mais forte ocorre entre <c>SO3</c> e <c>MeCN</c>.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>quanto mais forte a interação entre moléculas, mais longa é a ligação <m>S=O</m>.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a interação de <c>SO3</c> e <c>NH3</c> é a que faz com que a ligação <m>S=O</m> se alongue mais.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a ligação <m>S=O</m> se torna mais curta com o aumento da energia de interação entre moléculas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a energia de interação do <c>SO3</c> com uma molécula de <c>HCN</c> é do mesmo valor do que com uma molécula de <c>NH3</c>.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="13" success_rate="34.0">
+			<classification subject="Physics:Thermodynamics:Gases and Heat Transfer" />
+			<statement>
+				<p>Diversos processos na indústria de óleo e gás podem envolver misturas de gases a diferentes temperaturas. Um sistema isolado é composto por dois compartimentos de mesmo volume: o primeiro é ocupado por <m>n_{1}=1</m> mol e o segundo é ocupado por <m>n_{2}=2</m> mols de um gás ideal monoatômico. Inicialmente cada compartimento encontra-se em equilíbrio térmico, com temperatura <m>T_{1}=4T</m> e <m>T_{2}=T</m> respectivamente, conforme mostra a figura:</p>
+				<image src="fuvest/2023/fase01/q13.png" />
+				<p>A partir de certo instante, a parede que separa os compartimentos é removida e, após algum tempo, o sistema atinge uma nova temperatura de equilíbrio <m>T_{m}</m>. Supondo que não há trabalho realizado após a remoção da parede, nem troca de calor entre o sistema e o ambiente externo, a temperatura de equilíbrio <m>T_{m}</m> é dada por:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>T</m>
+					</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>
+						<m>3T/2</m>
+					</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>
+						<m>2T</m>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>5T/2</m>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<m>4T</m>
+					</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>A energia interna de um gás ideal monoatômico é dada por <m>U=3nRT/2</m>, sendo <m>n</m> o número de mols, <m>R</m> a constante universal dos gases ideais e <m>T</m> a temperatura absoluta.</p>
+			</assumptions>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="14" success_rate="26.3">
+			<classification subject="Chemistry:Inorganic:Acids and Bases" />
+			<statement>
+				<p>O odor característico de peixes deve-se à base metilamina (<c>CH3-NH2</c>). Esse odor pode ser minimizado lavando-se o peixe, por exemplo, com suco de limão. Assinale a alternativa que apresenta a estrutura de um dos produtos dessa reação ácido-base.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<image src="fuvest/2023/fase01/q14a.png" />
+				</option>
+				<option label="B" is_correct="false">
+					<image src="fuvest/2023/fase01/q14b.png" />
+				</option>
+				<option label="C" is_correct="true">
+					<image src="fuvest/2023/fase01/q14c.png" />
+				</option>
+				<option label="D" is_correct="false">
+					<image src="fuvest/2023/fase01/q14d.png" />
+				</option>
+				<option label="E" is_correct="false">
+					<image src="fuvest/2023/fase01/q14e.png" />
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="15" success_rate="82.0">
+			<classification subject="Biology:Evolution:Theories of Evolution" />
+			<statement>
+				<p>A figura representa três momentos sucessivos da população adulta de uma determinada espécie de peixe em uma região na qual há atividade pesqueira. O momento I representa a composição da população adulta antes da pesca. No momento II, observam-se os sobreviventes adultos logo após a pesca. O momento III representa os indivíduos adultos após alguns ciclos de reprodução.</p>
+				<image src="fuvest/2023/fase01/q15.png" />
+				<p>Baseado na figura, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>o impacto causado pela atividade de pesca alterou a produtividade primária do local, o que resultou em uma população de peixes menores ao longo do tempo.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a população não conseguiu recuperar sua abundância de indivíduos após a atividade de pesca, o que a levará ao colapso a médio e longo prazos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>os indivíduos maiores não conseguem se reproduzir depois da pesca devido ao estresse fisiológico causado por essa atividade.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>essa atividade de pesca é sustentável a longo prazo e não causa impacto à população de peixes daquele local.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>a pesca priorizou os peixes maiores, causando uma seleção artificial que resultou em uma população de peixes menores ao longo do tempo.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="16" success_rate="88.1">
+			<classification subject="Geography:Human:Economic and Agricultural" />
+			<statement>
+				<quote>
+					<p>O Equador alertou, em julho de 2020, sobre a presença de embarcações próximas às Ilhas Galápagos, principalmente com bandeira chinesa. As ilhas estão a 1.000 km do continente, e a área inclui uma reserva marinha de 133 mil km². Os navios pesqueiros se encontram em águas internacionais, mas sua proximidade do arquipélago, classificado como Patrimônio Natural da Humanidade, preocupa as autoridades equatorianas.</p>
+				</quote>
+				<cite>Disponível em https://www.dw.com/. Adaptado.</cite>
+				<p>O texto aborda a pesca em águas oceânicas internacionais, sobre a qual é correto afirmar:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>As Ilhas Galápagos e seu entorno apresentam pouca oferta de pescado por se situarem em região com águas superficiais frias.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>Há risco de poluição das águas pelos rejeitos produzidos pela frota pesqueira e risco de sobrepesca, que ameaça a reposição natural das espécies.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>As embarcações não adentram as áreas de preservação em função do rígido controle e, com isso, o risco de sobrepesca é baixo.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Por estar a milhares de quilômetros distante da China, principal mercado consumidor de pescado, a pesca ilegal não se sustenta economicamente.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>O volume de pescado retirado dos oceanos é elevado, garantindo a reposição natural e a manutenção dos estoques das espécies.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="17" success_rate="51.1">
+			<classification subject="Chemistry:General:Solutions" />
+			<statement>
+				<p>Poluentes orgânicos persistentes (POPs) são compostos que persistem no ambiente por longos períodos, ou seja, são pouco degradados naturalmente, magnificam-se ao longo da teia trófica e provocam efeitos adversos à saúde e ao meio ambiente. Entre eles estão alguns compostos orgânicos clorados utilizados como pesticidas e isolantes de chamas.</p>
+				<p>Uma das características dos POPs é que são pouco hidrossolúveis, com elevada tendência de interagir com lipídeos. Uma forma padronizada de se medir essa tendência é pelo cálculo do coeficiente de partição octanol-água ($K_{Ow}$). Esse coeficiente representa a razão entre a concentração de um composto na fase de n-octanol e sua concentração na fase aquosa (<m>K_{Ow}=C_{o}/C_{W}</m>) após a mistura e separação das fases.</p>
+				<p>Com base nessas informações, assinale a alternativa correta.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Por possuírem <m>K_{Ow}</m> muito baixo, os POPs não se solubilizam nem na água nem no octanol.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>O <m>K_{Ow}</m> não pode ser determinado para os POPs, pois octanol e água são completamente miscíveis.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Uma vez que os POPs se magnificam ao longo da teia trófica, sua concentração é maior em produtores primários.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Os compostos clorados são pouco solúveis em água, de forma que o <c>NaCl</c> pode ser considerado um POP.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>POPs possuem <m>K_{OW}</m> elevado, solubilizando-se mais facilmente na fase orgânica por serem substâncias lipossolúveis.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="18" success_rate="60.2">
+			<classification subject="Geography:Brazil:Environmental Issues" />
+			<statement>
+				<p>Observe a imagem de satélite a seguir:</p>
+				<image src="fuvest/2023/fase01/q18.png" />
+				<p>Parte dos topos do Chapadão Ocidental Baiano, divisor de águas das bacias hidrográficas dos rios Tocantins e São Francisco, é dominada por monocultura para exportação. Com base na imagem e em seus conhecimentos, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>tanto a bacia do rio Tocantins quanto a do São Francisco são ameaçadas por contaminação de agrotóxicos nas áreas do Chapadão, cujos divisores topográficos não impedem os fluxos subterrâneos das substâncias utilizadas nas monoculturas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a maior parte das áreas cultivadas localiza-se no estado do Tocantins, sendo erodidas pelos rios sem conexão com o topo do Chapadão Ocidental Baiano, o que dificulta a dispersão dos agrotóxicos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a bacia do rio São Francisco é ameaçada pelos agrotóxicos, pois os divisores de águas nas áreas do Chapadão tendem a fluir as substâncias nas drenagens somente para o estado da Bahia.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>tanto a bacia do rio Tocantins quanto do rio São Francisco se encontram distantes das áreas de topo do Chapadão Ocidental Baiano onde estão as monoculturas, dificultando a efluência dos agrotóxicos em ambos.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>a bacia do rio Tocantins é mais ameaçada do que a do São Francisco pela contaminação originada do uso de agrotóxicos, pois os divisores de águas convergem para o estado do Tocantins.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="19" success_rate="63.6">
+			<classification subject="Geography:Brazil:Human:Economic and Agricultural" />
+			<statement>
+				<image src="fuvest/2023/fase01/q19.png" />
+				<p>A partir do gráfico e de seus conhecimentos sobre a dinâmica do espaço agrário brasileiro, é correto afirmar que o uso de fertilizantes no Brasil ocorre, majoritariamente,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>em lavouras intensivas, em pequenas propriedades, com baixa produtividade e pouco emprego de tecnologia, direcionadas ao mercado internacional de commodities, principalmente no Centro-Sul do país.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>em lavouras extensivas, com elevado emprego de mão de obra, altíssima mecanização, com predomínio de adoção de práticas conservacionistas e baixo impacto ambiental, principalmente na região Norte do país.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>em lavouras destinadas ao abastecimento do mercado interno, intensamente mecanizadas, com predomínio de grandes propriedades e com baixo impacto ambiental, principalmente na região Nordeste do país.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>em lavouras mecanizadas, destinadas ao mercado internacional, com predomínio do emprego de mão de obra especializada, principalmente no Centro-Sul do país.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p />
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="20" success_rate="44.1">
+			<classification subject="Biology:Genetics:Biotechnology" />
+			<statement>
+				<quote>
+					<p>Para reduzir a dependência de fertilizantes importados para a agricultura, especialmente o nitrogênio, cientistas têm trabalhado no desenvolvimento de organismos geneticamente modificados que podem ser úteis no cultivo de plantações. Uma das propostas é transferir genes das bactérias fixadoras de nitrogênio para as organelas que mais se assemelham a esses microorganismos, viabilizando a fixação de nitrogênio diretamente do ar pelas plantas que não se associam a essas bactérias simbiontes.</p>
+				</quote>
+				<cite>Disponível em https://news.mit.edu/2020/. Adaptado.</cite>
+				<p>A modificação genética citada</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>criará uma nova espécie de planta resistente a herbicidas.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>será realizada nos plastos ou mitocôndrias das plantas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>permitirá que bactérias fixadoras de nitrogênio se tornem mais eficientes.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>fará com que as células bacterianas sejam incorporadas nos tecidos das plantas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>gerará riscos para o consumo humano pela possibilidade de ingestão de genes de bactérias.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="21" success_rate="42.4">
+			<classification subject="Math:Algebra:Functions" />
+			<statement>
+				<p>Em uma feira de produtos orgânicos é vendido arroz a granel. A gerente da feira decidiu oferecer descontos progressivos na venda de arroz, de acordo com os seguintes critérios:</p>
+				<list>
+					<item>
+						<p>Quem comprar exatamente 1~kg de arroz paga R$ 5,00.</p>
+					</item>
+					<item>
+						<p>Quanto maior for a quantidade que o cliente comprar, maior será o total a pagar.</p>
+					</item>
+					<item>
+						<p>Quanto maior for a quantidade que o cliente comprar, menor será o valor por quilo.</p>
+					</item>
+				</list>
+				<p>Cada uma das alternativas listadas apresenta uma possível fórmula para o total que o cliente irá pagar, em reais, se comprar uma quantidade <m>x</m>, em quilos, de arroz. A única alternativa que atende aos critérios estabelecidos é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>5x^{2}</m>
+					</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>
+						<m>5\sqrt{x}</m>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>
+						<m>\frac{5}{x}</m>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>5x</m>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<m>5x-x^{2}</m>
+					</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="22" success_rate="50.1">
+			<classification subject="Math:Algebra:Sequences and Series" />
+			<statement>
+				<p>Joana comprou um celular e dividiu o pagamento em 24 parcelas mensais que formam uma progressão aritmética crescente. As três primeiras parcelas foram de R$ 120,00, R$ 126,00 e R$ 132,00. Sabendo que, ao final, constatou-se que Joana não pagou a 19ª parcela, o valor pago por ela foi:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>R$ 3.954,00</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>R$ 4.026,00</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>R$ 4.200,00</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>R$ 4.308,00</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>R$ 4.382,00</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="23" success_rate="49.9">
+			<classification subject="Chemistry:Physical:Electrochemistry" />
+			<statement>
+				<p>Alguns aviões empregam fibra de carbono em uma porcentagem significativa de suas estruturas, tornando-as muito menos densas. Partes da estrutura, no entanto, são compostas por metais. Devido à baixa densidade, o alumínio seria uma boa alternativa de metal a ser usado. Entretanto, quando em contato com fibra de carbono, o alumínio é corroído. Esse processo é denominado corrosão galvânica e acontece quando dois materiais que possuem potencial elétrico diferentes são colocados em contato com um eletrólito, como uma solução salina. Para abordar esse problema, pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura a seguir.</p>
+				<image src="fuvest/2023/fase01/q23.png" />
+				<p>Considerando o exposto, o elemento mais adequado para ser utilizado no lugar do alumínio de forma a obter os menores custo e densidade possíveis, com a máxima resistência a corrosão possível, é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Ouro.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>Titânio.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Prata.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Cádmio.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Zinco.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="24" success_rate="35.2">
+			<classification subject="Math:Algebra:Linear Equations" />
+			<statement>
+				<p>André e Bianca possuem automóveis que podem ser abastecidos com etanol, gasolina ou uma mistura dos dois combustíveis. Em um mesmo posto de combustível, André abasteceu seu carro com 18 litros da bomba de etanol e 32 litros da bomba de gasolina; já Bianca abasteceu seu carro com 30 litros da bomba de etanol e 20 litros da bomba de gasolina. Sabendo que o valor total pago por André foi 10% maior do que o pago por Bianca, a razão entre os preços, por litro, de etanol e de gasolina é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>$5/8$</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>$2/3$</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>$7/10$</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>$3/4$</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>$4/5$</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="25" success_rate="40.0">
+			<classification subject="Chemistry:General:Stoichiometry" />
+			<statement>
+				<p>Combustíveis fósseis, como o diesel, contém em sua composição uma fração de enxofre. Durante o processo de combustão, o enxofre é convertido em <c>SO2</c> tornando-se um poluente ambiental. Em postos de combustível, normalmente são comercializados dois tipos de diesel, o Diesel S10 e o Diesel S500. O primeiro contém 10 ppm de enxofre, e o segundo, 500 ppm de enxofre.</p>
+				<p>Considere que na combustão do diesel, todo enxofre seja convertido em <c>SO2</c> conforme reação a seguir:</p>
+				<p>
+					<c>S(s)+O_{2}(g)\rightarrow SO_{2}(g)</c>
+				</p>
+				<p>Nesse caso, a diferença de massa de $SO_{2}$ emitido para a atmosfera por kg de diesel quando cada um dos dois tipos é queimado é de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>245~mg/kg.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>490~mg/kg.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>980~mg/kg.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>1960~mg/kg.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>3920~mg/kg.</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Massas molares (g/mol): O=16; S=32.</p>
+				<p>1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.</p>
+			</assumptions>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="26" success_rate="69.9">
+			<classification subject="Biology:Ecology:Environmental Impacts" />
+			<statement>
+				<p>A tabela fornece informações sobre fatores ambientais relacionados a duas regiões de floresta, uma com alto grau de degradação (I) e outra com baixo grau de degradação (II).</p>
+				<table>
+					<header>
+						<cell>
+							<p>Fator</p>
+						</cell>
+						<cell>
+							<p>Região I</p>
+						</cell>
+						<cell>
+							<p>Região II</p>
+						</cell>
+					</header>
+					<row>
+						<cell>
+							<p>Frequência de geadas</p>
+						</cell>
+						<cell>
+							<p>baixa</p>
+						</cell>
+						<cell>
+							<p>moderada</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>Temperatura máxima no verão</p>
+						</cell>
+						<cell>
+							<p>moderada</p>
+						</cell>
+						<cell>
+							<p>alta</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>Disponibilidade de água no solo</p>
+						</cell>
+						<cell>
+							<p>alta</p>
+						</cell>
+						<cell>
+							<p>moderada</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>Concentração de $SO_{2}$ na atmosfera</p>
+						</cell>
+						<cell>
+							<p>alta</p>
+						</cell>
+						<cell>
+							<p>baixa</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>Concentração de $CO_{2}$ na atmosfera</p>
+						</cell>
+						<cell>
+							<p>moderada</p>
+						</cell>
+						<cell>
+							<p>moderada</p>
+						</cell>
+					</row>
+				</table>
+				<p>Com base nos dados da tabela, qual fenômeno pode causar maior grau de degradação das florestas da região I em comparação com aquelas da região II?</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>Chuva ácida.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Aquecimento global.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Congelamento.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Déficit hídrico.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Calor extremo no verão.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="27" success_rate="47.1">
+			<classification subject="Geography:Brazil:Physical:Climatology" />
+			<statement>
+				<p>O estado de São Paulo, por suas características climáticas, apresenta, no outono e no inverno, probabilidade de ocorrência de geada.</p>
+				<image src="fuvest/2023/fase01/q27.png" />
+				<p>Com base em seu conhecimento sobre o estado de São Paulo e os fatores que contribuem para a formação de geadas, é correto inferir que a maior ocorrência de geadas no estado de São Paulo está associada</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>às maiores altitudes da Serra da Mantiqueira, que contribuem para reduzir a temperatura do ar.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>às baixas altitudes do Vale do rio Ribeira de Iguape, que contribuem para a entrada de ar frio.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>ao efeito da maritimidade, que injeta ar frio para o continente, diminuindo a temperatura do ar.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>às grandes extensões do Planalto Ocidental Paulista, que favorecem o acúmulo de ar frio.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>à ausência de cobertura vegetal em grande parte do território paulista, que potencializa o resfriamento noturno.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="28" success_rate="42.8">
+			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
+			<statement>
+				<p>O gráfico mostra a variação no número de folhas de uma espécie de árvore ao longo do ano, bem como a variação da temperatura mínima e da pluviosidade no local em que há presença dessa planta.</p>
+				<image src="fuvest/2023/fase01/q28.png" />
+				<p>Com base na variação no número de folhas, essa planta é característica de clima I e tal variação está relacionada a II.</p>
+				<p>As lacunas I e II são corretamente preenchidas por:</p>
+			</statement>
+			<options_table>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>tropical</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas altas e muita chuva nos meses mais frios</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>temperado</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas baixas e pouca chuva nos meses mais quentes</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>tropical</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas altas e pouca chuva nos meses mais quentes</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="true">
+					<cell>
+						<p>temperado</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas baixas e pouca chuva nos meses mais frios</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="false">
+					<cell>
+						<p>equatorial</p>
+					</cell>
+					<cell>
+						<p>temperaturas mínimas baixas e muita chuva nos meses mais quentes</p>
+					</cell>
+				</option>
+			</options_table>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="29" success_rate="28.7">
+			<classification subject="Biology:Botany:Plant Physiology" />
+			<statement>
+				<p>A figura a seguir ilustra o xiquexique, um cacto nativo da Caatinga.</p>
+				<image src="fuvest/2023/fase01/q29.png" />
+				<p>Dada sua alta capacidade de armazenamento de água, a planta é muito utilizada para alimentação de bovinos, de caprinos e, inclusive, de seres humanos, especialmente durante os períodos de seca, como aludido em Angústia:</p>
+				<quote>
+					<p>(...) Amaro vaqueiro alimentava-se, nas secas, com sementes de mucuna lavadas em sete águas, raiz de imbu, miolo de xiquexique, e de tempos a tempos furtava uma cabra no chiqueiro e atirava a culpa à suçuarana.(...)</p>
+				</quote>
+				<cite>Graciliano Ramos, Angústia.</cite>
+				<p>O acúmulo de água no xiquexique é possível pela</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>diminuição da perda de água devido às folhas modificadas em espinhos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>menor taxa de fotossíntese, por apresentarem menor área de superfície foliar.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>presença de células especializadas no parênquima aquífero do caule da planta.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>raiz avantajada que capta melhor a água disponível na superfície do solo.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>adaptação das folhas que podem acumular água em seu interior.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="30" success_rate="65.8">
+			<classification subject="Literature:Brazil:Modernism" />
+			<statement>
+				<quote>
+					<p>Mas não medimos os tempos que passam, quando os medimos pela sensibilidade. Quem pode medir os tempos passados que já não existem ou os futuros que ainda não chegaram? Só se alguém se atrever a dizer que pode medir o que não existe! Quando está decorrendo o tempo, pode percebê-lo e medi-lo. Quando, porém, já estiver decorrido, não o pode perceber nem medir, because esse tempo já não existe.</p>
+				</quote>
+				<cite>Santo Agostinho. Confissões.</cite>
+				<p>O tempo físico e o tempo psicológico se diferenciam na medida em que o primeiro se firma na objetividade e o segundo, na subjetividade. De acordo com os argumentos de Santo Agostinho, pode-se dizer que, no romance Angústia, de Graciliano Ramos, a passagem que melhor exprime a duração interior é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<q>-1910. Minto, 1911. 1911, Manuel?</q>
+					</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>
+						<q>Os galos marcavam o tempo, importunavam mais que os relógios.</q>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>
+						<q>Julião Tavares ia afastar-se, dissipar-se, virar neblina.</q>
+					</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>
+						<q>Mas no tempo não havia horas.</q>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<q>O espírito de Deus boiava sobre as águas.</q>
+					</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="31" success_rate="59.8">
+			<classification subject="Portuguese:Text Interpretation" />
+			<statement>
+				<p>O filósofo David Hume apresenta a seguinte relação entre sensações (ou, em suas palavras, sentimentos) e ideias:</p>
+				<quote>
+					<p>Em suma, todos os materiais do pensamento são derivados do nosso sentimento externo e interno. Apenas a mistura e composição destes materiais compete à mente e à vontade. Ou, para me expressar em linguagem filosófica, todas as nossas ideias ou percepções mais fracas são cópias das nossas impressões, ou percepções mais vívidas.</p>
+				</quote>
+				<cite>HUME, David. Investigação sobre o entendimento humano. Lisboa: Imprensa Nacional / Casa da Moeda, 2002.</cite>
+				<p>É possível tornar mais clara a concepção de Hume vinculando-a a fatos cotidianos. Qual situação confirma a relação proposta no excerto?</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Algumas pessoas não sabem de onde vêm os seus sonhos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Uma pessoa com boa memória pode se lembrar mais facilmente das suas ideias.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>Uma pessoa que nunca experimentou guaraná não pode ter ideia do seu sabor.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>É possível manter a ideia de um cavalo alado por muito tempo na mente.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Comer uma maçã envolve experiências sensoriais.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<p>From French electronic and Japanese indie to K-pop and Spanish jazz, it's common for people to listen to songs they don't necessarily understand.</p>
+			<p>Not knowing the language of the lyrics, it seems, doesn't stop people from liking-and sometimes even singing along to a song.</p>
+			<p>Unless the listener is looking up the dictionary meaning of the lyrics, then the dictionary meaning of the lyrics doesn't make or break their appreciation of a song.</p>
+			<p>But why?</p>
+			<p>
+				<q>It's a complicated answer,</q> said musicologist Lisa Decenteceo, adding that it all starts with what's called <q>sound symbolism.</q>
+			</p>
+			<p>Sound symbolism refers to the study of the relationships between utterances and their meaning. This doesn't have to do only with music. Marketers, for example, can tune into sound symbolism as part of their strategy in coming up with appealing brand names.</p>
+			<p>In music as well as in branding, Decenteceo explained, there's something about the appeal of words as sounds, beyond their meaning in a language.</p>
+			<p>While things like culture and personal experiences affect people's responses to different kinds of music, she explained there are certain musical techniques that are generally used to convey certain moods.</p>
+			<p>One of which is scale. "Songs in a major scale usually have brighter, happier sounds, while minor scales usually have the slightly darker, melancholic feel," explains Thea Tolentino, a music teacher.</p>
+			<p>The human brain is wired to respond to sound, she added. In a process called entrainment, the brain "synchronizes our breathing, our movement, even neural activities with the sounds we hear." This is why fast-paced music is so popular for running, for example, or why some yoga teachers play rhythmic and melodic tracks in their classes.</p>
+			<p>And there are also the things that accompany the words. "Elements of sound and music like pitch, melody, harmony, timbre, and amplitude have an affective, emotional, psychological, cognitive, and even physical impact on listeners. Music adds so much meaning and dimension to texts through a complex of these avenues," said Decenteceo.</p>
+			<p>What all these things do, she added, is liberate the words. "Song frees the voice from any burden of saying anything meaningful".</p>
+			<p>It's important, then, to understand music as a discourse between musical elements. But all in all, Decenteceo said there's value in whatever immediate appeal people find in the music they listen to, whether or not they understand the words.</p>
+			<p>Music, after all, is the universal language.</p>
+			<cite>Disponível em https://www.vice.com/. March, 2022. Adaptado.</cite>
+		</context>
+
+		<objective_question number="32" success_rate="65.2">
+			<classification subject="English:Reading Comprehension" />
+			<statement>
+				<p>De acordo com o texto, os estudos sobre as propriedades do som</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>indicam a complexidade musical da canção pop contemporânea.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>podem ter reflexos em áreas como o marketing e as atividades esportivas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>influenciam as pesquisas acadêmicas sobre o fazer poético.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>revelam as estratégias enganosas empregadas nas campanhas publicitárias.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>demonstram a falácia do conceito da música como linguagem universal.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="33" success_rate="75.6">
+			<classification subject="English:Reading Comprehension" />
+			<statement>
+				<p>Na frase <q>there are certain musical techniques that are generally used to convey certain moods</q> (2º parágrafo), a palavra <q>convey</q> poderia ser substituída, sem prejuízo de sentido, por</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>avoid.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>struggle.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>diminish.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>popularize.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>transmit.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="34" success_rate="70.8">
+			<classification subject="English:Reading Comprehension" />
+			<statement>
+				<p>De acordo com o texto, os aspectos físicos relacionados com elementos tanto do som quanto da música são</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>simbolismo e respiração.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>letra e idioma.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>timbre e amplitude.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>brilho e melodia.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>discurso e mensagem.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="35" success_rate="81.3">
+			<classification subject="English:Reading Comprehension" />
+			<statement>
+				<quote>
+					<p>ENGLISH IS WEIRD.</p>
+					<p>IT CAN BE UNDERSTOOD THROUGH TOUGH THOROUGH THOUGHT THOUGH.</p>
+				</quote>
+				<cite>Disponível em https://br.pinterest.com/.</cite>
+				<p>Em relação à compreensão do idioma inglês, o texto ilustra</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>a disparidade entre ortografia e fonética.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>circunstâncias de tempo e modo.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a ordem dos elementos na oração.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>um conjunto de locuções adjetivas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>um problema de concordância verbal.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="36" success_rate="21.2">
+			<classification subject="Math:Algebra:Exponential" />
+			<classification subject="Physics:Waves:SoundWaves" />
+			<statement>
+				<p>Na teoria musical, o intervalo entre duas notas é medido pela razão entre suas frequências (medidas em Hz). Na escala pitagórica, os intervalos de um tom e de um semitom correspondem, respectivamente, às razões <m>\frac{9}{8}</m> e <m>\frac{256}{243}</m>. A soma de intervalos corresponde ao produto das razões. Por exemplo, no intervalo de dois tons, a razão entre as frequências é de <m>\frac{9}{8} \cdot \frac{9}{8} = \frac{81}{64}</m>.</p>
+				<image src="fuvest/2023/fase01/q36.png" />
+				<p>Em um instrumento afinado de acordo com a escala pitagórica, se o intervalo entre uma nota de 220~Hz e outra de 990~Hz é composto por n tons e m semitons, a soma <m>m+n</m> é igual a:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>13</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>14</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>15</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>16</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>17</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="37" success_rate="49.2">
+			<classification subject="Portuguese:Text Interpretation" />
+			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
+			<statement>
+				<verse>
+					<stanza>
+						<l>Presentemente eu posso me considerar um sujeito de sorte</l>
+						<l>Porque apesar de muito moço, me sinto são e salvo e forte</l>
+						<l>E tenho comigo pensado, Deus é brasileiro e anda do meu lado</l>
+						<l>E assim já não posso sofrer no ano passado</l>
+						<l>Tenho sangrado demais, tenho chorado pra cachorro</l>
+						<l>Ano passado eu morri, mas esse ano eu não morro</l>
+					</stanza>
+				</verse>
+				<cite>Belchior. <q>Sujeito de sorte</q>.</cite>
+				<p>Leia as seguintes afirmações a respeito da letra da música:</p>
+				<p>I- Os adjuntos adverbiais temporais remetem a um contraste entre passado e presente, o que reforça o caráter metafórico do texto.</p>
+				<p>II- A locução <q>apesar de</q> contribui para a expressão de um sentimento inesperado em relação ao sentido de <q>muito moço</q>.</p>
+				<p>III- As formas verbais <q>morri</q> e <q>morro</q>, embora se refiram a momentos distintos, apresentam sentido denotativo.</p>
+				<p>Está correto o que se afirma em:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>I, apenas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>II, apenas.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>I e II, apenas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>II e III, apenas.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>I, II e III.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<verse>
+				<title>O QUINTO IMPÉRIO</title>
+				<stanza>
+					<l>Triste de quem vive em casa,</l>
+					<l>Contente com o seu lar,</l>
+					<l>Sem que um sonho, no erguer de asa,</l>
+					<l>Faça até mais rubra a brasa</l>
+					<l>Da lareira a abandonar!</l>
+					<l>Triste de quem é feliz!</l>
+					<l>Vive porque a vida dura.</l>
+					<l>Nada na alma lhe diz</l>
+					<l>Mais que a lição da raiz —</l>
+					<l>Ter por vida a sepultura.</l>
+					<l>Eras sobre eras se somem</l>
+					<l>No tempo que em eras vem.</l>
+					<l>Ser descontente é ser homem.</l>
+					<l>Que as forças cegas se domem</l>
+					<l>Pela visão que a alma tem!</l>
+					<l>E assim, passados os quatro</l>
+					<l>Tempos do ser que sonhou,</l>
+					<l>A terra será teatro</l>
+					<l>Do dia claro, que no atro</l>
+					<l>Da erma noite começou.</l>
+					<l>Grécia, Roma, Cristandade,</l>
+					<l>Europa — os quatro se vão</l>
+					<l>Para onde vai toda idade.</l>
+					<l>Quem vem viver a verdade</l>
+					<l>Que morreu D. Sebastião?</l>
+				</stanza>
+			</verse>
+			<cite>Fernando Pessoa. Mensagem.</cite>
+		</context>
+
+		<objective_question number="38" success_rate="44.0">
+			<classification subject="Literature:Brazil:Modernism" />
+			<classification subject="Portuguese:Text Interpretation" />
+			<statement>
+				<p>De acordo com o texto, a ideia de felicidade, também nuclear em outros poemas de Mensagem,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>alimenta as aspirações humanas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>compreende-se como superação da morte.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>identifica-se com o destino heroico.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>compõe a mediocridade cotidiana.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>situa-se como finalidade da existência.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="39" success_rate="21.8">
+			<classification subject="Literature:Brazil:Modernism" />
+			<classification subject="Portuguese:Text Interpretation" />
+			<statement>
+				<p>Mensagem reconduz a história de Portugal a partir de uma reinterpretação do tempo histórico. No poema, o tempo é encarado segundo uma concepção</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>nostálgica, devido à presença de modelos situados no passado.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>materialista, por efeito da aspiração burguesa de um lar confortável.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>mística, em razão do prognóstico de um futuro metafísico.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>biológica, por mérito da aceitação do ciclo natural da existência.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>psicológica, em virtude da referência ao substantivo "sonho".</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="40" success_rate="79.4">
+			<classification subject="History:Brazil:Old Republic" />
+			<classification subject="Portuguese:Text Interpretation" />
+			<statement>
+				<quote>
+					<p>A Exposição Internacional do Centenário de 1922 no Rio de Janeiro constituiu uma versão brasileira grandiosa, embora anacrônica, das exposições do século XIX, destinadas a celebrar o ideal nacional. Para essa mostra o México enviou uma importante delegação, com farto material de exposição, tendo inclusive construído um pavilhão especial para abrigar seus produtos. José Vasconcelos (1881-1952), o filósofo e intelectual mexicano de maior destaque (...), chefiou a delegação mexicana. No final da exposição, o México deixou no Rio um Cuauhtémoc carioca olhando para a baía da Guanabara, e Vasconcelos partiu levando uma bagagem de mitos nacionais brasileiros (...).</p>
+				</quote>
+				<cite>TENORIO TRILLO, Mauricio. <q>Um Cuahtémoc Carioca: comemorando o Centenário da independência do Brasil e a raça cósmica</q>. Estudos Históricos, Rio de Janeiro, v. 7, n. 14, 1994,</cite>
+				<p>No ano seguinte à celebração do centenário da independência do México, o governo mexicano enviou ao Brasil uma delegação para participar dos festejos do centenário da independência brasileira e escolheu, para simbolizar seu país, a figura de Cuahtémoc, imperador asteca que morreu na luta de resistência contra os conquistadores espanhóis.</p>
+				<p>A partir do excerto, é correto atestar a seguinte semelhança entre os dois países:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>A defesa da Revolução Mexicana e das ideias de supremacia indígena.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>A valorização de símbolos nacionais e do conhecimento mútuo na América Latina.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>O reconhecimento da superioridade do passado mexicano associado aos astecas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>A dissolução das identidades nacionais em favor das identidades continentais.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A rivalidade entre os países latino-americanos na forma de celebrar os Centenários.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="41" success_rate="49.8">
+			<classification subject="Portuguese:Text Interpretation" />
+			<classification subject="Sociology:General:Culture, Identity and Socialization" />
+			<statement>
+				<quote>
+					<p>Eu quase fui um índio sacana, como meu tio. (...) Desses índio que são índio pela metade. Ou seja, qui nem índio, nem branco, nem cholo, nem negro, nem serrano, nem costeiro, nem camponês, nem equatoriano, nem estrangeiro, nem nada. Índio sacana, claro. Índio qu'está à vista de toda gente e ninguém vê, qu'está mesminho nas ruas todos os dias, caminhando pra lá pra cá, buscando trabalho nas porta de gente rica, de jardineiro, de mensageiro, cuidador de cachorros, saloneiro, caseiro, criador de crianças, de toda classe de trabalho. Chofer. O Equador está cheinho de índio sacana assim. Desse tipo d'índio que não é nada.</p>
+				</quote>
+				<cite>CARVALHO-NETO, Paulo de. Meu tio Atahualpa. Rio de Janeiro: Salamandra, 1978.</cite>
+				<p>A expressão <q>índio sacana</q>, presente no texto, faz referência a:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Uma parcela da população indígena caracterizada por sua autonomia e resistência às formas pós-coloniais de dominação.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>Um grupo social cuja inserção na sociedade equatoriana foi complexa e limitada.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Uma etnia que historicamente alcançou a emancipação política e social por meio da assimilação da cultura europeia.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Um conjunto de indivíduos de nacionalidade estrangeira cujos hábitos e costumes contrastavam com os da população local.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Um segmento que ganhou visibilidade por ocupar posições sociais de prestígio.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="42" success_rate="75.8">
+			<classification subject="History:Brazil:Colonial Period" />
+			<statement>
+				<quote>
+					<p>Os vadios são o ódio de todas as nações civilizadas, e contra eles se tem muitas vezes legislado; porém as regras comuns relativas a este ponto não podem ser aplicáveis ao território de Minas; porque estes vadios, que em outra parte seriam prejudiciais, são ali úteis.</p>
+				</quote>
+				<cite>Desembargador J.J. Teixeira Coelho. <q>Instruções para o governo da capitania de Minas Gerais (1780)</q>. Apud SOUZA, Laura de Mello e. Os desclassificados do ouro. A pobreza mineira no século XVIII. Rio de Janeiro: Graal, 1982.</cite>
+				<p>A partir da leitura do excerto, que aborda aspectos da sociedade mineira do século XVIII, é correto afirmar que, nessa sociedade,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>os vadios viviam na ociosidade, o que provocava preocupações constantes nos administradores coloniais.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>a legislação colonial limitava a circulação dos vadios pela colônia, impedindo-os de ingressar na região das Minas.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>os vadios participavam de atividades complementares à mineração, o que justificava a tolerância das autoridades locais.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>os contratadores preferiam engajar vadios no trabalho nas minas, gerando revoltas dos trabalhadores especializados.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>os vadios participavam ativamente do contrabando de ouro, o que motivava sucessivas ações policiais repressivas.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="43" success_rate="81.4">
+			<classification subject="History:Brazil:Vargas Era" />
+			<classification subject="Sociology:General:Culture, Identity and Socialization" />
+			<classification subject="Portuguese:Text Interpretation" />
+			<statement>
+				<quote>
+					<title>I.</title>
+					<p>É indispensável romper com todas as diplomacias nocivas, mandar pro diabo qualquer forma de hipocrisia, suprimir as políticas literárias e conquistar uma profunda sinceridade pra com os outros e pra consigo mesmo. A convicção dessa urgência foi pra mim a melhor conquista até hoje do movimento que chamam de 'modernismo'. Foi ela que nos permitiu a intuição de que carecemos, sob pena de morte, de procurar uma arte de expressão nacional.</p>
+				</quote>
+				<cite>HOLANDA, Sérgio Buarque de. O lado oposto e outros lados, 1926.</cite>
+				<quote>
+					<title>II.</title>
+					<p>Trazendo de países distantes nossas formas de convívio, nossas instituições, nossas ideias, e timbrando em manter tudo isso em ambiente muitas vezes desfavorável e hostil, somos ainda hoje uns desterrados em nossa terra.</p>
+				</quote>
+				<cite>HOLANDA, Sérgio Buarque de. Raízes do Brasil, 1936.</cite>
+				<p>Os dois excertos do historiador e crítico literário Sérgio Buarque de Holanda salientam que a cultura brasileira somente completará a sua formação quando</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>souber reproduzir fielmente os modelos externos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>importar uma estética à altura da sua genialidade.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>abolir a necessidade de figurar o caráter nacional.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>deixar a posição de colônia e se tornar metrópole.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>firmar, na arte e na vida social, a sua autenticidade.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="44" success_rate="28.0">
+			<classification subject="Literature:Brazil:Modernism" />
+			<classification subject="History:Brazil:Old Republic" />
+			<statement>
+				<verse>
+					<stanza>
+						<l>Migna terra tê parmeras</l>
+						<l>Che ganta inzima o sabiá.</l>
+						<l>As aves che stó aquí,</l>
+						<l>Tambê tuttos sabi gorgeá.</l>
+						<l>(...)</l>
+						<l>Os rio lá số maise grandi</l>
+						<l>Dus rio di tuttas naçó;</l>
+						<l>I os matto si perdi di vista,</l>
+						<l>Nu meio da imensidó.</l>
+					</stanza>
+				</verse>
+				<cite>BANANERE, Juó. <q>Migna terra</q>. La Divina Increnca. São Paulo: Irmãos Marrano Editora, 1924.</cite>
+				<p>Assinale a alternativa que melhor expressa as relações entre o poema e a inserção social de imigrantes italianos no Brasil.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>O poema traça uma analogia entre a paisagem natural da Itália e do Brasil, sob os olhos de um imigrante.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>A referência à oralidade era um reconhecimento à contribuição desta comunidade para a nova literatura brasileira.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>O poema tematiza a revolta dos imigrantes camponeses italianos ao chegarem nas fazendas de café.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>O caráter lírico presente no poema indica a emotividade e o desejo de aceitação por parte dos imigrantes.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>A linguagem adotada no poema expressava uma maneira caricata de representar o idioma daquela comunidade.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="45" success_rate="76.7">
+			<classification subject="History:Contemporary" />
+			<statement>
+				<quote>
+					<p>Quatro anos atrás, neste dia, a esta mesma hora, chegava ao Panteão, em Roma, o carro fúnebre que levava o cadáver de Vittorio Emanuele II, primeiro rei da Itália, morto depois de 29 anos de reinado, durante os quais a grande pátria italiana, antes despedaçada em sete estados e oprimida por estrangeiros e tiranos, tinha renascido como um só país, independente e livre (...).</p>
+				</quote>
+				<cite>AMICIS, Edmondo de. Coração: um livro para jovens. São Paulo: CosacNaify, 2011.</cite>
+				<p>Esse livro foi publicado pela primeira vez na Itália em 1886. Obteve grande sucesso entre os jovens leitores e foi, desde cedo, amplamente utilizado como livro de leitura nas escolas do país.</p>
+				<p>O texto mobiliza representações que iam ao encontro do culto</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>à nação na Itália recém-unificada.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>à divisão da Itália por Vittorio Emanuele II.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>aos ideais republicanos que deram origem ao país.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>aos antigos reinos e ao domínio estrangeiro.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>à reconstrução do antigo Império romano.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="46" success_rate="37.4">
+			<classification subject="History:Ancient:Greece" />
+			<statement>
+				<quote>
+					<p>A Pólis apresenta-se como um universo homogêneo, sem hierarquia, sem planos diversos, sem diferenciação. (...) Segundo um ciclo regulamentado, a soberania passa de um grupo a outro, de um indivíduo a outro, de tal maneira que comandar e obedecer, em vez de se oporem como dois absolutos, tornam-se os dois termos inseparáveis de uma mesma relação reversível.</p>
+				</quote>
+				<cite>VERNANT, Jean-Pierre. As Origens do Pensamento Grego. Rio de Janeiro: Difel, 2002.</cite>
+				<p>Sobre a noção de pólis expressa no texto, é correto afirmar que ela pressupõe</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>uma concepção excludente do poder político.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>uma oposição absoluta entre comando e obediência.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>um modelo político de democracia representativa.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>uma participação isonômica dos cidadãos.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>uma ausência de soberania no espaço cívico.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="47" success_rate="84.6">
+			<classification subject="History:Modern:Absolutism and Enlightenment" />
+			<statement>
+				<quote>
+					<p>E desse modo os respectivos Lordes Espirituais, Temporais e Membros da Câmara dos Comuns (...) declaram:</p>
+					<p>Que o pretenso poder de suspender as leis ou executar as leis por autoridade real sem consentimento do Parlamento é ilegal;</p>
+					<p>(...)</p>
+					<p>Que a criação ou manutenção de um exército permanente no reino em tempos de paz, a menos que com o consentimento do Parlamento, é ilegal.</p>
+				</quote>
+				<cite>Traduzido de English Bill of Rights, 1689. Disponível em https://avalon.law.yale.edu/.</cite>
+				<p>Considerando o texto da lei e o contexto político da Inglaterra ao fim do processo revolucionário no século XVII, é correto afirmar que a Declaração de Direitos de 1689</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>suprime todas as prerrogativas do Parlamento.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>dispensa o aval parlamentar para mudar a legislação.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>impõe limites ao poder monárquico.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>impossibilita a criação de um exército.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>estabelece um regime republicano.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="48" success_rate="67.4">
+			<classification subject="History:Brazil:Populist Republic" />
+			<statement>
+				<image src="fuvest/2023/fase01/q48_1.png" />
+				<cite>Fotografia do Comício da Central do Brasil, 13 de março de 1964 (sem autoria).</cite>
+				<cite>
+					<q>Comício da Central do Brasil. Declarações do presidente João Goulart incomodaram a direita e os militares</q>. Folha de S. Paulo/uol/27 nov. 2013.</cite>
+				<image src="fuvest/2023/fase01/q48_1.png" />
+				<cite>SCHWARCZ, Lilia e STARLING, Heloisa. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015.</cite>
+				<image src="fuvest/2023/fase01/q48_2.png" />
+				<cite>Fotografia tirada por Domício Pinheiro, Comício da Central do Brasil, 13 de março de 1964.</cite>
+				<p>As fotografias registram cenas do comício realizado pelo governo João Goulart no Rio de Janeiro, em março de 1964. Considerando a leitura das imagens, é correto afirmar:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>O período do governo de João Goulart foi marcado pela apatia da sociedade civil.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>A presença ostensiva das Forças Armadas impediu a realização do Comício.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>O cartaz assinado por metalúrgicos defendia a família, a religião e a propriedade.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>Os manifestantes expressaram apoio aos avanços nas Reformas de Base anunciados no Comício.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Os manifestantes reclamavam a intervenção militar para conter políticas do governo João Goulart.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="49" success_rate="80.9">
+			<classification subject="History:Contemporary:ColdWar" />
+			<statement>
+				<image src="fuvest/2023/fase01/q49.png" />
+				<cite>VALTMAN, Edmund S., Artista. Gorbachev [Mikhail Gorbachev, presidente da União Soviética entre 1985-1991] contempla uma foice e um martelo despedaçados. União Soviética, 1991. https://www.loc.gov/item/2016687304/.</cite>
+				<quote>
+					<p>Nos países bálticos, na Ásia central, no Cáucaso, até mesmo na Rússia e nas duas outras nações eslavas (Ucrânia e Bielo-Rússia [ou Belarus]), consideradas o núcleo básico de sustentação da União Soviética, [em 1990] os parlamentos nacionais proclamavam a própria soberania em relação ao poder central da União, ou seja, a primazia das leis nacionais sobre as leis soviéticas. Num contexto de predomínio de forças centrífugas, qual seria o destino do poder central?.</p>
+				</quote>
+				<cite>REIS FILHO, Daniel Aarão. As Revoluções Russas e o Socialismo Soviético. São Paulo: Editoria Unesp, 2003.</cite>
+				<p>Considerando a relação com a charge, o texto apresenta</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>uma situação de tranquilidade política na União Soviética, enquanto a charge faz alusão à mudança deste cenário.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o momento pós-independência das repúblicas que compunham a União Soviética, enquanto a charge representa o momento inicial de sua reconstrução.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>uma projeção otimista quanto ao futuro da União Soviética, enquanto a charge nega esse prognóstico.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>uma crítica ao nacionalismo das repúblicas soviéticas, enquanto a charge celebra o esfacelamento do poder central.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>uma conjuntura de crise no governo de Gorbachev, enquanto a charge representa o subsequente colapso da União Soviética.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="50" success_rate="93.1">
+			<classification subject="Portuguese:Text Interpretation" />
+			<classification subject="Portuguese:Grammar:Semantics and Stylistics" />
+			<statement>
+				<image src="fuvest/2023/fase01/q50.png" />
+				<cite>Disponível em https://incrivel.club/admiracao-fotografia/. Adaptado.</cite>
+				<p>Com base na peça publicitária da Anistia Internacional, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>a correlação verbo-visual, reforçada pela polissemia do verbo "desligar", contrapõe quem vive e quem observa a guerra.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>os pronomes "você" e "eles" indicam compatibilidade ideológica entre grupos de regiões diferentes.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a linguagem visual impede a conscientização acerca das realidades das zonas de guerra.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>a omissão do verbo no segundo período do texto coloca o leitor como participante da guerra.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>os recursos visuais possuem independência da expressão linguística na interpretação da publicidade.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="51" success_rate="82.4">
+			<classification subject="Geography:Cartography:Map Projections and Scales" />
+			<classification subject="Geography:Geopolitics:Global Conflicts" />
+			<statement>
+				<quote>
+					<p>Em um mapa produzido com a técnica da anamorfose geográfica, cada país é redesenhado de forma que seu polígono tenha uma deformação proporcional a um tema de interesse. Com essa técnica, é possível visualizá-lo de uma forma mais direta e clara.</p>
+				</quote>
+				<cite>Disponível em https://educa.ibge.gov.br/. Adaptado.</cite>
+				<p>Observe o mapa com dados de 2015:</p>
+				<image src="fuvest/2023/fase01/q51.png" />
+				<cite>United Nations Development Programme (UNDP), Human Development indices and indicators, 2015.</cite>
+				<p>Os dados representados no mapa são condizentes com:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Número de nascimentos vivos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Produto Interno Bruto.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Total de população urbana.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Produção de petróleo.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>Refugiados conforme o país de origem.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="52" success_rate="56.1">
+			<classification subject="Geography:Geopolitics:Global Conflicts" />
+			<statement>
+				<p>Recentemente a região do Sahel, na África, vivenciou golpes de Estado em quatro países: Sudão, Mali, Chade e Burkina Faso.</p>
+				<p>Podem ser indicadas como causas da instabilidade política na região:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Atuação de potências estrangeiras, resquícios da colonização e alto desenvolvimento tecnológico.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Abundância de recursos naturais, atuação de movimentos separatistas e desigualdade socioeconômica.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Escassez de recursos naturais, alto desenvolvimento tecnológico e diversidade étnica.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Desigualdade socioeconômica, diversidade étnica e elevada produção agrícola.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>Escassez de recursos naturais, diversidade étnica e resquícios da colonização.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="53" success_rate="44.5">
+			<classification subject="Geography:Human:Population and Demographics" />
+			<classification subject="History:Contemporary" />
+			<statement>
+				<p>O mapa do continente africano a seguir reproduz as fronteiras étnicas anteriores ao processo de colonização europeu (linhas pretas) e as fronteiras dos Estados Nacionais africanos, que surgiram após a emancipação no século XX (linhas vermelhas):</p>
+				<image src="fuvest/2023/fase01/q53.png" />
+				<cite>Disponível em https://www.nber.org/papers/w18275/. Adaptado.</cite>
+				<p>Com base na leitura do mapa, assinale a alternativa correta.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>A diversidade étnica observada na região sul africana foi objeto de cobiça do tráfico transatlântico de escravizados para as Américas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>O Chifre da África foi uma área marcada por guerras travadas entre diferentes grupos étnicos, as quais impediram a construção de unidades políticas nacionais.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>A porção norte da África teve menor diversidade étnica, com o predomínio de população branca, religião islâmica e língua árabe.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Após o processo de emancipação, a quantidade de Estados Nacionais africanos ultrapassou numericamente as configurações territoriais anteriores à colonização.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>As fronteiras dos Estados Nacionais africanos foram traçadas a partir de solidariedades étnicas, e não por critérios geopolíticos decorrentes da colonização.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="54" success_rate="78.4">
+			<classification subject="Physics:Mechanics:Friction" />
+			<statement>
+				<image src="fuvest/2023/fase01/q54.png" />
+				<p>Pinturas na tumba de um faraó do século XIX a.C. sugerem que os antigos egípcios adicionavam água à areia em frente aos trenós utilizados para transportar grandes peças, como pedras para pirâmides. Esse transporte era realizado por carregadores que puxavam os trenós sobre a areia.</p>
+				<cite>FALL et al., Physical Review Letters 112, 175502 (2014).</cite>
+				<p>Em 2014, cientistas realizaram medidas para testar essa hipótese e, sob certas condições, encontraram os coeficientes de atrito cinético entre o trenó e a areia listados na tabela:</p>
+				<table>
+					<header>
+						<cell>
+							<p>Conteúdo de água</p>
+						</cell>
+						<cell>
+							<p>0%</p>
+						</cell>
+						<cell>
+							<p>1,5%</p>
+						</cell>
+						<cell>
+							<p>3,2%</p>
+						</cell>
+						<cell>
+							<p>7,4%</p>
+						</cell>
+					</header>
+					<row>
+						<cell>
+							<p>Coeficiente de atrito</p>
+						</cell>
+						<cell>
+							<p>0,57</p>
+						</cell>
+						<cell>
+							<p>0,54</p>
+						</cell>
+						<cell>
+							<p>0,50</p>
+						</cell>
+						<cell>
+							<p>0,61</p>
+						</cell>
+					</row>
+				</table>
+				<p>Considerando as informações da tabela, qual conteúdo de água na areia tornaria mais fácil o transporte das peças pelos carregadores?</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>0% (areia seca)</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>1,5%</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>3,2%</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>7,4%</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>O conteúdo de água não afeta o transporte.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="55" success_rate="62.0">
+			<classification subject="Portuguese:Text Interpretation" />
+			<statement>
+				<quote>
+					<p>Todos os homens, por natureza, tendem ao saber. Sinal disso é o amor pelas sensações. De fato, eles amam as sensações por si mesmas, independentemente de sua utilidade e amam, acima de todas, a sensação da visão. Com efeito, não só em vista da ação, mas mesmo sem nenhuma intenção de agir, nós preferimos o ver, em certo sentido, a todas as outras sensações. E o motivo está no fato de que a visão nos proporciona mais conhecimento do que todas as outras sensações e nos torna manifestas numerosas diferenças entre as coisas.</p>
+				</quote>
+				<cite>Aristóteles. Metafísica, São Paulo: Loyola, 2002.</cite>
+				<p>Nessa passagem, a tese principal apresentada por Aristóteles é a de que "todos os homens, por natureza, tendem ao saber".</p>
+				<p>Com base na construção do argumento, descrever a sensação da visão tem, como função principal, a seguinte tarefa:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Delimitar a tese, mostrando que o conhecimento se dá sobretudo nas sensações.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Explicar a tese, mostrando qual o significado da tendência ao conhecimento.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Refutar a tese, mostrando que o amor às sensações se sobrepõe à tendência ao saber.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Deduzir consequências da tese, mostrando as implicações da tendência humana ao saber.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>Sustentar a tese, mostrando que o privilégio dessa sensação se deve à sua relação com o saber.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="56" success_rate="77.5">
+			<classification subject="Chemistry:General:ChemicalKinetics" />
+			<statement>
+				<p>O cientista Richard Feynman, prêmio Nobel de Física em 1965, fez comentários sobre o processo de combustão em uma entrevista chamada Fun to Imagine. Segundo ele, à primeira vista, é impressionante pensar que os átomos de carbono de uma árvore não entram em combustão com o oxigênio da atmosfera de forma espontânea, já que existe uma grande afinidade entre essas espécies para a formação de <c>CO2</c>. Entretanto, quando a reação tem início, o fogo se espalha facilmente.</p>
+				<p>Essa aparente contradição pode ser explicada pois</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a reação depende de um processo que concentre o carbono para ocorrer.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>o fogo torna a reação desfavorável.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>o fogo depende da presença de $CO_{2}$ para começar.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o átomo de carbono da árvore é muito mais resistente ao $O_{2}$ do que os átomos de carbono dispersos no fogo.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>a reação precisa de uma energia de ativação para começar.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="57" success_rate="48.7">
+			<classification subject="Chemistry:Atomistics" />
+			<classification subject="Biology:Ecology:Biogeochemical Cycles" />
+			<statement>
+				<p>O carbono 14, um isótopo radioativo com meia-vida de 5700 anos, é gerado de forma constante na atmosfera a partir da interação de nêutrons com o nitrogênio atmosférico. Esse <c>{}^{14}C</c> reage com o <c>O2</c> e produz <c>{}^{14}CO2</c>. Em função de seu decaimento e de suas taxas de deposição e formação, a proporção de <c>{}^{14}CO2</c> e de <c>{}^{12}CO2</c> na atmosfera é razoavelmente constante ao longo da história geológica da Terra. Esses gases são absorvidos por produtores primários pela fotossíntese, e os isótopos de C são transferidos aos organismos heterotróficos pela teia alimentar.</p>
+				<p>Com a queima de combustíveis fósseis, produzidos há milhões de anos, quantidades significativas de <c>CO2</c> têm sido lançadas na atmosfera, aumentando a concentração desse gás.</p>
+				<p>Com base no exposto, o <c>CO2</c> emitido a partir da queima de combustíveis fósseis</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>mantém constante a proporção <c>{}^{12}C/{}^{14}C</c> na atmosfera em relação à encontrada no período pré-industrial.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>apresenta maior concentração de <c>{}^{14}CO2</c> em relação à concentração de <c>CO2</c> atmosférico encontrado no período pré-industrial.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>contém quantidades iguais de <c>{}^{14}C</c> e <c>{}^{12}C</c>, dado que as taxas de formação e deposição de ambos são as mesmas.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>aumenta a proporção <c>{}^{12}C/{}^{14}C</c> na atmosfera em relação à encontrada no período pré-industrial.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>contém apenas <c>{}^{14}CO2</c> que é o real causador do aquecimento global por ser um gás de efeito estufa mais eficiente que o <c>{}^{12}CO2</c>.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="58" success_rate="29.3">
+			<classification subject="Geography:Physical:Climatology" />
+			<statement>
+				<p>O gráfico mostra a quantidade de emissão de $CO_{2}$ (em bilhões de toneladas) em função do ano.</p>
+				<image src="fuvest/2023/fase01/q58.png" />
+				<cite>Disponível em https://www.bbc.com/. Adaptado.</cite>
+				<p>O total de emissão de <c>CO2</c> em bilhões de toneladas, entre os anos de 1950 e 1990, está entre</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>1 e 5.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>5 e 100.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>100 e 300.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>300 e 800.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>800 e 1000.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="59" success_rate="69.7">
+			<classification subject="Biology:Ecology:Ecosystems and Biomes" />
+			<classification subject="Biology:Ecology:Environmental Impacts" />
+			<statement>
+				<quote>
+					<p>O Brasil possui a segunda maior área de cobertura de manguezais do globo. Esses ecossistemas proporcionam segurança alimentar às populações costeiras; habitat para espécies terrestres, aves e peixes; e sequestro de carbono. A conservação dos manguezais também é uma solução eficaz para o clima. No entanto, esses ecossistemas e seu vasto potencial natural de armazenamento de carbono são vulneráveis aos impactos causados por atividades antrópicas. No Brasil, aliás, os manguezais estão em perigo. Em 2020, o governo brasileiro aprovou legislação que eliminaria a proteção de manguezais em benefício do desenvolvimento imobiliário. Felizmente, em dezembro de 2021, o Supremo Tribunal Federal considerou essa legislação inconstitucional.</p>
+				</quote>
+				<cite>BEZERRA et al. 2022. <q>Brazil's mangroves: Natural carbon storage</q>. Science, 375(6586): 1239. Adaptado.</cite>
+				<p>Com base no texto, o processo biológico e a atividade socioeconômica sustentável que explicam a importância dos manguezais são, respectivamente,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>a alta reciclagem de matéria orgânica e os acúmulos de nutrientes para a exploração de fertilizantes.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>o alto sequestro de carbono e o extrativismo por comunidades costeiras tradicionais.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>a alta produtividade ecossistêmica e o potencial de exploração para a indústria madeireira.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>um estágio intermediário da sucessão ecológica litorânea e a proteção para as áreas costeiras.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o alto armazenamento de carbono e as áreas planas que permitem expansões imobiliárias.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="60" success_rate="70.7">
+			<classification subject="Geography:Brazil:Environmental Issues" />
+			<classification subject="Biology:Ecology:Biogeochemical Cycles" />
+			<statement>
+				<image src="fuvest/2023/fase01/q60.png" />
+				<cite>Revista Fapesp, 2022. Adaptado.</cite>
+				<p>Segundo os dados apresentados e seus conhecimentos, é possível afirmar que, no Brasil,</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>a agropecuária é a atividade econômica com maior emissão na forma de gás metano, resultante do processo fermentativo da digestão celulósica nos ruminantes.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>os resíduos agrícolas têm pouca contribuição no total emitido à atmosfera na forma de cloretos e sulfetos originados de seu intemperismo, com baixos teores de carbono.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>os processos industriais contribuem com emissões significativas de GEE na forma de gás metano, resultante da atividade microbiana sobre os compostos nitrogenados.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>as mudanças no uso da terra, em que há a substituição de florestas por áreas cultivadas, respondem por cerca de metade da emissão de GEE a partir de bactérias e fungos.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o setor de energia é um grande emissor de GEE na forma de óxido nítrico, metano e dióxido de carbono, resultantes de todos os processos de geração de energia.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="61" success_rate="53.2">
+			<classification subject="Biology:Ecology:Population Dynamics" />
+			<classification subject="Biology:Evolution" />
+			<statement>
+				<p>A figura a seguir mostra indivíduos de uma espécie de erva daninha ao longo de um trajeto de aproximadamente 100 km, desde uma área urbanizada (na porção inferior esquerda, em tons de rosa) até uma área de floresta (na porção superior direita, em tons de verde). Essas áreas urbanizadas e de floresta estão separadas por uma linha tracejada branca. As ervas daninhas amarelas são aquelas que produzem um composto que age como defesa química contra a herbivoria. As ervas daninhas azuis não produzem esse composto.</p>
+				<image src="fuvest/2023/fase01/q61.png" />
+				<cite>SANTANGELO et al. 2022. <q>Global urban environmental change drives adaptation in white clover</q>. Science, 375 (6586): 1275-1281. Adaptado.</cite>
+				<p>Com base nas informações fornecidas, é correto afirmar:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>Há menor herbivoria sobre essa população em áreas urbanas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Há uma abundância maior de insetos herbívoros em áreas urbanas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Essa espécie de erva daninha não consegue sobreviver em áreas de florestas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Há competição interespecífica entre os indivíduos que produzem ou não o composto.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A produção ou não do composto corresponde a duas espécies diferentes.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="62" success_rate="71.0">
+			<classification subject="Biology:Ecology:Population Dynamics" />
+			<statement>
+				<p>Os gráficos mostram a variação da biomassa de duas populações (A e B) de uma planta herbácea ao longo da sucessão primária. Em ambos os casos, em um dado momento indicado no gráfico, ocorre a chegada de indivíduos de uma outra espécie que interagem com essa planta na comunidade.</p>
+				<image src="fuvest/2023/fase01/q62.png" />
+				<p>Os dois tipos de interagentes que poderiam causar os efeitos representados nos gráficos para as populações A e B, respectivamente, são</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>um competidor e um herbívoro.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>um parasita e um comensal.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>um competidor e um parasita.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>um mutualista e um herbívoro.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>um comensal e um mutualista.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="63" success_rate="68.6">
+			<classification subject="Biology:Cell:Structures and Organelles" />
+			<classification subject="Biology:Human:Immune System" />
+			<statement>
+				<p>A figura representa o ciclo da leishmania, causadora da leishmaniose.</p>
+				<image src="fuvest/2023/fase01/q63.png" />
+				<cite>MOREIRA et al. 2020. <q>Aspectos fundamentais da leishmaniose cutânea no Brasil</q>. DOI:10.22533/at.ed.4852012037. Adaptado.</cite>
+				<p>O parasita sobrevive nas células do hospedeiro mamífero pela inativação de enzimas da(o) I, o que bloqueia a digestão intracelular e possibilita a continuidade do ciclo da leishmania. Uma das formas de se prevenir a transmissão dessa doença é II.</p>
+				<p>As lacunas I e II podem ser preenchidas corretamente por:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>mitocôndria e morando em zonas urbanas.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>mitocôndria e ingerindo antibióticos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>núcleo e eutanasiando cães infectados.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>lisossomo e tratando esgotos.</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>lisossomo e utilizando repelente.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="64" success_rate="89.1">
+			<classification subject="Biology:Ecology:Biodiversity and Conservation" />
+			<classification subject="Geography:Brazil:Physical:Biogeography" />
+			<statement>
+				<p>O mapa mostra a variação do número de espécies de aves no território brasileiro, com as linhas indicando os limites dos biomas.</p>
+				<image src="fuvest/2023/fase01/q64.png" />
+				<cite>JENKINS et al. 2015. <q>Patterns of vertebrate diversity and protection in Brazil</q>. PLoS ONE 10(12): e0145064. Adaptado.</cite>
+				<p>Com base no mapa, a diversidade de aves mostra-se</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>mais alta nas regiões onde predominam florestas e mais baixa nas regiões onde predomina vegetação mais aberta.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>igualmente alta nas regiões tropicais e mais baixa nas regiões subtropicais.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>igualmente baixa nas regiões mais orientais e mais alta nas regiões ocidentais.</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>mais alta nas regiões mais quentes e mais baixa nas regiões mais frias.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>mais alta nas regiões que se situam mais próximas ao mar e mais baixa nas regiões mais interiores.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="65" success_rate="34.1">
+			<classification subject="Geography:Physical:Geology" />
+			<statement>
+				<p>A superfície terrestre muda conforme a frequência e a magnitude de processos naturais, sendo alguns mais contínuos e outros mais irregulares.</p>
+				<p>Alguns eventos podem mudar rapidamente a superfície, enquanto outros a modificam lentamente.</p>
+				<image src="fuvest/2023/fase01/q65.png" />
+				<cite>GOUDIE, Andrew S.; VILES, Heather A. Landscapes and Geomorphology: A Very Short Introduction. Oxford University Press, Oxford, 2010. Adaptado.</cite>
+				<p>Com base nos dados apresentados, é possível afirmar que os números 1, 2 e 3 correspondem, respectivamente, a:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Ação eólica, erupções vulcânicas e soerguimento de cadeias montanhosas.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>Depósitos minerais, abalos sísmicos e erupções vulcânicas.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Formação de cavernas, ação eólica e soerguimento de cadeias montanhosas.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Erupções vulcânicas, abalos sísmicos e depósitos minerais.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Ação eólica, formação de cavernas e soerguimento de cadeias montanhosas.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="66" success_rate="21.0">
+			<classification subject="Physics:Electromagnetism:Electrostatics" />
+			<statement>
+				<p>O Brasil é o país recordista mundial em queda de raios, com uma estimativa de mais de 70 milhões de eventos desse tipo por ano.</p>
+				<p>Uma descarga elétrica dessas pode envolver campos elétricos da ordem de dez kilovolts por metro e um deslocamento de 30 coulombs de carga em um milésimo de segundo.</p>
+				<p>Com base nessas estimativas e assumindo o campo elétrico como sendo constante, a potência associada a um raio de 100 m de comprimento corresponde a:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>30 GW</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>3 GW</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>300 MW</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>30 MW</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>3 MW</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="67" success_rate="34.1">
+			<classification subject="Physics:Electromagnetism:Circuits" />
+			<statement>
+				<p>Termistores são termômetros baseados na variação da resistência elétrica com a temperatura e são utilizados em diversos equipamentos, como termômetros digitais domésticos, automóveis, refrigeradores e fornos.</p>
+				<p>A curva de calibração de um termistor é mostrada na figura:</p>
+				<image src="fuvest/2023/fase01/q67.png" />
+				<p>Considere que o termistor se rompa quando percorrido por uma corrente maior do que 10~mA.</p>
+				<p>Supondo que o termistor seja conectado a uma bateria de 5~V, assinale a alternativa que contém uma faixa de temperaturas em que o dispositivo sempre funcionará adequadamente:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>$10^{\circ}C&lt;T&lt;35^{\circ}C$</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>$20^{\circ}C&lt;T&lt;45^{\circ}C$</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>$30^{\circ}C&lt;T&lt;55^{\circ}C$</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>$40^{\circ}C&lt;T&lt;65^{\circ}C$</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>$50^{\circ}C&lt;T&lt;75^{\circ}C$</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>A relação entre a resistência <m>R</m> de um dispositivo, a corrente <m>I</m> que o percorre e a diferença de potencial elétrico <m>V</m> entre seus terminais é <m>V=RI</m>
+				</p>
+			</assumptions>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<context>
+			<p>The expression <q>dark doldrums</q> chills the hearts of renewable-energy engineers, who use it to refer to the lulls when solar panels and wind turbines are thwarted by clouds, night, or still air.</p>
+			<p>On a bright, cloudless day, a solar farm can generate prodigious amounts of electricity. But at night solar cells do little, and in calm air turbines sit useless.</p>
+			<p>The dark doldrums make it difficult for us to rely totally on renewable energy. Power companies need to plan not just for individual storms or windless nights but for difficulties that can stretch for days. Last year, Europe experienced a weeks-long <q>wind drought</q>, and in 2006 Hawaii endured six weeks of consecutive rainy days. On a smaller scale, communities that want to go all-renewable need to fill the gaps.</p>
+			<p>The obvious solution is batteries, which power everything from mobile phones to electric vehicles; they are relatively inexpensive to make and getting cheaper. But typical models exhaust their stored energy after only three or four hours of maximum output, and as every smartphone owner knows-their capacity dwindles with each recharge. Moreover, it is expensive to collect enough batteries to cover longer discharges.</p>
+			<p>We already have one kind of renewable energy storage: more than ninety per cent of the world's energy-storage capacity is in reservoirs, as part of a technology called pumped-storage hydropower, used to smooth out sharp increases in electricity demand. Motors pump water uphill from a river or a reservoir to a higher reservoir; when the water is released downhill, it spins a turbine, generating power. A pumped-hydro installation is like a giant, permanent battery, charged when water is pumped uphill and depleted as it flows down. Some countries are expanding their use of pumped hydro, but the right geography is hard to find, permits are difficult to obtain, and construction is slow and expensive.</p>
+			<p>The hunt is on for new approaches to energy storage.</p>
+			<cite>The New Yorker. Abril, 2022. Adaptado.</cite>
+		</context>
+
+		<objective_question number="68" success_rate="81.2">
+			<classification subject="English:Reading Comprehension" />
+			<statement>
+				<p>No texto, a expressão <q>dark doldrums</q> descreve</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>as mudanças climáticas atribuídas ao fenômeno de aquecimento global.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>os altos custos implicados na construção de fontes de energia renovável.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>os debates entre ecologistas e defensores do emprego de energia nuclear.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>os períodos de inatividade de geradores de energia como painéis solares.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>as dificuldades encontradas por comunidades rurais para distribuir eletricidade.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="69" success_rate="65.6">
+			<classification subject="English:Reading Comprehension" />
+			<statement>
+				<p>Na frase <q>But typical models exhaust their stored energy after only three or four hours of maximum output, and-as every smartphone owner knows-their capacity dwindles with each recharge.</q> (2º parágrafo), "dwindles" poderia ser substituído, sem prejuízo de sentido, por</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>improves.</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>directs.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>propagates.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>breaks.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>decreases.</p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="70" success_rate="69.6">
+			<classification subject="English:Reading Comprehension" />
+			<classification subject="Physics:Mechanics:Work and Energy" />
+			<statement>
+				<p>Segundo o texto, quando a geração de energia por células solares ou turbinas eólicas é insuficiente para atender à demanda, uma fonte de energia alternativa envolveria a conversão de</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>energia nuclear em elétrica.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>energia mecânica em térmica.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>energia mecânica em elétrica.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>energia solar em mecânica.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>energia química em elétrica.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="71" success_rate="24.9">
+			<classification subject="Chemistry:Physical:Thermochemistry" />
+			<classification subject="Physics:Modern:NuclearPhysics" />
+			<statement>
+				<p>Uma das apostas para a produção de energia limpa, sem emissão de gases de efeito estufa e sem geração de resíduos radioativos, é a fusão nuclear, como a que ocorre nas estrelas.</p>
+				<p>Em laboratório, são utilizados os isótopos de hidrogênio deutério (H) e trítio (H), que, dentro de um intenso campo magnético, são aquecidos a 150 milhões de graus Celsius.</p>
+				<p>Nessas condições, <c>{}_{1}^{2}H</c> e <c>{}_{1}^{3}H</c> fundem-se formando He e um outro subproduto, além de liberar uma grande quantidade de energia.</p>
+				<p>Com base nessas informações, assinale a alternativa que traz as informações corretas sobre qual é o subproduto formado e sobre a variação de entalpia desse processo.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>Próton; <m>\Delta H&lt;0</m>
+					</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Próton; <m>\Delta H&gt;0</m>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Nêutron; <m>\Delta H&lt;0</m>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>Nêutron; <m>\Delta H&gt;0</m>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Elétron; <m>\Delta H&lt;0</m>
+					</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="72" success_rate="42.7">
+			<classification subject="Chemistry:Physical:Thermochemistry" />
+			<statement>
+				<quote>
+					<p>De acordo com o órgão responsável pela área de telecomunicações e radiodifusão dos Estados Unidos, considera-se ionizante qualquer radiação eletromagnética que transporte energia maior que 10 eV (elétron-volts). Essa energia é equivalente àquela transportada pelo ultravioleta longínquo, uma das faixas mais energéticas do ultravioleta, que se estende entre 122 nm e 200 nm de comprimento de onda.</p>
+				</quote>
+				<cite>Disponível em https://mundoeducacao.uol.com.br/. Adaptado.</cite>
+				<quote>
+					<p>De acordo com a professora Patricia Nicolucci, da USP, há dois tipos de radiação: a ionizante e a não ionizante. Mas elas possuem características diferentes de interação com o corpo humano. ‘[Alguns tipos de radiação] são consideradas não ionizantes porque a energia não é suficiente para liberar elétrons quando interagem com o tecido do corpo humano ou qualquer outro material. Já a radiação ionizante, utilizada em medicina nuclear e em radioterapia, tem uma energia maior, o que lhe confere essa característica de tirar elétrons dos átomos da matéria com a qual interage’.</p>
+				</quote>
+				<cite>Disponível em https://www5.usp.br/noticias/. Adaptado.</cite>
+				<p>Com base nos textos e nos seus conhecimentos, assinale a alternativa correta.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>A luz de lâmpadas brancas, as micro-ondas e o laser vermelho podem ser considerados exemplos de radiação não ionizante.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Radiação eletromagnética de comprimentos de onda maiores tem um efeito ionizante mais acentuado do que a de comprimentos de onda menores.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Luz visível não pode ser considerada uma forma de radiação, uma vez que tem efeitos desprezíveis sobre tecidos do corpo humano.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>O efeito fotoelétrico é um exemplo de interação de radiação não ionizante com a matéria.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A liberação de elétrons de moléculas de tecidos do corpo humano por radiações ionizantes não afeta as propriedades químicas dessas moléculas.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="73" success_rate="32.9">
+			<classification subject="Physics:Optics:GeometricOptics" />
+			<statement>
+				<p>A figura ilustra de maneira simplificada o fenômeno da dispersão da luz branca ao incidir sobre um prisma de vidro a partir do ar, mostrando apenas raios refratados correspondentes a três cores diferentes.</p>
+				<image src="fuvest/2023/fase01/q73.png" />
+				<p>Um fenômeno análogo é responsável pelo aparecimento do arco-íris após uma chuva.</p>
+				<p>Na base do fenômeno da dispersão está a refração de raios luminosos quando incidem sobre uma interface que separa dois meios físicos distintos. </p>
+				<p>A descrição matemática da refração é feita pela lei de Snell, conforme apresentada a seguir:</p>
+				<p>
+					<m>n_{i,\lambda}sen\theta_{i}=n_{r,\lambda}sen\theta_{r}</m>]</p>
+				<p>em que:</p>
+				<list>
+					<item>
+						<p>
+							<m>n_{i,\lambda}</m> é o índice de refração da luz de comprimento de onda <m>λ</m> no meio incidente,</p>
+					</item>
+					<item>
+						<p>
+							<m>\theta_{i}</m> é o ângulo que o raio incidente faz com a reta normal à interface,</p>
+					</item>
+					<item>
+						<p>
+							<m>n_{r,\lambda}</m> o índice de refração da mesma luz no meio refratado e </p>
+					</item>
+					<item>
+						<p>
+							<m>\theta_{r}</m> é o ângulo que o raio refratado faz com a reta normal à interface.</p>
+					</item>
+				</list>
+				<p>O índice de refração do ar pode ser tomado como igual a 1 para qualquer comprimento de onda. </p>
+				<p>Com base nessas informações, a relação correta entre os índices de refração dos raios das cores 1 $(n_{1})$, 2 $(n_{2})$ e 3 $(n_{3})$ no vidro é dada por: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>n_{1}=n_{2}=n_{3}&gt;1</m>
+					</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>
+						<m>n_{1}&gt;n_{2}&gt;n_{3}&gt;1</m>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>
+						<m>1&lt;n_{1}&lt;n_{2}&lt;n_{3}</m>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>n_{1}&lt;n_{2}&lt;n_{3}&lt;1</m>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<m>1&gt;n_{1}&gt;n_{2}&gt;n_{3}</m>
+					</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>A função seno é crescente quando está entre 0 e 90 graus. </p>
+			</assumptions>
+		</objective_question>
+
+		<objective_question number="74" success_rate="64.8">
+			<classification subject="Chemistry:Inorganic:Acids and Bases" />
+			<statement>
+				<p>A obra <q>Rosa e Azul</q>, também conhecida como "As Meninas Cahen d'Anvers", é uma pintura a óleo de Pierre-Auguste Renoir. </p>
+				<image src="fuvest/2023/fase01/q74_1.png" />
+				<p>Numa aula de artes, solicitou-se aos alunos que fizessem uma releitura dessa obra utilizando uma <q>tinta</q> preparada com extrato de repolho roxo. </p>
+				<p>Esse extrato fica rosa em valores de pH menores que 5 e azul em valores próximos a 8, conforme figura a seguir, que mostra a cor da solução em diferentes valores de pH. </p>
+				<image src="fuvest/2023/fase01/q74_2.png" />
+				<p>Com base no exposto, qual das alternativas apresenta compostos ou produtos que poderiam ser usados para preparar uma <q>tinta</q> rosa/vermelha e uma azul/verde empregando o extrato de repolho roxo? </p>
+			</statement>
+			<options_table>
+				<header>
+					<cell>
+						<p>Rosa/Vermelha</p>
+					</cell>
+					<cell>
+						<p>Azul/Verde</p>
+					</cell>
+				</header>
+				<option label="A" is_correct="false">
+					<cell>
+						<p>Açúcar</p>
+					</cell>
+					<cell>
+						<p>Sal de cozinha</p>
+					</cell>
+				</option>
+				<option label="B" is_correct="false">
+					<cell>
+						<p>Sal de cozinha</p>
+					</cell>
+					<cell>
+						<p>Bicarbonato de sódio</p>
+					</cell>
+				</option>
+				<option label="C" is_correct="false">
+					<cell>
+						<p>Bicarbonato de sódio</p>
+					</cell>
+					<cell>
+						<p>Vinagre</p>
+					</cell>
+				</option>
+				<option label="D" is_correct="false">
+					<cell>
+						<p>Açúcar</p>
+					</cell>
+					<cell>
+						<p>Soda cáustica</p>
+					</cell>
+				</option>
+				<option label="E" is_correct="true">
+					<cell>
+						<p>Suco de limão</p>
+					</cell>
+					<cell>
+						<p>Bicarbonato de sódio</p>
+					</cell>
+				</option>
+			</options_table>
+		</objective_question>
+
+		<objective_question number="75" success_rate="71.1">
+			<classification subject="Portuguese:Text Interpretation" />
+			<statement>
+				<image src="fuvest/2023/fase01/q75.png" />
+				<cite>SCIENCE MEMES. Adaptado. </cite>
+				<p>No meme, a inadequação da resposta à questão está baseada no efeito de sentido proveniente da presença de </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>metáfora. </p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>trocadilho. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>sinédoque. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>eufemismo. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>comparação. </p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="76" success_rate="64.9">
+			<classification subject="Physics:Mechanics:Newton's Second Law" />
+			<statement>
+				<p>Os lagartos do gênero Basiliscus têm a capacidade incomum de correr sobre a água. </p>
+				<p>Essa espécie possui uma membrana entre os dedos que aumenta a área superficial de suas patas traseiras. </p>
+				<p>Com uma combinação de forças verticais de suporte e forças horizontais propulsivas geradas pelo movimento de suas patas na água, o lagarto consegue obter impulso resultante para cima e para frente, conforme figura a seguir. </p>
+				<image src="fuvest/2023/fase01/q76.png" />
+				<cite>Disponível em https://wonderopolis.org/. </cite>
+				<p>Isso garante uma estabilidade dinâmica na superfície da água, em corridas que podem chegar a dezenas de metros, dependendo do peso e da idade do animal. </p>
+				<p>Sobre esse movimento, é correto afirmar: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>A componente vertical da reação à força gerada pelas patadas na água compensa o peso do animal, fazendo com que ele não afunde. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>O mecanismo de flutuação do lagarto advém de um equilíbrio hidrostático, que pode ser explicado pelo princípio de Arquimedes. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Por ser um meio viscoso, a água possui um atrito desprezível, facilitando a flutuação. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>A alta salinidade da água é uma condição necessária para que ocorra um equilíbrio entre as forças envolvidas no movimento. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>A tensão superficial da água, por si só, é suficiente para impedir que o animal afunde. </p>
+				</option>
+			</options>
+		</objective_question>
+
+		<objective_question number="77" success_rate="24.3">
+			<classification subject="Physics:Mechanics:Energy and Momentum Methods" />
+			<statement>
+				<p>Um tradicional brinquedo infantil, conhecido como bate-bate, é composto por duas esferas (bolinhas) de massas iguais conectadas cada qual por uma corda e amarradas num ponto comum. </p>
+				<image src="fuvest/2023/fase01/q77.png" />
+				<p>Desloca-se a bolinha 1 de uma altura h, conforme ilustrado no arranjo: </p>
+				<p>Ao soltar a esfera 1, ela colidirá com a bolinha 2, inicialmente em repouso. </p>
+				<p>Supondo que a colisão seja perfeitamente elástica, verifica-se que, após a colisão, a esfera 2 subirá para a mesma altura h. </p>
+				<p>Imagine agora que uma pequena goma colante seja colocada numa das esferas de modo que, após a colisão, ambas permaneçam unidas. </p>
+				<p>Neste caso, após a colisão, a altura alcançada pelo sistema formado pelas duas bolinhas unidas será: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>$h/8$ </p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>$h/4$ </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>$h/3$ </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>$h/2$ </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>h </p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Desconsiderar a massa da goma. </p>
+			</assumptions>
+		</objective_question>
+
+		<objective_question number="78" success_rate="33.2">
+			<classification subject="Physics:Mechanics:Gravitation" />
+			<statement>
+				<p>O telescópio espacial James Webb, lançado em dezembro de 2021, move-se nas proximidades de um ponto especial chamado ponto de Lagrange, sobre o qual um objeto orbita o Sol com o mesmo período de translação que a Terra.</p>
+				<p>O esquema a seguir, fora de escala, representa o Sol, a Terra e o telescópio Webb, com as respectivas massas e distâncias indicadas. </p>
+				<image src="fuvest/2023/fase01/q78.png" />
+				<p>A força resultante necessária para manter um objeto de massa m em uma órbita circular de raio <m>R</m> com velocidade angular <m>w</m> é <m>F=m\omega^{2}R</m>.</p>
+				<p>Sendo <m>F_{T}</m> e <m>F_{W}</m> as intensidades das forças gravitacionais resultantes sobre a Terra e sobre o telescópio, respectivamente, assinale a alternativa que descreve a razão <m>F_{W}/F_{T}</m> entre essas forças.</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{m_{W}R_{T}}{m_{T}R_{W}}</m>
+					</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{(m_{T}+m_{S})R_{W}}{m_{T}R_{T}}</m>
+					</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{m_{W}R_{W}}{m_{T}R_{T}}</m>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{m_{W}(R_{W}-R_{T})}{m_{T}R_{T}}</m>
+					</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<m>\frac{F_{W}}{F_{T}}=\frac{m_{T}(R_{W}-R_{T})}{m_{W}R_{T}}</m>
+					</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Despreze os efeitos gravitacionais da Lua e suponha que <m>m_{w}</m> seja desprezível frente às outras massas e que as órbitas sejam perfeitamente circulares. </p>
+				<p>Suponha ainda que o telescópio se situe exatamente sobre o ponto de Lagrange. </p>
+			</assumptions>
+		</objective_question>
+
+		<objective_question number="79" success_rate="38.1">
+			<classification subject="Physics:Mechanics:Work and Energy" />
+			<classification subject="Physics:Thermodynamics" />
+			<statement>
+				<p>O slam ball é um exercício funcional no qual o praticante eleva uma bola especial acima da cabeça e, após uma breve pausa, a atira no chão, como mostra figura: </p>
+				<image src="fuvest/2023/fase01/q79.png" />
+				<p>Considere uma pessoa de 1,70~m que eleva uma bola de 6~kg a uma altura de 40~cm acima da sua cabeça. </p>
+				<p>Em seguida, a pessoa realiza sobre a bola um trabalho adicional de 10 calorias para arremessá-la. </p>
+				<p>Se a colisão da bola com o solo for perfeitamente inelástica, a energia total dissipada na colisão será de </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>10 cal. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>20 cal. </p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>30 cal. </p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>40 cal. </p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>50 cal. </p>
+				</option>
+			</options>
+			<assumptions>
+				<p>Considere 1 cal = 4,2 J e <m>g=10</m>~m/s^{2}$ </p>
+			</assumptions>
+		</objective_question>
+
+		<objective_question number="80" success_rate="30.1">
+			<classification subject="Chemistry:General:ChemicalEquilibrium" />
+			<classification subject="Chemistry:Biochemistry:Proteins" />
+			<statement>
+				<p>O processo de transporte de <c>O2</c> para a respiração pode ser entendido como um processo de equilíbrio químico entre a hemoglobina (Hb) e o <c>O2</c>. A Hb é uma proteína do sangue responsável pelo transporte do <c>O2</c> que também pode existir na forma protonada como HbH. </p>
+				<p>Dependendo da concentração de <c>CO2</c>, podem ocorrer a alcalose ou a acidose respiratória. </p>
+				<p>A ligação do oxigênio com a HbH gera a forma oxigenada (<c>HbO2</c>), como pode ser representado pela equação química simplificada: </p>
+				<p>
+					<c>HbH^{+}(aq)+O_{2}(g)\rightleftharpoons HbO_{2}(aq)+H^{+}(aq)</c>
+				</p>
+				<p>O dióxido de carbono liberado na respiração pode alterar esse equilíbrio devido à formação de ácido carbônico, representado pela equação:</p>
+				<p>
+					<c>CO_{2}(g)+H_{2}O(l)\rightleftharpoons H^{+}(aq)+HCO_{3}^{-}(aq)$</c>
+				</p>
+				<p>Com base nessas informações, é correto afirmar: </p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>Nos pulmões, onde a concentração de oxigênio é mais elevada, a forma de hemoglobina favorecida é a protonada. </p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>Nos tecidos humanos, onde é consumido <c>O2</c> pelo metabolismo, a forma de hemoglobina favorecida é a <c>HbO2</c>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>Quando uma pessoa expira mais depressa que o normal, a concentração de dióxido de carbono no seu sangue diminui e, nessas situações, a forma de hemoglobina favorecida é a forma protonada. </p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>Nos tecidos humanos, onde é liberado dióxido de carbono produzido pelo metabolismo, a forma de hemoglobina favorecida é a forma protonada. </p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>Nos tecidos humanos, onde é liberado dióxido de carbono produzido pelo metabolismo, a forma de hemoglobina favorecida é a <c>HbO2</c>. </p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="81" success_rate="71.4">
+			<classification subject="Biology:Human:Endocrine System" />
+			<classification subject="Biology:Human:Homeostasis and Regulation" />
+			<statement>
+				<p>Os três gráficos mostram o comportamento circadiano das variáveis hormônio melatonina (produzida na glândula pineal), hormônio cortisol (produzido nas glândulas supra-renais) e temperatura corpórea em indivíduos saudáveis ao longo do dia (retângulo claro) e da noite (retângulo escuro). As linhas azuis (pontilhadas) correspondem a indivíduos mais jovens, e as vermelhas (contínuas), a indivíduos mais idosos.</p>
+				<image src="fuvest/2023/fase01/q81.png" />
+				<cite>HOOD &amp; AMIR, 2017. <q>The aging clock: circadian rhythms and later life</q>. The Journal of Clinical Investigation, 127(2): 437-446. Adaptado.</cite>
+				<p>Com base nos gráficos, é correto afirmar que</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>as amplitudes das variáveis são menores nos indivíduos mais idosos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>indivíduos jovens sentem mais sono durante o dia porque produzem mais melatonina que os mais idosos.</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>picos de alta na produção desses hormônios diminuem o estado de vigília e causam a condição de sono à noite.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>o pico de melatonina causa a menor temperatura em pessoas mais idosas em relação às mais jovens à noite.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>o cortisol não demonstra ritmo circadiano, o qual ocorre apenas na melatonina e na temperatura.</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="82" success_rate="23.2">
+			<classification subject="Geography:Human:Population and Demographics" />
+			<statement>
+				<p>O gráfico a seguir apresenta o registro histórico e a projeção do total de mortes e nascimentos em certa região do mundo em dado período:</p>
+				<image src="fuvest/2023/fase01/q82.png" />
+				<cite>ONU, 2019.</cite>
+				<p>A partir disso, assinale a pirâmide etária que melhor representa as informações projetadas para o ano de 2050:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>(A)</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>(B)</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>(C)</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>(D)</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>(E)</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="83" success_rate="18.0">
+			<classification subject="Biology:Genetics:Mendelian Genetics" />
+			<statement>
+				<p>O heredograma a seguir mostra o aparecimento de AME (atrofia muscular espinhal) em um menino, filho de um casal de primos.</p>
+				<image src="fuvest/2023/fase01/q83.png" />
+				<p>A AME é uma doença autossômica recessiva rara, muitas vezes fatal na primeira infância, provocada pela morte de neurônios motores. Uma das causas da AME é uma mutação no gene SMN1, cuja frequência é de 2% na população sem AME (uma em cada 50 pessoas tem um alelo mutante).</p>
+				<p>Considerando os genótipos prováveis da mulher II.2 e que não há relação de parentesco com seu parceiro, a probabilidade de uma criança deste casal ser portadora da AME é uma em:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>50</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>100</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>200</p>
+				</option>
+				<option label="D" is_correct="true">
+					<p>300</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>600</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="84" success_rate="32.3">
+			<classification subject="Math:Combinatorics:Combinations" />
+			<statement>
+				<p>Um professor precisa elaborar uma prova multidisciplinar que consta de duas questões de Matemática e seis de Física. Ele deve escolher questões de um banco de dados que contém três questões de Matemática e oito de Física.</p>
+				<p>O número de provas distintas possíveis, sem levar em conta a ordem em que as questões aparecem, é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>42</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>54</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>62</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>72</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>84</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="85" success_rate="41.1">
+			<classification subject="Math:Algebra:Logarithmic" />
+			<statement>
+				<p>A FIFA (Federação Internacional de Futebol) implementou, em 2018, a versão mais recente do ranking das seleções. Suponha que as seleções A e B, com pontuações <m>P_A</m> e <m>P_B</m>, respectivamente, disputarão uma final de Copa do Mundo. A pontuação atualizada da seleção A após a partida será dada por</p>
+				<p>
+					<math>P'_{A} = P_{A} + 60(V_{A} - E_{A})</math>,</p>
+				<p>onde</p>
+				<p>
+					<math>E_{A} = \frac{10^{\frac{P_{A}-P_{B}}{600}}}{1 + 10^{\frac{P_{A}-P_{B}}{600}}}</math>
+				</p>
+				<p>e o valor de <m>V_A</m> depende do resultado da partida de acordo com a tabela:</p>
+				<table>
+					<header>
+						<cell>
+							<p>Resultado da partida</p>
+						</cell>
+						<cell>
+							<p>Valor de <m>V_A</m>
+							</p>
+						</cell>
+					</header>
+					<row>
+						<cell>
+							<p>Vitória de A</p>
+						</cell>
+						<cell>
+							<p>1</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>Empate</p>
+						</cell>
+						<cell>
+							<p>0,5</p>
+						</cell>
+					</row>
+					<row>
+						<cell>
+							<p>Derrota de A</p>
+						</cell>
+						<cell>
+							<p>0</p>
+						</cell>
+					</row>
+				</table>
+				<p>Sabendo que <m>P_A - P_B = 360</m>, se a seleção A vencer a partida, sua pontuação aumentará em</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>6 pontos.</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>10 pontos.</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>12 pontos.</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>15 pontos.</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>20 pontos.</p>
+				</option>
+			</options>
+			<assumptions>
+				<p>
+					<m>\log_{10}2 = 0.3</m>
+				</p>
+			</assumptions>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="86" success_rate="57.3">
+			<classification subject="Math:Geometry:Solid Geometry" />
+			<statement>
+				<p>Para medir o volume de uma pedra com formato irregular, Ana utilizou um recipiente cilíndrico de raio <m>r = 8</m>~cm e com água até a altura de 20~cm. Após colocar a pedra no recipiente, a altura da água subiu para 23,5~cm.</p>
+				<image src="fuvest/2023/fase01/q86.png" />
+				<p>O volume da pedra é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>128\pi</m>~cm³</p>
+				</option>
+				<option label="B" is_correct="true">
+					<p>
+						<m>224\pi</m>~cm³</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>
+						<m>240\pi</m>~cm³</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>282\pi</m>~cm³</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>
+						<m>320\pi</m>~cm³</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="87" success_rate="36.8">
+			<classification subject="Math:Number Sets" />
+			<statement>
+				<p>Dado um número natural <m>n \ge 2</m>, o primorial de <m>n</m>, denotado por <m>n#</m>, é o produto de todos os números primos menores que ou iguais a <m>n</m>. Por exemplo, <m>6\# = 2 \cdot 3 \cdot 5 = 30</m>.</p>
+				<p>O menor número da forma n# que é maior que 2000 é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>2300</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>2305</p>
+				</option>
+				<option label="C" is_correct="true">
+					<p>2310</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>2312</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>2322</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="88" success_rate="48.0">
+			<classification subject="Math:Geometry:Analytic Geometry" />
+			<statement>
+				<p>Considere a região do plano cartesiano</p>
+				<p>
+					<math>A = \{(x,y) \in \mathbb{R}^2 : |x| + |y| \le 1\}</math>
+				</p>
+				<p>esboçada na figura.</p>
+				<image src="fuvest/2023/fase01/q89.png" />
+				<p>Dado <m>B = \{(x,y) \in \mathbb{R}^2 : (x+1)^2 + y^2 \ge 1\}</m>, a área da região <m>A ∩ B</m> é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="false">
+					<p>
+						<m>2 - \frac{\pi}{4}</m>
+					</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>
+						<m>2 - \frac{\pi}{2}</m>
+					</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>
+						<m>4 + \frac{\pi}{2}</m>
+					</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>
+						<m>4 - \frac{\pi}{4}</m>
+					</p>
+				</option>
+				<option label="E" is_correct="true">
+					<p>
+						<m>2 + \frac{\pi}{2}</m>
+					</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="89" success_rate="22.1">
+			<classification subject="Math:Geometry:Plane Geometry" />
+			<statement>
+				<p>Um ladrilhamento é chamado de uniforme se é composto por polígonos regulares que preenchem todo o plano sem sobreposição e, além disso, o padrão é o mesmo em cada vértice. Para classificá-los, utilizamos uma notação dada por uma sequência de números que é definida desta forma: escolhemos um vértice qualquer e indicamos o número de lados de cada polígono que contém este vértice, seguindo o sentido anti-horário, iniciando com os polígonos de menos lados, conforme os exemplos:</p>
+				<image src="fuvest/2023/fase01/q88_1.png" />
+				<p>A foto mostra o piso de um museu em Sevilha.</p>
+				<image src="fuvest/2023/fase01/q88_2.png" />
+				<p>A notação que representa o padrão do ladrilhamento do piso é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>(3.3.3.4)</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>(3.3.4.6)</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>(3.4.4.4)</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>(3.4.4.6)</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>(3.4.6.4)</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+
+	<question_group>
+		<objective_question number="90" success_rate="25.8">
+			<classification subject="Math:Algebra:Logarithmic" />
+			<statement>
+				<p>No plano cartesiano, os pontos (3,2) e (5,4) pertencem ao gráfico da função dada por</p>
+				<p>
+					<math>y = \log_2(ax+b)</math>.</p>
+				<p>O valor de $a+b$ é:</p>
+			</statement>
+			<options>
+				<option label="A" is_correct="true">
+					<p>-8</p>
+				</option>
+				<option label="B" is_correct="false">
+					<p>-6</p>
+				</option>
+				<option label="C" is_correct="false">
+					<p>0</p>
+				</option>
+				<option label="D" is_correct="false">
+					<p>4</p>
+				</option>
+				<option label="E" is_correct="false">
+					<p>8</p>
+				</option>
+			</options>
+		</objective_question>
+	</question_group>
+</exam>

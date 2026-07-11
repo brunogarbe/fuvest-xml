@@ -1,0 +1,1740 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1998" phase="objective" day="0" variation="V1" date="1998-01-01" lang="pt-br">
+  <question_group>
+    <context>
+      <p>Detenho-me diante de uma lareira e olho o fogo. É gordo e vermelho, como nas pinturas antigas; remexo as brasas com o ferro, baixo um pouco a tampa de metal e então ele chia com mais força, estala, raiveja, grunhe. Abro: mais intensos clarões vermelhos lambem o grande quarto e a grande cômoda velha parece regozijar-se ao receber a luz desse honesto fogo. Há chamas douradas, pinceladas azuis, brasas rubras e outras cor-de-rosa, numa delicadeza de guache. Lá no alto, todas as minhas chaminés devem estar fumegando com seus penachos brancos na noite escura; não é a lenha do fogo, é toda a minha fragata velha que estala de popa a proa, e vai partir no mar de chuva. Dentro, leva cálidos corações. (Rubem Braga)</p>
+    </context>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em relação ao texto, a única afirmação que NÃO está correta é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Nos dois primeiros períodos, o fenômeno da repetição é rigorosamente controlado pelo narrador, sobretudo por meio do recurso da elipse.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Na expressão “ele chia”, o narrador explicitou o pronome para estabelecer, com maior precisão, a relação entre a ação expressa pelo verbo chiar e “fogo”, atrás referido.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>No segundo e terceiro períodos, a coerência entre as ações do narrador e as ações atribuídas a “fogo” é estabelecida por meio de relações de causa e conseqüência.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Em “Abro”, estão subentendidos eu e tampa de metal.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Os dois pontos utilizados após “Abro” permitem introduzir o complemento da ação de abrir.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Há uma gradação crescente em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“...e então ele chia com mais força, estala, raiveja, grunhe.”</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“...mais intensos clarões lambem o grande quarto...”</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“Há chamas douradas, pinceladas azuis, brasas rubras e outras cor-derosa, numa delicadeza de guache.”</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“Lá no alto, todas as minhas chaminés devem estar fumegando com seus penachos brancos na noite escura... .”</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“...é toda a minha fragata velha que estala de popa a proa, e vai partir no mar de chuva.”</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No excerto, o narrador propõe um percurso metafórico que vai do aquecimento da casa à imagem da partida de um barco. O segmento em que se reforça e se explicita essa passagem do plano literal ao metafórico é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“...numa delicadeza de guache.”</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“...todas as minhas chaminés devem estar fumegando com seus penachos brancos na noite escura...”</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“...não é a lenha do fogo, é toda a minha fragata velha que estala de popa a proa ...”</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“...e vai partir no mar de chuva.”</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“Dentro, leva cálidos corações.”</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A mesma relação semântica assinalada pela conjunção e na frase “Detenho-me diante de uma lareira e olho o fogo” encontra-se também em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>E, a cada dia, você tem mais lugares onde pode contar com a comodidade de pagar suas despesas com cartões de crédito.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Realizada pela primeira vez em outubro do ano passado, a Semana de Arte e Cultura da USP tenta conquistar seu espaço na agenda cultural de São Paulo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Carro quebra no meio da estrada e casal pede ajuda a um motorista que passa pelo local.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Quisera falar com o ladrão, e nada fizera.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>E seu irmão Dito é o dono daqui?</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A Casa não passava, bem dizer, de uma casarancho. A rebaixa – um alpendre cercado -; o rancho de carros-de-boi; outros ranchos; outras casinhas; outros rústicos pavilhões. A apresentação de elementos descritivos estáticos, por meio de frases nominais, ocorre também em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Convidei-o silenciosamente olhando uma janela por onde se viam, sobre livros de escrituração, as suíças brancas e os óculos de seu Ribeiro.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>E mestre Caetano gemendo no catre, recebia todas as semanas um dinheirão de Madalena. Visitas, remédios de farmácia, galinhas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>E tu falavas de um amor celeste, De um anjo, que depois se fez esposa...</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Pera aquele fogo ardente, que nom temeste vivendo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Projetava-se nela a imagem de mulher poderosa e humilde ao mesmo tempo. 3V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>e 08 Olhava mais era para Mãe. Drelina era bonita, a Chica, Tomezinho. Sorriu para Tio Terêz: - “Tio Terêz, o senhor parece com Pai...” Todos choravam. O doutor limpou a goela, disse: - “Não sei, quando eu tiro esses óculos, tão fortes, até meus olhos se enchem d’água...” Miguilim entregou a ele os óculos outra vez. Um soluçozinho veio. Dito e a Cuca Pingo-de-Ouro. E o Pai. Sempre alegre, Miguilim... Sempre alegre, Miguilim... Nem sabia o que era alegria e tristeza. Mãe o beijava. A Rosa punha-lhe doces-de-leite nas algibeiras, para a viagem. Papaco-o-Paco falava, alto, falava.</p>
+    </context>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Não sei, quando eu tiro esses óculos, tão fortes, até meus olhos se enchem d’água...” O valor semântico de até coincide com o do texto em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Me disseram que na casa dele até cachorro sabe padre-nosso.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Bebeu uma bagaceira, saiu para a rua, sob a chuva intensa, andou até a segunda esquina, atravessou a avenida... .</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Até então, ele não inquietava os investidores, uma vez que era utilizado para financiar investimentos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Não sei se poderei esperar até a próxima semana.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Foi até a sala e retornou.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Do ponto de vista do estilo e da relação deste com o sentido, esse trecho caracteriza-se</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pela sucessão de frases curtas e entrecortadas, que mimetizam o ritmo da emoção implicada na cena.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>pela conjunção de narrador em primeira pessoa e em terceira pessoa, interligando solidamente emissor e receptor.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pelo recurso intensivo às figuras de linguagem, com predomínio das metáforas sobre as metonímias - o que potencia o teor simbólico do texto.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pelo predomínio da função emotiva sobre as funções poética e conativa, o que gera a força encantatória própria do texto.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>pela dominância da adjetivação afetiva, que traz à tona e potencia a emoção própria da cena.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Neste trecho de Campo Geral, de Guimarães Rosa, as expressões grifadas pelo autor retomam, ao final da narrativa,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>os versos sertanejos cantados pelo vaqueiro Salúz, em seu desejo de consolar Miguilim.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a mensagem inicial de Tio Terêz, unindo, assim, o princípio e o fim da história.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>as lições de conformidade e alegria de Mãitina a Miguilim, enraizadas no catolicismo popular.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a derradeira lição da sabedoria do Dito, reforçada depois por seu Aristeu.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o ensinamento do Grivo, cuja pobreza extrema era, no entanto, fonte de doçura e alegria.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre Fogo morto, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o caráter estanque de suas partes constitutivas é sublinhado pela mudança do foco narrativo em cada uma delas, indo da primeira à terceira pessoa narrativas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a relativa descontinuidade de sua divisão tripartite é contrastada pela recorrência de temas e motivos internos que atravessam todo o romance.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o caráter descontínuo e inconcluso de seu enredo é compensado pelas reflexões do narrador-personagem, que conferem finalização e acabamento ao romance.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o caráter estanque de sua divisão tripartite é, no entanto, convertido à unidade pela comunicabilidade e entendimento mútuo das personagens principais.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a cada uma das classes sociais nele representadas, o romance reserva um estilo de narrar próprio: erudito para os senhores de engenho, oral-popular para as camadas humildes e cangaceiros. 4V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Os dados sobre a educação dos brasileiros revelados pelo minicenso do IBGE permitem várias leituras – todas elas acusando uma tendência positiva, apesar de alguns números absolutos causarem preocupação. Ainda há perto de 2 milhões e meio de crianças sem escolas no País, não tanto, tudo leva a crer, por deficiência da rede física. De fato, pode ler-se no censo que, embora esteja longe da ideal, a expansão quantitativa das escolas já permite ao governo redirecionar investimentos para a expansão qualitativa do ensino. (O Estado de S. Paulo, 10/08/97, A3)</p>
+    </context>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Conclui-se corretamente do texto que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>os investimentos governamentais, até o momento deste artigo, não estavam preferencialmente direcionados para a melhoria da qualidade de ensino.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>os números absolutos não permitem ter uma visão positiva do minicenso do IBGE.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o número de escolas e vagas oferecidas, apesar de não ter atingido o ideal, evidencia que o governo passará a investir mais na qualidade de ensino.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o crescimento quantitativo do ensino depende de investimentos anteriores no crescimento qualitativo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>os números absolutos causam preocupação, mas demonstram avanços qualitativos no ensino.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“...todas elas acusando uma tendência positiva, apesar de alguns números absolutos causarem preocupação.” A expressão que evita uma contradição, no excerto acima, é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“todas elas”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“tendência positiva”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“apesar de”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“alguns”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“números absolutos”.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A negociação entre presidência e oposição é condição sine qua non para que a nova lei seja aprovada. A expressão latina em itálico, largamente utilizada em contextos de língua portuguesa, significa, neste caso:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>prioritária.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>relevante.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>pertinente.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>imprescindível.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>urgente.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Não se trata aqui, é óbvio, de procurar eximir os meios de comunicação da responsabilidade por seus produtos. Mas determinar de antemão o que não pode ser veiculado é policiar a expressão livre de idéias e informações – ou seja, chancelar a censura. (Folha de S. Paulo, 28/08/97, 1-2) Depreende-se do texto que seu autor</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pretende corroborar a censura, embora afirme que os meios de comunicação devem ser responsabilizados por seus produtos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>isenta os meios de comunicação de responsabilidades em relação aos produtos que veiculam.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>posiciona-se contra a censura prévia e reconhece que os meios de comunicação podem ser responsabilizados pelos produtos que veiculam.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pretende evitar a censura, estabelecendo critérios prévios quanto ao que pode ou não ser veiculado nos meios de comunicação.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>busca transferir para o próprio órgão de imprensa a responsabilidade pela censura prévia.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A única frase em que a correlação de tempos e modos NÃO foi corretamente observada é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Segundo os Correios, se a greve terminar amanhã, as entregas serão normalizadas em 13 dias.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Para que o agricultor não se limitasse aos recursos oficiais, as fábricas também criaram suas próprias linhas de crédito.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Um dos seus projetos de lei exigia que os professores e servidores das universidades fizessem exames antidoping.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Na discussão do projeto, o deputado duvidou que o colega era o autor da emenda.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A Câmara Municipal aprovou a lei que concede descontos a multas e juros que estão em atraso.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O valor semântico de desNÃO coincide com o do par centralização/descentralização apenas em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Despregar o prego foi mais difícil do que pregá-lo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“Belo, belo, que vou para o Céu ...” – e se soltou, para voar: descaiu foi lá de riba, no chão muito se machucou.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Enquanto isso ele ficava ali em Casa, em certo repouso, até a saúde de tudo se desameaçar.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A despoluição do rio Tietê é um repto urgente aos políticos e à população de São Paulo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O governo de Israel decidiu desbloquear metade da renda de arrecadação fiscal que Israel devia à Autoridade Nacional Palestina. 5V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>...se decida a pedir a este rio (...) que me faça aquele enterro (...) ...e aquele acompanhamento de água que sempre desfila (que o rio, aqui no Recife, não seca, vai toda a vida). Nas ocorrências assinaladas, a partícula que serve, RESPECTIVAMENTE, para I. introduzir um complemento para decida; referir a água o ato de desfilar; introduzir uma justificativa para o uso de sempre. II. introduzir um complemento para decida; estabelecer uma relação com aquele; introduzir uma justificativa para o uso de aqui. III. introduzir um complemento para pedir; referir a acompanhamento o ato de desfilar; introduzir uma justificativa para o uso de sempre. Em relação ao texto, está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II e III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A palavra sanção com o significado de ratificação ocorre apenas em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Aplicar sanções a grevistas não é direito nem dever de um presidente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Eventual sanção do presidente à nova lei, aprovada ontem, poderá desagradar a setores de todas as categorias.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>As sanções previstas na lei eleitoral não exercem influências significativas sobre a paixão dos militantes.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O novo diretor prefere sanções a diálogos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O contrato prevê sanções para os inadimplentes.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>É mudo aquele a quem irmão chamamos, E a mão que tantas vezes apertamos Agora é fria já! Não mais nos bancos esse rosto amigo Hoje escondido no fatal jazigo Conosco sorrirá! Nestes versos de Casimiro de Abreu, o pronome sublinhado revela um emprego denotativo de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>tempo presente e proximidade física.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>tempo passado e proximidade física.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>tempo futuro e afastamento físico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>tempo futuro e proximidade física.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>tempo passado e afastamento físico.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>É correto afirmar que, em Morte e vida severina,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a alternância das falas de ricos e de pobres, em contraste, imprime à dinâmica geral do poema o ritmo da luta de classes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a visão do mar aberto, quando Severino finalmente chega ao Recife, representa para o retirante a primeira afirmação da vida contra a morte.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o caráter de afirmação da vida, apesar de toda a miséria, comprova-se pela ausência da idéia de suicídio.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>as falas finais do retirante, após o nascimento de seu filho, configuram o momento afirmativo, por excelência, do poema.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a viagem do retirante, que atravessa ambientes menos e mais hostis, mostra-lhe que a miséria é a mesma, apesar dessas variações do meio físico.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Se em ambos os contos a dominação social é tema de primeiro plano, cabe, no entanto, fazer uma distinção: em um deles, ela é direta, e aparece sob a forma do capricho e do arbítrio patronais; já em outro, ela é mais moderna - torna-se indireta e anônima. A distinção realizada nesta afirmação refere-se, RESPECTIVAMENTE, aos seguintes contos de Mário de Andrade (Contos novos):</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“Nelson” e “O poço”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“O ladrão” e “O poço”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“O ladrão” e “Nelson”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“O poço” e “Primeiro de maio”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“Primeiro de maio” e “O ladrão”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as seguintes afirmações sobre o Auto da Barca do Inferno, de Gil Vicente: I. O auto atinge seu clímax na cena do Fidalgo, personagem que reúne em si os vícios das diferentes categorias sociais anteriormente representadas. II. A descontinuidade das cenas é coerente com o caráter didático do auto, pois facilita o distanciamento do espectador. III. A caricatura dos tipos sociais presentes no auto não é gratuita nem artificial, mas resulta da acentuação de traços típicos. Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II e III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I e III. 6V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O primo Basílio pertence à fase dita realista de seu autor, Eça de Queirós. É reconhecido, também, como um romance de tese - tipo de narrativa em que se demonstra uma idéia, em geral com intenção crítica e reformadora. Tendo em vista essas determinações gerais, é correto afirmar que, nesse romance,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o foco expressivo se concentra na interioridade subjetiva das personagens, que se dão a conhecer por suas idéias e sentimentos, e não por suas falas ou ações.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>as personagens se afastam de caracterizações típicas, tornando-se psicologicamente mais complexas e individualizadas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a preferência é dada à narração direta, evitando-se recursos como a ironia, o suspense, o refinamento estilístico de períodos e frases.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o interesse pelas relações entre o homem e o meio amplia o espaço e as funções das descrições, tornadas mais minuciosas e significativas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a narração de ações, a criação de enredos e as reflexões do narrador são amplamente substituídas pelo debate ideológico-moral entre Jorge e o Conselheiro Acácio.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Oh! eu quero viver, beber perfumes Na flor silvestre, que embalsama os ares; Ver minh’alma adejar pelo infinito, Qual branca vela n’amplidão dos mares. No seio da mulher há tanto aroma... Nos seus beijos de fogo há tanta vida... - Árabe errante, vou dormir à tarde À sombra fresca da palmeira erguida. Nesta estrofe de Mocidade e morte, de Castro Alves, reúnem-se, como numa espécie de súmula, vários dos temas e aspectos mais característicos de sua poesia. São eles:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>identificação com a natureza, condoreirismo, erotismo franco, exotismo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>aspiração de amor e morte, titanismo, sensualismo, exotismo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>sensualismo, aspiração de absoluto, nacionalismo, orientalismo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>personificação da natureza, hipérboles, sensualismo velado, exotismo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>aspiração de amor e morte, condoreirismo, hipérboles, orientalismo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Agora os parlamentares concluem sua obra com a anuência unânime àquele dispositivo inconstitucional. (Folha de S. Paulo, 28/08/97, 1-2) A paráfrase correta do texto é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A maioria dos parlamentares aprova um certo dispositivo inconstitucional.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Os parlamentares, sem exceção, aprovam o dispositivo inconstitucional anteriormente mencionado.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Todos os parlamentares reprovam o dispositivo inconstitucional anteriormente mencionado.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A maioria absoluta dos parlamentares boicotou um certo dispositivo inconstitucional.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A maioria dos parlamentares conclui sua obra com indiferença à aprovação ou não de um certo dispositivo inconstitucional.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os sinais de pontuação foram bem utilizados em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Nesse instante, muito pálido, macérrimo, Prudente de Morais entrou no Catete, sentou-se e, seco, declarou ao silêncio atônito dos que o contemplavam: “Voltei.”</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“Mãe onde estão os nossos: os parentes, os amigos e os vizinhos?” Mãe, não respondia.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Os estados, que ainda devem ao governo, não poderão obter financiamentos, mas os estados que já resgataram suas dívidas ainda terão créditos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Ao permitir a apreensão, de jornais e revistas, o projeto, retira do leitor o direito a ser informado pelo veículo que ele escolheu.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Assim, passa-se a permitir, condenações absurdas, desproporcionais aos danos causados.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“É preciso agir, e rápido”, disse ontem o expresidente nacional do partido. A frase em que a palavra sublinhada NÃO exerce função idêntica à de rápido é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Como estava exaltado, o homem gesticulava e falava alto.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Mademoiselle ergueu súbito a cabeça, voltou-a pro lado, esperando, olhos baixos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Estavam acostumados a falar baixo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Conversamos por alguns minutos, mas tão abafado que nem as paredes ouviram.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Sim, havíamos de ter um oratório bonito, alto, de jacarandá. 7V QUÍMICA</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A dose diária recomendada do elemento cálcio para um adulto é de 800 mg. Suponha certo suplemento nutricional a base de casca de ostras que seja 100% CaCO3. Se um adulto tomar diariamente dois tabletes desse suplemento de 500 mg cada, qual porcentagem de cálcio da quantidade recomendada essa pessoa está ingerindo?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>25%</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>40%</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>50%</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>80% massas molares (g/mol) Ca....40 O....16 C....12</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>125%</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="28">
+      <statement>
+        <p>Um pedaço de palha de aço foi suavemente comprimido no fundo de um tubo de ensaio e este foi cuidadosamente emborcado em um béquer contendo água à temperatura ambiente, conforme ilustrado ao lado: Decorridos alguns dias à temperatura ambiente, qual das figuras abaixo representa o que será observado?</p>
+      </statement>
+    </essay_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O agravamento do efeito estufa pode estar sendo provocado pelo aumento da concentração de certos gases na atmosfera, principalmente do gás carbônico. Dentre as seguintes reações químicas: I) queima de combustíveis fósseis; II) fotossíntese; III) fermentação alcoólica; IV) saponificação de gorduras, produzem gás carbônico, contribuindo para o agravamento do efeito estufa:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e II</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e III</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I e IV</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e IV</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No Brasil, o sal de cozinha e o gás de cozinha (mistura de propano e butano) são usualmente obtidos, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>de jazidas desse sal e do petróleo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>de jazidas desse sal e do gás natural.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>da água do mar e do lixo orgânico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>da indústria cloro-álcali e do gás natural.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>da água do mar e do petróleo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="31">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Deseja-se saber se três hidrocarbonetos saturados I, II e III são isômeros entre si. Para tal, amostras desses hidrocarbonetos foram analisadas, determi-nando-se as quantidades de carbono e de hidrogênio presentes em cada uma delas. Os resultados obtidos foram os seguintes: hidrocarboneto massa da amostra/g massa de C/g massa de H/g I 0,200 0,168 0,032 II 0,300 0,252 0,048 III 0,600 0,491 0,109 Com base nesses resultados pode-se afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I não é isômero de II nem de III.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I é isômero apenas de II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I é isômero apenas de III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II é isômero apenas de III.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I é isômero de II e de III. Se desejar utilize massas molares (g/mol): C... 12; H... 1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nas condições ambiente, foram realizados três experimentos, com aparelhagem idêntica, nos quais se juntou Na2CO3 sólido, contido em uma bexiga murcha, a uma so-lução aquosa de HCl contida em um erlen-meyer. As quantidades adicionadas foram: Solução de HCl experimento massa de Na2CO3/g volume/mL concentração/mol L-1 E1 1,06 100 0,30 E2 1,06 100 0,40 E3 1,06 100 0,50 Ao final dos experimentos, comparando-se os volumes das bexigas, observa-se que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a bexiga de E1 é a mais cheia.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a bexiga de E2 é a mais cheia. massa molar do Na2CO3 = 106g/mol</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a bexiga de E3 é a mais cheia.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a bexiga de E1 é a menos cheia.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>as três bexigas estão igualmente cheias. 8V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="33">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Têm-se três cilindros de volumes iguais e à mesma temperatura, com diferentes gases. Um deles contém 1,3 kg de acetileno (C2H2), o outro 1,6 kg de óxido de dinitrogênio (N2O) e o terceiro 1,6 kg de oxigênio (O2). Comparando-se as pressões dos gases nesses três cilindros, verifica-se que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>são iguais apenas nos cilindros que contêm C2H2 e O2.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>são iguais apenas nos cilindros que contêm N2O e O2. massas molares (g/mol) C2H2......26 N2O.......44 O2........32</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>são iguais nos três cilindros.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>é maior no cilindro que contém N2O.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>é menor no cilindro que contém C2H2.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="34">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O gráfico abaixo mostra a solubilidade (S) de K2Cr2O7 sólido em água, em função da temperatura (t). Uma mistura constituída de 30 g de K2Cr2O7 e 50 g de água, a uma temperatura inicial de 90ºC, foi deixada esfriar lentamente e com agitação. A que temperatura aproximada deve começar a cristalizar o K2Cr2O7?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>25ºC</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>45ºC</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>60ºC</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>70ºC</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>80ºC</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na reação de fusão nuclear representada por n E H H 3 1 2 1 + → + ocorre a liberação de um neutron (n). A espécie E deve ter</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2 prótons e 2 neutrons.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2 prótons e 3 neutrons.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2 prótons e 5 neutrons.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 prótons e 3 elétrons.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>4 prótons e 3 elétrons.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="36">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Pode-se conceituar energia de ligação química como sendo a variação de entalpia (∆H) que ocorre na quebra de 1 mol de uma dada ligação. Assim, na reação representada pela equação: NH3(g) → N(g) + 3H(g); ∆H = 1170 kJ/mol NH3 são quebrados 3 mols de ligação N-H, sendo, portanto, a energia de ligação NH, igual a 390 kJ/mol. Sabendo-se que na decomposição: N2H4(g) →2N(g) + 4H(g); ∆H = 1720 kJ/mol N2H4, são quebradas ligações N-N e N-H, qual o valor, em kJ/mol, da energia de ligação N-N?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>80</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>160</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>344</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>550</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1330</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>À temperatura ambiente, o pH de um certo refrigerante, saturado com gás carbônico, quando em garrafa fechada, vale 4. Ao abrir-se a garrafa, ocorre escape de gás carbônico. Qual deve ser o valor do pH do refrigerante depois de a garrafa aberta?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>pH = 4</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>0 &lt; pH &lt; 4</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>4 &lt; pH &lt; 7</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pH = 7</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>7 &lt; pH &lt; 14</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Há exatos 100 anos, J.J. Thomson determinou, pela primeira vez, a relação entre a massa e a carga do elétron, o que pode ser considerado como a descoberta do elétron. É reconhecida como uma contribuição de Thomson ao modelo atômico,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o átomo ser indivisível.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a existência de partículas subatômicas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>os elétrons ocuparem níveis discretos de energia.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os elétrons girarem em órbitas circulares ao redor do núcleo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o átomo possuir um núcleo com carga positiva e uma eletrosfera. 0 20 40 60 80 100 0 20 40 60 80 100 9V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Têm-se amostras de três sólidos brancos A, B e C. Sabe-se que devem ser naftaleno, nitrato de sódio e ácido benzóico, não necessariamente nessa ordem. Para se identificar cada uma delas, determinaram-se algumas propriedades, as quais estão indicadas na tabela abaixo: A B C Temperatura de fusão/ºC 306 80 122 solubilidade em água muito solúvel praticamente insolúvel um pouco solúvel Esses dados indicam que A, B e C devem ser, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ácido benzóico, nitrato de sódio e naftaleno.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ácido benzóico, naftaleno e nitrato de sódio.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>naftaleno, nitrato de sódio e ácido benzóico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>nitrato de sódio, ácido benzóico e naftaleno.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>nitrato de sódio, naftaleno e ácido benzóico.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Entidades ligadas à preservação ambiental têm exercido fortes pressões para a redução da produção de gases CFC (clorofluorocarbonos). Isto se deve principalmente ao fato de os CFC</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>reagirem com H2O, produzindo ácidos e chuva ácida.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>reagirem espontaneamente com O2, produzindo CO2 e agravando o efeito estufa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Escaparem para o espaço provocando o fenômeno da inversão térmica.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>reagirem com oxigênio a baixas pressões, produzindo ozônio.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Produzirem sob a ação da luz radicais livres, que reagem com o ozônio.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="41">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um sólido S é decomposto por aquecimento e o produto sólido obtido, ao reagir com água, forma hidróxido de cálcio. Este reage com carbonato de sódio produzindo soda cáustica (NaOH) e regenerando o sólido S que é reciclado. Qual a fórmula de S e sua respectiva massa necessária para iniciar um ciclo de produção de soda cáustica a partir de 1,06 toneladas de carbonato de sódio? Admita em todas as etapas um rendimento de 100%.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>CaO e 0,56 t</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>CaO e 1,12 t</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Ca(OH)2 e 1,06 t</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>CaCO3 e 1,00 t</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>CaCO3 e 2,00 t massas molares (g/mol) C.......12 O.......16 Na.......23 Ca.......40</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um recipiente fechado de 1 litro contendo inicialmente, à temperatura ambiente, 1 mol de I2 e 1 mol de H2 é aquecido a 300ºC. Com isto estabelece-se o equilíbrio cuja constante é igual a 1,0x102. Qual a concentração, em mol/L, de cada uma das espécies H2(g), I2(g) e HI(g), nessas condições?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0, 0, 2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1, 1, 10</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1/6, 1/6, 5/3</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1/6, 1/6, 5/6</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1/11, 1/11, 10/11</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="43">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para distinguir entre duas soluções aquosas de concentração 0,10 mol/L, uma de ácido forte e a outra de ácido fraco, ambos monopróticos, pode-se</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>mergulhar em cada uma delas um pedaço de papel de tornassol azul.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>mergulhar em cada uma delas um pedaço de papel de tornassol rosa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>mergulhar em cada uma delas uma lâmina de prata polida.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>medir a temperatura de congelamento de cada solução.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>adicionar uma pequena quantidade de cloreto de sódio em cada solução.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="44">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em condições adequadas, etanol quando tratado com ácido clorídrico concentrado pode sofrer uma reação de substituição, enquanto que, quando tratado com ácido sulfúrico concentrado pode sofrer uma reação de desidratação intermolecular. Os produtos formados nessas duas reações são, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>cloreto de etila e éter dietílico.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>cloreto de etila e etileno.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2-cloroetanol e acetato de etila.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1,1-dicloroetano e éter dietílico.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1,1-dicloroetano e etileno. 2HI(g) H2(g) + I2(g) 10V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Potenciais padrão de redução (volt) Zn2+ + 2e- → Zn ........ -0,76 Fe2+ + 2e- → Fe ........ -0,44 Sn2+ + 2e- → Sn ........ -0,14 Cu2+ + 2e- → Cu ........ +0,34 Quer-se guardar, a 25ºC, uma solução aquosa 1 mol/L de SnCl2. Dispõe-se de recipientes de I. ferro II. ferro galvanizado (ferro revestido de Zn) III. lata comum (ferro revestido de Sn) IV. cobre Examinando-se a tabela dos potenciais padrão de redução apresentada acima, conclui-se que essa solução de SnCl2 pode ser guardada sem reagir com o material do recipiente, apenas em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>IV</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e II</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III e IV</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I, II e III</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I, II e IV</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="46">
+      <statement>
+        <p>A decomposição térmica por aquecimento gradual e contínuo (ao ar) do acetato de manganês(II)tetraidratado, sólido, ocorre em duas etapas: Mn(CH3COO)2.4H2O(s)  →Mn(CH3COO)2(s)+4H2O(g) 130ºC Mn(CH3COO)2(s)  →MnO(s) +(CH3)2CO(g)+CO2(g) 350ºC Certa massa do sal hidratado é aquecida nessas condições. Qual dos gráficos abaixo representa o que ocorre com a massa (m) da fase sólida com o aumento da tempera-tura (t)? 11V FÍSICA</p>
+      </statement>
+    </essay_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dois trens A e B fazem manobra em uma estação ferroviária deslocando-se paralelamente sobre trilhos retilíneos. No instante t=0s eles estão lado a lado. O gráfico representa as velocidades dos dois trens a partir do instante t=0s até t=150s, quando termina a manobra. A distância entre os dois trens no final da manobra é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0 m</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>50 m</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>100 m</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>250 m</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>500 m</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="48">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma criança montada em um velocípede se desloca em trajetória retilínea, com velocidade constante em relação ao chão. A roda dianteira descreve uma volta completa em um segundo. O raio da roda dianteira vale 24 cm e o das traseiras 16 cm. Podemos afirmar que as rodas traseiras do velocípede completam uma volta em, aproximadamente:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1/2 s</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2/3 s</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1 s</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3/2 s</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2 s</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um sistema mecânico é formado por duas polias ideais que suportam três corpos A, B e C de mesma massa m, suspensos por fios ideais como representado na figura. O corpo B está suspenso simultaneamente por dois fios, um ligado a A e outro a C. Podemos afirmar que a aceleração do corpo B será:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>zero</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>(g/3) para baixo</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>(g/3) para cima</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>(2g/3) para baixo</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>(2g/3) para cima</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="50">
+      <statement>
+        <p>Um caminhão pesando 200kN atravessa com velocidade constante uma ponte que pesa 1000kN e é suportada por dois pilares distantes 50m entre sí. O gráfico que melhor representa as forças de reação N1 e N2 nos dois pilares em função da distância x do centro de massa do caminhão ao centro do primeiro pilar é:</p>
+      </statement>
+    </essay_question>
+    <essay_question number="51">
+      <statement>
+        <p>Sobre uma mesa horizontal de atrito desprezível, dois blocos A e B de massas m e 2m, respectivamente, movendose ao longo de uma reta, colidem um com o outro. Após a colisão os blocos se mantém unidos e deslocam-se para a direita com velocidade Vr , como indicado na figura. O ÚNICO esquema que NÃO pode representar os movimentos dos dois blocos antes da colisão é: 12V</p>
+      </statement>
+    </essay_question>
+    <objective_question number="52">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um termômetro especial, de líquido dentro de um recipiente de vidro, é constituído de um bulbo de 1 cm3 e um tubo com secção transversal de 1 mm2. À temperatura de 20°C, o líquido preenche completamente o bulbo até a base do tubo. À temperatura de 50°C o líquido preenche o tubo até uma altura de 12 mm. Considere desprezíveis os efeitos da dilatação do vidro e da pressão do gás acima da coluna do líquido. Podemos afirmar que o coeficiente de dilatação volumétrica médio do líquido vale:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>3×10-4 °C-1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>4×10-4 °C-1</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>12×10-4 °C-1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>20×10-4 °C-1</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>36×10-4 °C-1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere uma máquina térmica em que n moles de um gás ideal executam o ciclo indicado no gráfico pressão P versus volume V. Sendo T a temperatura do gás, considere as relações: I) TA= 4TC e TB= TD II) TA= TC e TB= 4TD Sendo W o trabalho realizado pelo gás no trecho correspondente, considere as relações III) WAB=WCD IV) WAB&gt;WCD Estão corretas as relações:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e III</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I e IV</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>II e III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e IV</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>somente III</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="54">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um circuito é formado de duas lâmpadas L1 e L2 , uma fonte de 6V e uma resistência R, conforme desenhado na figura. As lâmpadas estão acesas e funcionando em seus valores nominais (L1: 0,6W e 3V e L2: 0,3W e 3V). O valor da resistência R é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>15 Ω</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>20 Ω</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>25 Ω</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>30 Ω</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>45 Ω</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma bóia pode se deslocar livremente ao longo de uma haste vertical, fixada no fundo do mar. Na figura, a curva cheia representa uma onda no instante t=0s e a curva tracejada a mesma onda no instante t=0,2s. Com a passagem dessa onda, a bóia oscila. Nesta situação, o menor valor possível da velocidade da onda e o correspondente período de oscilação da bóia, valem:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2,5m/s e 0,2s</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>5,0m/s e 0,4s</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>0,5m/s e 0,2s</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>5,0m/s e 0,8s</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2,5m/s e 0,8s</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="56">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma esteira rolante transporta 15 caixas de bebida por minuto, de um depósito no sub-solo até o andar térreo. A esteira tem comprimento de 12m, inclinação de 30o com a horizontal e movese com velocidade constante. As caixas a serem transportadas já são colocadas com a velocidade da esteira. Se cada caixa pesa 200N, o motor que aciona esse mecanismo deve fornecer a potência de:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>20W</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>40W</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>300W</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>600W</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1800W</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="57">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Num forno de microondas é colocado um vasilhame contendo 3 kg d’água a 100C. Após manter o forno ligado por 14min, se verifica que a água atinge a temperatura de 500C. O forno é então desligado e dentro do vasilhame d’água é colocado um corpo de massa 1kg e calor específico c=0,2cal/(g0C), à temperatura inicial de</p>
+        <p>00C. Despreze o calor necessário para aquecer o vasilhame e considere que a potência fornecida pelo forno é continuamente absorvida pelos corpos dentro dele. O tempo a mais que será necessário manter o forno ligado, na mesma potência, para que a temperatura de equilíbrio final do conjunto retorne a 500C é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>56s</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>60s</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>70s</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>280s</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>350s 13V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="58">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um LASER produz um feixe paralelo de luz, com 4 mm de diâmetro. Utilizando um espelho plano e uma lente delgada convergente, deseja-se converter o feixe paralelo num feixe divergente propagandose em sentido oposto. O feixe divergente deve ter abertura total φ=0,4 radiano, passando pelo centro óptico C da lente. A figura abaixo mostra a configuração do sistema. Como φ é pequeno,</p>
+        <p>pode-se considerar φ ≅ sen φ ≅ tg φ. Para se obter o efeito desejado, a distância focal f da lente e a distância d da lente ao espelho devem valer:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>f = 10mm; d = 5mm</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>f = 5mm; d = 10mm</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>f = 20mm; d = 10 mm</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>f = 10 mm; d = 20 mm</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>f = 5mm; d = 5mm</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A curva da figura 1 mostra a dependência do índice de refração n de uma substância transparente com a freqüência f da luz. Três raios de luz 1, 2 e 3, paralelos, incidem segundo um ângulo de 45º sobre a superfície plana de um bloco da substância e são refratados, conforme indicado na figura 2. Denominando f1, f2 e f3 as freqüências dos raios 1, 2 e 3, respectivamente, se conclui que:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>f3 &lt; f2 &lt; f1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>f1 &lt; f2 &lt; f3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>f2 &lt; f1 &lt; f3</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>f2 &lt; f3 &lt; f1</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>f1 &lt; f3 &lt; f2</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="60">
+      <statement>
+        <p>Três pequenas esferas carregadas com cargas de mesmo módulo, sendo A positiva e B e C negativas, estão presas nos vértices de um triângulo equilátero. No instante em que elas são soltas, simultaneamente, a direção e o sentido de suas acelerações serão melhor representados pelo esquema:</p>
+      </statement>
+    </essay_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um capacitor é formado por duas placas paralelas, separadas 10mm entre sí. Considere as placas do capacitor perpendiculares ao plano do papel. Na figura são mostradas as intersecções das placas P1 e P2 e de algumas superfícies equipotenciais com o plano do papel. Ao longo do eixo médio AA’, o campo elétrico é uniforme entre as placas e seu valor é E=105V/m. As superfícies equipotenciais indicadas estão igualmente espaçadas de 1mm ao longo do eixo. Uma carga q=10-14 C é levada do ponto O ao ponto P, indicados na figura. O trabalho realizado é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0J</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>5x10-12J</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1x10-11J</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>4x10-12 J</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1x10-10J 14V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="62">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um estudante está prestando vestibular e não se lembra da fórmula correta que relaciona a velocidade v de propagação do som, com a pressão P e a massa específica ρ (kg/m3), num gás. No entanto, ele se recorda que a fórmula é do tipo vα= C•Pβ/ρ, onde C é uma constante adimensional. Analisando as dimensões (unidades) das diferentes grandezas físicas, ele conclui que os valores corretos dos expoentes α e β são:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>α=1, β=2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>α=1, β=1</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>α=2, β=1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>α=2, β=2</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>α=3, β=2</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="63">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Deseja-se medir a pressão interna P em um grande tanque de gás. Para isto, utiliza-se como manômetro um sistema formado por um cilindro e um pistão de área A , preso a uma mola de constante elástica k. A mola está no seu estado natural (sem tensão) quando o pistão encosta na base do cilindro, e tem comprimento L0 (Fig 1 - registro R fechado). Abrindo-se o registro R, o gás empurra o pistão, comprimindo a mola, que fica com comprimento L (Fig 2 - registro R aberto). A pressão ambiente vale P0 e é aplicada no lado externo do pistão. O sistema é mantido à temperatura ambiente durante todo o processo. O valor da pressão absoluta P no tanque vale:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>k.(L0-L)/A + P0</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>k.(L0-L)/A - P0</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>k.(L0-L).A</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>k.L.A + P0</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>k.L/A - P0</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="64">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um recipiente contém dois líquidos I e II de massas específicas (densidades) ρ1 e ρ2 respectivamente. Um cilindro maciço de altura h se encontra em equilíbrio na região da interface entre os líquidos, como mostra a figura. Podemos afirmar que a massa específica do material do cilindro vale:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>(ρ1 + 2ρ2)/2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>(ρ1 + ρ2)/2</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>(2ρ1 + ρ2)/3</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>(ρ1 + 2ρ2)/3</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2(ρ1 + ρ2)/3</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="65">
+      <statement>
+        <p>Um fio retilíneo, bastante longo, está no plano de uma espira retangular, paralelo a um de seus lados, conforme indicado na Figura 1. A corrente I1 no fio, varia em função do tempo t conforme indicado na Figura 2. O gráfico que melhor representa a corrente I2 induzida na espira é:</p>
+      </statement>
+    </essay_question>
+    <essay_question number="66">
+      <statement>
+        <p>Considere os dois imãs permanentes mostrados na figura. O externo tem forma de anel, com quatro polos. O interno, em forma de cruz, pode girar livremente em torno do eixo O, fixo e coincidente com o eixo do anel. As polaridades N (Norte) e S (Sul) dos polos (de igual intensidade em módulo) estão repre-sentadas na figura. A posição do imã móvel em relação ao anel é dada pelo ângulo ϕ. Podemos afirmar que o gráfico que melhor pode representar o valor do torque (momento de força) total τ, que age sobre o imã móvel, em função de ϕ, é: 15V INGLÊS LETTERS Science talent redirected “Is Science Talent Squandered?” (SN: 5/31/97, p. 338) sent me into a reverie of my precollege days. Having achieved, at 10 years of age, minor celebrity status in Nation’s Business by inventing a “new” cotton picker, having burned holes in my parents’ basement ceiling with my huge Gilbert chemistry set, and having been given a key to the high school lab to conduct my own experiments on weekends, I knew I would be a scientist. Then came college and the public denigration (in an introductory chemistry class) of my poetic expression of the practical application of combustion. Literary and artistic teachers and friends enjoyed my “weird” presentation, so I joined their ranks instead, achieving modest adult recognition as a writer but still finding my real reading interest in science. If I had found a Carl Sagan some 40 years ago, I might be in a different college in my university today, but perhaps with different regrets. F. Richard Thomas, Professor of American Thought and Language, Michigan State University, East Lansing, Mich. [Science News, 26 July 1997, vol. 152]</p>
+      </statement>
+    </essay_question>
+    <objective_question number="67">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O artigo intitulado “Is Science Talent Squandered?”</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>narra a evolução acadêmica de F.R. Thomas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>tornou F.R. Thomas uma pequena celebridade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>fez F.R. Thomas lembrar-se de tempos passados.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>foi escrito para Carl Sagan.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>foi publicado em Science News, à página 338, no dia 5.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="68">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>F.R. Thomas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>tornou-se um adulto muito famoso, apesar de ter sido considerado estranho por seus professores e colegas universitários.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>impressionou tanto alguns professores de literatura, ao discorrer sobre combustão em uma aula de química, que foi convidado a unir-se a eles, tornando-se escritor.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>foi considerado uma celebridade pela revista Nation’s Business, após ter inventado uma “nova” embalagem para cotonetes aos 10 anos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>começou a reverenciar seu tempo de estudante secundário após ter lido o artigo intitulado “Is Science Talent Squandered?”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>não foi muito bem-sucedido, em uma aula de química, ao expor seu ponto de vista sobre o uso da combustão.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="69">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“If I had found a Carl Sagan some 40 years ago, I might be in a different college in my university today.” (linhas 16-17) Qual das alternativas abaixo expressa a mesma idéia da oração acima?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>If I ought to find a Carl Sagan 40 years ago, I would have been in a different college in my university today.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>If I may find a Carl Sagan, I’ll perhaps be in a different college in my university today.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>If I should find a Carl Sagan today, I would perhaps be in a different college in my university.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Had I found a Carl Sagan 40 years ago, I could have been in a different college in my university today.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Unless I can find a Carl Sagan today, I’ll never be in a different college in my university.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="70">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com o texto, F.R. Thomas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>é discípulo e admirador de Sagan, apesar de lamentar tê-lo conhecido há apenas 40 anos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>gostaria de ter conhecido Sagan há 40 anos, para se arrepender menos das realizações de sua vida.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>encontrou Sagan na universidade em que leciona, embora numa faculdade diferente da sua.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>acredita que poderia ter seguido um rumo diferente na vida, se tivesse lido Sagan há 40 anos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>conheceu Sagan pessoalmente há pouco tempo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="71">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Escolha a “question tag” correta para: “I knew I would be a scientist.” (linha 8)</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>didn’t I?</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>wasn’t I?</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>won’t I?</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>don’t I?</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>would I?</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="72">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando adulto, F.R. Thomas tornou-se</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>professor de filosofia americana, tendo perdido todo o interesse pela química.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>um escritor que, mesmo após ganhar certa fama, manteve o gosto pela leitura científica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>um poeta expressivo que, graças a seus professores de artes e literatura, alcançou reconhecimento público.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>um escritor de renome, apesar de ser um homem muito modesto, cujo verdadeiro interesse é a ciência.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>cientista e professor em Michigan, nos Estados Unidos. 16V VARIOUS ARTISTS Brasil: A Century of Song Blue Jackel CD 5001/4-2, £44.49 The spirit lives on. Whether or not Brazil can hold out against the steady march of MTV and the multinational McDonaldisation of pop music, the legacy surveyed in this four-volume potpourri is reassuringly luxuriant and multifaceted. First impressions are not entirely encouraging, since several important figures are missing from the play list: although Milton Nascimento contributes two numbers to the final disc, devoted to contemporary strands of that amorphous entity, MPB – Musica Popular Brasileira – you will look in vain for Gilberto Gil, Caetano Veloso or Elis Regina. But Joao Gilberto, Gal Costa and the guitarist Baden Powell, among many others, do make an appearance elsewhere. Carnival, understandably, gets a whole disc to itself. The section on folk and traditional forms even throws in a field recording of a candomble religious rite, preceded by an overdue reminder that Carmen Miranda amounted to more than a model for gaudy headwear. Clive Davis [The Sunday Times, 27 July 1997]</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="73">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Choose the question for the statement: “The spirit lives on.” (line 1)</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Where does the spirit live?</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>What does the spirit live on?</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Which lives on?</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Who lives on the spirit?</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>What lives on?</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="74">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Brazilian music has lost its identity.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Brazilian pop music is being jeopardized by foreign influences.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>MPB’s attempts to resist the invasion of American music have been in vain.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Brazil will hardly resist the invasion of foreign music.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>there has been a steady stream of programmes about MPB on MTV.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="75">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>The reviewer states that the CDs</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>include Carmen Miranda’s greatest hits.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>feature all of Brazil’s major artists of our century.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>include traditional marches as well as folk songs.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>are preceded by a brief survey of Brazilian music.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>contain a rich miscellany of music styles.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="76">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>For the reviewer, MPB</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>lacks originality.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>owes a great deal to Milton Nascimento.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>lacks form.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>is the poorest section of the CDs.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>has always impressed foreigners.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="77">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Caetano Veloso has been left out of the CDs.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a whole disc has been devoted to Carnival and Carmen Miranda.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Gal Costa has been included in the fourth disc.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>only studio recordings have been used for the CDs.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Brazilians still miss Elis Regina.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="78">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“do make an appearance elsewhere” (lines 13-14) means</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>are also mentioned somewhere else.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>have understandably been misplaced.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>actually appear in the right section.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>have actually been included in another section.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>have also been included in the section mentioned.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="79">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>The passage tells us that</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>the final disc includes a brief survey of the legacy of Carmen Miranda.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>the CDs include a reminder of what Carmen Miranda actually represented.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Carmen Miranda left an impressive legacy.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>for Americans, Carmen Miranda was far more than a model for gaudy headwear.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>the legacy of Carmen Miranda will always be remembered.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="80">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>The reviewer’s opinion about the CDs is</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>quite biased.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>wholly favourable.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>not altogether favourable.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>somewhat offensive.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>wholly unfavourable. FUVEST 98 - Primeira Fase - Prova V GABARITO-23/11/97 V 01-E V 21-C V 41-D V 61-D V 02-A V 22-D V 42-C V 62-C V 03-C V 23-A V 43-D V 63-A V 04-C V 24-B V 44-A V 64-D V 05-B V 25-A V 45-C V 65-E V 06-A V 26-E V 46-D V 66-E V 07-A V 27-C V 47-D V 67-C V 08-D V 28-D V 48-B V 68-E V 09-B V 29-B V 49-C V 69-D V 10-A V 30-E V 50-C V 70-D V 11-C V 31-B V 51-D V 71-A V 12-D V 32-E V 52-B V 72-B V 13-C V 33-A V 53-D V 73-E V 14-D V 34-D V 54-D V 74-B V 15-B V 35-A V 55-E V 75-E V 16-E V 36-B V 56-C V 76-C V 17-B V 37-C V 57-C V 77-A V 18-E V 38-B V 58-A V 78-D V 19-E V 39-E V 59-E V 79-B V 20-D V 40-E V 60-B V 80-C</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

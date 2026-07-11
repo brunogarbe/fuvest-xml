@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2016" phase="discursive" day="0" variation="V1" date="2016-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="M01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>São dadas três circunferências de raio , duas a duas tangentes. Os pontos de tangência são , e</p>
+        <p>. Calcule, em função de ,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o comprimento do lado do triângulo equilátero determinado pelas três retas que são definidas pela seguinte exigência: cada uma delas é tangente a duas das circunferências e não intersecta a terceira;</p>
+        </part>
+        <part>
+          <p>a área do hexágono não convexo cujos lados são os segmentos ligando cada ponto , e aos dois vértices do triângulo mais próximos a ele.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="M02">
+      <statement>
+        <p>Considere as funções e definidas por</p>
+        <p>, se</p>
+        <p>, se</p>
+        <p>a) Calcule , , ,</p>
+        <p>,</p>
+        <p>e</p>
+        <p>. b) Encontre</p>
+        <p>,</p>
+        <p>, tal que</p>
+        <p>. c) Levando em conta os resultados dos itens a) e b), esboce os gráficos de e de no sistema cartesiano impresso na página de resposta. Página 2/38 − Caderno Reserva 0000−00 02 440 Área Reservada Não escreva no topo da folha</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="M03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>João e Maria jogam dados em uma mesa. São cinco dados em forma de poliedros regulares: um tetraedro, um cubo, um octaedro, um dodecaedro e um icosaedro. As faces são numeradas de 1 a 4 no tetraedro, de 1 a 6 no cubo, etc. Os dados são honestos, ou seja, para cada um deles, a probabilidade de qualquer uma das faces ficar em contato com a mesa, após o repouso do dado, é a mesma. Num primeiro jogo, Maria sorteia, ao acaso, um dos cinco dados, João o lança e verifica o número da face que ficou em contato com a mesa.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é a probabilidade de que esse número seja maior do que 12?</p>
+        </part>
+        <part>
+          <p>Qual é a probabilidade de que esse número seja menor do que 5? Num segundo jogo, João sorteia, ao acaso, dois dos cinco dados. Maria os lança e anota o valor da soma dos números das duas faces que ficaram em contato com a mesa, após o repouso dos dados.</p>
+        </part>
+        <part>
+          <p>Qual é a probabilidade de que esse valor seja maior do que 30? Poliedros regulares Tetraedro 4 faces Cubo 6 faces Octaedro 8 faces Dodecaedro 12 faces Icosaedro 20 faces</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No plano cartesiano , a circunferência C tem centro no ponto</p>
+        <p>, e a reta é tangente a C no ponto</p>
+        <p>.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o raio da circunferência C.</p>
+        </part>
+        <part>
+          <p>Encontre uma equação para a reta .</p>
+        </part>
+        <part>
+          <p>Calcule a área do triângulo , sendo o ponto de interseção de com o eixo . Página 4/38 − Caderno Reserva 0000−00 04 880 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura abaixo representa o gráfico de uma função</p>
+        <p>. Note que</p>
+        <p>. A restrição de ao intervalo</p>
+        <p>tem como gráfico parte de uma parábola com vértice no ponto</p>
+        <p>; restrita ao intervalo , tem como gráfico um segmento de reta.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule e . Usando os sistemas de eixos da folha de respostas, esboce</p>
+        </part>
+        <part>
+          <p>o gráfico de , ;</p>
+        </part>
+        <part>
+          <p>o gráfico de , .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="M06">
+      <statement>
+        <p>As constantes , , e são tais que a igualdade</p>
+        <p>é válida para todo . a) Deduza, da igualdade acima, um sistema linear com quatro equações, satisfeito pelas constantes , , e . b) Resolva esse sistema e encontre os valores dessas constantes. Página 6/38 − Caderno Reserva 0000−00 06 220 Área Reservada Não escreva no topo da folha</p>
+        <p>a) b) c) 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="F01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas pequenas esferas, E1 e E2, feitas de materiais isolantes diferentes, inicialmente neutras, são atritadas uma na outra durante 5 s e ficam eletrizadas. Em seguida, as esferas são afastadas e mantidas a uma distância de 30 cm, muito maior que seus raios. A esfera E1 ficou com carga elétrica positiva de 0,8 nC. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a diferença N entre o número de prótons e o de elétrons da esfera E1, após o atrito;</p>
+        </part>
+        <part>
+          <p>o sinal e o valor da carga elétrica Q de E2, após o atrito;</p>
+        </part>
+        <part>
+          <p>a corrente elétrica média I entre as esferas durante o atrito;</p>
+        </part>
+        <part>
+          <p>o módulo da força elétrica F que atua entre as esferas depois de afastadas. Note e adote: 1 nC = 10 9 C Carga do elétron = 1,6 10 19 C Constante eletrostática: K0= 9 109 N.m2/C2 Não há troca de cargas entre cada esfera e o ambiente.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um sistema é formado por um disco com um trilho na direção radial e um bloco que pode se mover livremente ao longo do trilho. O bloco, de massa 1 kg, está ligado a uma mola de constante elástica 300 N/m. A outra extremidade da mola está fixa em um eixo vertical, perpendicular ao disco, passando pelo seu centro. Com o sistema em repouso, o bloco está na posição de equilíbrio, a uma distância de 20 cm do eixo. Um motor de potência 0,3 W acoplado ao eixo é ligado no instante t = 0, fazendo com que todo o conjunto passe a girar e o bloco, lentamente, se afaste do centro do disco. Para o instante em que a distância do bloco ao centro é de 30 cm, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o módulo da força F na mola;</p>
+        </part>
+        <part>
+          <p>a velocidade angular do bloco;</p>
+        </part>
+        <part>
+          <p>a energia mecânica E armazenada no sistema massa mola;</p>
+        </part>
+        <part>
+          <p>o intervalo de tempo t decorrido desde o início do movimento. Note e adote: Desconsidere a pequena velocidade do bloco na direção radial, as massas do disco, do trilho e da mola e os efeitos dissipativos. Página 8/38 − Caderno Reserva 0000−00 08 660 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Lasers pulsados de altíssima potência estão sendo construídos na Europa. Esses lasers emitirão pulsos de luz verde, e cada pulso terá 1015 W de potência e duração de cerca de 30 10 15 s. Com base nessas informações, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o comprimento de onda da luz desse laser;</p>
+        </part>
+        <part>
+          <p>a energia E contida em um pulso;</p>
+        </part>
+        <part>
+          <p>o intervalo de tempo t durante o qual uma lâmpada LED de 3W deveria ser mantida acesa, de forma a consumir uma energia igual à contida em cada pulso;</p>
+        </part>
+        <part>
+          <p>o número N de fótons em cada pulso. Note e adote: Frequência da luz verde: f = 0,6 1015 Hz Velocidade da luz = 3 108 m/s Energia do fóton = h f h = 6 10 34 J s</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Miguel e João estão conversando, parados em uma esquina próxima a sua escola, quando escutam o toque da sirene que indica o início das aulas. Miguel continua parado na esquina, enquanto João corre em direção à escola. As ondas sonoras propagam se, a partir da sirene, em todas as direções, com comprimento de onda = 17 cm e velocidade VS = 340 m/s, em relação ao ar. João se aproxima da escola com velocidade de módulo v = 3,4 m/s e direção da reta que une sua posição à da sirene. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a frequência fM do som da sirene percebido por Miguel parado na esquina;</p>
+        </part>
+        <part>
+          <p>a velocidade vR do som da sirene em relação a João correndo;</p>
+        </part>
+        <part>
+          <p>a frequência fJ do som da sirene percebido por João quando está correndo. Miguel, ainda parado, assobia para João, que continua correndo. Sendo o comprimento de onda do assobio igual a 10 cm, determine</p>
+        </part>
+        <part>
+          <p>a frequência fA do assobio percebido por João. Note e adote: Considere um dia seco e sem vento. Página 10/38 − Caderno Reserva 0000−00 10 318 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em janeiro de 2006, a nave espacial New Horizons foi lançada da Terra com destino a Plutão, astro descoberto em 1930. Em julho de 2015, após uma jornada de aproximadamente 9,5 anos e 5 bilhões de km, a nave atinge a distância de 12,5 mil km da superfície de Plutão, a mais próxima do astro, e começa a enviar informações para a Terra, por ondas de rádio. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a velocidade média v da nave durante a viagem;</p>
+        </part>
+        <part>
+          <p>o intervalo de tempo t que as informações enviadas pela nave, a 5 bilhões de km da Terra, na menor distância de aproximação entre a nave e Plutão, levaram para chegar em nosso planeta;</p>
+        </part>
+        <part>
+          <p>o ano em que Plutão completará uma volta em torno do Sol, a partir de quando foi descoberto. Note e adote: Velocidade da luz = 3 108 m/s Velocidade média de Plutão = 4,7 km/s Perímetro da órbita elíptica de Plutão = 35,4 109 km 1 ano = 3 107 s</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um circuito integrado (CI), a conexão elétrica entre transistores é feita por trilhas de alumínio de 500 nm de comprimento, 100 nm de largura e 50 nm de espessura.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a resistência elétrica de uma dessas conexões, sabendo que a resistência, em ohms, de uma trilha de alumínio é dada por R = 3 10 8 L/A, em que L e A são, respectivamente, o comprimento e a área da seção reta da trilha em unidades do SI.</p>
+        </part>
+        <part>
+          <p>Se a corrente elétrica em uma trilha for de 10 A, qual é a potência dissipada nessa conexão?</p>
+        </part>
+        <part>
+          <p>Considere que um determinado CI possua 106 dessas conexões elétricas. Determine a energia E dissipada no CI em 5 segundos de operação.</p>
+        </part>
+        <part>
+          <p>Se não houvesse um mecanismo de remoção de calor, qual seria o intervalo de tempo t necessário para a temperatura do CI variar de 300 oC? Note e adote: 1nm = 10 9 m Capacidade térmica do CI = 5 10 5 J/K Considere que as trilhas são as únicas fontes de calor no CI. Página 12/38 − Caderno Reserva 0000−00 12 758 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Águas que apresentam alta concentração de íons Ca2 ou Mg2 dissolvidos são chamadas de “águas duras”. Se a concentração total desses íons for superior a 100 mg/L, tais águas não podem ser utilizadas em tubulações de máquinas industriais, devido à obstrução dos tubos causada pela formação de sais insolúveis contendo esses íons. Um químico deverá analisar a água de uma fonte, isenta de íons Mg2 , mas contendo íons Ca2+, para verificar se é adequada para uso em uma indústria. Para tal, uma amostra de 200 mL de água dessa fonte foi misturada com uma solução de carbonato de sódio (Na2CO3), em quantidade suficiente para haver reação completa. O sólido formado foi cuidadosamente separado, seco e pesado. A massa obtida foi 0,060 g.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química, na forma iônica, que representa a formação do sólido.</p>
+        </part>
+        <part>
+          <p>A água analisada é adequada para uso industrial? Justifique, mostrando os cálculos. Note e adote: massas molares (g/mol) C ...... 12 O ...... 16 Na ...... 23 Ca ...... 40</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma oficina de galvanoplastia, uma peça de aço foi colocada em um recipiente contendo solução de sulfato de cromo (III) [Cr2(SO4)3], a fim de receber um revestimento de cromo metálico. A peça de aço foi conectada, por meio de um fio condutor, a uma barra feita de um metal X, que estava mergulhada em uma solução de um sal do metal X. As soluções salinas dos dois recipientes foram conectadas por meio de uma ponte salina. Após algum tempo, observouse que uma camada de cromo metálico se depositou sobre a peça de aço e que a barra de metal X foi parcialmente corroída. A tabela a seguir fornece as massas dos componentes metálicos envolvidos no procedimento: Massa inicial (g) Massa final (g) Peça de aço 100,00 102,08 Barra de metal X 100,00 96,70</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química que representa a semirreação de redução que ocorreu nesse procedimento.</p>
+        </part>
+        <part>
+          <p>O responsável pela oficina não sabia qual era o metal X, mas sabia que podia ser magnésio (Mg), zinco (Zn) ou manganês (Mn), que formam íons divalentes em solução nas condições do experimento. Determine, mostrando os cálculos necessários, qual desses três metais é X. Note e adote: massas molares (g/mol) Mg ..... 24 Cr ...... 52 Mn ...... 55 Zn ...... 65 Página 14/38 − Caderno Reserva 0000−00 14 198 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A vitamina C, presente em sucos de frutas como a manga, pode sofrer processos de degradação em certas condições. Um pesquisador fez um estudo sobre a degradação da vitamina C contida em sucos de manga comerciais, determinando a variação da concentração dessa vitamina com o tempo, em diferentes temperaturas. O gráfico da página de resposta representa os dados de degradação da vitamina C em três diferentes temperaturas, 25 oC, 35 oC e 45 oC , estando identificada a curva referente ao experimento realizado a 35 oC.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>No estudo a 35 oC, a velocidade média de degradação da vitamina C é a mesma nos intervalos de tempo correspondentes aos 30 primeiros dias e aos 30 últimos dias do estudo? Explique, apresentando cálculos das velocidades (em mg L 1 dia 1), para esses dois intervalos de tempo. O número de moléculas com uma determinada energia cinética varia com a temperatura, conforme está ilustrado na figura ao lado. Suponha que a figura se refira à energia das moléculas de vitamina C presentes no suco, cujo processo de degradação está sendo estudado nas temperaturas de 35 oC e de 45 oC. Na figura, está representada, também, a energia de ativação desse processo de degradação.</p>
+        </part>
+        <part>
+          <p>Identifique, no gráfico da página de resposta, qual das curvas representa os dados da variação da concentração de vitamina C com o tempo, a 45 oC. Justifique sua escolha, utilizando a figura ao lado para fundamentar sua explicação.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q04">
+      <statement>
+        <p>Na produção de biodiesel, o glicerol é formado como subproduto. O aproveitamento do glicerol vem sendo estudado, visando à obtenção de outras substâncias. O 1,3 propanodiol, empregado na síntese de certos polímeros, é uma dessas substâncias que pode ser obtida a partir do glicerol. O esquema a seguir ilustra o processo de obtenção do 1,3 propanodiol. a) Na produção do 1,3propanodiol a partir do glicerol, também pode ocorrer a formação do 1,2 propanodiol. Na página de resposta, complete o esquema que representa a formação do 1,2 propanodiol a partir do glicerol. b) O glicerol é líquido à temperatura ambiente, apresentando ponto de ebulição de 290 oC a 1 atm. O ponto de ebulição do 1,3propanodiol deve ser maior, menor ou igual ao do glicerol? Justifique. Página 16/38 − Caderno Reserva 0000−00 16 538 Área Reservada Não escreva no topo da folha</p>
+        <p>a) b) a) b) 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A oxidação de SO2 a SO3 é uma das etapas da produção de ácido sulfúrico. 2 SO2 (g) + O2 (g) 2 SO3 (g) H &lt; 0 Em uma indústria, diversas condições para essa oxidação foram testadas. A tabela a seguir reúne dados de diferentes testes: Número do teste Reagentes Pressão (atm) Temperatura (oC) 1 SO2 (g) + excesso de O2 (g) 500 400 2 excesso de SO2 (g) + O2 (g) 500 1000 3 excesso de SO2 (g) + ar 1 1000 4 SO2 (g) + excesso de ar 1 400</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em qual dos quatro testes houve maior rendimento na produção de SO3? Explique.</p>
+        </part>
+        <part>
+          <p>Em um dado instante t1, foram medidas as concentrações de SO2, O2 e SO3 em um reator fechado, a 1000 oC, obtendo se os valores: [SO2] = 1,0 mol/L; [O2] = 1,6 mol/L; [SO3] = 20 mol/L. Considerando esses valores, como é possível saber se o sistema está ou não em equilíbrio? No gráfico da página de resposta, represente o comportamento das concentrações dessas substâncias no intervalo de tempo entre t1 e t2, considerando que, em t2, o sistema está em equilíbrio químico. Note e adote: Para a reação dada, KC = 250 a 1000 oC</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q06">
+      <statement>
+        <p>A gelatina é uma mistura de polipeptídeos que, em temperaturas não muito elevadas, apresenta a propriedade de reter moléculas de água, formando, assim, um gel. Esse processo é chamado de gelatinização. Porém, se os polipeptídeos forem hidrolisados, a mistura resultante não mais apresentará a propriedade de gelatinizar. A hidrólise pode ser catalisada por enzimas, como a bromelina, presente no abacaxi. Em uma série de experimentos, todos à mesma temperatura, amostras de gelatina foram misturadas com água ou com extratos aquosos de abacaxi. Na tabela a seguir, foram descritos os resultados dos diferentes experimentos. Experimento Substrato Reagente Resultado observado 1 gelatina água gelatinização 2 gelatina extrato de abacaxi não ocorre gelatinização 3 gelatina extrato de abacaxi previamente fervido gelatinização a) Explique o que ocorreu no experimento 3 que permitiu a gelatinização, mesmo em presença do extrato de abacaxi. Na hidrólise de peptídeos, ocorre a ruptura das ligações peptídicas. No caso de um dipeptídeo, sua hidrólise resulta em dois aminoácidos. b) Complete o esquema da página de resposta, escrevendo as fórmulas estruturais planas dos dois produtos da hidrólise do peptídeo representado ao lado. Página 18/38 − Caderno Reserva 0000−00 18 978 Área Reservada Não escreva no topo da folha</p>
+        <p>a) b) a) b) 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="B01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Determinada planta do cerrado abriga formigas, cigarrinhas, predadores e parasitas de cigarrinhas e também herbívoros que causam dano foliar. Os gráficos abaixo mostram os resultados de estudo sobre relações entre os animais e entre eles e a planta. Gráfico I: Número médio de cigarrinhas, em plantas com e sem formigas, ao longo de duas semanas. Gráfico II: Número médio de predadores e parasitas das cigarrinhas, em plantas com e sem formigas, ao longo de duas semanas. Gráfico III: Porcentagem de dano foliar em plantas com e sem associação entre formigas e cigarrinhas. Com base nos resultados representados nos gráficos, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A associação entre formigas e cigarrinhas é benéfica ou é prejudicial para alguma dessas populações de insetos? Cite o(s) gráfico(s) que permite(m) tal conclusão.</p>
+        </part>
+        <part>
+          <p>A associação entre formigas e cigarrinhas é benéfica ou prejudicial para a planta? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="B02">
+      <statement>
+        <p>A atividade das enzimas é influenciada pelo pH do meio. O gráfico abaixo mostra a velocidade de reação de duas enzimas que atuam na digestão humana, pepsina e tripsina. Para identificar se um frasco rotulado “Enzima” contém pepsina ou tripsina, foi planejado um experimento com quatro tubos de ensaio: dois tubos teste e dois tubos controle. a) Complete o quadro da página de resposta, indicando como deve ser montado cada um dos quatro tubos de ensaio do experimento. Para cada tubo, devem ser indicadas três condições: adição de enzima ou água esterilizada; tipo de substrato (proteína, amido ou gordura); valor de pH. b) Qual é o resultado esperado em cada tubo de ensaio, caso o frasco contenha apenas pepsina? c) Em que órgão(s) do sistema digestório humano atuam a pepsina e a tripsina? Página 20/38 − Caderno Reserva 0000−00 20 626 Área Reservada Não escreva no topo da folha</p>
+        <p>a) Tubo 1 Tubo 2 Tubo 3 Tubo 4 Enzima ou água Substrato Valor de pH b) c) 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="B03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as informações abaixo, relativas a mulheres e homens saudáveis.</p>
+        <p>Tempo de viabilidade do óvulo, após sua liberação pelo ovário: 24 horas.</p>
+        <p>Tempo de viabilidade do espermatozoide no corpo de uma mulher, após a ejaculação: 72 horas.</p>
+        <p>Período fértil: período do ciclo sexual mensal feminino em que a mulher apresenta maiores chances de engravidar. Com base nessas informações,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>no calendário da página de resposta, assinale com X os dias que correspondem ao período fértil de uma mulher que tenha ovulado no dia 15 do mês;</p>
+        </part>
+        <part>
+          <p>considerando as taxas dos hormônios luteinizante (LH), folículo estimulante (FSH) e progesterona no sangue, indique aquele(s) hormônio(s) que atinge(m) seu nível mais alto no período fértil da mulher.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="B04">
+      <statement>
+        <p>A hemoglobina, proteína responsável pelo transporte de oxigênio dos pulmões para os tecidos do corpo, é produzida nas células precursoras das hemácias. A anemia falciforme é uma doença genética causada por alteração da hemoglobina. É determinada por mutação no gene HBB, que leva à substituição de um aminoácido: no lugar de um ácido glutâmico, a proteína tem uma valina. De células da mucosa bucal de uma pessoa com anemia falciforme, foram obtidos:</p>
+        <p>DNA do genoma total (DNA genômico) e</p>
+        <p>RNA mensageiro, que serviu de molde para a síntese do DNA complementar, pelo processo de transcrição reversa (RNA DNA). a) A base nitrogenada trocada, que levou à substituição do aminoácido na hemoglobina, pode ser detectada no DNA complementar obtido a partir das células da mucosa bucal? Justifique sua resposta. b) Essa troca de bases pode ser detectada no DNA genômico obtido a partir das células da mucosa bucal? Justifique sua resposta. Página 22/38 − Caderno Reserva 0000−00 22 066 Área Reservada Não escreva no topo da folha</p>
+        <p>a) b) 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="B05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Analise a tirinha. A Fadinha não concretizou o desejo do personagem Vírus, pois, de acordo com a classificação biológica, as amebas não estão incluídas no reino animal.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que característica das amebas as inclui em um reino diferente daquele dos animais?</p>
+        </part>
+        <part>
+          <p>Nos vírus, o material genético encontra se no interior de uma cápsula proteica. Onde está localizado o material genético das amebas?</p>
+        </part>
+        <part>
+          <p>Os vírus apresentam hábito parasita obrigatório. Como são as amebas, quanto a seu hábito?</p>
+        </part>
+        <part>
+          <p>Amebas conseguem sobreviver em meio hipotônico em relação ao seu citoplasma? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="B06">
+      <statement>
+        <p>No gráfico abaixo, uma das curvas representa a entrada e a outra, a saída de água em uma árvore da mata atlântica, ao longo de 12 horas, num dia ensolarado. a) Considerando que, em uma planta terrestre, a transpiração é realizada majoritariamente pelos estômatos, identifique a curva que representa a transpiração e a que representa a absorção de água. b) Explique como os processos da transpiração e da absorção de água nas plantas se relacionam fisiologicamente. c) Na página de resposta, há o esquema de um estômato aberto. Nas quatro barras pretas, coloque setas indicando a direção do fluxo da água entre as células estomáticas, para manter o estômato aberto. Página 24/38 − Caderno Reserva 0000−00 24 406 Área Reservada Não escreva no topo da folha</p>
+        <p>a) b) c) 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="H01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>PRODUÇÃO DE OURO NO BRASIL – 1700 1799 (EM QUILOGRAMAS) Períodos Minas Gerais Goiás Mato Grosso Total 1700 1705 1.470 1.470 1706 1710 4.410 4.410 1711 1715 6.500 6.500 1716 1720 6.500 6.500 1721 1725 7.000 600 7.600 1726 1729 7.500 1.000 8.500 1730 1734 7.500 1.000 500 9.000 1735 1739 10.637 2.000 1.500 14.137 1740 1744 10.047 3.000 1.100 14.147 1745 1749 9.712 4.000 1.100 14.812 1750 1754 8.780 5.880 1.100 15.760 1755 1759 8.016 3.500 1.100 12.616 1760 1764 7.399 2.500 600 10.499 1765 1769 6.659 2.500 600 9.759 1770 1774 6.179 2.000 600 8.779 1775 1779 5.518 2.000 600 8.118 1780 1784 4.884 1.000 400 6.284 1785 1789 3.511 1.000 400 4.911 1790 1794 3.360 750 400 4.510 1795 1799 3.249 750 400 4.399 Virgílio Noya Pinto, O ouro brasileiro e o comércio angloportuguês. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Utilize a coluna “Períodos” e outras duas à sua escolha, e elabore um gráfico representando, de modo aproximado e simultâneo, os dados da tabela.</p>
+        </part>
+        <part>
+          <p>Relacione os números apresentados nas duas colunas escolhidas com outros aspectos da economia colonial do Brasil do século XVIII.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O papel da imprensa, como agente histórico, foi decisivo para a Independência do Brasil na medida em que significou e ampliou espaços de liberdade de expressão e de debate político, que formaram e interferiram no quadro da separação de Portugal e de início da edificação da ordem nacional. A palavra impressa no próprio território do Brasil era então uma novidade que circulava e ajudava a delinear identidades culturais e políticas e constituiuse em significativo mecanismo de interferência, com suas singularidades e interligada a outras dimensões daquela sociedade que aliava permanências e mutações. Marco Morel, Independência no papel: a imprensa periódica. I. Jancsó (org.). Independência: história e historiografia. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique por que a imprensa pode ser considerada “uma novidade” no Brasil à época da Independência.</p>
+        </part>
+        <part>
+          <p>O texto se refere a “outras dimensões daquela sociedade que aliava permanências e mutações”. Dê dois exemplos dessas dimensões, relacionandoas com o “início da edificação da ordem nacional” no Brasil da época da Independência. Página 26/38 − Caderno Reserva 0000−00 26 846 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Como proteção contra a fantasia e a demência financeiras, a memória é muito melhor do que a lei. Quando a lembrança do desastre de 1929 se perdeu no esquecimento, a lei e a regulação não foram suficientes. A história é extremamente útil para proteger as pessoas da avareza dos outros e delas mesmas. John Kenneth Galbraith, O grande crash, 1929.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique duas das características principais do que o autor chama de “desastre de 1929”.</p>
+        </part>
+        <part>
+          <p>Identifique algum fenômeno posterior, comparável ao “desastre de 1929”, estabelecendo semelhanças e diferenças entre ambos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base nessas imagens,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>identifique as situações históricas específicas às quais elas se referem;</p>
+        </part>
+        <part>
+          <p>descreva dois elementos internos a cada uma que permitam estabelecer uma relação entre elas. Página 28/38 − Caderno Reserva 0000−00 28 286 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No século XII, padres e guerreiros esperavam da dama que, depois de ter sido filha dócil, esposa clemente, mãe fecunda, ela fornecesse em sua velhice, pelo fervor de sua piedade e pelo rigor de suas renúncias, algum bafio de santidade à casa que a acolhera. Ela, por certo, era dominada. Entretanto, era dotada de um singular poder por esses homens que a temiam, que se tranquilizavam clamando bem alto sua superioridade nativa, que a julgavam contudo capaz de curar os corpos, de salvar as almas, e que se entregavam nas mãos das mulheres para que seus despojos carnais depois de seu último suspiro fossem convenientemente preparados e sua memória fielmente conservada pelos séculos dos séculos. Georges Duby, Damas do século XII. Adaptado. A partir do texto,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>identifique dois papéis sociais exercidos pelas mulheres na Idade Média;</p>
+        </part>
+        <part>
+          <p>associe as relações entre homens e mulheres à estrutura social na Idade Média.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A destruição de Canudos se deveu menos ao antirrepublicanismo do Conselheiro do que a fatores como a atuação da Igreja contra o catolicismo pouco ortodoxo dos beatos e as pressões dos proprietários de terras contra Canudos, cuja expansão trazia escassez de mão de obra e rompia o equilíbrio político da região. Roberto Ventura, Euclides da Cunha. Esboço biográfico. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique e explique os fatores que, segundo o texto, motivaram a campanha de Canudos, entre 1896 e 1897.</p>
+        </part>
+        <part>
+          <p>Relacione o episódio de Canudos ao panorama político e social da Primeira República. Página 30/38 − Caderno Reserva 0000−00 30 934 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o mapa a seguir. Considere o “trabalho análogo à escravidão” no meio rural brasileiro.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique dois elementos que caracterizam essa condição de trabalho. Explique.</p>
+        </part>
+        <part>
+          <p>Identifique as três Regiões Administrativas do país em que há maior área de concentração desse fenômeno e indique duas atividades significativas nas quais os trabalhadores, submetidos a essa condição, estão inseridos.</p>
+        </part>
+        <part>
+          <p>Descreva uma das formas de arregimentação de pessoas para essa condição de trabalho.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Se não conseguirmos uma distribuição justa dos refugiados, muitos vão questionar Schengen e isso é algo que não queremos. [Declaração da chanceler alemã, Angela Merkel.] O Estado de S. Paulo, 01/09/2015. A Europa vive uma das mais graves crises migratórias de sua história recente. Segundo a Agência das Nações Unidas para Refugiados (Acnur), são esperados ao menos 1,4 milhão de refugiados entre 2015 e 2016. O Estado de S. Paulo, 19/10/2015. Considerando o contexto da União Europeia (UE), as informações acima e as respectivas datas de publicação, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que é o Espaço Schengen?</p>
+        </part>
+        <part>
+          <p>O que é a Zona do Euro? Cite um país da UE que não faz parte dessa Zona.</p>
+        </part>
+        <part>
+          <p>Explique qual foi o posicionamento da UE e o papel da Alemanha frente à intensificação desse fluxo migratório. Página 32/38 − Caderno Reserva 0000−00 32 374 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o gráfico a seguir.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Analise o comportamento da pauta de exportações brasileiras no período de 1964 a 2013, interpretando as principais alterações verificadas.</p>
+        </part>
+        <part>
+          <p>A China, na atualidade, é o país que mais compra produtos brasileiros. Indique dois dos principais produtos brasileiros exportados para esse país e explique dois motivos para essa importação.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A exemplo de anos anteriores, 2015 foi marcado por cheias do rio Negro, ocorrendo inundações em municípios do estado do Amazonas. Observe, no gráfico abaixo, dados de três cheias ocorridas no Porto de Manaus, em anos recentes. Observe também o mapa da bacia hidrográfica amazônica.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Com base nos dados acima e em seus conhecimentos, explique qual é a possível relação das cheias do rio Negro com seu regime de alimentação e sua proximidade com o equador.</p>
+        </part>
+        <part>
+          <p>Considerando a localização de Manaus na bacia hidrográfica amazônica, explique por que essa cidade sofre periodicamente débitos fluviais excessivos. Página 34/38 − Caderno Reserva 0000−00 34 714 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com o IBGE, domicílio com Segurança Alimentar é aquele em que seus moradores relatam, principalmente, não ter havido falta de alimentos em quantidade e qualidade suficientes nos três meses anteriores à coleta de dados.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Como se deu, em 2013, a distribuição regional da Segurança Alimentar no país? Considere, em sua análise, a situação do domicílio (urbano e rural).</p>
+        </part>
+        <part>
+          <p>Indique as regiões com a maior e com a menor Segurança Alimentar na zona rural, em 2013. Explique as razões que justificam essa diferença na condição de Segurança Alimentar, tendo em vista a estrutura e ocupação agrária de cada uma delas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="G06">
+      <statement>
+        <p>O estrato entre a crosta e a atmosfera, onde ocorre vida no planeta Terra, caracteriza se por apresentar trocas de matéria e energia, o que influi na distribuição de biomassa e biodiversidade no planeta. Os fenômenos de radiação solar (R) e de precipitação (P) estão diretamente correlacionados com a distribuição da biomassa e da biodiversidade e variam, em grande medida, latitudinalmente. De modo geral, quanto mais quente e mais úmida for uma região, maiores serão a biomassa e a biodiversidade das espécies; por outro lado, quanto mais fria e mais seca for a região, menores serão tanto a biomassa quanto a biodiversidade das espécies. a) Com base nas informações fornecidas e em seus conhecimentos, represente no gráfico da página de resposta a localização do extremo com maior biomassa e biodiversidade e os dois extremos com menor biomassa e biodiversidade. Para a representação, utilize a legenda indicada. b) Indique outro fator, além da radiação solar e da precipitação, que pode afetar a distribuição de biomassa e de biodiversidade no planeta. Explique, apontando dois exemplos. Página 36/38 − Caderno Reserva 0000−00 36 154 Área Reservada Não escreva no topo da folha</p>
+        <p>a) b) 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2016 PROVA 3</p>
+        <p>FUVEST Fundação Universitária para o Vestibular|12/01/2016|13:42:38 XXX.XXX.XXX.XXX DD/MM/AAAA HH:MM:SS CAIXA 000 000/000 FUVEST 2016 2ª Fase − Terceiro Dia (12/01/2016) 000/000 Página 38/38 − Caderno Reserva 0000−00 38 594 Área Reservada Não escreva no topo da folha</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

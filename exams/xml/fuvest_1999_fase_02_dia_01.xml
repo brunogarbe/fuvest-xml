@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1999" phase="discursive" day="0" variation="V1" date="1999-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O esquema a seguir representa um corte de célula acinosa do pâncreas, observado ao microscópio eletrônico de transmissão.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique as estruturas apontadas pelas setas A, B, e C, e indique suas respectivas funções no metabolismo celular.</p>
+        </part>
+        <part>
+          <p>Por meio da ordenação das letras indicadoras das estruturas celulares, mostre o caminho percorrido pelas enzimas componentes do suco pancreático desde seu local de síntese até sua secreção pela célula acinosa.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="02">
+      <statement>
+        <p>Em certa linhagem celular, o intervalo de tempo entre o fim de uma mitose e o fim da mitose seguinte é de 24 horas. Uma célula dessa linhagem gasta cerca de 12 horas, desde o início do processo de duplicação dos cromossomos até o início da prófase. Do fim da fase de duplicação dos cromossomos até o fim da telófase, a célula gasta 3 horas e, do início da prófase até o fim da telófase, ela gasta 1 hora. Com base nessas informações, determine a duração de cada uma das etapas do ciclo celular (G1, S, G2 e mitose) dessas células. FUVEST 1999 – Prova de Biologia - 2 -</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em vegetais, as taxas de fotossíntese e de respiração podem ser calculadas a partir da quantidade de gás oxigênio produzido ou consumido num determinado intervalo de tempo. O gráfico ao lado mostra as taxas de respiração e de fotossíntese de uma planta aquática, quando se varia a intensidade luminosa.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em que intensidade luminosa, o volume de gás oxigênio produzido na fotossíntese é igual ao volume desse gás consumido na respiração?</p>
+        </part>
+        <part>
+          <p>Em que intervalo de intensidade luminosa, a planta está gastando suas reservas?</p>
+        </part>
+        <part>
+          <p>Se a planta for mantida em intensidade luminosa “r” , ela pode crescer? Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ana e Maria são gêmeas idênticas. Maria, aos 10 anos, teve seus dois ovários removidos cirurgicamente e nunca se submeteu a tratamento com hormônios. Atualmente, as gêmeas têm 25 anos de idade e apresentam diferenças físicas e fisiológicas decorrentes da remoção das gônadas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite duas dessas diferenças.</p>
+        </part>
+        <part>
+          <p>Se Maria tivesse sido operada aos 18 anos, as diferenças entre ela e Ana seriam as mesmas que apresentam atualmente? Justifique. FUVEST 1999 – Prova de Biologia - 3 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em cobaias, a cor preta é condicionada pelo alelo dominante D e a cor marrom, pelo alelo recessivo d. Em um outro cromossomo, localiza-se o gene responsável pelo padrão da coloração: o alelo dominante M determina padrão uniforme (uma única cor) e o alelo recessivo m, o padrão malhado (preto/branco ou marrom/branco). O cruzamento de um macho de cor preta uniforme com uma fêmea de cor marrom uniforme produz uma ninhada de oito filhotes: 3 de cor preta uniforme, 3 de cor marrom uniforme, 1 preto e branco e 1 marrom e branco.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quais os genótipos dos pais?</p>
+        </part>
+        <part>
+          <p>Se o filho preto e branco for cruzado com uma fêmea cujo genótipo é igual ao da mãe dele, qual a proporção esperada de descendentes iguais a ele?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>É comum o cruzamento entre jumento e égua para se obter o híbrido conhecido como burro. Este, apesar de seu vigor físico, é estéril.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Sabendo-se que o número diplóide de cromossomos do jumento é 62 e o da égua 64, quantos cromossomos devem estar presentes em cada célula somática do burro?</p>
+        </part>
+        <part>
+          <p>Com base no conceito biológico de espécie, o jumento e a égua pertencem à mesma espécie? Por quê? FUVEST 1999 – Prova de Biologia - 4 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O desenvolvimento da Genética, a partir da redescoberta das leis de Mendel, em 1900, permitiu a reinterpretação da teoria da evolução de Darwin. Assim, na década de 1940, formulou-se a teoria sintética da evolução. Interprete o diagrama ao lado, de acordo com essa teoria.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que fator evolutivo está representado pela letra A?</p>
+        </part>
+        <part>
+          <p>Que mecanismos produzem recombinação gênica?</p>
+        </part>
+        <part>
+          <p>Que fator evolutivo está representado pela letra B?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Preencha a tabela abaixo, assinalando as características de cada organismo indicado na primeira coluna: Organismo Tipo de célula Número de células Nutrição Procarionte Eucarionte Unicelular Pluricelular Autótrofo Heterótrofo Bactéria Paramécio Anêmona Cogumelo Briófita</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Usando todas e tão somente as características mencionadas na tabela, escolha dois dos organismos citados que podem ser incluídos num mesmo grupo.</p>
+        </part>
+        <part>
+          <p>Cite uma característica não mencionada na tabela que diferencie as categorias taxonômicas às quais pertencem os organismos que você agrupou no item a. FUVEST 1999 – Prova de Biologia - 5 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A conquista do meio terrestre, pelas plantas, foi possível graças a um conjunto de adaptações.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite duas adaptações dos vegetais terrestres relacionadas à economia de água.</p>
+        </part>
+        <part>
+          <p>Que estruturas vegetais permitem a dispersão das pteridófitas e das gimnospermas, independentemente do meio aquático?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="10">
+      <statement>
+        <p>Em determinada região, as populações de capim, preás e cobras constituem uma cadeia alimentar. Medidas das variações no tamanho das três populações, durante certo intervalo de tempo, permitiram a construção dos seguintes gráficos: Elabore uma hipótese plausível para explicar o que aconteceu, nessa região, no intervalo de tempo A – F, identificando as populações representadas, respectivamente, pelos gráficos I, II e III.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

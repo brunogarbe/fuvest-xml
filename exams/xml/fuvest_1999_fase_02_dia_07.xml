@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1999" phase="discursive" day="0" variation="V1" date="1999-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Magnésio e seus compostos podem ser produzidos a partir da água do mar, como mostra o esquema a seguir:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique X, Y e Z, dando suas respectivas fórmulas.</p>
+        </part>
+        <part>
+          <p>Escreva a equação que representa a formação do composto X a partir do Mg(OH)2(s). Esta equação é de uma reação de oxirredução? Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As etapas finais de obtenção do cobre a partir da calcosita, Cu2S, são, seqüencialmente: I. ustulação (aquecimento ao ar). II. refinação eletrolítica (esquema abaixo).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação da ustulação da calcosita.</p>
+        </part>
+        <part>
+          <p>Descreva o processo da refinação eletrolítica, mostrando o que ocorre em cada um dos pólos ao se fechar o circuito.</p>
+        </part>
+        <part>
+          <p>Indique, no esquema dado, o sentido do movimento dos elétrons no circuito e o sentido do movimento dos íons na solução, durante o processo de eletrólise. FUVEST 1999 – Prova de Química - 2 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Calcula-se que 1,0 x 1016 kJ da energia solar são utilizados na fotossíntese, no período de um dia. A reação da fotossíntese pode ser representada por energia solar 6CO2 + 6H2O C6H12O6 + 6O2 , clorofila e requer, aproximadamente, 3,0 x 103 kJ por mol de glicose formada.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantas toneladas de CO2 podem ser retiradas, por dia, da atmosfera, através da fotossíntese?</p>
+        </part>
+        <part>
+          <p>Se, na fotossíntese, se formasse frutose em vez de glicose, a energia requerida (por mol) nesse processo teria o mesmo valor? Justifique, com base nas energias de ligação. São conhecidos os valores das energias médias de ligação entre os átomos: C-H, C-C, C-O, C=O, H-O.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="04">
+      <statement>
+        <p>Para distinguir o 1-butanol do 2-butanol foram propostos dois procedimentos: I. Desidratação por aquecimento de cada um desses compostos com ácido sulfúrico concentrado e isolamento dos produtos formados. Adição de algumas gotas de solução de bromo em tetracloreto de carbono (solução vermelha) aos produtos isolados e verificação da ocorrência ou não de descoramento. II. Oxidação parcial de cada um desses compostos com dicromato de potássio e isolamento dos produtos formados. Adição de reagente de Tollens aos produtos isolados e verificação da ocorrência ou não de reação (positiva para aldeído e negativa para cetona). Mostre a utilidade ou não de cada um desses procedimentos para distinguir esses dois álcoois, indicando os produtos formados na desidratação e na oxidação. massa molar do CO2... 44g/mol FUVEST 1999 – Prova de Química - 3 -</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O equilíbrio H2(g) + I2(g) 2HI(g) incolor violeta incolor tem, a 370ºC, constante Kc igual a 64. Para estudar esse equilíbrio, foram feitas 2 experiências independentes A e B: A) 0,10 mol de cada gás, H2 e I2, foram colocados em um recipiente adequado de 1 L, mantido a 370ºC até atingir o equilíbrio (a intensidade da cor não muda mais). B) 0,20 mol do gás HI foi colocado em um recipiente de 1 L, idêntico ao utilizado em A, mantido a 370ºC até atingir o equilíbrio (a intensidade da cor não muda mais).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Atingido o equilíbrio em A e em B, é possível distinguir os recipientes pela intensidade da coloração violeta? Justifique.</p>
+        </part>
+        <part>
+          <p>Para a experiência A, calcule a concentração de cada gás no equilíbrio. Mostre, em um gráfico de concentração (no quadriculado ao lado), como variam, em função do tempo, as concentrações desses gases até que o equilíbrio seja atingido. Identifique as curvas no gráfico.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base nas seguintes equações de semi-reações, dados os respectivos potenciais padrão de redução, Eº (volt) H2O(l) + e- ½H2(g) + OH-(aq) -0,83 Al(OH)4 -(aq) + 3e- Al(s) + 4OH-(aq) -2,33 Cu(OH)2(s) + 2e- Cu(s) + 2OH-(aq) -0,22 , responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Objetos de alumínio e objetos de cobre podem ser lavados com solução aquosa alcalina sem que ocorra a corrosão do metal? Justifique, escrevendo as equações químicas adequadas.</p>
+        </part>
+        <part>
+          <p>Qual dos metais, cobre ou alumínio, é melhor redutor em meio alcalino? Explique. FUVEST 1999 – Prova de Química - 4 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Rutherford determinou o valor da constante de Avogadro, estudando a série radioativa abaixo, onde está indicado o modo de decaimento de cada nuclídeo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as equações de desintegração dos nuclídeos nas etapas II e III da série dada. Indique todos os números atômicos e de massa.</p>
+        </part>
+        <part>
+          <p>Calcule a constante de Avogadro, sabendo que: - 1,0 g de rádio, Ra, produz 3,0 x 1015 partículas α por dia, na etapa I da desintegração. - Uma vez formado o radônio, Rn, este e os demais nuclídeos que o sucedem se desintegram rapidamente até dar o último nuclídeo (Pb) da série apresentada. - As partículas α transformam-se em átomos de hélio. - 1,0 g de rádio, Ra, considerando-se todas as etapas da desintegração, produz, em 80 dias, 0,040 mL de gás hélio, medido a 25ºC e 1 atm. Dado: volume molar dos gases a 25ºC e 1 atm = 25 L/mol</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O rótulo de uma solução de alvejante doméstico, à base de cloro, traz a seguinte informação: teor de cloro ativo = 2,0 a 2,5% em peso*. Para se determinar o teor, faz-se reagir um volume conhecido de alvejante com KI(aq) em excesso, ocorrendo a formação de I2, conforme a equação: OCl- + 2I- + H2O → I2 + Cl- + 2OHA quantidade de iodo formada é determinada por titulação com solução de tiossulfato de sódio. Em uma determinação, 10 mL do alvejante foram diluídos a 100 mL com água destilada. Uma amostra de 25 mL dessa solução diluída reagiu com KI(aq) em excesso e a titulação indicou a formação de 1,5x10-3mol de I2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Verifique se a especificação do rótulo é válida, calculando o teor de cloro ativo desse alvejante.</p>
+        </part>
+        <part>
+          <p>Dentre os seguintes materiais de vidro: bureta, pipeta, balão volumétrico, proveta, béquer e erlenmeyer, cite dois e sua respectiva utilização nessa determinação. * Apesar de o componente ativo do alvejante ser o hipoclorito (OCl-), a especificação se refere à porcentagem em massa de cloro (Cl) no alvejante. Dados: densidade do alvejante: 1,0 g/mL massa molar do Cl: 35 g/mol FUVEST 1999 – Prova de Química - 5 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Alguns gases presentes em atmosferas poluídas formam, com água da chuva, ácidos tais como o sulfúrico e o nítrico.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva, para cada um desses ácidos, a equação que representa sua formação a partir de um óxido gasoso poluente.</p>
+        </part>
+        <part>
+          <p>Um reservatório contém 100m3 (1,0 × 105L) de água de pH igual a 6,0. Calcule o volume, em litros, de chuva de pH igual a 4,0 que esse reservatório deve receber para que o pH final da água atinja o valor de 5,0. Basta o valor aproximado. Neste caso, despreze o aumento de volume da água do reservatório com a chuva.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Náilon 66 é uma poliamida, obtida através da polimerização por condensação dos monômeros 1,6-diaminoexano e ácido hexanodióico (ácido adípico), em mistura equimolar. H2N - (CH2)6 – NH2 1,6 – diaminoexano HOOC – (CH2)4 – COOH ácido adípico O ácido adípico pode ser obtido a partir do fenol e o 1,6-diaminoexano, a partir do ácido adípico, conforme esquema abaixo:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Reagindo 2x103 mol de fenol, quantos mols de H2 são necessários para produzir 1x103 mol de cada um desses monômeros? Justifique. Admita 100% de rendimento em cada etapa.</p>
+        </part>
+        <part>
+          <p>Escreva a equação que representa a condensação do 1,6-diaminoexano com o ácido adípico.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

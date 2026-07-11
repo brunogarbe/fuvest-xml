@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2004" phase="discursive" day="0" variation="V1" date="2004-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Durante um jogo de futebol, um chute forte, a partir do chão, lança a bola contra uma parede próxima. Com auxílio de uma câmera digital, foi possível reconstituir a trajetória da bola, desde o ponto em que ela atingiu sua altura máxima (ponto A) até o ponto em que bateu na parede (ponto B). As posições de A e B estão representadas na figura. Após o choque, que é elástico, a bola retorna ao chão e o jogo prossegue.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Estime o intervalo de tempo t1, em segundos, que a bola levou para ir do ponto A ao ponto B.</p>
+        </part>
+        <part>
+          <p>Estime o intervalo de tempo t2, em segundos, durante o qual a bola permaneceu no ar, do instante do chute até atingir o chão após o choque.</p>
+        </part>
+        <part>
+          <p>Represente, no sistema de eixos da folha de resposta, em função do tempo, as velocidades horizontal VX e vertical VY da bola em sua trajetória, do instante do chute inicial até o instante em que atinge o chão, identificando por VX e VY, respectivamente, cada uma das curvas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um sistema industrial é constituído por um tanque cilíndrico, com 600 litros de água e área do fundo S1 = 0,6 m2, e por um balde, com área do fundo S2 = 0,2 m2. O balde está vazio e é mantido suspenso, logo acima do nível da água do tanque, com auxílio de um fino fio de aço e de um contrapeso C, como indicado na figura. Então, em t = 0 s, o balde passa a receber água de uma torneira, à razão de 20 litros por minuto, e vai descendo, com velocidade constante, até que encoste no fundo do tanque e a torneira seja fechada. Para o instante t = 6 minutos, com a torneira aberta, na situação em que o balde ainda não atingiu o fundo, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A tensão adicional ∆F, em N, que passa a agir no fio que sustenta o balde, em relação à situação inicial, indicada na figura.</p>
+        </part>
+        <part>
+          <p>A altura da água H6, em m, dentro do tanque.</p>
+        </part>
+        <part>
+          <p>Considerando todo o tempo em que a torneira fica aberta, determine o intervalo de tempo T, em minutos, que o balde leva para encostar no fundo do tanque. NOTE E ADOTE: Vy é positivo quando a bola sobe Vx é positivo quando a bola se move para a direita NOTE E ADOTE: O contrapeso equilibra o peso do balde, quando vazio. O volume das paredes do balde é desprezível. Folha de resposta das questões Q.01 e Q.02</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="01">
+      <statement>
+        <p>___________________________________________________________________________</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um brinquedo consiste em duas pequenas bolas A e B, de mesma massa M, e um fio flexível: a bola B está presa na extremidade do fio e a bola A possui um orifício pelo qual o fio passa livremente. Para o jogo, um operador (com treino!) deve segurar o fio e girá-lo, de tal forma que as bolas descrevam trajetórias circulares, com o mesmo período T e raios diferentes. Nessa situação, como indicado na figura 1, as bolas permanecem em lados opostos em relação ao eixo vertical fixo que passa pelo ponto O. A figura 2 representa o plano que contém as bolas e que gira em torno do eixo vertical, indicando os raios e os ângulos que o fio faz com a horizontal.</p>
+        <p>Figura 1</p>
+        <p>Figura 2 Assim, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O módulo da força de tensão F, que permanece constante ao longo de todo o fio, em função de M e g.</p>
+        </part>
+        <part>
+          <p>A razão K = sen α/sen θ , entre os senos dos ângulos que o fio faz com a horizontal.</p>
+        </part>
+        <part>
+          <p>O número N de voltas por segundo que o conjunto realiza quando o raio R1 da trajetória descrita pela bolinha B for igual a 0,10 m.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um cilindro de Oxigênio hospitalar (O2), de 60 litros, contém, inicialmente, gás a uma pressão de 100 atm e temperatura de 300 K. Quando é utilizado para a respiração de pacientes, o gás passa por um redutor de pressão, regulado para fornecer Oxigênio a 3 atm, nessa mesma temperatura, acoplado a um medidor de fluxo, que indica, para essas condições, o consumo de Oxigênio em litros/minuto.</p>
+        <p>Assim, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O número N0 de mols de O2, presentes inicialmente no cilindro.</p>
+        </part>
+        <part>
+          <p>O número n de mols de O2, consumidos em 30 minutos de uso, com o medidor de fluxo indicando 5 litros/minuto.</p>
+        </part>
+        <part>
+          <p>O intervalo de tempo t, em horas, de utilização do O2, mantido o fluxo de 5 litros/minuto, até que a pressão interna no cilindro fique reduzida a 40 atm. NOTE E ADOTE: Não há atrito entre as bolas e o fio. Considere sen θ ≈ 0,4 e cos θ ≈ 0,9; π ≈ 3 g NOTE E ADOTE: Considere o O2 como gás ideal. Suponha a temperatura constante e igual a 300 K. A constante dos gases ideais R ≈ 8 x 10-2 litros.atm/K</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um experimento de laboratório, um fluxo de água constante, de 1,5 litros por minuto, é aquecido através de um sistema cuja resistência R, alimentada por uma fonte de 100 V, depende da temperatura da água. Quando a água entra no sistema, com uma temperatura T0 = 20 ºC, a resistência passa a ter um determinado valor que aquece a água. A água aquecida estabelece novo valor para a resistência e assim por diante, até que o sistema se estabilize em uma temperatura final Tf .</p>
+        <p>Para analisar o funcionamento do sistema:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a expressão da potência PR dissipada no resistor, em função da temperatura do resistor, e represente PR x T no gráfico da folha de respostas.</p>
+        </part>
+        <part>
+          <p>Escreva a expressão da potência PA necessária para que a água deixe o sistema a uma temperatura T, e represente PA x T no mesmo gráfico da folha de respostas.</p>
+        </part>
+        <part>
+          <p>Estime, a partir do gráfico, o valor da temperatura final Tf da água, quando essa temperatura se estabiliza.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma máquina fotográfica, com uma lente de foco F e eixo OO’, está ajustada de modo que a imagem de uma paisagem distante é formada com nitidez sobre o filme. A situação é esquematizada na figura 1, apresentada na folha de respostas. O filme, de 35 mm, rebatido sobre o plano, também está esquematizada na figura 2, com o fotograma K correspondente. A fotografia foi tirada, contudo, na presença de um fio vertical P, próximo à máquina, perpendicular à folha de papel, visto de cima, na mesma figura. No esquema da folha de respostas,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Represente, na figura 1, a imagem de P, identificando-a por P’ (Observe que essa imagem não se forma sobre o filme).</p>
+        </part>
+        <part>
+          <p>Indique, na figura 1, a região AB do filme que é atingida pela luz refletida pelo fio, e os raios extremos, RA e RB , que definem essa região.</p>
+        </part>
+        <part>
+          <p>Esboce, sobre o fotograma K da figura 2, a região em que a luz proveniente do fio impressiona o filme, hachurando-a. NOTE E ADOTE: Em uma máquina fotográfica ajustada para fotos de objetos distantes, a posição do filme coincide com o plano que contém o foco F da lente. NOTE E ADOTE: • Nas condições do problema, o valor da resistência R é dado por R = 10 – α T, quando R é expresso em Ω, T em ºC e α = 0,1 Ω/ºC. • Toda a potência dissipada no resistor é transferida para a água e o resistor está à mesma temperatura de saída da água. • Considere o calor específico da água c = 4000 J/(kg.K) e a densidade da água ρ = 1 kg/litro Folha de resposta das questões Q.05 e Q.06</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um sistema de alimentação de energia de um resistor R = 20 Ω é formado por duas baterias, B1 e B2, interligadas através de fios, com as chaves Ch1 e Ch2, como representado na figura. A bateria B1 fornece energia ao resistor, enquanto a bateria B2 tem a função de recarregar a bateria B1. Inicialmente, com a chave Ch1 fechada (e Ch2 aberta), a bateria B1 fornece corrente ao resistor durante 100 s. Em seguida, para repor toda a energia química que a bateria B1 perdeu, a chave Ch2 fica fechada (e Ch1 aberta), durante um intervalo de tempo T. Em relação a essa operação, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O valor da corrente I1, em ampères, que percorre o resistor R, durante o tempo em que a chave Ch1 permanece fechada.</p>
+        </part>
+        <part>
+          <p>A carga Q, em C, fornecida pela bateria B1, durante o tempo em que a chave Ch1 permanece fechada.</p>
+        </part>
+        <part>
+          <p>O intervalo de tempo T, em s, em que a chave Ch2 permanece fechada. NOTE E ADOTE: As baterias podem ser representadas pelos modelos ao lado, com fem 1 = 12 V e r1 = 2Ω e fem 2 = 36 V e r2 = 4Ω</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um certo relógio de pêndulo consiste em uma pequena bola, de massa M = 0,1 kg, que oscila presa a um fio. O intervalo de tempo que a bolinha leva para, partindo da posição A, retornar a essa mesma posição é seu período T0, que é igual a 2s. Neste relógio, o ponteiro dos minutos completa uma volta (1 hora) a cada 1800 oscilações completas do pêndulo. Estando o relógio em uma região em que atua um campo elétrico E, constante e homogêneo, e a bola carregada com carga elétrica Q, seu período será alterado, passando a TQ. Considere a situação em que a bolinha esteja carregada com carga Q = 3 x 10-5 C, em presença de um campo elétrico cujo módulo E = 1 x 105 V/m. Então, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A intensidade da força efetiva Fe, em N, que age sobre a bola carregada.</p>
+        </part>
+        <part>
+          <p>A razão R = TQ/T0 entre os períodos do pêndulo, quando a bola está carregada e quando não tem carga.</p>
+        </part>
+        <part>
+          <p>A hora que o relógio estará indicando, quando forem de fato três horas da tarde, para a situação em que o campo elétrico tiver passado a atuar a partir do meio-dia. NOTE E ADOTE: Nas condições do problema, o período T do pêndulo pode ser expresso por T = 2π em que Fe é a força vertical efetiva que age sobre a massa, sem considerar a tensão do fio.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um sensor, montado em uma plataforma da Petrobrás, com posição fixa em relação ao fundo do mar, registra as sucessivas posições de uma pequena bola que flutua sobre a superfície da água, à medida que uma onda do mar passa por essa bola continuamente. A bola descreve um movimento aproximadamente circular, no plano vertical, mantendo-se em torno da mesma posição média, tal como reproduzido na seqüência de registros abaixo, nos tempos indicados. O intervalo entre registros é menor do que o período da onda. A velocidade de propagação dessa onda senoidal é de 1,5 m/s.</p>
+        <p>Para essas condições:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o período T, em segundos, dessa onda do mar.</p>
+        </part>
+        <part>
+          <p>Determine o comprimento de onda λ, em m, dessa onda do mar.</p>
+        </part>
+        <part>
+          <p>Represente, na folha de respostas, um esquema do perfil dessa onda, para o instante t = 14 s, tal como visto da plataforma fixa. Indique os valores apropriados nos eixos horizontal e vertical.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com auxílio de uma pequena bússola e de uma bobina, é possível construir um instrumento para medir correntes elétricas. Para isso, a bobina é posicionada de tal forma que seu eixo coincida com a direção Leste-Oeste da bússola, sendo esta colocada em uma região em que o campo magnético B da bobina pode ser considerado uniforme e dirigido para Leste. Assim, quando a corrente que percorre a bobina é igual a zero, a agulha da bússola aponta para o Norte. À medida em que, ao passar pela bobina, a corrente I varia, a agulha da bússola se move, apontando em diferentes direções, identificadas por θ, ângulo que a agulha faz com a direção Norte. Os terminais A e B são inseridos convenientemente no circuito onde se quer medir a corrente. Uma medida inicial de calibração indica que, para θ0 = 45º, a corrente I0 = 2 A.</p>
+        <p>Para essa montagem:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a constante k de proporcionalidade entre B e I, expressa em gauss por ampère.</p>
+        </part>
+        <part>
+          <p>Estime o valor da corrente I1, em ampères, quando a agulha indicar a direção θ1, representada na folha de respostas. Utilize, para isso, uma construção gráfica.</p>
+        </part>
+        <part>
+          <p>Indique, no esquema apresentado na folha de respostas, a nova direção θ2 que a bússola apontaria, para essa mesma corrente I1, caso a bobina passasse a ter seu número N de espiras duplicado, sem alterar seu comprimento. NOTE E ADOTE: • A componente horizontal do campo magnético da Terra, BT ≈ 0,2 gauss. • O campo magnético B produzido por esta bobina, quando percorrida por uma corrente I, é dado por B = k I, em que k é uma constante de proporcionalidade. • A constante k = µ0 N, em que µ0 é uma constante e N, o número de espiras por unidade de comprimento da bobina. Folha de resposta das questões Q.09 e Q.10</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

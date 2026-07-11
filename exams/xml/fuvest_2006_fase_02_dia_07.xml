@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2006" phase="discursive" day="0" variation="V1" date="2006-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Íons indesejáveis podem ser removidos da água, tratando-a com resinas de troca iônica, que são constituídas por uma matriz polimérica, à qual estão ligados grupos que podem reter cátions ou ânions. Assim, por exemplo, para o sal C+A-, dissolvido na água, a troca de cátions e ânions, com os íons da resina, pode ser representada por:</p>
+        <p>Resina tipo I – Removedora de cátions</p>
+        <p>Resina tipo II – Removedora de ânions</p>
+        <p>No tratamento da água com as resinas de troca iônica, a água atravessa colunas de vidro ou plástico, preenchidas com a resina sob a forma de pequenas esferas. O líquido que sai da coluna é chamado de eluído. Considere a seguinte experiência, em que água, contendo cloreto de sódio e sulfato de cobre (II) dissolvidos, atravessa uma coluna com resina do tipo I. A seguir, o eluído, assim obtido, atravessa outra coluna, desta vez preenchida com resina do tipo II. Supondo que ambas as resinas tenham sido totalmente eficientes, indique</p>
+      </statement>
+      <parts>
+        <part>
+          <p>os íons presentes no eluído da coluna com resina do tipo I.</p>
+        </part>
+        <part>
+          <p>qual deve ser o pH do eluído da coluna com resina do tipo I (maior, menor ou igual a 7). Justifique.</p>
+        </part>
+        <part>
+          <p>quais íons foram retidos pela coluna com resina do tipo II.</p>
+        </part>
+        <part>
+          <p>qual deve ser o pH do eluído da coluna com resina do tipo II (maior, menor ou igual a 7). Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere uma solução aquosa diluída de dicromato de potássio, a 25 ºC. Dentre os equilíbrios que estão presentes nessa solução, destacam-se:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule o valor da constante de equilíbrio K3.</p>
+        </part>
+        <part>
+          <p>Essa solução de dicromato foi neutralizada. Para a solução neutra, qual é o valor numérico da relação ? Mostre como obteve esse valor.</p>
+        </part>
+        <part>
+          <p>A transformação de íons dicromato em íons cromato, em meio aquoso, é uma reação de oxirredução? Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma balança de dois pratos, tendo em cada prato um frasco aberto ao ar, foi equilibrada nas condições-ambiente de pressão e temperatura. Em seguida, o ar atmosférico de um dos frascos foi substituído, totalmente, por outro gás. Com isso, a balança se desequilibrou, pendendo para o lado em que foi feita a substituição.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dê a equação da densidade de um gás (ou mistura gasosa), em função de sua massa molar (ou massa molar média).</p>
+        </part>
+        <part>
+          <p>Dentre os gases da tabela, quais os que, não sendo tóxicos nem irritantes, podem substituir o ar atmosférico para que ocorra o que foi descrito? Justifique. Gás H2 He NH3 CO ar O2 CO2 NO2 SO2 M/g mol-1 2 4 17 28 29 32 44 46 64 Equação dos gases ideais: PV = nRT P = pressão V = volume n = quantidade de gás R = constante dos gases T = temperatura M = massa molar (ou massa molar média)</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma mesma olefina pode ser transformada em álcoois isoméricos por dois métodos alternativos:</p>
+        <p>Método A : Hidratação catalisada por ácido:</p>
+        <p>Método B : Hidroboração:</p>
+        <p>No caso da preparação dos álcoois</p>
+        <p>e com base nas informações fornecidas (método A e método B), dê a fórmula estrutural da olefina a ser utilizada e o método que permite preparar</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o álcool I.</p>
+        </part>
+        <part>
+          <p>o álcool II. Para os itens a e b, caso haja mais de uma olefina ou mais de um método, cite-os todos.</p>
+        </part>
+        <part>
+          <p>Copie, na folha de respostas, as fórmulas estruturais dos álcoois I e II e, quando for o caso, assinale com asteriscos os carbonos assimétricos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em solução aquosa, iodeto de potássio reage com persulfato de potássio ) O S K ( 8 2 2 . Há formação de iodo e de sulfato de potássio. No estudo cinético desta reação, foram realizadas quatro experiências. Em cada uma delas, foram misturados volumes adequados de soluções-estoque dos dois reagentes, ambas de concentração -1 10</p>
+        <p>0,4 × mol / L e, a seguir, foi adicionada água, até que o volume final da solução fosse igual a 1,00 L. Na tabela, estão indicadas as concentrações iniciais dos reagentes, logo após a mistura e adição de água (tempo igual a zero).</p>
+        <p>Concentrações iniciais em mol / L Experiência −I</p>
+        <p>− 2 8 2O S</p>
+        <p>Temperatura (ºC) 1 -2 10</p>
+        <p>0,1 ×</p>
+        <p>-2 10</p>
+        <p>0,1 ×</p>
+        <p>25 2 -2 10</p>
+        <p>0,2 ×</p>
+        <p>-2 10</p>
+        <p>0,1 ×</p>
+        <p>25 3 -2 10</p>
+        <p>0,2 ×</p>
+        <p>-2 10</p>
+        <p>0,2 ×</p>
+        <p>25 4 -2 10</p>
+        <p>0,1 ×</p>
+        <p>-2 10</p>
+        <p>0,1 ×</p>
+        <p>35</p>
+        <p>Na página ao lado, está o gráfico correspondente ao estudo cinético citado e, também, uma tabela a ser preenchida com os volumes das soluções-estoque e os de água, necessários para preparar as soluções das experiências de 1 a 4.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química balanceada que representa a reação de oxirredução citada.</p>
+        </part>
+        <part>
+          <p>Preencha a tabela da página ao lado.</p>
+        </part>
+        <part>
+          <p>No gráfico, preencha cada um dos círculos com o número correspondente à experiência realizada. Justifique sua escolha com base em argumentos cinéticos e na quantidade de iodo formado em cada experiência.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Industrialmente, HCl gasoso é produzido em um maçarico, no qual entram, nas condições-ambiente, hidrogênio e cloro gasosos, observando-se uma chama de vários metros de altura, proveniente da reação entre esses gases.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação química que representa essa transformação, utilizando estruturas de Lewis tanto para os reagentes quanto para o produto.</p>
+        </part>
+        <part>
+          <p>Como se obtém ácido clorídrico a partir do produto da reação de hidrogênio com cloro? Escreva a equação química dessa transformação.</p>
+        </part>
+        <part>
+          <p>Hidrogênio e cloro podem ser produzidos pela eletrólise de uma solução concentrada de cloreto de sódio (salmoura). Dê as equações que representam a formação de cada um desses gases.</p>
+        </part>
+        <part>
+          <p>Que outra substância é produzida, simultaneamente ao cloro e ao hidrogênio, no processo citado no item anterior? velocidade da reação = tempo produzido I de mols 2 = − −× × 2 8 O 2 S I C C k − − 2 8 O 2 S I e C C = concentrações das respectivas espécies químicas, em mol / L. k = constante de velocidade, dependente da temperatura. Número atômico (Z) hidrogênio..............1 cloro.....................17 experiência volume (mL) de soluçãoestoque de iodeto de potássio volume (mL) de soluçãoestoque de persulfato de potássio volume (mL) de água 1 2 3 4</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O valor biológico protéico dos alimentos é avaliado comparando-se a porcentagem dos aminoácidos, ditos “essenciais”, presentes nas proteínas desses alimentos, com a porcentagem dos mesmos aminoácidos presentes na proteína do ovo, que é tomada como referência. Quando, em um determinado alimento, um desses aminoácidos estiver presente em teor inferior ao do ovo, limitará a quantidade de proteína humana que poderá ser sintetizada. Um outro alimento poderá compensar tal deficiência no referido aminoácido. Esses dois alimentos conterão “proteínas complementares” e, juntos, terão um valor nutritivo superior a cada um em separado. Na tabela que se segue, estão as porcentagens de alguns aminoácidos “essenciais” em dois alimentos em relação às do ovo (100%).</p>
+        <p>Alguns aminoácidos essenciais Arroz Feijão Lisina 63 102 Fenilalanina 110 107 Metionina 82 37 Leucina 115 101</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique por que a combinação “arroz com feijão” é adequada em termos de “proteínas complementares”. A equação que representa a formação de um peptídio, a partir dos aminoácidos isoleucina e valina, é dada na página ao lado.</p>
+        </part>
+        <part>
+          <p>Mostre, com um círculo, na fórmula estrutural do peptídio, a parte que representa a ligação peptídica.</p>
+        </part>
+        <part>
+          <p>Determine o valor de x na equação química dada.</p>
+        </part>
+        <part>
+          <p>100 g de proteína de ovo contêm 0,655g de isoleucina e 0,810 g de valina. Dispondo-se dessas massas de aminoácidos, qual a massa aproximada do peptídio, representado na página ao lado, que pode ser obtida, supondo reação total? Mostre os cálculos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere os seguintes dados:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual dos alcenos (A ou B) é o mais estável? Justifique. Neste caso, considere válido raciocinar com entalpia. A desidratação de álcoois, em presença de ácido, pode produzir uma mistura de alcenos, em que predomina o mais estável.</p>
+        </part>
+        <part>
+          <p>A desidratação do álcool , em presença de ácido, produz cerca de 90% de um determinado alceno. Qual deve ser a fórmula estrutural desse alceno? Justifique. Massa molar (g/mol): valina ..............117 isoleucina .......131 água .................18</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>O malonato de dietila e o acetoacetato de etila podem ser empregados para preparar, respectivamente, ácidos carboxílicos e cetonas. A preparação de um ácido, a partir do malonato de dietila, é feita na seqüência:</p>
+        <p>Reação I. Formação de um sal de sódio</p>
+        <p>Reação II. Introdução de grupo alquila</p>
+        <p>Reação III. Hidrólise ácida</p>
+        <p>Reação IV. Perda de CO2 por aquecimento</p>
+        <p>Analogamente, pode-se obter a 2-hexanona partindo-se do acetoacetato de etila:</p>
+        <p>Dê as quatro equações químicas que representam as reações I, II, III e IV para essa transformação.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Constrói-se uma pilha formada por: • um eletrodo, constituído de uma placa de prata metálica, mergulhada em uma solução aquosa de nitrato de prata de concentração 0,1 mol / L. • outro eletrodo, constituído de uma placa de prata metálica, recoberta de cloreto de prata sólido, imersa em uma solução aquosa de cloreto de sódio de concentração 0,1 mol / L. • uma ponte salina de nitrato de potássio aquoso, conectando esses dois eletrodos. Constrói-se outra pilha, semelhante à primeira, apenas substituindo-se AgCl (s) por AgBr (s) e NaCl (aq, 0,1 mol/L) por NaBr (aq, 0,1 mol / L). Em ambas as pilhas, quando o circuito elétrico é fechado, ocorre produção de energia.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dê a equação global da reação da primeira pilha. Justifique o sentido em que a transformação se dá.</p>
+        </part>
+        <part>
+          <p>Dê a equação da semi-reação que ocorre no pólo positivo da primeira pilha.</p>
+        </part>
+        <part>
+          <p>Qual das pilhas tem maior força eletromotriz? Justifique sua resposta com base nas concentrações iônicas iniciais presentes na montagem dessas pilhas e na tendência de a reação da pilha atingir o equilíbrio. Para a primeira pilha, as equações das semi-reações de redução, em meio aquoso, são: ) s ( Ag e ) aq ( Ag → + − + (aq) Cl (s) Ag e (s) AgCl − − + → + Produtos de solubilidade: -13 -10 10 ....5,4 AgBr ; 10 1,8 ..... AgCl × ×</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

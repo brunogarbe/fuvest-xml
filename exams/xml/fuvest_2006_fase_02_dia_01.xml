@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2006" phase="discursive" day="0" variation="V1" date="2006-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O esquema abaixo representa as principais relações alimentares entre espécies que vivem num lago de uma região equatorial.</p>
+        <p>Com relação a esse ambiente:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique os consumidores primários.</p>
+        </part>
+        <part>
+          <p>Dentre os consumidores, indique quais ocupam um único nível trófico.</p>
+        </part>
+        <part>
+          <p>Explique como o aumento das populações das aves pode impactar as populações de mosquitos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>O câncer é uma doença genética, mas na grande maioria dos casos não é herdado. Justifique essa afirmação.</p>
+        </part>
+        <part>
+          <p>Uma das preocupações com a destruição da camada de ozônio da atmosfera é o aumento da incidência de câncer de pele. Explique a relação que existe entre a destruição da camada de ozônio e o aumento da incidência desse câncer.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O esquema à esquerda mostra um coração humano em corte. À direita, o gráfico mostra a variação da pressão sangüínea no ventrículo esquerdo durante um ciclo cardíaco, que dura cerca de 0,7 segundo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em qual das etapas do ciclo cardíaco, indicadas pelas letras de A a O, ocorre o fechamento das valvas atrioventriculares ?</p>
+        </part>
+        <part>
+          <p>Os ventrículos direito e esquerdo possuem volume interno similar e ejetam o mesmo volume de sangue a cada contração. No entanto, a parede ventricular esquerda é cerca de 4 vezes mais espessa do que a direita. Como se explica essa diferença em função do trabalho realizado pelos ventrículos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma colônia de bactérias em que todos os indivíduos se originaram de uma única célula era incapaz de metabolizar lactose. Durante várias gerações, essas bactérias foram cultivadas em meio que continha glicose e lactose. Dessa cultura, foram retiradas duas amostras com quantidades iguais de células, que foram transferidas para novos meios de cultura: o meio A continha apenas glicose e o meio B apenas lactose, como únicas fontes de carbono. O gráfico abaixo mostra as curvas de crescimento bacteriano nas culturas A e B.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Como surgiram as bactérias capazes de sobreviver na cultura B?</p>
+        </part>
+        <part>
+          <p>Dê a razão para a diferença entre as curvas A e B no intervalo X.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A polinização é um evento essencial para a produção de frutos nas plantas. Em algumas espécies, no entanto, pode haver formação de frutos na ausência de polinização, se as flores forem pulverizadas com certos hormônios vegetais.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que parte da flor é estimulada pelos hormônios a se desenvolver em fruto?</p>
+        </part>
+        <part>
+          <p>Qual é a diferença entre um fruto gerado pela aplicação de hormônios, sem que haja polinização, e um fruto resultante da polinização?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O gráfico a seguir mostra, em unidades arbitrárias, as quantidades de gás carbônico (CO2) liberadas e absorvidas por uma planta em diferentes intensidades luminosas.</p>
+        <p>Indique as faixas de intensidades luminosas (I, II, III) em que</p>
+      </statement>
+      <parts>
+        <part>
+          <p>ocorre aumento da quantidade de matéria orgânica na planta. Justifique.</p>
+        </part>
+        <part>
+          <p>a planta absorve gás oxigênio do ambiente. Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os portadores do vírus HIV, agente causador da aids (síndrome da imunodeficiência adquirida), são tratados com os chamados coquetéis antivirais, que combinam drogas inibidoras da transcriptase reversa com drogas inibidoras de proteases.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Por que a transcriptase reversa é essencial para que o vírus HIV se multiplique?</p>
+        </part>
+        <part>
+          <p>Como o vírus HIV causa a imunodeficiência em humanos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Três grupos de sapos foram mantidos em três temperaturas diferentes: 5ºC, 15ºC e 25ºC. O gráfico abaixo foi construído a partir das medidas das quantidades de gases trocados entre os animais e o ambiente em cada uma dessas temperaturas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>“Nos sapos, os papéis relativos da pele e dos pulmões na respiração mudam durante o ano.” Justifique essa afirmação, com base nos dados do gráfico.</p>
+        </part>
+        <part>
+          <p>Um sapo inalou gás oxigênio radioativo. Qual será a primeira substância, diferente de gás oxigênio, a ser identificada nas mitocôndrias das células desse sapo?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No heredograma, estão representadas pessoas que têm uma doença determinada por um alelo mutante dominante em relação ao alelo normal.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Responda se a doença tem padrão de herança ligado ao X ou autossômico, indicando a situação do heredograma que permitiu sua conclusão.</p>
+        </part>
+        <part>
+          <p>Quais os genótipos do casal de primos III-7 x III-8?</p>
+        </part>
+        <part>
+          <p>III-8 está grávida de uma menina. Calcule a probabilidade de que essa menina, filha de III-7 e III-8, não tenha a doença.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No desenho abaixo, estão representados dois cromossomos de uma célula que resultou da 1ª divisão da meiose de um indivíduo heterozigótico AaBb.</p>
+        <p>Esquematize esses cromossomos, com os genes mencionados,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>no final da interfase da célula que originou a célula do desenho.</p>
+        </part>
+        <part>
+          <p>nas células resultantes da 2ª divisão meiótica da célula do desenho.</p>
+        </part>
+        <part>
+          <p>em todas as células resultantes da meiose que originou a célula do desenho.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

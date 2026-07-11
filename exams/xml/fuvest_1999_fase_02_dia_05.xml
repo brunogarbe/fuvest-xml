@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1999" phase="discursive" day="0" variation="V1" date="1999-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>Ache todas as soluções da equação 0 x cos x sen 3 x cos x sen 3 3 = − no intervalo [ ) π 2 , 0 .</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um jogo eletrônico funciona da seguinte maneira: no início de uma série de partidas, a máquina atribui ao jogador P pontos; em cada partida, o jogador ganha ou perde a metade dos pontos que tem no início da partida.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Se uma pessoa jogar uma série de duas partidas nas quais ela ganha uma e perde outra, quantos pontos terá ao final?</p>
+        </part>
+        <part>
+          <p>Se uma pessoa jogar uma série de quatro partidas nas quais ela perde duas vezes e ganha duas vezes, quantos pontos terá ao final?</p>
+        </part>
+        <part>
+          <p>Se uma pessoa jogar uma série de sete partidas, qual o menor número de vitórias que ela precisará obter para terminar com mais que P pontos? FUVEST 1999 – Prova de Matemática - 2 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um pirata enterrou um tesouro numa ilha e deixou um mapa com as seguintes indicações: o tesouro está enterrado num ponto da linha reta entre os dois rochedos; está a mais de 50 m do poço e a menos de 20 m do rio (cujo leito é reto).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Descreva, usando equações e inequações, as indicações deixadas pelo pirata, utilizando para isto o sistema de coordenadas mostrado na figura.</p>
+        </part>
+        <part>
+          <p>Determine o menor intervalo ao qual pertence a coordenada x do ponto (x,0) onde o tesouro está enterrado.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A reta r tem equação 3 y x 2 = + e intercepta o eixo x no ponto A. A reta s passa pelo ponto ) 2 , 1 ( P = e é perpendicular a r. Sendo B e C os pontos onde s intercepta o eixo x e a reta r, respectivamente,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>determine a equação de s.</p>
+        </part>
+        <part>
+          <p>calcule a área do triângulo ABC. FUVEST 1999 – Prova de Matemática - 3 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere o sistema linear nas incógnitas x, y, z, w: ( )       = − = + − + − = + − = + 1 w z 2 w 2 z 1 m y 1 y x 2 my x 2</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Para que valores de m, o sistema tem uma única solução?</p>
+        </part>
+        <part>
+          <p>Para que valores de m, o sistema não tem solução?</p>
+        </part>
+        <part>
+          <p>Para 2 m = , calcule o valor de w 2 z y x 2 − − + .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a função ( ) ( ) x log 4 1 x log 2 x f a a 2 − + = , com a &gt; 1, definida para x &gt; 0.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine g(x) tal que ) x ( g log ) x ( f a = , onde g é um quociente de dois polinômios.</p>
+        </part>
+        <part>
+          <p>Calcule o valor de f(x) para 1 a 1 x 2 − = . FUVEST 1999 – Prova de Matemática - 4 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As retas r e s são paralelas e A é um ponto entre elas que dista 1 de r e 2 de s. Considere um ângulo reto, de vértice em A, cujos lados interceptam r e s nos pontos B e C, respectivamente. O ângulo agudo entre o segmento AB e a reta r mede α.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule a área do triângulo ABC em função do ângulo α.</p>
+        </part>
+        <part>
+          <p>Para que valor de α a área do triângulo ABC é mínima?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="08">
+      <statement>
+        <p>Considere uma caixa sem tampa com a forma de um paralelepípedo reto de altura 8 m e base quadrada de lado 6 m. Apoiada na base, encontra-se uma pirâmide sólida reta de altura 8 m e base quadrada com lado 6 m. O espaço interior à caixa e exterior à pirâmide é preenchido com água, até uma altura h, a partir da base ( ) 8 h ≤ . Determine o volume da água para um valor arbitrário de h, 8 h 0 ≤ ≤ . FUVEST 1999 – Prova de Matemática - 5 -</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Seja ( ) n a uma progressão geométrica de primeiro termo 1 a1 = e razão 2 q , onde q é um número inteiro maior que 1. Seja ( ) n b uma progressão geométrica cuja razão é q. Sabe-se que 17 11 b a = . Neste caso:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o primeiro termo 1 b em função de q.</p>
+        </part>
+        <part>
+          <p>Existe algum valor de n para o qual n n b a = ?</p>
+        </part>
+        <part>
+          <p>Que condição n e m devem satisfazer para que m n b a = ?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Construa, com régua e compasso, um trapézio ABCD, onde AB seja paralelo a CD, conhecendo-se os pontos A, M, N e I, que satisfazem as seguintes condições: M é o ponto médio do lado AD , N é o ponto médio de BC e I é o ponto de intersecção do segmento MN com a reta que passa por B e é paralela a AD .</p>
+        </part>
+        <part>
+          <p>Descreva e justifique a construção feita.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

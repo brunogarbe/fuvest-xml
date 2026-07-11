@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2007" phase="discursive" day="0" variation="V1" date="2007-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na dupla fecundação que ocorre em certas plantas, um dos núcleos espermáticos do tubo polínico funde-se à oosfera e origina o zigoto diplóide. O outro núcleo espermático funde-se aos dois núcleos polares do óvulo e origina uma célula triplóide que, por mitoses sucessivas, produz o endosperma.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>1. A dupla fecundação é característica de que grupo de plantas? 2. Quais das estruturas mencionadas no texto correspondem aos gametas masculino e feminino, respectivamente?</p>
+        </part>
+        <part>
+          <p>O gameta feminino de uma planta heterozigótica Aa, fecundado pelo gameta masculino de uma planta homozigótica aa, produz um zigoto heterozigótico. Qual é o genótipo das células do endosperma?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As figuras abaixo ilustram um experimento realizado por William Harvey, cientista inglês do século XVII, que desvendou aspectos importantes da circulação sanguínea humana. Harvey colocou um torniquete no braço de uma pessoa, o que fez certos vasos sanguíneos tornarem-se salientes e com pequenas protuberâncias globosas (Fig. 1). Ele pressionou um vaso em um ponto próximo a uma protuberância e deslizou o dedo em direção à mão (de O para H na Fig. 2) de modo a espremer o sangue. O vaso permaneceu vazio de sangue entre O e H, enquanto a pressão sobre esse último ponto foi mantida.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>1. Que vasos sanguíneos estão mostrados nos desenhos do experimento de Harvey? 2. Por que eles se tornaram salientes com a colocação do torniquete?</p>
+        </part>
+        <part>
+          <p>Por que o vaso permaneceu vazio, entre a protuberância O e o ponto H, enquanto a pressão sobre esse último ponto foi mantida?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Suponha que na espermatogênese de um homem ocorra não-disjunção dos cromossomos sexuais na primeira divisão da meiose, isto é, que os cromossomos X e Y migrem juntos para um mesmo pólo da célula. Admitindo que a meiose continue normalmente,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>qual será a constituição cromossômica dos espermatozóides formados nessa meiose, no que se refere aos cromossomos sexuais?</p>
+        </part>
+        <part>
+          <p>quais serão as possíveis constituições cromossômicas de crianças geradas pelos espermatozóides produzidos nessa meiose, no caso de eles fecundarem óvulos normais?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A anemia falciforme é uma doença hereditária que afeta pessoas homozigóticas para o alelo HbS do gene que codifica uma das cadeias da hemoglobina. Sem cuidados médicos adequados, essas pessoas morrem na infância. Já homens e mulheres heterozigóticos, portadores do alelo normal HbA e do alelo HbS, não têm anemia. Ambos são resistentes à forma mais grave de malária, que causa alta mortalidade entre as pessoas homozigóticas HbAHbA.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que informações dadas no texto acima permitem concluir que a anemia falciforme tem herança 1. autossômica ou ligada ao cromossomo X? 2. dominante ou recessiva?</p>
+        </part>
+        <part>
+          <p>A freqüência de afetados pela anemia falciforme é alta em regiões da África onde a malária é endêmica, em comparação com regiões nas quais não ocorre malária. Como se explica a alta freqüência da anemia falciforme nas regiões maláricas?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Pesquisadores encontraram características surpreendentemente avançadas no fóssil de um peixe primitivo conhecido como Gogonassus, que viveu há cerca de 380 milhões de anos no oeste da Austrália. Esse gênero faz parte de um grupo de peixes com barbatanas lobuladas que deu origem aos vertebrados terrestres e é uma das amostras mais completas já encontradas de seres aquáticos do período Devoniano (419 a 359 milhões de anos atrás). [...]” Rev. Pesquisa FAPESP – edição Online, 20/10/2006</p>
+      </statement>
+      <parts>
+        <part>
+          <p>É correto afirmar que os primeiros vertebrados terrestres, descendentes dos peixes de barbatanas lobuladas, de que fala o texto, foram necessariamente consumidores primários? Por quê?</p>
+        </part>
+        <part>
+          <p>Considerando que no Devoniano surgiram os primeiros filos de plantas gimnospermas, quais dentre as seguintes estruturas dessas plantas poderiam ter servido de alimento a esses primitivos vertebrados terrestres: caule, folha, semente, flor e fruto? Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De que maneira o gás oxigênio e os nutrientes resultantes da digestão dos alimentos chegam às diversas células do corpo de</p>
+      </statement>
+      <parts>
+        <part>
+          <p>uma planária?</p>
+        </part>
+        <part>
+          <p>um inseto?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Células de glândulas de animais apresentam nucléolo, retículo endoplasmático rugoso e complexo golgiense (complexo de Golgi) bem desenvolvidos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que relação existe entre o retículo endoplasmático rugoso e o nucléolo?</p>
+        </part>
+        <part>
+          <p>Qual é o papel do complexo golgiense na função dessas células?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Esquistossomose, teníase, cisticercose, gonorréia, malária, filariose e amebíase são doenças parasitárias humanas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quais delas podem ser diagnosticadas por exame parasitológico de fezes?</p>
+        </part>
+        <part>
+          <p>Quais delas são causadas por protozoários?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A ilustração mostra a produtividade líquida de um ecossistema, isto é, o total de energia expressa em quilocalorias por metro quadrado/ano, após a respiração celular de seus componentes.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando que, na fotossíntese, a energia não é produzida, mas transformada, é correto manter o nome de “produtores” para os organismos que estão na base da pirâmide? Justifique.</p>
+        </part>
+        <part>
+          <p>De que nível(eis) da pirâmide os decompositores obtêm energia? Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um pesquisador cultivou quatro espécies de protozoários A, B, C e D, separadamente (gráfico I) e depois reunidas duas a duas (gráficos II, III e IV), fornecendolhes diariamente quantidades constantes de alimento. Os gráficos mostram as curvas de crescimento populacional das espécies nas diferentes situações.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que tipo de relação ecológica existe entre as espécies: 1. A e B? 2. C e D?</p>
+        </part>
+        <part>
+          <p>Que correlação existe entre os nichos ecológicos das espécies: 1. A e B? 2. A e C?</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

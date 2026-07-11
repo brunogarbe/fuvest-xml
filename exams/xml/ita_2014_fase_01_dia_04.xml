@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2014" phase="objective" day="0" variation="V1" date="2014-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Das aﬁrmações: I. Se x, y ∈R \ Q, com y̸ = −x, então x + y ∈R \ Q; II. Se x ∈Q e y ∈R \ Q, então xy ∈R \ Q; III. Sejam a, b, c ∈R, com a &lt; b &lt; c. Se f:[a, c] →[a, b] é sobrejetora, então f não é injetora, é (são) verdadeira(s) A ( ) apenas I e II. B ( ) apenas I e III. C ( ) apenas II e III. D ( ) apenas III. E ( ) nenhuma.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Considere as funções f, g : Z →R, f(x) = ax + m , g(x) = bx + n, em que a, b, m e n são constantes reais. Se A e B são as imagens de f e de g, respectivamente, então, das aﬁrmações abaixo: I. Se A = B, então a = b e m = n; II. Se A = Z, então a = 1; III. Se a, b, m, n ∈Z, com a = b e m = −n, então A = B, é (são) verdadeira(s) A ( ) apenas I. B ( ) apenas II. C ( ) apenas III. D ( ) apenas I e II. E ( ) nenhuma.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. A soma 4 n=1 log 1/2 n√ 32 log 1/2 8 n+2 é igual a A ( ) 8 9. B ( ) 14 15. C ( ) 15 16. D ( ) 17 18. E ( ) 1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Se z ∈C, então z6 −3 |z|4 (z2 −z 2) −z 6 é igual a A ( ) (z2 −z 2)3. B ( ) z6 −z 6. C ( ) (z3 −z 3)2. D ( ) (z −z )6. E ( ) (z −z )2 (z4 −z 4).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Sejam z, w ∈C. Das aﬁrmações: I. |z + w|2 + |z −w|2 = 2 |z|2 + |w|2 ; II. (z + w)2 −(z −w)2 = 4z w; III. |z + w|2 −|z −w|2 = 4 Re(z w), é (são) verdadeira(s) A ( ) apenas I. B ( ) apenas I e II. C ( ) apenas I e III. D ( ) apenas II e III. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere os polinômios em x ∈R da forma p(x) = x5 + a3x3 + a2x2 + a1x. As raízes de p(x) = 0 constituem uma progressão aritmética de razão 1 2 quando (a1, a2, a3) é igual a A ( ) 1 4, 0, 5 4 . B ( ) 1 4, 1, 5 4 . C ( ) 1 4, 0, −5 4 . D ( ) 5 4, 0, 1 4 . E ( ) 1 4, −1, −1 4 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Para os inteiros positivos k e n, com k ≤n, sabe-se que n + 1 k + 1 n k = n + 1 k + 1 . Então, o valor de n 0 + 1 2 n 1 + 1 3 n 2 + ... + 1 n + 1 n n é igual a A ( ) 2n + 1. B ( ) 2n+1 + 1. C ( ) 2n+1 + 1 n . D ( ) 2n+1 −1 n + 1 . E ( ) 2n −1 n .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Considere as seguintes aﬁrmações sobre as matrizes quadradas A e B de ordem n, com A inversível e B antissimétrica: I. Se o produto AB for inversível, então n é par; II. Se o produto AB não for inversível, então n é ímpar; III. Se B for inversível, então n é par. Destas aﬁrmações, é (são) verdadeira(s) A ( ) apenas I. B ( ) apenas I e II. C ( ) apenas I e III. D ( ) apenas II e III. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Sejam A = 1 −1 1 y −x 1 e B =   x + 1 x y −2 y z + 3 z  matrizes reais tais que o produto AB é uma matriz antissimétrica. Das aﬁrmações abaixo: I. BA é antissimétrica; II. BA não é inversível ; III. O sistema (BA)X = 0, com Xt = [x1 x2 x3], admite inﬁnitas soluções, é (são) verdadeira(s) A ( ) apenas I e II. B ( ) apenas II e III. C ( ) apenas I. D ( ) apenas II. E ( ) apenas III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Seja M uma matriz quadrada de ordem 3, inversível, que satisfaz a igualdade det(2M 2) −det( 3√ 2M 3) = 2 9 det(3M). Então, um valor possível para o determinante da inversa de M é A ( ) 1 3. B ( ) 1 2. C ( ) 2 3. D ( ) 4 5. E ( ) 5 4.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Considere a equação A(t)X = B(t), t ∈R, em que A(t) =   2e−2t −e2t −1 −1 1 1 −3 1 2  , X =   x y z   e B(t) =   et − √ 2 0  . Sabendo que det A(t) = 1 e t̸ = 0, os valores de x, y e z são, respectivamente, A ( ) 2 √ 2, 0, −3 √ 2. B ( ) −2 √ 2, 0, −3 √ 2. C ( ) 0, 3 √ 2, 2 √ 2. D ( ) 0, 2 √ 3, √ 3. E ( ) 2 √ 3, − √ 3, 0.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Considere o polinômio complexo p(z) = z4+a z3+5 z2−i z−6, em que a é uma constante complexa. Sabendo que 2i é uma das raízes de p(z) = 0, as outras três raízes são A ( ) −3i, −1, 1. B ( ) −i, i, 1. C ( ) −i, i, −1. D ( ) −2i, −1, 1. E ( ) −2i, −i, i.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Sabendo que sen x = 2ab a2 + b2, a̸ = 0 e b̸ = 0, um possível valor para cossec 2x −1 2 tg x é A ( ) a −b ab . B ( ) a + b 2ab . C ( ) a2 −b2 ab . D ( ) a2 + b2 4ab . E ( ) a2 −b2 4ab .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Considere o triângulo ABC retângulo em A. Sejam AE e AD a altura e a mediana relativa à hipotenusa BC, respectivamente. Se a medida de BE é ( √ 2 −1) cm e a medida de AD é 1 cm, então AC mede, em cm, A ( ) 4 √ 2 −5. B ( ) 3 − √ 2. C ( )</p>
+        <p>6 −2 √ 2. D ( ) 3( √ 2 −1). E ( ) 3</p>
+        <p>4 √ 2 −5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Seja ABC um triângulo de vértices A = (1, 4), B = (5, 1) e C = (5, 5). O raio da circunferência circunscrita ao triângulo mede, em unidades de comprimento, A ( ) 15 8 . B ( ) 5 √ 17 4 . C ( ) 3 √ 17 5 . D ( ) 5 √ 17 8 . E ( ) 17 √ 5 8 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Em um triângulo isósceles ABC, cuja área mede 48 cm2, a razão entre as medidas da altura AP e da base BC é igual a 2 3. Das aﬁrmações abaixo: I. As medianas relativas aos lados AB e AC medem √ 97 cm; II. O baricentro dista 4 cm do vértice A; III. Se α é o ângulo formado pela base BC com a mediana BM, relativa ao lado AC, então cos α = 3 √ 97 , é (são) verdadeira(s) A ( ) apenas I. B ( ) apenas II. C ( ) apenas III. D ( ) apenas I e III. E ( ) apenas II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Considere o trapézio ABCD de bases AB e CD. Sejam M e N os pontos médios das diagonais AC e BD, respectivamente. Então, se AB tem comprimento x e CD tem comprimento y &lt; x, o comprimento de MN é igual a A ( ) x −y. B ( ) 1 2(x −y). C ( ) 1 3(x −y). D ( ) 1 3(x + y). E ( ) 1 4(x + y).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Uma pirâmide de altura h = 1 cm e volume V = 50 cm3 tem como base um polígono convexo de n lados. A partir de um dos vértices do polígono traçam-se n−3 diagonais que o decompõem em n −2 triângulos cujas áreas Si, i = 1, 2, ..., n −2, constituem uma progressão aritmética na qual S3 = 3 2 cm2 e S6 = 3 cm2. Então n é igual a A ( ) 22. B ( ) 24. C ( ) 26. D ( ) 28. E ( ) 32.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. A equação do círculo localizado no 1o quadrante que tem área igual a 4π (unidades de área) e é tangente, simultaneamente, às retas r : 2x −2y + 5 = 0 e s : x + y −4 = 0 é A ( ) (x −3 4)2 + (y −10 4 )2 = 4. B ( ) (x −3 4)2 + (y −(2 √ 2 + 3 4))2 = 4. C ( ) (x −(2 √ 2 + 3 4))2 + (y −10 4 )2 = 4. D ( ) (x −(2 √ 2 + 3 4))2 + (y −13 4 )2 = 4. E ( ) (x −(2 √ 2 + 3 4))2 + (y −11 4 )2 = 4.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Considere o sólido de revolução obtido pela rotação de um triângulo isósceles ABC em torno de uma reta paralela à base BC que dista 0, 25 cm do vértice A e 0, 75 cm da base BC. Se o lado AB mede √ π2 + 1 2π cm, o volume desse sólido, em cm3, é igual a A ( ) 9 16. B ( ) 13 96. C ( ) 7 24. D ( ) 9 24. E ( ) 11 96. AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Considere as funções f : R →R, f(x) = eαx, em que α é uma constante real positiva, e g : [0, ∞[ →R, g(x) = √x. Determine o conjunto-solução da inequação (g ◦f)(x) &gt; (f ◦g)(x).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Determine as soluções reais da equação em x, log4 x 3 −log4(x4) −3 log10 16 x log100 16 = 0.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o valor máximo de |z + i| , sabendo que |z −2| = 1, z ∈C.</p>
+        </part>
+        <part>
+          <p>Se zo ∈C satisfaz (a), determine zo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja Ωo espaço amostral que representa todos os resultados possíveis do lançamento simultâneo de três dados. Se A ⊂Ωé o evento para o qual a soma dos resultados dos três dados é igual a 9 e B ⊂Ωo evento cuja soma dos resultados é igual a 10, calcule:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>n(Ω);</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>n(A) e n(B);</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>P(A) e P(B).</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Determine quantos paralelepípedos retângulos diferentes podem ser construídos de tal maneira que a medida de cada uma de suas arestas seja um número inteiro positivo que não exceda 10.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere o sistema linear nas incógnitas x, y e z    x + y + 2z = 0 −x + (sen θ) y + 4z = 0 2x + (1 −cos 2θ) y + 16z = 0 , θ ∈[0, 2π].</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine θ tal que o sistema tenha inﬁnitas soluções.</p>
+        </part>
+        <part>
+          <p>Para θ encontrado em (a), determine o conjunto-solução do sistema.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Determine o conjunto de todos os valores de x ∈[0, 2π] que satisfazem, simultaneamente, a 2 sen2 x + sen x −1 cos x −1 &lt; 0 e tg x + √ 3 &lt; (1 + √ 3 cotg x) cotg x .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Seis esferas de mesmo raio R são colocadas sobre uma superfície horizontal de tal forma que seus centros deﬁnam os vértices de um hexágono regular de aresta 2R. Sobre estas esferas é colocada uma sétima esfera de raio 2R que tangencia todas as demais. Determine a distância do centro da sétima esfera à superfície horizontal.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Três circunferências C1, C2 e C3 são tangentes entre si, duas a duas, externamente. Os raios r1, r2 e r3 destas circunferências constituem, nesta ordem, uma progressão geométrica de razão 1 3. A soma dos comprimentos de C1, C2 e C3 é igual a 26π cm. Determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a área do triângulo cujos vértices são os centros de C1, C2 e C3.</p>
+        </part>
+        <part>
+          <p>o volume do sólido de revolução obtido pela rotação do triângulo em torno da reta que contém o maior lado.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Um cilindro reto de altura h = 1 cm tem sua base no plano xy deﬁnida por x2 + y2 −2x −4y + 4 ≤0. Um plano, contendo a reta y −x = 0 e paralelo ao eixo do cilindro, o secciona em dois sólidos. Calcule a área total da superfície do menor sólido.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

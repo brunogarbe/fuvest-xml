@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2023" phase="discursive" day="0" variation="V1" date="2023-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere dois líquidos voláteis, A e B, que são completamente miscíveis entre si e que formam uma solução ideal em toda a amplitude de concentrações. Esses líquidos são adicionados a um tanque fechado, inicialmente sob vácuo, e mantido em temperatura constante (T), na proporção molar 1:1. Considere que a mistura causa um abaixamento na pressão de vapor do líquido A igual a 40 Torr e que a pressão de vapor do líquido B puro é igual a 20 Torr. Determine os valores numéricos:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>da pressão de vapor do líquido A puro na temperatura T;</p>
+        </part>
+        <part>
+          <p>da pressão de vapor da solução, depois de atingido o equilíbrio do sistema;</p>
+        </part>
+        <part>
+          <p>da composição molar da fase vapor em equilíbrio com a fase líquida presente no tanque. 14</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. O ácido fórmico pode ser obtido por meio de uma reação de duas etapas. Na primeira etapa, em temperatura de 200 °C e pressão de 10 atm, monóxido de carbono e hidróxido de sódio reagem. Na segunda, o produto dessa primeira etapa reage com ácido sulfúrico, formando-se o ácido fórmico. Sobre esse processo, apresente:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a fórmula estrutural do produto gerado na primeira etapa;</p>
+        </part>
+        <part>
+          <p>a equação química balanceada da primeira etapa;</p>
+        </part>
+        <part>
+          <p>a equação química balanceada da segunda etapa. 15</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Um determinado sistema consiste em dois sólidos, A e B, cada qual com uma quantidade igual a 1 mol. Considere que os sólidos estão fisicamente separados, mas em contato térmico por meio de uma parede condutora de calor, a qual garante que estejam em equilíbrio térmico em todos os instantes. A temperatura inicial desse sistema é igual a −10 °C. O sistema é aquecido até atingir a temperatura de 20 °C. A temperatura de fusão de A é igual a 0 °C e a de B é igual a 10 °C. Considere ainda os dados a seguir. I. Variação de entalpia de fusão, de A, ∆Hfusão(A) = 1 kJ mol−1, e de B, ∆Hfusão(B) = 2 kJ mol−1; II. Capacidade calorífica molar sob pressão constante, de A sólido, Cp,sólido(A) = 30 J mol−1 K−1, e de B sólido, Cp,sólido(B) = 20 J mol−1 K−1; III. Capacidade calorífica molar sob pressão constante, de A líquido, Cp,líquido(A) = 50 J mol−1 K−1, e de B líquido, Cp,líquido(B) = 100 J mol−1 K−1. Desenhe um gráfico da temperatura do sistema, em °C, em função da quantidade de calor fornecida, em kJ, indicando o fenômeno físico e o valor numérico da quantidade de calor fornecida em cada etapa do processo de aquecimento, até a temperatura final ser atingida.</p>
+        <p>16</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Duas soluções aquosas, contendo os cátions genéricos, A+ e B+, são preparadas com as concentrações iniciais descritas a seguir. Solução 1: [A+] = 2 × 10−2 mol L−1 e [B+] = 1 × 10−4 mol L−1. Solução 2: [A+] = 5 × 10−2 mol L−1 e [B+] = 1 × 10−3 mol L−1. A cada uma dessas soluções são adicionadas quantidades progressivas de um ânion C−, sem variação significativa do volume das soluções. Considere que os produtos de solubilidade dos sólidos AC(s) e BC(s) são iguais a 1 × 10−7 e 1 × 10−9, respectivamente. Com base nessas informações, determine o que se pede para a solução 1 e para a solução 2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual sólido será formado primeiro com a adição progressiva de C− a cada uma das soluções? Justifique a sua resposta.</p>
+        </part>
+        <part>
+          <p>Conforme C− é progressivamente adicionado, o segundo sólido começa a se formar. Nesse momento, qual é a concentração em solução do cátion desse primeiro sólido precipitado em cada solução? 17</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma amostra de 5,480 g de uma mistura de óxido e carbonato de um mesmo metal (com um estado de oxidação igual a +2 nesses compostos) é completamente dissolvida em excesso de ácido clorídrico. Nesse processo, 0,448 L (condições normais) de gás são liberados. Com base nessas informações, determine os valores numéricos</p>
+      </statement>
+      <parts>
+        <part>
+          <p>da composição da mistura, em frações mássicas, se a quantidade em mol de carbonato na mistura é duas vezes maior do que a quantidade do óxido;</p>
+        </part>
+        <part>
+          <p>da concentração molar do sal formado na solução resultante, se o volume final da dissolução é igual a 200 mL. 18</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Suponha que, em medições experimentais realizadas no espaço sideral, foi descoberto um sistema formado de gás hidrogênio atômico excitado. A energia desse hidrogênio excitado é igual a −0,34 meV, fazendo com que o sistema emita um espectro de ondas eletromagnéticas de forma aparentemente contínua. Considere o modelo do átomo proposto por Bohr para descrever esse sistema. Considere, ainda, que a energia do átomo de hidrogênio no estado fundamental é −13,6 eV e que o raio do átomo de hidrogênio no estado fundamental é igual a 53 pm. Acerca desse sistema, determine o que se pede a seguir.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é o nível de energia no qual os átomos de hidrogênio excitados se encontram?</p>
+        </part>
+        <part>
+          <p>Qual é o raio da órbita do elétron ao redor do próton nesses átomos de hidrogênio?</p>
+        </part>
+        <part>
+          <p>Qual é a razão entre a velocidade do elétron do átomo de hidrogênio no estado fundamental e no estado excitado? 19</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. A primeira determinação experimental do tamanho de um núcleo foi feita a partir dos resultados do espalhamento de Rutherford de partículas α. Os resultados evidenciaram uma dependência entre o raio nuclear (R) e o número de massa (A), através da relação: R = R0A1/3, em que R0 é uma constante. Com base nessas informações, calcule o valor numérico:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>da densidade nuclear para o 29Cu63, considerando que o raio para 30Zn64 é 4,8 × 10−15 m;</p>
+        </part>
+        <part>
+          <p>da razão entre os raios nucleares do isótopo de magnésio 12Mg24 e do isótopo de ósmio 76Os192;</p>
+        </part>
+        <part>
+          <p>da densidade nuclear para o seabórgio 106Sg271, comparando-a com o valor da densidade nuclear do 29Cu63 obtida no item (a) acima. 20</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. O método de obtenção de magnésio metálico consiste nas seguintes etapas: I. Uma amostra de carbonato de cálcio sólido é aquecida a altas temperaturas, formando um produto sólido A e um gasoso B. II. Em seguida, o sólido A é tratado com água do mar, formando-se um hidróxido pouco solúvel que se ioniza formando os produtos C e D. III. Os ânions D reagem com cátions Mg2+ da água do mar. O resultado é um precipitado E. IV. O composto E é separado por filtração e dissolvido por meio da adição de uma solução aquosa de ácido clorídrico. V. A seguir, o solvente da solução é evaporado, obtendo-se o sal iônico F seco. VI. Finalmente, o sal F é submetido a uma eletrólise ígnea. Determine o que se pede.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Apresente as equações químicas balanceadas que representam as reações, identificando os produtos A, B, C, D, E e F formados.</p>
+        </part>
+        <part>
+          <p>Em relação à eletrólise ígnea, mostre as semi-equações que representam as semi-reações que ocorreram no anodo e no catodo, assim como a reação global. 21</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Apresente os compostos orgânicos formados a partir das reações do etanoato de metila com os seguintes reagentes: I. solução aquosa de ácido clorídrico. II. solução aquosa de hidróxido de sódio. III. amônia gasosa. IV. Li(AlH4) dissolvido em dietil éter, seguido da adição de uma solução aquosa ácida.</p>
+        <p>22</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere o composto de fórmula C4H8. Apresente:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>os seis isômeros estruturais e geométricos;</p>
+        </part>
+        <part>
+          <p>a fórmula estrutural dos produtos dibromados formados nas reações de cada um desses seis isômeros com Br2. Considere que as condições das reações são adequadas para que ocorram de forma completa e produtos dibromados sejam gerados.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

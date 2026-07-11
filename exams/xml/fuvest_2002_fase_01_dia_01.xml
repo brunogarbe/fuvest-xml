@@ -1,0 +1,1844 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2002" phase="objective" day="0" variation="V1" date="2002-01-01" lang="pt-br">
+  <question_group>
+    <context>
+      <p>Sua história tem pouca coisa de notável. Fora Leonardo algibebe1 em Lisboa, sua pátria; aborrecera-se porém do negócio, e viera ao Brasil. Aqui chegando, não se sabe por proteção de quem, alcançou o emprego de que o vemos empossado, e que exercia, como dissemos, desde tempos remotos. Mas viera com ele no mesmo navio, não sei fazer o quê, uma certa Maria da hortaliça, quitandeira das praças de Lisboa, saloia2 rechonchuda e bonitota. O Leonardo, fazendo-se-lhe justiça, não era nesse tempo de sua mocidade mal apessoado, e sobretudo era maganão3. Ao sair do Tejo, estando a Maria encostada à borda do navio, o Leonardo fingiu que passava distraído por junto dela, e com o ferrado sapatão assentou-lhe uma valente pisadela no pé direito. A Maria, como se já esperasse por aquilo, sorriu-se como envergonhada do gracejo, e deu-lhe também em ar de disfarce um tremendo beliscão nas costas da mão esquerda. Era isto uma declaração em forma, segundo os usos da terra: levaram o resto do dia de namoro cerrado; ao anoitecer passou-se a mesma cena de pisadela e beliscão, com a diferença de serem desta vez um pouco mais fortes; e no dia seguinte estavam os dois amantes tão extremosos e familiares, que pareciam sê-lo de muitos anos. (Manuel Antônio de Almeida, Memórias de um sargento de milícias) Glossário: ] algibebe: mascate, vendedor ambulante. 2 saloia: aldeã das imediações de Lisboa. 3 maganão: brincalhão, jovial, divertido.</p>
+    </context>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Neste excerto, o modo pelo qual é relatado o início do relacionamento entre Leonardo e Maria</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>manifesta os sentimentos antilusitanos do autor, que enfatiza a grosseria dos portugueses em oposição ao refinamento dos brasileiros.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>revela os preconceitos sociais do autor, que retrata de maneira cômica as classes populares, mas de maneira respeitosa a aristocracia e o clero.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>reduz as relações amorosas a seus aspectos sexuais e fisiológicos, conforme os ditames do Naturalismo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>opõe-se ao tratamento idealizante e sentimental das relações amorosas, dominante no Romantismo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>evidencia a brutalidade das relações inter-raciais, própria do contexto colonial-escravista.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No excerto, o narrador incorpora elementos da linguagem usada pela maioria das personagens da obra, como se verifica em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>aborrecera-se porém do negócio.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>de que o vemos empossado.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>rechonchuda e bonitota.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>envergonhada do gracejo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>amantes tão extremosos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No excerto, as personagens manifestam uma característica que também estará presente na personagem Macunaíma. Essa característica é a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>disposição permanentemente alegre e bem-humorada.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>discrepância entre a condição social humilde e a complexidade psicológica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>busca da satisfação imediata dos desejos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>mistura das raças formadoras da identidade nacional brasileira.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>oposição entre o físico harmonioso e o comportamento agressivo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O trecho “fazendo-se lhe justiça” mantém com o restante do período em que aparece uma relação de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>causa.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>conseqüência.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>tempo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>contradição.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>condição.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As aspas marcam o uso de uma palavra ou expressão de variedade lingüística diversa da que foi usada no restante da frase em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Essa visão desemboca na busca ilimitada do lucro, na apologia do empresário privado como o “grande herói” contemporâneo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Pude ver a obra de Machado de Assis de vários ângulos, sem participar de nenhuma visão “oficialesca”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Nas recentes discussões sobre os “fundamentos” da economia brasileira, o governo deu ênfase ao equilíbrio fiscal.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O prêmio Darwin, que “homenageia” mortes estúpidas, foi instituído em 1993.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Em fazendas de Minas e Santa Catarina, quem aprecia o campo pode curtir o frio, ouvindo "causos" à beira da fogueira.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A frase que está de acordo com a norma escrita culta é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O colégio onde estudei foi essencial na construção de grande parte dos valores que acredito.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Acho que esta acusação é uma das tantas coisas ridículas que sou obrigado a me defender.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Há uma sensação que tudo, ou quase tudo, vai ser diferente.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A boa escola seria a que submetesse seus alunos à maior quantidade de experimentações e pesquisas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Nós já estamos próximos de um consenso que o atual modelo está falido.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na posição em que se encontram, as palavras assinaladas nas frases abaixo geram ambigüidade, EXCETO em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Pagar o FGTS já custa R$13,3 bi, diz o consultor.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Pais rejeitam menos crianças de proveta.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Consigo me divertir também aprendendo coisas antigas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>É um equívoco imaginar que a universidade do futuro será aquela que melhor lidar com as máquinas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Não se eliminará o crime com burocratas querendo satisfazer o apetite por sangue do público. 3V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>- Mandaram ler este livro... Se o tal do livro for fraquinho, o desprazer pode significar um precipitado mas decisivo adeus à literatura; se for estimulante, outros virão sem o peso da obrigação. As experiências com que o leitor se identifica não são necessariamente as mais familiares, mas as que mostram o quanto é vivo um repertório de novas questões. Uma leitura proveitosa leva à convicção de que as palavras podem constituir um movimento profundamente revelador do próximo, do mundo, de nós mesmos. Tal convicção faz caminhar para uma outra, mais ampla, que um antigo pensador romano assim formulou: Nada do que é humano me é alheio.</p>
+      <p>(Cláudio Ferraretti, inédito)</p>
+    </context>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com o texto, a identificação do leitor com o que lê ocorre sobretudo quando</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ele sabe reconhecer na obra o valor consagrado pela tradição da crítica literária.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ele já conhece, com alguma intimidade, as experiências representadas numa obra.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a obra expressa, em fórmulas sintéticas, a sabedoria dos antigos humanistas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a obra o introduz num campo de questões cuja vitalidade ele pode reconhecer.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a obra expressa convicções tão verdadeiras que se furtam à discussão.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O sentido da frase Nada do que é humano me é alheio é equivalente ao desta outra construção:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O que não diz respeito ao Homem não deixa de me interessar.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Tudo o que se refere ao Homem diz respeito a mim.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Como sou humano, não me alheio a nada.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Para ser humano, mantenho interesse por tudo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A nada me sinto alheio que não seja humano.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com o texto, a convicção despertada por uma leitura proveitosa é, precisamente, a de que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>sempre existe a possibilidade de as palavras serem profundamente reveladoras.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>as palavras constituem sempre um movimento de profunda revelação.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>é muito fácil encontrar palavras que sejam profundamente reveladoras.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>as palavras sempre caminham na direção do outro, do mundo, de cada um de nós.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>nenhuma palavra será viva se não provocar o imediato prazer do leitor.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Mantém-se o sentido da frase “se for estimulante” em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>conquanto seja estimulante.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>desde que seja estimulante.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>ainda que seja estimulante.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>porquanto é estimulante.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>posto que é estimulante. MACUMBA DE PAI ZUSÉ Na macumba do Encantado Nego véio pai de santo fez mandinga No palacete de Botafogo Sangue de branca virou água Foram vê estava morta!</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>É correto afirmar que, neste poema de Manuel Bandeira,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>emprega-se a modalidade do poema-piada, típica da década de 20, com o fim de satirizar os costumes populares.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>usam-se os recursos sonoros (ritmo e metro regulares, redondilha menor) para representar a cultura branca, e os recursos visuais (imagens, cores), para caracterizar a religião afro-brasileira.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>mesclam-se duas variedades lingüísticas: uma que se aproxima da língua escrita culta e outra que mimetiza uma modalidade da língua oral-popular.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>manifesta-se a contradição entre dois tipos de práticas religiosas, representadas pelas oposições negro x branco, macumba x pai de santo, nego véio x Encantado.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>expressa-se a tendência modernista de encarar a cultura popular como manifestação do atraso nacional, a ser superado pela modernização.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Como se sabe, Eça de Queirós concebeu o livro O primo Basílio como um romance de crítica da sociedade portuguesa, cujas “falsas bases” ele considerava um “dever atacar”. A crítica que ele aí dirige a essa sociedade incide mais diretamente sobre</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o plano da economia, cuja estagnação estava na base da desordem social.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>os problemas de ordem cultural, como os que se verificavam na educação e na literatura.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a excessiva dependência de Portugal em relação às colônias, responsável pelo parasitismo da burguesia metropolitana.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a extrema sofisticação da burguesia de Lisboa, cujo luxo e requinte conduziam à decadência dos costumes.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>os grupos aristocráticos, remanescentes da monarquia, que continuavam a exercer sua influência corruptora em pleno regime republicano.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A narração hesitante e digressiva, em constante auto-exame, não se limita apenas a registrar o sentimento de culpa do narrador, mas traduz, também, uma autocrítica radical, em que ele questiona sua própria posição de classe e, com ela, a própria literatura. Esta afirmação aplica-se a:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Memórias de um sargento de milícias.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Memórias póstumas de Brás Cubas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Morte e vida severina.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O primo Basílio.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A hora da estrela. 4V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. Argüiam-no de avareza, e cuido que tinham razão; mas a avareza é apenas a exageração de uma virtude e as virtudes devem ser como os orçamentos: melhor é o saldo que o deficit. Como era muito seco de maneiras tinha inimigos, que chegavam a acusá-lo de bárbaro. O único fato alegado neste particular era o de mandar com freqüência escravos ao calabouço, donde eles desciam a escorrer sangue; mas, além de que ele só mandava os perversos e os fujões, ocorre que, tendo longamente contrabandeado em escravos, habituara-se de certo modo ao trato um pouco mais duro que esse gênero de negócio requeria, e não se pode honestamente atribuir à índole original de um homem o que é puro efeito de relações sociais. (Machado de Assis, Memórias póstumas de Brás Cubas)</p>
+    </context>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Neste excerto, Brás Cubas discute as acusações dirigidas a seu cunhado Cotrim. A argumentação aí apresentada</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>faz com que, ao defender Cotrim, ele contribua, ironicamente, para confirmar essas acusações.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>confirma a hipótese de que Machado de Assis, ao ascender socialmente, renegou suas origens e abandonou a crítica ao comportamento das elites.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>visa demonstrar que as práticas de Cotrim não contavam com a conivência de Brás Cubas e da sociedade da época.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>comprova a convicção machadiana de que os homens nascem bons, a sociedade é que os corrompe.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>é moralmente impecável, pois distingue o lícito do ilícito, condenando explicitamente os desvios, como o contrabando e a tortura.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As relações entre senhores e escravos, referidas no excerto,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>caracterizam-se por uma crueldade que, no entanto, constitui exceção no livro: nas demais ocorrências do tema, essas relações são bastante amenas e cordiais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>constituem o principal assunto das Memórias póstumas de Brás Cubas, ocupando o primeiro plano da narrativa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>aparecem poucas vezes, de maneira direta, no romance, mas caracterizam de modo decisivo as relações sociais nele representadas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>desenham o pano de fundo histórico do romance, mas não contribuem para a caracterização das personagens.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>servem apenas para caracterizar o comportamento de personagens secundárias, não aparecendo no relato da formação do protagonista.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O efeito expressivo obtido em “ferozmente honrado” resulta de uma inesperada associação de advérbio com adjetivo, que também se verifica em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>sorriso maliciosamente inocente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>formas graciosamente curvas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>sistema singularmente espantoso.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>opinião simplesmente abusada.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>expressão profundamente abatida.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Reflorestar as margens dos rios Pinheiros e Tietê, arborizar praças, ruas e escolas, criar novos parques, melhorar a qualidade do ar e da vida das pessoas, aumentar a consciência ecológica dos adultos e das futuras gerações. (...) Logo, logo você vai ver o Pomar em cada canto da cidade. Projeto Pomar. Concreto aqui, só os resultados. (Adaptado de ISTOÉ, 19/9/2001)</p>
+    </context>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando-se o contexto deste anúncio, o tipo de efeito de sentido que ocorre na expressão “deixa no ar” também se verifica em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Reflorestar as margens dos rios Pinheiros e Tietê.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Melhorar a qualidade do ar.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Consciência ecológica dos adultos e das futuras gerações.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Em cada canto da cidade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Concreto aqui, só os resultados.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerada no contexto do anúncio, a imagem pretende indicar, principalmente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a integração da cidade com a natureza.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a confusão do trânsito urbano.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a ausência de consciência ecológica típica das cidades grandes.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a sofisticação representada pelos bairros mencionados nas placas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a impossibilidade de conjugar urbanização e arborização. 5V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>A característica da relação do adulto com o velho é a falta de reciprocidade que se pode traduzir numa tolerância sem o calor da sinceridade. Não se discute com o velho, não se confrontam opiniões com as dele, negando-lhe a oportunidade de desenvolver o que só se permite aos amigos: a alteridade, a contradição, o afrontamento e mesmo o conflito. Quantas relações humanas são pobres e banais porque deixamos que o outro se expresse de modo repetitivo e porque nos desviamos das áreas de atrito, dos pontos vitais, de tudo o que em nosso confronto pudesse causar o crescimento e a dor! Se a tolerância com os velhos é entendida assim, como uma abdicação do diálogo, melhor seria dar-lhe o nome de banimento ou discriminação.</p>
+      <p>(Ecléa Bosi, Memória e sociedade – Lembranças de velhos)</p>
+    </context>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na avaliação da autora, o que habitualmente caracteriza a relação do adulto com o velho é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o desinteresse do adulto pelo confronto de idéias, expressando uma tolerância que atua como discriminação do velho.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>uma sucessão de conflitos, motivada pela baixa tolerância e pela insinceridade recíprocas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a inconseqüência dos diálogos, já que a um e a outro interessa apenas a reiteração de seus pontos de vista.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o equívoco do adulto, que trata o velho sem considerar as diferenças entre a condição deste e a de um amigo mais próximo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a insinceridade das opiniões do adulto, nas quais se manifestam sua divergência e sua impaciência.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando-se o sentido do conjunto do texto, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>as palavras “crescimento” e “dor” são utilizadas de modo a constituírem um paradoxo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>as palavras “alteridade”, “contradição”, “afrontamento” e “conflito” encadeiam-se numa progressão semântica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a expressão “abdicação do diálogo” tem significação oposta à da expressão “tolerância sem o calor da sinceridade”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a expressão “o que só se permite” está empregada com o sentido de “o que nunca se faculta”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a expressão “nos desviamos das áreas de atrito” está empregada com o sentido oposto ao da expressão “aparamos todas as arestas”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O termo alteridade liga-se, pelo radical e pelo sentido, a uma palavra que aparece no trecho:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>falta de reciprocidade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>não se confrontam opiniões.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>que o outro se expresse.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>nos desviamos das áreas de atrito.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>abdicação do diálogo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A frase em que a palavra sublinhada preserva o sentido com que foi empregada no texto é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Na mais sumária relação das virtudes humanas não deixará de constar a sinceridade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Sobretudo os pobres sentem o peso do que seja banimento ou discriminação.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>É por vezes difícil a discriminação entre tolerância e menosprezo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Enfrentar a contradição é sempre um grande passo para o nosso crescimento.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Se traduzir é difícil, mais difícil é o diálogo entre pessoas que se mascaram na mesma língua.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Antônio. Assim se chamava meu pai, vindo de Piracicaba, cidade do interior de São Paulo. (...) Foi saco de pancada quando pequeno, pois meu avô paterno levava ao exagero a filosofia do “quem dá o pão dá o ensino”. No entanto nunca se referiu de maneira rancorosa a esses castigos, nem achou necessário desforrar-se em mim do tanto que havia apanhado. Quando as coisas não lhe agradavam, preferia gargalhar num jeito muito seu, que lembrava bola de pinguepongue descendo lentamente uma escada. Duas vezes apenas botou de lado esse tipo de reação. (Mário Lago, Na rolança do tempo)</p>
+    </context>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as seguintes afirmações:</p>
+        <p>I. A frase “quem dá o pão dá o ensino” é a que apresenta marcas mais visíveis do gênero narrativo, ao qual pertence o texto. II. Em “nem achou necessário” expressa-se juízo subjetivo do narrador. III. A expressão “duas vezes apenas”, na última frase, aponta para exceções que confirmam a validade de uma regra habitual, formulada na frase anterior.</p>
+        <p>Em relação ao texto, está correto somente o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O autor estabelece uma comparação entre</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>seu pai e seu avô, distinguindo o modo pelo qual cada um extravasava a euforia.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>seu pai e seu avô, buscando neles traços comuns de temperamento e de personalidade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a gargalhada de seu pai e a queda da bola de pingue-pongue, com base nos estímulos visuais provocados por ambas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a gargalhada de seu pai e a queda da bola de pingue-pongue, com base no mesmo efeito cômico que ambas provocam.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a gargalhada de seu pai e a queda da bola de pingue-pongue, com base em impressões de ritmo e de andamento. 6V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as seguintes comparações entre Vidas secas e A hora da estrela:</p>
+        <p>I. Os narradores de ambos os livros adotam um estilo sóbrio e contido, avesso a expansões emocionais, condizente com o mundo de escassez e privação que retratam. II. Em ambos os livros, a carência de linguagem e as dificuldades de expressão, presentes, por exemplo, em Fabiano e Macabéa, manifestam aspectos da opressão social. III. A personagem sinha Vitória (Vidas secas), por viver isolada em meio rural, não possui elementos de referência que a façam aspirar por bens que não possui; já Macabéa, por viver em meio urbano, possui sonhos típicos da sociedade de consumo. Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II e III. INGLÊS</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>T’S TAKEN 30 YEARS FOR HAROLD Cohen to teach his student how to paint, but he’s not struggling with a slow learner. Cohen’s student, AARON, is a computer program. Cohen has “taught” AARON guidelines on composition and color. In the past, AARON has used those rules to paint large art works for major museums such as London’s Tate Modern and the San Francisco Museum of Modern Art. Now a company aims to bring AARON to computer monitors across the land as software ($19.95; available from www.KurzweilCyberart.com) for Windows PCs. After you download the program, AARON draws original pictures on your desktop, then fills them in with brushstrokes of color. You can also e-mail AARON’s creations to friends − AARON will redraw its art work on their computers. And unlike temperamental humans, AARON never needs “inspiration” − leave it on as a screen saver and the program churns out drawing after drawing. But, says Cohen, AARON will never draw the same picture twice. NEWSWEEK MAY 28, 2001</p>
+    </context>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage, AARON is a computer program that</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>can help slow learners.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>has taught students how to paint.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>can paint and draw.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>has been available for 30 years.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>has been bought by some museums.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>We learn from the passage that Kurzweil Cyberart.com</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>aims to market original pictures.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>has designed AARON, the computer program.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>commercializes paintings done by AARON.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>has sold PCs all over the world.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>is commercializing AARON as software.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage, AARON does NOT</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>function as a screen saver.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>repeat the same drawing.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>redraw a picture on a second computer.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>send pictures by e-mail.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>draw new pictures, one after the other. I 7V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>The role of women in Spanish society has changed fast since the country became a democracy after General Franco died in 1975. He had swept away liberal reforms introduced in the 1930s, when Spain was a republic. For women specifically, these included a benevolent divorce law and certain property rights. In the 1930s many women played a big part on the left, often fighting side by side with men in the pro-Republic militias during the 193639 civil war. But after it the new regime, for the most part applauded by the church, put them back in the home as wives and mothers, with divorce forbidden and working outside frowned on. Change began in the 1960s when Spain opened up to tourists. Faced with competition from sexually liberated north Europeans, Spanish women “declared war on them, on men and on their elders”, in the words of Lucia Graves, author of “A Woman Unknown”, which recounts her life as an Englishwoman married to a Spaniard at the time. That aggressive self-assertion continues. Not wholly successfully. At universities, women students now outnumber men. A typical couple has one or two children these days, a far cry from the days when families of eight or ten were common. But Spanish women still face the problems of their sisters in northern Europe. Their progress at work is often blocked, their pay often lower than men’s. The Economist August 11th 2001</p>
+    </context>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage, since 1975,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>the role of left-wing Spanish women has changed quite fast.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>the new regime has faced problems when bringing about changes in the role of Spanish women.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>there have been changes in the role of Spanish women.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Spanish women have played an important part in the government’s adoption of reformist policies.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>many Spanish women have assumed the role of social reformers.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="31">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>The passage states that</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>most of the liberal reforms introduced in the 1930s were approved by the church.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>liberal reforms introduced when Spain was a republic were abolished under Franco’s regime.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>many Spanish women fought in the pro-Republic militias in the early 1930s.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>all liberal reforms introduced when Spain was a republic benefited women.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Spanish women obtained a benevolent divorce law and certain property rights after Franco died.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>The passage tells us that after the civil war</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>divorced women were not allowed to work outside.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>the church prohibited wives and mothers from working outside.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>most women continued to fight for liberal reforms.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>many women were unwilling to work outside.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Spain was under a regime that no longer allowed divorce.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="33">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Which of these statements is true according to the passage?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Although tourists helped Spain to develop in the 1960s, Spanish women declared war on them.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Spanish women rebelled against north European tourists who married Spaniards in the nineteen sixties.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Tourists started visiting Spain in the nineteen sixties, after the country underwent changes.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>For Spanish women, the arrival of sexually liberated north Europeans in the 1960s was most unwelcome.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>In the 1960s, sexually liberated Spanish women had to compete with their north European counterparts.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="34">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>The passage tells us that Lucia Graves</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>portrays what her own life was like in the nineteen sixties in “A Woman Unknown”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>wrote a book about the problems she faced after marrying a Spaniard.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>depicts the war declared by Spanish women before Spain opened up to tourists in her book.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>recounts the life of Spanish women after the civil war in “A Woman Unknown”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>was a very aggressive English writer married to a Spaniard.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Which of the following statements does NOT reflect the situation in Spain now, according to the passage?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A family of eight is quite unusual.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Female workers are seldom paid higher wages than male ones.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Despite their gains, Spanish women have not achieved total success.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>There are roughly equal numbers of male and female students at universities.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Spanish women are quite self-assertive. 8V</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>IF PUBLIC speaking gives you the willies, the chances are you’ll be just as scared of virtual people, experts have discovered. But in the long run these “avatars” will help you overcome your fears. Mel Slater at University College London, and his colleague David-Paul Pertaub have developed a VR environment to help people overcome their phobias. In their virtual seminar room, people have to give a presentation to eight computer-generated people who can appear by turns fascinated, bored stiff or just annoyingly neutral. While it’s not the first time VR has been used to treat phobias, such as fear of spiders or flying, no one knew if the technique could also help people to overcome their social phobias. To find out, Pertaub watched how people behave in seminars and programmed the virtual people to do the same things: crossing their arms, frowning, yawning and putting their feet on the table. “Our negative audience is very negative,” says Slater. Then Slater and Pertaub compared the performances of 43 volunteers who gave a talk either to an attentive audience or to an unenthusiastic one. Surprisingly, the subjects responded as if the avatars were real.</p>
+      <p>21 July 2001• New Scientist • www.newscientist.com</p>
+    </context>
+    <objective_question number="36">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage, experts have discovered that</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>people willing to talk to a virtual audience will hardly annoy a real one.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>if public speaking gives us the willies, we will overcome our fears just by talking to an attentive virtual audience.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a virtual audience may be as frightening as a real one for people who fear public speaking.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a virtual audience is likely to be more frightening than a real one for people afraid of speaking in public.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>if public speaking gives people the willies, a virtual audience is likely to make them less scared than a real one.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Which of these statements is true according to the passage?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>The virtual-reality technique has proved to be more effective for social rather than other phobics.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>The virtual-reality environment was developed to help people get rid of their fears.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>People who have fear of spiders or flying will, in the long run, become social phobics.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>The virtual-reality environment appears to be ineffective for treating some types of phobias.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>So far the virtual-reality technique has been used only to help social phobics.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>According to the passage,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>while addressing the virtual audience, the volunteers behaved as if it was real.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>the eight computer-generated people reacted negatively to the 43 volunteers’ talks.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>the virtual people seemed to find the subjects of the volunteers’ talks extremely boring.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Slater and Pertaub were fascinated by the presentations, whereas the virtual audience showed no enthusiasm at all.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>the way the subjects reacted when addressing the computer-generated people was no surprise to Slater and Pertaub.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Which of these statements is true according to the passage?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Pertaub discovered that virtual reality could be used to treat extreme fears by watching how people behave in seminars.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Slater and Pertaub were amazed to see the response of the attentive audience to the volunteers’ talks.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Despite their fears, the 43 subjects had a surprising performance when exposed to the virtual audience.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Pertaub programmed the computer-generated people to behave the way people do in seminars.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Pertaub watched people’s behaviour in seminars to help social phobics to adopt the same behaviour.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“....in the long run” (line 4) means</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>afterwards</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>before long</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>lately</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>from now on</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>in the end 9V FÍSICA OBSERVAÇÃO (para todas as questões de Física): o valor da aceleração da gravidade na superfície da Terra é representado por g. Quando necessário adote: para g, o valor de 10 m/s2; para a massa específica (densidade) da água, o valor de 1.000 kg/m3 = 1g/cm3; para o calor específico da água, o valor de 1,0 cal /(g.ºC) ( 1 caloria ≅ 4 joules).</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="41">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Três esferas metálicas iguais, A, B e C, estão apoiadas em suportes isolantes, tendo a esfera A carga elétrica negativa. Próximas a ela, as esferas B e C estão em contato entre si, sendo que C está ligada à terra por um fio condutor, como na figura. A partir dessa configuração, o fio é retirado e, em seguida, a esfera A é levada para muito longe. Finalmente, as esferas B e C são afastadas uma da outra. Após esses procedimentos, as cargas das três esferas satisfazem as relações</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>QA &lt; 0 QB &gt;0 QC &gt;0</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>QA &lt; 0 QB = 0 QC = 0</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>QA = 0 QB &lt; 0 QC &lt; 0</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>QA &gt; 0 QB &gt; 0 QC = 0</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>QA &gt; 0 QB &lt; 0 QC &gt; 0</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No medidor de energia elétrica usado na medição do consumo de residências, há um disco, visível externamente, que pode girar. Cada rotação completa do disco corresponde a um consumo de energia elétrica de 3,6 watt-hora. Mantendo-se, em uma residência, apenas um equipamento ligado, observa-se que o disco executa uma volta a cada 40 segundos. Nesse caso, a potência “consumida” por esse equipamento é de, aproximadamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>36 W</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>90 W</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>144 W</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>324 W</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1000 W</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="43">
+      <statement>
+        <p>Quatro ímãs iguais em forma de barra, com as polaridades indicadas, estão apoiados sobre uma mesa horizontal, como na figura, vistos de cima. Uma pequena bússola é também colocada na mesa, no ponto central P, eqüidistante dos ímãs, indicando a direção e o sentido do campo magnético dos ímãs em P. Não levando em conta o efeito do campo magnético terrestre, a figura que melhor representa a orientação da agulha da bússola é</p>
+      </statement>
+    </essay_question>
+    <objective_question number="44">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para um teste de controle, foram introduzidos três amperímetros (A1, A2 e A3) em um trecho de um circuito, entre M e N, por onde passa uma corrente total de 14 A (indicada pelo amperímetro A4). Nesse trecho, encontramse cinco lâmpadas, interligadas como na figura, cada uma delas com resistência invariável R. Nessas condições, os amperímetros A1, A2 e A3 indicarão, respectivamente, corren-tes I1, I2 e I3 com valores aproxima-dos de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I1 = 1,0 A I2 = 2,0 A I3 = 11 A</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I1 = 1,5 A I2 = 3,0 A I3 = 9,5 A</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I1 = 2,0 A I2 = 4,0 A I3 = 8,0 A</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I1 = 5,0 A I2 = 3,0 A I3 = 6,0 A</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I1 = 8,0 A I2 = 4,0 A I3 = 2,0 A A quantidade de energia elétrica de 3,6 watt-hora é definida como aquela que um equipamento de 3,6 W consumiria se permanecesse ligado durante 1 hora. 10V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um anel de alumínio, suspenso por um fio isolante, oscila entre os pólos de um ímã, mantendose, inicialmente, no plano perpendicular ao eixo N – S e eqüidistante das faces polares. O anel oscila, entrando e saindo da região entre os pólos, com uma certa amplitude. Nessas condições, sem levar em conta a resistência do ar e outras formas de atrito mecânico, pode-se afirmar que, com o passar do tempo,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a amplitude de oscilação do anel diminui.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a amplitude de oscilação do anel aumenta.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a amplitude de oscilação do anel permanece constante.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o anel é atraído pelo pólo Norte do ímã e lá permanece.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o anel é atraído pelo pólo Sul do ímã e lá permanece.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="46">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Radiações como Raios X, luz verde, luz ultravioleta, microondas ou ondas de rádio, são caracterizadas por seu comprimento de onda ( λ ) e por sua freqüência (f). Quando essas radiações propagam-se no vácuo, todas apresentam o mesmo valor para</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>λ</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>f</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>f.λ</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>f/ λ</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>f/ 2 λ</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Certa máquina fotográfica é fixada a uma distância D0 da superfície de uma mesa, montada de tal forma a fotografar, com nitidez, um desenho em uma folha de papel que está sobre a mesa. Desejando manter a folha esticada, é colocada uma placa de vidro, com 5 cm de espessura, sobre a mesma. Nesta nova situação, pode-se fazer com que a fotografia continue igualmente nítida</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>aumentando D0 de menos de 5 cm.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>aumentando D0 de mais de 5 cm.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>reduzindo D0 de menos de 5 cm.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>reduzindo D0 de 5 cm.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>reduzindo D0 de mais de 5 cm.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="48">
+      <statement>
+        <p>Uma câmera de segurança (C), instalada em uma sala, representada em planta na figura, “visualiza” a região clara indicada. Desejando aumentar o campo de visão da câmera, foi colocado um espelho plano, retangular, ocupando toda a região da parede entre os pontos A e B. Nessas condições, a figura que melhor representa a região clara, que passa a ser visualizada pela câmera, é</p>
+      </statement>
+    </essay_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O som de um apito é analisado com o uso de um medidor que, em sua tela, visualiza o padrão apresentado na figura abaixo. O gráfico representa a variação da pressão que a onda sonora exerce sobre o medidor, em função do tempo, em s µ (1 s µ = 10–6 s). Analisando a tabela de intervalos de freqüências audíveis, por diferentes seres vivos, conclui-se que esse apito pode ser ouvido apenas por</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>seres humanos e cachorros</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>seres humanos e sapos</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>sapos, gatos e morcegos</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>gatos e morcegos</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>morcegos Seres vivos Intervalos de Freqüência cachorro 15 Hz – 45.000 Hz ser humano 20 Hz – 20.000 Hz sapo</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="50">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Hz – 10.000 Hz gato 60 Hz – 65.000 Hz morcego 1000 Hz – 120.000 Hz 11V 50 Em uma estrada, dois carros, A e B, entram simultaneamente em curvas paralelas, com raios RA e RB. Os velocímetros de ambos os carros indicam, ao longo de todo o trecho curvo, valores constantes VA e VB. Se os carros saem das curvas ao mesmo tempo, a relação entre VA e VB é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>VA = VB</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>VA/VB = RA/ RB</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>VA/VB = (RA/ RB )2</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>VA/VB = RB/ RA</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>VA/VB = (RB/ RA)2</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="51">
+      <statement>
+        <p>Em decorrência de fortes chuvas, uma cidade do interior paulista ficou isolada. Um avião sobrevoou a cidade, com velocidade horizontal constante, largando 4 pacotes de alimentos, em intervalos de tempos iguais. No caso ideal, em que a resistência do ar pode ser desprezada, a figura que melhor poderia representar as posições aproximadas do avião e dos pacotes, em um mesmo instante, é</p>
+      </statement>
+    </essay_question>
+    <objective_question number="52">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Balões estão voltando a ser considerados como opção para o transporte de carga. Um balão, quando vazio, tem massa de 30.000 kg. Ao ser inflado com 20.000 kg de Hélio, pode transportar uma carga útil de 75.000 kg. Nessas condições, o empuxo do balão no ar equilibra seu peso. Se, ao invés de Hélio, o mesmo volume fosse preenchido com Hidrogênio, esse balão poderia transportar uma carga útil de aproximadamente</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>37.500 kg</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>65.000 kg</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>75.000 kg</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>85.000 kg</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>150.000 kg</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um jovem escorrega por um tobogã aquático, com uma rampa retilínea, de comprimento L, como na figura, podendo o atrito ser desprezado. Partindo do alto, sem impulso, ele chega ao final da rampa com uma velocidade de cerca de 6 m/s. Para que essa velocidade passe a ser de 12 m/s, mantendo-se a inclinação da rampa, será necessário que o comprimento dessa rampa passe a ser aproximadamente de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>L/2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>L</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1,4 L</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 L</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>4 L</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="54">
+      <statement>
+        <p>Dois pequenos discos, de massas iguais, são lançados sobre uma superfície plana e horizontal, sem atrito, com velocidades de módulos iguais. A figura ao lado registra a posição dos discos, vistos de cima, em intervalos de tempo sucessivos e iguais, antes de colidirem, próximo ao ponto P. Dentre as possibilidades representadas, aquela que pode corresponder às posições dos discos, em instantes sucessivos, após a colisão, é</p>
+        <p>Nas CNTP, Massa de 1 mol de H2 ≅ 2,0 g Massa de 1 mol de He ≅ 4,0 g 12V</p>
+      </statement>
+    </essay_question>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um avião, com massa M = 90 toneladas, para que esteja em equilíbrio em vôo, deve manter seu centro de gravidade sobre a linha vertical CG, que dista 16 m do eixo da roda dianteira e 4,0 m do eixo das rodas traseiras, como na figura abaixo. Para estudar a distribuição de massas do avião, em solo, três balanças são colocadas sob as rodas do trem de aterrissagem. A balança sob a roda dianteira indica MD e cada uma das que estão sob as rodas traseiras indica MT. Uma distribuição de massas, compatível com o equilíbrio do avião em vôo, poderia resultar em indicações das balanças, em toneladas, correspondendo aproximadamente a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>MD = 0 MT = 45</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>MD = 10 MT = 40</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>MD = 18 MT = 36</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>MD = 30 MT = 30</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>MD = 72 MT = 9,0</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="56">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Satélites utilizados para telecomunicações são colocados em órbitas geoestacionárias ao redor da Terra, ou seja, de tal forma que permaneçam sempre acima de um mesmo ponto da superfície da Terra. Considere algumas condições que poderiam corresponder a esses satélites: I ter o mesmo período, de cerca de 24 horas II ter aproximadamente a mesma massa III estar aproximadamente à mesma altitude IV manter-se num plano que contenha o círculo do equador terrestre O conjunto de todas as condições, que satélites em órbita geoestacionária devem necessariamente obedecer, corresponde a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e III</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>I, II, III</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I, III e IV</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II e III</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>II, IV</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="57">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um processo industrial, duas esferas de cobre maciças, A e B, com raios RA = 16 cm e RB = 8 cm, inicialmente à temperatura de 20ºC, permaneceram em um forno muito quente durante períodos diferentes. Constatou-se que a esfera A, ao ser retirada, havia atingido a temperatura de 100ºC . Tendo ambas recebido a mesma quantidade de calor, a esfera B, ao ser retirada do forno, tinha temperatura aproximada de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>30ºC</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>60ºC</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>100ºC</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>180ºC</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>660ºC</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="58">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Usando todo o calor produzido pela combustão direta de gasolina, é possível, com 1,0 litro de tal produto, aquecer 200 litros de água de 10ºC a 45ºC. Esse mesmo aquecimento pode ser obtido por um gerador de eletricidade, que consome 1,0 litro de gasolina por hora e fornece 110 V a um resistor de. 11 Ω, imerso na água, durante um certo intervalo de tempo. Todo o calor liberado pelo resistor é transferido à água. Nessas condições, o aquecimento da água obtido através do gerador, quando comparado ao obtido diretamente a partir da combustão, consome uma quantidade de gasolina, aproximadamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>7 vezes menor</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>4 vezes menor</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>igual</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>4 vezes maior</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>7 vezes maior</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um equipamento possui um sistema formado por um pistão, com massa de 10 kg, que se movimenta, sem atrito, em um cilindro de secção transversal S = 0,01 m2. Operando em uma região onde a pressão atmosférica é de 10,0 x 104 Pa (1 Pa = 1 N/m2), o ar aprisionado no interior do cilindro mantém o pistão a uma altura H = 18 cm. Quando esse sistema é levado a operar em uma região onde a pressão atmosférica é de 8,0 x 104 Pa, mantendo-se a mesma temperatura, a nova altura H no interior do cilindro passa a ser aproximadamente de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>5,5 cm</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>14,7 cm</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>20 cm</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>22 cm</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>36 cm</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="60">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 1987, devido a falhas nos procedimentos de segurança, ocorreu um grave acidente em Goiânia. Uma cápsula de Césio-137, que é radioativo e tem meia-vida de 30 anos, foi subtraída e violada, contaminando pessoas e o ambiente. Certa amostra de solo contaminado, colhida e analisada na época do acidente, foi recentemente reanalisada. A razão R, entre a quantidade de Césio-137, presente hoje nessa amostra, e a que existia originalmente, em 1987, é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>R = 1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1 &gt; R &gt; 0,5</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>R = 0,5</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>0,5 &gt; R &gt; 0</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>R = 0 A meia-vida de um elemento radioativo é o intervalo de tempo após o qual o número de átomos radioativos existentes em certa amostra fica reduzido à metade de seu valor inicial. 13V QUÍMICA</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>contaminação por benzeno, clorobenzeno, trimetilbenzeno e outras substâncias utilizadas na indústria como solventes pode causar efeitos que vão da enxaqueca à leucemia. Conhecidos como compostos orgânicos voláteis, eles têm alto potencial nocivo e cancerígeno e, em determinados casos, efeito tóxico cumulativo. O Estado de S. Paulo, 17 de agosto de 2001 Pela leitura do texto, é possível afirmar que I. certos compostos aromáticos podem provocar leucemia. II. existe um composto orgânico volátil com nove átomos de carbono. III. solventes industriais não incluem compostos orgânicos halogenados. Está correto apenas o que se afirma em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>I e II</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I e III</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="62">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere os equilíbrios abaixo e o efeito térmico da reação da esquerda para a direita, bem como a espécie predominante nos equilíbrios A e B, à temperatura de 175 ºC.</p>
+        <p>equilíbrio efeito térmico espécie predominante A) N2 (g) + 3H2(g) 2NH3(g) exotérmica NH3 (g) B) N2O4 (g) 2NO2 (g) endotérmica NO2 (g) C) MgCO3 (s) MgO (s) + CO2 (g) endotérmica</p>
+        <p>O equilíbrio A foi estabelecido misturando-se, inicialmente, quantidades estequiométricas de N2 (g) e H2 (g). Os equilíbrios B e C foram estabelecidos a partir de, respectivamente, N2O4 e MgCO3 puros. A tabela abaixo traz os valores numéricos das constantes desses três equilíbrios, em função da temperatura, não necessariamente na mesma ordem em que os equilíbrios foram apresentados. As constantes referem-se a pressões parciais em atm.</p>
+        <p>t / ºC K1 K2 K3 100 1,5 x 101 1,1 x 10-5 3,9 x 102 175 3,3 x 102 2,6 x 10-3 2,4 250 3,0 x 103 1,2 x 10-1 6,7 x 10-2</p>
+        <p>Logo, as constantes K1, K2 e K3 devem corresponder, respectivamente, a</p>
+        <p>K1 K2 K3</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>B C A</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A C B</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>C B A</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>B A C</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>C A B</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="63">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O esquema abaixo apresenta, de maneira simplificada, processos possíveis para a obtenção de importantes substâncias, a partir de gás natural e ar atmosférico. Dados: gás H2 N2 O2 NH3 temperatura de ebulição (kelvin), sob pressão de 1 atm</p>
+        <p>20</p>
+        <p>77</p>
+        <p>90</p>
+        <p>240 Considere as afirmações: I. Na etapa A, a separação dos gases pode ser efetuada borbulhando-se a mistura gasosa numa solução aquosa alcalina. II. Na etapa B, N2 e O2 podem ser separados pela liquefação do ar, seguida de destilação fracionada. III. A amônia, formada na etapa C, pode ser removida da mistura gasosa por resfriamento. Está correto o que se afirma</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>em I apenas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>em II apenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>em III apenas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>em II e III apenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>em I, II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="64">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O cheiro agradável das frutas deve-se, principalmente, à presença de ésteres. Esses ésteres podem ser sintetizados no laboratório, pela reação entre um álcool e um ácido carboxílico, gerando essências artificiais, utilizadas em sorvetes e bolos. Abaixo estão as fórmulas estruturais de alguns ésteres e a indicação de suas respectivas fontes.</p>
+        <p>A essência, sintetizada a partir do ácido butanóico e do metanol, terá cheiro de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>banana.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>kiwi.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>maçã.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>laranja.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>morango. A 14V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="65">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As figuras abaixo representam moléculas constituídas de carbono, hidrogênio e oxigênio.</p>
+        <p>Elas são, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>etanoato de metila, propanona e 2-propanol.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2-propanol, propanona e etanoato de metila.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2-propanol, etanoato de metila e propanona.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>propanona, etanoato de metila e 2-propanol.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>propanona, 2-propanol e etanoato de metila.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="66">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as reações de oxidação dos elementos Al, Mg e Si representadas pelas equações abaixo e o calor liberado por mol de O2 consumido.</p>
+        <p>4/3 l A + O2 → 2/3 2 Al O3 H ∆ = -1120 kJ/mol de O2 2Mg + O2 → 2MgO H ∆ = -1200 kJ/mol de O2 Si + O2 → SiO2 H ∆ = -910 kJ/mol de O2 Em reações iniciadas por aquecimento, dentre esses elementos, aquele que reduz dois dos óxidos apresentados e aquele que reduz apenas um deles, em reações exotérmicas, são, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Mg e Si</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Mg e Al</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Al e Si</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Si e Mg</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Si e Al</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="67">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Alguns alimentos são enriquecidos pela adição de vitaminas, que podem ser solúveis em gordura ou em água. As vitaminas solúveis em gordura possuem uma estrutura molecular com poucos átomos de oxigênio, semelhante à de um hidrocarboneto de longa cadeia, predominando o caráter apolar. Já as vitaminas solúveis em água têm estrutura com alta proporção de átomos eletronegativos, como o oxigênio e o nitrogênio, que promovem forte interação com a água. Abaixo estão representadas quatro vitaminas: Dentre elas, é adequado adicionar, respectivamente, a sucos de frutas puros e a margarinas, as seguintes:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I e IV</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II e III</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>III e IV</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>III e I</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>IV e II</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="68">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os automóveis movidos à gasolina, mesmo que utilizem uma relação ar/combustível adequada, produzem substâncias poluentes tais como hidrocarboneto não queimado (HC), CO e NO. Atualmente, os automóveis são equipados com catalisadores que promovem as transformações dos referidos poluentes gasosos, conforme as seguintes equações: 2CO + O2 → 2CO2 2NO + 2CO → N2 + 2CO2 HC + oxigênio → dióxido de carbono + água</p>
+        <p>O gráfico abaixo dá a porcentagem de poluentes transformados (Y), em função da porcentagem de oxigênio (X) presente na mistura do combustível com ar.</p>
+        <p>Logo, se a porcentagem de oxigênio na mistura for I. x1, a porcentagem de HC transformado será menor que a de CO transformado. II. x2, a soma das quantidades de HC, CO e NO, nos gases de escape, será menor do que aquela obtida se a porcentagem de oxigênio for x1 ou x3. III. x3, restará menos CO, para transformar NO em N2, do que se a porcentagem de oxigênio for x1. É, pois, correto o que se afirma</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>em I apenas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>em II apenas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>em III apenas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>em II e III apenas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>em I, II e III.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="69">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Galinhas não transpiram e, no verão, a freqüência de sua respiração aumenta para resfriar seu corpo. A maior eliminação de gás carbônico, através da respiração, faz com que as cascas de seus ovos, constituídas principalmente de carbonato de cálcio, se tornem mais finas. Para entender tal fenômeno, considere os seguintes equilíbrios químicos:</p>
+        <p>) aq ( CO ) aq ( Ca 2 3 2 − + +</p>
+        <p>) s ( CaCO3</p>
+        <p>) ( O H ) aq ( CO 2 2 3 l + −</p>
+        <p>) aq ( OH ) aq ( HCO3 − − +</p>
+        <p>) ( O H ) aq ( HCO 2 3 l + −</p>
+        <p>) aq ( OH ) aq ( CO H 3 2 − +</p>
+        <p>) aq ( CO H 3 2</p>
+        <p>) ( O H ) g ( CO 2 2 l +</p>
+        <p>Para que as cascas dos ovos das galinhas não diminuam de espessura no verão, as galinhas devem ser alimentadas</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>com água que contenha sal de cozinha.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>com ração de baixo teor de cálcio.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>com água enriquecida de gás carbônico.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>com água que contenha vinagre.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>em atmosfera que contenha apenas gás carbônico. 0 20 40 60 80 100 0,97 0,99 1,01 1,03 1,05 X Y CO NO HC X1 X2 X3 15V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="70">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As figuras abaixo representam, esquematicamente, estruturas de diferentes substâncias, à temperatura ambiente.</p>
+        <p>(I) (II) (III)</p>
+        <p>Sendo assim, as figuras I, II e III podem representar, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>cloreto de sódio, dióxido de carbono e ferro.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>cloreto de sódio, ferro e dióxido de carbono.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>dióxido de carbono, ferro e cloreto de sódio.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>ferro, cloreto de sódio e dióxido de carbono.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>ferro, dióxido de carbono e cloreto de sódio.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="71">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em solução aquosa, íons de tálio podem ser precipitados com íons cromato. Forma-se o sal pouco solúvel, cromato de tálio, Tlx(CrO4)y. Tomaram-se 8 tubos de ensaio. Ao primeiro, adicionaram-se 1 mL de solução de íons tálio (incolor) na concentração de 0,1 mol/L e 8 mL de solução de íons cromato (amarela), também na concentração de 0,1 mol/L. Ao segundo tubo, adicionaram-se 2 mL da solução de íons tálio e 7 mL da solução de íons cromato. Continuou-se assim até o oitavo tubo, no qual os volumes foram 8 mL da solução de íons tálio e 1 mL da solução de íons cromato. Em cada tubo, obteve-se um precipitado de cromato de tálio. Os resultados foram os da figura. Os valores de x e y, na fórmula Tlx(CrO4)y, são, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1 e 1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1 e 2</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2 e 1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 e 3</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3 e 2</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="72">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere três metais A, B e C, dos quais apenas A reage com ácido clorídrico diluído, liberando hidrogênio. Varetas de A, B e C foram espetadas em uma laranja, cujo suco é uma solução aquosa de pH=4. A e B foram ligados externamente por um resistor (formação da pilha 1). Após alguns instantes, removeu-se o resistor, que foi então utilizado para ligar A e C (formação da pilha 2). Nesse experimento, o pólo positivo e o metal corroído na pilha 1 e o pólo positivo e o metal corroído na pilha 2 são, respectivamente,</p>
+        <p>pilha 1 pilha 2</p>
+        <p>pólo positivo metal corroído pólo positivo metal corroído</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>B A A C</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>B A C A</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>B B C C</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A A C A</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A B A C</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="73">
+      <statement>
+        <p>O composto HClO, em água, dissocia-se de acordo com o equilíbrio: HClO (aq) + H2O (l) ClO- (aq) + H3O+(aq) As porcentagens relativas, em mols, das espécies ClOe HClO dependem do pH da solução aquosa. O gráfico que representa corretamente a alteração dessas porcentagens com a variação do pH da solução é</p>
+      </statement>
+    </essay_question>
+    <objective_question number="74">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O aspartame, um adoçante artificial, pode ser utilizado para substituir o açúcar de cana. Bastam 42 miligramas de aspartame para produzir a mesma sensação de doçura que 6,8 gramas de açúcar de cana. Sendo assim, quantas vezes, aproximadamente, o número de moléculas de açúcar de cana deve ser maior do que o número de moléculas de aspartame para que se tenha o mesmo efeito sobre o paladar?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>30</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>50</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>100</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>140</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>200</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="75">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando se efetua a reação de nitração do bromobenzeno, são produzidos três compostos isoméricos mononitrados: Efetuando-se a nitração do para-dibromobenzeno, em reação análoga, o número de compostos mononitrados sintetizados é igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>4</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>5 Dados: massas molares aproximadas (g/mol) açúcar de cana : 340 adoçante artificial : 300 Dado: Constante de dissociação do HClO em água, a 25 ºC: 4 x 10-8 16V</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="76">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando o composto LiOH é dissolvido em água, forma-se uma solução aquosa que contém os íons Li+ (aq) e − OH (aq). Em um experimento, certo volume de solução aquosa de LiOH, à temperatura ambiente, foi adicionado a um béquer de massa 30,0 g, resultando na massa total de 50,0 g. Evaporando a solução até a secura, a massa final (béquer + resíduo) resultou igual a 31,0 g. Nessa temperatura, a solubilidade do LiOH em água é cerca de 11 g por 100 g de solução. Assim sendo, pode-se afirmar que, na solução da experiência descrita, a porcentagem, em massa, de LiOH era de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>5,0 %, sendo a solução insaturada.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>5,0 %, sendo a solução saturada.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>11%, sendo a solução insaturada.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>11%, sendo a solução saturada.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>20%, sendo a solução supersaturada.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="77">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Buscando processos que permitam o desenvolvimento sustentável, cientistas imaginaram um procedimento no qual a energia solar seria utilizada para formar substâncias que, ao reagirem, liberariam energia: A = refletor parabólico C = reator exotérmico B = reator endotérmico D e E = reservatórios</p>
+        <p>Considere as seguintes reações I) 2H2 + 2CO → CH4 + CO2 II) CH4 + CO2 → 2H2 + 2CO e as energias médias de ligação: H-H</p>
+        <p>4,4 x 102 kJ/mol C O ≡ (CO) 10,8 x 102 kJ/mol C=O (CO2) 8,0 x 102 kJ/mol C-H</p>
+        <p>4,2 x 102 kJ/mol A associação correta que ilustra tal processo é</p>
+        <p>Reação que ocorre em B Conteúdo de D Conteúdo de E</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>I CH4 + CO2 CO</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>II CH4 + CO2 H2 + CO</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>I H2 + CO CH4 + CO2</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>II H2 + CO CH4 + CO2</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>I CH4 CO</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="78">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O vírus da febre aftosa não sobrevive em pH &lt; 6 ou pH &gt; 9, condições essas que provocam a reação de hidrólise das ligações peptídicas de sua camada protéica. Para evitar a proliferação dessa febre, pessoas que deixam zonas infectadas mergulham, por instantes, as solas de seus sapatos em uma solução aquosa de desinfetante, que pode ser o carbonato de sódio. Neste caso, considere que a velocidade da reação de hidrólise aumenta com o aumento da concentração de íons hidroxila (OH-). Em uma zona afetada, foi utilizada uma solução aquosa de carbonato de sódio, mantida à temperatura ambiente, mas que se mostrou pouco eficiente. Para tornar este procedimento mais eficaz, bastaria</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>utilizar a mesma solução, porém a uma temperatura mais baixa.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>preparar uma nova solução utilizando água dura (rica em íons Ca2+).</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>preparar uma nova solução mais concentrada.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>adicionar água destilada à mesma solução.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>utilizar a mesma solução, porém com menor tempo de contacto.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="79">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para combater o carbúnculo, também chamado antraz, é usado o antibacteriano ciprofloxacina, cuja fórmula estrutural é: Na molécula desse composto, há</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ligação peptídica e halogênio.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>grupo ciclopropila e ligação peptídica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>anel aromático e grupo nitro.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>anel aromático e ligação peptídica.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>anel aromático e grupo carboxila.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="80">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para determinar a composição de uma mistura sólida de carbonato de sódio e hidróxido de sódio, esta mistura foi tratada com ácido clorídrico de concentração 0,50 mol/L. Gastaram-se 500 mL dessa solução para obter, após ligeiro aquecimento, uma solução neutra. No processo, houve liberação de gás carbônico que, após secagem, apresentou o volume de 1,23 L , medido à temperatura de 25 ºC e à pressão de 1,0 bar. Logo, as quantidades, em mols, de carbonato de sódio e hidróxido de sódio, na mistura sólida, eram, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,050 e 0,10</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>0,050 e 0,15</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>0,10 e 0,10</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>0,10 e 0,20</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>0,10 e 0,30 Dado: Volume molar do gás carbônico a 25 ºC e 1 bar: 24,6 L/mol Fundação Universitária para o Vestibular Rua Alvarenga, 1945/51 – Cidade Universitária Cep: 05509-004, São Paulo, SP Telefone: 3093-2300 1ª Fase – 1º Exame (18/11/2001) - GABARITO E CORRESPONDÊNCIA ENTRE PROVAS RESPOSTA GRUPO V GRUPO K GRUPO Q GRUPO X GRUPO Z RESPOSTA GRUPO V GRUPO K GRUPO Q GRUPO X GRUPO Z D 01 01 48 33 39 A 41 75 07 76 02 C 02 02 49 34 40 D 42 74 08 77 03 C 03 03 50 35 41 A 43 72 05 79 01 E 04 04 51 36 42 C 44 73 06 80 05 E 05 05 52 37 43 A 45 76 09 78 04 D 06 06 53 38 44 C 46 79 01 61 12 D 07 07 54 39 45 A 47 78 03 74 09 D 08 13 41 26 27 B 48 77 04 75 10 B 09 14 42 27 28 D 49 71 02 62 11 A 10 15 43 28 29 B 50 61 12 71 14 B 11 16 44 29 30 B 51 67 10 72 16 C 12 17 45 30 31 D 52 64 11 73 15 B 13 18 46 31 32 E 53 63 16 68 13 E 14 19 47 32 33 E 54 66 13 70 17 A 15 08 61 21 34 C 55 62 14 69 18 C 16 09 62 22 35 C 56 65 15 67 19 A 17 10 63 23 36 E 57 68 18 63 06 E 18 11 64 24 37 E 58 70 20 65 08 A 19 12 65 25 38 D 59 69 19 64 07 A 20 20 55 40 21 B 60 80 17 66 20 B 21 21 56 41 22 D 61 41 21 06 77 C 22 22 57 42 23 A 62 42 22 07 78 D 23 23 58 43 24 E 63 43 23 08 79 E 24 24 59 44 25 C 64 44 24 09 80 E 25 25 60 45 26 E 65 56 30 10 72 B 26 26 66 46 46 B 66 57 31 11 73 C 27 27 67 47 47 E 67 58 32 12 74 E 28 28 68 48 48 D 68 59 33 13 75 B 29 29 69 49 49 C 69 60 34 14 76 C 30 35 70 55 50 D 70 45 35 15 66 B 31 36 71 56 51 C 71 46 36 16 67 E 32 37 72 57 52 B 72 47 37 17 68 D 33 38 73 58 53 A 73 48 38 18 69 A 34 39 74 59 54 D 74 49 39 19 70 D 35 40 75 60 55 A 75 50 40 20 71 C 36 30 76 50 56 A 76 51 25 01 61 B 37 31 77 51 57 B 77 52 26 02 62 A 38 32 78 52 58 C 78 53 27 03 63 D 39 33 79 53 59 E 79 54 28 04 64 E 40 34 80 54 60 B 80 55 29 05 65 Fundação Universitária para o Vestibular Rua Alvarenga, 1945/51 – Cidade Universitária Cep: 05509-004, São Paulo, SP Telefone: 3093-2300 1ª Fase – 1º Exame (18/11/2001) - GABARITO DAS PROVAS PROVA V PROVA K PROVA Q PROVA X PROVA Z V 01- D V 41- A K 01- D K 41- D Q 01- C Q 41- D X 01- A X 41- B Z 01- A Z 41- C V 02- C V 42- D K 02- C K 42- A Q 02- D Q 42- B X 02- B X 42- C Z 02- A Z 42- E V 03- C V 43- A K 03- C K 43- E Q 03- A Q 43- A X 03- C X 43- D Z 03- D Z 43- E V 04- E V 44- C K 04- E K 44- C Q 04- B Q 44- B X 04- E X 44- E Z 04- A Z 44- D V 05- E V 45- A K 05- E K 45- D Q 05- A Q 45- C X 05- B X 45- E Z 05- C Z 45- D V 06- D V 46- C K 06- D K 46- C Q 06- C Q 46- B X 06- D X 46- B Z 06- E Z 46- B V 07- D V 47- A K 07- D K 47- B Q 07- A Q 47- E X 07- A X 47- C Z 07- D Z 47- C V 08- D V 48- B K 08- A K 48- A Q 08- D Q 48- D X 08- E X 48- E Z 08- E Z 48- E V 09- B V 49- D K 09- C K 49- D Q 09- A Q 49- C X 09- C X 49- B Z 09- A Z 49- B V 10- A V 50- B K 10- A K 50- A Q 10- B Q 50- C X 10- E X 50- C Z 10- B Z 50- C V 11- B V 51- B K 11- E K 51- A Q 11- D Q 51- E X 11- B X 51- B Z 11- D Z 51- B V 12- C V 52- D K 12- A K 52- B Q 12- B Q 52- E X 12- E X 52- A Z 12- C Z 52- E V 13- B V 53- E K 13- D K 53- C Q 13- E Q 53- D X 13- D X 53- D Z 13- E Z 53- D V 14- E V 54- E K 14- B K 54- E Q 14- C Q 54- D X 14- C X 54- E Z 14- B Z 54- A V 15- A V 55- C K 15- A K 55- B Q 15- C Q 55- A X 15- D X 55- C Z 15- D Z 55- D V 16- C V 56- C K 16- B K 56- E Q 16- E Q 56- B X 16- C X 56- B Z 16- B Z 56- C V 17- A V 57- E K 17- C K 57- B Q 17- B Q 57- C X 17- B X 57- E Z 17- E Z 57- B V 18- E V 58- E K 18- B K 58- E Q 18- E Q 58- D X 18- A X 58- D Z 18- C Z 58- A V 19- A V 59- D K 19- E K 59- D Q 19- D Q 59- E X 19- D X 59- A Z 19- C Z 59- D V 20- A V 60- B K 20- A K 60- C Q 20- E Q 60- E X 20- A X 60- D Z 20- B Z 60- E V 21- B V 61- D K 21- B K 61- B Q 21- D Q 61- A X 21- A X 61- C Z 21- A Z 61- A V 22- C V 62- A K 22- C K 62- C Q 22- A Q 62- C X 22- C X 62- D Z 22- B Z 62- B V 23- D V 63- E K 23- D K 63- E Q 23- E Q 63- A X 23- A X 63- E Z 23- C Z 63- C V 24- E V 64- C K 24- E K 64- D Q 24- C Q 64- E X 24- E X 64- D Z 24- D Z 64- E V 25- E V 65- E K 25- E K 65- C Q 25- A Q 65- A X 25- A X 65- E Z 25- E Z 65- B V 26- B V 66- B K 26- B K 66- E Q 26- B Q 66- B X 26- D X 66- B Z 26- E Z 66- D V 27- C V 67- E K 27- C K 67- B Q 27- C Q 67- C X 27- B X 67- C Z 27- D Z 67- C V 28- E V 68- D K 28- E K 68- E Q 28- E Q 68- E X 28- A X 68- E Z 28- B Z 68- B V 29- B V 69- C K 29- B K 69- D Q 29- B Q 69- B X 29- B X 69- C Z 29- A Z 69- A V 30- C V 70- D K 30- C K 70- E Q 30- E Q 70- C X 30- C X 70- E Z 30- B Z 70- D V 31- B V 71- C K 31- B K 71- D Q 31- B Q 71- B X 31- B X 71- B Z 31- C Z 71- A V 32- E V 72- B K 32- A K 72- A Q 32- E Q 72- E X 32- E X 72- B Z 32- B Z 72- E V 33- D V 73- A K 33- D K 73- C Q 33- D Q 73- D X 33- D X 73- D Z 33- E Z 73- B V 34- A V 74- D K 34- E K 74- D Q 34- C Q 74- A X 34- C X 74- A Z 34- A Z 74- E V 35- D V 75- A K 35- C K 75- A Q 35- D Q 75- D X 35- C X 75- B Z 35- C Z 75- D V 36- C V 76- A K 36- B K 76- A Q 36- C Q 76- C X 36- E X 76- A Z 36- A Z 76- C V 37- B V 77- B K 37- E K 77- B Q 37- B Q 77- B X 37- E X 77- D Z 37- E Z 77- D V 38- A V 78- C K 38- D K 78- A Q 38- A Q 78- A X 38- D X 78- A Z 38- A Z 78- A V 39- D V 79- E K 39- A K 79- C Q 39- D Q 79- D X 39- D X 79- A Z 39- D Z 79- E V 40- E V 80- B K 40- D K 80- B Q 40- A Q 80- E X 40- A X 80- C Z 40- C Z 80- C</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

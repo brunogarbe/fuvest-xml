@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2000" phase="discursive" day="0" variation="V1" date="2000-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>Deseja-se distinguir, experimentalmente, o estanho do zinco. Para tal, foram feitos três experimentos: I. Determinou-se a densidade de um dos metais, a 20ºC, com margem de erro de 3%, e achou-se o valor 7,2 g/cm3. II. Colocou-se, separadamente, cada um dos metais em uma solução aquosa de ácido clorídrico, de concentração 1 mol/L. III. Colocou-se, separadamente, cada um dos metais em uma solução aquosa de sulfato ferroso, de concentração 1 mol/L. Para cada um dos experimentos, com base nos dados fornecidos, explique se foi possível ou não distinguir um metal do outro. Dados: Metal (Me) Densidade a 20ºC (g/cm3) Eθ red (Me2+, Me) (V) Sn 7,29 -0,14 Zn 7,14 -0,76 Fe - -0,44</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>Atenção: A demonstração só deve ser feita em ambiente adequado e com os devidos cuidados! Para demonstrar, em laboratório, a obtenção de metais por redução de seus óxidos, pode ser utilizada a aparelhagem esquematizada acima, em que: I. gerador do gás redutor por desidratação do ácido fórmico II. frasco de segurança III. tubo de pirex contendo o óxido metálico IV. absorvedor de gás Para essa demonstração, a)dê as alterações que seriam observadas, visualmente, em III e IV. b)escreva as equações das reações que ocorrem em I e III. c)escolha uma substância química, utilizada ou formada, que não seja o ácido sulfúrico, e cite uma de suas propriedades, que exija cuidados especiais no seu uso. FUVEST 2000 - 2 a Fase - Química - 04/01/2000 Página 2 de 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>Os humanos estão acostumados a respirar ar com pressão parcial de O2 próxima de 2,1 × 104 Pa, que corresponde, no ar, a uma porcentagem (em volume) desse gás igual a 21%. No entanto, podem se adaptar a uma pressão parcial de O2 na faixa de (1 a 6) × 104 Pa, mas não conseguem sobreviver se forçados a respirar O2 fora desses limites. a)Um piloto de uma aeronave, em uma cabine não pressurizada, voando a uma altitude de 12 km, onde a pressão atmosférica é de 2,2 × 104 Pa, poderá sobreviver se a cabine for alimentada por O2 puro? Explique. b)Um mergulhador no mar, a uma profundidade de 40 m, está sujeito a uma pressão cinco vezes maior do que na superfície. Para que possa sobreviver, ele deve respirar uma mistura de gás He com O2, em proporção adequada. Qual deve ser a porcentagem de O2, nessa mistura, para que o mergulhador respire um "ar" com a mesma pressão parcial de O2 existente no ar da superfície, ou seja, 2,1 × 104 Pa? Justifique. Obs.: O He substitui com vantagem o N2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>Para diagnósticos de anomalias da glândula tireóide, por cintilografia, deve ser introduzido, no paciente, iodeto de sódio, em que o ânion iodeto é proveniente de um radioisótopo do iodo (número atômico 53 e número de massa 131). A meia-vida efetiva desse isótopo (tempo que decorre para que metade da quantidade do isótopo deixe de estar presente na glândula) é de aproximadamente 5 dias. a)O radioisótopo em questão emite radiação β-. O elemento formado nessa emissão é 52Te, 127I ou 54Xe ? Justifique. Escreva a equação nuclear correspondente. b)Suponha que a quantidade inicial do isótopo na glândula (no tempo zero) seja de 1,000 µg e se reduza, após certo tempo, para 0,125 µg. Com base nessas informações, trace a curva que dá a quantidade do radioisótopo na glândula em função do tempo, utilizando o quadriculado da página à direita e colocando os valores nas coordenadas adequadamente escolhidas. FUVEST 2000 - 2 a Fase - Química - 04/01/2000 Página 3 de 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>Um método de obtenção de H2(g), em laboratório, se baseia na reação de alumínio metálico com solução aquosa de hidróxido de sódio. a)Escreva a equação balanceada dessa reação, sabendo-se que o hidrogênio provém da redução da água e que o alumínio, na sua oxidação, forma a espécie aluminato, Al − 4) OH ( . b)Para a obtenção do H2, foram usados 0,10 mol de alumínio e 100 mL de uma solução aquosa de NaOH, de densidade 1,08 g/mL e porcentagem em massa (título) 8,0%. Qual dos reagentes, Al ou NaOH, é o reagente limitante na obtenção do H2? Justifique, calculando a quantidade, em mol, de NaOH usada. Dado: Massa molar do NaOH = 40 g/mol</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>Considere o equilíbrio: a)Calcule, usando as energias de ligação, o valor do ∆H da reação de formação de 1 mol de B, a partir de A. b)B é obtido pela reação de A com ácido sulfúrico diluído à temperatura ambiente, enquanto A é obtido a partir de B, utilizando-se ácido sulfúrico concentrado a quente. Considerando as substâncias envolvidas no equilíbrio e o sinal do ∆H, obtido no item a, justifique a diferença nas condições empregadas quando se quer obter A a partir de B e B a partir de A. FUVEST 2000 - 2 a Fase - Química - 04/01/2000 Página 4 de 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>A composição de óleos comestíveis é, usualmente, dada pela porcentagem em massa dos ácidos graxos obtidos na hidrólise total dos triglicerídeos que constituem tais óleos. Segue-se esta composição para os óleos de oliva e milho. Porcentagem em massa de ácidos graxos Tipo de óleo Palmítico C15H31CO2H M = 256 Oléico C17H33CO2H M = 282 Linoléico C17H31CO2H M = 280 Oliva Milho 10 10 85 30 05 60 M = massa molar em g/mol Um comerciante comprou óleo de oliva mas, ao receber a mercadoria, suspeitou tratar-se de óleo de milho. Um químico lhe explicou que a suspeita poderia ser esclarecida, determinando-se o índice de iodo, que é a quantidade de iodo, em gramas, consumida por 100 g de óleo. a)Os ácidos graxos insaturados da tabela têm cadeia aberta e consomem iodo. Quais são esses ácidos? Justifique. b)Analisando-se apenas os dados da tabela, qual dos dois óleos apresentará maior índice de iodo? Justifique.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>Frações do petróleo podem ser transformadas em outros produtos por meio de vários processos, entre os quais: I. craqueamento II. reforma catalítica (conversão de alcanos e cicloalcanos em compostos aromáticos) III. isomerização Utilizando o n-hexano como composto de partida, escreva uma equação química balanceada para cada um desses processos, usando fórmulas estruturais. FUVEST 2000 - 2 a Fase - Química - 04/01/2000 Página 5 de 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>Considere o equilíbrio, em fase gasosa, ' cuja constante K, à temperatura de 430ºC, é igual a 4. Em um frasco de 1,0 L, mantido a 430ºC, foram misturados 1,0 mol de CO, 1,0 mol de H2O, 3,0 mol de CO2 e 3,0 mol de H2. Esperou-se até o equilíbrio ser atingido. a)Em qual sentido, no de formar mais CO ou de consumi-lo, a rapidez da reação é maior, até se igualar no equilíbrio? Justifique. b)Calcule as concentrações de equilíbrio de cada uma das espécies envolvidas (Lembrete: 4 = 22). Obs.: Considerou-se que todos os gases envolvidos têm comportamento de gás ideal.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O aspartame, adoçante artificial, é um éster de um dipeptídeo. Esse adoçante sofre hidrólise, no estômago, originando dois aminoácidos e uma terceira substância.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as fórmulas estruturais dos aminoácidos formados nessa hidrólise.</p>
+        </part>
+        <part>
+          <p>Qual é a terceira substância formada nessa hidrólise? Explique de qual grupo funcional se origina essa substância. FUVEST 2000 - 2 a Fase - Química - 04/01/2000 Página 6 de 6</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2004" phase="discursive" day="0" variation="V1" date="2004-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma enzima, extraída da secreção de um órgão abdominal de um cão, foi purificada, dissolvida em uma solução fisiológica com pH 8 e distribuída em seis tubos de ensaio. Nos tubos 2, 4 e 6, foi adicionado ácido clorídrico (HCl), de modo a se obter um pH final em torno de 2. Nos tubos 1 e 2, foi adicionado macarrão; nos tubos 3 e 4, foi adicionada carne; nos tubos 5 e 6, foi adicionada manteiga. Os tubos foram mantidos por duas horas à temperatura de 36°C. Ocorreu digestão apenas no tubo 1.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual foi o órgão do animal utilizado na experiência?</p>
+        </part>
+        <part>
+          <p>Que alteração é esperada na composição química da urina de um cão que teve esse órgão removido cirurgicamente? Por quê?</p>
+        </part>
+        <part>
+          <p>Qual foi a substância que a enzima purificada digeriu?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“Os genomas de dois parasitas que causam a esquistossomose foram seqüenciados, um passo que pode levar a vacinas para tratar e erradicar a doença. A esquistossomose causa mais enfermidade do que qualquer outra doença parasitária, com exceção da malária.”</p>
+        <p>(New Scientist, 20/09/03)</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que significa dizer que os genomas dos dois parasitas foram seqüenciados?</p>
+        </part>
+        <part>
+          <p>A que reinos de seres vivos pertencem os agentes causadores da malária e da esquistossomose?</p>
+        </part>
+        <part>
+          <p>Qual é a maneira mais comum de uma pessoa contrair malária?</p>
+        </part>
+        <part>
+          <p>Como uma pessoa contrai esquistossomose?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura abaixo esquematiza o coração de um mamífero.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em qual das câmaras do coração, identificadas por A, B, C e D, chega o sangue rico em gás oxigênio?</p>
+        </part>
+        <part>
+          <p>Em qual dessas câmaras chega o sangue rico em gás carbônico?</p>
+        </part>
+        <part>
+          <p>Qual dos vasos, identificados por I, II, III e IV, leva sangue do coração para os pulmões?</p>
+        </part>
+        <part>
+          <p>Qual desses vasos traz sangue dos pulmões?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura, as curvas mostram a variação da quantidade relativa de gás oxigênio (O2) ligado à hemoglobina humana em função da pressão parcial de O2 (PO2), em pH 7,2 e pH 7,4. Por exemplo, a uma PO2 de 104 mm Hg em pH 7,4, como a encontrada nos pulmões, a hemoglobina está com uma saturação de O2 de cerca de 98%.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é o efeito do abaixamento do pH, de 7,4 para 7,2, sobre a capacidade de a hemoglobina se ligar ao gás oxigênio?</p>
+        </part>
+        <part>
+          <p>Qual é a porcentagem de saturação da hemoglobina por O2, em um tecido com alta atividade metabólica, em que a PO2 do sangue é de 14 mm Hg e o pH 7,2, devido à maior concentração de gás carbônico (CO2)?</p>
+        </part>
+        <part>
+          <p>Que processo celular é o principal responsável pelo abaixamento do pH do sangue nos tecidos com alta atividade metabólica?</p>
+        </part>
+        <part>
+          <p>Que efeito benéfico, para as células, tem o pH mais baixo do sangue que banha os tecidos com alta atividade metabólica?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O esquema representa dois neurônios contíguos (I e II), no corpo de um animal, e sua posição em relação a duas estruturas corporais identificadas por X e Y.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Tomando-se as estruturas X e Y como referência, em que sentido se propagam os impulsos nervosos através dos neurônios I e II?</p>
+        </part>
+        <part>
+          <p>Considerando-se que, na sinapse mostrada, não há contato físico entre os dois neurônios, o que permite a transmissão do impulso nervoso entre eles?</p>
+        </part>
+        <part>
+          <p>Explique o mecanismo que garante a transmissão unidirecional do impulso nervoso na sinapse.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O desenho mostra as estruturas de uma flor em corte longitudinal.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique com a letra "A" a seta que aponta a estrutura da qual um inseto retira pólen.</p>
+        </part>
+        <part>
+          <p>Identifique com a letra "B" a seta que aponta a estrutura na qual o grão de pólen inicia o desenvolvimento do tubo polínico.</p>
+        </part>
+        <part>
+          <p>Identifique com a letra "C" a seta que aponta a estrutura que irá se desenvolver dando origem ao fruto.</p>
+        </part>
+        <part>
+          <p>Identifique com a letra "D" a seta que aponta a estrutura em que ocorre a união de gametas masculino e feminino e que dará origem à semente.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>O esquema mostra, de maneira simplificada, o ciclo de que elemento químico?</p>
+        </part>
+        <part>
+          <p>Que informação, dada pelo esquema, permite identificar esse elemento químico?</p>
+        </part>
+        <part>
+          <p>Cite duas classes de macromoléculas presentes nos seres vivos, que contenham esse elemento químico.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Num ambiente aquático, vivem algas do fitoplâncton, moluscos filtradores, peixes carnívoros e microrganismos decompositores. Considerando um átomo de carbono, desde sua captura como substância inorgânica até sua liberação na mesma forma, depois de passar por forma orgânica, indique:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a substância inorgânica que é capturada do ambiente, a maior seqüência de organismos nessa comunidade, pela qual esse átomo passa e a substância inorgânica que é liberada no ambiente;</p>
+        </part>
+        <part>
+          <p>os processos que um único ser vivo, dessa comunidade, pode realizar para capturar e eliminar esse átomo.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As três cores de pelagem de cães labradores (preta, marrom e dourada) são condicionadas pela interação de dois genes autossômicos, cada um deles com dois alelos: Ee e Bb. Os cães homozigóticos recessivos ee não depositam pigmentos nos pêlos e apresentam, por isso, pelagem dourada. Já os cães com genótipos EE ou Ee apresentam pigmento nos pêlos, que pode ser preto ou marrom, dependendo do outro gene: os cães homozigóticos recessivos bb apresentam pelagem marrom, enquanto os com genótipos BB ou Bb apresentam pelagem preta. Um labrador macho, com pelagem dourada, foi cruzado com uma fêmea preta e com uma fêmea marrom. Em ambos os cruzamentos, foram produzidos descendentes dourados, pretos e marrons.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é o genótipo do macho dourado, quanto aos dois genes mencionados?</p>
+        </part>
+        <part>
+          <p>Que tipos de gameta e em que proporção esse macho forma?</p>
+        </part>
+        <part>
+          <p>Qual é o genótipo da fêmea preta?</p>
+        </part>
+        <part>
+          <p>Qual é o genótipo da fêmea marrom?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Bactérias (Escherichia coli) foram cultivadas durante várias gerações em um meio de cultura na qual toda a fonte de nitrogênio era o isótopo pesado 15N. De uma amostra dessas bactérias (amostra A), extraiu-se o DNA que foi submetido a uma técnica de centrifugação que permite separar moléculas de DNA de acordo com sua densidade. O restante das bactérias foi transferido para um meio de cultura em que todo o nitrogênio disponível era o isótopo normal 14N. Retirou-se uma segunda amostra (amostra B), quando as bactérias completaram uma divisão celular nesse novo meio e uma terceira amostra (amostra C), quando as bactérias completaram duas divisões celulares. O DNA das bactérias das amostras B e C foi também extraído e centrifugado.</p>
+        <p>A figura mostra o resultado da centrifugação do DNA das três amostras de bactérias.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Por que, na amostra B, todo o DNA tem uma densidade intermediária entre o que é constituído apenas por 14N e o que contém apenas 15N?</p>
+        </part>
+        <part>
+          <p>Considerando que, na amostra C, a quantidade de DNA separada na faixa inferior é X, que quantidade de DNA há na faixa superior?</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

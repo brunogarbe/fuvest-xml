@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2005" phase="discursive" day="0" variation="V1" date="2005-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os esquemas representam cortes transversais de regiões jovens de uma raiz e de um caule de uma planta angiosperma. Alguns tecidos estão identificados por um número e pelo nome, enquanto outros estão indicados apenas por números.</p>
+        <p>Com base nesses esquemas, indique o número correspondente ao tecido</p>
+      </statement>
+      <parts>
+        <part>
+          <p>responsável pela condução da seiva bruta.</p>
+        </part>
+        <part>
+          <p>responsável pela condução da seiva elaborada.</p>
+        </part>
+        <part>
+          <p>constituído principalmente por células mortas, das quais restaram apenas as paredes celulares.</p>
+        </part>
+        <part>
+          <p>responsável pela formação dos pêlos absorventes da raiz.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere o coração dos vertebrados.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que característica do coração dos mamíferos impede a mistura do sangue venoso e arterial?</p>
+        </part>
+        <part>
+          <p>Que outros vertebrados possuem coração com essa estrutura?</p>
+        </part>
+        <part>
+          <p>Por quais câmaras cardíacas o sangue desses animais passa desde que sai dos pulmões até seu retorno a esses mesmos órgãos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p>A seguir são mostradas duas propostas de árvores filogenéticas (I e II) para diversos grupos de animais invertebrados e fotos de animais (a, b, c), pertencentes a alguns desses grupos.</p>
+        <p>a) Indique em qual das árvores os animais das fotos a e b são mais proximamente aparentados sob o ponto de vista evolutivo. Justifique sua resposta.</p>
+        <p>b) Cite um outro animal incluído no grupo taxonômico, mostrado nas árvores, ao qual pertence o animal da foto c.</p>
+        <p>c) Quanto ao modo de respiração, qual dos três animais (a, b, c) apresenta menor adaptação à vida em terra firme? Por quê?</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As bactérias podem vencer a barreira da pele, por exemplo num ferimento, e entrar em nosso corpo. O sistema imunitário age para combatê-las.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Nesse combate, uma reação inicial inespecífica é efetuada por células do sangue. Indique o processo que leva à destruição do patógeno bem como as células que o realizam.</p>
+        </part>
+        <part>
+          <p>Indique a reação de combate que é específica para cada agente infeccioso e as células diretamente responsáveis por esse tipo de resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma célula somática, em início de intérfase, com quantidade de DNA nuclear igual a X, foi colocada em cultura para multiplicar-se. Considere que todas as células resultantes se duplicaram sincronicamente e que não houve morte celular.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique a quantidade total de DNA nuclear ao final da 1ª, da 2ª e da 3ª divisões mitóticas.</p>
+        </part>
+        <part>
+          <p>Indique a quantidade de DNA por célula na fase inicial de cada mitose.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Foram realizados cruzamentos entre uma linhagem pura de plantas de ervilha com flores púrpuras e grãos de pólen longos e outra linhagem pura, com flores vermelhas e grãos de pólen redondos. Todas as plantas produzidas tinham flores púrpuras e grãos de pólen longos. Cruzando-se essas plantas heterozigóticas com plantas da linhagem pura de flores vermelhas e grãos de pólen redondos, foram obtidas 160 plantas: 62 com flores púrpuras e grãos de pólen longos, 66 com flores vermelhas e grãos de pólen redondos, 17 com flores púrpuras e grãos de pólen redondos, 15 com flores vermelhas e grãos de pólen longos.</p>
+        <p>Essas freqüências fenotípicas obtidas não estão de acordo com o esperado, considerando-se a Segunda Lei de Mendel (Lei da Segregação Independente).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>De acordo com a Segunda Lei de Mendel, quais são as freqüências esperadas para os fenótipos?</p>
+        </part>
+        <part>
+          <p>Explique a razão das diferenças entre as freqüências esperadas e as observadas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O gráfico abaixo indica a transpiração de uma árvore, num ambiente em que a temperatura permaneceu em torno dos 20o C, num ciclo de 24 horas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em que período (A, B, C ou D) a absorção de água, pela planta, é a menor?</p>
+        </part>
+        <part>
+          <p>Em que período ocorre a abertura máxima dos estômatos?</p>
+        </part>
+        <part>
+          <p>Como a concentração de gás carbônico afeta a abertura dos estômatos?</p>
+        </part>
+        <part>
+          <p>Como a luminosidade afeta a abertura dos estômatos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Num campo, vivem gafanhotos que se alimentam de plantas e servem de alimento para passarinhos. Estes são predados por gaviões. Essas quatro populações se mantiveram em números estáveis nas últimas gerações.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é o nível trófico de cada uma dessas populações?</p>
+        </part>
+        <part>
+          <p>Explique de que modo a população de plantas poderá ser afetada se muitos gaviões imigrarem para esse campo.</p>
+        </part>
+        <part>
+          <p>Qual é a trajetória dos átomos de carbono que constituem as proteínas dos gaviões desde sua origem inorgânica?</p>
+        </part>
+        <part>
+          <p>Qual é o papel das bactérias na introdução do nitrogênio nessa cadeia alimentar?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Abaixo está representada a seqüência dos 13 primeiros pares de nucleotídios da região codificadora de um gene.</p>
+        <p>--- A T G A G T T G G C C T G --- --- T A C T C A A C C G G A C ---</p>
+        <p>A primeira trinca de pares de bases nitrogenadas à esquerda, destacada em negrito, corresponde ao aminoácido metionina.</p>
+        <p>A tabela a seguir mostra alguns códons do RNA mensageiro e os aminoácidos codificados por cada um deles.</p>
+        <p>Códon do RNAm Aminoácido ACC treonina AGU serina AUG metionina CCU prolina CUG leucina GAC ácido aspártico GGC glicina UCA serina UGG triptofano</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a seqüência de bases nitrogenadas do RNA mensageiro, transcrito a partir desse segmento de DNA.</p>
+        </part>
+        <part>
+          <p>Utilizando a tabela de código genético fornecida, indique a seqüência dos três aminoácidos seguintes à metionina, no polipeptídio codificado por esse gene.</p>
+        </part>
+        <part>
+          <p>Qual seria a seqüência dos três primeiros aminoácidos de um polipeptídio codificado por um alelo mutante desse gene, originado pela perda do sexto par de nucleotídios (ou seja, a deleção do par de bases T=A)?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Devido ao aparecimento de uma barreira geográfica, duas populações de uma mesma espécie ficaram isoladas por milhares de anos, tornando-se morfologicamente distintas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique sucintamente como as duas populações podem ter-se tornado morfologicamente distintas no decorrer do tempo.</p>
+        </part>
+        <part>
+          <p>No caso de as duas populações voltarem a entrar em contato, pelo desaparecimento da barreira geográfica, o que indicaria que houve especiação?</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2012" phase="discursive" day="0" variation="V1" date="2012-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O polinômio , em que são números reais, tem o número complexo como raiz, bem como duas raízes simétricas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine e as raízes de .</p>
+        </part>
+        <part>
+          <p>Subtraia 1 de cada uma das raízes de e determine todos os polinômios com coeficientes reais, de menor grau, que possuam esses novos valores como raízes.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No triângulo acutângulo , ilustrado na figura, o comprimento do lado mede , o ângulo interno de vértice mede , e o ângulo interno de vértice mede . Sabe-se, também, que</p>
+        <p>! ".</p>
+        <p>Nessas condições, calcule</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o valor de #$;</p>
+        </part>
+        <part>
+          <p>o comprimento do lado . 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [01] [02] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO M.01 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão M.01 QUADRO DESTINADO À RESPOSTA DA QUESTÃO M.02 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão M.02 Página 4/38 − Caderno Reserva 0000−00 04 880 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dez meninas e seis meninos participarão de um torneio de tênis infantil. De quantas maneiras distintas essas 16 crianças podem ser separadas nos grupos , , e %, cada um deles com 4 jogadores, sabendo que os grupos e serão formados apenas por meninas e o grupo , apenas por meninos?</p>
+        </part>
+        <part>
+          <p>Acontecida a fase inicial do torneio, a fase semifinal terá os jogos entre Maria e João e entre Marta e José. Os vencedores de cada um dos jogos farão a final. Dado que a probabilidade de um menino ganhar de uma menina é !, calcule a probabilidade de uma menina vencer o torneio.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A base do tetraedro &amp;% é o quadrado % de lado ', contido no plano . Sabe-se que a projeção ortogonal do vértice &amp; no plano está no semiplano de determinado pela reta ())))* e que não contém o lado % . Além disso, a face &amp; é um triângulo isósceles de base cuja altura forma, com o plano , um ângulo +, em que " , + , - . Sendo &amp; ' , determine, em função de ' e +,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o volume do tetraedro &amp;%;</p>
+        </part>
+        <part>
+          <p>a altura do triângulo &amp; relativa ao lado ;</p>
+        </part>
+        <part>
+          <p>a altura do triângulo &amp;% relativa ao lado % . 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [03] [04] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO M.03 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão M.03 QUADRO DESTINADO À RESPOSTA DA QUESTÃO M.04 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão M.04 Página 6/38 − Caderno Reserva 0000−00 06 220 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p>Determine para quais valores reais de é verdadeira a desigualdade</p>
+        <p>. " . / .! ..</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura, a circunferência de centro 0 é tangente à reta % ())))* no ponto %, o qual pertence à reta 0 ())))*. Além disso, e são pontos da circunferência, 1! e !. Nessas condições, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a medida do segmento % ;</p>
+        </part>
+        <part>
+          <p>o raio da circunferência;</p>
+        </part>
+        <part>
+          <p>a área do triângulo 0;</p>
+        </part>
+        <part>
+          <p>a área da região hachurada na figura. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [05] [06] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO M.05 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão M.05 QUADRO DESTINADO À RESPOSTA DA QUESTÃO M.06 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão M.06 Página 8/38 − Caderno Reserva 0000−00 08 660 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A energia que um atleta gasta pode ser determinada pelo volume de oxigênio por ele consumido na respiração. Abaixo está apresentado o gráfico do volume V de oxigênio, em litros por minuto, consumido por um atleta de massa corporal de 70 kg, em função de sua velocidade, quando ele anda ou corre.</p>
+        <p>Considerando que para cada litro de oxigênio consumido são gastas 5 kcal e usando as informações do gráfico, determine, para esse atleta,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a velocidade a partir da qual ele passa a gastar menos energia correndo do que andando;</p>
+        </part>
+        <part>
+          <p>a quantidade de energia por ele gasta durante 12 horas de repouso (parado);</p>
+        </part>
+        <part>
+          <p>a potência dissipada, em watts, quando ele corre a 15 km/h;</p>
+        </part>
+        <part>
+          <p>quantos minutos ele deve andar, a 7 km/h, para gastar a quantidade de energia armazenada com a ingestão de uma barra de chocolate de 100 g, cujo conteúdo energético é 560 kcal. NOTE E ADOTE 1 cal = 4 J.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nina e José estão sentados em cadeiras, diametralmente opostas, de uma roda gigante que gira com velocidade angular constante. Num certo momento, Nina se encontra no ponto mais alto do percurso e José, no mais baixo; após 15 s, antes de a roda completar uma volta, suas posições estão invertidas. A roda gigante tem raio R = 20 m e as massas de Nina e José são, respectivamente, MN = 60 kg e MJ = 70 kg. Calcule</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o módulo v da velocidade linear das cadeiras da roda gigante;</p>
+        </part>
+        <part>
+          <p>o módulo aR da aceleração radial de Nina e de José;</p>
+        </part>
+        <part>
+          <p>os módulos NN e NJ das forças normais que as cadeiras exercem, respectivamente, sobre Nina e sobre José no instante em que Nina se encontra no ponto mais alto do percurso e José, no mais baixo. NOTE E ADOTE = 3 Aceleração da gravidade g = 10 m/s2 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [07] [08] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO F.01 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão F.01 QUADRO DESTINADO À RESPOSTA DA QUESTÃO F.02 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão F.02 Página 10/38 − Caderno Reserva 0000−00 10 318 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura ao lado representa, de forma esquemática, a instalação elétrica de uma residência, com circuitos de tomadas de uso geral e circuito específico para um chuveiro elétrico. Nessa residência, os seguintes equipamentos permaneceram ligados durante 3 horas a tomadas de uso geral, conforme o esquema da figura: um aquecedor elétrico (Aq) de 990 W, um ferro de passar roupas de 980 W e duas lâmpadas, L1 e L2, de 60 W cada uma. Nesse período, além desses equipamentos, um chuveiro elétrico de 4400 W, ligado ao circuito específico, como indicado na figura, funcionou durante 12 minutos. Para essas condições, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a energia total, em kWh, consumida durante esse período de 3 horas;</p>
+        </part>
+        <part>
+          <p>a corrente elétrica que percorre cada um dos fios fase, no circuito primário do quadro de distribuição, com todos os equipamentos, inclusive o chuveiro, ligados;</p>
+        </part>
+        <part>
+          <p>a corrente elétrica que percorre o condutor neutro, no circuito primário do quadro de distribuição, com todos os equipamentos, inclusive o chuveiro, ligados. NOTE E ADOTE A tensão entre fase e neutro é 110 V e, entre as fases, 220 V. Ignorar perdas dissipativas nos fios. O símbolo representa o ponto de ligação entre dois fios.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um rapaz com chapéu observa sua imagem em um espelho plano e vertical. O espelho tem o tamanho mínimo necessário, y = 1,0 m, para que o rapaz, a uma distância d = 0,5 m, veja a sua imagem do topo do chapéu à ponta dos pés. A distância de seus olhos ao piso horizontal é h = 1,60 m. A figura da página de resposta ilustra essa situação e, em linha tracejada, mostra o percurso do raio de luz relativo à formação da imagem do ponto mais alto do chapéu.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Desenhe, na figura da página de resposta, o percurso do raio de luz relativo à formação da imagem da ponta dos pés do rapaz.</p>
+        </part>
+        <part>
+          <p>Determine a altura H do topo do chapéu ao chão.</p>
+        </part>
+        <part>
+          <p>Determine a distância Y da base do espelho ao chão.</p>
+        </part>
+        <part>
+          <p>Quais os novos valores do tamanho mínimo do espelho ( y’ ) e da distância da base do espelho ao chão ( Y’ ) para que o rapaz veja sua imagem do topo do chapéu à ponta dos pés, quando se afasta para uma distância d’ igual a 1 m do espelho? NOTE E ADOTE O topo do chapéu, os olhos e a ponta dos pés do rapaz estão em uma mesma linha vertical. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [09] [10] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO F.03 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão F.03 QUADRO DESTINADO À RESPOSTA DA QUESTÃO F.04 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão F.04 Página 12/38 − Caderno Reserva 0000−00 12 758 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um ciclista pedala sua bicicleta, cujas rodas completam uma volta a cada 0,5 segundo. Em contato com a lateral do pneu dianteiro da bicicleta, está o eixo de um dínamo que alimenta uma lâmpada, conforme a figura ao lado. Os raios da roda dianteira da bicicleta e do eixo do dínamo são, respectivamente, R = 50 cm e r = 0,8 cm. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>os módulos das velocidades angulares 2R da roda dianteira da bicicleta e 2D do eixo do dínamo, em rad/s;</p>
+        </part>
+        <part>
+          <p>o tempo T que o eixo do dínamo leva para completar uma volta;</p>
+        </part>
+        <part>
+          <p>a força eletromotriz que alimenta a lâmpada quando ela está operando em sua potência máxima. NOTE E ADOTE = 3 O filamento da lâmpada tem resistência elétrica de 6 quando ela está operando em sua potência máxima de 24 W. Considere que o contato do eixo do dínamo com o pneu se dá em R = 50 cm.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um laboratório de física, estudantes fazem um experimento em que radiação eletromagnética de comprimento de onda = 300 nm incide em uma placa de sódio, provocando a emissão de elétrons. Os elétrons escapam da placa de sódio com energia cinética máxima Ec = E – W, sendo E a energia de um fóton da radiação e W a energia mínima necessária para extrair um elétron da placa. A energia de cada fóton é E = h f, sendo h a constante de Planck e f a frequência da radiação. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a frequência f da radiação incidente na placa de sódio;</p>
+        </part>
+        <part>
+          <p>a energia E de um fóton dessa radiação;</p>
+        </part>
+        <part>
+          <p>a energia cinética máxima Ec de um elétron que escapa da placa de sódio;</p>
+        </part>
+        <part>
+          <p>a frequência f0 da radiação eletromagnética, abaixo da qual é impossível haver emissão de elétrons da placa de sódio. NOTE E ADOTE Velocidade da radiação eletromagnética: c = 3 x 108 m/s. 1 nm = 10-9 m. h = 4 x 10-15 eV.s. W (sódio) = 2,3 eV. 1 eV = 1,6 x 10-19 J. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [11] [12] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO F.05 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão F.05 QUADRO DESTINADO À RESPOSTA DA QUESTÃO F.06 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão F.06 Página 14/38 − Caderno Reserva 0000−00 14 198 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ao misturar acetona com bromo, na presença de ácido, ocorre a transformação representada pela equação química</p>
+        <p>Dentre as substâncias presentes nessa mistura, apenas o bromo possui cor e, quando este reagente for totalmente consumido, a solução ficará incolor. Assim sendo, a velocidade da reação pode ser determinada medindo-se o tempo decorrido até o desaparecimento da cor, após misturar volumes definidos de soluções aquosas de acetona, ácido e bromo, de concentrações iniciais conhecidas. Os resultados de alguns desses experimentos estão na tabela apresentada na página de resposta.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando que a velocidade da reação é dada por concentração inicial de Br2 tempo para desaparecimento da cor , complete a tabela apresentada na página de resposta.</p>
+        </part>
+        <part>
+          <p>A velocidade da reação é independente da concentração de uma das substâncias presentes na mistura. Qual é essa substância? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="02">
+      <statement>
+        <p>Um aluno efetuou um experimento para avaliar o calor envolvido na reação de um ácido com uma base. Para isso, tomou 8 tubos de ensaio e a cada um deles adicionou 50 mL de uma mesma solução aquosa de HCl e diferentes volumes de água. Em seguida, acondicionou esses tubos em uma caixa de isopor, para minimizar trocas de calor com o ambiente. A cada um desses tubos, foram adaptados uma rolha e um termômetro para medir a temperatura máxima atingida pela respectiva solução, após o acréscimo rápido de volumes diferentes de uma mesma solução aquosa de NaOH. O volume final da mistura, em cada tubo, foi sempre 100 mL. Os resultados do experimento são apresentados na tabela.</p>
+        <p>Tubo</p>
+        <p>Volume de HCl (aq) (mL)</p>
+        <p>Volume de H2O (mL) Volume de NaOH (aq) (mL) Temperatura máxima (ºC) 1 50 50 0 23,0 2 50 45 5 24,4 3 50 40 10 25,8 4 50 35 15 27,2 5 50 30 20 28,6 6 50 25 25 30,0 7 50 20 30 30,0 8 50 15 35 30,0</p>
+        <p>a) Construa um gráfico, no quadriculado apresentado na página de resposta, que mostre como a temperatura máxima varia em função do volume de solução aquosa de NaOH acrescentado.</p>
+        <p>b) A reação do ácido com a base libera ou absorve calor? Justifique sua resposta, considerando os dados da tabela.</p>
+        <p>c) Calcule a concentração, em mol L-1, da solução aquosa de HCl, sabendo que a concentração da solução aquosa de NaOH utilizada era 2,0 mol L-1.</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [13] [14] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO Q.01 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão Q.01 QUADRO DESTINADO À RESPOSTA DA QUESTÃO Q.02 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão Q.02</p>
+        <p>a)</p>
+        <p>Experimento Concentração inicial de acetona</p>
+        <p>(mol L -1) Concentração inicial de H +</p>
+        <p>(mol L -1) Concentração inicial de Br2</p>
+        <p>(mol L -1) Tempo decorrido até o desaparecimento da cor (s) Velocidade da reação</p>
+        <p>(mol L -1 s -1) 1 0,8 0,2 6,6 x 103 132</p>
+        <p>2 1,6 0,2 6,6 x 103 66</p>
+        <p>3 0,8 0,4 6,6 x 103 66</p>
+        <p>4 0,8 0,2 3,3 x 103 66</p>
+        <p>b)</p>
+        <p>Página 16/38 − Caderno Reserva 0000−00 16 538 Área Reservada Não escreva no topo da folha</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Peptídeos são formados por sequências de aminoácidos, como exemplificado para o peptídeo a seguir:</p>
+        <p>Para identificar os dois primeiros aminoácidos desse peptídeo e também a sequência de tais aminoácidos, foram efetuadas duas reações químicas. Na primeira reação, formaram-se uma hidantoína e um novo peptídeo com um aminoácido a menos. Esse novo peptídeo foi submetido a uma segunda reação, análoga à anterior, gerando outra hidantoína e outro peptídeo:</p>
+        <p>O mesmo tipo de reação foi utilizado para determinar a sequência de aminoácidos em um outro peptídeo de fórmula desconhecida, que é formado por apenas três aminoácidos. Para tanto, três reações foram realizadas, formando-se três hidantoínas, na ordem indicada na página de resposta.</p>
+        <p>Preencha a tabela da página de resposta, escrevendo</p>
+      </statement>
+      <parts>
+        <part>
+          <p>as fórmulas dos três aminoácidos que correspondem às três respectivas hidantoínas formadas;</p>
+        </part>
+        <part>
+          <p>a fórmula estrutural do peptídeo desconhecido formado pelos três aminoácidos do item a).</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma estudante de Química realizou um experimento para investigar as velocidades de difusão dos gases HCl e NH3. Para tanto, colocou, simultaneamente, dois chumaços de algodão nas extremidades de um tubo de vidro, como mostrado na figura ao lado. Um dos chumaços estava embebido de solução aquosa de HCl (g), e o outro, de solução aquosa de NH3 (g). Cada um desses chumaços liberou o respectivo gás. No ponto de encontro dos gases, dentro do tubo, formou-se, após 10 s, um anel de sólido branco (NH4Cl), distante 6,0 cm do chumaço que liberava HCl (g).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual dos dois gases, desse experimento, tem maior velocidade de difusão? Explique.</p>
+        </part>
+        <part>
+          <p>Quando o experimento foi repetido a uma temperatura mais alta, o anel de NH4Cl (s) se formou na mesma posição. O tempo necessário para a formação do anel, a essa nova temperatura, foi igual a, maior ou menor do que 10 s? Justifique.</p>
+        </part>
+        <part>
+          <p>Com os dados do experimento descrito, e sabendo-se a massa molar de um dos dois gases, pode-se determinar a massa molar do outro. Para isso, utiliza-se a expressão velocidade de difusão do NH3(g) velocidade de difusão do HCl(g) = 3massa molar do HCl massa molar do NH3 Considere que se queira determinar a massa molar do HCl. Caso o algodão embebido de solução aquosa de NH3 (g) seja colocado no tubo um pouco antes do algodão que libera HCl (g) (e não simultaneamente), como isso afetará o valor obtido para a massa molar do HCl ? Explique. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [15] [16] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO Q.03 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão Q.03 QUADRO DESTINADO À RESPOSTA DA QUESTÃO Q.04 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão Q.04 Página 18/38 − Caderno Reserva 0000−00 18 978 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dois tipos de reação, bastante utilizados na síntese e transformação de moléculas orgânicas, são:</p>
+        <p>Ozonólise reação química em que cada carbono da ligação dupla de um composto orgânico forma uma ligação dupla com oxigênio, como exemplificado:</p>
+        <p>Condensação aldólica reação química em que dois compostos carbonílicos se unem e perdem água, formando um novo composto carbonílico com uma ligação dupla adjacente ao grupo carbonila, como exemplificado:</p>
+        <p>Em 1978, esses dois tipos de reação foram utilizados na síntese do hormônio progesterona, de acordo com a sequência ao lado, em que A’ e A identificam, respectivamente, partes das fórmulas estruturais dos produtos I e II, cujas representações, ao lado, não estão completas.</p>
+        <p>Na página de resposta, complete as fórmulas estruturais</p>
+      </statement>
+      <parts>
+        <part>
+          <p>do composto I;</p>
+        </part>
+        <part>
+          <p>do composto II, em que A é um anel constituído por 6 átomos de carbono, e em que o anel B não possui grupo carbonila.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A determinação da carga do elétron pode ser feita por método eletroquímico, utilizando a aparelhagem representada na figura ao lado. Duas placas de zinco são mergulhadas em uma solução aquosa de sulfato de zinco (ZnSO4). Uma das placas é conectada ao polo positivo de uma bateria. A corrente que flui pelo circuito é medida por um amperímetro inserido entre a outra placa de Zn e o polo negativo da bateria. A massa das placas é medida antes e depois da passagem de corrente elétrica por determinado tempo. Em um experimento, utilizando essa aparelhagem, observou-se que a massa da placa, conectada ao polo positivo da bateria, diminuiu de 0,0327 g. Este foi, também, o aumento de massa da placa conectada ao polo negativo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Descreva o que aconteceu na placa em que houve perda de massa e também o que aconteceu na placa em que houve ganho de massa.</p>
+        </part>
+        <part>
+          <p>Calcule a quantidade de matéria de elétrons (em mol) envolvida na variação de massa que ocorreu em uma das placas do experimento descrito.</p>
+        </part>
+        <part>
+          <p>Nesse experimento, fluiu pelo circuito uma corrente de 0,050 A durante 1920 s. Utilizando esses resultados experimentais, calcule a carga de um elétron. Dados: massa molar do Zn = 65,4 g mol-1 constante de Avogadro = 6,0 x 1023 mol-1 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [17] [18] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO Q.05 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão Q.05 QUADRO DESTINADO À RESPOSTA DA QUESTÃO Q.06 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão Q.06 Página 20/38 − Caderno Reserva 0000−00 20 626 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O sangue transporta o gás oxigênio (O2) para os tecidos e remove deles o dióxido de carbono (CO2), produto residual do metabolismo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cada molécula de hemoglobina nas hemácias pode transportar até quatro moléculas de O2. Ordene os vasos sanguíneos – veia pulmonar, artéria pulmonar e capilares da circulação sistêmica, de acordo com a concentração de hemoglobina saturada de O2 neles encontrada, da maior para a menor concentração. Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Cerca de 5% do CO2 produzido nos tecidos é transportado em solução, no plasma sanguíneo. Como o restante do CO2 é transportado dos tecidos para os pulmões?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As figuras ao lado mostram os ciclos ovariano e uterino e as variações dos hormônios hipofisários relacionadas com esses ciclos, na mulher. Em cada figura, a representação dos eventos se inicia em tempos diferentes.</p>
+        <p>As figuras estão reproduzidas na página de resposta.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Nas linhas horizontais abaixo das figuras A e B, indique, com a letra M, o início da menstruação.</p>
+        </part>
+        <part>
+          <p>Na linha horizontal abaixo da figura C, indique, com a letra O, o momento da ovulação.</p>
+        </part>
+        <part>
+          <p>Na gravidez, o que ocorre com a produção dos hormônios representados na figura C? 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [19] [20] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO B.01 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão B.01 QUADRO DESTINADO À RESPOSTA DA QUESTÃO B.02 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão B.02 Página 22/38 − Caderno Reserva 0000−00 22 066 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura A abaixo mostra o par de cromossomos sexuais humanos X e Y. Esses cromossomos emparelham-se na meiose, apenas pelos segmentos homólogos que possuem nas extremidades de seus braços curtos. Ocorre permuta entre esses segmentos.</p>
+        <p>No heredograma (figura B), os indivíduos I-1 e II-2 são afetados por uma doença que tem herança dominante ligada ao X.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Desenhe os cromossomos sexuais de I-1 e II-2, representando-os como aparecem na figura A.</p>
+        </part>
+        <part>
+          <p>Indique os genótipos de I-1 e II-2, localizando, nos cromossomos desenhados, o alelo (d) normal e o alelo (D) determinante da doença.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O diagrama abaixo representa uma das hipóteses sobre a evolução dos animais metazoários. Nele, os retângulos com os números I, II, III e IV correspondem ao surgimento de novas características morfológicas. Isso significa que os grupos de animais situados acima desses retângulos são portadores da característica correspondente.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Liste as características morfológicas que correspondem, respectivamente, aos retângulos com os números I, II, III e IV.</p>
+        </part>
+        <part>
+          <p>Ordene as seguintes características dos cordados, de acordo com seu surgimento na história evolutiva do grupo, da mais antiga à mais recente: pulmões, ovo amniótico, coluna vertebral, endotermia, cérebro. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [21] [22] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO B.03 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão B.03 QUADRO DESTINADO À RESPOSTA DA QUESTÃO B.04 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão B.04 Página 24/38 − Caderno Reserva 0000−00 24 406 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na vitória-régia, mostrada na figura abaixo, os estômatos localizam-se na superfície superior da folha, o que acontece também em outras plantas aquáticas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando o ambiente em que a vitória-régia ocorre, seus estômatos passam a maior parte do tempo abertos ou fechados? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Liste o que entra e o que sai do estômato aberto de uma folha.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O coqueiro (Cocos nucifera) é uma monocotiledônea de grande porte. Suas flores, depois de polinizadas, originam o chamado coco-verde ou coco-da-baía. A água de coco é o endosperma, cujos núcleos triploides estão livres no meio líquido.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O coco-da-baía é um fruto ou uma semente? Copie a frase do texto acima que justifica sua resposta.</p>
+        </part>
+        <part>
+          <p>O endosperma triploide é uma novidade evolutiva das angiospermas. Que vantagem essa triploidia tem em relação à diploidia do tecido de reserva das demais plantas? 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [23] [24] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO B.05 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão B.05 QUADRO DESTINADO À RESPOSTA DA QUESTÃO B.06 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão B.06 Página 26/38 − Caderno Reserva 0000−00 26 846 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Não é possível pôr em dúvida por mais tempo, ao passar em revista o estado atual dos conhecimentos, ter havido realmente uma guerra de Troia histórica, em que uma coligação de Aqueus ou Micênios, sob um rei cuja suserania era conhecida pelos restantes, combateu o povo de Troia e os seus aliados. A magnitude e duração da luta podem ter sido exageradas pela tradição popular em tempos recentes, e os números dos participantes avaliados muito por cima nos poemas épicos. Muitos incidentes, tanto de importância primária como secundária, foram sem dúvida inventados e introduzidos na narrativa durante a sua viagem através dos séculos. Mas as provas são suficientes para demonstrar não só que a tradição da expedição contra Troia deve basear-se em fatos históricos, mas ainda que boa parte dos heróis individuais mencionados nos poemas foi tirada de personagens reais. Carl W. Blegen. Troia e os troianos. Lisboa, Verbo, 1971. Adaptado.</p>
+        <p>A partir do texto acima,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>identifique ao menos um poema épico inspirado na guerra de Troia e explique seu título;</p>
+        </part>
+        <part>
+          <p>explique uma diferença e uma semelhança entre poesia épica e história para os gregos da Antiguidade.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nos tempos de São Luís [Luís IX], as hordas que surgiam do leste provocaram terror e angústia no mundo cristão. O medo do estrangeiro oprimia novamente as populações. No entanto, a Europa soubera digerir e integrar os saqueadores normandos. Essas invasões tinham tornado menos claras as fronteiras entre o mundo pagão e a cristandade e estimulado o crescimento econômico. A Europa, então terra juvenil, em plena expansão, estendeu-se aos quatro pontos cardeais, alimentando-se, com voracidade, das culturas exteriores. Uma situação muito diferente da de hoje, em que o Velho Continente se entrincheira contra a miséria do mundo para preservar suas riquezas.</p>
+        <p>Georges Duby. Ano 1000 ano 2000. Na pista de nossos medos. São Paulo: Unesp, 1998, p. 50-51. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Justifique a afirmação do autor de que “essas invasões tinham (...) estimulado o crescimento econômico” da Europa cristã.</p>
+        </part>
+        <part>
+          <p>Cite um caso do atual “entrincheiramento” europeu e explique, em que sentido, a Europa quer “preservar suas riquezas”. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [25] [26] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO H.01 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão H.01 QUADRO DESTINADO À RESPOSTA DA QUESTÃO H.02 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão H.02 Página 28/38 − Caderno Reserva 0000−00 28 286 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A formação histórica do atual Estado do Rio Grande do Sul está intrinsecamente relacionada à questão fronteiriça existente entre os domínios das duas coroas Ibéricas na América meridional. Desde o século XVIII, esta região foi cenário de constantes disputas territoriais entre diferentes agentes sociais. Atritos que não estiveram restritos apenas às lutas travadas entre luso-brasileiros e hispano-americanos pelo domínio do Continente do Rio Grande.</p>
+        <p>Eduardo Santos Neumann, “A fronteira tripartida”, Luiz Alberto Grijó (e outros). Capítulos de História do Rio Grande do Sul. Porto Alegre: Editora da UFRGS, 2004, p. 25. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Caracterize a “questão fronteiriça”, mencionada no texto acima.</p>
+        </part>
+        <part>
+          <p>Quais são as principais diferenças e semelhanças entre a organização socioeconômica do Rio Grande colonial e a de regiões açucareiras, como Bahia e Pernambuco, na mesma época?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Não parece fácil determinar a época em que os habitantes da América lusitana, dispersos pela distância, pela dificuldade de comunicação, pela mútua ignorância, pela diversidade, não raro, de interesses locais, começam a sentir-se unidos por vínculos mais fortes do que todos os contrastes ou indiferenças que os separam, e a querer associar esse sentimento ao desejo de emancipação política. No Brasil, as duas aspirações – a da independência e a da unidade – não nascem juntas e, por longo tempo ainda, não caminham de mãos dadas.</p>
+        <p>Sérgio Buarque de Holanda, “A herança colonial – sua desagregação”. História geral da civilização brasileira, tomo II, volume 1, 2ª ed., São Paulo: DIFEL, 1965, p. 9.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique qual a diferença entre as aspirações de “independência” e de “unidade” a que o autor se refere.</p>
+        </part>
+        <part>
+          <p>Indique e caracterize ao menos um acontecimento histórico relacionado a cada uma das aspirações mencionadas no item a). 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [27] [28] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO H.03 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão H.03 QUADRO DESTINADO À RESPOSTA DA QUESTÃO H.04 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão H.04 Página 30/38 − Caderno Reserva 0000−00 30 934 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia este texto, que se refere à dominação europeia sobre povos e terras africanas.</p>
+        <p>Desde o século XVI, os portugueses e, trezentos anos mais tarde, os franceses, britânicos e alemães souberam usar os povos [africanos] mais fracos contra os mais fortes que desejavam submeter. Aliaram-se àqueles e somaram os seus grandes números aos contingentes, em geral pequenos, de militares europeus.</p>
+        <p>Alberto da Costa e Silva. A África explicada aos meus filhos. Rio de Janeiro: Agir, 2008, p. 98.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Diferencie a presença europeia na África nos dois períodos aos quais o texto se refere.</p>
+        </part>
+        <part>
+          <p>Indique uma decorrência, para o continente africano, dessa política colonial de estimular conflitos internos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O cartaz abaixo, parte de uma campanha sindical pela redução da jornada diária de trabalho, foi divulgado em 1919 pela União Interdepartamental da Confederação Geral dos Trabalhadores da Região do Sena, na França.</p>
+        <p>Tradução dos escritos do cartaz: “União dos Sindicatos de Trabalhadores do Sena”. “As 8 horas”. “Operário, a regra foi aprovada, mas apenas sua ação a fará ser aplicada”.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique um elemento visual no cartaz que caracterize a principal reivindicação dos sindicatos e o explique.</p>
+        </part>
+        <part>
+          <p>Identifique e analise a visão de luta social que a cena principal do cartaz apresenta. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [29] [30] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO H.05 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão H.05 QUADRO DESTINADO À RESPOSTA DA QUESTÃO H.06 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão H.06 Página 32/38 − Caderno Reserva 0000−00 32 374 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As imagens acima ilustram uma contradição característica de médios e grandes centros urbanos no Brasil, destacando-se o fato de que ambas dizem respeito a formas de segregação socioespacial. Considerando as imagens e seus conhecimentos, identifique e explique</p>
+      </statement>
+      <parts>
+        <part>
+          <p>duas causas socioeconômicas geradoras do tipo de segregação retratado na Imagem 1;</p>
+        </part>
+        <part>
+          <p>o tipo de segregação retratado na Imagem 2 e uma causa socioeconômica responsável por sua ocorrência.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a tabela, que traz dados sobre o equilíbrio federativo brasileiro.</p>
+        <p>Representatividade político-espacial no Brasil, por Grandes Regiões – 2010</p>
+        <p>Grandes Regiões Número de estados Habitantes / Senador Habitantes / Deputado Federal Norte 7 755.450 244.068 Nordeste 9 1.965.998 351.536 Centro-Oeste 3 + DF 3.514.523 342.880 Sudeste 4 6.697.034 448.963 Sul 3 3.042.987 355.673</p>
+        <p>www.ibge.gov.br e www.tse.jus.br. Acesso em novembro de 2011.</p>
+        <p>Com base na tabela e em seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>analise a representatividade político-espacial no Brasil;</p>
+        </part>
+        <part>
+          <p>identifique uma consequência da criação de um novo estado para o equilíbrio federativo brasileiro. Explique. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [31] [32] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO G.01 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão G.01 QUADRO DESTINADO À RESPOSTA DA QUESTÃO G.02 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão G.02 Página 34/38 − Caderno Reserva 0000−00 34 714 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nos mapas, estão representados os Eixos de Integração e Desenvolvimento previstos pela Iniciativa para a Integração da Infraestrutura Regional Sul-Americana (IIRSA), da qual o Brasil é um dos países membros, desde o ano 2000.</p>
+        <p>Com base nos mapas e em seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>identifique todos os Eixos de Integração com impacto direto sobre o mercado externo brasileiro, analisando, particularmente, o Eixo de Integração 9. Explique.</p>
+        </part>
+        <part>
+          <p>identifique e analise dois possíveis impactos ambientais do Eixo de Integração 8.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Há mais de 40 anos, a Lei nº 4.771, de 15 de setembro de 1965, conhecida como Código Florestal, estabeleceu no seu Artigo 1º: “As florestas existentes no território nacional e as demais formas de vegetação, reconhecidas de utilidade às terras que revestem, são bens de interesse comum a todos os habitantes do País, exercendo-se os direitos de propriedade, com as limitações que a legislação em geral e especialmente esta Lei estabelecem”.</p>
+        <p>Em pesquisa realizada pelo Instituto Datafolha, em junho de 2011, para saber a opinião do cidadão brasileiro sobre a proposta de mudanças no Código Florestal, 85% dos entrevistados optaram por “priorizar a proteção das florestas e dos rios, mesmo que, em alguns casos, isto prejudique a produção agropecuária”; para 10%, deve-se “priorizar a produção agropecuária mesmo que, em alguns casos, isto prejudique a proteção das florestas e dos rios”; 5% não sabem.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O Artigo 1º da Lei nº 4.771 indica a existência de um conflito, de natureza social, que justifica a necessidade da norma legal. Que conflito é esse? Explique.</p>
+        </part>
+        <part>
+          <p>Analise os resultados da pesquisa feita pelo Instituto Datafolha, acima expostos, relacionando-os com o Artigo 1º da Lei nº 4.771. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [33] [34] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO G.03 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão G.03 QUADRO DESTINADO À RESPOSTA DA QUESTÃO G.04 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão G.04 Página 36/38 − Caderno Reserva 0000−00 36 154 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base nos gráficos e em seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>caracterize o processo de transição demográfica em curso no Brasil;</p>
+        </part>
+        <part>
+          <p>cite e explique dois possíveis impactos da transição demográfica brasileira sobre políticas públicas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Anualmente, as principais bacias hidrográficas do mundo fazem ingressar nos oceanos dezenas de bilhões de toneladas de partículas sólidas removidas das áreas continentais, resultantes do trabalho erosivo das águas correntes superficiais. Observe o mapa:</p>
+        <p>A bacia hidrográfica Ganges-Brahmaputra, se comparada à do Amazonas, produz 3,4 vezes mais sedimentos por unidade de área, tendo, aproximadamente, 1/4 da área de drenagem e 18% da vazão média da bacia hidrográfica amazônica. Comparando-se os dados acima apresentados, a posição geográfica e o uso do solo nessas áreas, identifique um fator responsável pela</p>
+      </statement>
+      <parts>
+        <part>
+          <p>quantidade relativamente baixa da produção anual de sedimentos, por unidade de área, da bacia hidrográfica amazônica. Explique;</p>
+        </part>
+        <part>
+          <p>elevada produção anual de sedimentos, por unidade de área, da bacia hidrográfica GangesBrahmaputra. Explique. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 [35] [36] 00 QUADRO DESTINADO À RESPOSTA DA QUESTÃO G.05 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão G.05 QUADRO DESTINADO À RESPOSTA DA QUESTÃO G.06 TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2012 PROVA 3 Questão G.06 FUVEST Fundação Universitária para o Vestibular|08/01/2012|07:44:33 XXX.XXX.XXX.XXX DD/MM/AAAA HH:MM:SS 001 001/001 FUVEST 2012 2ª Fase − Terceiro Dia (10/01/2012) ESCOLA 001 001/001 Página 38/38 − Caderno Reserva 0000−00 38 594 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

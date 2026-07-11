@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2024" phase="discursive" day="0" variation="V1" date="2024-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Para cada par de substâncias abaixo, indique qual apresenta maior ponto de fusão e justifique sua indicação.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Benzeno ou Naftaleno</p>
+        </part>
+        <part>
+          <p>Ácido etanoico ou Propanona</p>
+        </part>
+        <part>
+          <p>H2O ou D2O</p>
+        </part>
+        <part>
+          <p>CSe2 ou CS2</p>
+        </part>
+        <part>
+          <p>ou 14 QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Considere as seguintes substâncias: I. 2-metil-1-butanol II. 3-metil-2-butanol Escreva as equações químicas que descrevem as reações abaixo, apresentando a fórmula estrutural dos compostos orgânicos envolvidos, ou seja, reagentes, eventuais produtos intermediários e produtos finais. a) I com excesso de agente oxidante. b) II com excesso de agente oxidante. c) II com o produto final da reação do item a), em meio ácido. d) Produto orgânico final do item b) com NaBH4(aq), seguido de tratamento com ácido diluído. 15 QUÍMICA</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. São descritos dois experimentos (Exp. 1 e Exp. 2) a respeito de uma solução aquosa de uma substância A, de massa molar igual a 50 g mol1, que não se dissocia e não se volatiliza. Os experimentos foram realizados a 25 °C. Exp. 1 – Em um béquer, foram dissolvidos 100 g da substância A em 360 mL de água pura. A seguir, colocou-se o béquer em um recipiente que foi fechado. Exp. 2 – Em um béquer denominado I, preparou-se a mesma solução descrita no Exp.1, e em outro béquer denominado II, adicionou-se 360 mL de água pura. Em seguida, os béqueres I e II foram colocados em um recipiente que foi fechado. Considere que a solução aquosa de A se comporte idealmente, a massa específica da água seja 1 g cm3 e a pressão de vapor da água seja 23,8 Torr a 25 °C. A partir das informações acima:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>determine os valores numéricos das frações molares da substância A e da água na solução do Exp. 1;</p>
+        </part>
+        <part>
+          <p>determine o valor numérico da fração molar da água na fase de vapor no Exp.1;</p>
+        </part>
+        <part>
+          <p>determine o valor numérico da pressão de vapor da água, em Torr, no Exp. 1;</p>
+        </part>
+        <part>
+          <p>desconsiderando o efeito causado pelo volume do recipiente no Exp. 2, descreva sucintamente e de forma qualitativa o que acontecerá com o volume do líquido no béquer I após o equilíbrio ter sido atingido. 16 QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere as semicélulas descritas e os respectivos potenciais do elemento galvânico em relação ao eletrodo padrão de hidrogênio. Semicélula A: Ag2O(s)|Ag(s) em meio básico; Eo = 0,342 V; Semicélula B: NbO2(s)|Nb(s) em meio ácido; Eo = െ0,690 V. Com base nas informações fornecidas, apresente:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>As equações químicas balanceadas que representam as semirreações, especificando o catodo e o anodo.</p>
+        </part>
+        <part>
+          <p>A equação química que representa a reação global.</p>
+        </part>
+        <part>
+          <p>O valor numérico da força eletromotriz. 17 QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Os dados da tabela abaixo foram obtidos em um estudo de determinação dos parâmetros cinéticos de uma reação hipotética e irreversível do tipo A + B → C + D. Experimento [A] (mol L1) [B] (mol L1) T (K) v (mol L1 min1) 1 0,50 0,50 400 1,25.102 2 0,50 0,25 400 6,25.103 3 1,00 0,25 400 2,50.102 4 0,50 0,50 500 1,25.101 Não havendo mudança no mecanismo da reação no intervalo de temperatura considerado, determine os seguintes valores numéricos:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Ordem da reação em relação ao reagente A.</p>
+        </part>
+        <part>
+          <p>Ordem da reação em relação ao reagente B.</p>
+        </part>
+        <part>
+          <p>Ordem global da reação.</p>
+        </part>
+        <part>
+          <p>Constante de velocidade da reação a 400 K, com sua respectiva unidade de medida.</p>
+        </part>
+        <part>
+          <p>Constante de velocidade da reação a 500 K, com sua respectiva unidade de medida. f) Energia de ativação da reação, em kcal mol1. 18 QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere que a água destilada esteja em equilíbrio com a atmosfera, em dois ambientes distintos (I e II), nos quais a pressão parcial de CO2 foi medida em pCO2,I = 300 ൈ 106atm e pCO2,II = 600 ൈ 106atm. Com base nessas informações e considerando apenas a primeira dissociação do ácido carbônico,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>escreva a equação química que representa o equilíbrio entre a água e o CO2;</p>
+        </part>
+        <part>
+          <p>escreva uma expressão matemática para o pH da amostra de água em função da pressão parcial de CO2;</p>
+        </part>
+        <part>
+          <p>determine o valor numérico da diferença de pH (pHII – pHI) entre as duas amostras de água. 19 QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma solução foi preparada por meio da dissolução de 1,330 g de uma mistura de NaCl(s) e KCl(s) em água. A essa solução, foram adicionados 10 mL de uma solução 4,0 mol.L-1 em AgNO3 para precipitar todo cloreto na amostra. Posteriormente, o sólido foi removido e uma placa de zinco foi adicionada à solução sobrenadante. Após um tempo suficiente para a reação completa, verificou-se uma variação de massa de 1,506 g na placa de zinco. Com base nessas informações, determine as quantidades, em mol, de:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>zinco consumido na placa;</p>
+        </part>
+        <part>
+          <p>cloreto na solução inicial;</p>
+        </part>
+        <part>
+          <p>NaCl(s) e KCl(s) na mistura inicial. 20 QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="08">
+      <statement>
+        <p>. As resinas epoxídicas contêm pelo menos dois grupos epóxidos terminais por molécula e reagem com um agente de cura para a formação de um polímero por meio de uma reação de cura (ou reticulação). Uma forma comum de se obter resina epoxídica envolve a reação entre epicloridrina (1-cloro-2,3-epoxipropano) e bisfenol-A (4,4´dihidroxi2,2-difenilpropano). a) Apresente a fórmula estrutural da epicloridrina e do bisfenol-A. b) Escreva a equação química balanceada entre as substâncias do item a) para a formação de uma resina epoxídica. c) Escreva a equação química entre um anel epóxido e o agente de cura 4,4´Diaminodifenilmetano (DDM). 21 QUÍMICA</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja a reação A k1→B, que apresenta lei de velocidade de primeira ordem (em relação a A) e constante de velocidade k1 igual a 5 x 104 s1 a 300 K. A reação reversa, B k2→A, também é de primeira ordem (em relação a B) e, a 300 K, tem uma constante de velocidade k2 igual a um milésimo de k1. A constante de velocidade total em direção ao equilíbrio é dada pela soma das constantes de velocidade direta e reversa, e para cada aumento de 10 K na temperatura, os valores de k1 são duplicados e os de k2 são quadruplicados. Deseja-se realizar essa reação buscando a máxima constante de velocidade total possível, mas utilizando um reator limitado a uma temperatura de trabalho de até 500 K, e mantendo um rendimento mínimo de 24,41%, representado por [B]eq [A]eq ൒ 1 4,096. Com base nessas restrições, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>qual das propriedades constitui o limitante para a operação do reator, a temperatura ou o rendimento;</p>
+        </part>
+        <part>
+          <p>o valor numérico da temperatura de operação;</p>
+        </part>
+        <part>
+          <p>o valor numérico do rendimento de operação;</p>
+        </part>
+        <part>
+          <p>se a constante de velocidade total na condição de operação supera o valor de 10 s1. 22 QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Sejam as substâncias simples na forma alotrópica mais estável nas condições padrão dos elementos de números atômicos Z, (Z-2) e (Z-3). Considere que 96,0 g da substância simples gasosa de um calcogênio de número atômico Z reage estequiometricamente com I. a substância simples sólida do elemento de número atômico (Z-2), formando aproximadamente 132,0 g de um gás; II. a substância simples sólida do elemento de número atômico (Z-3), formando aproximadamente 139,2 g de um sólido. Responda as questões abaixo, utilizando as informações fornecidas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique os elementos químicos de números atômicos Z, (Z-2) e (Z-3).</p>
+        </part>
+        <part>
+          <p>Apresente a equação química balanceada que representa a reação entre as substâncias simples dos elementos de números atômicos Z e (Z-2).</p>
+        </part>
+        <part>
+          <p>Apresente a equação química balanceada que representa a reação entre as substâncias simples dos elementos de números atômicos Z e (Z-3).</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

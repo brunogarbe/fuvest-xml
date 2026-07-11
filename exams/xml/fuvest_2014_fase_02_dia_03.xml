@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2014" phase="discursive" day="0" variation="V1" date="2014-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="M01">
+      <statement>
+        <p>Dados ݉ e ݊ inteiros, considere a função ݂ definida por ݂ ሺݔሻൌ2 െ݉ݔ൅݊ ,</p>
+        <p>para ݔ് െ݊.</p>
+        <p>a) No caso em que ݉ ൌ݊ ൌ2, mostre que a igualdade ݂൫√2 ൯ൌ√2 se verifica.</p>
+        <p>b) No caso em que ݉ ൌ݊ ൌ2, ache as interseções do gráfico de ݂ com os eixos coordenados.</p>
+        <p>c) No caso em que ݉ ൌ݊ ൌ2, esboce a parte do gráfico de ݂ em que ݔ൐െ2, levando em conta as informações obtidas nos itens a) e b). Utilize o par de eixos dado na página de respostas.</p>
+        <p>d) Existe um par de inteiros ሺ݉ ,݊ሻ ് ሺ2, 2ሻ tal que a condição ݂൫√2 ൯ൌ√2 continue sendo satisfeita?</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="M02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a circunferência ߣ de equação cartesiana ݔଶ൅ݕଶെ4ݕൌ0 e a parábola ߙ de equação ݕൌ4 െݔଶ.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine os pontos pertencentes à interseção de ߣ com ߙ.</p>
+        </part>
+        <part>
+          <p>Desenhe, no par de eixos dado na página de respostas, a circunferência ߣ e a parábola ߙ. Indique, no seu desenho, o conjunto dos pontos ሺݔ, ݕሻ que satisfazem, simultaneamente, as inequações ݔଶ൅ݕଶെ4ݕ൑0 e ݕ൒4 െݔଶ. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 4/38 − Caderno Reserva 0000−00 04 880 Área Reservada Não escreva no topo da folha u.q u-o u%» uÑ uüL u¶ë u3¯ uq, u L uz" uIV uÂO u¹ñ uV© uº© ucÁ u´˛ uÂr uÞO uúS u»« uºT uØ´ u×X u v vk v é v ° v¨» v vêd v ¿ v</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os coeficientes ܽ, ܾ e ܿ do polinômio ݌ሺݔሻൌݔଷ൅ܽݔଶ൅ܾݔ൅ܿ são reais. Sabendo que െ1 e 1 ൅ߙ݅, com ߙ൐0, são raízes da equação ݌ሺݔሻൌ0 e que o resto da divisão de ݌ሺݔሻ por ሺݔെ1ሻ é 8, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o valor de ߙ;</p>
+        </part>
+        <part>
+          <p>o quociente de ݌ሺݔሻ por ሺݔ൅1ሻ. ݅ é a unidade imaginária, ݅ଶൌെ1.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="M04">
+      <statement>
+        <p>Uma bola branca está posicionada no ponto ܳ de uma mesa de bilhar retangular, e uma bola vermelha, no ponto ܲ , conforme a figura ao lado. A reta determinada por ܲ e ܳ</p>
+        <p>intersecta o lado ܮ da mesa no ponto ܴ. Além disso, ܳ é o ponto médio do segmento ܴܲതതതത, e o ângulo agudo formado por ܴܲതതതത e ܮ mede 60o. A bola branca atinge a vermelha, após ser refletida pelo lado ܮ. Sua trajetória, ao partir de ܳ, forma um ângulo agudo ߠ com o segmento ܴܲതതതത e o mesmo ângulo agudo ߙ com o lado ܮ antes e depois da reflexão. Determine a tangente de ߙ e o seno de ߠ.</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3</p>
+        <p>Página 6/38 − Caderno Reserva 0000−00 06 220 Área Reservada Não escreva no topo da folha L uz" uIV uÂO u¹ñ uV© uº© ucÁ u´˛ uÂr uÞO uúS u»« uºT uØ´ u×X u v vk v é v ° v¨» v vêd v ¿ v S vºè v2’ v¸</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="M05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um recipiente hermeticamente fechado e opaco contém bolas azuis e bolas brancas. As bolas de mesma cor são idênticas entre si e há pelo menos uma de cada cor no recipiente. Na tentativa de descobrir quantas bolas de cada cor estão no recipiente, usou‐se uma balança de dois pratos. Verificou‐se que o recipiente com as bolas pode ser equilibrado por:</p>
+        <p>i) 16 bolas brancas idênticas às que estão no recipiente ou ii) 10 bolas brancas e 5 bolas azuis igualmente idênticas às que estão no recipiente ou iii) 4 recipientes vazios também idênticos ao que contém as bolas.</p>
+        <p>Sendo ܲ஺, ܲ஻ e ܲோ, respectivamente, os pesos de uma bola azul, de uma bola branca e do recipiente na mesma unidade de medida, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>os quocientes ܲ ஺ܲ ஻ e ܲ ோܲ ஻ ;</p>
+        </part>
+        <part>
+          <p>o número ݊஺ de bolas azuis e o número ݊ ஻ de bolas brancas no recipiente.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere o triângulo equilátero ∆ܣ଴ܱܤ଴ de lado 7ܿ݉ .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Sendo ܣଵ o ponto médio do segmento ܣ଴ܤ଴ തതതതതതത, e ܤଵ o ponto simétrico de ܣଵ em relação à reta determinada por ܱ e ܤ଴, determine o comprimento de ܱܤଵ തതതതത.</p>
+        </part>
+        <part>
+          <p>Repetindo a construção do item a), tomando agora como ponto de partida o triângulo ∆ܣଵܱܤଵ, pode‐se obter o triângulo ∆ܣଶܱܤଶ tal que ܣଶ é o ponto médio do segmento ܣଵܤଵ തതതതതത, e ܤଶ o ponto simétrico de ܣଶ em relação à reta determinada por ܱ e ܤଵ. Repetindo mais uma vez o procedimento, obtém‐se o triângulo ∆ܣଷܱܤଷ. Assim, sucessivamente, pode‐se construir uma sequência de triângulos ∆ܣ௡ܱܤ௡ tais que, para todo ݊ ൒1, ܣ௡ é o ponto médio de ܣ௡ିଵܤ௡ିଵ തതതതതതതതതതതത , e ܤ௡ , o ponto simétrico de ܣ௡ em relação à reta determinada por ܱ e ܤ௡ିଵ, conforme figura ao lado. Denotando por ܽ ௡, para ݊ ൒1 , o comprimento do segmento ܣ௡ିଵܣ௡ തതതതതതതതതത, verifique que ܽ ଵ,ܽ ଶ,ܽ ଷ, … é uma progressão geométrica. Determine sua razão.</p>
+        </part>
+        <part>
+          <p>Determine, em função de ݊, uma expressão para o comprimento da linha poligonal ܣ଴ܣଵܣଶ… ܣ௡, ݊ ൒1. O ponto ܲ’ é simétrico ao ponto ܲ em relação à reta ݎ se o segmento ܲܲതതതത′ é perpendicular à reta ݎ e a interseção de ܲܲതതതത′ e ݎ é o ponto médio de ܲܲതതതത′. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 8/38 − Caderno Reserva 0000−00 08 660 Área Reservada Não escreva no topo da folha ˛ uÂr uÞO uúS u»« uºT uØ´ u×X u v vk v é v ° v¨» v vêd v ¿ v S vºè v2’ v¸* vâå v v0 vSì vÂZ v ï v vj vW v4 v ¹ vu[ v¸D vùW v;i v&gt;ä v{º v | v</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um contêiner com equipamentos científicos é mantido em uma estação de pesquisa na Antártida. Ele é feito com material de boa isolação térmica e é possível, com um pequeno aquecedor elétrico, manter sua temperatura interna constante, Ti = 20 oC, quando a temperatura externa é Te = ─ 40 oC. As paredes, o piso e o teto do contêiner têm a mesma espessura,  = 26 cm, e são de um mesmo material, de condutividade térmica k = 0,05 J/(s.m.oC). Suas dimensões internas são 2 x 3 x 4 m3. Para essas condições, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a área A da superfície interna total do contêiner;</p>
+        </part>
+        <part>
+          <p>a potência P do aquecedor, considerando ser ele a única fonte de calor;</p>
+        </part>
+        <part>
+          <p>a energia E, em kWh, consumida pelo aquecedor em um dia. Note e adote: A quantidade de calor por unidade de tempo () que flui através de um material de área A, espessura e condutividade térmica k, com diferença de temperatura T entre as faces do material, é dada por:  = kAT / </p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Há um ponto no segmento de reta unindo o Sol à Terra, denominado “Ponto de Lagrange L1”. Um satélite artificial colocado nesse ponto, em órbita ao redor do Sol, permanecerá sempre na mesma posição relativa entre o Sol e a Terra. Nessa situação, ilustrada na figura ao lado, a velocidade angular orbital  do satélite em torno do Sol será igual à da Terra, Para essa condição, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p> em função da constante gravitacional G, da massa MS do Sol e da distância R entre a Terra e o Sol;</p>
+        </part>
+        <part>
+          <p>o valor de em rad/s;</p>
+        </part>
+        <part>
+          <p>a expressão do módulo Fr da força gravitacional resultante que age sobre o satélite, em função de G, MS , MT, m, R e d, sendo MT e m, respectivamente, as massas da Terra e do satélite e d a distância entre a Terra e o satélite. Note e adote: 1 ano ≈ 3,14 x 10 7 s. O módulo da força gravitacional F entre dois corpos de massas M1 e M2, sendo r a distância entre eles, é dado por F = G M1 M2/r 2. Considere as órbitas circulares. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 10/38 − Caderno Reserva 0000−00 10 318 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A curva característica de uma lâmpada do tipo led (diodo emissor de luz) é mostrada no gráfico da página de respostas. Essa lâmpada e um resistor de resistência R estão ligados em série a uma bateria de 4,5 V, como representado na figura ao lado. Nessa condição, a tensão na lâmpada é 2,5 V.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é o valor da corrente iR no resistor?</p>
+        </part>
+        <part>
+          <p>Determine o valor da resistência R.</p>
+        </part>
+        <part>
+          <p>A bateria de 4,5 V é substituída por outra de 3 V, que fornece 60 mW de potência ao circuito, sem que sejam trocados a lâmpada e o resistor. Nessas condições, qual é a potência PR dissipada no resistor? Note e adote: As resistências internas das baterias devem ser ignoradas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A primeira medida da velocidade da luz, sem o uso de métodos astronômicos, foi realizada por Hippolyte Fizeau, em 1849. A figura ao lado mostra um esquema simplificado da montagem experimental por ele utilizada. Um feixe fino de luz, emitido pela fonte F, incide no espelho plano semitransparente E1. A luz refletida por E1 passa entre dois dentes da roda dentada R, incide perpendicularmente no espelho plano E2 que está a uma distância L da roda, é refletida e chega ao olho do observador. A roda é então colocada a girar em uma velocidade angular tal que a luz que atravessa o espaço entre dois dentes da roda e é refletida pelo espelho E2, não alcance o olho do observador, por atingir o dente seguinte da roda. Nesta condição, a roda, com N dentes, gira com velocidade angular constante e dá V voltas por segundo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a expressão literal para o intervalo de tempo t em que a luz se desloca da roda até E2 e retorna à roda, em função de L e da velocidade da luz c.</p>
+        </part>
+        <part>
+          <p>Considerando o movimento de rotação da roda, escreva, em função de N e V, a expressão literal para o intervalo de tempo t decorrido entre o instante em que a luz passa pelo ponto central entre os dentes A e B da roda e o instante em que, depois de refletida por E2, é bloqueada no centro do dente B.</p>
+        </part>
+        <part>
+          <p>Determine o valor numérico da velocidade da luz, utilizando os dados abaixo. Note e adote: No experimento de Fizeau, os dentes da roda estão igualmente espaçados e têm a mesma largura dos espaços vazios; L = 8600 m; N = 750; V = 12 voltas por segundo. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 12/38 − Caderno Reserva 0000−00 12 758 Área Reservada Não escreva no topo da folha v ¿ v S vºè</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas pequenas esferas, cada uma com massa de 0,2 kg, estão presas nas extremidades de uma haste rígida, de 10 cm de comprimento, cujo ponto médio está fixo no eixo de um motor que fornece 4 W de potência mecânica. A figura ao lado ilustra o sistema. No instante t = 0, o motor é ligado e o sistema, inicialmente em repouso, passa a girar em torno do eixo. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a energia cinética total E das esferas em t = 5 s;</p>
+        </part>
+        <part>
+          <p>a velocidade angular  de cada esfera em t = 5 s;</p>
+        </part>
+        <part>
+          <p>a intensidade F da força entre cada esfera e a haste, em t = 5 s;</p>
+        </part>
+        <part>
+          <p>a aceleração angular média  de cada esfera, entre t = 0 e t = 5 s. Note e adote: As massas da haste e do eixo do motor devem ser ignoradas. Não atuam forças dissipativas no sistema.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um estudante construiu um microscópio ótico digital usando uma webcam, da qual ele removeu a lente original. Ele preparou um tubo adaptador e fixou uma lente convergente, de distância focal f = 50 mm, a uma distância d = 175 mm do sensor de imagem da webcam, como visto na figura abaixo.</p>
+        <p>No manual da webcam, ele descobriu que seu sensor de imagem tem dimensão total útil de 6 x 6 mm2, com 500 x 500 pixels. Com estas informações, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>as dimensões do espaço ocupado por cada pixel;</p>
+        </part>
+        <part>
+          <p>a distância L entre a lente e um objeto, para que este fique focalizado no sensor;</p>
+        </part>
+        <part>
+          <p>o diâmetro máximo D que uma pequena esfera pode ter, para que esteja integralmente dentro do campo visual do microscópio, quando focalizada. Note e adote: Pixel é a menor componente de uma imagem digital. Para todos os cálculos, desconsidere a espessura da lente. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 14/38 − Caderno Reserva 0000−00 14 198 Área Reservada Não escreva no topo da folha Sì vÂZ v ï v vj vW v4 v ¹ vu[ v¸D vùW v;i v&gt;ä v{º v | vÁ@ v¶ï vûm v˘ê vXA v(´ vñ[ v¦[ v ˚ v©ï vØ¸ vØ¸ vÇ¯ vÙ v¨l</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em uma aula de laboratório de Química, a professora propôs a realização da eletrólise da água. Após a montagem de uma aparelhagem como a da figura ao lado, e antes de iniciar a eletrólise, a professora perguntou a seus alunos qual dos dois gases, gerados no processo, eles esperavam recolher em maior volume. Um dos alunos respondeu: “O gás oxigênio deve ocupar maior volume, pois seus átomos têm oito prótons e oito elétrons (além dos nêutrons) e, portanto, são maiores que os átomos de hidrogênio, que, em sua imensa maioria, têm apenas um próton e um elétron”. Observou‐se, porém, que, decorridos alguns minutos, o volume de hidrogênio recolhido era o dobro do volume de oxigênio (e essa proporção se manteve no decorrer da eletrólise), de acordo com a seguinte equação química:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando que a observação experimental não corresponde à expectativa do aluno, explique por que a resposta dada por ele está incorreta. Posteriormente, o aluno perguntou à professora se a eletrólise da água ocorreria caso a solução aquosa de Na2SO4 fosse substituída por outra. Em vez de responder diretamente, a professora sugeriu que o estudante repetisse o experimento, porém substituindo a solução aquosa de Na2SO4 por uma solução aquosa de sacarose (C12H22O11).</p>
+        </part>
+        <part>
+          <p>O que o aluno observaria ao realizar o novo experimento sugerido pela professora? Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q02">
+      <statement>
+        <p>Investigou‐se a velocidade de formação de gás hidrogênio proveniente da reação de Mg metálico com solução aquosa de HCl. Uma solução aquosa de HCl foi adicionada em grande excesso, e de uma só vez, sobre uma pequena chapa de magnésio metálico, colocada no fundo de um erlenmeyer. Imediatamente após a adição, uma seringa, com êmbolo móvel, livre de atrito, foi adaptada ao sistema para medir o volume de gás hidrogênio produzido, conforme mostra o esquema ao lado. Os dados obtidos, sob temperatura e pressão constantes, estão representados na tabela abaixo e no gráfico na página de respostas.</p>
+        <p>Tempo (min) Volume de H2 acumulado (cm3) a) Analisando os dados da tabela, um estudante de Química afirmou que a velocidade de formação do gás H2 varia durante o experimento. Explique como ele chegou a essa conclusão.</p>
+        <p>Em um novo experimento, a chapa de Mg foi substituída por raspas do mesmo metal, mantendo‐se iguais a massa da substância metálica e todas as demais condições experimentais.</p>
+        <p>b) No gráfico na página de respostas, esboce a curva que seria obtida no experimento em que se utilizou raspas de Mg. 0 0 1 15 2 27 3 36 4 44 5 51 6 57 7 62 8 66 9 69 10 71</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3</p>
+        <p>a) b)</p>
+        <p>Página 16/38 − Caderno Reserva 0000−00 16 538 Área Reservada Não escreva no topo da folha</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ésteres podem reagir com álcoois ou com aminas, como exemplificado a seguir:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as fórmulas estruturais dos produtos da reação entre acetato de etila (CH3CO2CH2CH3) e metilamina (CH3NH2). Considere o seguinte esquema de reação: O composto intermediário se transforma no produto final , por meio de uma reação intramolecular que resulta na formação de um novo ciclo na estrutura molecular do produto .</p>
+        </part>
+        <part>
+          <p>Escreva, nos espaços indicados na página de respostas, as fórmulas estruturais dos compostos e .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q04">
+      <statement>
+        <p>Para estudar a variação de temperatura associada à reação entre Zn(s) e Cu2+(aq), foram realizados alguns experimentos independentes, nos quais diferentes quantidades de Zn(s) foram adicionadas a 100 mL de diferentes soluções aquosas de CuSO4. A temperatura máxima (Tf) de cada mistura, obtida após a reação entre as substâncias, foi registrada conforme a tabela:</p>
+        <p>Experimento Quantidade de matéria de Zn(s) (mol) Quantidade de matéria de Cu2+(aq) (mol) Quantidade de matéria total* (mol) Tf (oC) 1 0 1,0 1,0 25,0 2 0,2 0,8 1,0 26,9 3 0,7 0,3 1,0 27,9 4 X Y 1,0 T4</p>
+        <p>*Quantidade de matéria total = soma das quantidades de matéria iniciais de Zn(s) e Cu 2+(aq).</p>
+        <p>a) Escreva a equação química balanceada que representa a transformação investigada.</p>
+        <p>b) Qual é o reagente limitante no experimento 3? Explique.</p>
+        <p>c) No experimento 4, quais deveriam ser os valores de X e Y para que a temperatura T4 seja a maior possível? Justifique sua resposta.</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3</p>
+        <p>a)</p>
+        <p>b)</p>
+        <p>Página 18/38 − Caderno Reserva 0000−00 18 978 Área Reservada Não escreva no topo da folha</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Algumas gotas de um indicador de pH foram adicionadas a uma solução aquosa saturada de CO2, a qual ficou vermelha. Dessa solução, 5 mL foram transferidos para uma seringa, cuja extremidade foi vedada com uma tampa (Figura I). Em seguida, o êmbolo da seringa foi puxado até a marca de 50 mL e travado nessa posição, observando‐se liberação de muitas bolhas dentro da seringa e mudança da cor da solução para laranja (Figura II). A tampa e a trava foram então removidas, e o êmbolo foi empurrado de modo a expulsar totalmente a fase gasosa, mas não o líquido (Figura III). Finalmente, a tampa foi recolocada na extremidade da seringa (Figura IV) e o êmbolo foi novamente puxado para a marca de 50 mL e travado (Figura V). Observou‐se, nessa situação, a liberação de poucas bolhas, e a solução ficou amarela. Considere que a temperatura do sistema permaneceu constante ao longo de todo o experimento.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique, incluindo em sua resposta as equações químicas adequadas, por que a solução aquosa inicial, saturada de CO2, ficou vermelha na presença do indicador de pH.</p>
+        </part>
+        <part>
+          <p>Por que a coloração da solução mudou de vermelho para laranja ao final da Etapa 1?</p>
+        </part>
+        <part>
+          <p>A pressão da fase gasosa no interior da seringa, nas situações ilustradas pelas figuras II e V, é a mesma? Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O gráfico ao lado apresenta a solubilidade em água, a 25 oC, de álcoois primários de cadeia linear, contendo apenas um grupo ─OH no extremo da cadeia não ramificada. Metanol, etanol e 1‐propanol são solúveis em água em quaisquer proporções.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Analise o gráfico e explique a tendência observada. Um químico recebeu 50 mL de uma solução de 1‐dodecanol (C12H25OH) em etanol. A essa solução, adicionou 450 mL de água, agitou a mistura e a deixou em repouso por alguns minutos. Esse experimento foi realizado a 15 oC.</p>
+        </part>
+        <part>
+          <p>Descreva o que o químico observou ao final da sequência de operações do experimento. Dados: ▪ 1‐dodecanol é insolúvel em soluções diluídas de etanol em água (൑ 10% em volume). ▪ ponto de fusão do 1‐dodecanol = 24 oC. ▪ a densidade do 1‐dodecanol é menor do que a de soluções diluídas de etanol em água. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 20/38 − Caderno Reserva 0000−00 20 626 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As Figuras I, II e III esquematizam a circulação sanguínea em diferentes vertebrados.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Analise a Figura II. A partir da cavidade apontada pela seta, ordene as demais cavidades cardíacas e os circuitos 1 e 2, na sequência correspondente à circulação do sangue.</p>
+        </part>
+        <part>
+          <p>Faça o mesmo, em relação à Figura III.</p>
+        </part>
+        <part>
+          <p>Qual(is) das três figuras mostra(m) o coração em que há mistura de sangue arterial e sangue venoso?</p>
+        </part>
+        <part>
+          <p>Dê um exemplo de grupo de vertebrados para o tipo de circulação esquematizado em cada uma das três figuras.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os genes que condicionam a visão para cores e a síntese da enzima G6PD (desidrogenase da glicose‐6‐fosfato) estão localizados no cromossomo X humano. O alelo recessivo d determina o daltonismo e o alelo recessivo g, a deficiência da enzima G6PD. No heredograma ao lado, o homem I‐1 é daltônico e tem também deficiência da enzima G6PD. Sua mulher I‐2 é homozigótica, com visão normal para cores, não tendo deficiência de G6PD. A filha II‐1 desse casal casou‐se com o homem II‐2, que possui visão normal para cores e não tem deficiência de G6PD. Os quatro filhos desse casal (III‐1, 2, 3 e 4) diferem entre si quanto aos fenótipos em relação à visão para cores e à síntese de G6PD.</p>
+        <p>Com relação a essas características,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>quais são os genótipos de I‐1 e I‐2?</p>
+        </part>
+        <part>
+          <p>quais são os genótipos de II‐1 e II‐2?</p>
+        </part>
+        <part>
+          <p>que fenótipos e respectivos genótipos os filhos de II‐1 e II‐2 podem ter?</p>
+        </part>
+        <part>
+          <p>explique como III‐1, 2, 3 e 4 podem ter herdado genótipos diferentes. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 22/38 − Caderno Reserva 0000−00 22 066 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O nematelminto Ascaris lumbricoides (lombriga) é um parasita que provoca graves danos à saúde humana.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantos hospedeiros o Ascaris lumbricoides tem durante seu ciclo de vida?</p>
+        </part>
+        <part>
+          <p>Em que fase de seu ciclo de vida o Ascaris lumbricoides entra no corpo humano?</p>
+        </part>
+        <part>
+          <p>Em que parte do corpo humano ocorre a reprodução do Ascaris lumbricoides?</p>
+        </part>
+        <part>
+          <p>Que medidas podem evitar a contaminação do ambiente por Ascaris lumbricoides?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em mamíferos saudáveis, a concentração de excreta nitrogenada difere na urina de herbívoros comedores de grama e de carnívoros estritos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que excreta nitrogenada está presente na urina dos animais de cada um desses grupos?</p>
+        </part>
+        <part>
+          <p>Em qual desses grupos de animais a concentração de excreta nitrogenada é maior? Justifique sua resposta. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 24/38 − Caderno Reserva 0000−00 24 406 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A autofecundação pode ocorrer em plantas. Por exemplo, um núcleo espermático do tubo polínico fecunda a oosfera, e o outro núcleo espermático se funde com os núcleos polares do saco embrionário, na mesma planta.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>No caso de autofecundação, a reprodução é sexuada? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>A que grupo de plantas corresponde o processo de fecundação exemplificado? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere duas populações das espécies A e B, que podem viver separadamente e que, se reunidas, estabelecem interações interespecíficas. Os gráficos abaixo representam o crescimento dessas populações.</p>
+        <p>Considere que populações das espécies A e B foram reunidas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Admitindo que a espécie A é parasita da espécie B, represente, nas coordenadas da página de respostas, o que é esperado para o crescimento da população da espécie B.</p>
+        </part>
+        <part>
+          <p>Admitindo que a espécie A é comensal da espécie B, represente, nas coordenadas da página de respostas, o que é esperado para o crescimento da população da espécie B. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 26/38 − Caderno Reserva 0000−00 26 846 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Vivemos numa forma de governo que não se baseia nas instituições de nossos vizinhos; ao contrário, servimos de modelo a alguns, ao invés de imitar outros. [...] Nela, enquanto no tocante às leis todos são iguais para a solução de suas divergências privadas, quando se trata de escolher (se é preciso distinguir em algum setor), não é o fato de pertencer a uma classe, mas o mérito, que dá acesso aos postos mais honrosos; inversamente, a pobreza não é razão para que alguém, sendo capaz de prestar serviços à cidade, seja impedido de fazê‐lo pela obscuridade de sua condição. Conduzimo‐nos liberalmente em nossa vida pública, e não observamos com uma curiosidade suspicaz [desconfiada] a vida privada de nossos concidadãos, pois não nos ressentimos com nosso vizinho se ele age como lhe apraz, nem o olhamos com ares de reprovação que, embora inócuos, lhe causariam desgosto. Ao mesmo tempo que evitamos ofender os outros em nosso convívio privado, em nossa vida pública nos afastamos da ilegalidade principalmente por causa de um temor reverente, pois somos submissos às autoridades e às leis, especialmente àquelas promulgadas para socorrer os oprimidos e às que, embora não escritas, trazem aos agressores uma desonra visível a todos.</p>
+        <p>Oração fúnebre de Péricles, 430 a.C., in Tucídides. História da Guerra do Peloponeso. Brasília: Editora UnB, 2001, p. 109. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Com base nas informações contidas no texto, identifique o sistema político nele descrito e indique suas principais características.</p>
+        </part>
+        <part>
+          <p>Identifique a cidade que foi a principal adversária de Atenas na Guerra do Peloponeso e diferencie os sistemas políticos vigentes em cada uma delas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O problema agrário era portanto o fundamental no ano de 1789, e é fácil compreender por que a primeira escola sistematizada de economia do continente, os fisiocratas franceses, tomara como verdade o fato de que a terra, e o aluguel da terra, era a única fonte de renda líquida. E o ponto crucial do problema agrário era a relação entre os que cultivavam a terra e os que a possuíam, os que produziam sua riqueza e os que a acumulavam.</p>
+        <p>Eric Hobsbawm. A era das revoluções. 1789‐1848. Rio de Janeiro: Paz e Terra, 1982, p. 29.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Caracterize o momento social e econômico por que a França passava no período a que se refere o texto.</p>
+        </part>
+        <part>
+          <p>Quais são as principais diferenças entre as propostas fisiocratas e as práticas mercantilistas anteriores a elas? 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 28/38 − Caderno Reserva 0000−00 28 286 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Subindo ao poder em outubro de 1930, Getúlio Vargas nele permaneceu por quinze anos, sucessivamente, como chefe de um governo provisório, presidente eleito pelo voto indireto e ditador. Deposto em 1945, seria eleito presidente pelo voto popular em 1950, não chegando a completar o mandato por se suicidar em 1954.</p>
+        <p>Boris Fausto. História do Brasil. 2ª ed. São Paulo: Edusp, 1995, p. 331. Adaptado.</p>
+        <p>O primeiro período de governo de Getúlio Vargas (1930‐1945) iniciou‐se com um golpe; o último (1951‐1954), com um processo eleitoral direto.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique outras duas diferenças entre esses períodos.</p>
+        </part>
+        <part>
+          <p>Caracterize as relações entre o Brasil e os Estados Unidos da América em cada um desses períodos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A República não foi uma transformação pacífica. Bem ao contrário. Para além da surpresa provocada pelo golpe de Estado de 15 de novembro, seguiu‐se uma década de conflitos e violências de toda ordem, na qual se sucederam as dissensões militares, os conflitos intraoligárquicos, os motins populares, a guerra civil, o atentado político contra a vida de um presidente da República. No interior dessas lutas se forjou a transformação do Estado Imperial em Estado Republicano, do Império Unitário em República Federativa, do parlamentarismo em presidencialismo, do bipartidarismo organizado nacionalmente em um sistema de partidos únicos estaduais. Forjou‐se um novo pacto entre as elites e um novo papel para as forças armadas.</p>
+        <p>Wilma Peres Costa. A espada de Dâmocles. São Paulo: Hucitec, 1996, p. 16.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique e caracterize um episódio conflituoso próprio dos primeiros anos da República no Brasil.</p>
+        </part>
+        <part>
+          <p>Explique o “novo papel para as forças armadas” a que se refere o texto. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 30/38 − Caderno Reserva 0000−00 30 934 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As duas imagens acima foram divulgadas durante a Segunda Guerra Mundial, respectivamente, na União Soviética e na Alemanha.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indique semelhanças e diferenças de maior relevância entre elas, no tocante à relação forma‐conteúdo.</p>
+        </part>
+        <part>
+          <p>Qual era a situação político‐militar vivida por esses países, no momento em que os cartazes foram produzidos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O Plano Colômbia inicial consistia antes de tudo em uma ajuda militar destinada à erradicação das plantações de droga. Os programas de fumigação não tiveram início com ele: existiram desde 1994. Isto não impediu um crescimento ainda maior da superfície cultivada. Com o Plano Colômbia, e sobretudo a partir de 2001, esses programas adquiriram nova dimensão. Entretanto, não parece que eles tenham tido, tampouco, mais sucesso.</p>
+        <p>Daniel Pécaut, “Lógicas econômicas, militares e políticas na ‘guerra’ colombiana”. In: C. Brigagão &amp; D. Proença Jr. (orgs.). Paz e terrorismo. São Paulo: Hucitec, 2004, p. 255.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual foi o papel desempenhado pelos Estados Unidos da América na implementação do “Plano Colômbia”?</p>
+        </part>
+        <part>
+          <p>A afirmação do autor de que o “Plano Colômbia” e outros programas semelhantes a ele, aparentemente, não tiveram grande sucesso se justifica? Explique. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 32/38 − Caderno Reserva 0000−00 32 374 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os gráficos abaixo representam a composição da população brasileira, por sexo e idade, nos anos de 1990 e 2013, bem como sua projeção para 2050. Observe que, para cada ano, está destacado o percentual da população economicamente ativa (PEA).</p>
+        <p>Com base nas informações acima e em seus conhecimentos, atenda ao que se pede.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Na atualidade, o Brasil encontra‐se no período denominado “janela demográfica”. Caracterize esse período.</p>
+        </part>
+        <part>
+          <p>Analise a pirâmide etária de 2050 e cite duas medidas que poderão ser tomadas pelo governo brasileiro para garantir o bem‐estar da população nesse contexto demográfico. Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere os mapas a seguir.</p>
+        <p>Os mapas representam alterações na distribuição espacial e quantitativa do efetivo de bovinos no Brasil.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique e explique dois fatores responsáveis por essa mudança.</p>
+        </part>
+        <part>
+          <p>Explique dois impactos ambientais decorrentes da alteração na distribuição espacial do efetivo de bovinos, no Brasil. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 34/38 − Caderno Reserva 0000−00 34 714 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A Coreia do Sul e a Coreia do Norte têm populações com a mesma composição étnica, mas modelos políticos e econômicos contrastantes.</p>
+        <p>Com base nas informações acima e em seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>descreva o processo de divisão política que levou à formação desses dois países situados na península da Coreia, caracterizando seus respectivos regimes políticos;</p>
+        </part>
+        <part>
+          <p>explique qual é a posição de cada um desses países em relação à questão nuclear atual;</p>
+        </part>
+        <part>
+          <p>explique a situação atual de cada um desses dois países, no contexto das exportações mundiais. Justifique com exemplos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere o mapa esquemático do rodoanel na região metropolitana de São Paulo.</p>
+        <p>Com base no mapa e em seus conhecimentos, atenda ao que se pede.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique um impacto ambiental e um impacto social que poderão ocorrer nessa região com a construção do trecho norte do rodoanel. Explique.</p>
+        </part>
+        <part>
+          <p>O Estado de São Paulo é um importante produtor/exportador de laranja e de seus derivados. Cite uma área com importante produção no Estado e identifique, a partir do mapa, os trajetos rodoviários mais utilizados para o escoamento dessa produção até o seu principal porto de exportação. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 Página 36/38 − Caderno Reserva 0000−00 36 154 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O perfil topográfico, abaixo, apresenta alguns aspectos estruturais da vegetação nativa e do comportamento dos totais anuais de chuva em um segmento que se estende do litoral até os contrafortes da Serra da Mantiqueira.</p>
+        <p>Com base nessas informações e em seus conhecimentos, atenda ao que se pede.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Das seções numeradas de 1 a 18, considere as que correspondem à Serra do Mar, identificando aquela onde, tendo em vista os fatores naturais, os processos erosivos podem ser mais frequentes e intensos. Justifique.</p>
+        </part>
+        <part>
+          <p>Observe que, na encosta escarpada da Serra da Mantiqueira, a estatura da vegetação aumenta em direção às partes mais baixas. Identifique duas causas desse fenômeno. Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Analise os dados de população e o PNB (Produto Nacional Bruto) da União Europeia e da Índia, apresentados abaixo.</p>
+        <p>Com base nessas informações e em seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>discuta a relação população/PNB na União Europeia e na Índia e compare as implicações sociais passíveis de serem inferidas dessas informações;</p>
+        </part>
+        <part>
+          <p>identifique um país asiático insular no qual a proporção entre população e PNB seja semelhante à da União Europeia. Analise a atual inserção desse país no cenário econômico mundial. 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2014 PROVA 3 FUVEST Fundação Universitária para o Vestibular|06/01/2014|15:48:36 XXX.XXX.XXX.XXX DD/MM/AAAA HH:MM:SS 000 000/000 FUVEST 2014 2ª Fase − Terceiro Dia (07/01/2014) 000/000 Página 38/38 − Caderno Reserva 0000−00 38 594 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

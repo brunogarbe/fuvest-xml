@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2016" phase="objective" day="0" variation="V1" date="2016-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Considere as seguintes armações: I. A função f(x) = log10 ( x−1 x ) é estritamente crescente no intervalo ]1, +∞[. II. A equação 2x+2 = 3x−1 possui uma única solução real. III. A equação (x + 1)x = x admite pelo menos uma solução real positiva. É (são) verdadeira(s) A ( ) apenas I. D ( ) I, II e III. B ( ) apenas I e II. E ( ) apenas III. C ( ) apenas II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Se x é um número natural com 2015 dígitos, então o número de dígitos da parte inteira de 7√x é igual a A ( ) 285. B ( ) 286. C ( ) 287. D ( ) 288. E ( ) 289.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Escolhendo-se, aleatoriamente, três números inteiros distintos no intervalo [1, 20], a probabilidade de que eles estejam, em alguma ordem, em progressão geométrica é igual a A ( ) 2 285. B ( ) 2 217. C ( ) 1 190. D ( ) 4 225. E ( ) 1 380.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Se tgx = √ 7 e x ∈[π, 3π 2 ], então sen3x é igual a A ( ) − √ 14 8 . B ( ) √ 14 8 . C ( ) √ 14 4 . D ( ) − √ 14 4 . E ( ) √ 14 6 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Seja (a1, a2, a3, . . .) a sequência denida da seguinte forma: a1 = 1000 e an = log10(1 + an−1) para n ≥2. Considere as armações a seguir: I. A sequência (an) é decrescente. II. an &gt; 0 para todo n ≥1. III. an &lt; 1 para todo n ≥3. É (são) verdadeira(s) A ( ) apenas I. D ( ) I, II e III. B ( ) apenas I e II. E ( ) apenas III. C ( ) apenas II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Seja Pn um polígono convexo regular de n lados, com n ≥3. Considere as armações a seguir: I. Pn é inscritível numa circunferência. II. Pn é circunscritível a uma circunferência. III. Se ℓn é o comprimento de um lado de Pn e an é o comprimento de um apótema de Pn, então an ℓn ≤1 para todo n ≥3. É (são) verdadeira(s) A ( ) apenas I. D ( ) apenas I e II. B ( ) apenas II. E ( ) I, II e III. C ( ) apenas III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Um triângulo está inscrito numa circunferência de raio 1 cm. O seu maior lado mede 2 cm e sua área é de 1 √ 2 cm2. Então, o menor lado do triângulo, em cm, mede A ( ) 1 −1 √ 2. B ( ) √ 2 − √ 2. C ( ) 1 √ 2. D ( ) 2 √ 6. E ( ) 3 √ 6.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Se o sistema de equações    x + y + 4z = 2 x + 2y + 7z = 3 3x + y + az = b é impossível, então os valores de a e b são tais que A ( ) a = 6 e b̸ = 4. D ( ) a = 6 e b = 4. B ( ) a̸ = 6 e b̸ = 4. E ( ) a é arbitrário e b̸ = 4. C ( ) a̸ = 6 e b = 4.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Se P e Q são pontos que pertencem à circunferência x2 + y2 = 4 e à reta y = 2(1 −x), então o valor do cosseno do ângulo P ˆOQ é igual a A ( ) −3 5. B ( ) −3 7. C ( ) −2 5. D ( ) −4 5. E ( ) −1 7.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Um triângulo retângulo tem perímetro igual a ℓ √ 5, em que ℓé o comprimento da hipotenusa. Se α e β são seus ângulos agudos, com α &lt; β, então sen(β −α) é igual a A ( ) 5 −2 √ 5. D ( ) √ 20 √ 5 −44. B ( ) −6 + 3 √ 5. E ( ) √ 18 √ 5 −40. C ( ) √ 16 √ 5 −35.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Se M = [ 1 −1 2 0 ] e N = [ 2 1 −1 3 ] , então MN T −M −1N é igual a A ( ) [ 3 2 −5 2 5 2 −3 2 ] B ( ) [ 3 2 −1 2 7 2 −5 2 ] C ( ) [ 3 2 −11 2 13 2 −5 2 ] D ( ) [ 3 2 −5 2 13 2 −3 2 ] E ( ) [ 3 2 −11 2 13 2 −3 2 ]</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Considere as armações a seguir: I. Se z e w são números complexos tais que z−iw = 1−2i e w−z = 2+3i, então z2+w2 = −3+6i. II. A soma de todos os números complexos z que satisfazem 2|z|2 + z2 = 4 + 2i é igual a zero. III. Se z = 1 −i, então z59 = 229(−1 + i). É (são) verdadeira(s) A ( ) apenas I. D ( ) apenas II e III. B ( ) apenas I e II. E ( ) I, II e III. C ( ) apenas I e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Sejam λ uma circunferência de raio 4 cm e PQ uma corda em λ de comprimento 4 cm. As tangentes a λ em P e em Q interceptam-se no ponto R exterior a λ. Então, a área do triângulo PQR, em cm2, é igual a A ( ) 2 √ 3 3 . B ( ) 3 √ 2 2 . C ( ) √ 6 2 . D ( ) 2 √ 3 5 . E ( ) 4 √ 3 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Se a reta de equação x = a divide o quadrilátero cujos vértices são (0, 1), (2, 0), (4, 0) e (6, 4) em duas regiões de mesma área, então o valor de a é igual a A ( ) 2 √ 5 −1. B ( ) 2 √ 6 −1. C ( ) 3 √ 5 −4. D ( ) 2 √ 7 −2. E ( ) 3 √ 7 −5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Seja p o polinômio dado por p(x) = x8 + xm −2xn, em que os expoentes 8, m, n formam, nesta ordem, uma progressão geométrica cuja soma dos termos é igual a 14. Considere as seguintes armações: I. x = 0 é uma raiz dupla de p. II. x = 1 é uma raiz dupla de p. III. p tem quatro raízes com parte imaginária não nula. Destas, é (são) verdadeira(s) A ( ) apenas I. D ( ) apenas II e III. B ( ) apenas I e II. E ( ) I, II e III. C ( ) apenas I e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Seja ABC um triângulo equilátero e suponha que M e N são pontos pertencentes ao lado BC tais que BM = MN = NC. Sendo α a medida, em radianos, do ângulo M ˆAN, então o valor de cos α é A ( ) 13 14. B ( ) 14 15. C ( ) 15 16. D ( ) 16 17. E ( ) 17 18.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Uma esfera S1, de raio R &gt; 0, está inscrita num cone circular reto K. Outra esfera, S2, de raio r, com 0 &lt; r &lt; R, está contida no interior de K e é simultaneamente tangente à esfera S1 e à superfície lateral de K. O volume de K é igual a A ( ) πR5 3r(R −r). B ( ) 2πR5 3r(R −r). C ( ) πR5 r(R −r). D ( ) 4πR5 3r(R −r). E ( ) 5πR5 3r(R −r).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Considere o polinômio p com coecientes complexos denido por p(z) = z4 + (2 + i)z3 + (2 + i)z2 + (2 + i)z + (1 + i). Podemos armar que A ( ) nenhuma das raízes de p é real. B ( ) não existem raízes de p que sejam complexas conjugadas. C ( ) a soma dos módulos de todas as raízes de p é igual a 2 + √ 2. D ( ) o produto dos módulos de todas as raízes de p é igual a 2 √ 2. E ( ) o módulo de uma das raízes de p é igual a √ 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Pintam-se N cubos iguais utilizando-se 6 cores diferentes, uma para cada face. Considerando que cada cubo pode ser perfeitamente distinguido dos demais, o maior valor possível de N é igual a A ( ) 10 B ( ) 15 C ( ) 20 D ( ) 25 E ( ) 30</p>
+      </statement>
+    </essay_question>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Em um triângulo equilátero ABC de lado 2, considere os pontos P, M e N pertencentes aos lados AB, BC e AC, respectivamente, tais que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>P é o ponto médio de AB;</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>M é o ponto médio de BC;</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>PN é a bissetriz do ângulo A ˆPC. Então, o comprimento do segmento MN é igual a A ( ) √ 10 −4 √ 3 D ( ) √ 10 −5 √ 3 B ( ) √ 5 −2 √ 3 E ( ) √ 5 √ 3 −5 C ( ) √ 6 −3 √ 3 AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Seja f a função denida por f(x) = logx+1(x2 −2x −8). Determine: a) O domínio Df da função f. b) O conjunto de todos os valores de x ∈Df tais que f(x) = 2. b) O conjunto de todos os valores de x ∈Df tais que f(x) &gt; 1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Sejam x e y pertencentes ao intervalo [0, π]. Determine todos os pares ordenados (x, y) tais que { √ 2 cos x −sen y = 1 2 √ 2sen x + √ 3 cos y = −1 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Um hexágono convexo regular H e um triângulo equilátero T estão inscritos em circunferências de raios RH e RT, respectivamente. Sabendo-se que H e T têm mesma área, determine a razão RH RT .</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja A a matriz de ordem 3 × 2, dada por A =   1 0 0 1 1 1  .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine todas as matrizes B tais que BA = I2.</p>
+        </part>
+        <part>
+          <p>Existe uma matriz B com BA = I2 que satisfaça BBT = I2? Se sim, dê um exemplo de uma dessas matrizes.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Numa certa brincadeira, um menino dispõe de uma caixa contendo quatro bolas, cada qual marcada com apenas uma destas letras: N, S, L e O. Ao retirar aleatoriamente uma bola, ele vê a letra correspondente e devolve a bola à caixa. Se essa letra for N, ele dá um passo na direção Norte; se S, em direção Sul, se L, na direção Leste e se O, na direção Oeste. Qual a probabilidade de ele voltar para a posição inicial no sexto passo?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Sejam S um subconjunto de R2 e P = (a, b) um ponto de R2. Dene-se distância de P a S, d(P, S), como a menor das distâncias d(P, Q), com Q ∈S: d(P, S) = min{d(P, Q) : Q ∈S}. Sejam S1 = {(x, y) ∈R2 : x = 0 e y ≥2} e S2 = {(x, y) ∈R2 : y = 0}. a) Determine d(P, S1) quando P = (1, 4) e d(Q, S1) quando Q = (−3, 0). b) Determine o lugar geométrico dos pontos do plano equidistantes de S1 e de S2.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Sejam a, b, c números reais com a̸ = 0.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Mostre que a mudança x + 1 x = z transforma a equação ax4 + bx3 + cx2 + bx + a = 0 numa equação de segundo grau.</p>
+        </part>
+        <part>
+          <p>Determine todas as raízes da equação x4 + 3x3 −2x2 + 3x + 1 = 0.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere as circunferências λ1 : x2 + y2 −8x + 4y = 20 e λ2 : x2 + y2 −2x −8y = 8. O triângulo ABC satisfaz as seguintes propriedades:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o lado AB coincide com a corda comum a λ1 e λ2;</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o vértice B pertence ao primeiro quadrante;</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o vértice C pertence a λ1 e a reta que contém AC é tangente a λ2. Determine as coordenadas do vértice C.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Determine o termo constante do resto da divisão do polinômio (1 + x + x2)40 por (1 + x)3.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Em um cone circular reto de altura 1 e raio da base 1 inscreve-se um tetraedro regular com uma de suas faces paralela à base do cone, e o vértice oposto coincidindo com o centro da base do cone. Determine o volume do tetraedro.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

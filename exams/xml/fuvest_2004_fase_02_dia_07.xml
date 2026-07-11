@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2004" phase="discursive" day="0" variation="V1" date="2004-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma reação química importante, que deu a seus descobridores (O.Diels e K.Alder) o prêmio Nobel (1950), consiste na formação de um composto cíclico, a partir de um composto com duplas ligações alternadas entre átomos de carbono (dieno) e outro, com pelo menos uma dupla ligação, entre átomos de carbono, chamado de dienófilo. Um exemplo dessa transformação é:</p>
+        <p>Compostos com duplas ligações entre átomos de carbono podem reagir com HBr, sob condições adequadas, como indicado: Considere os compostos I e II, presentes no óleo de lavanda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O composto III reage com um dienófilo, produzindo os compostos I e II. Mostre a fórmula estrutural desse dienófilo e nela indique, com setas, os átomos de carbono que formaram ligações com os átomos de carbono do dieno, originando o anel.</p>
+        </part>
+        <part>
+          <p>Mostre a fórmula estrutural do composto formado, se 1 mol do composto II reagir com 2 mols de HBr, de maneira análoga à indicada para a adição de HBr ao 2-metilpropeno, completando a equação química da página ao lado.</p>
+        </part>
+        <part>
+          <p>Na fórmula estrutural do composto II, (página ao lado), assinale, com uma seta, o átomo de carbono que, no produto da reação do item b, será assimétrico. Justifique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Tensoativos são substâncias que promovem a emulsificação de uma mistura de água e óleo, não permitindo sua separação em camadas distintas. Esta propriedade se deve ao fato de possuirem, em sua estrutura molecular, grupos com grande afinidade pela água (hidrofílicos) e também grupos com afinidade pelo óleo (lipofílicos). Um tensoativo, produzido a partir de duas substâncias naturais, sendo uma delas a sacarose (C12H22O11), é utilizado na produção de alimentos tais como sorvetes, maioneses e molhos para salada. Sua fórmula estrutural é mostrada na página ao lado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é a fórmula molecular do composto que, ao reagir com a sacarose, produz o tensoativo citado? A que função orgânica pertence?</p>
+        </part>
+        <part>
+          <p>Na fórmula estrutural do tensoativo, circunde, com uma linha pontilhada, a parte hidrofílica e a parte lipofílica. Justifique sua escolha, em termos de forças de interação do tensoativo com a água e com o óleo. Folha de Resposta da questão Q.01 e Q.02</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="01">
+      <statement>
+        <p>a)</p>
+        <p>b) + 2HBr</p>
+        <p>c)</p>
+        <p>_____________________________________________________________________________</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A análise elementar de um determinado ácido carboxílico resultou na fórmula mínima C2H4O. Determinada amostra de 0,550 g desse ácido foi dissolvida em água, obtendo-se 100 mL de solução aquosa. A esta, foram adicionadas algumas gotas de fenolftaleína e, lentamente, uma solução aquosa de hidróxido de sódio, de concentração 0,100 mol/L. A cada adição, a mistura era agitada e, quando já tinham sido adicionados 62,4 mL da solução de hidróxido de sódio, a mistura, que era incolor, tornou-se rósea.</p>
+        <p>Para o ácido analisado,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>calcule a massa molar.</p>
+        </part>
+        <part>
+          <p>determine a fórmula molecular.</p>
+        </part>
+        <part>
+          <p>dê as possíveis fórmulas estruturais.</p>
+        </part>
+        <part>
+          <p>dê as fórmulas estruturais de dois ésteres isômeros do ácido considerado. Dados: massa molar (g/mol) H....... 1,0 C..... 12,0 O .... 16,0</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um experimentador tentou oxidar zinco (Zn) com peróxido de hidrogênio (H2O2), em meio ácido. Para isso, adicionou, ao zinco, solução aquosa de peróxido de hidrogênio, em excesso, e, inadvertidamente, utilizou ácido iodídrico [HI(aq)] para acidular o meio. Para sua surpresa, obteve vários produtos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as equações químicas balanceadas que representam as reações de oxirredução ocorridas no experimento, incluindo a que representa a decomposição do peróxido de hidrogênio, pela ação catalítica do metal.</p>
+        </part>
+        <part>
+          <p>Poderá ocorrer reação entre o peróxido de hidrogênio e o ácido iodídrico? Justifique, utilizando semi-reações e os correspondentes potenciais padrão de redução. Dados: Potenciais padrão de redução (V): peróxido de hidrogênio, em meio ácido, dando água........................ 1,78 oxigênio (O2), em meio ácido, dando peróxido de hidrogênio........... 0,70 iodo (I2) dando íons iodeto ................................................................. 0,54 íons H+ dando hidrogênio gasoso (H2)............................................... 0,00 íons Zn2+ dando zinco metálico........................................................- 0,76</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Gráfico 1 Gráfico 2</p>
+        <p>O produto iônico da água, Kw, varia com a temperatura conforme indicado no gráfico 1.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Na temperatura do corpo humano, 36 ºC, 1 - qual é o valor de Kw? 2 - qual é o valor do pH da água pura e neutra? Para seu cálculo, utilize o gráfico 2.</p>
+        </part>
+        <part>
+          <p>A reação de autoionização da água é exotérmica ou endotérmica? Justifique sua resposta, analisando dados do gráfico 1. Assinale, por meio de linhas de chamada, todas as leituras feitas nos dois gráficos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Num laboratório de ensino de Química, foram realizados dois experimentos:</p>
+        <p>I) Uma solução aquosa bastante concentrada de nitrato de prata (AgNO3) foi adicionada, gradativamente, a 100 mL de uma solução aquosa de cloreto de sódio de concentração desconhecida. II) Fluoreto de lítio sólido (LiF) foi adicionado, gradativamente, a 100 mL de água pura.</p>
+        <p>Em ambos os experimentos, registrou-se a condutibilidade elétrica em função da quantidade (em mols) de AgNO3 e LiF adicionados. No experimento I, a solução de AgNO3 era suficientemente concentrada para que não houvesse variação significativa do volume da solução original de cloreto de sódio. No experimento II, a quantidade total de LiF era tão pequena que variações de volume do líquido puderam ser desprezadas.</p>
+        <p>Utilize o gráfico para responder:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual dos registros, X ou Y, deve corresponder ao experimento I e qual, ao experimento II? Explique seu raciocínio.</p>
+        </part>
+        <part>
+          <p>Qual era a concentração da solução de cloreto de sódio original? Justifique.</p>
+        </part>
+        <part>
+          <p>Qual é a solubilidade do LiF, em mol por 100 mL de água? Justifique. Dados: O produto de solubilidade do cloreto de prata é igual a 1,8 x 10-10. A contribuição dos íons nitrato e cloreto, para a condutibilidade da solução, é praticamente a mesma.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O Veículo Lançador de Satélites brasileiro emprega, em seus propulsores, uma mistura de perclorato de amônio sólido (NH4CλO4) e alumínio em pó, junto com um polímero, para formar um combustível sólido.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Na decomposição térmica do perclorato de amônio, na ausência de alumínio, formam-se quatro produtos. Um deles é a água e os outros três são substâncias simples diatômicas, duas das quais são componentes naturais do ar atmosférico. Escreva a equação balanceada que representa essa decomposição.</p>
+        </part>
+        <part>
+          <p>Quando se dá a ignição do combustível sólido, todo o oxigênio liberado na decomposição térmica do perclorato de amônio reage com o alumínio, produzindo óxido de alumínio (Aλ2O3). Escreva a equação balanceada representativa das transformações que ocorrem pela ignição do combustível sólido.</p>
+        </part>
+        <part>
+          <p>Para uma mesma quantidade de NH4CλO4, haverá uma diferença de calor liberado se sua decomposição for efetuada na presença ou na ausência de alumínio. Quanto calor a mais será liberado se 2 mols de NH4CλO4 forem decompostos na presença de alumínio? Mostre o cálculo. Dado: Calor de formação do óxido de alumínio = -1,68 x 103 kJ/mol</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para demonstrar a combustão de substâncias em oxigênio puro, este gás pode ser gerado a partir de água sanitária e água oxigenada, que contêm, respectivamente, hipoclorito de sódio e peróxido de hidrogênio. A reação que ocorre pode ser representada por NaCλO + H2O2 → NaCλ + H2O + O2 (g) É assim que, num frasco, coloca-se certo volume de água oxigenada e acrescenta-se, aos poucos, certo volume de água sanitária. Observa-se forte efervescência. Ao final da adição, tampa-se o frasco com um pedaço de papelão. Em seguida, palha de aço, presa a um fio de cobre, é aquecida em uma chama até ficar em brasa. O frasco com oxigênio é destampado e, rapidamente, a palha de aço rubra é nele inserida. Então, observa-se luminosidade branca intensa, com partículas de ferro incandescentes espalhando-se pelo frasco.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule o volume de água sanitária quando se usa, no experimento, um frasco de volume adequado, sabendo-se que deve ser gerado, nas condições ambiente, um volume de 500 mL de oxigênio, volume este suficiente para expulsar o ar e preencher o frasco.</p>
+        </part>
+        <part>
+          <p>Explique por que, ao ar atmosférico, o ferro fica apenas vermelho rubro, mas queima rapidamente, quando exposto a oxigênio puro. Dados: volume molar do oxigênio nas condições ambiente .........25,0 L/mol massa molar do Cλ...........................................................35,5 g/mol densidade da água sanitária................................................1,0 g/mL composição da água sanitária: 2,13 g de Cλ, na forma de hipoclorito, em 100 g de solução aquosa.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando acetaldeído é tratado com solução aquosa de hidróxido de sódio, forma-se um aldol (composto que contém os grupos OH e C=O) : Essa reação, chamada de reação aldólica, ocorre com aldeídos e cetonas que possuem pelo menos um átomo de hidrogênio ligado ao átomo de carbono α em relação ao grupo carbonila. Considere os compostos:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Se os compostos acima forem tratados, separadamente, com solução aquosa de hidróxido de sódio, apenas um deles produzirá um aldol. Escreva a fórmula estrutural completa (com todos os átomos de C, H e O) desse reagente. Justifique por que os demais compostos não darão a reação aldólica nestas condições.</p>
+        </part>
+        <part>
+          <p>Escreva a equação química que representa a transformação citada no item a, dando a fórmula estrutural do aldol formado.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Industrialmente, alumínio é obtido a partir da bauxita. Esta é primeiro purificada, obtendo-se o óxido de alumínio, Aλ2O3, que é, em seguida, misturado com um fundente e submetido a uma eletrólise ígnea, obtendo-se, então, o alumínio. As principais impurezas da bauxita são: Fe2O3, que é um óxido básico e SiO2, que é um óxido ácido. Quanto ao Aλ2O3, trata-se de um óxido anfótero, isto é, de um óxido que reage tanto com ácidos quanto com bases.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Na primeira etapa de purificação da bauxita, ela é tratada com solução aquosa concentrada de hidróxido de sódio. Neste tratamento, uma parte apreciável do óxido de alumínio solubiliza-se, formando NaAλ(OH)4. Escreva a equação química balanceada que representa tal transformação.</p>
+        </part>
+        <part>
+          <p>Se a bauxita fosse tratada com solução aquosa concentrada de ácido clorídrico, quais óxidos seriam solubilizados? Justifique por meio de equações químicas balanceadas.</p>
+        </part>
+        <part>
+          <p>Na eletrólise do óxido de alumínio fundido, usam-se várias cubas eletrolíticas ligadas em série, através das quais passa uma corrente elétrica elevada. Se n cubas são ligadas em série e a corrente é I, qual deveria ser a corrente, caso fosse usada apenas uma cuba, para produzir a mesma quantidade de alumínio por dia? Justifique, com base nas leis da eletrólise.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

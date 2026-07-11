@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2013" phase="objective" day="0" variation="V1" date="2013-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Sejam A, B e C subconjuntos de um conjunto universo U. Das aﬁrmações: I. A ∖(B ∩C) = (A ∖B) ∪(A ∖C); II. (A ∩C) ∖B = A ∩BC ∩C; III. (A ∖B) ∩(B ∖C) = (A ∖B) ∖C, é (são) verdadeira(s) A ( ) apenas I. B ( ) apenas II. C ( ) apenas I e II. D ( ) apenas I e III. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. A soma das raízes da equação em C, z8 −17z4 + 16 = 0, tais que z −|z| = 0, é A ( ) 1. B ( ) 2. C ( ) 3. D ( ) 4. E ( ) 5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Considere a equação em C, (z −5 + 3 i)4 = 1. Se z0 é a solução que apresenta o menor argumento principal dentre as quatro soluções, então o valor de |z0| é A ( ) √ 29. B ( ) √ 41. C ( ) 3 √ 5. D ( ) 4 √ 3 E ( ) 3 √ 6.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. A soma de todos os números reais x que satisfazem a equação 8 √x+1 + 44 2 √x+1 + 64 = 19 4 √x+1 é igual a A ( ) 8. B ( ) 12. C ( ) 16. D ( ) 18. E ( ) 20.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Se os números reais a e b satisfazem, simultaneamente, as equações a √ b = 1 2 e ln(a2 + b) + ln 8 = ln 5, um possível valor de a b é A ( ) √ 2 2 . B ( ) 1. C ( ) √ 2. D ( ) 2. E ( ) 3 √ 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere as funções f e g, da variável real x, deﬁnidas, respectivamente, por f(x) = ex2+ax+b e g(x) = ln ax 3b , em que a e b são números reais. Se f(−1) = 1 = f(−2), então pode-se aﬁrmar sobre a função composta g ◦f que A ( ) g ◦f(1) = ln 3. B ( ) ∄g ◦f(0). C ( ) g ◦f nunca se anula. D ( ) g ◦f está deﬁnida apenas em {x ∈R : x &gt; 0}. E ( ) g ◦f admite dois zeros reais distintos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Considere funções f, g, f + g : R →R. Das aﬁrmações: I. Se f e g são injetoras, f + g é injetora; II. Se f e g são sobrejetoras, f + g é sobrejetora; III. Se f e g não são injetoras, f + g não é injetora; IV. Se f e g não são sobrejetoras, f + g não é sobrejetora, é (são) verdadeira(s) A ( ) nenhuma. B ( ) apenas I e II. C ( ) apenas I e III. D ( ) apenas III e IV. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Seja n &gt; 6 um inteiro positivo não divisível por 6. Se, na divisão de n2 por 6, o quociente é um número ímpar, então o resto da divisão de n por 6 é A ( ) 1. B ( ) 2. C ( ) 3. D ( ) 4. E ( ) 5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Considere a equação 5 n=0 an xn = 0 em que a soma das raízes é igual a −2 e os coeﬁcientes a0, a1, a2, a3, a4 e a5 formam, nesta ordem, uma progressão geométrica com a0 = 1. Então 5 n=0 an é igual a A ( ) −21. B ( ) −2 3. C ( ) 21 32. D ( ) 63 32. E ( ) 63.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Seja λ solução real da equação √ λ + 9 + √ 2λ + 17 = 12. Então a soma das soluções z, com Re z &gt; 0, da equação z4 = λ −32, é A ( ) √ 2. B ( ) 2 √ 2. C ( ) 4 √ 2. D ( ) 4. E ( ) 16.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Seja p uma probabilidade sobre um espaço amostral ﬁnito Ω. Se A e B são eventos de Ωtais que p(A) = 1 2, p(B) = 1 3 e p(A ∩B) = 1 4, as probabilidades dos eventos A ∖B, A ∪B e AC ∪BC são, respectivamente, A ( ) 1 4, 5 6 e 1 4. B ( ) 1 6, 5 6 e 1 4. C ( ) 1 6, 7 12 e 3 4. D ( ) 1 3, 5 6 e 1 3. E ( ) 1 4, 7 12 e 3 4.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Considere os seguintes resultados relativamente ao lançamento de uma moeda: I. Ocorrência de duas caras em dois lançamentos. II. Ocorrência de três caras e uma coroa em quatro lançamentos. III. Ocorrência de cinco caras e três coroas em oito lançamentos. Pode-se aﬁrmar que A ( ) dos três resultados, I é o mais provável. B ( ) dos três resultados, II é o mais provável. C ( ) dos três resultados, III é o mais provável. D ( ) os resultados I e II são igualmente prováveis. E ( ) os resultados II e III são igualmente prováveis.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Considere A ∈M5x5(R) com det(A) = √ 6 e α ∈R ∖{0}. Se det(αAtAAt) = √ 6α2, o valor de α é A ( ) 1 6. B ( ) √ 6 6 . C ( ) 3√ 36 6 . D ( ) 1. E ( ) √ 216 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Sejam a um número real e n o número de todas as soluções reais e distintas x ∈[0, 2π] da equação cos8 x −sen8 x + 4 sen6 x = a. Das aﬁrmações: I. Se a = 0, então n = 0; II. Se a = 1 2, então n = 8; III. Se a = 1, então n = 7; IV. Se a = 3, então n = 2, é (são) verdadeira(s) A ( ) apenas I. B ( ) apenas III. C ( ) apenas I e III. D ( ) apenas II e IV. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Se cos 2x = 1 2, então um possível valor de cotg x −1 cossec(x −π) −sec(π −x) é A ( ) √ 3 2 . B ( ) 1. C ( ) √ 2. D ( ) √ 3. E ( ) 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Uma reta r tangencia uma circunferência num ponto B e intercepta uma reta s num ponto A exterior à circunferência. A reta s passa pelo centro desta circunferência e a intercepta num ponto C, tal que o ângulo A ∧ BC seja obtuso. Então o ângulo C ∧ AB é igual a A ( ) 1 2A ∧ BC. B ( ) 3 2π −2 A ∧ BC. C ( ) 2 3 A ∧ BC. D ( ) 2 A ∧ BC −π. E ( ) A ∧ BC −π 2 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Sobre a parábola deﬁnida pela equação x2 +2xy +y2 −2x+4y +1 = 0 pode-se aﬁrmar que A ( ) ela não admite reta tangente paralela ao eixo Ox. B ( ) ela admite apenas uma reta tangente paralela ao eixo Ox. C ( ) ela admite duas retas tangentes paralelas ao eixo Ox. D ( ) a abscissa do vértice da parábola é x = −1. E ( ) a abscissa do vértice da parábola é x = −2 3.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Das aﬁrmações: I. Duas retas coplanares são concorrentes; II. Duas retas que não têm ponto em comum são reversas; III. Dadas duas retas reversas, existem dois, e apenas dois, planos paralelos, cada um contendo uma das retas; IV. Os pontos médios dos lados de um quadrilátero reverso deﬁnem um paralelogramo, é (são) verdadeira(s) apenas A ( ) III. B ( ) I e III. C ( ) II e III. D ( ) III e IV. E ( ) I e II e IV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Um plano intercepta as arestas de um triedro trirretângulo de vértice V, determinando um triângulo ABC cujos lados medem, respectivamente, √ 10, √ 17 e 5 cm. O volume, em cm3, do sólido VABC é A ( ) 2. B ( ) 4. C ( ) √ 17. D ( ) 6. E ( ) 5 √ 10.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. No sistema xOy os pontos A = (2, 0), B = (2, 5) e C = (0, 1) são vértices de um triângulo inscrito na base de um cilindro circular reto de altura 8. Para este cilindro, a razão volume área total da superfície, em unidade de comprimento, é igual a A ( ) 1. B ( ) 100 105. C ( ) 10 11. D ( ) 100 115. E ( ) 5 6. AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Para z = 1+iy, y &gt; 0, determine todos os pares (a, y), a &gt; 1, tais que z10 = a. Escreva a e y em função de Arg z.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Determine o maior domínio D ⊂R da função f : D →R , f(x) = log x( π 4 −x)(4 sen x cos x −1).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Considere o polinômio P(m) = am2 −3m −18, em que a ∈R é tal que a soma das raízes de P é igual a 3. Determine a raiz m de P tal que duas, e apenas duas, soluções da equação em x, x3 + mx2 + (m + 4)x + 5 = 0, estejam no intervalo ]−2, 2[ .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Quantos tetraedros regulares de mesma dimensão podemos distinguir usando 4 cores distintas para pintar todas as suas faces? Cada face só pode ser pintada com uma única cor.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Considere o sistema na variável real x: x2 −x = α x −x3 = β. (a) Determine os números reais α e β para que o sistema admita somente soluções reais. (b) Para cada valor de β encontrado em (a), determine todas as soluções da equação x −x3 = β.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Considere o sistema nas variáveis reais x e y : x sen α + 3 y cos α = a x cos α + y sen α = b, com α ∈[0, π 2[ e a, b ∈R. Analise para que valores de α, a e b o sistema é (i) possível determinado, (ii) possível indeterminado ou (iii) impossível, respectivamente. Nos casos (i) e (ii), encontre o respectivo conjunto-solução.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Encontre os pares (α, β) ∈]0, π 2[ × ]0, π 2[ que satisfazem simultaneamente as equações (tg α + cotg β) cos α sen β −2 cos2(α −β) = −1 e √ 3 sen(α + β) + cos(α + β) = √ 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Determine a área da ﬁgura plana situada no primeiro quadrante e delimitada pelas curvas (y −x −2)(y + x 2 −2) = 0 e x2 −2x + y2 −8 = 0.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Em um triângulo de vértices A, B e C, a altura, a bissetriz e a mediana, relativamente ao vértice C, dividem o ângulo B ∧ CA em quatro ângulos iguais. Se l é a medida do lado oposto ao vértice C, calcule: (a) A medida da mediana em função de l. (b) Os ângulos C ∧ AB, A ∧ BC e B ∧ CA.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Seja ABCDEFGH um paralelepípedo de bases retangulares ABCD e EFGH, em que A, B, C e D são, respectivamente, as projeções ortogonais de E, F, G e H. As medidas das arestas distintas AB, AD e AE constituem uma progressão aritmética cuja soma é 12 cm. Sabe-se que o volume da pirâmide ABCF é igual a 10 cm3. Calcule: (a) As medidas das arestas do paralelepípedo. (b) O volume e a área total da superfície do paralelepípedo.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

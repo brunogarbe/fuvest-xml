@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2022" phase="discursive" day="0" variation="V1" date="2022-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere a seguinte reação química hipotética: 2𝑋+ 𝑌⇌3𝑍 A velocidade dessa reação é igual à constante de velocidade multiplicada pelas concentrações da espécie X elevada ao quadrado e da espécie Y. A constante de velocidade obedece a equação de Arrhenius: 𝑘= 𝐴. 𝑒ቀషಶೌ ೃ೅ቁ em que Ea representa a energia de ativação e A representa o fator de frequência. Sabendo-se que a energia de ativação da reação é igual a 24,94 kJ∙mol−1 a 300 K, concentrações iniciais de X e Y iguais a 0,2 mol∙L−1 e Z igual a zero, determine o valor numérico da:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>constante de velocidade da reação inversa, considerando o atingimento do equilíbrio quando a concentração de Z é igual a 0,15 mol∙L−1.</p>
+        </part>
+        <part>
+          <p>velocidade da reação química, considerando o fator de frequência igual a 25,00 × e10 mol−2⋅L2⋅s−1. 14</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. O método de determinação da quantidade de nitrogênio amoniacal (NHx) em amostras de efluentes baseia-se nas seguintes etapas: (i) alcalinização da amostra, com excesso de base forte para produção de amônia, (ii) a qual é posteriormente destilada e recolhida em uma quantidade conhecida de uma solução padrão de ácido bórico. Após reação da amônia com o ácido, (iii) o borato formado é titulado com uma solução padrão de ácido sulfúrico, formando sulfato de amônio. Considere que uma amostra de 20,00 mL de efluente com densidade de 1,50 g∙cm−3 foi alcalinizada com excesso de NaOH e que a titulação do borato consumiu 18,00 mL de uma solução aquosa 0,500 mol∙L−1 em ácido sulfúrico. Com base nessas informações:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>escreva as reações químicas balanceadas que representam cada uma das etapas envolvidas nesse método.</p>
+        </part>
+        <part>
+          <p>calcule o valor numérico da massa (em g) de sulfato de amônio formado.</p>
+        </part>
+        <part>
+          <p>calcule o valor numérico da massa (em g) de nitrogênio na amostra.</p>
+        </part>
+        <part>
+          <p>calcule o valor numérico do percentual do elemento N na amostra. 15</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Um químico carregou um reator com 20 atm de uma mistura gasosa, constituída de uma substância A e de um componente inerte I, em uma proporção molar de A:I igual a 4:1. A temperatura do reator foi mantida constante e a pressão total foi monitorada, o que permitiu determinar a velocidade da reação em função do tempo, de acordo com os dados da tabela. t (min) 0,89 2,08 3,75 6,25 10,42 18,75 P (atm) 21 22 23 24 25 26 v (atm.min−1) 1,96 1,44 1,00 0,64 0,36 0,16 Com base nesses dados e sabendo que a estequiometria da reação é 2A(g) → 3B(g), pede-se:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O valor numérico da ordem da reação.</p>
+        </part>
+        <part>
+          <p>O valor numérico da constante de velocidade com sua unidade de medida.</p>
+        </part>
+        <part>
+          <p>A composição no interior do reator no tempo 10,42 minutos em termos das pressões parciais (em atm) de cada componente.</p>
+        </part>
+        <part>
+          <p>O valor numérico do tempo de meia vida da reação. 16</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Um novo método para potabilização da água residual em espaçonaves emprega íons de prata como agente bactericida. Considere os dados de produto de solubilidade de alguns sais apresentados na Tabela 1 e o limite máximo permitido de íons nos padrões de qualidade da água potável disposto na Tabela 2. Tabela 1. Dados de constantes de solubilidade. Sal Kps AgCl(s) 1,21 × 10−10 AgBr(s) 4,90 × 10−13 AgI(s) 1,00 × 10−16 NaCl(s) 37,3 NaBr(s) 127 NaI(s) 151 HgCl2(s) 8,10 × 10−2 HgBr2(s) 6,20 × 10−20 HgI2(s) 3,20 × 10−29</p>
+        <p>Tabela 2. Limite máximo permitido nos padrões de qualidade da água potável. Espécie Máximo nível permitido (mg∙L−1) Cloretos 1000 Brometos 4,0 Iodetos 0,018 Prata 0,090 Sódio 20 Mercúrio 0,002</p>
+        <p>Sabe-se que concentrações de íons de prata acima de dez partes por bilhão (&gt;10 ppb) são suficientes para prevenir o crescimento de bactérias, algas e outros microorganismos. A estratégia do método consiste em assegurar uma concentração fixa de Ag+ na água potável por meio da saturação da solução com um sal de prata moderadamente solúvel. Com base nessas informações, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dentre os sais de prata apresentados na Tabela 1, indique qual(is) poderia(m) ser empregado(s) no método de potabilização da água e calcule a concentração em ppb de Ag+na solução resultante.</p>
+        </part>
+        <part>
+          <p>Dentre os sais de prata que não poderiam ser usados no item (a) e considerando o limite máximo permitido nos padrões de qualidade da água potável, indique aquele(s) sal(is) que poderia(m) ser empregado(s), juntamente com NaCl ou HgCl2, para ajustar a concentração total de Ag+ para 10,8 ppb. Determine o valor numérico da concentração final de Na+ ou Hg2+ em cada situação. 17</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Na reação conhecida como “cão que late”, uma mistura de óxido nitroso e dissulfeto de carbono entra em combustão, gerando um clarão azulado e um som parecido com “woof” ou “uulsh”. Considerando uma combustão completa e que todo o enxofre gerado se encontra na forma de sólido S8:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>escreva a equação química balanceada dessa reação.</p>
+        </part>
+        <part>
+          <p>determine o valor numérico do volume de gás gerado (em litros) para cada 304 g de dissulfeto de carbono que reagiu de forma estequiométrica. Considere a pressão igual a 105 Pa e a temperatura de 300 K.</p>
+        </part>
+        <part>
+          <p>calcule o valor numérico da massa de enxofre sólido (em g) gerado considerando a mesma quantidade de dissulfeto de carbono do item (b). 18</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere os seguintes pares de homopolímeros, representados pelas respectativas fórmulas estruturais. Para cada par, indique qual homopolímero terá temperatura de fusão maior, considerando que suas massas molares sejam similares. Justifique a sua resposta.</p>
+        <p>19</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere as seguintes informações: I. Primeira energia de ionização do cálcio: 590 kJ∙mol−1 II. Segunda energia de ionização do cálcio: 1145 kJ∙mol−1 III. Afinidade eletrônica do cloro: −340 kJ∙mol−1 IV. Entalpia de solubilização do cloreto de cálcio: −81 kJ∙mol−1 V. Entalpia de hidratação do íon de cálcio: −1579 kJ∙mol−1 VI. Entalpia de hidratação do íon de cloro: −378 kJ∙mol−1 Com base nessas informações, responda os itens abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Represente, na forma de equações químicas, as informações acima (I-VI).</p>
+        </part>
+        <part>
+          <p>Equacione a reação de entalpia de rede do cloreto de cálcio a partir das equações I-VI, conforme a necessidade.</p>
+        </part>
+        <part>
+          <p>Calcule o valor numérico da entalpia de rede do cloreto de cálcio (em kJ∙mol−1). 20</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Em um reator químico vazio, mantido a altas temperaturas, injeta-se uma mistura gasosa, com massa molar aparente igual a 29 g∙mol−1, constituída de amônia e oxigênio puros. Os gases reagem entre si formando óxido nítrico e água no estado gasoso. Ao final do processo, toda a amônia é consumida e são formados 20 mol de óxido nítrico. A respeito deste processo, pede-se:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A equação química balanceada.</p>
+        </part>
+        <part>
+          <p>Os valores numéricos das frações molares de amônia e de oxigênio no início da reação.</p>
+        </part>
+        <part>
+          <p>O valor numérico da porcentagem de reagente em excesso.</p>
+        </part>
+        <part>
+          <p>Os valores numéricos das quantidades (em mols) das espécies químicas no final da reação. 21</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>. A etilcarbilamina ou isocianeto de etila é utilizada como reagente em duas rotas reacionais: (i) Aquecimento a 250 °C que leva a sua isomerização funcional com a formação de um composto A, o qual reage com o cloreto de metil magnésio e, posteriormente, forma uma cetona B por hidrólise; (ii) Hidrólise em meio ácido com a formação de uma amina primária C e um composto D. Com base no enunciado, escreva as reações químicas evolvidas nas rotas (i) e (ii). Escreva a estrutura química dos compostos A, B, C e D.</p>
+        <p>22</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma mistura de cloreto de cálcio e fluoreto de sódio, de massa igual a 39,0 g, foi adicionada à água, sendo observada a formação de um precipitado (Precipitado 1), o qual foi removido por filtração. Ao sobrenadante, foram adicionados 900 mL de uma solução aquosa 0,5 mol L−1 em nitrato de prata, sendo essa quantidade em excesso para garantir a formação de um precipitado (Precipitado 2) que também foi removido por filtração. Posteriormente, foi adicionada a essa nova solução sobrenadante uma placa polida de zinco metálico. Após um tempo suficientemente longo, observou-se um aumento de massa dessa placa igual a 3,76 g. A partir dessas observações:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>apresente todas as equações que representam as reações químicas balanceadas envolvidas no processo, identificando cada um dos precipitados.</p>
+        </part>
+        <part>
+          <p>calcule o valor numérico do número de mols do Precipitado 2.</p>
+        </part>
+        <part>
+          <p>calcule o valor numérico das massas de cloreto de cálcio e fluoreto de sódio na mistura inicial.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2009" phase="objective" day="0" variation="V1" date="2009-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Sejam A e B subconjuntos do conjunto universo U = fa; b; c; d; e; f; g; hg. Sabendo que (BC [ A)C = ff; g; hg, BC \ A = fa; bg e ACnB = fd; eg, então, n(P(A \ B)) é igual a A ( ) 0: B ( ) 1: C ( ) 2: D ( ) 4: E ( ) 8:</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Uma empresa possui 1000 carros, sendo uma parte com motor a gasolina e o restante com motor “‡ex“ (que funciona com álcool e com gasolina). Numa determinada época, neste conjunto de 1000 carros, 36% dos carros com motor a gasolina e 36% dos carros com motor “‡ex“ sofrem conversão para também funcionar com gás GNV. Sabendo-se que, após esta conversão, 556 dos 1000 carros desta empresa são bicombustíveis, pode-se a…rmar que o número de carros tricombustíveis é igual a A ( ) 246: B ( ) 252: C ( ) 260: D ( ) 268: E ( ) 284:</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Seja f : R ! Rnf0g uma função satisfazendo às condições: f (x + y) = f (x) f (y) ; para todo x; y 2 R e f (x) 6= 1; para todo x 2 Rnf0g: Das a…rmações: I. f pode ser ímpar. II. f(0) = 1: III. f é injetiva. IV. f não é sobrejetiva, pois f(x) &gt; 0 para todo x 2 R: é (são) falsa(s) apenas A ( ) I e III. B ( ) II e III. C ( ) I e IV. D ( ) IV. E ( ) I.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Se a = cos 5 e b = sen 5 , então, o número complexo cos 5 + i sen 5 54 é igual a A ( ) a + bi: B ( ) a + bi: C ( ) (1 2a2b2) + ab(1 + b2)i: D ( ) a bi: E ( ) 1 4a2b2 + 2ab(1 b2)i.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. O polinômio de grau 4 (a + 2b + c)x4 + (a + b + c)x3 (a b)x2 + (2a b + c)x + 2(a + c); com a; b; c 2 R, é uma função par. Então, a soma dos módulos de suas raízes é igual a A ( ) 3 + p 3: B ( ) 2 + 3 p 3: C ( ) 2 + p 2: D ( ) 1 + 2 p 2: E ( ) 2 + 2 p 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere as funções f(x) = x4 + 2x3 2x 1 e g(x) = x2 2x + 1. A multiplicidade das raízes não reais da função composta f g é igual a A ( ) 1: B ( ) 2: C ( ) 3: D ( ) 4: E ( ) 5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Suponha que os coe…cientes reais a e b da equação x4 + ax3 + bx2 + ax + 1 = 0 são tais que a equação admite solução não real r com jrj 6= 1. Das seguintes a…rmações: I. A equação admite quatro raízes distintas, sendo todas não reais. II. As raízes podem ser duplas. III. Das quatro raízes, duas podem ser reais. é (são) verdadeira(s) A ( ) apenas I. B ( ) apenas II. C ( ) apenas III. D ( ) apenas II e III. E ( ) nenhuma.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Se as soluções da equação algébrica 2x3 ax2 +bx+54 = 0; com coe…cientes a; b 2 R, b 6= 0; formam, numa determinada ordem, uma progressão geométrica, então, a b é igual a A ( ) 3: B ( ) 1 3: C ( ) 1 3: D ( ) 1: E ( ) 3.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Dados A 2 M32(R) e b 2 M31(R), dizemos que X0 2 M21(R) é a melhor aproximação quadrática do sistema AX = b quando p (AX0 b)t(AX0 b) assume o menor valor possível. Então, dado o sistema 2 4 1 0 0 1 1 0 3 5 x y = 2 4 1 1 1 3 5 ; a sua melhor aproximação quadrática é A ( ) 1 1 : B ( ) 1 1 : C ( ) 2 0 : D ( ) 1 0 : E ( ) 0 1 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. O sistema a1x + b1y = c1 a2x + b2y = c2 ; a1; a2; b1; b2; c1; c2 2 R; com (c1; c2) 6= (0; 0); a1c1 + a2c2 = b1c1 + b2c2 = 0, é A ( ) determinado. B ( ) determinado somente quando c1 6= 0 e c2 6= 0: C ( ) determinado somente quando c1 6= 0 e c2 = 0 ou c1 = 0 e c2 6= 0: D ( ) impossível. E ( ) indeterminado.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Seja A 2 M22 (R) uma matriz simétrica e não nula, cujos elementos são tais que a11; a12 e a22 formam, nesta ordem, uma progressão geométrica de razão q 6= 1 e trA = 5a11. Sabendo-se que o sistema AX = X admite solução não nula X 2 M21(R), pode-se a…rmar que a2 11 + q2 é igual a A ( ) 101 25 : B ( ) 121 25 : C ( ) 5: D ( ) 49 9 : E ( ) 25 4 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Um certo exame de inglês é utilizado para classi…car a pro…ciência de estrangeiros nesta língua. Dos estrangeiros que são pro…cientes em inglês, 75% são bem avaliados neste exame. Entre os não pro…cientes em inglês, 7% são eventualmente bem avaliados. Considere uma amostra de estrangeiros em que 18% são pro…cientes em inglês. Um estrangeiro, escolhido desta amostra ao acaso, realizou o exame sendo classi…cado como pro…ciente em inglês. A probabilidade deste estrangeiro ser efetivamente pro…ciente nesta língua é de aproximadamente A ( ) 73%: B ( ) 70%: C ( ) 68%: D ( ) 65%: E ( ) 64%.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Considere o triângulo ABC de lados a = BC; b = AC e c = AB e ângulos internos = C bAB; = A bBC e = B bCA. Sabendo-se que a equação x2 2bx cos + b2 a2 = 0 admite c como raiz dupla, pode-se a…rmar que A ( ) = 90o: B ( ) = 60o: C ( ) = 90o: D ( ) O triângulo é retângulo apenas se = 45o: E ( ) O triângulo é retângulo e b é hipotenusa.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. No plano, considere S o lugar geométrico dos pontos cuja soma dos quadrados de suas distâncias à reta t : x = 1 e ao ponto A = (3; 2) é igual a 4. Então, S é A ( ) uma circunferência de raio p 2 e centro (2; 1): B ( ) uma circunferência de raio 1 e centro (1; 2): C ( ) uma hipérbole. D ( ) uma elipse de eixos de comprimento 2 p 2 e 2: E ( ) uma elipse de eixos de comprimento 2 e 1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Do triângulo de vértices A; B e C; inscrito em uma circunferência de raio R = 2 cm, sabe-se que o lado BC mede 2 cm e o ângulo interno A bBC mede 30o. Então, o raio da circunferência inscrita neste triângulo tem o comprimento, em cm; igual a A ( ) 2 p 3: B ( ) 1 3. C ( ) p 2 4 : D ( ) 2 p 3 3: E ( ) 1 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. A distância entre o vértice e o foco da parábola de equação 2x2 4x 4y + 3 = 0 é igual a A ( ) 2: B ( ) 3 2: C ( ) 1: D ( ) 3 4: E ( ) 1 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. A expressão 2 sen x + 11 2 + cotg2 x tg x 2 1 + tg2 x 2 é equivalente a A ( ) [cos x sen2 x] cotg x: B ( ) [sen x + cos x] tg x: C ( ) [cos2 x sen x] cotg2 x: D ( ) [1 cotg2 x] sen x: E ( ) [1 + cotg2 x] [sen x + cos x].</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Sejam C uma circunferência de raio R &gt; 4 e centro (0; 0) e AB uma corda de C. Sabendo que (1; 3) é ponto médio de AB; então uma equação da reta que contém AB é A ( ) y + 3x 6 = 0: B ( ) 3y + x 10 = 0: C ( ) 2y + x 7 = 0: D ( ) y + x 4 = 0: E ( ) 2y + 3x 9 = 0.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Uma esfera é colocada no interior de um cone circular reto de 8 cm de altura e de 60o de ângulo de vértice. Os pontos de contato da esfera com a superfície lateral do cone de…nem uma circunferência e distam 2 p 3 cm do vértice do cone. O volume do cone não ocupado pela esfera, em cm3; é igual a A ( ) 416 9 : B ( ) 480 9 : C ( ) 500 9 : D ( ) 512 9 : E ( ) 542 9 :</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Os pontos A = (3; 4) e B = (4; 3) são vértices de um cubo, em que AB é uma das arestas. A área lateral do octaedro cujos vértices são os pontos médios da face do cubo é igual a A ( ) p 8: B ( ) 3: C ( ) p 12: D ( ) 4: E ( ) p 18. AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Seja S o conjunto solução da inequação (x 9) logx+4(x3 26x) 0: Determine o conjunto SC.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Sejam x; y 2 R e w = x2(1 + 3i) + y2(4 i) x(2 + 6i) + y(16 + 4i) 2 C. Identi…que e esboce o conjunto</p>
+        <p>= f (x; y) 2 R2; Re w 13 e Im w 4g:</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja f : Rnf1g ! R de…nida por f(x) = 2x + 3 x + 1 .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Mostre que f é injetora.</p>
+        </part>
+        <part>
+          <p>Determine D = f f(x); x 2 Rnf1g g e f 1 : D ! Rnf1g.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Suponha que a equação algébrica x11 + 10 X n=1 anxn + a0 = 0 tenha coe…cientes reais a0; a1; :::; a10 tais que as suas onze raízes sejam todas simples e da forma + i n; em que ; n 2 R e os n; n = 1; 2; :::; 11, formam uma progressão aritmética de razão real 6= 0. Considere as três a…rmações abaixo e responda se cada uma delas é, respectivamente, verdadeira ou falsa, justi…cando sua resposta: I. Se = 0; então a0 = 0: II. Se a10 = 0, então = 0: III. Se = 0, então a1 = 0.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Um determinado concurso é realizado em duas etapas. Ao longo dos últimos anos, 20% dos candidatos do concurso têm conseguido na primeira etapa nota superior ou igual à nota mínima necessária para poder participar da segunda etapa. Se tomarmos 6 candidatos dentre os muitos inscritos, qual é a probabilidade de no mínimo 4 deles conseguirem nota para participar da segunda etapa?</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Sejam A; B 2 M33(R). Mostre as propriedades abaixo:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Se AX é a matriz coluna nula, para todo X 2 M31(R), então A é a matriz nula.</p>
+        </part>
+        <part>
+          <p>Se A e B são não nulas e tais que AB é a matriz nula, então det A = det B = 0.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Sabendo que tg2 x + 1 6 = 1 2, para algum x 2 0; 1 2 , determine sen x.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Dadas a circunferência C : (x 3)2 + (y 1)2 = 20 e a reta r : 3x y + 5 = 0, considere a reta t que tangencia C; forma um ângulo de 45o com r e cuja distância à origem é 3 p 5 5 . Determine uma equação da reta t.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Considere as n retas ri : y = mix + 10; i = 1; 2; :::; n; n 5; em que os coe…cientes mi, em ordem crescente de i, formam uma progressão aritmética de razão q &gt; 0: Se m1 = 0 e a reta r5 tangencia a circunferência de equação x2 +y2 = 25, determine o valor de q:</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. A razão entre a área lateral e a área da base octogonal de uma pirâmide regular é igual a p 5. Exprima o volume desta pirâmide em termos da medida a do apótema da base.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

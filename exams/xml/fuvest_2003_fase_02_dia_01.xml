@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2003" phase="discursive" day="0" variation="V1" date="2003-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Certas doenças hereditárias decorrem da falta de enzimas lisossômicas. Nesses casos, substâncias orgânicas complexas acumulam-se no interior dos lisossomos e formam grandes inclusões que prejudicam o funcionamento das células.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que são lisossomos e como eles contribuem para o bom funcionamento de nossas células?</p>
+        </part>
+        <part>
+          <p>Como se explica que as doenças lisossômicas sejam hereditárias se os lisossomos não são estruturas transmissíveis de pais para filhos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A seqüência de eventos cromossômicos que ocorrem na duplicação de uma célula somática animal está representada nos desenhos abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em qual das fases representadas ocorre a duplicação do DNA?</p>
+        </part>
+        <part>
+          <p>Considere um gene autossômico H. Quantas cópias desse gene existem no final da fase A? Na fase B? Na fase C? Na fase D? Em cada uma das células formadas na fase E?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere uma levedura, que é um fungo unicelular, multiplicando-se num meio nutritivo, onde a única fonte de carbono é a sacarose, açúcar que não atravessa a membrana celular.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>De que processo inicial depende o aproveitamento da sacarose pela levedura?</p>
+        </part>
+        <part>
+          <p>Que composto de carbono é eliminado pela levedura caso ela utilize os produtos originados da sacarose nas reações de oxidação que ocorrem em suas mitocôndrias?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O gráfico abaixo representa o crescimento de uma população de herbívoros e da população de seus predadores:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Pela análise do gráfico, como se explica o elevado número de predadores nos pontos I, II e III? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Se, a partir de 1935, os predadores tivessem sido retirados da região, o que se esperaria que acontecesse com a população de herbívoros? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma espécie de lombriga de cavalo possui apenas um par de cromossomos no zigoto (2n = 2). Um macho dessa espécie, heterozigótico quanto a dois pares de alelos (Aa Bb) formou, ao final da gametogênese, quatro tipos de espermatozóides normais com diferentes genótipos quanto a esses genes.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é o número de cromossomos e o número de moléculas de DNA no núcleo de cada espermatozóide?</p>
+        </part>
+        <part>
+          <p>Quais são os genótipos dos espermatozóides formados?</p>
+        </part>
+        <part>
+          <p>Por que, a partir das informações fornecidas, não é possível estimar a proporção em que cada um dos quatro tipos de espermatozóides aparece? Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Após alguns meses de monitoramento de uma região de floresta temperada (de julho a dezembro de 1965), a vegetação de uma área foi derrubada e impediu-se o crescimento de novas plantas. Tanto a área de floresta intacta quanto a área desmatada continuaram a ser monitoradas durante os dois anos e meio seguintes (de janeiro de 1966 a junho de 1968). O gráfico a seguir mostra as concentrações de nitratos presentes nas águas de chuva drenadas das duas áreas para córregos próximos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Se, em 1968, a vegetação da área intacta tivesse sido removida e ambas as áreas tivessem sido imediatamente usadas para cultivo de cereais, era de se esperar que houvesse maior produtividade de grãos em uma delas? Por quê?</p>
+        </part>
+        <part>
+          <p>Qual elemento químico do nitrato é fundamental para a manutenção de um ecossistema? Por quê?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O seguinte texto foi extraído do folheto “Você tem diabetes? Como identificar”, distribuído pela empresa Novo Nordisk: “A glicemia (glicose ou açúcar no sangue) apresenta variações durante o dia, aumentando logo após a ingestão de alimentos e diminuindo depois de algum tempo sem comer. A elevação constante da glicose no sangue pode ser sinal de diabetes. [...] ”</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Por que nos não-diabéticos a glicemia aumenta logo após uma refeição e diminui entre as refeições?</p>
+        </part>
+        <part>
+          <p>Explique por que uma pessoa com diabetes melito apresenta glicemia elevada constante.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O kwashiorkor e o marasmo são doenças infantis por deficiência nutricional encontradas em regiões subdesenvolvidas . Kwashiorkor é uma palavra de origem africana que significa “doença que afeta uma criança quando nasce outra (uma irmã ou um irmão)”. A doença caracteriza-se por retardo de crescimento, cabelos e pele descoloridos e inchaço do corpo, principalmente da barriga, devido ao acúmulo de líquido nos tecidos. Esse quadro decorre da falta quase completa de proteínas na dieta, a qual é constituída essencialmente por carboidratos. O marasmo, fraqueza extrema, caracteriza-se por atrofia dos músculos, ossos salientes e fácies de um velho; é um quadro de subnutrição completa causada por deficiência calórica e protéica.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique a relação entre a causa do kwashiorkor e o significado atribuído a essa palavra africana.</p>
+        </part>
+        <part>
+          <p>Por que alimentos protéicos são fundamentais na composição da dieta das crianças?</p>
+        </part>
+        <part>
+          <p>Explique por que a deficiência calórica faz a criança emagrecer.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em seu livro Biology of Plants (Nova York, W. H. Freeman and Company, 6ª edição, 1999), P. H. Raven, R. F. Evert e S. E. Eichhorn dizem: “As plantas, como todos os organismos, tiveram ancestrais aquáticos. A história evolutiva das plantas está intimamente ligada à progressiva ocupação do ambiente de terra firme e à crescente independência do meio aquático para a reprodução.”</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Compare as samambaias e os pinheiros quanto à dependência do meio aquático para a reprodução.</p>
+        </part>
+        <part>
+          <p>Discorra sucintamente sobre uma aquisição evolutiva, não ligada diretamente ao processo reprodutivo, que permitiu às plantas atingir grande tamanho e contribuiu decisivamente para seu sucesso na ocupação do ambiente de terra firme.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas doenças sexualmente transmissíveis muito comuns são a uretrite não-gonocócica que, tudo indica, é causada pela Chlamydia trachomatis e o herpes genital, causado pelo Herpes simplex. A tabela a seguir compara algumas características desses dois agentes infecciosos. Características Chlamydia trachomatis Herpes simplex Parasita intracelular obrigatório + + Presença de membrana plasmática + − Presença de núcleo celular − − Presença de DNA + + Presença de RNA + − Presença de ribossomos + −</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Esses organismos são vírus, bactérias, protozoários, algas, fungos, plantas ou animais? Justifique sua classificação com base nas características mencionadas na tabela.</p>
+        </part>
+        <part>
+          <p>Esses dois agentes infecciosos indicados podem ter seu crescimento populacional representado pelo gráfico a seguir? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

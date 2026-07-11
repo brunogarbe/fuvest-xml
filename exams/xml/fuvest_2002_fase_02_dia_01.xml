@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2002" phase="discursive" day="0" variation="V1" date="2002-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O quadro abaixo destaca dois conceitos biológicos: câncer e sistema respiratório de insetos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Faça uma breve descrição de como o nefasto hábito de fumar está associado ao desenvolvimento de câncer de pulmão, garantindo que em seu texto apareçam, de forma relacionada, os seguintes conceitos: tumor, mutação, fumo, proliferação celular descontrolada, genes reguladores da divisão celular.</p>
+        </part>
+        <part>
+          <p>Descreva o caminho da fumaça de um cigarro desde o meio externo até as células do corpo de uma barata.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O esquema abaixo representa, numa célula em divisão meiótica, dois pares de cromossomos com três genes em heterozigose: A/a, B/b e D/d. Nesses cromossomos, ocorreram as permutas indicadas pelas setas 1 e 2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quanto aos pares de alelos mencionados, que tipos de gameta esta célula poderá formar?</p>
+        </part>
+        <part>
+          <p>Que pares de alelos têm segregação independente?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="03">
+      <statement>
+        <p>O esquema abaixo representa um espermatozóide humano e algumas das estruturas que o compõem. Qual é a importância de cada uma das estruturas numeradas de 1 a 4 para a reprodução?</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em conseqüência do aparecimento de uma barreira geográfica, duas populações de uma mesma espécie ficaram isoladas por milhares de anos, tornando-se morfologicamente distintas uma da outra.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Como se explica o fato de as duas populações terem se tornado morfologicamente distintas no decorrer do tempo?</p>
+        </part>
+        <part>
+          <p>Cite as duas situações que podem ocorrer, no caso de as populações voltarem a entrar em contato pelo desaparecimento da barreira geográfica. Em que situação se considera que houve especiação?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No esquema abaixo, os retângulos representam os quatro maiores reservatórios do elemento carbono em nosso planeta e as setas indicam o fluxo do carbono entre esses reservatórios.</p>
+        <p>(Baseado em Trabalka, J. K. &amp; Reichle, D.E. (eds) The Changing Carbon Cycle: a global analysis; Springer, Nova York, 1986).</p>
+        <p>Indique, justificando:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>os fluxos que incluem os processos de fotossíntese, respiração aeróbica e fermentação, realizados pelos seres vivos atuais.</p>
+        </part>
+        <part>
+          <p>o fluxo que é diretamente afetado pelas usinas termo-elétricas a carvão mineral.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As bananas mantidas à temperatura ambiente deterioram-se em conseqüência da proliferação de microorganismos. O mesmo não acontece com a bananada, conserva altamente açucarada, produzida com essas frutas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique, com base no transporte de substâncias através da membrana plasmática, por que bactérias e fungos não conseguem proliferar em conservas com alto teor de açúcar.</p>
+        </part>
+        <part>
+          <p>Dê exemplo de outro método de conservação de alimentos que tenha por base o mesmo princípio fisiológico.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Algumas crianças nascem com um defeito no coração denominado comunicação interventricular, ou seja, uma comunicação entre os dois ventrículos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Faça um esquema do coração humano, indicando suas câmaras e como normalmente elas se comunicam. Represente nele a comunicação interventricular.</p>
+        </part>
+        <part>
+          <p>Que conseqüência imediata o defeito traz para a circulação sangüínea da criança?</p>
+        </part>
+        <part>
+          <p>Qual grupo de vertebrados tem a estrutura normal do coração semelhante à de um coração humano com a comunicação interventricular?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um pesquisador construiu um camundongo transgênico que possui uma cópia extra de um gene Z. Em um outro camundongo jovem, realizou uma cirurgia e removeu a hipófise. Em seguida, estudou o crescimento desses camundongos, comparando com o crescimento de um camundongo, não transgênico e com hipófise. Obteve as seguintes curvas de crescimento corporal:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique a causa da diferença no crescimento dos camundongos 2 e 3.</p>
+        </part>
+        <part>
+          <p>Com base em sua resposta ao item a, elabore uma hipótese para a causa da diferença no crescimento dos camundongos 1 e 2.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>Considere o ciclo de vida de uma angiosperma.</p>
+        <p>a) Podemos afirmar que, em uma certa etapa do desenvolvimento, essa planta é heterotrófica. Quando isso ocorre e qual a fonte de alimento utilizada?</p>
+        <p>b) Ao quantificarmos a respiração e a fotossíntese realizadas, desde a germinação até a fase adulta, esperamos verificar que, comparativamente, a planta realizou mais fotossíntese do que respirou, respirou tanto quanto realizou fotossíntese ou respirou mais do que realizou fotossíntese? Por quê?</p>
+        <p>10</p>
+        <p>Duas plantas da mesma espécie, que vivem em ambientes distintos, apresentam folhas morfologicamente diferentes, representadas nas figuras A e B.</p>
+        <p>a) Indique, justificando, qual das folhas corresponde à planta que vive em campo aberto e qual corresponde à planta que vive no interior de uma floresta.</p>
+        <p>b) Se recortarmos um quadrado de mesma área de cada uma dessas folhas e extrairmos a clorofila, de qual amostra se espera obter maior quantidade desse pigmento? Por quê?</p>
+        <p>RASCUNHO</p>
+        <p>ESTE CADERNO CONTÉM 10 (DEZ) QUESTÕES. VERIFIQUE SE ESTÁ COMPLETO. DURAÇÃO DA PROVA: 3 (TRÊS) HORAS.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

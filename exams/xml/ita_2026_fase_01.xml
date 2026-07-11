@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2026" phase="objective" day="1" variation="V1" date="2026-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>Documento digitalizado sem camada de texto; extração automática indisponível (OCR necessário).</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

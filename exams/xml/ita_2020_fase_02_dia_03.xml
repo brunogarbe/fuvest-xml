@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2020" phase="discursive" day="0" variation="V1" date="2020-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Para uma reação reversível de uma etapa 2A+B⇌C+D, a constante de velocidade para a reação direta, k1, é de 406 L mol−1 min−1, e a constante de velocidade para a reação inversa, k−1, é de 244 L mol−1 min−1. A energia de ativação para a reação direta é de 26,2 kJ mol−1 (Ea,direta), e para a reação inversa é de 42,4 kJ mol−1 (Ea,inversa).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Desenhe um diagrama de energia para essa reação, apresentando os valores de (i) ∆E, (ii) Ea,d, e (iii) Ea,i.</p>
+        </part>
+        <part>
+          <p>Discuta o efeito de elevação da temperatura na constante de velocidade direta (k1) e inversa (k-1).</p>
+        </part>
+        <part>
+          <p>Calcule a constante de equilíbrio (K) e descreva o efeito de elevação de temperatura. 4</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Os biodigestores possibilitam o reaproveitamento de detritos convertendo material orgânico em metano, que é utilizado como combustível em sistemas de geração de energia. Um laticínio utiliza a queima do metano para aquecer 1 m3/h de água, de 25 ºC a 100 ºC em uma caldeira que opera a 1 atm. Sabendo-se que 25 % do calor produzido no processo é perdido e que, nessas condições, a combustão completa do metano produz água líquida, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a entalpia molar da combustão do metano;</p>
+        </part>
+        <part>
+          <p>a taxa de calor necessária para aquecer a água;</p>
+        </part>
+        <part>
+          <p>a vazão de metano, em kg/h, que deve alimentar a caldeira. Dados: ∆Hfº(CH4(g)) = −17,9 kcal mol−1; ∆Hfº(CO2(g)) = −94,1 kcal mol−1; ∆Hfº(H2O(g)) = −57,9 kcal mol−1; ∆Hebº(H2O(l)) = −10,5 kcal mol−1; cpº(H2O(l)) = 1 cal g−1 ºC−1; ρ(H2O(l)) = 1 g cm−3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. A obtenção de biodiesel a partir de óleos vegetais (triacilgliceróis) é uma alternativa para a produção de combustíveis menos poluentes, sendo possível catalisar a reação com um ácido ou uma base. Escreva a equação química balanceada que representa a reação</p>
+      </statement>
+      <parts>
+        <part>
+          <p>de obtenção de triacilglicerol a partir de glicerol e ácido graxo com cadeia alquílica representada por R1.</p>
+        </part>
+        <part>
+          <p>de obtenção de biodiesel a partir do triacilglicerol obtido em (a) e etanol.</p>
+        </part>
+        <part>
+          <p>paralela e indesejada que poderia ocorrer se, na reação descrita em (b), fosse utilizado hidróxido de sódio como catalisador, tendo também a presença de água na reação.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma barra de zinco foi soldada a um tubo de ferro fundido para protegê-lo contra a corrosão, estando ambos enterrados no solo. Sabendo que uma corrente constante de 0,02 A escoa entre os dois, responda:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é a semirreação que ocorre na superfície da barra de zinco?</p>
+        </part>
+        <part>
+          <p>Como a reação descrita em (a) atua para proteger o ferro contra corrosão?</p>
+        </part>
+        <part>
+          <p>Como se chama este sistema de proteção contra a corrosão?</p>
+        </part>
+        <part>
+          <p>Qual deve ser a massa do metal consumida em 10 anos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p>. A partir do isótopo ocorrem três processos sucessivos de decaimento radioativo que levam à formação do isótopo final D. A partir de há emissão de uma partícula beta, produzindo o nuclídeo B. Este, por sua vez, libera uma partícula beta formando o nuclídeo C. O nuclídeo D é produzido a partir de C por meio de emissão de uma partícula alfa. Escreva as equações nucleares dessas três etapas, fornecendo os números de massa e atômico dos nuclídeos B, C e D em função de x e y. Esboce um gráfico da quantidade de cada nuclídeo em função do tempo até a produção de D e o consumo de todos os demais nuclídeos. Considere que a constante de velocidade é a mesma em todas as etapas.</p>
+        <p>5</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. A reação de isomerização do cis-2-buteno para formar o isômero trans-2-buteno, que é mais estável por 4 kJ mol−1, ocorre em fase gasosa em uma única etapa com energia de ativação de 264 kJ mol−1. Essa reação ocorre de forma muito mais rápida quando assistida por iodo molecular em fase gasosa como catalisador. A lei de velocidade da reação catalisada é dada por velocidade kcis 2 butenoI O mecanismo proposto para a reação catalisada é baseado em cinco etapas: I. As moléculas de iodo se dissociam para formar átomos de iodo com energia de dissociação igual a 75 kJ mol−1; II. Um dos átomos de iodo é adicionado a um dos átomos de carbono que tem ligação dupla, quebrando essa ligação para formar uma ligação simples C-C. O sistema molecular formado encontra-se a 118 kJ mol−1 acima dos reagentes; III. Uma das extremidades da molécula sofre torção livre em relação à outra extremidade. A energia do sistema molecular após a torção continua a 118 kJ mol−1 acima dos reagentes; IV. O átomo de iodo ligado ao carbono dissocia-se do sistema molecular intermediário e a ligação dupla é formada novamente no isômero trans. Esse processo libera 47 kJ mol−1 de energia; V. Os átomos de iodo se recombinam para formar o iodo molecular, liberando 75 kJ mol−1 de energia. Baseado nessas informações:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>esboce em uma mesma figura os perfis de energia para a reação de isomerização do cis-2-buteno com e sem a presença de catalisador. Deixe claro, usando diferentes notações, os dois perfis e os valores das energias envolvidas;</p>
+        </part>
+        <part>
+          <p>escreva as reações químicas que ocorrem em cada etapa da reação catalisada para formar a reação global.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere a conformação estrutural das moléculas 1,3-dietilcicloexano, 1,4-dietilcicloexano e 2,3 diclorobutano. Pedem-se:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Desenhe todas as estruturas conformacionais;</p>
+        </part>
+        <part>
+          <p>Determine o número de centros quirais em cada molécula;</p>
+        </part>
+        <part>
+          <p>Identifique todos os pares enantioméricos e os compostos meso, se presentes.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Dicromato de potássio, enxofre e água reagem produzindo hidróxido de potássio, óxido de cromo III e dióxido de enxofre. Para oxidar 96 g de enxofre, são utilizados 50% de dicromato de potássio em excesso. Sabendo que o rendimento da reação é de 80%, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a equação balanceada da reação química;</p>
+        </part>
+        <part>
+          <p>a massa de dicromato de potássio utilizada;</p>
+        </part>
+        <part>
+          <p>a massa de dióxido de enxofre produzida. 6</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. A produção de borrachas e espumas é comumente realizada pela síntese de poliuretanos. Para tal produção, a polimerização ocorre a partir de um poliol e um isocianato.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Apresente a(s) reação(ões) químicas da polimerização e formação de poliuretano a partir de um diol e um diisocianato.</p>
+        </part>
+        <part>
+          <p>A água, quando presente no meio, gera reação(ões) paralela(s) e é determinante na produção de espumas. Apresente essa(s) reação(ões).</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere a titulação de um ácido por meio da adição de uma base. Calcule o pH inicial e o pH no ponto de equivalência e construa a curva de titulação, ou seja, o gráfico do pH em função da porcentagem de ácido neutralizado. Apresente os cálculos realizados para os três casos. Dados eventualmente necessários: log2 = 0,3; √2=1,4; log1,4 = 0,14.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Ácido forte (HCl, 0,1 mol L−1) com uma base forte (NaOH, 0,1 mol L−1);</p>
+        </part>
+        <part>
+          <p>Ácido forte (HCl, 0,2 mol L-1) com uma base fraca hipotética (XOH, 0,2 mol L−1; Kb(XOH) = 1,0 x 10−5);</p>
+        </part>
+        <part>
+          <p>Ácido fraco hipotético (HZ, 0,2 mol L-1; Ka(HZ) = 1,0 x 10−5) com uma base forte (NaOH, 0,2 mol L−1).</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

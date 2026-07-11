@@ -1,0 +1,583 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2015" phase="discursive" day="0" variation="V1" date="2015-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="M01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura, na página de respostas, a circunferência de centro em ܱ e raio ݎ tangencia o lado ܤܥ തതതത do triângulo ܣܤܥ no ponto ܦ e tangencia a reta ܣܤ ശሬሬሬሬԦ no ponto ܧ. Os pontos ܣ, ܦ e ܱ são colineares, ܣܦൌ2ݎ e o ângulo ܣܥܱ ෣ é reto. Determine, em função de ݎ,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a medida do lado ܣܤ തതതത do triângulo ܣܤܥ;</p>
+        </part>
+        <part>
+          <p>a medida do segmento ܥܱതതതത.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Resolva as inequações:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>ݔଷെݔଶെ6ݔ൐0;</p>
+        </part>
+        <part>
+          <p>logଶሺݔଷെݔଶെ6ݔሻ൑2. Página 2/38 − Caderno Reserva 0000−00 02 440 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No cubo ܣܤܥܦܧܨܩܪ, representado na figura, na página de respostas, cada aresta tem medida 1. Seja ܯ um ponto na semirreta de origem ܣ que passa por ܧ. Denote por ߠ o ângulo ܤܯܪ ෣ e por ݔ a medida do segmento ܣܯ തതതതത.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Exprima cos ߠ em função de ݔ.</p>
+        </part>
+        <part>
+          <p>Para que valores de ݔ o ângulo ߠ é obtuso?</p>
+        </part>
+        <part>
+          <p>Mostre que, se ݔൌ4, então ߠ mede menos do que 45୭.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Resolva os três itens abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule cosሺ3ߨ/8ሻ e senሺ3ߨ/8ሻ.</p>
+        </part>
+        <part>
+          <p>Dado o número complexo ݖൌඥ2 െ√2 ൅݅ඥ2 ൅√2, encontre o menor inteiro ݊ ൐0 para o qual ݖ௡ seja real.</p>
+        </part>
+        <part>
+          <p>Encontre um polinômio de coeficientes inteiros que possua ݖ como raiz e que não possua raiz real. Página 4/38 − Caderno Reserva 0000−00 04 880 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A função ݂ está definida da seguinte maneira: para cada inteiro ímpar ݊, ݂ ሺݔሻൌ൝ ݔെሺ݊ െ1ሻ, se ݊ െ1 ൑ݔ൑݊ ݊ ൅1 െݔ , se ݊ ൑ݔ൑݊ ൅1</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Esboce o gráfico de ݂ para 0 ൑ݔ൑6.</p>
+        </part>
+        <part>
+          <p>Encontre os valores de ݔ, 0 ൑ݔ൑6, tais que ݂ሺݔሻൌ .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="M06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um “alfabeto minimalista” é constituído por apenas dois símbolos, representados por  e #. Uma palavra de comprimento ݊, ݊ ൒1, é formada por ݊ escolhas sucessivas de um desses dois símbolos. Por exemplo, # é uma palavra de comprimento 1 e ## é uma palavra de comprimento 4.</p>
+        <p>Usando esse alfabeto minimalista,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>quantas palavras de comprimento menor do que 6 podem ser formadas?</p>
+        </part>
+        <part>
+          <p>qual é o menor valor de ܰ para o qual é possível formar 1.000.000 de palavras de tamanho menor ou igual a ܰ? 1 5 . Página 6/38 − Caderno Reserva 0000−00 06 220 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma criança com uma bola nas mãos está sentada em um “gira‐gira” que roda com velocidade angular constante e frequência f = 0,25 Hz.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando que a distância da bola ao centro do “gira‐gira” é 2 m, determine os módulos da velocidade VሬԦT e da aceleração aሬԦ da bola, em relação ao chão. Num certo instante, a criança arremessa a bola horizontalmente em direção ao centro do “gira‐gira”, com velocidade VሬԦR de módulo 4 m/s, em relação a si. Determine, para um instante imediatamente após o lançamento,</p>
+        </part>
+        <part>
+          <p>o módulo da velocidade UሬԦ da bola em relação ao chão;</p>
+        </part>
+        <part>
+          <p>o ângulo  entre as direções das velocidades UሬԦ e VሬԦR da bola. Note e adote: π = 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O aquecimento de um forno elétrico é baseado na conversão de energia elétrica em energia térmica em um resistor. A resistência R do resistor desse forno, submetido a uma diferença de potencial V constante, varia com a sua temperatura T. Na figura da página de respostas é mostrado o gráfico da função R(T ) = R0 +  (T – T0), sendo R0 o valor da resistência na temperatura T0 e  uma constante. Ao se ligar o forno, com o resistor a 20 oC, a corrente é 10 A. Ao atingir a temperatura TM, a corrente é 5 A. Determine a</p>
+      </statement>
+      <parts>
+        <part>
+          <p>constante  ;</p>
+        </part>
+        <part>
+          <p>diferença de potencial V;</p>
+        </part>
+        <part>
+          <p>temperatura TM;</p>
+        </part>
+        <part>
+          <p>potência P dissipada no resistor na temperatura TM. Página 8/38 − Caderno Reserva 0000−00 08 660 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um recipiente hermeticamente fechado e termicamente isolado, com volume de 750 l , contém ar inicialmente à pressão atmosférica de 1 atm e à temperatura de 27 oC. No interior do recipiente, foi colocada uma pequena vela acesa, de 2,5 g. Sabendo‐se que a massa da vela é consumida a uma taxa de 0,1 g/min e que a queima da vela produz energia à razão de 3,6 x 104 J/g, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a potência W da vela acesa;</p>
+        </part>
+        <part>
+          <p>a quantidade de energia E produzida pela queima completa da vela;</p>
+        </part>
+        <part>
+          <p>o aumento T da temperatura do ar no interior do recipiente, durante a queima da vela;</p>
+        </part>
+        <part>
+          <p>a pressão P do ar no interior do recipiente, logo após a queima da vela. Note e adote: O ar deve ser tratado como gás ideal. O volume de 1 mol de gás ideal à pressão atmosférica de 1 atm e à temperatura de 27 oC é 25 l . Calor molar do ar a volume constante: Cv = 30 J/(mol K). Constante universal dos gases: R = 0,08 atm l /(mol K). 0 °C = 273 K. Devem ser desconsideradas a capacidade térmica do recipiente e a variação da massa de gás no seu interior devido à queima da vela.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O espelho principal de um dos maiores telescópios refletores do mundo, localizado nas Ilhas Canárias, tem 10 m de diâmetro e distância focal de 15 m. Supondo que, inadvertidamente, o espelho seja apontado diretamente para o Sol, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o diâmetro D da imagem do Sol;</p>
+        </part>
+        <part>
+          <p>a densidade S de potência no plano da imagem, em W/m2;</p>
+        </part>
+        <part>
+          <p>a variação T da temperatura de um disco de alumínio de massa 0,6 kg colocado no plano da imagem, considerando que ele tenha absorvido toda a energia incidente durante 4 s. Note e adote: π = 3 O espelho deve ser considerado esférico. Distância Terra‐Sol = 1,5 x 1011 m. Diâmetro do Sol = 1,5 x 109 m. Calor específico do Al = 1 J/(g K). Densidade de potência solar incidindo sobre o espelho principal do telescópio = 1 kW/m2. O diâmetro do disco de alumínio é igual ao da imagem do Sol. Desconsidere perdas de calor pelo disco de alumínio. Página 10/38 − Caderno Reserva 0000−00 10 318 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma criança de 30 kg está em repouso no topo de um escorregador plano de 2,5 m de altura, inclinado 30o em relação ao chão horizontal. Num certo instante, ela começa a deslizar e percorre todo o escorregador. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a energia cinética E e o módulo Q da quantidade de movimento da criança, na metade do percurso;</p>
+        </part>
+        <part>
+          <p>o módulo F da força de contato entre a criança e o escorregador;</p>
+        </part>
+        <part>
+          <p>o módulo a da aceleração da criança. Note e adote: Forças dissipativas devem ser ignoradas. A aceleração local da gravidade é 10 m/s2. sen 30 o = cos 60 o = 0,5 sen 60 o = cos 30 o = 0,9</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="F06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A região entre duas placas metálicas, planas e paralelas está esquematizada na figura ao lado. As linhas tracejadas representam o campo elétrico uniforme existente entre as placas. A distância entre as placas é 5 mm e a diferença de potencial entre elas é 300 V. As coordenadas dos pontos A, B e C são mostradas na figura. Determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>os módulos EA, EB e EC do campo elétrico nos pontos A, B e C, respectivamente;</p>
+        </part>
+        <part>
+          <p>as diferenças de potencial VAB e VBC entre os pontos A e B e entre os pontos B e C, respectivamente;</p>
+        </part>
+        <part>
+          <p>o trabalho  realizado pela força elétrica sobre um elétron que se desloca do ponto C ao ponto A. Note e adote: O sistema está em vácuo. Carga do elétron = 1,6 x 1019 C. Página 12/38 − Caderno Reserva 0000−00 12 758 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O metabissulfito de potássio (K2S2O5) e o dióxido de enxofre (SO2) são amplamente utilizados na conservação de alimentos como sucos de frutas, retardando a deterioração provocada por bactérias, fungos e leveduras. Ao ser dissolvido em soluções aquosas ácidas ou básicas, o metabissulfito pode se transformar nas espécies químicas SO2, HSO3  ou SO3 2, dependendo do pH da solução, como é mostrado no gráfico.</p>
+        <p>A equação a seguir representa a formação dos íons HSO3  em solução aquosa.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as equações químicas balanceadas que representam a formação das espécies químicas SO2 (aq) e SO3 2 (aq) a partir dos íons S2O5 2 (aq).</p>
+        </part>
+        <part>
+          <p>Reações indesejáveis no organismo podem ocorrer quando a ingestão de íons S2O5 2, HSO3  ou SO3 2 ultrapassa um valor conhecido como IDA (ingestão diária aceitável, expressa em quantidade de SO2/dia/massa corpórea), que, neste caso, é igual a 1,1 x 105 mol de SO2 por dia para cada quilograma de massa corpórea. Uma pessoa que pesa 50 kg tomou, em um dia, 200 mL de uma água de coco industrializada que continha 64 mg/L de SO2. Essa pessoa ultrapassou o valor da IDA? Explique, mostrando os cálculos. Dados: massa molar (g/mol) O ....... 16 S ........ 32</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O hidrogênio tem sido apontado como possível fonte de energia do futuro. Algumas montadoras de automóveis estão construindo carros experimentais que podem funcionar utilizando gasolina ou hidrogênio líquido como combustível.</p>
+        <p>Considere a tabela a seguir, contendo dados obtidos nas mesmas condições, sobre a energia específica (quantidade de energia liberada pela combustão completa de 1 g de combustível) e o conteúdo de energia por volume (quantidade de energia liberada pela combustão completa de 1 L de combustível), para cada um desses combustíveis:</p>
+        <p>Combustível Energia específica (kJ/g) Conteúdo de energia por volume (103 kJ/L) Gasolina líquida 47 35 Hidrogênio líquido 142 10</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Com base nos dados da tabela, calcule a razão entre as densidades da gasolina líquida e do hidrogênio líquido (dgasolina(l ) / dhidrogênio(l)). Mostre os cálculos.</p>
+        </part>
+        <part>
+          <p>Explique por que, embora a energia específica do hidrogênio líquido seja maior do que a da gasolina líquida, o conteúdo de energia por volume do hidrogênio líquido é menor do que o da gasolina líquida. Página 14/38 − Caderno Reserva 0000−00 14 198 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="Q03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A preparação de um biodiesel, em uma aula experimental, foi feita utilizando‐se etanol, KOH e óleo de soja, que é constituído principalmente por triglicerídeos. A reação que ocorre nessa preparação de biodiesel é chamada transesterificação, em que um éster reage com um álcool, obtendo‐se um outro éster. Na reação feita nessa aula, o KOH foi utilizado como catalisador. O procedimento foi o seguinte: 1ª etapa: Adicionou‐se 1,5 g de KOH a 35 mL de etanol, agitando‐se continuamente a mistura. 2ª etapa: Em um erlenmeyer, foram colocados 100 mL de óleo de soja, aquecendo‐se em banho‐maria, a uma temperatura de 45ᵒC. Adicionou‐se a esse óleo de soja a solução de catalisador, agitando‐se por mais 20 minutos. 3ª etapa: Transferiu‐se a mistura formada para um funil de separação, e esperou‐se a separação das fases, conforme representado na figura ao lado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Toda a quantidade de KOH, empregada no procedimento descrito, se dissolveu no volume de etanol empregado na primeira etapa? Explique, mostrando os cálculos.</p>
+        </part>
+        <part>
+          <p>Considere que a fórmula estrutural do triglicerídeo contido no óleo de soja é a mostrada ao lado. Escreva, no espaço indicado na página de respostas, a fórmula estrutural do biodiesel formado.</p>
+        </part>
+        <part>
+          <p>Se, na primeira etapa desse procedimento, a solução de KOH em etanol fosse substituída por um excesso de solução de KOH em água, que produtos se formariam? Responda, completando o esquema da página de respostas com as fórmulas estruturais dos dois compostos que se formariam e balanceando a equação química. Dado: solubilidade do KOH em etanol a 25ᵒC = 40 g em 100 mL</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q04">
+      <statement>
+        <p>Compostos com um grupo NO2 ligado a um anel aromático podem ser reduzidos, sendo o grupo NO2 transformado em NH2, como representado ao lado.</p>
+        <p>Compostos alifáticos ou aromáticos com grupo NH2, por sua vez, podem ser transformados em amidas ao reagirem com anidrido acético. Essa transformação é chamada de acetilação do grupo amino, como exemplificado ao lado.</p>
+        <p>Essas transformações são utilizadas para a produção industrial do paracetamol, que é um fármaco empregado como analgésico e antitérmico.</p>
+        <p>a) Qual é o reagente de partida que, após passar por redução e em seguida por acetilação, resulta no paracetamol? Escreva a fórmula estrutural desse reagente, no quadro da página de respostas.</p>
+        <p>O fenol (C6H5OH) também pode reagir com anidrido acético. Nessa transformação, forma‐se acetato de fenila.</p>
+        <p>b) Na etapa de acetilação do processo industrial de produção do paracetamol, formam‐se, também, ácido acético e um subproduto diacetilado (mas monoacetilado no nitrogênio). Complete o esquema da página de respostas, de modo a representar a equação química balanceada de formação do subproduto citado.</p>
+        <p>Página 16/38 − Caderno Reserva 0000−00 16 538 Área Reservada Não escreva no topo da folha</p>
+        <p>a)</p>
+        <p>b)</p>
+        <p>biodiesel</p>
+        <p>c)</p>
+        <p>a)</p>
+        <p>b)</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="Q05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura ao lado ilustra as estabilidades relativas das espécies que apresentam estado de oxidação +2 e +4 dos elementos da mesma família: carbono, silício, germânio, estanho e chumbo.</p>
+        <p>As estabilidades relativas podem ser interpretadas pela comparação entre potenciais padrão de redução das espécies +4 formando as espécies +2, como representado a seguir para os elementos chumbo (Pb), germânio (Ge) e estanho (Sn):</p>
+        <p>Os potenciais padrão de redução dessas três semirreações, E1 o, E2 o e E3 o, foram determinados experimentalmente, obtendo‐se os valores 0,12 V, 0,094 V e 1,5 V, não necessariamente nessa ordem. Sabe‐se que, quanto maior o valor do potencial padrão de redução, maior o caráter oxidante da espécie química.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando as informações da figura, atribua, na tabela da página de respostas, os valores experimentais aos potenciais padrão de redução E1 o, E2 o e E3 o.</p>
+        </part>
+        <part>
+          <p>O elemento carbono pode formar óxidos, nos quais a proporção entre carbono e oxigênio está relacionada ao estado de oxidação do carbono. Comparando os óxidos CO e CO2, qual seria o mais estável? Explique, com base na figura apresentada acima.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="Q06">
+      <statement>
+        <p>O glicerol pode ser polimerizado em uma reação de condensação catalisada por ácido sulfúrico, com eliminação de moléculas de água, conforme se representa a seguir:</p>
+        <p>a) Considerando a estrutura do monômero, pode‐se prever que o polímero deverá ser formado por cadeias ramificadas. Desenhe a fórmula estrutural de um segmento do polímero, mostrando quatro moléculas do monômero ligadas e formando uma cadeia ramificada.</p>
+        <p>Para investigar a influência da concentração do catalisador sobre o grau de polimerização do glicerol (isto é, a porcentagem de moléculas de glicerol que reagiram), foram efetuados dois ensaios:</p>
+        <p>Ao final desses ensaios, os polímeros 1 e 2 foram analisados separadamente. Amostras de cada um deles foram misturadas com diferentes solventes, observando‐se em que extensão ocorria a dissolução parcial de cada amostra. A tabela a seguir mostra os resultados dessas análises:</p>
+        <p>Amostra Solubilidade (% em massa) Hexano (solvente apolar) Etanol (solvente polar) polímero 1 3 13 polímero 2 2 3</p>
+        <p>b) Qual dos polímeros formados deve apresentar menor grau de polimerização? Explique sua resposta, fazendo referência à solubilidade das amostras em etanol.</p>
+        <p>Página 18/38 − Caderno Reserva 0000−00 18 978 Área Reservada Não escreva no topo da folha</p>
+        <p>a)</p>
+        <p>E1 o E2 o E3 o Valor experimental em volt</p>
+        <p>b)</p>
+        <p>0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="B01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No heredograma abaixo estão representadas pessoas que têm uma doença genética muito rara, cuja herança é dominante. A doença é causada por mutação em um gene localizado no cromossomo 6. Essa mutação, entretanto, só se manifesta, causando a doença, em 80% das pessoas heterozigóticas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Usando os algarismos romanos e arábicos correspondentes, identifique as pessoas que são certamente heterozigóticas quanto a essa mutação. Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Qual é a probabilidade de uma criança, que II‐5 venha a ter, apresentar a doença? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Analise o gráfico abaixo, relativo à mortalidade de fêmeas férteis do camarão‐da‐areia (Crangon septemspinosa) em água aerada, em diferentes temperaturas e salinidades, durante determinado período.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual dos seguintes conceitos  ecossistema, hábitat, nicho ecológico  está implícito nesse gráfico?</p>
+        </part>
+        <part>
+          <p>Os dados de mortalidade representados nesse gráfico referem‐se a que nível de organização: espécie, população ou comunidade?</p>
+        </part>
+        <part>
+          <p>Temperatura e salinidade são fatores abióticos que, nesse caso, provocaram mortalidade das fêmeas do camarão‐da‐areia. Cite dois fatores bióticos que também possam produzir mortalidade. Página 20/38 − Caderno Reserva 0000−00 20 626 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em certa doença humana, enzimas digestivas intracelulares (hidrolases) são transportadas do complexo golgiense para a membrana celular e secretadas, em vez de serem encaminhadas para as organelas em que atuam.</p>
+        <p>Nos indivíduos clinicamente normais,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>em que organelas celulares essas enzimas digestivas atuam?</p>
+        </part>
+        <part>
+          <p>além de materiais capturados do meio externo, que outros materiais são digeridos pela célula?</p>
+        </part>
+        <part>
+          <p>qual é o destino dos produtos da digestão intracelular?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura abaixo mostra órgãos do sistema digestório humano.</p>
+        <p>Identifique com a letra correspondente, nomeando‐o,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o órgão cuja secreção contém bicarbonato de sódio, além de várias enzimas digestivas;</p>
+        </part>
+        <part>
+          <p>o principal órgão responsável pela absorção de nutrientes;</p>
+        </part>
+        <part>
+          <p>o órgão em que se inicia a digestão de proteínas;</p>
+        </part>
+        <part>
+          <p>o órgão que produz substâncias que auxiliam a digestão de gorduras, mas que não produz enzimas. Página 22/38 − Caderno Reserva 0000−00 22 066 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No processo de adaptação ao ambiente terrestre, animais e plantas sofreram modificações morfológicas e funcionais.</p>
+        <p>Considere a classificação tradicional das plantas em algas, briófitas, pteridófitas, gimnospermas e angiospermas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual(is) desses grupos de plantas independe(m) da água para a fecundação? Que estrutura permite o encontro dos gametas, em substituição à água?</p>
+        </part>
+        <part>
+          <p>As briófitas, primeiro grupo de plantas preponderantemente terrestre, têm tamanho reduzido. As pteridófitas, surgidas posteriormente, são plantas de grande tamanho, que chegaram a constituir extensas florestas. Que relação existe entre o mecanismo de transporte de água e o tamanho das plantas nesses grupos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="B06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O rígido exoesqueleto dos artrópodes é periodicamente substituído para que seu corpo possa crescer. Após as mudas, com o revestimento do corpo ainda flexível, o animal cresce. O gráfico abaixo representa o crescimento desses animais.</p>
+        <p>Nas coordenadas da página de respostas, represente</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o crescimento de alguns moluscos, cujo exoesqueleto agrega material de maneira contínua, permitindo o crescimento continuado do animal;</p>
+        </part>
+        <part>
+          <p>o crescimento de mamíferos, que têm endoesqueleto ósseo e crescem até se tornarem adultos. Página 24/38 − Caderno Reserva 0000−00 24 406 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Examine a seguinte imagem:</p>
+        <p>Louis‐Michel van Loo &amp; Claude‐Joseph Vernet, O Marquês de Pombal, 1766.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique e analise dois elementos representados na imagem, relativos ao contexto sociopolítico de Portugal na segunda metade do século XVIII.</p>
+        </part>
+        <part>
+          <p>Aponte e explique uma medida relativa ao Brasil, adotada por Portugal nessa mesma época.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O movimento político conhecido como “Confederação do Equador”, ocorrido em 1824 em Pernambuco e em províncias vizinhas, contou com a liderança de figuras como Manuel Carvalho Paes de Andrade e Frei Joaquim do Amor Divino Caneca. Relacione esse movimento com</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o projeto político desenvolvido pela Corte do Rio de Janeiro, na mesma época;</p>
+        </part>
+        <part>
+          <p>outros dois movimentos ocorridos em Pernambuco, em anos anteriores. Página 26/38 − Caderno Reserva 0000−00 26 846 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia os dois fragmentos abaixo.</p>
+        <p>I. É necessário, pois, aceitar como princípio e ponto de partida o fato de que existe uma hierarquia de raças e civilizações, e que nós pertencemos a raça e civilização superiores, reconhecendo ainda que a superioridade confere direitos, mas, em contrapartida, impõe obrigações estritas. A legitimação básica da conquista de povos nativos é a convicção de nossa superioridade, não simplesmente nossa superioridade mecânica, econômica e militar, mas nossa superioridade moral. Nossa dignidade se baseia nessa qualidade, e ela funda nosso direito de dirigir o resto da humanidade. O poder material é apenas um meio para esse fim.</p>
+        <p>Declaração do francês Jules Harmand, em 1910. Apud: Edward Said. Cultura e imperialismo. São Paulo: Companhia das Letras, 1995. Adaptado.</p>
+        <p>II. (...) apesar das suas diferenças, os ingleses e os franceses viam o Oriente como uma entidade geográfica — e cultural, política, demográfica, sociológica e histórica — sobre cujos destinos eles acreditavam ter um direito tradicional. Para eles, o Oriente não era nenhuma descoberta repentina, mas uma área ao leste da Europa cujo valor principal era definido uniformemente em termos de Europa, mais particularmente em termos que reivindicavam especificamente para a Europa — para a ciência, a erudição, o entendimento e a administração da Europa — o crédito por ter transformado o Oriente naquilo que era.</p>
+        <p>Edward Said. Orientalismo. São Paulo: Companhia das Letras, 1990.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique a principal ideia defendida no texto I e explique sua relação com a expansão imperialista europeia no final do século XIX.</p>
+        </part>
+        <part>
+          <p>Relacione o texto I com o texto II, quanto à concepção política neles presente.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os cartazes acima circularam durante a Guerra Civil Espanhola (1936‐1939).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique, em cada um dos cartazes, um elemento que permita associá‐los, respectivamente, às principais forças políticas envolvidas nessa guerra.</p>
+        </part>
+        <part>
+          <p>Caracterize as principais propostas das forças políticas representadas nos cartazes. Página 28/38 − Caderno Reserva 0000−00 28 286 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A cidade do Rio de Janeiro abre o século XX defrontando‐se com perspectivas extremamente promissoras. Aproveitando‐se de seu papel privilegiado na intermediação dos recursos da economia cafeeira e de sua condição de centro político do país, a sociedade carioca via acumularem‐se no seu interior vastos recursos enraizados principalmente no comércio e nas finanças, mas derivando já para as aplicações industriais. A mudança da natureza das atividades econômicas do Rio foi de monta, portanto, a transformá‐lo no maior centro cosmopolita da nação, em íntimo contato com a produção e o comércio europeus e americanos, absorvendo‐os e irradiando‐os para todo o país. Muito cedo, no entanto, ficou evidente o anacronismo da velha estrutura urbana do Rio de Janeiro diante das demandas dos novos tempos.</p>
+        <p>Nicolau Sevcenko. Literatura como missão. Tensões sociais e criação cultural na Primeira República. São Paulo: Brasiliense, 1983. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite dois exemplos que justifiquem o mencionado “anacronismo da velha estrutura urbana do Rio de Janeiro”.</p>
+        </part>
+        <part>
+          <p>Cite duas importantes mudanças socioeconômicas pelas quais a cidade do Rio de Janeiro passou no princípio do século XX.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="H06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 25 de abril de 1984, a Câmara dos Deputados do Brasil rejeitou a Emenda Constitucional que propunha o restabelecimento das eleições diretas para a presidência da República. Durante quase nove meses, situação e oposição realizaram articulações políticas, visando à escolha do novo presidente. Em 15 de janeiro de 1985, Tancredo Neves foi eleito presidente do Brasil por um Colégio Eleitoral.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique em que consistia esse Colégio Eleitoral e como ele era composto.</p>
+        </part>
+        <part>
+          <p>Identifique e caracterize a articulação política vitoriosa na eleição presidencial de 1985. Página 30/38 − Caderno Reserva 0000−00 30 934 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Segundo o IBGE, aglomerado subnormal “é um conjunto constituído de, no mínimo, 51 unidades habitacionais (barracos, casas, etc.) carentes, em sua maioria, de serviços públicos essenciais. O conceito de aglomerado subnormal foi utilizado pela primeira vez no Censo Demográfico 1991. Possui certo grau de generalização, de forma a abarcar a diversidade de assentamentos existentes no País, conhecidos como: favela, invasão, grota, baixada, comunidade, vila, ressaca, mocambo, palafita, entre outros”.</p>
+        <p>Aglomerados subnormais. IBGE, 2011. Adaptado.</p>
+        <p>Com base no texto e no mapa,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>identifique duas características dos aglomerados subnormais, sendo uma relativa à questão fundiária e outra ao padrão de urbanização;</p>
+        </part>
+        <part>
+          <p>explique a concentração espacial dos aglomerados subnormais na região Sudeste e o processo que levou a essa concentração.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A Convenção das Nações Unidas sobre Direito do Mar estabelece as linhas de base a partir das quais passam a ser contados o mar territorial, a zona contígua, a zona econômica exclusiva e o limite exterior da plataforma continental, bem como os critérios para o delineamento do limite exterior da plataforma.</p>
+        <p>www.marinha.mil.br. Acesso em 30/10/2014. Adaptado.</p>
+        <p>Com base nessa Convenção, da qual o Brasil é signatário, o governo brasileiro propôs às Nações Unidas a ampliação do limite exterior de sua plataforma continental para até 350 milhas náuticas (648 km), o que resultaria em uma área total com cerca de 4,4 milhões de quilômetros quadrados, a qual vem sendo chamada pela Marinha do Brasil de “Amazônia Azul”.</p>
+        <p>Considerando o mapa e seus conhecimentos,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>explique a importância geoestratégica da delimitação de áreas/zonas marítimas para as nações litorâneas;</p>
+        </part>
+        <part>
+          <p>identifique e explique duas razões da importância econômica da chamada Amazônia Azul para o Brasil. Página 32/38 − Caderno Reserva 0000−00 32 374 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base nas informações acima e em seus conhecimentos, identifique</p>
+      </statement>
+      <parts>
+        <part>
+          <p>dois fatores responsáveis pelo crescimento do número de shopping centers no Brasil entre 2008 e 2014.</p>
+        </part>
+        <part>
+          <p>duas tendências da distribuição geográfica dos shopping centers pelas diferentes regiões brasileiras, considerando o crescimento no período 2011‐2014. Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o mapa.</p>
+        <p>Com base no mapa e em seus conhecimentos sobre os EUA,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>aponte duas razões da importância geopolítica desse país, na atualidade, considerando sua localização e dimensão territorial;</p>
+        </part>
+        <part>
+          <p>explique a importância econômica, para esse país, da região circundada no mapa, considerando os recursos naturais e os aspectos humanos. Página 34/38 − Caderno Reserva 0000−00 34 714 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere o texto abaixo para responder à questão.</p>
+        <p>O que houve em Canudos e continua a acontecer hoje, no campo como nas grandes cidades brasileiras, foi o choque do Brasil “oficial e mais claro” com o Brasil “real e mais escuro” (...). Euclides da Cunha, formado, como todos nós, pelo Brasil oficial, de repente, ao chegar ao sertão, viu‐se ofuscado pelo Brasil real de Antônio Conselheiro e seus seguidores. Sua intuição de escritor de gênio e seu nobre caráter de homem de bem colocaram‐no imediatamente ao lado do Conselheiro, para honra e glória do escritor. De modo que, entre outros erros e contradições, só lhe ocorreu, além da corajosa denúncia do crime, pregar uma “modernização” que consistiria, finalmente, em conformar o Brasil real pelos moldes do Brasil oficial. Isto é, uma modernização falsificadora e falsa, que, como a que estão tentando fazer agora, é talvez pior do que uma invasão declarada. Esta apenas destrói e assola, enquanto a falsa modernização, no campo como na cidade, descaracteriza, assola, destrói e avilta o povo do Brasil real.</p>
+        <p>Ariano Suassuna. Folha de S. Paulo, 30/11/1999. Adaptado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique e explique dois elementos da questão agrária brasileira contemporânea que justificam a expressão “falsa modernização no campo”.</p>
+        </part>
+        <part>
+          <p>Descreva uma característica comum entre o movimento de Canudos e os movimentos sociais que atuam no campo brasileiro na atualidade.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="G06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o mapa a seguir.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Aponte, sobre a região ártica, um interesse geoeconômico, indicando três países nele envolvidos.</p>
+        </part>
+        <part>
+          <p>Explique a ocorrência de um impacto ambiental relacionado a uma importante atividade econômica desenvolvida nessa região. Página 36/38 − Caderno Reserva 0000−00 36 154 Área Reservada Não escreva no topo da folha 0 1 2 3 4 OK 0 1 2 3 4 0 1 2 3 4 OK 0 1 2 3 4 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 QUADRO DESTINADO À RESPOSTA DA QUESTÃO TEXTOS ESCRITOS FORA DESTE QUADRO (OU A LÁPIS) NÃO SERÃO CONSIDERADOS PELO CORRETOR FUVEST 2015 PROVA 3 FUVEST Fundação Universitária para o Vestibular|06/01/2015|10:29:59 XXX.XXX.XXX.XXX DD/MM/AAAA HH:MM:SS CAIXA 000 000/000 FUVEST 2015 2ª Fase − Terceiro Dia (06/01/2015) 000/000 Página 38/38 − Caderno Reserva 0000−00 38 594 Área Reservada Não escreva no topo da folha</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

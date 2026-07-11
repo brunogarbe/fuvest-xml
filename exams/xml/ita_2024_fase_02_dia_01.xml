@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2024" phase="discursive" day="0" variation="V1" date="2024-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Sejam (an) uma progressão aritmética e (bn) uma progressão geométrica. Se a razão de (an) é r, r̸ = 0, a razão de (bn) é q = 1=r, a1 = b1 = 4 e a1 + a2 + a3 + a4 + a5 = 50 3 ; determine n de modo que a soma dos n primeiros termos da progressão geométrica seja igual a −80. 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Quatro cidades A, B, C e D estão ligadas por seis pontes distintas da seguinte maneira: – uma ponte liga A e B; – uma ponte liga A e C; – uma ponte liga B e C; – duas pontes ligam B e D; – uma ponte liga C e D. Quantos caminhos são possíveis ligando todas as cidades e passando por todas as pontes uma única vez, sabendo que é permitido passar em uma mesma cidade mais de uma vez? 3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Determine todos os valores reais de x para os quais ˛˛˛ log1=2 |x| ˛˛˛ + ˛˛˛ log2 |x| ˛˛˛ &lt; 4: 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Dada uma matriz A ∈Mn(R) simétrica, dizemos que A é deﬁnida positiva se XTAX = [y]; y &gt; 0; para toda X ∈Mn;1(R) que tem ao menos uma entrada não-nula. Encontre todos os possíveis valores de b ∈R tais que a matriz A =</p>
+        <p>1 b b 1 ! seja deﬁnida positiva. 5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Encontre as raízes do polinômio p(x) = x4 −4x3 +9x2 −10x −14, sabendo que vale a relação p(1 + x) = p(1 −x), para todo x ∈C. 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. O sólido S é formado pela união de dois paralelepípedos retângulos congruentes, com posição e medidas conforme a ﬁgura. Vista frontal 5 3 5 3 Vista superior 4 3 5 4 Seja AB um segmento de reta completamente contido em S que contém um dos vértices de S. Encontre o maior valor possível de m(AB). 7</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Determine a equação da circunferência de maior raio que é tangente ao eixo y e passa pelos pontos (1; 4) e (3; 6). 8</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Considere a parábola de equação y = 4x −x2 com vértice no ponto V . Seja T o trapézio PABV , onde P = (0; 0), A é um ponto com abscissa no intervalo [2; 4] e ordenada nula e B é um ponto na parábola com ordenada positiva. Sabendo que m(AB) = 7 8 √ 5, determine a área de T. 9</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Seja z = 1 + ai uma raiz do polinômio p(x) = x4 + 10x2 + mx + 29, onde a e m são números reais. Determine a área do quadrilátero cujos vértices são as quatro raízes complexas de p(x) no plano de Argand-Gauss. 10</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Sabendo que tan(¸+˛) = −2 e sen(¸) = (4− √ 5)sen(˛) para ¸, ˛ ∈(0; ı=2), calcule tan ¸ + ˛ 2 ! ; tan ¸ −˛ 2 ! e tan ¸ −˛ 2 ! tan ¸ + ˛ 2 !: 11</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

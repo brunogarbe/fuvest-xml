@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2006" phase="discursive" day="0" variation="V1" date="2006-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um tapete deve ser bordado sobre uma tela de 2 m por 2 m, com as cores marrom, mostarda, verde e laranja, da seguinte forma: o padrão quadrado de 18 cm por 18 cm, mostrado abaixo, será repetido tanto na horizontal quanto na vertical; e uma faixa mostarda, de 5 cm de largura, será bordada em toda a volta do tapete, como na figura.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual o tamanho do maior tapete quadrado, como descrito acima, que pode ser bordado na tela? Quantas vezes o padrão será repetido?</p>
+        </part>
+        <part>
+          <p>Se com um novelo de lã pode-se bordar 400 cm2, qual é o número mínimo de novelos de lã mostarda necessário para confeccionar esse tapete?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um comerciante compra calças, camisas e saias e as revende com lucro de 20%, 40% e 30% respectivamente. O preço x que o comerciante paga por uma calça é três vezes o que ele paga por uma camisa e duas vezes o que ele paga por uma saia. Um certo dia, um cliente comprou duas calças, duas camisas e duas saias e obteve um desconto de 10% sobre o preço total.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quanto esse cliente pagou por sua compra, em função de x?</p>
+        </part>
+        <part>
+          <p>Qual o lucro aproximado, em porcentagem, obtido pelo comerciante nessa venda?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma função f satisfaz a identidade ( ) ( ) x af ax f = para todos os números reais a e x. Além disso, sabe-se que . Considere ainda a função para todo o número real x. ( ) 2 4 f = ( ) ( ) 1 1 x f x g + − =</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule . ( ) 3 g</p>
+        </part>
+        <part>
+          <p>Determine , para todo x real. ( ) x f</p>
+        </part>
+        <part>
+          <p>Resolva a equação . ( ) 8 x g =</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="04">
+      <statement>
+        <p>A reta s passa pela origem O e pelo ponto A do primeiro quadrante. A reta r é perpendicular à reta s, no ponto A, e intercepta o eixo x no ponto B e o eixo y no ponto C. Determine o coeficiente angular de s se a área do triângulo OBC for o triplo da área do triângulo OAB.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura abaixo, O é o centro da circunferência de raio 1, a reta AB é secante a ela, o ângulo β mede 60o e 4 3 α sen = .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine em função de AB. B Aˆ O sen</p>
+        </part>
+        <part>
+          <p>Calcule AB.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>Um torneiro mecânico dispõe de uma peça de metal maciça na forma de um cone circular reto de 15 cm de altura e cuja base B tem raio 8 cm (Figura 1). Ele deverá furar o cone, a partir de sua base, usando uma broca, cujo eixo central coincide com o eixo do cone. A broca perfurará a peça até atravessá-la completamente, abrindo uma cavidade cilíndrica, de modo a obter-se o sólido da Figura 2. Se a área da base deste novo sólido é 3 2 da área de B , determine seu volume.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No paralelogramo ABCD abaixo, tem-se que 3 AD = e . Além disso, sabe-se que o ponto P pertence ao lado o 30 B Aˆ D = DC e à bissetriz do ângulo . B Aˆ D</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule AP.</p>
+        </part>
+        <part>
+          <p>Determine AB sabendo que a área do quadrilátero ABCP é 21.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="08">
+      <statement>
+        <p>Determine os números complexos z que satisfazem, simultaneamente, 2 z = e 2 1 i 1 i z Im = ⎟ ⎠ ⎞ ⎜ ⎝ ⎛ + − .</p>
+        <p>Lembretes: ; se , com a e b reais, então 1 i2 − = bi a w + = 2 2 b a w + = e ( ) b w Im = .</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere o sistema linear nas variáveis z e y x, :</p>
+        <p>( ) ( ) ( ) ( ) ( ) ( ) ⎪ ⎪ ⎪ ⎩ ⎪⎪ ⎪ ⎨ ⎧ = + = + + = + + 0 z sen y cos 0 z sen y cos x 0 z sen y cos x 2 2 2 2 2 2 c c b b a a</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule o determinante da matriz dos coeficientes do sistema linear.</p>
+        </part>
+        <part>
+          <p>Para que valores de a, b e c o sistema linear admite soluções não triviais?</p>
+        </part>
+        <part>
+          <p>Calcule as soluções do sistema quando e 1 sen2 = a 5 1 cos2 = c .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine os pontos A e B do plano cartesiano nos quais os gráficos de 1 x 12 y − = e 0 6 y x = − + se interceptam.</p>
+        </part>
+        <part>
+          <p>Sendo O a origem, determine o ponto C no quarto quadrante que satisfaz e que pertence à reta . B Cˆ A B Oˆ A = 2 x =</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

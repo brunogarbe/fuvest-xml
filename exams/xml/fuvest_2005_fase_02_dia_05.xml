@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2005" phase="discursive" day="0" variation="V1" date="2005-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>Para a fabricação de bicicletas, uma empresa comprou unidades do produto A, pagando R$ 96,00, e unidades do produto B, pagando R$ 84,00. Sabendo-se que o total de unidades compradas foi de 26 e que o preço unitário do produto A excede em R$ 2,00 o preço unitário do produto B, determine o número de unidades de A que foi comprado.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>Diz-se que a matriz quadrada A tem posto 1 se uma de suas linhas é não-nula e as outras são múltiplas dessa linha. Determine os valores de a, b e c para os quais a matriz 3x3</p>
+        <p>⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎦ ⎤ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎣ ⎡ + − − + + − = b a c a c b c b a A 2 2 1 3 6 1 2 3 3 2 1 2</p>
+        <p>tem posto 1.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma seqüência de números reais a1, a2, a3, ... satisfaz à lei de formação</p>
+        <p>an+1 = 6an , se n é ímpar an+1 = n 3 1 a , se n é par.</p>
+        <p>Sabendo-se que 2 1 = a ,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>escreva os oito primeiros termos da seqüência.</p>
+        </part>
+        <part>
+          <p>determine a37 e a38.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura representa duas circunferências de raios R e r com centros nos pontos A e B, respectivamente, tangenciando-se externamente no ponto D. Suponha que:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>As retas t1 e t2 são tangentes a ambas as circunferências e interceptam-se no ponto C.</p>
+        </part>
+        <part>
+          <p>A reta t2 é tangente às circunferências no ponto D. Calcule a área do triângulo ABC, em função dos raios R e r.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p>Na figura abaixo A, B e D são colineares e o valor da abscissa m do ponto C é positivo. Sabendo-se que a área do triângulo retângulo ABC é 2 5 , determine o valor de m.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>Na figura acima, as 12 circunferências têm todas o mesmo raio r; cada uma é tangente a duas outras e ao quadrado. Sabendo-se que cada uma das retas suporte das diagonais do quadrado tangencia quatro das circunferências (ver figura), e que o quadrado tem lado 7 2 , determine r.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>Determine todos os valores de x pertencentes ao intervalo [ ] π 0,2 que satisfazem a equação x x 2 2 sen 2 1 2 cos − = .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>A base ABCD da pirâmide ABCDE é um retângulo de lados AB = 4 e BC = 3. As áreas dos triângulos ABE e CDE são, respectivamente, 10 4 e 37 2 . Calcule o volume da pirâmide.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>Seja 1 ) (1 2 + − + = x a ax f(x) , onde a é um número real diferente de zero. Determine os valores de a para os quais as raízes da equação f(x) = 0 são reais e o número x = 3 pertence ao intervalo fechado compreendido entre as raízes.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>Uma pessoa dispõe de um dado honesto, que é lançado sucessivamente quatro vezes. Determine a probabilidade de que nenhum dos números sorteados nos dois primeiros lançamentos coincida com algum dos números sorteados nos dois últimos lançamentos.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

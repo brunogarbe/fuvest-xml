@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2001" phase="discursive" day="0" variation="V1" date="2001-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>A diferença entre dois números inteiros positivos é 10. Ao multiplicar um pelo outro, um estudante cometeu um engano, tendo diminuído em 4 o algarismo das dezenas do produto. Para conferir seus cálculos, dividiu o resultado obtido pelo menor dos fatores, obtendo 39 como quociente e 22 como resto. Determine os dois números.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A hipotenusa de um triângulo retângulo está contida na reta 13 5 − = x y : r , e um de seus catetos está contido na reta 1 − = x y : s . Se o vértice onde está o ângulo reto é um ponto da forma ( ) 5 , k sobre a reta s, determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>todos os vértices do triângulo;</p>
+        </part>
+        <part>
+          <p>a área do triângulo. Matemática – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule θ 3 cos em função de θ sen e de θ cos .</p>
+        </part>
+        <part>
+          <p>Calcule θ 3 sen em função de θ sen e de θ cos .</p>
+        </part>
+        <part>
+          <p>Para 2 0 π &lt; θ &lt; , resolva a equação: θ θ − θ θ = + θ + θ cos cos sen sen cos sen 3 3 1 2 1 2 .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="04">
+      <statement>
+        <p>Na figura ao lado, têm-se um cilindro circular reto, onde A e B são os centros das bases e C é um ponto da intersecção da superfície lateral com a base inferior do cilindro. Se D é o ponto do segmento BC, cujas distâncias a AC e AB são ambas iguais a d, obtenha a razão entre o volume do cilindro e sua área total (área lateral somada com as áreas das bases), em função de d.</p>
+        <p>Matemática – FUVEST 2001</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere dois números reais µ λ e tais que 0 1 1 ≠ µ λ ≠ µ − ≠ λ e , .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine uma relação entre µ λ e , para que as equações polinomiais ( ) 0 1 2 3 = + λ − − µ − λ x x x e ( ) 0 1 2 = + λ − − λ x x possuam uma raiz comum.</p>
+        </part>
+        <part>
+          <p>Nesse caso, determine a raiz comum.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No plano complexo, cada ponto representa um número complexo. Nesse plano, considere o hexágono regular, com centro na origem, tendo i, a unidade imaginária, como um de seus vértices.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine os vértices do hexágono.</p>
+        </part>
+        <part>
+          <p>Determine os coeficientes de um polinômio de grau 6, cujas raízes sejam os vértices do hexágono. Matemática – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um agricultor irriga uma de suas plantações utilizando duas máquinas de irrigação. A primeira irriga uma região retangular, de base 100 m e altura 20 m, e a segunda irriga uma região compreendida entre duas circunferências de centro O, e de raios 10 m e 30 m. A posição relativa dessas duas regiões é dada na figura</p>
+        <p>onde A e B são os pontos médios das alturas do retângulo. Sabendo-se ainda que os pontos A, B e O estão alinhados e que m BO 20 = , determine</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a área da intersecção das regiões irrigadas pelas máquinas;</p>
+        </part>
+        <part>
+          <p>a área total irrigada. Utilize as seguintes aproximações: 41 1 2 , = , 14 3, = π e rad , sen arc 340 0 3 1 = .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um dado, cujas faces estão numeradas de um a seis, é dito perfeito se cada uma das seis faces tem probabilidade 1/6 de ocorrer em um lançamento. Considere o experimento que consiste em três lançamentos independentes de um dado perfeito. Calcule a probabilidade de que o produto desses três números seja</p>
+      </statement>
+      <parts>
+        <part>
+          <p>par;</p>
+        </part>
+        <part>
+          <p>múltiplo de 10. Matemática – FUVEST 2001</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dado um número real a, considere o seguinte problema:</p>
+        <p>"Achar números reais 6 2 1 x ,..., x , x , não todos nulos, que satisfaçam o sistema linear: ( )( ) ( )( )( )( ) ( ) ( ) ( ) 0 3 1 6 4 3 1 3 2 1 1 = − + − + − − − − + − − + − r r r r x r x r r r r x r r a , para 6 2 1 ..., , , r = , onde 0 7 0 = = x x ".</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva o sistema linear acima em forma matricial.</p>
+        </part>
+        <part>
+          <p>Para que valores de a o problema acima tem solução?</p>
+        </part>
+        <part>
+          <p>Existe, para algum valor de a, uma solução do problema com 1 1 = x ? Se existir, determine tal solução.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="10">
+      <statement>
+        <p>São dados os pontos A e B e um segmento contendo os pontos G, H e I. Sabese que A e B pertencem, respectivamente, às diagonais CE e DF de um quadrado CDEF , cujo centro é O. A distância de A a O é igual a GH e a medida do lado do quadrado é igual a GI. Construa, usando régua e compasso, um quadrado CDEF , satisfazendo as condições acima. Descreva e justifique as construções utilizadas.</p>
+        <p>Matemática – FUVEST 2001</p>
+        <p>Figura utilizada para responder ítem a da questão 09</p>
+        <p>a)                                   =                                                                     0 0 0 0 0 0 6 5 4 3 2 1 x x x x x x</p>
+        <p>Matemática – FUVEST 2001</p>
+        <p>Figura utilizada para responder a questão 10</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

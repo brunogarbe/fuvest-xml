@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2015" phase="objective" day="0" variation="V1" date="2015-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Considere as seguintes armações sobre números reais: I. Se a expansão decimal de x é innita e periódica, então x é um número racional. II. ∞ X n=0 1 ( √ 2 −1) √ 2n = √ 2 1 −2 √ 2. III. ln 3√ e2 + (log3 2)(log4 9) é um número racional. É (são) verdadeira(s): A ( ) nenhuma. D ( ) apenas I e III. B ( ) apenas II. E ( ) I, II e III. C ( ) apenas I e II.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Sejam A, B e C os subconjuntos de C denidos por A = {z ∈C : |z + 2 −3i| &lt; √ 19}, B = {z ∈C : |z + i| &lt; 7/2} e C = {z ∈C : z2 + 6z + 10 = 0}. Então, (A \ B) ∩C é o conjunto A ( ) {−1 −3i, −1 + 3i}. D ( ) {−3 −i}. B ( ) {−3 −i, −3 + i}. E ( ) {−1 + 3i}. C ( ) {−3 + i}.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Se z =</p>
+        <p>1 + √ 3i 1 − √ 3i !10 , então o valor de 2 arcsen(Re(z)) + 5 arctg(2 Im(z)) é igual a A ( ) −2π 3 . B ( ) −π 3 . C ( ) 2π 3 . D ( ) 4π 3 . E ( ) 5π 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Seja C uma circunferência tangente simultaneamente às retas r : 3x + 4y −4 = 0 e s : 3x + 4y −19 = 0. A área do círculo determinado por C é igual a A ( ) 5π 7 . B ( ) 4π 5 . C ( ) 3π 2 . D ( ) 8π 3 . E ( ) 9π 4 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Seja (a1, a2, a3, . . .) a sequência denida da seguinte forma: a1 = 1, a2 = 1 e an = an−1 + an−2 para n ≥3. Considere as armações a seguir: I. Existem três termos consecutivos, ap, ap+1, ap+2, que, nesta ordem, formam uma progressão geométrica. II. a7 é um número primo. III. Se n é múltiplo de 3, então an é par. É (são) verdadeira(s) A ( ) apenas II. D ( ) apenas II e III. B ( ) apenas I e II. E ( ) I, II e III. C ( ) apenas I e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere a equação a 1 −x2 − b x −1/2 = 5, com a e b números inteiros positivos. Das armações: I. Se a = 1 e b = 2, então x = 0 é uma solução da equação. II. Se x é solução da equação, então x̸ = 1 2, x̸ = −1 e x̸ = 1. III. x = 2 3 não pode ser solução da equação. É (são) verdadeira(s) A ( ) apenas II. D ( ) apenas II e III. B ( ) apenas I e II. E ( ) I, II e III. C ( ) apenas I e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Considere o polinômio p dado por p(x) = 2x3 +ax2 +bx−16, com a, b ∈R. Sabendo-se que p admite raiz dupla e que 2 é uma raiz de p, então o valor de b −a é igual a A ( ) −36. B ( ) −12. C ( ) 6. D ( ) 12. E ( ) 24.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Seja p o polinômio dado por p(x) = 15 P j=0 ajxj, com aj ∈R, j = 0, 1, . . . , 15, e a15̸ = 0. Sabendo-se que i é uma raiz de p e que p(2) = 1, então o resto da divisão de p pelo polinômio q, dado por q(x) = x3 −2x2 + x −2, é igual a A ( ) 1 5x2 −1 5. D ( ) 3 5x2 −3 5. B ( ) 1 5x2 + 1 5. E ( ) 3 5x2 + 1 5. C ( ) 2 5x2 + 2 5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Considere todos os triângulos retângulos com os lados medindo √a, 2√a e a. Dentre esses triângulos, o de maior hipotenusa tem seu menor ângulo, em radianos, igual a A ( ) arctg √ 3 4 . B ( ) arctg √ 3 3 . C ( ) arctg 1 2. D ( ) arctg 3 5. E ( ) arctg 4 5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Os valores de x ∈[0, 2π] que satisfazem a equação 2 sen x −cos x = 1 são A ( ) arccos 3 5 e π. D ( ) arccos −4 5 e π. B ( ) arcsen 3 5 e π. E ( ) arccos 4 5 e π. C ( ) arcsen −4 5 e π.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Sejam α e β números reais tais que α, β, α + β ∈]0, 2π[ e satisfazem as equações cos2 α 2 = 4 5 cos4 α 2 + 1 5 e cos2 β 3 = 4 7 cos4 β 3 + 3 7. Então, o menor valor de cos(α + β) é igual a A ( ) −1. B ( ) − √ 3 2 . C ( ) − √ 2 2 . D ( ) −1 2. E ( ) 0.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Seja A = (aij)5×5 a matriz tal que aij = 2i−1(2j −1), 1 ≤i, j ≤5. Considere as armações a seguir: I. Os elementos de cada linha i formam uma progressão aritmética de razão 2i. II. Os elementos de cada coluna j formam uma progressão geométrica de razão 2. III. tr A é um número primo. É (são) verdadeira(s) A ( ) apenas I. D ( ) apenas I e III. B ( ) apenas I e II. E ( ) I, II e III. C ( ) apenas II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Considere a matriz M = (mij)2×2 tal que mij = j −i + 1, i, j = 1, 2. Sabendo-se que det n X k=1 M k −n 1 0 1 1 ! = 252, então o valor de n é igual a A ( ) 4. B ( ) 5. C ( ) 6. D ( ) 7. E ( ) 8.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Considere os pontos A = (0, −1), B = (0, 5) e a reta r : 2x −3y + 6 = 0. Das armações a seguir: I. d(A, r) = d(B, r). II. B é simétrico de A em relação à reta r. III. AB é base de um triângulo equilátero ABC, de vértice C = (−3 √ 3, 2) ou C = (3 √ 3, 2). É (são) verdadeira(s) apenas A ( ) I. B ( ) II. C ( ) I e II. D ( ) I e III. E ( ) II e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Dados o ponto A = 4, 25 6 e a reta r : 3x + 4y −12 = 0, considere o triângulo de vértices ABC, cuja base BC está contida em r e a medida dos lados AB e AC é igual a 25 6 . Então, a área e o perímetro desse triângulo são, respectivamente, iguais a A ( ) 22 3 e 40 3 . B ( ) 23 3 e 40 3 . C ( ) 25 3 e 31 3 . D ( ) 25 3 e 35 3 . E ( ) 25 3 e 40 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Considere as armações a seguir: I. O lugar geométrico do ponto médio de um segmento AB, com comprimento l xado, cujos extremos se deslocam livremente sobre os eixos coordenados é uma circunferência. II. O lugar geométrico dos pontos (x, y) tais que 6x3 + x2y −xy2 −4x2 −2xy = 0 é um conjunto nito no plano cartesiano R2. III. Os pontos (2, 3), (4, −1) e (3, 1) pertencem a uma circunferência. Destas, é (são) verdadeira(s) A ( ) apenas I. D ( ) I e II. B ( ) apenas II. E ( ) I e III. C ( ) apenas III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Seja ABCD um trapézio isósceles com base maior AB medindo 15, o lado AD medindo 9 e o ângulo A ˆDB reto. A distância entre o lado AB e o ponto E em que as diagonais se cortam é A ( ) 21 8 . B ( ) 27 8 . C ( ) 35 8 . D ( ) 37 8 . E ( ) 45 8 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Num triângulo PQR, considere os pontos M e N pertencentes aos lados PQ e PR, respectivamente, tais que o segmento MN seja tangente à circunferência inscrita ao triângulo PQR. Sabendo-se que o perímetro do triângulo PQR é 25 e que a medida de QR é 10, então o perímetro do triângulo PMN é igual a A ( ) 5. B ( ) 6. C ( ) 8. D ( ) 10. E ( ) 15.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Considere uma circunferência C, no primeiro quadrante, tangente ao eixo Ox e à reta r : x −y = 0. Sabendo-se que a potência do ponto O = (0, 0) em relação a essa circunferência é igual a 4, então o centro e o raio de C são, respectivamente, iguais a A ( ) (2, 2 √ 2 −2) e 2 √ 2 −2. C ( ) (2, √ 2 −1) e √ 2 −1. E ( ) (2, 4 √ 2 −4) e 4 √ 2 −4. B ( )</p>
+        <p>2, √ 2 2 −1 2 ! e √ 2 2 −1 2. D ( ) (2, 2 − √ 2) e 2 − √ 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Uma taça em forma de cone circular reto contém um certo volume de um líquido cuja superfície dista h do vértice do cone. Adicionando-se um volume idêntico de líquido na taça, a superfície do líquido, em relação à original, subirá de A ( ) 3√ 2−h. B ( ) 3√ 2−1. C ( ) ( 3√ 2 −1)h. D ( ) h. E ( ) h 2. AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESOLVIDAS E RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere as funções f1, f2, f : R →R, sendo f1(x) = 1 2|x| + 3, f2(x) = 3 2|x + 1| e f(x) igual ao maior valor entre f1(x) e f2(x), para cada x ∈R. Determine:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Todos os x ∈R tais que f1(x) = f2(x).</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O menor valor assumido pela função f.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Todas as soluções da equação f(x) = 5.</p>
+        </option>
+      </options>
+    </objective_question>
+    <discursive_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Considere o polinômio p dado por p(z) = 18z3 + βz2 −7z −β, em que β é um número real.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine todos os valores de β sabendo-se que p tem uma raiz de módulo igual a 1 e parte imaginária não nula.</p>
+        </part>
+        <part>
+          <p>Para cada um dos valores de β obtidos em a), determine todas as raízes do polinômio p.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Sabe-se que 1, B, C, D e E são cinco números reais que satisfazem às propriedades: (i) B, C, D, E são dois a dois distintos; (ii) os números 1, B, C, e os números 1, C, E, estão, nesta ordem, em progressão aritmética; (iii) os números B, C, D, E, estão, nesta ordem, em progressão geométrica. Determine B, C, D, E.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Seja M ⊂R dado por M = {|z2 + az −1| : z ∈C e |z| = 1}, com a ∈R. Determine o maior elemento de M em função de a.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja S o conjunto de todos os polinômios de grau 4 que têm três dos seus coecientes iguais a 2 e os outros dois iguais a 1.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o número de elementos de S.</p>
+        </part>
+        <part>
+          <p>Determine o subconjunto de S formado pelos polinômios que têm −1 como uma de suas raízes.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Três pessoas, aqui designadas por A, B e C, realizam o seguinte experimento: A recebe um cartão em branco e nele assinala o sinal + ou o sinal −, passando em seguida a B, que mantém ou troca o sinal marcado por A e repassa o cartão a C. Este, por sua vez, também opta por manter ou trocar o sinal do cartão. Sendo de 1/3 a probabilidade de A escrever o sinal + e de 2/3 as respectivas probabilidades de B e C trocarem o sinal recebido, determine a probabilidade de A haver escrito o sinal + sabendo-se ter sido este o sinal ao término do experimento.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Seja n um inteiro positivo tal que sen π 2n = s 2 − √ 3 4 .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine n.</p>
+        </part>
+        <part>
+          <p>Determine sen π 24.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Sejam α e β números reais não nulos. Determine os valores de b, c, d, bem como a relação entre α e β para que ambos os sistemas lineares S e T a seguir sejam compatíveis indeterminados. S 2x + by = α cx + y = β T cx + 3y = α 4x + dy = β</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Sabe-se que a equação 3x2 + 5xy −2y2 −3x + 8y −6 = 0 representa a reunião de duas retas concorrentes, r e s, formando um ângulo agudo θ. Determine a tangente de θ.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Na construção de um tetraedro, dobra-se uma folha retangular de papel, com lados de 3 cm e 4 cm, ao longo de uma de suas diagonais, de modo que essas duas partes da folha formem um ângulo reto e constituam duas faces do tetraedro. Numa segunda etapa, de maneira adequada, completa-se com outro papel as faces restantes para formar o tetraedro. Obtenha as medidas das arestas do tetraedro.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

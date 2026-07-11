@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2023" phase="discursive" day="0" variation="V1" date="2023-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Sejam a e b números reais positivos. Considere o sistema linear nas incógnitas x, y e z:      −ax + by + az = 0 b2x + a3y + 4a2z = 0 4a2x + a3y + b2z = 0 Sabendo que esse sistema admite solução não trivial, determine b em função de a. Determine o conjunto solução do sistema para a = 1 2. 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Considere as seguintes matrizes: A = 1 −2 −2 1 , B = 0 6 6 0 e C = 3 3 3 3 . Determine os números α ∈R tais que a matriz M = α2A + αB + C é invertível. 3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Determine o conjunto solução da inequação log2−x(− 3p x2 + 2x −3) &gt; log2−x( 3√ 3). 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Considere o polinômio p(x) = x4 −x3 + x2 −x + 1. Determine o quociente e o resto da divisão do polinômio q(x) = x10 −1 por p(x) e encontre todas as raízes complexas de p(x). 5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Sejam A = cos(α) + cos(β) e B = sen(α) −sen(β) com α, β ∈R. Calcule sen(α −β) em função de A e B, sabendo que A e B não são ambos nulos. 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere um triângulo ABC tal que m(AB) = 4, m(AC) = 5 e B ˆAC = 60◦. Seja D um ponto no lado AB tal que m(AD) = 1. Encontre o raio do círculo inscrito no triângulo BCD. 7</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Determine os pontos P pertencentes à elipse E deﬁnida pela equação x2 4 + y2 = 1, tais que os segmentos de reta que ligam P aos focos de E formam um ângulo de 60◦. 8</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Um cilindro equilátero é apoiado sobre uma de suas bases e parcialmente preenchido com água. Quando uma esfera é colocada em seu interior, de modo a tocar o fundo, o nível de água atinge a altura do cilindro. Se o raio da esfera é igual ao raio da base do cilindro e o volume de água é 2000π 3 cm3 , determine a área da superfície lateral do cilindro e o volume da esfera. 9</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Um triângulo tem perímetro 20 e seus ângulos internos α, β e γ satisfazem a igualdade sen(α) + sen(β) + sen(γ) = 2. Sabendo que um dos lados desse triângulo mede 8, determine a medida dos outros dois lados. 10</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Em um decágono convexo, de quantas formas podemos escolher duas diagonais que não se interceptam? 11</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

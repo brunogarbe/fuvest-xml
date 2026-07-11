@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2004" phase="discursive" day="0" variation="V1" date="2004-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando a rede mundial de computadores, inovação tecnológica contemporânea das mais importantes, explique as afirmações.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A integração econômica global é facilitada pelo uso das mesmas técnicas...</p>
+        </part>
+        <part>
+          <p>... contudo, integrar não significa incluir a todos.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Analise o mapa.</p>
+        <p>População Subnutrida Fonte: Atlas Geográfico Escolar, IBGE, 2002.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Descreva o mapa.</p>
+        </part>
+        <part>
+          <p>Explique as diferenças regionais.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Apresente e explique uma característica</p>
+      </statement>
+      <parts>
+        <part>
+          <p>dos primórdios da industrialização na Europa.</p>
+        </part>
+        <part>
+          <p>dos novos espaços industriais europeus.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No livro Xogun (James Clavel, 1986), ficção ambientada no século XVI, existe uma passagem na qual o navegador inglês Blackthorne, recém-chegado ao Japão, fez um mapa-mundi na areia, tentando explicar ao líder Toranaga o lugar de onde veio, o caminho que percorreu, cruzando o Oceano Atlântico, passando pelo extremo sul do continente americano, cruzando o Oceano Pacífico, até chegar à ilha do Japão. Blackthorne conta a Toranaga que conseguiu um portulano português, uma espécie de mapa secreto, para poder passar pelo estreito de Magalhães. Toranaga quis continuar a conversa, pois ficou impressionado com a importância dos portulanos e com o tamanho diminuto do Japão. Percebeu imediatamente que Blackthorne tinha informações interessantes a ele.</p>
+        <p>Inspirando-se na passagem relatada,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>explique como a localização geográfica continua sendo conhecimento estratégico para a geopolítica contemporânea.</p>
+        </part>
+        <part>
+          <p>associe o texto e a explicação à situação atual da Palestina.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="05">
+      <statement>
+        <p>Observe os mapas de Ocorrência de Endemias: Adaptação Atlas Geográfico Escolar, IBGE, 2002</p>
+        <p>Relacione as condições geográficas com a ocorrência das doenças representadas nos mapas.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O processo de globalização econômica e financeira envolve, de diferentes formas, vários países. Com base nessa afirmação:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Aponte uma característica positiva e outra negativa desse processo em relação ao Brasil.</p>
+        </part>
+        <part>
+          <p>Explique-as.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nos climas tropicais úmidos, são comuns os solos espessos. Entretanto, alguns fatores naturais podem mudar essa tendência geral. Observe a figura abaixo, representativa dessas áreas.</p>
+        <p>Adaptado de LEPSCH, 2001</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Cite dois fatores que causam a diferença de espessura do solo entre o perfil I e II.</p>
+        </part>
+        <part>
+          <p>Explique um dos fatores citados.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique as duas maiores áreas urbanas da região Norte do país.</p>
+        </part>
+        <part>
+          <p>Apresente e explique uma característica física e uma característica econômica de cada área citada.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe o cartograma e a figura abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique e caracterize o ecossistema aqui representado, quanto aos aspectos físicos, relacionando-os à formação vegetal e à fauna.</p>
+        </part>
+        <part>
+          <p>Apresente uma atividade humana que degrada este ecossistema para as regiões 1 e 2.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="10">
+      <statement>
+        <p>“Evidentemente que hoje a reforma agrária que sonhamos não é mais a reforma agrária clássica capitalista (...). Hoje, o desenvolvimento das forças produtivas na agricultura e na sociedade e o modelo agrícola que foi adotado exigem o que chamamos de reforma agrária de novo tipo (...) em que não é mais suficiente apenas dividir a terra, lotear em parcelas e botar o pobre em cima e que se vire. Cinqüenta anos atrás, ele se viraria, mas hoje não consegue mais”.</p>
+        <p>João Pedro Stedile, um dos coordenadores nacionais do MST. Entrevista à revista Caros Amigos, n. 18, p. 05, Set 2003.</p>
+        <p>Caracterize essa “reforma agrária de novo tipo” a que o texto se refere.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

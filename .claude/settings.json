@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run fuvest-xml-validate:*)",
+      "Bash(uv run fuvest-xml-format:*)",
+      "Bash(uv run fuvest-xml-convert:*)",
+      "Bash(uv run fuvest-xml:*)",
+      "Bash(uv run pytest:*)",
+      "Bash(uv run ruff check:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
+    ],
+    "deny": [
+      "Read(./.venv/**)",
+      "Read(./output/**)",
+      "Read(./exams/pdf/**)",
+      "Read(./exams/provas/**)",
+      "Read(./src/old/**)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          { "type": "command", "command": "uv run python .claude/hooks/validate_xml.py" }
+        ]
+      }
+    ]
+  }
+}

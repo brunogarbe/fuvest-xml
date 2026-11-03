@@ -33,6 +33,19 @@ def show_context(lines, line, col, context=2):
     return "\n".join(snippet)
 
 
+def question_at(tree, line):
+    """Return a label like 'objective_question 12' for the question containing `line`."""
+    found = None
+    for q in tree.xpath("//objective_question|//discursive_question|//essay_question"):
+        if q.sourceline is not None and q.sourceline <= line:
+            found = q
+        else:
+            break
+    if found is None:
+        return ""
+    return f"{found.tag} {found.get('number')}"
+
+
 def validate_xml(schema_file, xml_file, detailed=False):
     errors = []
 
@@ -60,6 +73,12 @@ def validate_xml(schema_file, xml_file, detailed=False):
                         "message": error.message,
                     }
                 )
+
+        for err in errors:
+            err["question"] = question_at(tree, err["line"])
+
+        for err in errors:
+            err["question"] = question_at(tree, err["line"])
 
         # 🔹 Checagem de numeração incremental
         question_numbers = []
@@ -147,12 +166,18 @@ def validate_command(
     detailed: bool = typer.Option(
         False, "--detailed", help="Show the XML context for each error."
     ),
+    summary: bool = typer.Option(
+        False,
+        "--summary",
+        help="Print one line per failing file (error count and first error) and nothing for valid files.",
+    ),
 ) -> None:
     if not os.path.exists(schema):
         typer.echo(f"[ERRO] Schema não encontrado: {schema}", err=True)
         raise typer.Exit(code=1)
 
     total_errors = 0
+    failing_files = 0
     for input_address in xml:
         files = glob.glob(input_address)
         if not files:
@@ -160,24 +185,37 @@ def validate_command(
             raise typer.Exit(code=1)
 
         for file in files:
-            errors = validate_xml(schema, file, detailed=detailed)
-            if errors:
+            errors = validate_xml(schema, file, detailed=detailed and not summary)
+            if errors and summary:
+                first = errors[0]
+                where = f" [{first['question']}]" if first.get("question") else ""
+                print(
+                    f"[ERROS] {file}: {len(errors)} erro(s); "
+                    f"linha {first['line']}{where}: {first['message']}"
+                )
+                total_errors += len(errors)
+                failing_files += 1
+            elif errors:
                 print(f"\n[ERROS] {file}:")
                 for err in errors:
+                    where = f" [{err['question']}]" if err.get("question") else ""
                     print(
-                        f"  Linha {err['line']}, Coluna {err['column']}: {err['message']}"
+                        f"  Linha {err['line']}, Coluna {err['column']}{where}: {err['message']}"
                     )
                     if detailed and "context" in err:
                         print(err["context"])
                         print("-" * 60)
                 total_errors += len(errors)
-            else:
+            elif not summary:
                 print(Fore.GREEN + "[OK] " + Style.RESET_ALL + f"{file} válido!")
 
     if total_errors > 0:
-        print(f"\nTotal de erros encontrados: {total_errors}")
-    else:
-        print("\nTodos os arquivos são válidos!")
+        if summary:
+            print(f"\n{failing_files} arquivo(s) com erro, {total_errors} erro(s) no total")
+        else:
+            print(f"\nTotal de erros encontrados: {total_errors}")
+        raise typer.Exit(code=1)
+    print("\nTodos os arquivos são válidos!")
 
 
 def main() -> None:

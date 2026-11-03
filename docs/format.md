@@ -74,7 +74,7 @@ Math goes in `m`/`math` as LaTeX text, not Unicode symbols or plain-text approxi
 ```
 
 `src` is relative to the top-level `images/` folder: `images/<exam>/<year>/<phase-or-semester>/<file>`.
-The file must exist. Only `src` is required.
+Only `src` is required. Some exams (Enem 2025, ITA/Unesp/Unicamp 2026, Fuvest 1999) reference images not yet in the repo.
 
 ## Minimal example
 

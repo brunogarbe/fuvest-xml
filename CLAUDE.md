@@ -17,13 +17,20 @@ uv run fuvest-xml-format exams/xml/FILE.xml      # pretty-print in place
 uv run fuvest-xml exams/xml-verified/FILE.xml --html   # convert (omit --html for LaTeX)
 ```
 
-There are no tests or linter yet. Validation is the check: run it after every XML edit.
+```bash
+uv run pytest                                              # verified exams validate, images exist
+uv run ruff check src tests                                # lint (has pre-existing findings)
+uv run fuvest-xml-validate "exams/xml/*.xml" --summary     # one line per failing file; exit code 1 on errors
+```
+
+Run validation after every XML edit (a hook in `.claude/settings.json` does this for edits under `exams/xml*`).
+Skills: `/verify-exam`, `/new-exam`.
 
 ## Layout
 
 - `src/fuvest_xml/` - the package: `convert.py` (current converter), `convert_xml.py` (legacy, avoid),
   `validate.py`, `pretty_print.py`, `read_pdfs.py`, `database.py`, `gui.py` (PyQt5).
-- `src/old/` - abandoned experiments. Ignore; do not edit or import.
+- `tests/` - pytest corpus checks. `src/old/` - abandoned experiments. Ignore; do not edit or import.
 - `xsd/fuvest_xml.xsd` - the schema (source of truth). `css/`, `styles/` - HTML/LaTeX styling.
 - `images/<exam>/<year>/<phase>/` - figures; XML `<image src>` is relative to `images/`.
 - `exams/xml/` raw, `exams/xml-verified/` reviewed. Files are named `<exam>_<year>_fase_NN[_dia_NN|_<subject>].xml`.

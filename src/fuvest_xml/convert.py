@@ -18,7 +18,6 @@ Notes:
 - If <correct_answer> has text, it will be collected for an Answer Key at the end.
 """
 
-import os
 import re
 import sys
 from abc import ABC, abstractmethod
@@ -475,7 +474,7 @@ class LatexWriter(AbstractWriter):
         return "\n"
 
     @override
-    def options_table_start(self, num_cols: int) -> str:
+    def options_table_start(self, num_cols: int, table_class: str | None = None) -> str:
         parts = []
 
         self.table_num_columns = num_cols
@@ -604,15 +603,15 @@ class LatexWriter(AbstractWriter):
         return text + "\\\\\n"
 
     @override
-    def image(self, img_path: str, wrap: bool, width: str) -> str:
+    def image(
+        self, img_path: str, wrap: bool, width: str, html_width: str = ""
+    ) -> str:
         parts = []
         if wrap is True:
             parts.append("\\begin{wrapfigure}{l}[0pt]{" + width + "\\linewidth}\n")
             parts.append("\\centering\n")
             parts.append(
-                "\\includegraphics[width="
-                + size
-                + "]{"
+                "\\includegraphics[width=\\linewidth]{"
                 + str(img_path).replace("\\", "/")
                 + "}\n"
             )
@@ -630,7 +629,9 @@ class LatexWriter(AbstractWriter):
         return "".join(parts)
 
     @override
-    def inline_image(self, img_path: str, wrap: bool, width: str) -> str:
+    def inline_image(
+        self, img_path: str, wrap: bool, width: str, html_width: str = ""
+    ) -> str:
         return (
             "\\includegraphics[width="
             + width
@@ -717,8 +718,13 @@ class LatexWriter(AbstractWriter):
 
     # List
     @override
-    def ordered_list_start(self) -> str:
-        return "\\begin{enumerate}\n"
+    def ordered_list_start(self, list_type: str = "arabic") -> str:
+        counters = {"alpha": "\\Alph", "arabic": "\\arabic", "roman": "\\Roman"}
+        counter = counters.get(list_type, "\\arabic")
+        return (
+            "\\begin{enumerate}\n"
+            + "\\renewcommand{\\labelenumi}{" + counter + "{enumi}.}\n"
+        )
 
     @override
     def ordered_list_end(self) -> str:
@@ -1648,9 +1654,6 @@ class XmlConverter:
 
         # get the image path
         img_path = self.global_graphics_dir / src
-        # print(img_path)
-        if os.path.exists(img_path):
-            print(f"xxx '{img_path}' exists (could be a file or directory).")
 
         return self.writer.image(img_path, wrap, width, html_width)
 

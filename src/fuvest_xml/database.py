@@ -10,7 +10,7 @@ from __future__ import annotations
 
 from pathlib import Path
 import sqlite3
-from typing import Iterable, Optional, Tuple
+from typing import Optional
 
 import os
 import xml.etree.ElementTree as ET
@@ -137,7 +137,7 @@ def inner_xml_clean(element):
 
 def insert_meta(cursor, key, value):
     cursor.execute(
-        f"INSERT INTO schema (key, value) VALUES (?, ?)",
+        "INSERT INTO schema (key, value) VALUES (?, ?)",
         (
             key,
             value,

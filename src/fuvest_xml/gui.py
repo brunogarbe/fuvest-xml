@@ -1,12 +1,11 @@
-import os, sys, glob, re, time
+import os
+import sys
+import glob
+import re
+import time
 import pandas as pd
 from lxml import etree
 
-import os
-import glob
-import pandas as pd
-from lxml import etree
-import time
 
 from pathlib import Path
 from . import convert as fuvestxml
@@ -37,7 +36,6 @@ from PyQt5.QtCore import Qt, QRect, QSortFilterProxyModel, QRegExp, QVariant
 from PyQt5.QtGui import (
     QStandardItemModel,
     QStandardItem,
-    QPainter,
     QPainterPath,
     QColor,
     QSyntaxHighlighter,

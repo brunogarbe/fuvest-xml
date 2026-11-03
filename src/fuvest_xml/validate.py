@@ -1,8 +1,7 @@
 import glob
 import os
 from lxml import etree
-import sys
-from colorama import Fore, Back, Style
+from colorama import Fore, Style
 from colorama import init
 import typer
 

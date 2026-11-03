@@ -19,10 +19,9 @@ Notes:
 - If <correct_answer> has text, it will be collected for an Answer Key at the end.
 """
 
-import sys
 import re
 from pathlib import Path
-from typing import Optional, List
+from typing import Optional
 from lxml import etree
 import typer
 

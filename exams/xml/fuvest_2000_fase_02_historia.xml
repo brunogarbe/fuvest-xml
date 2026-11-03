@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2000" phase="discursive" day="1" variation="V1" date="2000-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>Indique e comente quatro elementos da antigüidade greco-romana presentes ainda hoje no mundo ocidental.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ao longo da Idade Média, a Europa Ocidental conviveu com duas civilizações, às quais muito deve nos mais variados campos. Essas duas civilizações, bastante diferentes da Ocidental, contribuíram significativamente para o desenvolvimento experimentado pelo Ocidente, a partir do século XI, e para o advento da Modernidade no século XV.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quais foram essas civilizações?</p>
+        </part>
+        <part>
+          <p>Indique suas principais características. FUVEST 2000 - 2 a Fase - História - 04/01/2000 Página 2 de 5</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Durante a Idade Moderna, pensava-se que todas as riquezas do mundo estavam numa posição estática e constante, razão pela qual o comércio era tido como uma atividade em que havia um ganhador e um perdedor, sendo o seu resultado equivalente a uma soma zero (+1-1=0). Baseando-se nestes princípios, os Estados modernos atuaram no comércio internacional sob a orientação de uma política econômica.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que nome foi dado a esta política econômica?</p>
+        </part>
+        <part>
+          <p>Quais foram seus principais elementos constitutivos?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="04">
+      <statement>
+        <p>Diferenças afastaram e semelhanças aproximaram comunistas e anarquistas no século XIX e primeira metade do XX. Identifique e comente essas diferenças e semelhanças. FUVEST 2000 - 2 a Fase - História - 04/01/2000 Página 3 de 5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>Quais as relações entre a criação do Estado do Panamá, a construção do Canal (1904-1914) e os interesses dos Estados Unidos?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>As comemorações dos 500 anos do Descobrimento trouxeram à tona duas concepções históricas opostas sobre o Brasil: uma admite que a história do Brasil começou com a chegada dos portugueses, em 1500; outra considera que a chegada dos portugueses foi um marco inaugural falso, criado pela visão eurocêntrica do passado brasileiro. O que pode justificar esta última concepção? FUVEST 2000 - 2 a Fase - História - 04/01/2000 Página 4 de 5</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A dominação espanhola (1580-1640) provocou mudanças no império colonial português; por isto mesmo, D. João IV, que subiu ao trono com a Restauração ocorrida em 1640, teria dito que "o Brasil é a vaca leiteira de Portugal".</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quais mudanças do império derivaram da dominação espanhola?</p>
+        </part>
+        <part>
+          <p>Que relação há entre as mudanças e a idéia de que o Brasil se tornou a "vaca leiteira" de Portugal?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="08">
+      <statement>
+        <p>Criada pelo Ato Adicional de 1834, a Regência Una (1835 - 1840) é considerada como uma experiência republicana do Império que usou elementos da Constituição dos EUA. Quais determinações do Ato Adicional tornaram possível tal experiência? FUVEST 2000 - 2 a Fase - História - 04/01/2000 Página 5 de 5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>"São Paulo não está apenas descontente. Está ferido na sua sensibilidade. O que a Revolução lhe pediu ele lho deu... Por que a Revolução tarda em restaurá-lo na sua autonomia e no governo direto de seus filhos? Cansado de viver como terra conquistada, São Paulo... pede apenas, à frente da administração de seus negócios, um de seus filhos que lhe compreenda o espírito e não lhe golpeie o coração". O Estado de S.Paulo, 27 de janeiro de 1932. Explique os impasses políticos discutidos por esse jornal e indique seus desdobramentos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>Desde 1990, os governos brasileiros vêm desmontando um modelo de Estado que se cristalizou no período varguista (1930-1945). Que principais mudanças estão ocorrendo no que respeita à intervenção do Estado na economia e nas relações trabalhistas?</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

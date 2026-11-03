@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2002" phase="objective" day="0" variation="V1" date="2002-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. A massa inercial mede a dificuldade em se alterar o estado de movimento de uma partícula. Analogamente, o momento de inércia de massa mede a dificuldade em se alterar o estado de rotação de um corpo rígido. No caso de uma esfera, o momento de inércia em torno de um eixo que passa pelo seu centro é dado por 2 2 I = MR 5 , em que M é a massa da esfera e R seu raio. Para uma esfera de massa M = 25,0kg e raio R = 15,0cm , a alternativa que melhor representa o seu momento de inércia é</p>
+        <p>A ( ) 2 2 22,50 10 kg . m</p>
+        <p>B ( ) 2 2,25kg . m</p>
+        <p>C ( ) 2 0,225kg . m D ( ) 2 0,22kg . m</p>
+        <p>E ( ) 2 22,00kg . m</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Em um experimento verificou-se a proporcionalidade existente entre energia e a freqüência de emissão de uma radiação característica. Neste caso, a constante de proporcionalidade, em termos dimensionais, é equivalente a</p>
+        <p>A ( ) Força.</p>
+        <p>B ( ) Quantidade de Movimento.</p>
+        <p>C ( ) Momento Angular. D ( ) Pressão.</p>
+        <p>E ( ) Potência.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Uma rampa rolante pesa 120N e se encontra inicialmente em repouso, como mostra a figura. Um bloco que pesa 80N, também em repouso, é abandonado no ponto 1, deslizando a seguir sobre a rampa. O centro de massa G da rampa tem coordenadas: G x = 2b 3 e G y = c 3 . São dados ainda: a = 15,0m e sen α = 0,6 . Desprezando os possíveis atritos e as dimensões do bloco, pode-se afirmar que a distância percorrida pela rampa no solo, até o instante em que o bloco atinge o ponto 2, é</p>
+        <p>A ( ) 16,0m</p>
+        <p>B ( ) 30,0m</p>
+        <p>C ( ) 4,8m</p>
+        <p>D ( ) 24,0m</p>
+        <p>E ( ) 9,6m</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Um sistema é composto por duas massas idênticas ligadas por uma mola de constante k, e repousa sobre uma superfície plana, lisa e horizontal. Uma das massas é então aproximada da outra, comprimindo 2,0cm da mola. Uma vez liberado, o sistema inicia um movimento com o seu centro de massa deslocando com velocidade de 18,0cm/s numa determinada direção. O período de oscilação de cada massa é</p>
+        <p>A ( ) 0,70s</p>
+        <p>B ( ) 0,35s</p>
+        <p>C ( ) 1,05s</p>
+        <p>D ( ) 0,50s E ( ) indeterminado, pois a constante da mola não é conhecida.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Um pequeno camundongo de massa M corre num plano vertical no interior de um cilindro de massa m e eixo horizontal. Suponha-se que o ratinho alcance a posição indicada na figura imediatamente no início de sua corrida, nela permanecendo devido ao movimento giratório de reação do cilindro, suposto ocorrer sem resistência de qualquer natureza. A energia despendida pelo ratinho durante um intervalo de tempo T para se manter na mesma posição enquanto corre é</p>
+        <p>A ( ) 2 2 2 M E = g T 2 m .</p>
+        <p>B ( ) 2 2 E = M g T .</p>
+        <p>C ( ) 2 2 2 m E = g T M . D ( ) 2 2 E = m g T .</p>
+        <p>E ( ) n.d.a.</p>
+        <p>gr cilindro camundongo 2 G a α 1 b c</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Um dos fenômenos da dinâmica de galáxias, considerado como evidência da existência de matéria escura, é que estrelas giram em torno do centro de uma galáxia com a mesma velocidade angular, independentemente de sua distância ao centro. Sejam 1 M e 2 M as porções de massa (uniformemente distribuída) da galáxia no interior de esferas de raios R e 2R, respectivamente. Nestas condições, a relação entre essas massas é dada por</p>
+        <p>A ( ) 2 1 M = M .</p>
+        <p>B ( ) 2 1 M = 2M .</p>
+        <p>C ( ) 2 1 M = 4M . D ( ) 2 1 M = 8M .</p>
+        <p>E ( ) 2 1 M = 16M .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Um corpo de massa M, mostrado na figura, é preso a um fio leve, inextensível, que passa através de um orifício central de uma mesa lisa. Considere que inicialmente o corpo se move ao longo de uma circunferência, sem atrito. O fio é, então, puxado para baixo, aplicando-se uma força F r , constante, a sua extremidade livre. Podemos afirmar que:</p>
+        <p>A ( ) o corpo permanecerá ao longo da mesma circunferência. B ( ) a força F r não realiza trabalho, pois é perpendicular à trajetória. C ( ) a potência instantânea de F r é nula. D ( ) o trabalho de F r é igual à variação da energia cinética do corpo. E ( ) o corpo descreverá uma trajetória elíptica sobre a mesa.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Uma esfera metálica isolada, de 10,0cm de raio, é carregada no vácuo até atingir o potencial U = 9,0V . Em seguida, ela é posta em contato com outra esfera metálica isolada, de raio 2 R = 5,0cm . Após atingido o equilíbrio, qual das alternativas abaixo melhor descreve a situação física? É dado que 9 2 2 o 1 = 9,0 . 10 Nm /C 4πε . A ( ) A esfera maior terá uma carga de -10 0,66 10 C . B ( ) A esfera maior terá um potencial de 4,5 V. C ( ) A esfera menor terá uma carga de -10 0,66 10 C . D ( ) A esfera menor terá um potencial de 4,5 V. E ( ) A carga total é igualmente dividida entre as 2 esferas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Um dispositivo desloca, com velocidade constante, uma carga de 1,5C por um percurso de 20,0cm através de um campo elétrico uniforme de intensidade 3 2,0 10 N/C . A força eletromotriz do dispositivo é</p>
+        <p>A ( ) 3 60 10 V</p>
+        <p>B ( ) 3 40 10 V</p>
+        <p>C ( ) 600 V D ( ) 400 V</p>
+        <p>E ( ) 200 V</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Sendo dado que 1J = 0,239cal , o valor que melhor expressa, em calorias, o calor produzido em 5 minutos de funcionamento de um ferro elétrico, ligado a uma fonte de 120 V e atravessado por uma corrente de 5,0 A, é</p>
+        <p>A ( ) 4 7,0 10</p>
+        <p>B ( ) 4 0,70 10 C ( ) 4 0,070 10 D ( ) 4 0,43 10 E ( ) 4 4,3 10</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Para se proteger do apagão, o dono de um bar conectou uma lâmpada a uma bateria de automóvel (12,0V). Sabendo que a lâmpada dissipa 40,0W, os valores que melhor representam a corrente I que a atravessa e sua resistência R são, respectivamente, dados por</p>
+        <p>A ( ) I = 6,6A e R 0,36 = Ω</p>
+        <p>B ( ) I = 6,6A e R 0,18 = Ω C ( ) I = 6,6A e R 3,6 = Ω</p>
+        <p>D ( ) I = 3,3A e R 7,2 = Ω E ( ) I = 3,3A e R 3,6 = Ω M F r</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Numa prática de laboratório, um estudante conectou uma bateria a uma resistência, obtendo uma corrente 1i . Ligando em série mais uma bateria, idêntica à primeira, a corrente passa ao valor 2i . Finalmente, ele liga as mesmas baterias em paralelo e a corrente que passa pelo dispositivo torna-se 3i . Qual das alternativas abaixo expressa uma relação existente entre as correntes 1 2 3 i ,i e i ?</p>
+        <p>A ( ) ( ) 2 3 1 2 3 i i = 2i i + i .</p>
+        <p>B ( ) ( ) 2 3 1 2 3 2i i = i i + i . C ( ) ( ) 2 3 1 2 3 i i = 3i i + i . D ( ) ( ) 2 3 1 2 3 3i i = i i + i . E ( ) ( ) 2 3 1 2 3 3i i = 2i i + i .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Um capacitor de capacitância igual a -6 0,25 10 F é carregado até um potencial de 5 1,00 10 V , sendo então descarregado até 5 0,40 10 V num intervalo de tempo de 0,10 s, enquanto transfere energia para um equipamento de raios-X. A carga total, Q, e a energia, ε , fornecidas ao tubo de raios-X, são melhor representadas respectivamente por</p>
+        <p>A ( ) Q = 0,005C e ε = 1250 J</p>
+        <p>B ( ) Q = 0,025C e ε = 1250 J</p>
+        <p>C ( ) Q = 0,025C e ε = 1050 J</p>
+        <p>D ( ) Q = 0,015C e ε = 1250 J</p>
+        <p>E ( ) Q = 0,015C e ε = 1050 J</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Uma máquina térmica reversível opera entre dois reservatórios térmicos de temperaturas 100 oC e 127 oC, respectivamente, gerando gases aquecidos para acionar uma turbina. A eficiência dessa máquina é melhor representada por</p>
+        <p>A ( ) 68%.</p>
+        <p>B ( ) 6,8%. C ( ) 0,68%. D ( ) 21%.</p>
+        <p>E ( ) 2,1%.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Um pedaço de gelo flutua em equilíbrio térmico com uma certa quantidade de água depositada em um balde. À medida que o gelo derrete, podemos afirmar que</p>
+        <p>A ( ) o nível da água no balde aumenta, pois haverá uma queda de temperatura da água.</p>
+        <p>B ( ) o nível da água no balde diminui, pois haverá uma queda de temperatura da água. C ( ) o nível da água no balde aumenta, pois a densidade da água é maior que a densidade do gelo.</p>
+        <p>D ( ) o nível da água no balde diminui, pois a densidade da água é maior que a densidade do gelo. E ( ) o nível da água no balde não se altera.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Um pequeno tanque, completamente preenchido com 20,0 l de gasolina a 0o F, é logo a seguir transferido para uma garagem mantida à temperatura de 70o F. Sendo o -1 γ = 0,0012 C o coeficiente de expansão volumétrica da gasolina, a alternativa que melhor expressa o volume de gasolina que vazará em conseqüência do seu aquecimento até a temperatura da garagem é</p>
+        <p>A ( ) 0,507 l</p>
+        <p>B ( ) 0,940 l</p>
+        <p>C ( ) 1,68 l</p>
+        <p>D ( ) 5,07 l</p>
+        <p>E ( ) 0,17 l</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Deseja-se enrolar um solenóide de comprimento z e diâmetro D, utilizando-se uma única camada de fio de cobre de diâmetro d enrolado o mais junto possível. A uma temperatura de 75 oC, a resistência por unidade de comprimento do fio é r. Afim de evitar que a temperatura ultrapasse os 75 oC, pretende-se restringir a um valor P a potência dissipada por efeito Joule. O máximo valor do campo de indução magnética que se pode obter dentro do solenóide é</p>
+        <p>A ( ) 12 max o P B = µ rDzd       .</p>
+        <p>B ( ) max o πP B = µ rDzd       .</p>
+        <p>C ( ) max o 2P B = µ πrDzd       . D ( ) max o P B = µ πrDzd       .</p>
+        <p>E ( ) 12 max o P B = µ πrDzd       .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Um pesquisador percebe que a freqüência de uma nota emitida pela buzina de um automóvel parece cair de 284 hz para 266 hz à medida que o automóvel passa por ele. Sabendo que a velocidade do som no ar é 330m/s , qual das alternativas melhor representa a velocidade do automóvel?</p>
+        <p>A ( ) 10,8m/s</p>
+        <p>B ( ) 21,6m/s</p>
+        <p>C ( ) 5,4m/s</p>
+        <p>D ( ) 16,2m/s</p>
+        <p>E ( ) 8,6m/s</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. A figura mostra uma espira condutora que se desloca com velocidade constante v numa região com campo magnético uniforme no espaço e constante no tempo. Este campo magnético forma um ângulo θ com o plano da espira. A força eletromotriz máxima produzida pela variação de fluxo magnético no tempo ocorre quando</p>
+        <p>A ( ) ο θ = 0</p>
+        <p>B ( ) ο θ = 30</p>
+        <p>C ( ) ο θ = 45</p>
+        <p>D ( ) ο θ = 60</p>
+        <p>E ( ) n.d.a.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Um trecho da música “Quanta”, de Gilberto Gil, é reproduzido no destaque ao lado.</p>
+        <p>As frases “Quantum granulado no mel” e “Quantum ondulado do sal” relacionam-se, na Física, com</p>
+        <p>A ( ) Conservação de Energia. B ( ) Conservação da Quantidade de Movimento. C ( ) Dualidade Partícula-onda. D ( ) Princípio da Causalidade. E ( ) Conservação do Momento Angular.</p>
+        <p>Fragmento infinitésimo, Quase que apenas mental, Quantum granulado no mel, Quantum ondulado do sal, Mel de urânio, sal de rádio Qualquer coisa quase ideal. B r ˆn vr l a θ - perpendicular ao plano da espira As questões dissertativas, numeradas de 21 a 30, devem ser respondidas no caderno de soluções.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Estamos habituados a tomar sucos e refrigerantes usando canudinhos de plástico. Neste processo estão envolvidos alguns conceitos físicos importantes. Utilize seus conhecimentos de física para estimar o máximo comprimento que um canudinho pode ter e ainda permitir que a água chegue até a boca de uma pessoa. Considere que o canudinho deve ser sugado sempre na posição vertical. Justifique suas hipóteses e assuma, quando julgar necessário, valores para as grandezas físicas envolvidas. Dado: 5 2 1atm = 1,013 10 N/m</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Mediante chave seletora, um chuveiro elétrico tem a sua resistência graduada para dissipar 4,0kW no inverno, 3,0kW no outono, 2,0kW na primavera e 1,0kW no verão. Numa manhã de inverno, com temperatura ambiente de 10 oC, foram usados 10,0l de água desse chuveiro para preencher os 16% do volume faltante do aquário de peixes ornamentais, de modo a elevar sua temperatura de 23 oC para 28 oC. Sabe-se que 20% da energia é perdida no aquecimento do ar, a densidade da água é 3 = 1,0g/cm ρ e calor específico da água é 4,18J/gK. Considerando que a água do chuveiro foi colhida em 10 minutos, em que posição se encontrava a chave seletora? Justifique.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Um ginásio de esportes foi projetado na forma de uma cúpula com raio de curvatura R = 39,0m, apoiada sobre uma parede lateral cilíndrica de raio y = 25,0m e altura h = 10,0m , como mostrado na figura. A cúpula comporta-se como um espelho esférico de distância focal R f = 2 , refletindo ondas sonoras, sendo seu topo o vértice do espelho. Determine a posição do foco relativa ao piso do ginásio. Discuta, em termos físicos as conseqüências práticas deste projeto arquitetônico.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Billy sonha que embarcou em uma nave espacial para viajar até o distante planeta Gama, situado a 10,0 anos-luz da Terra. Metade do percurso é percorrida com aceleração de 15 m/s2, e o restante com desaceleração de mesma magnitude. Desprezando a atração gravitacional e efeitos relativistas, estime o tempo total em meses de ida e volta da viagem do sonho de Billy. Justifique detalhadamente.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Uma massa é liberada a partir do repouso de uma altura h acima do nível do solo e desliza sem atrito em uma pista que termina em um “loop” de raio r, conforme indicado na figura. Determine o ângulo θ relativo à vertical e ao ponto em que a massa perde o contato com a pista. Expresse sua resposta como função da altura h, do raio r e da aceleração da gravidade g.</p>
+        <p>R h y h &gt; r r </p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Um tubo capilar fechado em uma extremidade contém uma quantidade de ar aprisionada por um pequeno volume de água. A 7,0 oC e à pressão atmosférica (76,0cm Hg) o comprimento do trecho com ar aprisionado é de 15,0cm. Determine o comprimento do trecho com ar aprisionado a 17,0 oC. Se necessário, empregue os seguintes valores da pressão de vapor da água: 0,75cm Hg a 7,0 0C e 1,42cm Hg a 17,0 oC.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Uma pequena pedra repousa no fundo de um tanque de x m de profundidade. Determine o menor raio de uma cobertura circular, plana, paralela à superfície da água que, flutuando sobre a superfície da água diretamente acima da pedra, impeça completamente a visão desta por um observador ao lado do tanque, cuja vista se encontra no nível da água. Justifique. Dado: índice de refração da água w 4 n = 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Colaborando com a campanha de economia de energia, um grupo de escoteiros construiu um fogão solar, consistindo de um espelho de alumínio curvado que foca a energia térmica incidente sobre uma placa coletora. O espelho tem um diâmetro efetivo de 1,00m e 70% da radiação solar incidente é aproveitada para de fato aquecer uma certa quantidade de água. Sabemos ainda que o fogão solar demora 18,4 minutos para aquecer 1,00l de água desde a temperatura de 20 oC até 100 oC, e que 3 4,186 10 J é a energia necessária para elevar a temperatura de 1,00l de água de 1,000 K. Com base nos dados, estime a intensidade irradiada pelo Sol na superfície da Terra, em W/m2. Justifique.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Você dispõe de um dispositivo de resistência 5 R r = ; e de 32 baterias idênticas, cada qual com resistência r e força eletromotriz V. Como seriam associadas as baterias, de modo a obter a máxima corrente que atravesse R? Justifique.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Um átomo de hidrogênio tem níveis de energia discretos dados pela equação n 2 -13,6 E = eV n , em que { } n Z / n 1 ∈ ≥ . Sabendo que um fóton de energia 10,19 eV excitou o átomo do estado fundamental (n = 1) até o estado p, qual deve ser o valor de p? Justifique. ar água</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

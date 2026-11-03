@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1997" phase="discursive" day="1" variation="V1" date="1997-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um automóvel com massa de 1000kg percorre, com velocidade constante V = 20m/s (ou 72km/h), uma estrada (ver figura) com dois trechos horizontais (I e III), um em subida (II) e um em descida (IV). Nos trechos horizontais o motor do automóvel desenvolve uma potência de 30kW para vencer a resistência do ar, que pode ser considerada constante ao longo de todo o trajeto percorrido. Suponha que não há outras perdas por atrito. Use g=10m/s2. São dados: senα=0,10 e senβ=0,15. Determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>o valor, em newtons, da componente paralela a cada trecho da estrada das forças FI, FII, e FIV, aplicadas pela estrada ao automóvel nos trechos I, II e IV, respectivamente.</p>
+        </part>
+        <part>
+          <p>o valor, em kW, da potência PII que o motor desenvolve no trecho II.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="02">
+      <statement>
+        <p>A figura representa uma lente convergente L, com focos F e F', e um quadrado ABCD, situado num plano que contém o eixo da lente. Construa, na própria figura, a imagem A'B'C'D' do quadrado, formada pela lente. Use linhas tracejadas para indicar todas as linhas auxiliares utilizadas para construir as imagens. Represente com traços contínuos somente as imagens dos lados do quadrado, no que couber na folha. Identifique claramente as imagens A’, B’, C’ e D’ dos vértices. PROVA DE FÍSICA - FUVEST 1997 – SEGUNDA FASE</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dois satélites artificiais A e B descrevem órbitas circulares no plano equatorial da Terra. O satélite A está a uma distância RA do centro da Terra e estacionário com relação a um observador fixo em um ponto do equador da Terra.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Esse mesmo observador vê o satélite B passar por uma mesma posição, numa vertical sobre ele, a cada dois dias, sempre à mesma hora. Quais os dois possíveis valores da velocidade angular de B, no referencial inercial em relação ao qual a Terra gira em torno de seu eixo com um período de 24 h? Expresse o resultado em rd/h.</p>
+        </part>
+        <part>
+          <p>Calcule, em função de RA, os valores dos raios das órbitas correspondentes às velocidades angulares encontradas no item anterior.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um cilindro maciço, de massa m = 45kg, altura H = 0,30m e base de área S = 0,050m2, está imerso em água, como mostra a figura, sendo mantido em equilíbrio estático por um fio fino ao qual se aplica uma tensão To. Use g = 10 m/s2 e considere a massa específica da água ρm = 1000 kg/m3. Começa-se então a puxar o cilindro na direção y, para cima, com velocidade constante e muito pequena.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Trace no papel de gráfico abaixo o valor, em newtons, da tensão T no fio em função da posição y da base inferior do cilindro, desde y=-0,70m até y=+0,50m. Marque os valores da escala utilizada no eixo da tensão T.</p>
+        </part>
+        <part>
+          <p>Determine o trabalho total W, em joules, realizado pela tensão T, para o deslocamento descrito no item a. PROVA DE FÍSICA - FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um conjunto de dois carrinhos com um rapaz sentado no carrinho dianteiro, e nele preso pelo cinto de segurança, encontra-se inicialmente na altura h (posição A da figura) de uma montanha russa. A massa m do rapaz é igual à massa de cada um dos carrinhos. O conjunto começa a descida com velocidade inicial nula. Ao chegar ao ponto B da parte plana da trajetória, o rapaz solta o carrinho traseiro e o empurra para trás com impulso suficiente para fazê-lo retornar ao ponto A de partida, onde o carrinho chega com velocidade nula. Despreze os atritos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a altura máxima H a que chega o carrinho dianteiro.</p>
+        </part>
+        <part>
+          <p>Houve variação de energia mecânica do conjunto quando o rapaz empurrou o carrinho traseiro? Se houve, calcule essa variação. Se não houve, escreva “a energia mecânica se conservou”.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O som de freqüência mais baixa, dita fundamental, emitido por um tubo sonoro fechado numa extremidade, corresponde a um comprimento de onda igual a quatro vezes o comprimento L do tubo. Sabe-se que o valor V da velocidade do som no ar pode ser obtido pela expressão V=20 T , onde V é em m/s e T é a temperatura absoluta do ar em kelvin (K). Quando o tubo contém ar e estando ambos a 300K (temperatura ambiente), a freqüência fundamental emitida é f0=500 hertz.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o comprimento L do tubo.</p>
+        </part>
+        <part>
+          <p>Desprezando a dilatação do tubo, determine a temperatura T, comum ao tubo e ao ar nele contido, na qual a freqüência fundamental emitida é 2f0.</p>
+        </part>
+        <part>
+          <p>Considerando agora a dilatação do tubo, o valor da freqüência fundamental emitida à temperatura T, calculada no item anterior, será maior, igual ou menor do que 2f0? Justifique. PROVA DE FÍSICA - FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um pesquisador estuda a troca de calor entre um bloco de ferro e certa quantidade de uma substância desconhecida, dentro de um calorímetro de capacidade térmica desprezível (Ver Figura 1). Em sucessivas experiências, ele coloca no calorímetro a substância desconhecida, sempre no estado sólido à temperatura TO=20ºC, e o bloco de ferro, a várias temperaturas iniciais T, medindo em cada caso a temperatura final de equilíbrio térmico Te. O gráfico da Figura 2</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a temperatura de fusão, Tfusão</p>
+        </part>
+        <part>
+          <p>o calor específico, cs, na fase sólida.</p>
+        </part>
+        <part>
+          <p>o calor latente de fusão L. representa o resultado das experiências. A razão das massas do bloco de ferro e da substância desconhecida é mf/ms = 0,8. Considere o valor do calor específico do ferro igual a 0,1cal/(g0C). A partir destas informações, determine para a substância desconhecida: Figura 2</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas cargas pontuais positivas, q1 e q2=4q1, são fixadas a uma distância d uma da outra. Uma terceira carga negativa q3 é colocada no ponto P entre q1 e q2, a uma distância X da carga q1, conforme mostra a figura.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule o valor de X para que a força sobre a carga q3 seja nula.</p>
+        </part>
+        <part>
+          <p>Verifique se existe um valor de q3 para o qual tanto a carga q1 como a q2 permanecem em equilíbrio, nas posições do item a), sem necessidade de nenhuma outra força além das eletrostáticas entre as cargas. Caso exista, calcule este valor de q3; caso não exista, escreva “não existe” e justifique. PROVA DE FÍSICA - FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O circuito abaixo é formado por quatro resistores e um gerador ideal que fornece uma tensão V = 10 volts. O valor da resistência do resistor R é desconhecido. Na figura estão indicados os valores das resistências dos outros resistores.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o valor, em ohms, da resistência R para que as potências dissipadas em R1 e R2 sejam iguais.</p>
+        </part>
+        <part>
+          <p>Determine o valor, em watts, da potência P dissipada no resistor R1, nas condições do item anterior.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um mol de gás ideal é levado lentamente do estado inicial A ao estado final C, passando pelo estado intermediário B. A Figura 1 representa a variação do volume, V do gás, em litros (), em função da temperatura absoluta T, para a transformação em questão. A constante universal dos gases vale R=0,082 atm. /(mol.K).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dentre as grandezas pressão, volume e temperatura, quais permanecem constantes no trecho AB? E no trecho BC?</p>
+        </part>
+        <part>
+          <p>Construa na Figura 2 o gráfico da pressão P em função da temperatura absoluta T. Indique claramente os pontos correspondentes aos estados A, B e C. Marque os valores da escala utilizada no eixo da pressão P.</p>
+        </part>
+        <part>
+          <p>Escreva a função P(T) que representa a pressão P do gás em função da temperatura absoluta T, no intervalo de 300K a 600K, com seus coeficientes dados numericamente. Figura 1 Figura 2 PROVA DE FÍSICA - FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

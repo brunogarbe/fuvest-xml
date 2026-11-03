@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2001" phase="objective" day="0" variation="V1" date="2001-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 2001</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 2001 1. (ITA – 01) Se a ∈ R é tal que 3y2 – y + a = 0 tem raiz dupla, então a solução da equação 32x+1 – 3x + a = 0 a) log2 6 b) – log2 6 c) log3 6 d) – log36 e) 1 – log3</p>
+        <p>2. (ITA – 01) O valor da soma a + b para que as raízes do polinômio 4x4 – 20x3 + ax2 – 25x + b estejam em progressão aritmética de razão 1/2 é. a) 36 b) 41 c) 26 d) –27 e) –20</p>
+        <p>3. (ITA – 01) Se z = 1 + i 3 , z. w = 1 e α ∈ [0, 2π] é um argumento de z, w, então α é igual a: a) 3 π b) π c) 3 2π d) 3 5π e) 2 3π</p>
+        <p>4. (ITA – 01) O número complexo ; 2 cos .2 1. cos . cos 1 α α α α α α sen sen i sen z + − + + = α ∈ ]0, π/2[ tem argumento π /4. Neste caso, α é igual a: a) 6 π b) 3 π c) 4 π d) 5 π e) 9 π</p>
+        <p>5. (ITA – 01) Um triângulo tem lados medindo 3, 4 e 5 centímetros. A partir dele, constrói-se uma seqüência de triângulos dos seguinte modo: os pontos médios dos lados de um triângulo são os vértices do seguinte. Dentre as alternativas abaixo, o valor em centímetros quadrados que está mais próximo da soma das áreas dos 78 primeiros triângulos assim construídos, incluindo o triângulo inicial, é: a) 8 b) 9 c) 10 d) 11 e) 12</p>
+        <p>6. (ITA – 01) Sabendo que é de 1024 a soma dos coeficientes do polinômio em x e y, obtido pelo desenvolvimento do binômio (x + y)m, temos que o número de arranjos sem repetição de m elementos, tomados 2 a 2, é: a) 80 b) 90 c) 70 d) 100 e) 60</p>
+        <p>7. (ITA – 01) A respeito das combinações an =       n n 2 e bn =       1 - n n 2 temos que, para cada n = 1, 2, 3, ... , a diferença an – bn é igual a: a) n a 1 + n !n</p>
+        <p>b) n a 1 + n n 2</p>
+        <p>c) n a 1 + n n</p>
+        <p>b) d) n a 1 + n 2 e) n a 1 + n 1</p>
+        <p>8. (ITA – 01) Sejam A e B matrizes n x n , e B uma matriz simétrica. Dadas as afirmações: I. AB + BAT é simétrica. II. (A + AT + B) é simétrica. III. ABAT é simétrica. temos que: a) apenas I é verdadeira b) apenas II é verdadeira</p>
+        <p>c) apenas III é verdadeira d) apenas I e III são verdadeiras e) todas as afirmações são verdadeiras</p>
+        <p>9. (ITA – 01) Considere a matriz A =             64 27 8 1 16 9 4 1 4 3 2 1 1 1 1 1</p>
+        <p>A soma dos elementos da primeira coluna da matriz inversa de A é: a) 1 b) 2 c) 3 d) 4 e) 5</p>
+        <p>10. (ITA – 01) Sendo α e β os ângulos agudos de um triângulo retângulo, e sabendo que sen22β – 2 cos2β = 0, então sen α é igual a: a) 2 2 b) 2 2 4 c) 2 8 4 d) 4 8 4</p>
+        <p>e) zero</p>
+        <p>11. (ITA – 01) O raio da base de um cone circular reto é igual à média aritmética da altura e a geratriz do cone. Sabendo-se que o volume do cone. Sabendo-se que o volume do cone é 128m3, temos que o raio da base e altura do cone medem, respectivamente, em metros: a) 9 e 8 b) 8 e 6 c) 8 e 7 d) 9 e 6 e) 10 e 8</p>
+        <p>12. (ITA – 01) De dois polígonos convexos, um tem a mais que outro 6 lados e 39 diagonais. Então, a soma total dos números de vértices e de diagonais dos dois polígonos é igual a: a) 53 b) 65 c) 66 d) 70 e) 77</p>
+        <p>www.rumoaoita.com 13. (ITA – 01) Seja o ponto A = (r , 0) , r &gt; 0. O lugar geométrico dos pontos P = (x ,y) tais que é de 3r2 a diferença entre o quadrado da distância de P e A e o dobro do quadrado da distância de P à rota y = – r é: a) uma circunferência centrada em (r, –2r) com raio r. b) uma elipse centrada em (r, –2r) com semi-eixos valendo re 2r. c) uma parábola com vértice em (r, –r) d) duas retas paralelas distando r 3 uma da outra. e) uma hipérbole centrada em (r, –2r) com semi-eixos valendo r.</p>
+        <p>14. (ITA – 01) Sejam X, Y e Z subconjuntos próprios de R, não-vazios. Com respeito às afirmações: I. x ∩ {[Y ∩ (X ∪ Y)C] ∪ [X ∪ YC)C} II. Se Z ⊂ X então (Z ∪ Y) ∪ (X ∪ (ZC∩ Y)} = X ∪ Y. III. Se (X ∪ Y)C ⊂ Z então ZC ⊂ X. temos que: a) apenas I é verdadeira b) apenas I e II são verdadeiras.</p>
+        <p>c) apenas I e III são verdadeiras. d) apenas II e III são verdadeiras e) todas são verdadeiras.</p>
+        <p>15. (ITA – 01) Se f : ]0, 1[ → R é tal que, ∀x ∈ ]0,1[,... f(x) &lt; 2 1 e f(x) = 4 1 +       + +       2 1 2 x f x f</p>
+        <p>então a desigualdade válida para qualquer n = 1, 2, 3, ...e 0 &lt; x &lt; 1 é: a) f(x) + 2 1 &lt; 2 1 n</p>
+        <p>d) f(x) &gt; n 2 1 b) n 2 1 ≤ f(x) ≤ 2 1 e) f(x) &lt; n 2 1 c) 1 + n 2 1 &lt; f(x) &lt; 2 1</p>
+        <p>16. (ITA – 01) Considere as funções f(x) = 4 7 5 = ) x ( g , 4 7 + 5 x x</p>
+        <p>e h(x) = arctg a: Se α é tal que h (f(a)) + h(g(a) = π /4, então f(a) – g(a) vale: a) 0 b) 1 c) 4 7 d) 2 7 e) 7</p>
+        <p>17. (ITA – 01) O conjunto de todos os valores de m para os quais a função f(x) = ) 2 m ( x )1 m 2 ( x ) 3 m ( x ) 3 m 2 ( x 2 2 2 2 + + + + + + + +</p>
+        <p>está definida e é não negativa para todo x real é: a) [ 4 7 , 4 1 [ b) ]1/4,∞[ c) ] 4 7 ,0 [ d) ]-∞, 1/4 ] e) ]1/4,7/4[ 18. (ITA – 01) A parte imaginária de ((1 + cos 2x) + i sen 2x)k, k inteiro positivo, x real é a) 2 senk x. cosk x b) senkx. coskx c) 2ksen kx. coskx d) 2k senkx. coskx e) sen kx . coskx</p>
+        <p>19. (ITA – 01) O polinômio com coeficientes reais P(x) = x5 + a4x4 + a3x3 + a2x2 + a1x + a0 tem duas raízes distintas, cada uma delas com multiplicidade 2, e duas de suas raízes são 2 e i. Então, a soma dos coeficientes é igual a: a) –4 b) –6 c) –1 d) 1 e) 4</p>
+        <p>20. (ITA – 01) Seja m ∈ R, m &gt; 0. Considere o sistema</p>
+        <p>O produto dos valores de m para os quais o sistema admite solução não-trival é: a) 1 b) 2 c) 4 d) 8 e) 2 log25</p>
+        <p>www.rumoaoita.com 21. (ITA – 01) Considere os números de 2 a 6 algarismos distintos formados utilizando-se apenas 1, 2, 4, 5, 7 e 8. Quantos destes números são ímpares e começam com um dígito par? a) 375 b) 465 c) 545 d) 585 e) 625</p>
+        <p>22. (ITA – 01) Sendo dado ( ) ( ) n 2 4 3 n n 4 3 2n ... 4 3 2</p>
+        <p>ln</p>
+        <p>e</p>
+        <p>a 2n ... 8 6 4 2</p>
+        <p>ln = = bn então, n 2 n 2 ln + ... + 5 5 ln 4 4 ln + 3 3 ln 2 2 ln</p>
+        <p>é igual a: a) na – 2bn b) 2a n - bn c) na – bn d) bn – na e) na + bn</p>
+        <p>23. (ITA – 01) A razão entre a área da base de uma pirâmide regular de base quadrada e a área de uma das faces é 2. Sabendo que o volume da pirâmide é de 12 m3, temos que a altura da pirâmide mede (em metros): a) 1 b) 2 c) 3 d) 4 e) 5</p>
+        <p>24. (ITA – 01) Num trapézio retângulo circunscritível, a soma dos dois lados paralelos é igual a 18 cm e a diferença dos dois outros lados é igual a 2 cm. Se r é o raio da circunferência inscrita e a é o comprimento do menor lado do trapézio, então a soma a + r (em cm) é igual a: a) 12 b) 11 c) 10 d) 9 e) 8</p>
+        <p>25. (ITA – 01) coeficiente angular da reta tangente à elipse 1 = 9 y + 16 x 2 2</p>
+        <p>no primeiro quadrante e que corta o eixo das abscissas no ponto P = (8, 0) é: a) 3 3 b) 2 1 c) 3 2 d) 4 3 e) 4 2</p>
+        <p>www.rumoaoita.com</p>
+        <p>Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

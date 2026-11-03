@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1996" phase="objective" day="0" variation="V1" date="1996-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1996</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1996 01) (ITA-96) Seja a ∈ ℜ, a &gt; 0 e a≠1 e considere a matriz A: ( )           − = 1 log 1 log log / 1 log 3 log 3 log 10 2 10 a a a a a a a a A . Para que a característica de A seja máxima, o valor de a deve ser tal que: a) a ≠ 10 e a ≠ 1/3 b) a ≠ 10 e a ≠ 1/3 c) a ≠ 2 e a ≠ 10 d) a ≠ 2 e a ≠ 3 e) a ≠ 2 e a ≠ 10</p>
+        <p>02) (ITA-96) Sejam A e B subconjuntos não vazios de R, e considere as seguintes afirmações: I- (A - B)C ∩ (B ∪ AC)C = ∅ II- (A - BC)C = B - AC III- [(AC - B)∩(B - A)]C = A Sobre essas afirmações podemos garantir que: a) Apenas a afirmação I é verdadeira. b) Apenas a afirmação II é verdadeira. c) Apenas a afirmação III é verdadeira. d) Todas as afirmações são verdadeiras. e) Apenas as afirmações I e III são verdadeiras.</p>
+        <p>03) (ITA-96) Numa pirâmide triangular regular, a área da base é igual ao quadrado da altura H. Seja R o raio da esfera inscrita nesta pirâmide. Deste modo, a razão H/R é igual a: a) 1 3 + b) 1 3 − c) 1 3 3 1 + +</p>
+        <p>d) 1 3 3 1 − + e) 1 3 +</p>
+        <p>04) (ITA-96) Dadas as afirmações: IN n , 2 n n 1 n n</p>
+        <p>....... 2 n 1 n 0 n n ∈ =       +       − + +       +       +      </p>
+        <p>IIn , 1,2,3..... k N, n . k - n n</p>
+        <p>k n = ∈       =      </p>
+        <p>III- Existem mais possibilidades de escolher 44 números diferentes entre os números inteiros de 1 a 50 do que escolher 6 números diferentes entre os números inteiros de 1 a 50. Conclui-se que: a) Todas são verdadeiras b) Apenas a afirmação I e II são verdadeiras. c) Apenas I é verdadeira. d) Apenas II é verdadeira. e) Apenas II e III são verdadeiras.</p>
+        <p>05) (ITA-96) Considere o polinômio: P(z) = z6 + 2z5 + 6z4 + 12z3 + 8z2 + 16z a) Apenas uma é real. b) Apenas duas raízes são reais e distintas. c) Apenas duas raízes são reais e iguais. d) Quatro raízes são reais, sendo duas a duas distintas. e) Quatro raízes são reais, sendo apenas duas iguais.</p>
+        <p>06) (ITA-96) Seja a ∈ R [-π/4, π/4] um número real dado. A solução (x0, y0) do sistema de equações:    − = + − = − 1 x ) a (sen y ) a (cos tga x ) a (cos y ) a (sen é tal que: a) x0. y0 = tg a b) x0. y0 = - sec a c) x0. y0 = 0 d) x0. y0 = sen2 a e) x0. y0 = sen a</p>
+        <p>07) (ITA-96) Seja * : + ℜ f → ℜ uma função injetora tal que f(1) = 0 e f(x.y) = f(x) + f(y) pra todo x &gt; 0 e y &gt; 0. Se x1, x2, x3, x4 e x5 formam nessa ordem uma progressão geométrica, onde xi &gt; 0 para i = 1, 2, 3, 4, 5 e sabendo que ∑ = + = 5 1 i 1 i ) x (f 2 ) 2 (f 13 ) x (f e ) 2 ( 2 1 4 1 1 x f x x f i i i − =       ∑ = + , então o valor de x1 é: a) -2 b) 2 c) 3 d) 4 e) 1</p>
+        <p>www.rumoaoita.com</p>
+        <p>08) (ITA-96) Um hexágono regular e um quadrado estão inscritos no mesmo círculo de raio R e o hexágono possui uma aresta paralela a uma aresta do quadrado. A distância entre estas arestas paralelas será: a) R 2 2 3 −</p>
+        <p>b) R 2 1 2 +</p>
+        <p>c) R 2 1 3 +</p>
+        <p>d) R 2 1 2 −</p>
+        <p>e) R 2 1 3 −</p>
+        <p>09) (ITA-96) Tangenciando externamente a elipse ε1, tal que ε1: 9x2 + 4y2 - 72x - 24y +144 = 0 considere uma elipse ε2, de eixo maior sobre a reta que suporta o eixo menor de ε1 e cujos eixos têm mesma medida que os eixos de ε1. Sabendo que ε2 está inteiramente contida no primeiro quadrante, o centro de ε2 é: a) (7,3) b) (8,2) c) (8,3) d) (9,3) e) ( 9,2)</p>
+        <p>10) (ITA-96) São dadas as parábolas p1: y = - x2 - 4x - 1 e p2: y = x2 - 3x + 11/4 cujos vértices são denotados, respectivamente, por V1 e V2. Sabendo que r é a reta que contém V1 e V2, então a distância de r até à origem é: a) 26 5 b) 26 7 c) 50 7</p>
+        <p>d) 50 17 e) 74 11</p>
+        <p>11) (ITA-96) Seja a ∈ ℜ, a &gt; 1. Para que: ]4, 5[ = {x ∈ ℜ*+ ; log1/a [loga(x2 - 15)] &gt; 0}. O valor de a é: a) 2 b) 3 c) 5 d) 9 e) 10</p>
+        <p>12) (ITA-96) Se (x0, y0) é uma solução real do sistema    = − = + − + 4 4 2 ) 2 ( log ) 2 ( log 2 2 3 2 y x y x y x então x0 + y0 é igual a: a) 4 7 b) 4 9 c) 4 11 d) 4 13 e) 4 17</p>
+        <p>13) (ITA-96) Considere A e B matrizes reais 2x2, arbitrárias. Das afirmações abaixo assinale a verdadeira. No seu caderno de respostas, justifique a afirmação verdadeira e dê exemplo para mostrar que cada uma das demais é falsa. a) Se A é não nula então A possui inversa</p>
+        <p>b) (AB)t = AtBt c) det (AB) = det (BA)</p>
+        <p>d) det A2 = 2 det A e) (A + B)(A - B) = A2 - B2</p>
+        <p>14) (ITA-96) Seja a ∈ ℜ e considere as matrizes reais 2x2.         − − = a a 3 1 1 3 A e         = − − − 3 3 a 1 a 2 8 7 7 B</p>
+        <p>O produto AB será inversível se e somente se: a) a2 - 5a + 6 ≠ 0 b) a2 - 5a ≠ 0 c) a2 - 3a ≠ 0 d) a2 - 2a + 1 ≠ 0 e) a2 - 2a ≠ 0</p>
+        <p>15) (ITA-96) Seja α um número real tal que α &gt; ) 2 1 ( 2 + e considere a equação x2 - αx + α + 1 = 0. Sabendo que as raízes dessa equação são cotangentes de dois dos ângulos internos de um triângulo, então o terceiro ângulo interno desse triângulo vale: a) 30o b) 45o c) 60o d) 135o e) 120o</p>
+        <p>16) (ITA-96) Seja α ∈ [0, π/2], tal que: (sen x + cos x) = m. Então, o valor de α + α α = 3 3 cos sen 2 sen y será: a) ) m 4 ( m )1 m ( 2 2 2 − − b) ) m 4 ( m )1 m ( 2 2 2 + + c) ) m 3 ( m )1 m ( 2 2 2 − −</p>
+        <p>d) ) m 3 ( m )1 m ( 2 2 2 + − e) ) m 3 ( m )1 m ( 2 2 2 − +</p>
+        <p>17) (ITA-96) A aresta de um cubo mede x cm. A razão entre o volume e a área total do poliedro cujos vértices são centros das faces do cubo será: a) 9 3 x cm b) 18 3 x cm c) 6 3 x cm</p>
+        <p>www.rumoaoita.com d) 3 3 x cm e) 2 3 x cm</p>
+        <p>18) (ITA-96) As dimensões x, y e z de um paralelepípedo retângulo estão em progressão aritmética. Sabendo que a soma dessas medidas é igual a 33 cm e que a área total do paralelepípedo é igual a 694 cm2, então o volume deste paralelepípedo, em cm3, é igual a: a) 1200 b) 936 c) 1155 d) 728 e) 834</p>
+        <p>19) (ITA-96) Três pessoas A, B e C, chegam no mesmo dia a uma cidade onde há cinco hotéis H1, H2, H3, H4 e H5. Sabendo que cada hotel tem pelo menos três vagas, qual/quais das seguintes afirmações, referentes à distribuição das três pessoas nos cinco hotéis, é/são correta(s)? I- Existe um total de 120 combinações II- Existe um total de 60 combinações se cada pessoa pernoitar num hotel diferente III- Existe um total de 60 combinações se duas e apenas duas pessoas pernoitarem no mesmo hotel a) Todas as afirmações são verdadeiras. b) Apenas a afirmação I é verdadeira. c) Apenas a afirmação II é verdadeira. d) Apenas as afirmações I e III são verdadeiras. e) Apenas as afirmações II e III são verdadeiras.</p>
+        <p>20) (ITA-96) O valor da potência 93 i 1 2         + é: a) 2 i 1+ − b) 2 i 1+ c) 2 i 1− − d)( ) i 2 93 e)( ) i 2 93 +</p>
+        <p>21) (ITA-96) Sejam a1, a2, a3 e a4 quatro números reais (com a1 ≠ 0), formando nessa ordem uma progressão geométrica. Então, o sistema em x e y    = + = + 2 4 1 2 1 3 1 a x a a x a a 1 x a x a é um sistema: a) Impossível. b) Possível e determinado. c) Possível e indeterminado. d) Possível determinado para a1 &gt; 1. e) Possível determinado para a1 &lt; -1.</p>
+        <p>22) (ITA-96) Considere as funções reais f e g definidas por: 2 x 1 x 2 1 ) x (f − + = , x ∈ R - { -1, 1} e x 2 1 x ) x ( g + = , x ∈ R - { -1/2}. O maior subconjunto de R onde pode ser definida a composta fog, tal que (fog)(x) &lt; 0, é: a) ]-1, -1/2[ ∪ ]-1/3, -1/4[ b) ]- ∞, -1[ ∪ ]-1/3, -1/4[ c) ]- ∞, -1[ ∪ ]-1/2, 1[ d) ]1, ∞[ e) ]-1/2, -1/3[</p>
+        <p>23) (ITA-96) Seja R R : f → definida por:    &gt; + + ≤ + = 0 x ,3 x 4 x 0 x ,3 x 3 ) x (f 2</p>
+        <p>a) f é bijetora e ) 21 ( f ) 3 / 2 )( fof ( 1 − = − . b) f é bijetora e ) 99 ( f ) 3 / 2 )( fof ( 1 − = − . c) f é sobrejetora mas não é injetora. d) f é injetora mas não é sobrejetora. e) f é bijetora e ) 3 ( f ) 3 / 2 )( fof ( 1 − = − .</p>
+        <p>24) (ITA-96) Sabendo que o ponto (2,1) é ponto médio de uma corda AB da circunferência (x - 1)2 + y2 = 4, então a equação da reta que contém A e B é dada por: a) y = 2x - 3 b) y = x-1</p>
+        <p>c) y = -x + 3 d) y = 3x/2 - 2 e) y = -x/2 + 2</p>
+        <p>25) (ITA-96) São dadas as retas r: x - y + 1 + raiz2 = 0 e s: raiz3 x + y - 2 raiz3 = 0 e a circunferência C: x2 + 2x + y2 = 0. Sobre a posição relativa desses três elementos, podemos afirmar que: a) r e s são paralelas entre si e ambas são tangentes à C. b) r e s são perpendiculares entre si e nenhuma delas é tangente a C.</p>
+        <p>www.rumoaoita.com c) r e s são concorrentes, r é tangente à C e s não é tangente à C. d) r e s são concorrentes, s é tangente à C e r não é tangente à C. e) r e s são concorrentes e ambas são tangentes à C.</p>
+        <p>www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

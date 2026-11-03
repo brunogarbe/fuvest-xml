@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2003" phase="objective" day="0" variation="V1" date="2003-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>NOTAÇÕES £ : conjunto de números complexos. ] [ { } a,b x ;a x b . = ∈ &lt; &lt; ¡</p>
+        <p>¡ : conjunto dos números reais. ∅ : conjunto vazio. ¢ : conjunto dos números inteiros. { } A \ B x A;x B . = ∈ ∉</p>
+        <p>{ } 0, 1, 2, 3, ... . = ¥</p>
+        <p>C X U\X, para X U,U = ⊂ ≠∅ { } * 1, 2, 3, ... . = ¥</p>
+        <p>I : matriz identidade . n n ×</p>
+        <p>z : conjunto do número . z ∈£ 1 A− : inversa da matriz inversível A. i : unidade imaginária; 2 1. i = −</p>
+        <p>T A : transposta da matriz A. arg z : um argumento de { } \ 0 . z ∈£</p>
+        <p>AB : segmento de reta unindo os pontos A e B. [ ] { } a,b x ;a x b . = ∈ ≤ ≤ ¡</p>
+        <p>( ) m AB : medida (comprimento) de . AB</p>
+        <p>1. Seja . z ∈£ Das seguintes afirmações independentes: I. Se 2 2 2 2iz 5z i , 1 3z 2iz 3 z 2 z + − ω = + + + + então 2 2 2 2iz 5z i . 1 3z 2iz 3 z 2 z − + + ω = + − + +</p>
+        <p>II. Se 2iz 3i 3 z 0 e , (1 2i)z + + ≠ ω = + então 2 z 3 2 . 5 z + ω ≤</p>
+        <p>III. Se ( ) 2 1 i z , 4 3 4i + ω = + então 2arg z + 12 π é um argumento de ω. é(são) verdadeira(s): A. ( ) todas. B. ( ) apenas I e II. C. ( ) apenas II e III. D. ( ) apenas I e III. E. ( ) apenas II.</p>
+        <p>2. O valor de y2 – xz para o qual os números sen , x, y, z e sen75 , 12 π ° nesta ordem, formam uma progressão aritmética, é: A. ( ) 3–4 B. ( ) 2–6 C. ( ) 6–2 D. ( ) 2–5 E. ( ) 2 3 4 −</p>
+        <p>3. Considere a função { } ( ) ( ) ( ) 1/ 2 x 1/x x 2 2x 1 2x 5 f : \ 0 , f(x) 3 9 3 1. − + + → = − + ¢ ¡</p>
+        <p>A soma de todos os valores de x para os quais a equação y2 + 2y + f(x) = 0 tem raiz dupla é: A. ( ) 0 B. ( ) 1 C. ( ) 2 D. ( ) 4 E. ( ) 6 4. Considere uma função f : → ¡ ¡ não-constante e tal que f(x y) f(x)f(y), x, y . + = ∀ ∈¡ Das afirmações: I. f(x) 0, x . &gt; ∀∈¡ II. ( ) n f(nx) f x , x , n *. = ∀∈ ∀∈     ¡ ¥</p>
+        <p>III. f é par. é(são) verdadeira(s): A. ( ) apenas I e II. B. ( ) apenas II e III. C. ( ) apenas I e III. D. ( ) todas. E. ( ) nenhuma. ITA2003</p>
+        <p>5. Considere o polinômio 2 n 2 n P(x) 2x a x</p>
+        <p>a x , = + + + L cujos coeficientes 2, a2, … , an formam, nesta ordem, uma progressão geométrica de razão q &gt; 0. Sabendo que 1 2 − é uma raiz de P e que P(2) = 5 460, tem-se que o valor de 2 3 4 n q q − é igual a: A. ( ) 5 4</p>
+        <p>B. ( ) 3 2</p>
+        <p>C. ( ) 7 4</p>
+        <p>D. ( ) 11 6</p>
+        <p>E. ( ) 15 8</p>
+        <p>6. Dividindo-se o polinômio P(x) = x5 + ax4 + bx2 + cx + 1 por (x – 1), obtém-se resto igual a 2. Dividindo-se P(x) por (x + 1), obtém-se resto igual a 3. Sabendo que P(x) é divisível por (x – 2), tem-se que o valor ab c é igual a: A. ( ) – 6 B. ( ) – 4 C. ( ) 4 D. ( ) 7 E. ( ) 9</p>
+        <p>7. Das afirmações abaixo sobre a equação z4 + z3 + z2 + z + 1 = 0 e suas soluções no plano complexo: I. A equação possui pelo menos um par de raízes reais. II. A equação possui duas raízes de módulo 1, uma raiz de módulo menor que 1 e uma raiz de módulo maior que 1. III. Se ∈ * n ¥ e r é uma raiz qualquer desta equação, então 1 1 3 2 = &lt; ∑ k n k r . é(são) verdadeira(s): A. ( ) nenhuma. B. ( ) apenas I. C. ( ) apenas II. D. ( ) apenas III. E. ( ) apenas I e III. 8. Seja k ∈ R tal que a equação 2x3 + 7x2 + 4x + k = 0 possua uma raiz dupla e inteira x1 e uma raiz x2, distinta de x1. Então, (k + x1)x2 é igual a: A. ( ) – 6 B. ( ) – 3 C. ( ) 1 D. ( ) 2 E. ( ) 8 9. Considere o conjunto = ∈ × + = S {(a, b) N N : a b 18}. A soma de todos os números da forma 18! , ( , ) , ! ! ∀ ∈ a b S a b é: A. ( ) 86 B. ( ) 9! C. ( ) 96 D. ( ) 126 E. ( ) 12! 10. O número de divisores de 17640 que, por sua vez, são divisíveis por 3 é: A. ( ) 24 B. ( ) 36 C. ( ) 48 D. ( ) 54 E. ( ) 72</p>
+        <p>11. Sejam A e P matrizes n × n inversíveis e B = P–1AP. Das afirmações: I. BT é inversível e (BT)–1 = (B–1)T. II. Se A é simétrica, então B também o é. III. det(A – λI) = det(B – λI), ∀λ ∈ R. é(são) verdadeira(s): A. ( ) todas. B. ( ) apenas I. C. ( ) apenas I e II. D. ( ) apenas I e III. E. ( ) apenas II e III.</p>
+        <p>12. O número de todos os valores de a ∈ [0, 2π], distintos, para os quais o sistema nas incógnitas x, y e z, dado por 4 6 cos3 2 5 sen2 6 3 4 2cos , − + − = + − =   + − = −  x y z a x y z a x y z a</p>
+        <p>é possível e não-homogêneo, é igual a: A. ( ) 2 B. ( ) 3 C. ( ) 4 D. ( ) 5 E. ( ) 6</p>
+        <p>13. Para todo x ∈ R, a expressão 2 2 [cos(2 )] [sen(2 )] sen x x x é igual a: A. ( ) 2–4 [sen (2x) + sen (5x) + sen (7x)]. B. ( ) 2–4 [2 sen x + sen (7x) – sen (9x)]. C. ( ) 2–4 [– sen (2x) – sen (3x) + sen (7x)]. D. ( ) 2–4 [– sen x + 2 sen (5x) – sen (9x)]. E. ( ) 2–4 [sen x + 2 sen (3x) + sen (5x)].</p>
+        <p>14. Considere os contradomínios das funções arco-seno e arco-cosseno como sendo , 2 2 π π   −     e [ ] 0, π , respectivamente. Com respeito à função 3 f : [ 1, 1] , , f(x) arcsenx arccosx 2 2 π π   − →− = +     , temos que: A. ( ) f é não-crescente e ímpar. B. ( ) f não é par nem ímpar. C. ( ) f é sobrejetora. D. ( ) f é injetora. E. ( ) f é constante.</p>
+        <p>15. Considere a família de circunferências com centros no segundo quadrante e tangente ao eixo Oy. Cada uma destas circunferências corta o eixo Ox em dois pontos, distantes entre si de 4 cm. Então, o lugar geométrico dos centros destas circunferências é parte: A. ( ) de uma elipse. B. ( ) de uma parábola. C. ( ) de uma hipérbole. D. ( ) de duas retas concorrentes. E. ( ) da reta y = –x.</p>
+        <p>16. A área do polígono, situado no primeiro quadrante, que é delimitado pelos eixos coordenados e pelo conjunto {(x, y) ∈ R2 : 3x2 + 2y2 + 5xy – 9x – 8y + 6 = 0}, é igual a: A. ( ) 6 B. ( ) 5 2</p>
+        <p>C. ( ) 2 2 D. ( ) 3 E. ( ) 10 3</p>
+        <p>17. Sejam r e s duas retas paralelas distando entre si 5 cm. Seja P um ponto na região interior a estas retas, distando 4 cm de r. A área do triangulo eqüilátero PQR, cujos vértices Q e R estão, respectivamente, sobre as retas r e s, é igual, em cm2, a: A. ( ) 3 15 B. ( ) 7 3 C. ( ) 5 6 D. ( ) 15 3 2</p>
+        <p>E. ( ) 7 15 2</p>
+        <p>18. Considere três polígonos regulares tais que os números que expressam a quantidade de lados de cada um constituam uma progressão aritmética. Sabe-se que o produto destes três números é igual a 585 e que a soma de todos os ângulos internos dos três polígonos é igual a 3780º. O número total das diagonais nestes três polígonos é igual a: A. ( ) 63 B. ( ) 69 C. ( ) 90 D. ( ) 97 E. ( ) 106 19. Considere o triangulo isósceles OAB, com lados e OA OB de comprimento 2R e lado AB de comprimento 2R. O volume do sólido, obtido pela rotação deste triângulo em torno da reta que passa por O e é paralela ao lado AB , é igual a: A. ( ) 3 R 2 π</p>
+        <p>B. ( ) 3 R π</p>
+        <p>C. ( ) 3 4 R 3 π</p>
+        <p>D. ( ) 3 2 R π</p>
+        <p>E. ( ) 3 3 R π</p>
+        <p>20. Considere uma pirâmide regular de altura igual a 5 cm e cuja base é formada por um quadrado de área igual a 8 cm2. A distância de cada face desta pirâmide ao centro de sua base, em cm, é igual a: A. ( ) 15 3</p>
+        <p>B. ( ) 5 6 9</p>
+        <p>C. ( ) 4 3 5</p>
+        <p>D. ( ) 7 5</p>
+        <p>E. ( ) 3</p>
+        <p>AS QUESTÕES DE 21 A 30 DEVERÃO SER RESOLVIDAS NO CADERNO DE RESPOSTAS ANEXO.</p>
+        <p>21. Sejam U um conjunto não-vazio e A ⊂ U, B ⊂ U. Usando apenas as definições de igualdade, reunião, intersecção e complementar, prove que: I. Se A ∩ B = ∅, então B ⊂ AC. II. B \ AC = B ∩ A.</p>
+        <p>22. Determine o conjunto dos números complexos z para os quais o número 2 | 1| | 1| 3 ω + + = − + + − z z z z</p>
+        <p>pertence ao conjunto dos números reais. Interprete (ou identifique) este conjunto geometricamente e faça um esboço do mesmo.</p>
+        <p>23. Considere a seguinte situação baseada num dos paradoxos de Zenão de Eléia, filósofo grego do século V A.C. Suponha que o atleta Aquiles e uma tartaruga apostam uma corrida em linha reta, correndo com velocidades constantes vA e vT, com 0 &lt; vT &lt; vA. Como a tartaruga é mais lenta, é-lhe dada uma vantagem inicial, de modo a começar a corrida no instante t = 0 a uma distância d1 &gt; 0 na frente de Aquiles. Calcule os tempos t1, t2, t3, … que Aquiles precisa para percorrer as distâncias d1, d2, d3, …, respectivamente, sendo que, para todo n ≥ 2, dn denota a distância entre a tartaruga e Aquiles no instante 1 1 − =∑ n k k t da corrida. Verifique que os termos tk, k = 1, 2, 3, …, formam uma progressão geométrica infinita, determine sua soma e dê o significado desta soma.</p>
+        <p>24. Mostre que toda função : \{0} , → f ¡ ¡ satisfazendo f(xy) = f(x) + f(y) em todo seu domínio, é par. 25. Sejam a, b, c e d constantes reais. Sabendo que a divisão de P1(x) = x4 + ax2 + b por P2(x) = x2 + 2x + 4 é exata, e que a divisão de P3(x) = x3 + cx2 + dx – 3 por P4(x) = x2 – x + 2 tem resto igual a –5, determine o valor de a + b + c + d. 26. Sejam a, b, c e d números reais não-nulos. Exprima o valor do determinante da matriz 2 2 2 2 1 1 1 1             bcd a a acd b b abd c c abc d d</p>
+        <p>na forma de um produto de números reais. 27. Encontre todos os valores de , 2 2 π π   ∈−     a para os quais a equação na variável real x, arctg 2 1 2   −+ +       x e arctg 2 1 2   −− =       x e a, admite solução.</p>
+        <p>28. Sabe-se que uma elipse de equação 2 2 2 2 1 + = x y a b tangencia internamente a circunferência de equação x2 + y2 = 5 e que a reta de equação 3x + 2y = 6 é tangente à elipse no ponto P. Determine as coordenadas de P.</p>
+        <p>29. Considere um quadrado ABCD. Sejam E o ponto médio do segmento CD e F um ponto sobre o segmento CE tal que + = m( B C ) m(CF) m(AF). Prove que cos α = cos2β, sendo os ângulos α = BÂF e β = EÂD. 30. Quatro esferas de mesmo raio R &gt; 0 são tangentes externamente duas a duas, de forma que seus centros formam um tetraedro regular com arestas de comprimento 2R. Determine, em função de R, a expressão do volume do tetraedro circunscrito às quatro esferas.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

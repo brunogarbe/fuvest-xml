@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1997" phase="discursive" day="1" variation="V1" date="1997-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O hidrogênio é usado na fabricação de inúmeros produtos importantes: I. H2 + X → metanol II. H2 + Y → ciclo-hexano III. H2 + Z → tripalmitato de glicerila (gordura saturada)</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique X, Y e Z.</p>
+        </part>
+        <part>
+          <p>Cite um uso para cada um dos produtos: metanol e gordura saturada.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O equipamento de proteção conhecido como “air bag”, usado em automóveis, contém substâncias que se transformam, em determinadas condições, liberando N2 que infla um recipiente de plástico. As equações das reações envolvidas no processo são: 2 NaN3 → 2 Na + 3 N2 azoteto de sódio 10 Na + 2 KNO3 → K2O + 5 Na2O + N2</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Considerando que N2 é gerado nas duas reações, calcule a massa de azoteto de sódio necessária para que sejam gerados 80 L de nitrogênio, nas condições ambiente.</p>
+        </part>
+        <part>
+          <p>Os óxidos formados, em contato com a pele, podem provocar queimaduras. Escreva a equação da reação de um desses óxidos com a água contida na pele. Dados: Volume molar de gás nas condições ambiente: 25 L/mol massa molar do NaN3: 65 g/mol PROVA DE QUÍMICA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para estudar a velocidade da reação que ocorre entre magnésio e ácido clorídrico, foram feitos dois experimentos a 15ºC utilizando a mesma quantidade de magnésio e o mesmo volume de ácido. Os dois experimentos diferiram apenas na concentração do ácido utilizado. O volume de hidrogênio produzido em cada experimento, em diferentes tempos, foi medido a pressão e temperatura ambientes. Os dados obtidos foram: Experimento Tempo/min 0 1 2 3 4 5 6 7 I (vol.H2)/cm3 0 18 33 48 60 63 63 63 II (vol.H2)/cm3 0 28 49 60 62 63 63 63</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em qual dos experimentos a velocidade da reação foi maior? Justifique com base nos dados experimentais.</p>
+        </part>
+        <part>
+          <p>A curva obtida para o experimento I (15ºC) está no gráfico ao lado. Neste mesmo gráfico, represente a curva que seria obtida se o experimento I fosse realizado a uma temperatura mais alta. Explique.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quer-se distinguir uma amostra de p-clorofenol de uma de o-nitrofenol, ambos sólidos.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determinou-se o ponto de fusão de cada amostra, utilizando um termômetro que permite a leitura da temperatura com incerteza de ± 1ºC. Foi possível, com esta medida experimental, distinguir essas amostras? Explique.</p>
+        </part>
+        <part>
+          <p>Em água, tais fenóis (ArOH) apresentam caráter ácido: ArOH ArO- + H+ Mostre com cálculos que a determinação do pH de soluções aquosas desses fenóis, de concentração 0,01 mol/L, serviria para identificá-las. Dados: Substância Ponto de fusão (ºC) Ka* p-clorofenol 43,5 1 x 10-9 o-nitrofenol 45 1 x 10-7 * Ka = constante de ionização, em água. PROVA DE QUÍMICA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Proteínas são formadas por várias cadeias peptídicas que se mantêm unidas através de ligações do tipo I, II e III, formando uma estrutura complexa, como a esquematizada abaixo:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Explique de que tipo são as ligações I, II e III assinaladas no esquema da proteína.</p>
+        </part>
+        <part>
+          <p>Assinale, com um círculo, uma ligação peptídica na proteína esquematizada acima.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ácido nítrico é um importante produto industrial. Um dos processos de obtenção é fazer passar amônia (NH3) e ar, sob pressão, por um catalisador a cerca de 850 ºC, ocorrendo a formação de monóxido de nitrogênio e água. O monóxido de nitrogênio em presença do oxigênio do ar se transforma no dióxido, que em água forma ácido nítrico (HNO3) e monóxido de nitrogênio (que é reciclado no processo).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva as equações balanceadas que representam as diferentes etapas da produção de ácido nítrico através desse processo.</p>
+        </part>
+        <part>
+          <p>O calor envolvido na primeira etapa, ou seja, a oxidação da amônia até o monóxido de nitrogênio, ajuda a manter o catalisador aquecido. Sendo assim, qual deve ser maior: a soma das energias de ligação dos reagentes ou a soma das energias de ligação dos produtos? Justifique. PROVA DE QUÍMICA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A 800ºC, a constante de equilíbrio, Kp (expressa em termos de pressão parcial em atm), para o equilíbrio representado abaixo vale 0,22. CaO(s) + CO2(g) CaCO3(s) Explique o que aconteceria se carbonato de cálcio fosse aquecido, a 800ºC, em recipiente aberto</p>
+      </statement>
+      <parts>
+        <part>
+          <p>na Terra onde a pressão parcial do CO2 atmosférico é 3 x 10-4 atm.</p>
+        </part>
+        <part>
+          <p>em Vênus onde a pressão parcial do CO2 atmosférico é 87 atm.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Adicionando-se solução aquosa de sal A a uma solução aquosa de sal B, forma-se um precipitado em uma reação praticamente completa. Para se determinar os coeficientes estequiométricos dos reagentes, na equação dessa reação, fez-se uma série de 6 experimentos. Em cada um, a quantidade de A era fixa e igual a 4,0 x 10-3mol. A quantidade de B era variável. Os dados destes experimentos estão na tabela abaixo. Experimento 1 2 3 4 5 6 Volume (mL) da solução do sal B, 0,10 mol/L 6,0 12,0 18,0 24,0 30,0 36,0 massa (g) do precipitado formado 0,20 0,40 0,60 0,66 0,66 0,66</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule as quantidades, em mol, do sal B utilizadas nesses experimentos. PROVA DE QUÍMICA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+        <part>
+          <p>No quadriculado ao lado, construa o gráfico: massa de precipitado versus quantidade, em mol, de sal B. Através deste gráfico justifique quais devem ser os coeficientes estequiométricos de A e B.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Estão representados abaixo quatro esteróides:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quais dentre eles são isômeros? Explique.</p>
+        </part>
+        <part>
+          <p>Considerando que o colesterol é um composto insaturado, que reação poderia ocorrer, em condições apropriadas, se este fosse tratado com bromo (Br2)?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>E* (V) HCHO + 2H+ + 2eCH3OH 0,23 CH3OH + 2H+ + 2eCH4 + H2O 0,59 O2 + 4H+ + 4e2H2O 1,23 E* = potencial de redução para a semi-reação nas condições padrão. PROVA DE QUÍMICA – FUVEST 1997 – SEGUNDA FASE Com base nos dados acima, nestas condições,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>mostre que, em meio ácido, seria possível obter metanol a partir de metano e oxigênio.</p>
+        </part>
+        <part>
+          <p>Escreva a equação balanceada que representaria esta transformação.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

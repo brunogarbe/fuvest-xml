@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1995" phase="objective" day="0" variation="V1" date="1995-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1995</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1995 01) (ITA-95) Seja A =       ℵ ∈ + − n n sen n n ; 6 !. ! )1 ( π</p>
+        <p>Qual conjunto abaixo é tal que sua intersecção com A dá o próprio A? a) (- ∞, -2) ∪[2, ∞) b) (- ∞, -2) c) [-2, 2] d) [-2, 0]</p>
+        <p>e) [0, 2]</p>
+        <p>02) (ITA-95) Seja a função f: ℜ → ℜ definida por:</p>
+        <p>   − + = (a/x)senx /2) (</p>
+        <p>/2) a(x ) x (f π π</p>
+        <p>2 / x , se 2 / x , se π ≥ π &lt;</p>
+        <p>onde a &gt; 0 é uma constante. Considere K = { y ∈ R; ) y (f =0}. Qual o valor de a, sabendo-se que ) 2 / (f π ∈ K? a) π2/4 b) π/2 c) π d) π2/2 e) π2</p>
+        <p>03) (ITA-95) Uma vez, para todo x ≥1 e n ∈ N, vale a desigualdade xn &gt; n(x - 1). Temos como conseqüência que, para 0 &lt; x &lt; 1 e n ∈ N, tem-se: a) xn-1 &lt; [n(1 + x)]-1 b) xn-1 &lt; [(n + 1)(1 + x)]-1 c) xn-1 &lt; [n2(1 - x)]-1 d) xn-1 &lt; [(n + 1)(1 - x)]-1 e) xn-1 &lt; [n(1 - x)]-1</p>
+        <p>04) (ITA-95) Considere todos os números de cinco algarismos formados pela justaposição de 1, 3, 5, 7 e 9 em qualquer ordem, sem repetição. A soma de todos esses números está entre: a) 5.106 e 6.106. b) 6.106 e 7.106. c) 7.106 e 8.106. d) 9.106 e 10.106. e) 10.106 e 11.106.</p>
+        <p>05) (ITA-95) Para cada n ∈ N, temos que: 1 -       2 n 4 +       4 n 4 - ... -       −2 n 4 n 4 + 1 é igual a: a) (- 1)n22n. b) 22n. c) (- 1)n2n. d) (- 1)n+1 22n. e) (- 1)n+1 2n.</p>
+        <p>06) (ITA-95) Se a soma dos termos da progressão geométrica dada por 0,3 : 0,03 : 0,003 : ... é igual ao termo médio de uma progressão aritmética de três termos, então a soma dos termos da progressão aritmética vale: a) 1/3 b) 2/3 c) 1 d) 2 e) 1/2</p>
+        <p>07) (ITA-95) Os dados experimentais da tabela abaixo correspondem às concentrações de uma substância química medida em intervalos de 1 segundo. Assumindo que a linha que passa pelos três pontos experimentais é uma parábola, tem-se que a concentração (em moles) após 2,5 segundo é: Tempo(s) Concentração(moles) 1</p>
+        <p>3,00</p>
+        <p>2</p>
+        <p>5,00 3</p>
+        <p>1,00 a) 3,60 b) 3,65 c) 3,70 d) 3,75 e) 3,80</p>
+        <p>08) (ITA-95) A divisão de um polinômio P(x) por x2 - x resulta no quociente 6x2 + 5x + 3 e resto - 7x. O resto da divisão de P(x) por 2x + 1 é igual a: a) 1 b) 2 c) 3 d) 4 e) 5</p>
+        <p>09) (ITA-95) Sabendo que 4 + i 2 e 5 são raízes do polinômio 2x5 - 22x4 + 74x3 + 2x2 - 420x + 540, então a soma dos quadrados de todas as raízes reais é: a) 17 b) 19 c) 21 d) 23 e) 25</p>
+        <p>10) (ITA-95) Seja z um número complexo satisfazendo Re(z) &gt; 0 e ( z + i)2 + z + i 2 = 6. Se n é o menor natural para o qual z n é um número imaginário puro, então n é igual a: a) 1 b) 2 c) 3 d) 4 e) 5</p>
+        <p>www.rumoaoita.com</p>
+        <p>11) (ITA-95) Sejam z1 e z2 números complexos com z1=z2= 4. Se 1 é uma raiz da equação z1z6 + z2z3 - 8 = 0 então a soma das raízes reais é igual a: a) - 1 b) - 1 + 21/2 c) 1 - 21/3 d) 1 + 31/2 e) -1 + 31/2</p>
+        <p>12) (ITA-95) Se S é o conjunto dos valores de a para os quais o sistema      = + + = + + = + + 0 z ) a 27 (log y 2 x 2 0 z y. ) a (log x 0 z y x 3 2 3 em que há indeterminação, então: a) S ⊂ [-3, 3]. b) S é vazio. c) S ⊂ [2, 4]. d) S ⊂ [1, 3]. e) S ⊂ [0, 1].</p>
+        <p>13) (ITA-95) Se x é um número real positivo com x≠1 e x≠1/3, satisfazendo ) 2 x ( log x log 1 ) 2 x ( log x log x log 2 x 3 x ) 2 x ( 3 + = + + − + +</p>
+        <p>então x pertence ao intervalo I, onde: a) I = (0, 1/9) b) I = (0, 1/3) c) I = (1/2, 1) d) I = (1, 3/2) e) I = (3/2, 2)</p>
+        <p>14) (ITA-95) Dizemos que duas matrizes nxn A e B são semelhantes se existe uma matriz nxn inversível P tal que B = P-1AP. Se A e B são matrizes semelhantes quaisquer, então: a) B é sempre inversível. b) Se A é simétrica, então B também é simétrica. c) B2 é semelhante a A. d) Se C é semelhante a A, então BC é semelhante a A2. e) det(λI - B) = det(λI - A), onde λ é um real qualquer.</p>
+        <p>15) (ITA-95) Sejam A e B matrizes reais 3x3. Se tr(A) denota a soma dos elementos da diagonal principal de A, considere as afirmações: I- tr(At) = tr(A ) II- Se A é inversível, então tr(A) ≠ 0. III- tr(A + λB) = tr(A) + λtr(B), para todo λ ∈ R. Temos que: a) Todas as afirmações são verdadeiras. b) Todas as afirmações são falsas. c) Apenas a afirmação I é verdadeira. d) Apenas a afirmação II é falsa. e) Apenas a afirmação III é falsa.</p>
+        <p>16) (ITA-95) Três pontos de coordenadas, respectivamente, (0, 0), (b, 2b) e (5b, 0), com b &gt; 0, são vértices de um retângulo. As coordenadas do quarto vértice são dadas por: a) (-b, -b) b) (-2b, -b)</p>
+        <p>c) (4b, -2b) d) (3b, -2b) e) (-2b, -2b)</p>
+        <p>17) (ITA-95) Uma reta t do plano cartesiano xOy tem coeficiente angular 2a e tangência a parábola y = x2 - 1 no ponto de coordenadas (a, b). Se (c, 0) e (0, d) são as coordenadas de dois pontos de t tais que c &gt; 0 e c = -2d, então a/b é igual a : a) -4/15 b) -5/16 c) -3/16 d) -6/15 e) -7/15</p>
+        <p>18) (ITA-95) Considere C uma circunferência centrada em O e raio 2r, e t a reta tangente a C num ponto T. Considere também A um ponto de C tal que AÔT = θ é um ângulo agudo. Sendo B o ponto de t tal que o segmento AB é paralelo ao segmento OT , então a área do trapézio OABT é igual a: a) r2(2 cos θ - cos 2θ) b) 2r2(4 cos θ - sen 2θ) c) r2(4 sen θ - sen 2θ) d) r2(2 sen θ + cos θ) e) 2r2(2 sen 2θ - cos 2θ)</p>
+        <p>19) (ITA-95) A expressão θ + θ cos 1 sen , 0 &lt; θ &lt; π, idêntica a: a) secθ/2 b) cosecθ/2 c) cotgθ/2 d) tgθ/2 e) cosθ/2</p>
+        <p>20) (ITA-95) Um dispositivo colocado no solo a uma distância d de uma torre dispara dois projéteis em trajetórias retilíneas. O primeiro, lançado sob um ângulo θ</p>
+        <p>www.rumoaoita.com ∈(0, π/4), atinge a torre a uma altura h. Se o segundo, disparado sob um ângulo 2θ, a atinge a uma altura H, a relação entre as duas alturas será: a) H = 2hd2/(d2 - h2) b) H = 2hd2/(d2 + h) c) H = 2hd2/(d2 - h) d) H = 2hd2/(d2 + h2) e) H = hd2/(d2 + h2)</p>
+        <p>21) (ITA-95) O comprimento da diagonal de um pentágono regular de lado medindo 1 unidade é igual à raiz positiva de: a) x2 + x - 2 = 0. b) x2 - x - 2 = 0 . c) x2 - 2x + 1 = 0. d) x2 + x - 1 = 0. e) x2 - x - 1 = 0.</p>
+        <p>22)(ITA-95) Um cone reto tem altura 12 cm e raio da base 5 cm. O raio da esfera inscrita neste cone mede, em cm: a) 10/3 b) 4/4 c) 12/5 d) 3 e) 2</p>
+        <p>23) (ITA-95) O raio de um cilindro de revolução mede 1,5m. Sabe-se que a área da base do cilindro coincide com a área da secção determinada por um plano que contém o eixo do cilindro. Então, a área total do cilindro, em m2, vale: a) 4 3 2 π b) 4 2) ( 9 + π π c) ) 2 ( + π π</p>
+        <p>d) 2 2 π e) 2 )1 ( 3 + π π</p>
+        <p>24) (ITA-95) Dado o prisma hexagonal regular, sabe-se que sua altura mede 3 cm e que sua área lateral é o dobro da área de sua base. O volume deste prisma, em cm3, é: a) 27 3 b) 13 2 c) 12 3 d) 54 3 e) 17 5</p>
+        <p>25) (ITA-95) Dada uma pirâmide triangular, sabe-se que sua altura mede 3a cm, onde a é a medida da aresta de sua base. Então, a área total desta pirâmide, em cm2, vale: a) 4 327 a2</p>
+        <p>b) 2 109 a2 c) 2 3 a2</p>
+        <p>d) 2 ) 33 2 ( 3 a2 +</p>
+        <p>e) 4 ) 109 1 ( 3 a2 +</p>
+        <p>B C D E A</p>
+        <p>www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

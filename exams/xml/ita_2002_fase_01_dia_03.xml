@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2002" phase="objective" day="0" variation="V1" date="2002-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Considere as seguintes afirmações sobre números reais positivos:</p>
+        <p>I. Se x &gt; 4 e y &lt; 2 , então − 2 x 2y &gt; 12 . II. Se x &gt; 4 ou y &lt; 2 , então − 2 x 2y &gt; 12 . III. Se 2 x &lt; 1 e 2 y &gt; 2 , então 2 x 2y &lt; 0 − .</p>
+        <p>Então, destas é (são) verdadeira(s)</p>
+        <p>A ( ) apenas I. B ( ) apenas I e II. C ( ) apenas II e III. D ( ) apenas I e III. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Sejam a,b,c reais não-nulos e distintos, 0 . &gt; c Sendo par a função dada por ( ) a x + b f x = x + c , −c &lt; x &lt; c , então ( ) f x , para −c &lt; x &lt; c , é constante e igual a</p>
+        <p>A ( ) a + b . B ( ) a + c . C ( ) c .</p>
+        <p>D ( ) b .</p>
+        <p>E ( ) a .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Os valores de x R ∈ , para os quais a função real dada por ( ) f x = 5 2 x 1 6 − − − está definida, formam o conjunto</p>
+        <p>A ( ) [ ] 0,1 .</p>
+        <p>B ( ) [ ] 5, 6 − .</p>
+        <p>C ( ) [ ] − ∞ [1, ) 5, 0 U . D ( ) [ ] −∞ ( ,0] U 1, 6 .</p>
+        <p>E ( ) [ ] [ ] 5, 0 U 1, 6 − .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Seja a equação em C 4 2 z z + 1 = 0 − .</p>
+        <p>Qual dentre as alternativas abaixo é igual à soma de duas das raízes dessa equação ?</p>
+        <p>A ( ) 2 3 . B ( ) − 3 2 . C ( ) + 3 2 . D ( ) −i . E ( ) 2 i .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Sejam A um conjunto com 8 elementos e B um conjunto tal que A U B contenha 12 elementos. Então, o número de elementos de P(B \ A)U P( ) ∅ é igual a</p>
+        <p>A ( ) 8.</p>
+        <p>B ( ) 16.</p>
+        <p>C ( ) 20. D ( ) 17. E ( ) 9.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Sejam f e g duas funções definidas por ( ) ( ) 3 sen x -1 f x = 2 e ( )       2 3 sen x-1 1 g x = 2 , x ∈ . A soma do valor mínimo de f com o valor mínimo de g é igual a</p>
+        <p>A ( ) 0 .</p>
+        <p>B ( ) 1 4 − .</p>
+        <p>C ( ) 1 4 .</p>
+        <p>D ( ) 1 2 .</p>
+        <p>E ( ) 1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Seja ) ( : R P R f → dada por</p>
+        <p>}. ; { ) ( x y sen R y x f &lt; ∈ =</p>
+        <p>Se A é tal que A x R x f ∈ ∀ = , ) ( , então</p>
+        <p>A ( ) [ ] − A = 1,1 .</p>
+        <p>B ( ) ∞ ∀ [a, ) A = , a &gt; 1. C ( ) [a, ) A = , a 1 ∞ ∀ ≥ . D ( ) ( ,a] A = , a &lt; 1 −∞ ∀ − . E ( ) −∞ ∀ ≤− ( , a] A = , a 1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. A divisão de um polinômio ( ) f x por ( )( ) x 1 x 2 − − tem resto x + 1 . Se os restos das divisões de ( ) f x por x 1 − e x 2 − são, respectivamente, os números a e b , então 2 2 a + b vale</p>
+        <p>A ( ) 13.</p>
+        <p>B ( ) 5.</p>
+        <p>C ( ) 2.</p>
+        <p>D ( ) 1.</p>
+        <p>E ( ) 0 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Sabendo que a equação</p>
+        <p>, ,1 ,0 , , 2 3 N m q q p q px X m ∈ ≠ &gt; = −</p>
+        <p>possui três raízes reais positivas a, b e c , então</p>
+        <p>    2 2 2 q a+b+c log abc (a + b + c )</p>
+        <p>é igual a</p>
+        <p>A ( ) q 2 m + p log p .</p>
+        <p>B ( ) q m + 2 p log p .</p>
+        <p>C ( ) q m + p log p . D ( ) q m p log p − .</p>
+        <p>E ( ) q m 2 p log p − .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Dada a função quadrática</p>
+        <p>2 2 1 3 f (x) = x ln + x ln6 ln 3 4 2 −</p>
+        <p>temos que</p>
+        <p>A ( ) a equação f (x) = 0 não possui raízes reais. B ( ) a equação f (x) = 0 possui duas raízes reais distintas e o gráfico de f possui concavidade para cima. C ( ) a equação f (x) = 0 possui duas raízes reais iguais e o gráfico de f possui concavidade para baixo. D ( ) o valor máximo de f é ln2 ln3 ln3 ln2 − . E ( ) o valor máximo de f é ln2 ln3 2 ln3 ln2 − .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Quantos anagramas com 4 letras distintas podemos formar com as 10 primeiras letras do alfabeto e que contenham 2 das letras a, b e c?</p>
+        <p>A ( ) 1692.</p>
+        <p>B ( ) 1572.</p>
+        <p>C ( ) 1520. D ( ) 1512. E ( ) 1392.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. O seguinte trecho de artigo de um jornal local relata uma corrida beneficente de bicicletas: “Alguns segundos após a largada, Ralf tomou a liderança, seguido de perto por David e Rubinho, nesta ordem. Daí em diante, eles não mais deixaram as primeiras três posições e, em nenhum momento da corrida, estiveram lado a lado mais do que dois competidores. A liderança, no entanto, mudou de mãos nove vezes entre os três, enquanto que em mais oito ocasiões diferentes aqueles que corriam na segunda e terceira posições trocaram de lugar entre si. Após o término da corrida, Rubinho reclamou para nossos repórteres que David havia conduzido sua bicicleta de forma imprudente pouco antes da bandeirada de chegada. Desse modo, logo atrás de David, Rubinho não pôde ultrapassá-lo no final da corrida.” Com base no trecho acima, você conclui que</p>
+        <p>A ( ) David ganhou a corrida. B ( ) Ralf ganhou a corrida. C ( ) Rubinho chegou em terceiro lugar. D ( ) Ralf chegou em segundo lugar. E ( ) não é possível determinar a ordem de chegada, porque o trecho não apresenta uma descrição matematicamente correta.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Seja a matriz 0 0 0 0 cos 25 sen 65 sen 120 cos 390       . O valor de seu determinante é</p>
+        <p>A ( ) 2 2 3 . B ( ) 3 3 2 . C ( ) 3 2 . D ( ) 1.</p>
+        <p>E ( ) 0 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Sejam</p>
+        <p>A e B matrizes quadradas de ordem n tais que AB = A e BA = B . Então, ( ) 2 t A + B       é igual a</p>
+        <p>A ( ) 2 (A + B) .</p>
+        <p>B ( ) t t 2 (A . B ) .</p>
+        <p>C ( ) t t 2 (A + B ).</p>
+        <p>D ( ) t t A + B .</p>
+        <p>E ( ) t t A B .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Seja A uma matriz real 2 x 2 . Suponha que α e β sejam dois números distintos, e V e W duas matrizes reais 2 x 1 não-nulas, tais que</p>
+        <p>AV = αV e AW = βW .</p>
+        <p>Se R b a ∈ , são tais que aV + bW é igual à matriz nula 2 x 1 , então a + b vale</p>
+        <p>A ( ) 0 .</p>
+        <p>B ( ) 1.</p>
+        <p>C ( ) 1 − .</p>
+        <p>D ( ) 1 2 .</p>
+        <p>E ( ) 1 2 − .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. O triângulo ABC , inscrito numa circunferência, tem um lado medindo 20 π cm, cujo ângulo oposto é de 15o . O comprimento da circunferência, em cm, é</p>
+        <p>A ( ) ( ) 20 2 1 + 3 .</p>
+        <p>B ( ) ( ) 400 2 + 3 .</p>
+        <p>C ( ) ( ) 80 1 + 3 . D ( ) ( ) 10 2 3 + 5 .</p>
+        <p>E ( ) ( ) 20 1 + 3 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Num sistema de coordenadas cartesianas, duas retas r e s , com coeficientes angulares 2 e 1 2 , respectivamente, se interceptam na origem 0 . Se B r ∈ e C s ∈ são dois pontos no primeiro quadrante tais que o segmento BC é perpendicular a r e a área do triângulo OBC é igual a 1 12 x 10- , então a distância de B ao eixo das ordenadas vale</p>
+        <p>A ( ) 8 5 .</p>
+        <p>B ( ) 4 5 .</p>
+        <p>C ( ) 2 5 . D ( ) 1 5 . E ( ) 1 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Seja &gt; k 0 tal que a equação ( ) ( ) 2 2 x x + k y y = 0 − − define uma elipse com distância focal igual a 2 . Se ( ) p,q são as coordenadas de um ponto da elipse, com 0 2 q q − ≠ , então − − 2 2 p p q q é igual a</p>
+        <p>A ( ) 2 + 5 . B ( ) 2 5 − . C ( ) 2 + 3 . D ( ) 2 3 − . E ( ) 2 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Considere a região do plano cartesiano x y definida pela desigualdade</p>
+        <p>− − ≤ 2 2 x + 4x + y 4y 8 0 .</p>
+        <p>Quando esta região rodar um ângulo de π 6 radianos em torno da reta x + y = 0 , ela irá gerar um sólido de superfície externa total com área igual a</p>
+        <p>A ( ) 128 π 3 .</p>
+        <p>B ( ) 128 π 4 . C ( ) 128 π 5 . D ( ) 128 π 6 . E ( ) 128 π 7 .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Seja uma pirâmide regular de base hexagonal e altura 10 m. A que distância do vértice devemos cortá-la por um plano paralelo à base de forma que o volume da pirâmide obtida seja 1 8 do volume da pirâmide original?</p>
+        <p>A ( ) 2 m.</p>
+        <p>B ( ) 4 m.</p>
+        <p>C ( ) 5 m.</p>
+        <p>D ( ) 6 m.</p>
+        <p>E ( ) 8 m.</p>
+        <p>As questões dissertativas, numeradas de 21 a 30, devem ser respondidas no caderno de soluções.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Seja a função f dada por</p>
+        <p>( ) ( ) ( ) 3 5 3 3 2 x 3x +1 x 1 1+ 2x x f x = log 5 . log 8 + log 4 log 2 − − − .</p>
+        <p>Determine todos os valores de x que tornam f não-negativa.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Mostre que       4 8,4 x y + 2 + &gt; C y x , para quaisquer x e y reais positivos. Obs.: n,p C denota a combinação de n elementos tomados p a p .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Com base no gráfico da função polinomial ( ) y = f x esboçado abaixo, responda qual é o resto da divisão de ( ) f x por ( ) 1 x x 1 2   − −     .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Sejam a e b dois números complexos não-nulos, tais que 2 2 a + b = 0 . Se C W Z ∈ ,</p>
+        <p>satisfazem a   −  z w + z w = 6a z w z w = 8 b</p>
+        <p>determine o valor de a de forma que z w = 1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>.</p>
+        <p>1. Mostre que se uma matriz quadrada não–nula A satisfaz a equação</p>
+        <p>3 2 A + 3 A + 2 A = 0 (1) então ( ) 3 A + I = A + I , em que I é a matriz identidade.</p>
+        <p>2. Sendo dado que 1 1 A = 0 2 −     −  </p>
+        <p>satisfaz à equação (1) acima, encontre duas matrizes não-nulas B e C tais que 3 3 B + C = B + C = A . Para essas matrizes você garante que o sistema de equações ( ) x 0 B C = y 0   −    </p>
+        <p>tem solução ( ) ( ) x, y 0,0 ≠ ? Justifique.</p>
+        <p>1 2 1 ( ) y f x = 1 8</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Sejam n 2 ≥ números reais positivos n 1 2 a , a , ... a que formam uma progressão aritmética de razão positiva. Considere n n 1 2 A = a + a +... + a e responda, justificando: Para todo n 2 ≥ , qual é o maior entre os números 2 n n A a n   −     e 2 2 n n A a n   −     ?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Considere n pontos distintos n 1 2 A , A , ...A sobre uma circunferência de raio unitário, de forma que os comprimentos dos arcos A1 A2, A2 A3,..., An – 1 An formam uma progressão geométrica de termo inicial π e razão 1 2 . Para que valores de N n ∈ teremos o comprimento do arco An A1 menor que 1 512 do comprimento da circunferência?</p>
+        <p>Obs.: Para todo arcoAk Al, o comprimento considerado é o do arco que une o ponto Akao ponto Al no sentido anti-horário.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Seja S a área total da superfície de um cone circular reto de altura h , e seja m a razão entre as áreas lateral e da base desse cone. Obtenha uma expressão que forneça h em função apenas de S e m .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Considere o seguinte raciocínio de cunho cartesiano: “Se a circunferência de centro C = (h,0) e raio r intercepta a curva + y = x , x &gt; 0 , no ponto A = (a, a ) de forma que o segmento AC seja perpendicular à reta tangente à curva em A , então x = a é raiz dupla da equação em x que se obtém da intersecção da curva com a circunferência.” Use este raciocínio para mostrar que o coeficiente angular dessa reta tangente em A é 1 2 a .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Se x, y e z são os ângulos internos de um triângulo ABC e sen y + sen z sen x = cos y + cos z , prove que o triângulo ABC é retângulo.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

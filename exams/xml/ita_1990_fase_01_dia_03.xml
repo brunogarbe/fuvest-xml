@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1990" phase="objective" day="0" variation="V1" date="1990-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1990</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1990 01) (ITA-90) Dadas as funções f(x) = x x e 1 e 1 − + , X ∈ ℜ - {0} g(x) = x sen x, x ∈ IR, podemos afirmar que: a) ambas são pares. b) f é par e g é ímpar. c) f é ímpar e g é par. d) f não é par e nem ímpar e g é par. e) ambas são ímpares.</p>
+        <p>02) (ITA-90) Seja f: ℜ→ℜ a função definida por f(x)=      &gt; ≤ &lt; − − ≤ + 1 x se</p>
+        <p>4, 1 x 1</p>
+        <p>se , x 1 x se</p>
+        <p>2, x 2</p>
+        <p>Lembrando que se A⊂ ℜ então f--1(A) = {x ∈ ℜ:f(x) ∈ A} considere as afirmações: I- f não é injetora e f -1 ([3 , 5]) = {4} II- f não é sobrejetora e f -1 ([3 , 5]) = f -1 ([2 , 6]) III- f é injetora e f -1 ([0 , 4]) = [-2 , +∞[</p>
+        <p>Então podemos garantir que: a) Apenas as afirmações II e III são falsas; b) As afirmações I e III são verdadeiras; c) Apenas a afirmação II é verdadeira; d) Apenas a afirmação III é verdadeira; e) Todas as afirmações são falsas.</p>
+        <p>03) (ITA-90) Seja a função f: ℜ - {2} → ℜ - {3} definida por f(x) = 1 2 - x 3 - 2x + . Sobre sua inversa podemos garantir que: a) não está definida pois f é não injetora. b) não está definida pois f não é sobrejetora. c) está definida por f -1 (y) = 3.</p>
+        <p>y , 3 - y 2 - y ≠</p>
+        <p>d) está definida por f -1 (y) = 3.</p>
+        <p>y , 1 3 - y 5 + y ≠ −</p>
+        <p>e) está definida por f -1 (y) = 3.</p>
+        <p>y , 3 - y 5 - 2y ≠</p>
+        <p>04)(ITA-90) Considere as equações z3 =i e z2+(2+i) z+2 i=0, onde z é complexo. Seja S1 o conjunto das raízes da primeira equação e S2 o da segunda. Então a) S1 ∩ S2 é vazio; b) S1 ∩ S2 ⊂ R; c) S1 possui apenas dois elementos distintos; d) S1 ∩S2 é unitário; e) S1 ∩ S2 possui dois elementos.</p>
+        <p>05) (ITA-90) A igualdade 1 + z + 1 = z , onde z ∈ C, é satisfeita: a) Para todo z ∈ C tal que Rez = 0 e Imz&lt;0; b) Para todo z ∈ C tal que Rez ≥ 0 e Imz = 0; c) Para todo z ∈ C tal que 1 = z ; d) Para todo z ∈ C tal que Imz = 0; e) Para todo z ∈ C tal que 1 &lt; z</p>
+        <p>.</p>
+        <p>Nota : C denota o conjunto dos números complexos, Rez a parte real de z e Imz a parte imaginária de z.</p>
+        <p>06) (ITA-90) Seja p(x) = 16x5 - 78x4 + ... +αx - 5 um polinômio de coeficientes reais tal que a equação p(x) = 0 admite mais do que uma raiz real e ainda, a + bi é uma raiz complexa desta equação com ab ≠ 0. Sabendo-se que a 1 é a razão da progressão geométrica formada pelas raízes reais de p(x) = 0 e que a soma destas raízes reais vale 8 7 enquanto que o produto é 6 1 , o valor de α é: a) 32 b) 56 c) 71 d) 11 e) 0</p>
+        <p>www.rumoaoita.com</p>
+        <p>07) (ITA-90) O conjunto das soluções reais da equação |ln (sen2x)| = ln (sen2x) é dado por: a) } Z k , k 2 x : x { ∈ π + π = ℜ ∈ b) } Z k , 2 k x : x { ∈ π + π = ℜ ∈</p>
+        <p>c) } Z k , k 2 x : x { ∈ π = ℜ ∈ d) }1 x 1 : x { ≤ ≤ − ℜ ∈</p>
+        <p>e) } 0 x : x { ≥ ℜ ∈</p>
+        <p>08) (ITA-90) Sabendo-se que 3x - 1 é fator de 12x3 - 19x2 + 8x - 1 então as soluções reais da equação 12(33x) - 19(32x) + 8(3x) - 1 = 0 somam: a) - log312 b) 1 c)- 3 1 log312 d) - 1 e) log37</p>
+        <p>09) (ITA-90) Numa progressão geométrica de três termos a razão é e-2a , a soma dos termos é 7 enquanto que a diferença do último termo com o primeiro é 3. Nestas condições o valor de a é: a) ln 2 b) - ln 2 5 c) ln 3 d) - ln 2 e) não existe número real a nestas condições</p>
+        <p>10) (ITA-90) Sejam as funções f e g dadas por: f: ℜ → ℜ, f(x) =    ≥ &lt; 1 | x | se 0 1 | x | se 1</p>
+        <p>g: ℜ - {1}→ ℜ , g(x) = 1 x 3 x 2 − −</p>
+        <p>Sobre a composta (fog)(x) = f(g(x)) podemos garantir que: a) se x ≥ 2 3 , f(g(x)) = 0 b) se 1 &lt; x &lt; 2 3 , f(g(x)) = 1 c) se 3 4 &lt; x &lt; 2 , f(g(x)) = 1 d) se 1 &lt; x ≤ 3 4 , f(g(x)) = 1 e) n.d.a 11) (ITA-90) Sejam os números reais α e x onde 0 &lt; α &lt; 2 π e x ≠ 0. Se no desenvolvimento de ((cos α)x + (sen α) x 1 )8 o termo independente de x vale 8 35 , então o valor de α é: a) 6 π b) 3 π c) 12 π d) 4 π e) n.d.a.</p>
+        <p>12) (ITA-90) Sejam a e b constantes reais positivas. Considere x = a2 tg t + 1 e y2 = b2 sec2t - b2 onde 0 2 t π &lt; ≤ . Então uma relação entre x e y é dada por: a) a x , )1 x ( a b y 2 ≥ − = b) 1 x , )1 x ( a b y 2 4 2 ≥ − =</p>
+        <p>c) ℜ ∈ ∀ − = x ), 1 x ( a b y 2 d) 1 x ), 1 x ( a b y 2 ≥ − − =</p>
+        <p>e) 1 x ), 1 x ( b a y 2 2 ≤ − =</p>
+        <p>13) (ITA-90) Sabendo-se que θ é um ângulo tal que 2 sen(θ - 60o) = cos (θ + 60o), então tg θ é um número da forma a + b 3 onde a) a e b são reais negativos; b) a e b são inteiros; c) a + b = 1;</p>
+        <p>d) a e b são pares; e) a2 + b2 = 1. 14) (ITA-90) Considere a matriz A =       2senx</p>
+        <p>10 log 2</p>
+        <p>x sen 3 onde x é real. Então podemos afirmar que: a) A é inversível apenas para x &gt; 0; b) A é inversível apenas para x = 0; c) A é inversível para qualquer x; d) A é inversível apenas para x da forma (2k + 1)π , k inteiro; e) A é inversível apenas para x da forma 2kπ, k inteiro.</p>
+        <p>15) (ITA-90) Sejam A, B e C matrizes quadradas n x n tais que A e B são inversíveis e ABCA = At , onde At é a transposta da matriz A. Então podemos afirmar que: a) C é inversível e det C = det(AB)-1; b) C não é inversível pois det C = 0; c) C é inversível e det C = det B; d) C é inversível e det C = (det A)2. det B; e) C é inversível e det C = B det A det .</p>
+        <p>www.rumoaoita.com Nota: det X denota o determinante da matriz quadrada X.</p>
+        <p>16) (ITA-90) Dizemos que dois sistemas de equações lineares são equivalentes se, e somente se, toda solução de um qualquer dos sistemas for também uma solução do outro. Considere as seguintes afirmações: I- Dois sistemas de equações lineares 3x3, ambos homogêneos, são equivalentes. II- Dois sistemas de equações lineares, 3x3, ambos indeterminados, não são equivalentes. III- Os dois sistemas de equações lineares dados a seguir são equivalentes:    = + + = + = + 10 z y x 8 z y 5 y x</p>
+        <p>   = + − = + − = − + 14 2z y 4x 4 z y x 3 z 2y x</p>
+        <p>De acordo com a definição dada podemos dizer que: a) As três afirmações são verdadeiras; b) Apenas a afirmação (I) é verdadeira; c) Apenas as afirmações (I) e (II) são verdadeiras; d) Apenas as afirmações (I) e (III) são verdadeiras; e) As três afirmações são falsas.</p>
+        <p>17) (ITA-90) Considere o sistema linear homogêneo nas incógnitas x1 , x2 , ..., xn dado por       = − + + + + + = − + + + + + = − + + + + + 0 1)x n (a ... 1)x (a x a .......... .......... .......... .......... .......... .......... 0 1)x n (a ... 1)x (a x a 0 1)x n (a ... 1)x (a x a n n 2 n 1 n n 2 2 2 1 2 n 1 2 1 1 1</p>
+        <p>onde a1 , a2 , ..., an são números reais dados. Sobre a solução deste sistema podemos afirmar que: a) Se ai &gt; 0 , i = 1, 2, ..., n o sistema possui uma única solução; b) Se ai &lt; 0 , i = 1, 2, ..., n o sistema possui uma única solução; c) Se ai &gt; 0 , i = 1, 2, ..., n o sistema é impossível; d) Se ai &lt; 0 , i = 1, 2, ..., n o sistema é impossível; e) O sistema possui infinitas soluções quaisquer que sejam os valores dos números a1 , ..., an dados. 18) (ITA-90) Há muito tempo atrás, quando poucas pessoas eram versadas na arte de contar, houve uma grande tempestade no oceano. Um navio, colhido pelo tufão, foi salvo graças ao trabalho excepcional de dois marinheiros. Terminada a borrasca, o capitão, decidido a recompensar seus dois comandados pelo serviço bem executado, anunciou que dividiria entre eles no dia seguinte o conteúdo de um pequeno baú com moedas de ouro, tendo encarregado o seu imediato desta tarefa. Acontece que os dois marinheiros eram muito amigos e, querendo evitar o constrangimento de uma partilha pública, um deles teve a idéia na madrugada de pegar a sua parte do prêmio. Indo ao baú, este marinheiro separou as moedas em dois grupos idênticos e, para sua surpresa, sobrou uma moeda. Não sabendo como proceder, jogou-a ao mar para agradecer aos deuses a sua sobrevivência e pegou a parte que lhe cabia. Porém, mais tarde o segundo marinheiro teve exatamente a mesma idéia. Indo ao baú, ele separou as moedas em dois montes iguais e, para surpresa sua, sobrou uma moeda. Jogou-a ao mar como agradecimento pela sua sorte e tomou a parte que lhe cabia da recompensa. Pela manhã os dois marinheiros se sentiram constrangidos em comunicar o procedimento noturno. Assim, o imediato separou as moedas em dois grupos e verificou que sobrava uma. Deu a cada marinheiro a sua parte do prêmio e tomou para si a moeda restante como paga pelos seus cálculos. Sabendo-se que a razão entre as moedas ganhas pelo primeiro e pelo segundo marinheiros foi de 29/17 então o número de moedas que havia originalmente no baú era: a) 99 b) 95 c) 135 d) 87 e) n.d.a.</p>
+        <p>19- (ITA-90) Na figura abaixo 0 é o centro de uma circunferência. Sabendo-se que a reta que passa por E e F é tangente a esta circunferência e que a medida dos ângulos 1, 2 e 3 são dadas, respectivamente, por 49º, 18º, 34º, determinar a medida dos ângulos 4, 5, 6 e 7. Nas alternativas abaixo considere os valores dados iguais às medidas de 4, 5, 6 e 7, respectivamente. a) 97º, 78º , 61º, 26º b) 102º, 79º, 58º, 23º c) 92º, 79º, 61º, 30º d) 97º, 79º, 61º, 27º e) 97º, 80º, 62º, 29º</p>
+        <p>E 1 2 4 0 + 3 5 C 6 D 7 F A</p>
+        <p>www.rumoaoita.com 20) (ITA-90) Sejam as retas (r) e (s) dadas respectivamente pelas equações 3x - 4y + 12 = 0 e 3x - 4y + 4 = 0. Considere (l ) o lugar geométrico dos centros das circunferências que tangenciam simultaneamente (r) e (s). Uma equação que descreve ( l ) é dada por: a) 3x - 4y + 8 = 0 b) 3x + 4y + 8 = 0 c) x - y + 1 = 0 d) x + y = 0 e) 3x - 4y - 8 = 0</p>
+        <p>21) (ITA-90) Seja C o centro da circunferência x2 + y2 - 6 2 y = 0. Considere A e B os pontos de interseção desta circunferência com a reta y = 2 x . Nestas condições o perímetro do triângulo de vértices A, B e C é: a) 3 2 6 +</p>
+        <p>b) 2 3 4 + c) 3 2 +</p>
+        <p>d) 2 3 5 +</p>
+        <p>e) n.d.a.</p>
+        <p>22) (ITA-90) Considere a reta (r) mediatriz do segmento cujos extremos são os pontos em que a reta 2x - 3y + 7 = 0 intercepta os eixos coordenados. Então a distância do ponto ( 6 1 , 4 1 ) à reta (r) é: a) 2 3 5 b) 13 4 c) 3 13 d) 7 3 2 e) 3 2</p>
+        <p>23) (ITA-90) Considere um prisma triangular regular cuja aresta da base mede x cm. Sua altura é igual ao menor lado de um triângulo ABC inscritível num círculo de raio x cm. Sabendo-se que o triângulo ABC é semelhante ao triângulo de lados 3 cm, 4 cm e 5 cm, o volume do prisma em cm3 é: a) 3 x 3 2 b) 3 x 5 2 2 c) 3 x 10 3 3 d) 3 x 10 3 e) n.d.a.</p>
+        <p>24) (ITA-90) Seja V o vértice de uma pirâmide com base triangular ABC. O segmento AV, de comprimento unitário, é perpendicular à base. Os ângulos das faces laterais, no vértice V, são todos de 45 graus. Deste modo, o volume da pirâmide será igual a: a) 2 2 2 6 1 −</p>
+        <p>b) 2 2 6 1 − c) 2 2 3 1 −</p>
+        <p>d) 1 2 2 6 1 − e) n.d.a.</p>
+        <p>25) (ITA-90) Considere a região do plano cartesiano xOy definida pelas desigualdades x-y &lt; 1, x+y &gt; 1 e (x-1)2+y2 &lt; 2. O volume do sólido gerado pela rotação desta região em torno do eixo x é igual a: a) π 3 4 b) π 3 8 c) π − ) 2 2 ( 3 4 d) π −)1 2 ( 3 8 e) n.d.a.</p>
+        <p>www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

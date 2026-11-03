@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1998" phase="discursive" day="1" variation="V1" date="1998-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Expresse α 3 sen em função de α sen .</p>
+        </part>
+        <part>
+          <p>Resolva a inequação sen3 2 α α &gt; sen para 0 &lt; &lt; α π .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>P x ( ) é um polinômio de grau 2 ≥ e tal que P( )1 2 = e P( ) 2 1 = . Sejam D x x x ( ) ( )( ) = − − 2 1 e Q x ( ) o quociente da divisão de P x ( ) por D x ( ) .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o resto da divisão de P x ( ) por D x ( ) .</p>
+        </part>
+        <part>
+          <p>Sabendo que o termo independente de P x ( ) é igual a 8, determine o termo independente de Q x ( ) . FUVEST 1998 – SEGUNDA FASE – PROVA DE MATEMÁTICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>500 moedas são distribuídas entre três pessoas A, B e C, sentadas em círculo, da seguinte maneira: A recebe uma moeda, B duas, C três, A quatro, B cinco, C seis, A sete, e assim por diante, até não haver mais moedas suficientes para continuar o processo. A pessoa seguinte, então, receberá as moedas restantes.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantas foram as moedas restantes e quem as recebeu? (Deixe explícito como você obteve a resposta.)</p>
+        </part>
+        <part>
+          <p>Quantas moedas recebeu cada uma das três pessoas?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere um ângulo reto de vértice V e a bissetriz desse ângulo. Uma circunferência de raio 1 tem o seu centro C nessa bissetriz e VC x = .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Para que valores de x a circunferência intercepta os lados do ângulo em exatamente 4 pontos?</p>
+        </part>
+        <part>
+          <p>Para que valores de x a circunferência intercepta os lados do ângulo em exatamente 2 pontos? FUVEST 1998 – SEGUNDA FASE – PROVA DE MATEMÁTICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No quadrilátero ABCD , temos AD BC = = 2 e o prolongamento desses lados forma um ângulo de 60o.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Indicando por ∃, ∃, ∃ A B C e ∃D , respectivamente, as medidas dos ângulos internos do quadrilátero de vértices A, B, C e D, calcule ∃ ∃ A B + e ∃ ∃ C D + .</p>
+        </part>
+        <part>
+          <p>Sejam J o ponto médio de DC __ , M o ponto médio de AC __ e N o ponto médio de BD __ . Calcule JM e JN.</p>
+        </part>
+        <part>
+          <p>Calcule a medida do ângulo MJN ∃ .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Numa classe com vinte alunos as notas do exame final podiam variar de 0 a 100 e a nota mínima para aprovação era 70. Realizado o exame, verificou-se que oito alunos foram reprovados. A média aritmética das notas desses oito alunos foi 65, enquanto que a média dos aprovados foi 77. Após a divulgação dos resultados, o professor verificou que uma questão havia sido mal formulada e decidiu atribuir 5 pontos a mais para todos os alunos. Com essa decisão, a média dos aprovados passou a ser 80 e a dos reprovados 68,8.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule a média aritmética das notas da classe toda antes da atribuição dos cinco pontos extras.</p>
+        </part>
+        <part>
+          <p>Com a atribuição dos cinco pontos extras, quantos alunos, inicialmente reprovados, atingiram nota para aprovação? FUVEST 1998 – SEGUNDA FASE – PROVA DE MATEMÁTICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="07">
+      <statement>
+        <p>Um quadrado está inscrito numa circunferência de centro ) 2 ,1( . Um dos vértices do quadrado é o ponto )1 ,3 ( − − . Determine os outros três vértices do quadrado.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Num torneio de tenis, no qual todas as partidas são eliminatórias, estão inscritos 8 jogadores. Para definir a primeira rodada do torneio realiza-se um sorteio casual que divide os 8 jogadores em 4 grupos de 2 jogadores cada um.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>De quantas maneiras diferentes pode ser constituída a tabela de jogos da primeira rodada?</p>
+        </part>
+        <part>
+          <p>No torneio estão inscritos quatro amigos A, B, C e D. Nenhum deles gostaria de enfrentar um dos outros logo na primeira rodada do torneio. Qual é a probabilidade de que esse desejo seja satisfeito?</p>
+        </part>
+        <part>
+          <p>Sabendo que pelo menos um dos jogos da primeira rodada envolve 2 dos 4 amigos, qual é a probabilidade condicional de que A e B se enfrentem na primeira rodada? FUVEST 1998 – SEGUNDA FASE – PROVA DE MATEMÁTICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No cubo de aresta 1, considere as arestas AC __ e __ BD e o ponto médio, M, de AC __ .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o cosseno do ângulo BAD ∃ .</p>
+        </part>
+        <part>
+          <p>Determine o cosseno do ângulo BMD ∃ .</p>
+        </part>
+        <part>
+          <p>Qual dos ângulos, BAD ∃ ou BMD ∃ , é o maior? Justifique .</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dadas as retas paralelas r e s e um ponto A em r, construa um triângulo equilátero com um vértice em A, outro vértice em r e o terceiro vértice em s.</p>
+        </part>
+        <part>
+          <p>Descreva e justifique as construções feitas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

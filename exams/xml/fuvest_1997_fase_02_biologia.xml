@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1997" phase="discursive" day="1" variation="V1" date="1997-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Escreva a equação do processo bioquímico da respiração aeróbica. Qual é a função desse processo e onde ele ocorre no corpo humano?</p>
+        </part>
+        <part>
+          <p>Complete os esquemas dos percursos do gás oxigênio e do gás carbônico, participantes da respiração, preenchendo os espaços com as letras correspondentes às estruturas abaixo. A = alvéolos pulmonares F = células do corpo B = artéria pulmonar G = veia pulmonar C = artérias do corpo H = veias do corpo D = átrio direito I = ventrículo direito E = átrio esquerdo J = ventrículo esquerdo</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Explique, de acordo com a teoria sintética da evolução, as adaptações mencionadas nos textos abaixo.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Durante o longo inverno da região ártica, a plumagem de certas aves e a pelagem de certos mamíferos tornam-se brancas, voltando a adquirir coloração escura no início da primavera.</p>
+        </part>
+        <part>
+          <p>Algumas espécies de anfíbio e de inseto apresentam cores e desenhos marcantes que, ao invés de escondê-las, as destacam do ambiente e chamam a atenção de possíveis predadores. PROVA DE BIOLOGIA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um pesquisador forneceu a uma cultura de algas gás carbônico marcado com o isótopo 18O do oxigênio. A uma segunda cultura de algas foi fornecida água com esse mesmo isótopo. As culturas foram mantidas iluminadas por um certo tempo, após o que as substâncias químicas presentes no meio e nas células das algas foram analisadas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Além de gás carbônico, que outras substâncias apresentarão o isótopo 18O na primeira cultura? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Além da água, que outras substâncias apresentarão o isótopo 18O na segunda cultura? Justifique sua resposta.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma conquista recente no campo da biotecnologia é o uso de bactérias para a produção de proteína animal de interesse comercial. Por exemplo, hoje já estão sendo comercializadas insulina e somatotrofina (ou somatropina) humanas produzidas por bactérias.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Em que locais do corpo humano são produzidas essas proteínas e qual é a principal função de cada uma delas no organismo?</p>
+        </part>
+        <part>
+          <p>Explique sucintamente o processo por meio do qual se modificam bactérias para que elas passem a produzir proteínas humanas. PROVA DE BIOLOGIA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Relacione estrutural e funcionalmente os seguintes componentes de uma planta: óvulo, ovário, semente e fruto.</p>
+        </part>
+        <part>
+          <p>Que grupos de plantas produzem sementes? Qual foi a importância das sementes na adaptação das plantas ao ambiente terrestre?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>a)É comum ouvirmos a frase: “Já tomei este antibiótico tantas vezes que agora já não faz mais efeito.” Esta afirmação pode ser verdadeira? Por quê? b) Costuma-se usar dois antibióticos diferentes no tratamento de certas doenças comuns, como a tuberculose, cujo agente causador já é bem conhecido. Qual seria a forma biologicamente mais eficiente de administrá-los: simultaneamente ou separadamente com um intervalo de 1 mês entre eles? Justifique sua resposta. PROVA DE BIOLOGIA – FUVEST 1997 – SEGUNDA FASE</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>Em que células do corpo humano podemos encontrar as estruturas abaixo e quais são suas funções? Estrutura Célula onde pode ser encontrada Função a microvilosidades b cílios c flagelos d pseudópodos</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um tratamento utilizado para certos tipos de doenças do sangue é a destruição completa da medula óssea do paciente e implante de células medulares sadias provenientes de um doador. Eugênio, cujo grupo sangüíneo é A, recebeu um transplante de medula óssea de seu irmão Valentim, cujo grupo sangüíneo é B, e a operação foi bem sucedida.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual será o grupo sangüíneo de Eugênio após o transplante? Por quê?</p>
+        </part>
+        <part>
+          <p>Sabendo-se que a mãe e a esposa de Eugênio têm sangue do tipo O, qual será a probabilidade de um futuro filho do casal ter sangue do tipo A? E do tipo B? PROVA DE BIOLOGIA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O comportamento da hemoglobina humana em relação ao gás oxigênio é muito diferente no adulto e no feto.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual é essa diferença?</p>
+        </part>
+        <part>
+          <p>Por que essa diferença é necessária em mamíferos placentários?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma mulher clinicamente normal casou-se duas vezes, em ambos os casos com indivíduos normais e que não eram seus consangüíneos. Conforme mostrado na genealogia abaixo, ela teve quatro filhos, dois de cada casamento, todos afetados por uma doença genética muito rara.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Que padrão de herança explica melhor a genealogia? Justifique sua resposta.</p>
+        </part>
+        <part>
+          <p>Se os dois maridos da mulher fossem irmãos isto poderia alterar sua resposta anterior? Por quê? PROVA DE BIOLOGIA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

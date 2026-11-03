@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2006" phase="objective" day="0" variation="V1" date="2006-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>NOTAÇÕES</p>
+        <p>: conjunto dos números complexos : conjunto dos números racionais : conjunto dos números reais : conjunto dos números inteiros {0, 1, 2, 3,...} * = {1, 2, 3,...} : conjunto vazio \ ={x : x } det : A B A B A = ∅ ∈ ∉ ^ _ \ ] ` ` determinante da matriz :inversa da matriz 1 A A A −</p>
+        <p>[ ] 2 : unidade imaginária; = 1 = , ,</p>
+        <p>: conjugado do número complexo : módulo do número complexo Re : parte real de Im : parte imaginária de , { : } ( , ) { : } [ , i i z x iy x y z z z z z z z z a b x a x b a b x a x b a b − + ∈ ∈ ∈ ∈ ∈ = ∈ ≤ ≤ = ∈ &lt; &lt; \ ^ ^ ^ ^ \ \ ) { : } ( , ] { : } x a x b a b x a x b = ∈ ≤ &lt; = ∈ &lt; ≤ \ \</p>
+        <p>: a b    combinação de a elementos, b a b, onde a e b são inteiros maiores ou iguais a zero : segmento de reta unindo os pontos e ( ): conjunto de todos os subconjuntos de AB A B X X P</p>
+        <p>( ) : n X número de elementos do conjunto X (X finito)</p>
+        <p>Obs.: São cartesianos ortogonais os sistemas de coordenadas considerados</p>
+        <p>1. Seja E um ponto externo a uma circunferência. Os segmentos EA e ED interceptam essa circunferência nos pontos B e A, e, C e D, respectivamente. A corda AF da circunferência intercepta o segmento ED no ponto G. Se EB = 5, BA = 7, EC = 4, GD = 3 e AG = 6, então GF vale</p>
+        <p>A. ( ) 1 B. ( ) 2 C. ( ) 3 D. ( ) 4 E. ( ) 5 ITA2006</p>
+        <p>2. Seja U um conjunto não vazio com n elementos, n ≥ 1. Seja S um subconjunto de P(U) com a seguinte propriedade:</p>
+        <p>Se A, B ∈ S, então A ⊂ B ou B ⊂ A.</p>
+        <p>Então, o número máximo de elementos que S pode ter é:</p>
+        <p>A. ( ) 1 2n− B. ( ) n/2, se n for par, e (n + 1)/2 se n for ímpar C. ( ) n + 1 D. ( ) 2 1 n − E. ( ) 1 2 1 n−+</p>
+        <p>3. Sejam A e B subconjuntos finitos de um mesmo conjunto X, tais que n(B\A), n(A\B) e n(A ∩ B) formam, nesta ordem, uma progressão aritmética de razão r &gt; 0. Sabendo que n(B\A) = 4 e n(A ∪ B) + r = 64, então, n(A\B) é igual a</p>
+        <p>A. ( ) 12 B. ( ) 17 C. ( ) 20 D. ( ) 22 E. ( ) 24</p>
+        <p>5. Considere a equação (ax – a–x)/(ax + a–x) = m, na variável real x, com 0 &lt; a ≠ 1. O conjunto de todos os valores de m para os quais esta equação admite solução real é</p>
+        <p>A. ( ) ( 1, 0) (0,1) − ∪</p>
+        <p>B. ( ) ( , 1) (1, ) −∞− ∪ +∞ C. ( ) ( 1,1) −</p>
+        <p>D. ( ) (0, ) ∞ E. ( ) ( , ) −∞+∞ 6. Considere uma prova com 10 questões de múltipla escolha, cada questão com 5 alternativas. Sabendo que cada questão admite uma única alternativa correta, então o número de formas possíveis para que um candidato acerte somente 7 das 10 questões é</p>
+        <p>A. ( ) 44 ⋅30 B. ( ) 43 ⋅60 C. ( ) 53 ⋅60 D. ( ) 3 7 4 3         ⋅</p>
+        <p>E. ( ) 10 7          </p>
+        <p>4. Seja f : → \ \ definida por ( ) 77 sen 5( + /6) f x x ⋅     = π e seja B o conjunto dado por { } : ( ) 0 . B x f x = ∈ = \ Se m é o maior elemento de ( ,0) B∩−∞ e n é o menor elemento de (0, ), B∩ +∞ então m + n é igual a</p>
+        <p>A. ( ) 2π/15 B. ( ) π/15 C. ( ) –π/30 D. ( ) –π/15 E. ( ) 2 /15 −π</p>
+        <p>7. Considere as seguintes afirmações sobre a expressão 101 8 0log (4 2) : k k S = =∑</p>
+        <p>I. S é a soma dos termos de uma progressão geométrica finita</p>
+        <p>II. S é a soma dos termos de uma progressão aritmética finita de razão 2/3</p>
+        <p>III. S = 3451</p>
+        <p>IV. S≤3434 + log8 2</p>
+        <p>Então, pode-se afirmar que é (são) verdadeira(s) apenas A. ( ) I e III B. ( ) II e III C. ( ) II e IV D. ( ) II E. ( ) III 8. Se para todo z ∈^, ( ) f z z = e ( ) (1) 1, f z f z − = − então, para todo , z ∈^ (1) ( ) (1) ( ) f f z f f z + é igual a</p>
+        <p>A. ( ) 1 B. ( ) 2z C. ( ) 2 Rez D. ( ) 2 Imz E. ( ) 2 2 z 9. O conjunto solução de (tg2x – 1)⋅(1 – cotg2x) = 4, x ≠ /2, k k , π ∈Z é</p>
+        <p>A. ( ) { } /3 /4, k k π + π ∈Z B. ( ) { } /4 /4, k k π + π ∈Z C. ( ) { } /6 /4, k k π + π ∈Z D. ( ) { } /8 /4, k k π + π ∈Z E. ( ) { } /12 /4, k k π + π ∈Z</p>
+        <p>10. Se [0,2 ) α∈ π é o argumento de um número complexo 0 z ≠ e n é um número natural tal que ( / )n z z = isen( ), nα então, é verdade que</p>
+        <p>A. ( ) 2nα é múltiplo de 2π B. ( ) 2nα – π é múltiplo de 2π C. ( ) nα – π/4 é múltiplo de /2 π</p>
+        <p>D. ( ) 2nα – π é múltiplo não nulo de 2 E. ( ) nα – 2π é múltiplo de π 11. A condição para que as constantes reais a e b tornem incompatível o sistema linear 3 2 2 5 1 2 2</p>
+        <p>x y z x y z x y az b + + =   + + =   + + =  é</p>
+        <p>A. ( ) 2 a b − ≠</p>
+        <p>B. ( ) 10 a b + =</p>
+        <p>C. ( ) 4 6 0 a b − =</p>
+        <p>D. ( ) / = 3/2 a b</p>
+        <p>E. ( ) 24 a b ⋅ =</p>
+        <p>12. Se det 1, a b c p q r x y z    = −       então o valor do 2 2 2 det 2 2 2 3 3 3 a b c p x q y r z x y z − − −     + + +       é igual a</p>
+        <p>A. ( ) 0 B. ( ) 4 C. ( ) 8 D. ( ) 12 E. ( ) 16 13. Seja p um polinômio com coeficientes reais, de grau 7, que admite 1 – i como raiz de multiplicidade 2. Sabe-se que a soma e o produto de todas as raízes de p são, respectivamente, 10 e – 40. Sendo afirmado que três raízes de p são reais e distintas e formam uma progressão aritmética, então, tais raízes são</p>
+        <p>A. ( ) 3/ 2 193 / 6, 3, 3/ 2 193 / 6 − +</p>
+        <p>B. ( ) 2 4 13, 2, 2 4 13 − +</p>
+        <p>C. ( ) –4, 2, 8 D. ( ) –2, 3, 8 E. ( ) –1, 2, 5</p>
+        <p>14. Sobre o polinômio 5 3 2 ( ) 5 4 3 2 p x x x x x = − + − − podemos afirmar que</p>
+        <p>A. ( ) x = 2 não é raiz de p B. ( ) p só admite raízes reais, sendo uma delas inteira, duas racionais e duas irracionais C. ( ) p admite uma única raiz real, sendo ela uma raiz inteira D. ( ) p só admite raízes reais, sendo duas delas inteiras E. ( ) p admite somente 3 raízes reais, sendo uma delas inteira e duas irracionais</p>
+        <p>16. Considere o polinômio ( ) ( ) 3 1 , p x x a x a = − + + onde a ∈ Z . O conjunto de todos os valores de a, para os quais o polinômio p(x) só admite raízes inteiras, é</p>
+        <p>A. ( ) { } 2 , n n∈N B. ( ) { } 2 4 , n n∈N C. ( ) { } 2 6 4 , n n n − ∈N D. ( ) ( ) { } 1 , n n n + ∈N E. ( ) N 15. Seja o sistema linear nas incógnitas x e y, com a e b reais, dado por</p>
+        <p>( ) ( ) ( ) ( ) 1 1 a b x a b y a b x a b y − − + =  + + − = </p>
+        <p>Considere as seguintes afirmações:</p>
+        <p>I. O sistema é possível e indeterminado se a = b = 0 II. O sistema é possível e determinado se a e b não são simultaneamente nulos III. ( ) 1 2 2 2 2 2 2 , 0 x y a b se a b − + = + + ≠</p>
+        <p>Então pode-se afirmar que é(são) verdadeira(s) apenas</p>
+        <p>A. ( ) I B. ( ) II C. ( ) III D. ( ) I e II E. ( ) II e III</p>
+        <p>17. Numa circunferência C1 de raio r1 = 3 cm está inscrito um hexágono regular H1; em H1 está inscrita uma circunferência C2; em C2 está inscrito um hexágono regular H2 e, assim, sucessivamente. Se An (em cm2) é a área do hexágono Hn, então 1 n n A ∞ = ∑ (em cm2) é igual a</p>
+        <p>A. ( ) 54 2 B. ( ) 54 3 C. ( ) ( ) 36 1 3 +</p>
+        <p>D. ( ) ( ) 27/ 2 3 −</p>
+        <p>E. ( ) ( ) 30/ 2 3 +</p>
+        <p>18. Sejam a reta s: 12x – 5y + 7 = 0 e a circunferência C: x2 + y2 + 4x + 2y = 11. A reta p, que é perpendicular a s e é secante a C, corta o eixo Oy num ponto cuja ordenada pertence ao seguinte intervalo</p>
+        <p>A. ( ) 91 81 , 12 12       − −</p>
+        <p>B. ( ) 81 74 , 12 12       − −</p>
+        <p>C. ( ) 74 30 , 12 12       − −</p>
+        <p>D. ( ) 30 74 , 12 12      </p>
+        <p>E. ( ) 75 91 , 12 12      </p>
+        <p>19. Os focos de uma elipse são F1 (0, –6) e F2 (0, 6). Os pontos A (0, 9) e B (x, 3), x &gt; 0, estão na elipse. A área do triângulo com vértices em B, F1 e F2 é igual a</p>
+        <p>A. ( ) 22 10 B. ( ) 18 10 C. ( ) 15 10 D. ( ) 12 10 E. ( ) 6 10</p>
+        <p>20. Uma pirâmide regular tem por base um hexágono cuja diagonal menor mede 3 3 cm. As faces laterais desta pirâmide formam diedros de 60º com o plano da base. A área total da pirâmide, em cm2, é</p>
+        <p>A. ( ) 81 3 / 2 B. ( ) 81 2 / 2 C. ( ) 81/ 2 D. ( ) 27 3 E. ( ) 27 2</p>
+        <p>21. Considere A um conjunto não vazio com um número finito de elementos. Dizemos que 1 { ,..., } ( ) m A A A = ⊂ F P é uma partição de A se as seguintes condições são satisfeitas: I. , 1,..., iA i m ≠∅ =</p>
+        <p>II. , se para , 1,..., i j A A i j, i j m ∩ = ∅ ≠ =</p>
+        <p>III. 1 2 m A A A A = ∪ ∪ ∪ "</p>
+        <p>Dizemos ainda que F é uma partição de ordem k se ( ) , 1, , . i n A k i m = = …</p>
+        <p>Supondo que n(A) = 8, determine:</p>
+        <p>(a) As ordens possíveis para uma partição de A (b) O número de partições de A que têm ordem 2 AS QUESTÕES DE 21 A 30 DEVERÃO SER RESOLVIDAS NO CADERNO DE RESPOSTAS ANEXO. 22. Seja 2 , 0 1/2 :[0,1) definida por ( ) . 2 1, 1/2 1 x x f f x x x ≤ &lt; → =  − ≤ &lt;  \</p>
+        <p>Seja ( 1/ 2), 1/ 2 0 :( 1/ 2,1/ 2) dada por ( ) , 1 ( 1/ 2), 0 1/ 2 f x x g g x f x x + − &lt; &lt;  − → = − + ≤ &lt;  \ com f definida acima. Justificando a resposta, determine se g é par, ímpar ou nem par nem ímpar.</p>
+        <p>23. Determine o coeficiente de x4 no desenvolvimento de (1 + x + x2)9. 24. Determine para quais valores de ( / 2, / 2) x∈−π π vale a desigualdade 2 2 cos cos log (4sen 1) log (4 sec ) 2. x x x x − − − &gt;</p>
+        <p>25. Considere o polinômio 3 2 ( ) 1, p x x ax x = + + + com raízes reais. O coeficiente a é racional e a diferença entre duas de suas raízes também é racional. Nestas condições, analise se a seguinte afirmação é verdadeira:</p>
+        <p>“Se uma das raízes de p(x) é racional, então todas as suas raízes são racionais.” 26. As medidas, em metros, do raio da base, da altura e da geratriz de um cone circular reto formam, nesta ordem, uma progressão aritmética de razão 2 metros. Calcule a área total deste cone em m2.</p>
+        <p>27. Sejam as matrizes 1 0 1/2 1 1 3 1/2 1 2 5 2 3 1 2 2 3 e 1 1 2 1 1 1 1 1 5 1 3/2 0 5 1 1/2 5 A B − −         − − − −     = =     − −     − −    </p>
+        <p>Determine o elemento c da matriz –1.</p>
+        <p>28. Seja (a1, a2, a3, ..., an, ...) uma progressão geométrica infinita de razão positiva r, em que a1 = a é um número real não nulo. Sabendo que a soma de todos os termos de índices pares desta progressão geométrica é igual a 4 e que a soma de todos os termos de índices múltiplos de 3 é 16/13, determine o valor de a + r.</p>
+        <p>29. Sabendo que 2 2 9 16 144 224 352 0 y x y x − − + − = é a equação de uma hipérbole, calcule sua distância focal.</p>
+        <p>30. Considere um losango ABCD cujo perímetro mede 100 cm e cuja maior diagonal mede 40 cm. Calcule a área, em cm2, do círculo inscrito neste losango. 34 C=(A+B) da matriz</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

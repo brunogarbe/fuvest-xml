@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1998" phase="discursive" day="1" variation="V1" date="1998-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Estamos no ano de 2095 e a "interplanetariamente" famosa FIFA (Federação Interplanetária de Futebol Amador) está organizando o Campeonato Interplanetário de Futebol, a se realizar em MARTE no ano 2100. Ficou estabelecido que o comprimento do campo deve corresponder à distância do chute de máximo alcance conseguido por um bom jogador. Na TERRA esta distância vale LT = 100m. Suponha que o jogo seja realizado numa atmosfera semelhante à da TERRA e que, como na TERRA, possamos desprezar os efeitos do ar, e ainda, que a máxima velocidade que um bom jogador consegue imprimir à bola seja igual à na TERRA. Suponha que MM/MT = 0,1 e RM/RT =0,5, onde MM e RM são a massa e o raio de MARTE e MT e RT são a massa e raio da TERRA.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a razão gM/gT entre os valores da aceleração da gravidade em MARTE e na TERRA.</p>
+        </part>
+        <part>
+          <p>Determine o valor aproximado LM, em metros, do comprimento do campo em MARTE.</p>
+        </part>
+        <part>
+          <p>Determine o valor aproximado do tempo tM, em segundos, gasto pela bola, em um chute de máximo alcance, para atravessar o campo em MARTE (adote gT= 10 m/s2).</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As curvas A e B na figura representam a variação da temperatura (T) em função do tempo (t) de duas substâncias A e B, quando 50 g de cada uma é aquecida separadamente, a partir da temperatura inicial de 20ºC, na fase sólida, recebendo calor numa taxa constante de 20 cal/s. Considere agora um experimento em que 50 g de cada uma das substâncias são colocadas em contato térmico num recipiente termicamente isolado, com a substância A na temperatura inicial TA=280ºC e a substância B na temperatura inicial TB = 20ºC.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o valor do calor latente de fusão LB da substância B.</p>
+        </part>
+        <part>
+          <p>Determine a temperatura de equilíbrio do conjunto no final do experimento.</p>
+        </part>
+        <part>
+          <p>Se a temperatura final corresponder à mudança de fase de uma das substâncias, determine a quantidade da mesma em cada uma das fases. FUVEST 98 – SEGUNDA FASE – PROVA DE FÍSICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas cunhas A e B, de massas MA e MB respectivamente, se deslocam juntas sobre um plano horizontal sem atrito, com aceleração constante aρ , sob a ação de uma força horizontal F ρ aplicada à cunha A, como mostra a figura. A cunha A permanece parada em relação à cunha B, apesar de não haver atrito entre elas.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a intensidade da força F ρ aplicada à cunha A.</p>
+        </part>
+        <part>
+          <p>Determine a intensidade da força N ρ , que a cunha B aplica à cunha A.</p>
+        </part>
+        <part>
+          <p>Sendo θ o ângulo de inclinação da cunha B, determine a tangente de θ.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No circuito mostrado na Fig. 1, os três resistores têm valores R1=2Ω, R2=20Ω e R3=5Ω. A bateria B tem tensão constante de 12V. A corrente i1 é considerada positiva no sentido indicado. Entre os instantes t=0s e t=100s, o gerador G fornece uma tensão variável V=0,5t (V em volt e t em segundo).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o valor da corrente i1 para t=0s.</p>
+        </part>
+        <part>
+          <p>Determine o instante t0 em que a corrente i1 é nula.</p>
+        </part>
+        <part>
+          <p>Trace a curva que representa a corrente i1 em função do tempo t, no intervalo de 0 a 100s. Utilize os eixos da figura ao lado indicando claramente a escala da corrente, em ampère (A).</p>
+        </part>
+        <part>
+          <p>Determine o valor da potência P recebida ou fornecida pela bateria B no instante t=90s. FUVEST 98 – SEGUNDA FASE – PROVA DE FÍSICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura abaixo, em escala, estão representados uma lente L delgada, divergente, com seus focos F, e um espelho plano E, normal ao eixo da lente. Uma fina haste AB está colocada normal ao eixo da lente. Um observador O, próximo ao eixo e à esquerda da lente, mas bastante afastado desta, observa duas imagens da haste. A primeira, A1B1, é a imagem direta de AB formada pela lente. A segunda, A2B2, é a imagem, formada pela lente, do reflexo A'B' da haste AB no espelho E.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Construa e identifique as 2 imagens: A1B1 e A2B2</p>
+        </part>
+        <part>
+          <p>Considere agora o raio R, indicado na figura, partindo de A em direção à lente L. Complete a trajetória deste raio até uma região à esquerda da lente. Diferencie claramente com linha cheia este raio de outros raios auxiliares.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere uma mola ideal de comprimento L0 = 35cm presa no fundo de uma piscina vazia (Fig.1). Prende-se sobre a mola um recipiente cilíndrico de massa m = 750g, altura h = 12,5cm e secção transversal externa S = 300cm2, ficando a mola com comprimento L1 = 20cm (Fig.2). Quando, enchendo-se a piscina, o nível da água atinge a altura H, começa a entrar água no recipiente (Fig.3). Dados: ρágua =1,0g/cm3; g=10m/s2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual o valor da tensão T na mola, em N, quando começa a entrar água no recipiente?</p>
+        </part>
+        <part>
+          <p>Qual o valor da altura H em cm? FUVEST 98 – SEGUNDA FASE – PROVA DE FÍSICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quatro pequenas esferas de massa m, estão carregadas com cargas de mesmo valor absoluto q, sendo duas negativas e duas positivas, como mostra a figura. As esferas estão dispostas formando um quadrado de lado a e giram numa trajetória circular de centro O, no plano do quadrado, com velocidade de módulo constante v. Suponha que as únicas forças atuantes sobre as esferas são devidas à interação eletrostática. A constante de permissividade elétrica é ε0. Todas as grandezas (dadas e solicitadas) estão em unidades SI.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a expressão do módulo da força eletrostática resultante F ρ que atua em cada esfera e indique sua direção.</p>
+        </part>
+        <part>
+          <p>Determine a expressão do módulo da velocidade tangencial vρ das esferas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas fontes sonoras F1 e F2 estão inicialmente separadas de 2,5m. Dois observadores A e B estão distantes 10m da fonte F1, sendo que o observador A está no eixo x e o observador B no eixo y, conforme indica a figura. As duas fontes estão em fase e emitem som numa freqüência fixa f=170Hz. Num dado instante, a fonte F2 começa a se deslocar lentamente ao longo do eixo x, afastando-se da fonte F1. Com este deslocamento, os dois observadores detectam uma variação periódica na intensidade do som resultante das duas fontes, passando por máximos e mínimos consecutivos de intensidade. Sabe-se que a velocidade do som é 340m/s nas condições do experimento. Levando em conta a posição inicial das fontes, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a separação La entre as fontes para a qual o observador A detecta o primeiro mínimo de intensidade.</p>
+        </part>
+        <part>
+          <p>a separação Lb entre as fontes para a qual o observador B detecta o primeiro máximo de intensidade. FUVEST 98 – SEGUNDA FASE – PROVA DE FÍSICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No anel do Lab. Nac. de Luz Sincrotron em Campinas, SP, representado simplificadamente na figura, elétrons (e) se movem com velocidade v ≈ c ≈ 3 × 108 m/s formando um feixe de pequeno diâmetro, numa órbita circu-lar de raio R=32m. O valor da corrente elétrica, devido ao fluxo de eletrons através de uma seção transversal qualquer do feixe, vale 0,12A.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule o número total n de elétrons contidos na órbita.</p>
+        </part>
+        <part>
+          <p>Considere um feixe de pósitrons (p),movendo-se em sentido oposto no mesmo tubo em órbita a 1cm da dos elétrons, tendo velocidade, raio e corrente iguais as dos elétrons. Determine o valor aproximado da força de atração F ρ , de origem magnética, entre os dois feixes, em N. 1) Pósitrons são partículas de massa igual à dos elétrons com carga positiva igual em módulo à dos eletrons. 2) Como R &gt;&gt; d, no cálculo de F ρ , considere que o campo produzido por um feixe pode ser calculado como o de um fio retilíneo. 3) Carga de 1 elétron q = -1,6×10-19 coulomb. 4) Módulo do vetor indução magnética B, criado a uma distância r de um fio retilíneo percorrido por uma corrente i, é: B=2×10-7i /r sendo B em tesla (T), i em ampère (A) e r em metro (m)</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="10">
+      <statement>
+        <p>Um brinquedo é constituído por um cano (tubo) em forma de ¾ de arco de circunferência, de raio médio R, posicionado num plano vertical, como mostra a figura. O desafio é fazer com que a bola 1, ao ser abandonada de uma certa altura H acima da extremidade B, entre pelo cano em A, bata na bola 2 que se encontra parada em B, ficando nela grudada, e ambas atinjam juntas a extremidade A. As massas das bolas 1 e 2 são M1 e M2, respectivamente. Despreze os efeitos do ar e das forças de atrito. a) Determine a velocidade v com que as duas bolas grudadas devem sair da extremidade B do tubo para atingir a extremidade A. Determine o valor de H para que o desafio seja vencido.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

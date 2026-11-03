@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1998" phase="objective" day="0" variation="V1" date="1998-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1998</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1998 Principais notações [a , b] = {x ∈ ℜ: a ≤ x ≤ b} [a , b[ = {x ∈ ℜ: a ≤ x &lt; b} ]a , b] = {x ∈ ℜ: a &lt; x ≤ b} ]a , b[ = {x ∈ ℜ: a &lt; x &lt; b} (a , b) - par ordenado At - matriz transposta da matriz A</p>
+        <p>]-∞ , b] = {x ∈ ℜ: x ≤ b} ]-∞ , b[ = {x ∈ ℜ: x &lt; b} [a , +∞[ = {x ∈ ℜ: a ≤ x} ]a , +∞[ = {x ∈ ℜ: a &lt; x} I - matriz identidade de ordem 2 A-1 - matriz inversa da matriz A</p>
+        <p>1) (ITA-98) Seja f: ℜ →ℜ a função definida por:</p>
+        <p>f(x) = 2sen 2x - cos 2x Então: a) f é impar e periódica de período π. b) f é par e periódica de período π/2. c) f não é par nem ímpar e é periódica de período π. d) f não é par e é periódica de período π/4. e) f não é ímpar e não é periódica.</p>
+        <p>2) (ITA-98) O valor de: tg10x - 5tg8x sec2x + 10tg6x sec4x - 10tg4x sec6x + 5tg2x sec8x - sec10x , para todo x ∈ [0 , π/2[, é: a) 1 b) x sen 1 x sec 2 2 + − c) -sec x + tg x d) –1 e) zero</p>
+        <p>3) (ITA-98) Sejam A e B matrizes reais quadradas de ordem 2 que satisfazem a seguinte propriedade: existe uma matriz M inversível tal que:</p>
+        <p>A = M-1BM. Então: a) det (-At) = det B b) det A = -det B c) det (2A) = 2 det B d) Se det B ≠ 0 então det (-AB) &lt; 0 e) det (A - I) = -det (I - B)</p>
+        <p>4) (ITA-98) Considere, no plano complexo, um polígono regular cujos vértices são as soluções da equação z6 = 1. A área deste polígono, em unidades de área, é igual a: a) 3 b) 5 c) π d) 2 3 3</p>
+        <p>e) 2π</p>
+        <p>5) (ITA-98) Sejam x e y números reais tais que:</p>
+        <p>   = − = − 1 y y x 3 1 xy 3 x 3 2 2 3</p>
+        <p>Então, o números complexo z = x + iy é tal que z3 e |z|, valem respectivamente: a) 1 - i e 6 2 b) 1 + i e 6 2 c) i e 1 d) -i e 1 e) 1 + i e 3 2</p>
+        <p>6) (ITA-98) Seja ABC um triângulo isósceles de base BC. Sobre o lado AC deste triângulo considere um ponto D tal que os segmentos AD, BD e BC são todos congruentes entre si. A medida do ângulo C Aˆ B é igual a: a) 23o b) 32o c) 36o d) 40o e) 45o</p>
+        <p>7) (ITA-98) Seja (a1 , a2 , a3 ,...) uma progressão geométrica infinita de razão a1, 0 &lt; a1 &lt; 1, e soma igual a 3a1 . A soma dos três primeiros termos desta progressão geométrica é: a) 27 8 b) 27 20 c) 27 26 d) 27 30 e) 27 38</p>
+        <p>www.rumoaoita.com 8) (ITA-98) O valor de y ∈ ℜ que satisfaz a igualdade:</p>
+        <p>log y 49 = 7 log 2 y + log 2y 7 , é: a) 2 1 b) 3 1 c) 3 d) 8 1 e) 7</p>
+        <p>9) (ITA-98) O número de anagramas da palavra VESTIBULANDO, que não apresentam as cinco vogais juntas, é: a) 12!</p>
+        <p>b) (8!)(5!) c) 12! - (8!)(5!) d) 12! - 8! e) 12! - (7!)(5!)</p>
+        <p>10) (ITA-98) Uma pirâmide regular tem por base um quadrado de lado 2 cm. Sabe-se que as faces formam com a base ângulos de 45o . Então, a razão entre a área da base e a área lateral é igual a: a) 2 b) 1 3 c) 6 d) 2 2 e) 3 3</p>
+        <p>Nota: resolva as questões numeradas de 11 a 25 no caderno de respostas. Na folha de leitura óptica assinale as alternativas das 25 questões. Ao terminar a prova, entregue ao fiscal o caderno de respostas e a folha de leitura óptica.</p>
+        <p>11) (ITA-98) Seja f: ℜ →ℜ a função definida por: f(x) = - 3ax , onde a é um número real, 0 &lt; a &lt; 1. Sobre as afirmações: (I) f(x + y) = f(x).f(y), para todo x, y ∈ ℜ. (II) f é bijetora. (III) f é crescente e f( ] 0 , +∞[ ) = ]-3 , 0[. Podemos concluir que: a) Todas as afirmações são falsas. b) Todas as afirmações são verdadeiras. c) Apenas as afirmações (I) e (III) são verdadeiras. d) Apenas a afirmação (II) é verdadeira. e) Apenas a afirmação (III) é verdadeira.</p>
+        <p>12) (ITA-98) Sejam as funções f: ℜ →ℜ e g:A ⊂ℜ → ℜ, tais que</p>
+        <p>f(x) = x2 - 9 e (fog)(x) = x - 6, em seus respectivos domínios. Então, o domínio A da função g é: a) [-3, +∞[ b) ℜ</p>
+        <p>c) [-5 , +∞[ d) ]-∞ , -1[∪[3 , +∞[ e) ]-∞ , 6 [</p>
+        <p>13) (ITA-98) Considere a, b ∈ ℜ e a equação:</p>
+        <p>2e3x + ae2x + 7ex + b = 0. Sabendo que as três raízes reais x1 , x2 , x3 desta equação formam, nesta ordem, uma progressão aritmética cuja soma é igual a zero, então a - b vale: a) 5 b) -7 c) -9 d) -5 e)</p>
+        <p>14) (ITA-98) Seja a um número real tal que o polinômio</p>
+        <p>p(x) = x6 + 2x5 + ax4 - ax2 - 2x - 1 admite apenas raízes reais. Então: a) a ∈ [2 , ∞[ b) a ∈ [-1 , 1] c) a ∈ ]-∞ , -7] d) a ∈ [-2, -1[ e) a ∈ ]1 , 2[</p>
+        <p>15) (ITA-98) Seja p(x) um polinômio de grau 4 com coeficientes reais. Na divisão de p(x) por x - 2 obtém-se um quociente q(x) e resto igual a 26. Na divisão de p(x) por x2 + x - 1 obtém-se um quociente h(x) e resto 8x - 5. Sabe-se que q(0) = 13 e q(1) = 26. Então, h(2) + h(3) é igual a: a) 16 b) zero c) -47 d) -28 e) 1</p>
+        <p>16) (ITA-98) Sejam a, b ∈ ℜ. Considere os sistemas lineares em x, y e z:</p>
+        <p>   = + − = + − = − + a z y 2 1 z y 3 x 0 z y x e    = + − = − + = − 0 z 3 by x 2 0 z y 2 x 0 y x</p>
+        <p>Se ambos admitem infinitas soluções reais, então: a) 11 b a =</p>
+        <p>b) 22 a b =</p>
+        <p>c) ab = 4 1</p>
+        <p>www.rumoaoita.com d) ab = 22 e) ab = 0</p>
+        <p>17) (ITA-98) Sejam as matrizes de ordem 2,</p>
+        <p>     + = 1 1 a a 2 A e       + = a 2 a 1 1 B</p>
+        <p>Então, a soma dos elementos da diagonal principal de (AB) - 1 é igual a: a) a + 1 b) 4(a + 1) c) 4 1 (5 + 2a + a2) d) 4 1 (1 + 2a + a2) e) 2 1 (5 + 2a + a2)</p>
+        <p>18) (ITA-98) A inequação:4x log5(x + 3) &gt; (x2 + 3) 5 1 log (x + 3) é satisfeita para todo x ∈ S. Então: a) S = ]-3 , -2]∪[-1 , +∞[ b) S = ]-∞ ,-3[∪[-1 , +∞[ c) S = ]-3 , -1]</p>
+        <p>d) S = ]-2 , +∞] e) S = ]-∞ , -3[∪]-3 , +∞[</p>
+        <p>19) (ITA-98) A soma das raízes da equação</p>
+        <p>0 x 2 cos x 2 sen 3 tgx 3 = + −</p>
+        <p>que pertencem ao intervalo [0 , 2π], é: a) 4 17π b) 3 16π c) 4 15π d) 3 14π e) 4 13π</p>
+        <p>20) (ITA-98) Considere as afirmações sobre polígonos convexos: (I) Existe apenas um polígono cujo número de diagonais coincide com o número de lados. (II) Não existe polígono cujo número de diagonais seja o quádruplo do número de lados. (III) Se a razão entre o número de diagonais e o de lados de um polígono é um número natural, então o número de lados do polígono é ímpar. Então: a) Todas as afirmações são verdadeiras. b) Apenas (I) e (III) são verdadeiras. c) Apenas (I) é verdadeira. d) Apenas (III) é verdadeira. e) Apenas (II) e (III) são verdadeiras.</p>
+        <p>21) (ITA-98) As retas y = 0 e 4x + 3y + 7 = 0 são retas suportes das diagonais de um paralelogramo. Sabendo que estas diagonais medem 4 cm e 6 cm, então, a área deste paralelogramo, em cm2, vale: a) 5 36 b) 4 27 c) 3 44 d) 3 48 e) 5 48</p>
+        <p>22) (ITA-98) Um poliedro convexo de 16 arestas é formado por faces triangulares e quadrangulares. Seccionando-o por um plano convenientemente escolhido , dele se destaca um novo poliedro convexo, que possui apenas faces quadrangulares. Este novo poliedro possui um vértice a menos que o original e uma face a mais que o número de faces quadrangulares do original. Sendo m e n, respectivamente, o número de faces e o número de vértices do poliedro original, então: a) m = 9, n = 7 b) m = n = 9 c) m = 8, n = 10 d) m = 10 , n = 8 e) m = 7 , n = 9</p>
+        <p>23) (ITA-98) Considere um cone circular reto cuja geratriz mede 5 cm e o diâmetro da base mede 2 cm. Traçam-se n planos paralelos à base do cone, que o seccionam determinando n + 1 cones, incluindo o original, de modo que a razão entre os volumes do cone maior e do cone menor é 2. Os volumes destes cones formam uma progressão aritmética crescente cuja soma é igual a 2π. então, o volume, em cm3, do tronco de cone determinado por dois planos consecutivos é igual a: a) 33 π b) 33 2π c) 9 π d) 15 2π e) π</p>
+        <p>24) (ITA-98) Considere a hipérbole H e a parábola T, cujas equações são, respectivamente,</p>
+        <p>5(x + 3)2 - 4(y - 2)2 = -20 e (y - 3)2 = 4(x - 1). Então, o lugar geométrico dos pontos P, cuja soma dos quadrados das distâncias de P a cada um dos focos da hipérbole H é igual ao triplo do quadrado da distância de P ao vértice da parábola T, é:</p>
+        <p>www.rumoaoita.com a) a elipse de equação 1 3 ) 2 y ( 4 ) 3 x ( 2 2 = + + − . b) a hipérbole de equação 1 4 ) 3 x ( 5 )1 y ( 2 2 = − + + . c) O par de retas dadas por y = ±(3x - 1). d) A parábola de equação y2 = 4x + 4. e) A circunferência centrada em (9 , 5) e raio 120 .</p>
+        <p>25) Considere o paralelogramo ABCD onde A = (0 , 0), B = (- 1 , 2) e C = (-3 , -4). Os ângulos internos distintos e o vértice D deste paralelogramo são, respectivamente: a) 4 3 , 4 π π e D = (-2 , -5) b) 3 2 , 3 π π e D = (-1 , -5) c) 3 2 , 3 π π e D = (-2 , -6) d) 4 3 , 4 π π e D = (-2 , -6) e) 3 2 , 3 π π e D = (-2 , -5)</p>
+        <p>www.rumoaoita.com</p>
+        <p>Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

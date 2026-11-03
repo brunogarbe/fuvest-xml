@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2007" phase="objective" day="0" variation="V1" date="2007-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Amostras de massas iguais de duas substâncias, I e II, foram submetidas independentemente a um processo de aquecimento em atmosfera inerte e a pressão constante. O gráfico abaixo mostra a variação da temperatura em função do calor trocado entre cada uma das amostras e a vizinhança. Dados: ΔHf e ΔH v representam as variações de entalpia de fusão e de vaporização, respectivamente, e cp é o calor específico.</p>
+        <p>Assinale a opção ERRADA em relação à comparação das grandezas termodinâmicas.</p>
+        <p>A ( ) ΔH f(I) &lt; ΔH f(II) B ( ) ΔH v(I) &lt; ΔH v(II) C ( ) cp,I(s) &lt; cp,II(s) D ( ) cp,II(g) &lt; cp,I(g) E ( ) cp,II(l) &lt; cp,I(l)</p>
+        <p>Temperatura Calor trocado I II</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Um recipiente aberto contendo inicialmente 30 g de um líquido puro a 278 K, mantido à pressão constante de 1 atm, é colocado sobre uma balança. A seguir, é imersa no líquido uma resistência elétrica de 3 Ω conectada, por meio de uma chave S, a uma fonte que fornece uma corrente elétrica constante de 2 A. No instante em que a chave S é fechada, dispara-se um cronômetro. Após 100 s, a temperatura do líquido mantém-se constante a 330 K e verifica-se que a massa do líquido começa a diminuir a uma velocidade constante de 0,015 g/s. Considere a massa molar do líquido igual a M. Assinale a opção que apresenta a variação de entalpia de vaporização (em J/mol) do líquido.</p>
+        <p>A ( ) 500 M</p>
+        <p>B ( ) 600 M</p>
+        <p>C ( ) 700 M</p>
+        <p>D ( ) 800 M</p>
+        <p>E ( ) 900 M</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Utilizando o enunciado da questão anterior, assinale a opção que apresenta o valor do trabalho em módulo (em kJ) realizado no processo de vaporização após 180 s de aquecimento na temperatura de 330 K.</p>
+        <p>A ( ) 4,4 / M B ( ) 5,4 / M C ( ) 6,4 / M D ( ) 7,4 / M E ( ) 8,4 / M</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Dois béqueres, X e Y, contêm, respectivamente, volumes iguais de soluções aquosas: concentrada e diluída de cloreto de sódio na mesma temperatura. Dois recipientes hermeticamente fechados, mantidos à mesma temperatura constante, são interconectados por uma válvula, inicialmente fechada, cada qual contendo um dos béqueres. Aberta a válvula, após o restabelecimento do equilíbrio químico, verifica-se que a pressão de vapor nos dois recipientes é Pf . Assinale a opção que indica, respectivamente, as comparações CORRETAS entre os volumes inicial (VXi) e final (VXf), da solução no béquer X e entre as pressões de vapor inicial (PYi) e final (Pf) no recipiente que contém o béquer Y.</p>
+        <p>A ( ) VXi &lt; VXf e PYi = Pf</p>
+        <p>B ( ) VXi &lt; VXf e PYi &gt; Pf C ( ) VXi &lt; VXf e PYi &lt; Pf</p>
+        <p>D ( ) VXi &gt; VXf e PYi &gt; Pf E ( ) VXi &gt; VXf e PYi &lt; Pf</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Utilizando o enunciado da questão anterior, assinale a opção que indica a curva no gráfico abaixo que melhor representa a quantidade de massa de água transferida (Qágua) ao longo do tempo (t) de um recipiente para o outro desde o instante em que a válvula é aberta até o restabelecimento do equilíbrio químico.</p>
+        <p>A ( ) I</p>
+        <p>B ( ) II</p>
+        <p>C ( ) III</p>
+        <p>D ( ) IV</p>
+        <p>E ( ) V</p>
+        <p>Q água t I II III IV V</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere duas placas X e Y de mesma área e espessura. A placa X é constituída de ferro com uma das faces recoberta de zinco. A placa Y é constituída de ferro com uma das faces recoberta de cobre. As duas placas são mergulhadas em béqueres, ambos contendo água destilada aerada. Depois de um certo período, observa-se que as placas passaram por um processo de corrosão, mas não se verifica a corrosão total de nenhuma das faces dos metais. Considere sejam feitas as seguintes afirmações a respeito dos íons formados em cada um dos béqueres:</p>
+        <p>I. Serão formados íons Zn 2 + no béquer contendo a placa X. II. Serão formados íons Fe 2 + no béquer contendo a placa X. III. Serão formados íons Fe 2 + no béquer contendo a placa Y. IV. Serão formados íons Fe 3 + no béquer contendo a placa Y. V. Serão formados íons Cu 2 + no béquer contendo a placa Y.</p>
+        <p>Então, das afirmações acima, estão CORRETAS</p>
+        <p>A ( ) apenas I, II e IV.</p>
+        <p>B ( ) apenas I, III e IV.</p>
+        <p>C ( ) apenas II, III e IV.</p>
+        <p>D ( ) apenas II, III e V.</p>
+        <p>E ( ) apenas IV e V.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Embrulhar frutas verdes em papel jornal favorece o seu processo de amadurecimento devido ao acúmulo de um composto gasoso produzido pelas frutas. Assinale a opção que indica o composto responsável por esse fenômeno.</p>
+        <p>A ( ) Eteno.</p>
+        <p>B ( ) Metano.</p>
+        <p>C ( ) Dióxido de carbono.</p>
+        <p>D ( ) Monóxido de carbono.</p>
+        <p>E ( ) Amônia.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Assinale a opção que apresenta um sal que, quando dissolvido em água, produz uma solução aquosa ácida.</p>
+        <p>A ( ) Na 2CO 3</p>
+        <p>B ( ) CH 3COONa</p>
+        <p>C ( ) CH 3NH 3Cl</p>
+        <p>D ( ) Mg(ClO 4) 2</p>
+        <p>E ( ) NaF</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Duas células (I e II) são montadas como mostrado na figura. A célula I consiste de uma placa A(c) mergulhada em uma solução aquosa 1 mol L-1 em AX, que está interconectada por uma ponte salina a uma solução 1 mol L-1 em BX, na qual foi mergulhada a placa B(c). A célula II consiste de uma placa B(c) mergulhada em uma solução aquosa 1 mol L-1 em BX, que está interconectada por uma ponte salina à solução 1 mol L-1 em CX, na qual foi mergulhada a placa C(c). Considere que durante certo período as duas células são interconectadas por fios metálicos, de resistência elétrica desprezível. Assinale a opção que apresenta a afirmação ERRADA a respeito de fenômenos que ocorrerão no sistema descrito. Dados eventualmente necessários: E°A+(aq)/A(c) = 0,400 V; E°B+(aq)/B(c) = −0,700 V e E°C+(aq)/C(c) = 0,800 V.</p>
+        <p>A ( ) A massa da placa C aumentará. B ( ) A polaridade da semicélula B/B+(aq) da célula II será negativa. C ( ) A massa da placa A diminuirá. D ( ) A concentração de B+(aq) na célula I diminuirá. E ( ) A semicélula A/A+(aq) será o cátodo.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Realizaram-se testes de solubilidade de pequenas porções de compostos orgânicos constituídos de cinco átomos de carbono, denominados de A, B, C, D e E.</p>
+        <p>São fornecidos os seguintes resultados dos testes de solubilidade em vários solventes:</p>
+        <p>Teste 1. Os compostos A, B, C, D e E são solúveis em éter etílico. Teste 2. Somente os compostos B, C e D são solúveis em água pura. Teste 3. Somente os compostos B, C e E são solúveis em uma solução aquosa diluída de hidróxido de sódio. Teste 4. Somente os compostos D e E são solúveis em uma solução aquosa diluída de ácido clorídrico.</p>
+        <p>Considere sejam feitas as seguintes identificações:</p>
+        <p>I. O composto A é o n-pentano. II. O composto B é o 1-pentanol. III. O composto C é o propionato de etila. IV. O composto D é a pentilamina. V. O composto E é o ácido pentanóico.</p>
+        <p>Então, das identificações acima, estão ERRADAS</p>
+        <p>A ( ) apenas I, II e IV.</p>
+        <p>B ( ) apenas I, III e IV.</p>
+        <p>C ( ) apenas II e IV.</p>
+        <p>D ( ) apenas III e V.</p>
+        <p>E ( ) apenas IV e V.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Considere sejam feitas as seguintes afirmações a respeito das formas cristalinas do carbono:</p>
+        <p>I. As formas polimórficas do carbono são: diamante, grafite e fulerenos. II. O monocristal de grafite é bom condutor de corrente elétrica em uma direção, mas não o é na direção perpendicular à mesma. III. O diamante é uma forma polimórfica metaestável do carbono nas condições normais de temperatura e pressão. IV. No grafite, as ligações químicas entre os átomos de carbono são tetraédricas.</p>
+        <p>Então, das afirmações acima, está(ão) CORRETA(S)</p>
+        <p>A ( ) apenas I, II e III.</p>
+        <p>B ( ) apenas I e III.</p>
+        <p>C ( ) apenas II e IV. D ( ) apenas IV.</p>
+        <p>E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Em junho deste ano, foi noticiado que um caminhão transportando cilindros do composto t-butil mercaptana (2metil-2-propanotiol) tombou na Marginal Pinheiros – cidade de São Paulo. Devido ao acidente, ocorreu o vazamento da substância. Quando adicionada ao gás de cozinha, tal substância fornece-lhe um odor desagradável. Assinale a opção que indica a fórmula molecular CORRETA desse composto.</p>
+        <p>A ( ) (CH 3) 3CNH 2</p>
+        <p>B ( ) (CH 3) 3CSH</p>
+        <p>C ( ) (CH 3) 3CNHCH 3 D ( ) (CH 3) 3CCH 2NH 2</p>
+        <p>E ( ) (CH 3) 3CSCH 2OH</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Assinale a opção que nomeia o cientista responsável pela descoberta do oxigênio.</p>
+        <p>A ( ) Dalton</p>
+        <p>B ( ) Mendeleev C ( ) Gay-Lussac D ( ) Lavoisier</p>
+        <p>E ( ) Proust</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Assinale a opção que indica a variação CORRETA de entalpia, em kJ/mol, da reação química a 298,15 K e 1 bar, representada pela seguinte equação: C4H 1 0 (g) → C 4H 8 (g) + H 2 (g). Dados eventualmente necessários: ΔHf θ (C 4H 8(g)) = −11,4; ΔHf θ (CO 2(g)) = −393,5; ΔHf θ (H 2O(l)) = −285,8 e ΔHc θ (C 4H 1 0(g)) = −2.877,6, em que ΔHf θe ΔHc θ, em kJ/mol, representam as variações de entalpia de formação e de combustão a 298,15 K e 1 bar, respectivamente.</p>
+        <p>A ( ) −3.568,3 B ( ) −2.186,9 C ( ) +2.186,9 D ( ) +125,4</p>
+        <p>E ( ) +114,0</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Durante a utilização de um extintor de incêndio de dióxido de carbono, verifica-se formação de um aerossol esbranquiçado e também que a temperatura do gás ejetado é consideravelmente menor do que a temperatura ambiente. Considerando que o dióxido de carbono seja puro, assinale a opção que indica a(s) substância(s) que torna(m) o aerossol visível a olho nu.</p>
+        <p>A ( ) Água no estado líquido. B ( ) Dióxido de carbono no estado líquido. C ( ) Dióxido de carbono no estado gasoso. D ( ) Dióxido de carbono no estado gasoso e água no estado líquido. E ( ) Dióxido de carbono no estado gasoso e água no estado gasoso.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Um recipiente fechado contendo a espécie química A é mantido a volume (V) e temperatura (T) constantes. Considere que essa espécie se decomponha de acordo com a equação:</p>
+        <p>A(g) → B(g) + C(g).</p>
+        <p>A tabela abaixo mostra a variação da pressão total (Pt) do sistema em função do tempo (t):</p>
+        <p>t (s) 0 55 200 380 495 640 820 Pt (mmHg) 55 60 70 80 85 90 95</p>
+        <p>Considere sejam feitas as seguintes afirmações:</p>
+        <p>I. A reação química obedece à lei de velocidade de ordem zero. II. O tempo de meia-vida da espécie A independe da sua pressão parcial. III. Em um instante qualquer, a pressão parcial de A, PA, pode ser calculada pela equação: PA = 2 P0 – Pt, em que P0 é a pressão do sistema no instante inicial. IV. No tempo de 640 s, a pressão Pi é igual a 45 mmHg, em que Pi é a soma das pressões parciais de B e C.</p>
+        <p>Então, das afirmações acima, está(ão) CORRETA(S)</p>
+        <p>A ( ) apenas I e II. B ( ) apenas I e IV. C ( ) apenas II e III. D ( ) apenas II e IV. E ( ) apenas IV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Assinale a opção que indica a substância que, entre as cinco, apresenta a maior temperatura de ebulição à pressão de 1 atm.</p>
+        <p>A ( ) H 3CCHO</p>
+        <p>B ( ) H 3CCOCH 3</p>
+        <p>C ( ) H 3CCONH 2 D ( ) H 3CCOOH</p>
+        <p>E ( ) H 3CCOOCH 3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Um indicador ácido-base monoprótico tem cor vermelha em meio ácido e cor laranja em meio básico. Considere que a constante de dissociação desse indicador seja igual a 8,0 x 10-5. Assinale a opção que indica a quantidade, em mols, do indicador que, quando adicionada a 1 L de água pura, seja suficiente para que 80% de suas moléculas apresentem a cor vermelha após alcançar o equilíbrio químico.</p>
+        <p>A ( ) 1,3 x 10−5 B ( ) 3,2 x 10−5 C ( ) 9,4 x 10−5</p>
+        <p>D ( ) 5,2 x 10−4 E ( ) 1,6 x 10−3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Nas condições ambientes, a 1 L de água pura, adiciona-se 0,01 mol de cada uma das substâncias A e B descritas nas opções abaixo. Dentre elas, qual solução apresenta a maior condutividade elétrica?</p>
+        <p>A ( ) A = NaCl e B = AgNO3</p>
+        <p>B ( ) A = HCl e B = NaOH</p>
+        <p>C ( ) A = HCl e B = CH 3COONa</p>
+        <p>D ( ) A = KI e B = Pb(NO 3) 2 E ( ) A = Cu(NO 3) 2 e B = ZnCl 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Considere a reação química representada pela equação abaixo e sua respectiva força eletromotriz nas condiçõespadrão: O2 (g) + 4 H +(aq) + 4 Br − (aq) U 2 Br 2(g) + 2 H 2O(l), ΔE° = 0,20 V.</p>
+        <p>Agora, considere que um recipiente contenha todas as espécies químicas dessa equação, de forma que todas as concentrações sejam iguais às das condições-padrão, exceto a de H +. Assinale a opção que indica a faixa de pH na qual a reação química ocorrerá espontaneamente.</p>
+        <p>A ( ) 2,8 &lt; pH &lt; 3,4</p>
+        <p>B ( ) 3,8 &lt; pH &lt; 4,4</p>
+        <p>C ( ) 4,8 &lt; pH &lt; 5,4 D ( ) 5,8 &lt; pH &lt; 6,4</p>
+        <p>E ( ) 6,8 &lt; pH &lt; 7,4</p>
+        <p>As questões dissertativas, numeradas de 21 a 30, devem ser resolvidas e respondidas no caderno de soluções.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Uma amostra de 1,222 g de cloreto de bário hidratado (BaCl 2.nH 2O) é aquecida até a eliminação total da água de hidratação, resultando em uma massa de 1,042 g. Com base nas informações fornecidas e mostrando os cálculos efetuados, determine:</p>
+        <p>(a) o número de mols de cloreto de bário, (b) o número de mols de água e (c) a fórmula molecular do sal hidratado.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. O composto mostrado abaixo é um tipo de endorfina, um dos neurotransmissores produzidos pelo cérebro.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Um dos métodos de síntese do clorato de potássio (KClO 3) é submeter uma solução de cloreto de potássio (KCl) a um processo eletrolítico, utilizando eletrodos de platina. São mostradas abaixo as semi-equações que representam as semi-reações em cada um dos eletrodos e os respectivos potenciais elétricos na escala do eletrodo de hidrogênio nas condições-padrão (E°):</p>
+        <p>E° (V) ELETRODO I: Cl −(aq) + 3H 2O(l) U ClO 3 − (aq) + 6H +(aq) + 6e − (CM) 1,45 ELETRODO II: 2OH − (aq) + H 2(g) U 2H 2O(l) + 2e − (CM) −0,83</p>
+        <p>(a) Faça um esquema da célula eletrolítica. (b) Indique o cátodo. (c) Indique a polaridade dos eletrodos. (d) Escreva a equação que representa a reação química global balanceada.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Em um recipiente que contém 50,00 mL de uma solução aquosa 0,100 mol/L em HCN foram adicionados 8,00 mL de uma solução aquosa 0,100 mol/L em NaOH. Dado: Ka (HCN) = 6,2 x 10−10.</p>
+        <p>(a) Calcule a concentração de íons H + da solução resultante, deixando claros os cálculos efetuados e as hipóteses simplificadoras. (b) Escreva a equação química que representa a reação de hidrólise dos íons CN −.</p>
+        <p>(a) Transcreva a fórmula estrutural da molécula. (b) Circule todos os grupos funcionais. (c) Nomeie cada um dos grupos funcionais circulados.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Prepara-se, a 25 °C, uma solução por meio da mistura de 25 mL de n-pentano e 45 mL de n-hexano. Dados: massa específica do n-pentano = 0,63 g/mL; massa específica do n-hexano = 0,66 g/mL; pressão de vapor do n-pentano = 511 torr; pressão de vapor do n-hexano = 150 torr.</p>
+        <p>Determine os seguintes valores, mostrando os cálculos efetuados:</p>
+        <p>(a) Fração molar do n-pentano na solução. (b) Pressão de vapor da solução. (c) Fração molar do n-pentano no vapor em equilíbrio com a solução.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. A tabela abaixo apresenta os valores das temperaturas de fusão (Tf) e de ebulição (Te) de halogênios e haletos de hidrogênio.</p>
+        <p>Tf (°C) Te (°C) F 2 −220 −188 Cl 2 −101 −35 Br 2 −7 59 I 2 114 184 HF −83 20 HCl −115 −85 HBr −89 −67 HI −51 −35</p>
+        <p>(a) Justifique a escala crescente das temperaturas Tf e Te do F 2 ao I 2. (b) Justifique a escala decrescente das temperaturas Tf e Te do HF ao HCl. (c) Justifique a escala crescente das temperaturas Tf e Te do HCl ao HI.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Utilizando uma placa polida de cobre puro, são realizados os seguintes experimentos:</p>
+        <p>I. A placa é colocada diretamente na chama do bico de Bunsen. Após um certo período, observa-se o escurecimento da superfície dessa placa. II. Em seguida, submete-se a placa ainda quente a um fluxo de hidrogênio puro, verificando-se que a placa volta a apresentar a aparência original. III. A seguir, submete-se a placa a um fluxo de sulfeto de hidrogênio puro, observando-se novamente o escurecimento da placa, devido à formação de Cu 2S. IV. Finalmente, a placa é colocada novamente na chama do bico de Bunsen, readquirindo a sua aparência original.</p>
+        <p>Por meio das equações químicas balanceadas, explique os fenômenos observados nos quatro experimentos descritos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Um cilindro de volume V contém as espécies A e B em equilíbrio químico representado pela seguinte equação: A(g) U 2 B(g). Inicialmente, os números de mols de A e de B são, respectivamente, iguais a nA1 e nB1. Realiza-se, então, uma expansão isotérmica do sistema até que o seu volume duplique (2V) de forma que os números de mols de A e de B passem a ser, respectivamente, nA2 e nB2. Demonstrando o seu raciocínio, apresente a expressão algébrica que relaciona o número final de mols de B (nB2) unicamente com nA1, nA2 e nB1.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Dois recipientes contêm soluções aquosas diluídas de estearato de sódio (CH3(CH2)16COONa). Em um deles é adicionada uma porção de n-octano e no outro, uma porção de glicose, ambos sob agitação. Faça um esquema mostrando as interações químicas entre as espécies presentes em cada um dos recipientes.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Dois frascos, A e B, contêm soluções aquosas concentradas em HCl e NH3, respectivamente. Os frascos são mantidos aproximadamente a um metro de distância entre si, à mesma temperatura ambiente. Abertos os frascos, observa-se a formação de um aerossol branco entre os mesmos. Descreva o fenômeno e justifique por que o aerossol branco se forma em uma posição mais próxima a um dos frascos do que ao outro.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1999" phase="objective" day="0" variation="V1" date="1999-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1999</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1999 Principais notações Z - o conjunto de todos os números inteiros. R - o conjunto de todos os números reais. C - o conjunto de todos os números complexos.</p>
+        <p>[a, b] = {x ∈ R: a ≤ x ≤ b} ] - ∞, b] = {x ∈ R: x ≤ b} [a, b[ = {x ∈ R: a ≤ x &lt; b} ] - ∞, b[ = {x ∈ R: x &lt; b} ]a, b] = {x ∈ R: a &lt; x ≤ b} [a, + ∞[ = {x ∈ R: a ≤ x} ]a, b[ = {x ∈ R: a &lt; x &lt; b} ]a, + ∞[ = {x ∈ R: a &lt; x} (a, b) - par ordenado g o f - função composta de g e f A-1 = matriz inversa da matriz A At - matriz transposta da matriz A</p>
+        <p>Questões 1) (ITA-99) Sejam E, F, G e H subconjuntos não vazios de R. Considere as afirmações: I - Se (E x G) ⊂ (F x H), então E ⊂ F e G ⊂ H. II - Se (E x G) ⊂ (F x H), então (E x G) ∪ (F x H) = F x H. III - Se (E x G) ∪ (F x H) = F x H, então (E x G) ⊂ (F x H). Então: a) ( ) Apenas a afirmação (I) é verdadeira. b) ( ) Apenas a afirmação (II) é verdadeira. c) ( ) Apenas as afirmações (II) e (III) são verdadeiras. d) ( ) Apenas as afirmações (I) e (II) são verdadeiras. e) ( ) Todas as afirmações são verdadeiras.</p>
+        <p>2) (ITA-99) Listando-se em ordem crescente todos os números de cinco algarismos distintos formados com os elementos do conjunto {1, 2, 4, 6, 7}, o número 62417 ocupa o n-ésimo lugar. Então n é igual a: a) ( ) 74 b) ( ) 75 c) ( ) 79</p>
+        <p>d) ( ) 81 e) ( ) 92 3) (ITA-99) Sejam f, g: R → R funções definidas por f(x) = x 2 3       e g(x) = x 3 1       . Considere as afirmações: I - Os gráficos de f e g não se interceptam. II- As funções f e g são crescentes. III- f(-2) g(-1) = f(-1) g(-2). Então: a) ( ) Apenas a afirmação (I) é falsa. b) ( ) Apenas a afirmação (III) é falsa. c) ( ) Apenas as afirmações (I) e (II) são falsas. d) ( ) Apenas as afirmações (II) e (III) são falsas. e) ( ) Todas as afirmações são falsas.</p>
+        <p>4) (ITA-99) Seja a ∈ R com a &gt; 1. O conjunto de todas as soluções reais da inequação a2x(1 - x) &gt; ax - 1, é: a) ( ) ]-1, 1[ b) ( ) ]1, + ∞[ c) ]-½, 1[ d) ( ) ]- ∞, 1[ e) ( ) vazio</p>
+        <p>5) (ITA-99) Seja S o conjunto de todas as soluções reais da equação 1 4 log (x + 1) = log4 (x - 1) Então: a) ( ) S é um conjunto unitário e S ⊂ ]2, + ∞[. b) ( ) S é um conjunto unitário e S ⊂ ]1, 2 [. c) ( ) S possui dois elementos distintos e S ⊂ ]-2, 2 [. d) ( ) S possui dois elementos distintos e S ⊂ ]1,+ ∞[. e) ( ) S é o conjunto vazio.</p>
+        <p>www.rumoaoita.com 6) (ITA-99) Sejam f, g, h: R → R funções tais que a função composta h o g o f: R → R é a função identidade. Considere as afirmações: I - A função h é sobrejetora. II- Se x0 ∈ R é tal que f(x0) = 0, então f(x) ≠ 0 para todo x ∈ R com x ≠ x0. III- A equação h(x) = 0 tem solução em R. Então: a) ( ) Apenas a afirmação (I) é verdadeira. b) ( ) Apenas a afirmação (II) é verdadeira. c) ( ) Apenas a afirmação (III) é verdadeira. d) ( ) Todas as afirmações são verdadeiras. e) ( ) Todas as afirmações são falsas.</p>
+        <p>7) (ITA-99) Considere as matrizes       =       =       =       = 2 1 B e</p>
+        <p>y x X , 1</p>
+        <p>0 0</p>
+        <p>1 I , 2</p>
+        <p>1 -</p>
+        <p>0 1 -</p>
+        <p>0</p>
+        <p>1 A</p>
+        <p>Se x e y são soluções do sistema (AA´ -3I)X = B, então x + y é igual a: a) ( ) 2 b) ( ) 1 c) ( ) 0 d) ( ) -1 e) ( ) -2</p>
+        <p>8) (ITA-99) Sejam x, y e z números reais com y ≠ 0. Considere a matriz inversível           = 1</p>
+        <p>1 -</p>
+        <p>z 0</p>
+        <p>0 y 1</p>
+        <p>1 x A . Então: a) ( ) A soma dos termos da primeira linha de A-1 é igual a x + 1. b) ( ) A soma dos termos da primeira linha de A-1 é igual a 0. c) ( ) A soma dos termos da primeira coluna de A-1 é igual a 1. d) ( ) O produto dos termos da segunda linha de A-1 é igual a y. e) ( ) O produto dos termos da terceira coluna de A-1 é igual a 1.</p>
+        <p>9) (ITA-99) Se x ∈ [0, π/2[ é tal que 4 tg4x = x cos 1 4 + 4, então o valor de sen 2x + sen 4x a) ( ) 4 15 b) ( ) 8 15 c) ( ) 8 5 3</p>
+        <p>d) ( ) ½ e) ( ) 1</p>
+        <p>10) (ITA-99) O conjunto de todos os números reais q &gt; 1, para os quais a1, a2 e a3, formam, nesta ordem, uma progressão geométrica de razão q e representam as medidas dos lados de um triângulo, é: a) ( ) ]1, 2 5 1+ [ b) ( ) ]1, 2 5 1+ ] c) ( ) ]1, 5 5 1+ ] d) ( ) ]1, 4 5 1+ [</p>
+        <p>e) ( ) ]1, 1+ 5 [</p>
+        <p>11) (ITA-99) Sejam ak e bk números reais com k = 1, 2, ..., 6. Os números complexos zk = ak + ibk são tais que |zk| = 2 e bk ≥ 0, para todo k = 1, 2, ..., 6. Se (a1, a2, ..., a6) é uma progressão aritmética de razão -1/5 e soma 9, então z3 é igual a: a) ( ) 2i b) ( ) i 5 6 5 8 +</p>
+        <p>c) ( ) 3 + i d) ( ) i 5 73 5 3 3 + − e) ( ) i 5 17 2 5 2 4 +</p>
+        <p>12) (ITA-99) Considere a circunferência C de equação x2 + y2 + 2x + 2y + 1 = 0 e a elipse E de equação x2 + 4y2 - 4x + 8y + 4 = 0. Então: a) ( ) C e E interceptam-se em dois pontos distintos. b) ( ) C e E interceptam-se em quatro pontos distintos. c) ( ) C e E são tangentes exteriormente. d) ( ) C e E são tangentes interiormente. e) ( ) C e E têm o mesmo centro e não se interceptam.</p>
+        <p>www.rumoaoita.com</p>
+        <p>13) (ITA-99) Num cone circular reto, a altura é a média geométrica entre o raio da base e a geratriz. A razão entre a altura e o raio da base é: a) ( ) 2 5 1+</p>
+        <p>b) ( ) 2 1 5 −</p>
+        <p>c) ( ) 2 1 5 −</p>
+        <p>d) ( ) 3 1 5 3 −</p>
+        <p>e) ( ) 2 1 5 +</p>
+        <p>ALTERNATIVA E</p>
+        <p>14) (ITA-99) Duas circunferências C1 e C2, ambas com 1 m de raio, são tangentes. Seja C3 outra circunferência cujo raio mede ( 1 2 −)m e que tangência C1 e C2. A área, m2, da região limitada e exterior às três circunferências dadas, é: a) ( ) 1 - π         −2 2 1 b) ( ) 6 2 1 π − c) ( ) ( ) 2 1 2 −</p>
+        <p>d) ( )       − π 2 1 2 16 e) ( ) π( )1 2 − -1</p>
+        <p>15) (ITA-99) Um poliedro convexo de 10 vértices apresenta faces triangulares e quadrangulares. O número de faces quadrangulares, o número de faces triangulares e o número total de faces formam, nesta ordem, uma progressão aritmética. O número de arestas é: a) ( ) 10 b) ( ) 17 c) ( ) 20 d) ( ) 22 e) ( ) 23</p>
+        <p>Nota: resolva as questões numeradas de 16 a 25 no caderno de respostas. Na folha de leitura óptica assinale a alternativa escolhida em cada uma das 25 questões. Ao terminar a prova, entregue ao fiscal o caderno de respostas e a folha de leitura óptica.</p>
+        <p>16) (ITA-99) Considere as funções f e g definidas por f(x) = x - 2/x, para x ≠ 0 e g(x) = 1 x x + , para x ≠ -1. O conjunto de todas a s soluções da inequação (g o f) (x)&lt;g(x) é: a) ( ) [1, + ∞[ b) ( ) ]-∞, -2[ c) ( ) [-2, -1[ d) ( ) ]-1, 1[ e) ( ) ]-2, -1[ ∪ ]1, + ∞[</p>
+        <p>17) (ITA-99) Seja a ∈ R com a &gt; 1. Se b = log2 a, então o valor de log4 a3 + log2 4a + log2 1 a a + + (log8 a)2 - 1 2 log 1 a 1 a2 − − é: a) ( ) 2b - 3 b) ( ) 2 b 18 65 + c) ( ) 2 1 b 3 b 2 2 + −</p>
+        <p>d) ( ) 18 36 b 63 b 2 2 + + e) ( ) 9 7 b 9 b2 + +</p>
+        <p>18) (ITA-99) Seja p(x) um polinômio de grau 3 tal que p(x) = p(x + 2) - x2 - 2, para todo x ∈ R. Se -2 é uma raiz de p(x), então o produto de todas as raízes de p(x) é: a) ( ) 36 b) ( ) 18 c) ( ) -36 d) ( ) -18 e) ( ) 1</p>
+        <p>19) (ITA-99) A equação polinomial p(x) = 0 de coeficientes reais e grau 6 é recíproca de 2a espécie e admite i como raiz. Se p(2) = 8 105 − e p(-2) = 8 255 , então a soma de todas as raízes de p(x) é igual a: a) ( ) 10 b) ( ) 8 c) ( ) 6 d) ( ) 2 e) ( ) 1</p>
+        <p>20) (ITA-99) O conjunto de todos os números complexos z, z ≠ 0, que satisfazem à igualdade z + 1 + i = |z| - |1 + i| é: a) ( ) {z ∈ C: arg z = 4 5π + 2kπ, k ∈ Z} b) ( ) {z ∈ C: arg z = 4 π + 2kπ, k ∈ Z} c) ( ) {z ∈ C: |z| = 1 e arg z = 6 π + kπ, k ∈ Z} d) ( ) {z ∈ C: |z| = 2 e arg z = 4 π + 2kπ, k ∈ Z} e) ( ) {z ∈ C: arg z = 4 π + kπ, k ∈ Z}</p>
+        <p>www.rumoaoita.com 21) (ITA-99) Seja a ∈ R com 0 &lt; a &lt; 2 π . A expressão       − π             − π +       + π a 2 sen a 4 3 sen a 4 3 sen</p>
+        <p>é idêntica a: a) ( ) a cotg 1 a cotg 2 2 2 + b) ( ) a cotg 1 cotga 2 2 + c) ( ) a cotg 1 2 2 +</p>
+        <p>d) ( ) 2 3cotga 1+ e) ( ) cotga 1 2cotga 1 + +</p>
+        <p>22) (ITA-99) A soma de todos os valores de a ∈ [0, 2π[ que tornam o sistema      = + + + + = + + + = + + 0 2a)</p>
+        <p>sen 2 a sen 3</p>
+        <p>(1 z a cos y a sen x 0 a)</p>
+        <p>cos a sen</p>
+        <p>(2 z a cos y a sen x 0 z y x 2 2 2</p>
+        <p>possível e indeterminado é: a) 5π b) 4π c) 3π d) 2π e) π</p>
+        <p>23) (ITA-99) Pelo ponto C: (4, -4) são traçadas duas retas que tangenciam a parábola y = (x-4)2 + 2 nos pontos A e B. A distância do ponto C à reta determinada por A e B é: a) 6 12 b) 12 c) 12 d) 8 e) 6</p>
+        <p>24) (ITA-99) Duas circunferências de raios iguais a 9 m e 3m são tangentes externamente num ponto C. Uma reta tangencia estas duas circunferências nos pontos distintos A e B. A área, em m2, do triângulo ABC é: a) ( ) 27 3 b) ( ) 2 3 27</p>
+        <p>c) ( ) 9 3 d) ( ) 27 2 e) ( ) 2 2 27</p>
+        <p>25) (ITA-99) Um triedro tri-retângulo é cortado por um plano que intercepta as três arestas, formando um triângulo com lados medindo 8m, 10m, e 12m. O volume, em m3, do sólido formado é: a) ( ) 15 6 b) ( ) 5 30 c) ( ) 6 15 d) ( ) 30 6 e) ( ) 45 6</p>
+        <p>www.rumoaoita.com</p>
+        <p>Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

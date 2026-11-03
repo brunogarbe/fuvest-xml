@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1991" phase="objective" day="0" variation="V1" date="1991-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1991</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1991 01) (ITA-91) Considere as afirmações: I- Se f: ℜ→ℜ é uma função par e g:ℜ→ℜ uma função qualquer, então a composição gof é uma função par. II- Se f: ℜ→ℜ é uma função par e g: ℜ→ℜ uma função ímpar, então a composição fog é uma função par. III- Se f: ℜ→ℜ é uma função ímpar e inversível então f -1: ℜ→ℜ é uma função ímpar. Então: a) Apenas a afirmação I é falsa; b) Apenas as afirmações I e II são falsas; c) Apenas a afirmação III é verdadeira; d) Todas as afirmações são falsas; e) n.d.a.</p>
+        <p>02) (ITA-91) Sejam a ∈ℜ, a &gt; 1 e f: ℜ→ℜ definida por f(x) = 2 x a x a − − . A função inversa de f é dada por: a) loga(x - 1 2 x −), para x &gt; 1 b) loga(-x + 1 x2 + ), para x ∈ℜ c) loga(x + 1 x2 + ), para x ∈ℜ d) loga(-x + 1 x2 −), para x &lt; -1 e) nda</p>
+        <p>03) (ITA-91) Seja ℜ→ℜ definida por: f(x) =       ≥ &lt; &lt; − ≤ 1 x se , x ln 1 x 0 se , 1 x 0 x se , e 2 x</p>
+        <p>Se D é um subconjunto não vazio de ℜ tal que f: D→ℜ é injetora, então: a) D = ℜ e f(D) = [-1 , +∞[ b) D = ]-∞ , 1] ∪ ]e , +∞[ e f(D) = ]-1 , +∞[ c) D = [0 , +∞[ e f(D) = ]-1 , +∞[ d) D = [0 , e] e f(D) = [-1 , 1] e) n.d.a. Notação: f(D) = {y ∈ ℜ: y = f(x), x ∈ D} e ln x denota o logaritmo neperiano de x. Observação: esta questão pode ser resolvida graficamente.</p>
+        <p>04) (ITA-91) Sejam w = a + bi com b ≠ 0 e a, b, c ∈ℜ. O conjunto dos números complexos z que verificam a equação wz + wz + c = 0, descreve: a) Um par de retas paralelas. b) Uma circunferência. c) Uma elipse. d) Uma reta com coeficiente angular m = b a . e) n.d.a.</p>
+        <p>05) (ITA-91) Se z = cos t + i sen t, onde 0 &lt; t &lt; 2π , então podemos afirmar que w = z 1 z 1 − + é dado por: a) i cotg 2 t b) i tg 2 t c) i cotg t d) i tg t e) n.d.a.</p>
+        <p>06) (ITA-91) Os valores de m de modo que a equação x3 - 6x2 - m2x + 30 = 0 tenha duas de suas raízes somando um, são: a) 0</p>
+        <p>b) 3 e 3</p>
+        <p>c) 1 e -1 d) 2 e -2 e) nda</p>
+        <p>07) (ITA-91) Seja S o conjunto de todas as raízes da equação 12x3 - 16x2 - 3x + 4 = 0 . Podemos afirmar que: a) S ⊂ ]-1 , 0[ ∪ ]0 , 1[ ∪ ]1 , 2[</p>
+        <p>www.rumoaoita.com b) S ⊂ ]-2 , -1[ ∪ ]0 , 1[ ∪ ]3 , 4[ c) S ⊂ [0 , 4] d) S ⊂ ]-2 , -1[ ∪ ]1 , 2[ ∪ ]3 , 4[ e) n.d.a.</p>
+        <p>08) (ITA-91) Considere as afirmações: I- A equação 3x4-10x3 + 10x - 3 = 0 só admite raízes reais. II- Toda equação recíproca admite um número par de raízes. III- As raízes da equação x3 + 4x2 - 4x - 16 = 0. São exatamente o dobro das raízes de x3 + 2x2 - x - 2 = 0 . Então: a) Apenas I é verdadeira. b) Apenas II é falsa. c) Apenas III é verdadeira. d) Todas são verdadeiras. e) n.d.a.</p>
+        <p>09) (ITA-91) Se A = {x ∈ ℜ: |x2 + x + 1| ≤ |x2 + 2x - 3|}, então temos: a) A = [-2 , 2 1 ] ∪ [4 , +∞[ b) A = [ 2 1 , 4] c) A = [-3 , 1] d) A = ]-∞ , -3] ∪ [1, +∞[ e) n.d.a.</p>
+        <p>10) (ITA-91) Na divisão de P(x) = a5x5 + 2x4 + a4x3 + 8x2 - 32x + a3 por x - 1, obteve-se o quociente Q(x) = b4x4 + b3x3 + b2x2 + b1x + b0 e o resto -6. Sabe-se que (b4 , b3 , b2 , b1) é uma progressão geométrica de razão q &gt; 0 e q ≠ 1. Podemos afirmar: a) b3 + a3 = 10 b) b4 + a4 = 6 c) b3 + b0 = 12 d) b4 + b1 = 16 e) n.d.a.</p>
+        <p>11) (ITA-91) Numa progressão geométrica de razão q, sabese que: I- o produto do logaritmo natural do primeiro termo a1 pelo logaritmo natural da razão é 24. II- a soma do logaritmo natural do segundo termo com o logaritmo natural do terceiro termo é 26. Se ln q é um número inteiro então o termo geral 2n vale: a) e6n - 2 b) e4 + 6n c) e24n d) n 6 4 e + e) nda Notação: ln q denota o logaritmo natural (ou neperiano) de q</p>
+        <p>12) (ITA-91) O conjunto dos números reais que verificam a inequação 3logx + log (2x + 3)3 &lt; 3 log 2, é dado por: a) {x ∈ ℜ: x &gt; 0} b) {x ∈ ℜ: 1 ≤ x ≤ 3} c) {x ∈ ℜ: 0 &lt; x ≤ 2 1 } d) {x ∈ ℜ: 2 1 ≤ x &lt; 1} e) n.d.a. Notação: loga denota o logarítimo de a na base 10 13)(ITA-91) Sejam A = ∑ =         n 0 k k 3 n k e B = ∑ − =    − 1 0 11 . 1 n k k k n . Se ln B - ln A = ln 4 6561 então n é igual a: a) 5 b) 6 c) 7 d) 8 e) n.d.a.</p>
+        <p>14) (ITA-91) Uma escola possui 18 professores sendo 7 de Matemática, 3 de Física e 4 de Química. De quantas maneiras podemos formar comissões de 12 professores de modo que cada uma contenha exatamente 5 professores de Matemática, com no mínimo 2 de Física e no máximo 2 de Química ? a) 875 b) 1877 c) 1995 d) 2877 e) n.d.a.</p>
+        <p>15) (ITA-91) Sejam m e n números reais com m ≠ n e as matrizes: A=       5</p>
+        <p>3 1</p>
+        <p>2 ,</p>
+        <p>B =      − 1</p>
+        <p>0</p>
+        <p>1</p>
+        <p>1</p>
+        <p>www.rumoaoita.com Para que a matriz mA + nB seja não inversível é necessário que: a) m e n sejam positivos. b) m e n sejam negativos. c) m e n tenham sinais contrários. d) n2 = 7m2 . e) n.d.a.</p>
+        <p>16) (ITA-91) Sejam M e B matrizes quadradas de ordem n tais que M - M -1 = B. Sabendo que Mt = M -1 podemos afirmar que: a) B2 é a matriz nula.</p>
+        <p>b) B2 = -2I. c) B é simétrica.</p>
+        <p>d) B é anti-simétrica. e) n.d.a. Notações: Mt e M-1 denotam, respectivamente a matriz transposta de M e a matriz inversa de M. Por I denotamos a matriz identidade de ordem n.</p>
+        <p>17) (ITA-91) Considere o sistema: (P)        = + + = + + + = + + = + + 2 kw z x 1 w z )1 k ( x 1 w k ky x 0 w z x 2</p>
+        <p>Podemos afirmar que (P) é possível e determinado quando: a) k ≠ 0 b) k ≠ 1 c) k ≠ -1 d) k ≠ 0 e k ≠ -1 e) n.d.a.</p>
+        <p>18) (ITA-91) Se (x , y , z , t) é solução dos sistema:    = − − − = + + + = − + − 0 t 5 z y x 0 t z 3 y x 3 0 t z 2 y x</p>
+        <p>Qual das alternativas abaixo é verdadeira ? a) x + y + z + t e x tem o mesmo sinal. b) x + y + z + t e t tem o mesmo sinal. c) x + y + z + t e y tem o mesmo sinal. d) x + y + z + t e z tem sinais contrários. e) n.d.a.</p>
+        <p>19) (ITA-91) Um triângulo ABC está inscrito num círculo de raio 3 2 . Sejam a, b e c os lados opostos aos ângulos A, B e C respectivamente. Sabendo que a = 3 2 e (A,B,C) é uma progressão aritmética, podemos afirmar que: a) C = 4 3 e A = 30º b) C = 3 3 e A = 30º c) B = 6 e C = 85º d) B= 3 e C = 90º e) n.d.a. 20) (ITA-91) Se a ∈ ℜ com a &gt; 0 e arc sen 1 a 1 a + − está no primeiro quadrante, então o valor de tg [arc sen 1 a 1 a + − + arc tg a 2 1 ] é: a) a 2 1 a + b) 1 a 3 a a + c) 1 a 3 a a 2 + d) 1 a 3 a 2 + e) n.d.a.</p>
+        <p>21) (ITA-91) Sejam a e b constantes reais positivas. Para que a equação cos3x + (a - 1)cos2x - (a + b)cosx + b = 0 tenhas duas raízes reais distintas no intervalo [0 , 2 π ] devemos ter: a) 0 &lt; b &lt; a - 1 b) 0 &lt; b &lt; a + 1 c) a &lt; b &lt; a + 2 d) a + 1 &lt; b &lt; a + 2 e) n.d.a.</p>
+        <p>22) (ITA-91) Considere a região ao plano cartesiano xy definido pela desigualdade: x2 + y2 - 2x + 4y + 4 &lt; 0. Quando esta região rodar um ângulo de 3 π radianos em torno da reta y + x + 1 = 0, ela irá gerar um sólido cujo volume é igual a: a) 3 4π b) 3 2π c) 3 π d) 9 4π e) n.d.a.</p>
+        <p>23) (ITA-91) As arestas da base de uma pirâmide triangular regular medem l cm e as faces laterais são triângulos retângulos. O volume desta pirâmide é: a) 3 cm 3 6 3 l</p>
+        <p>b) 3 3cm 12 3 l c) 3 3cm 24 3 l</p>
+        <p>d) 3 cm 3 12 2 l</p>
+        <p>e) n.d.a.</p>
+        <p>www.rumoaoita.com</p>
+        <p>24) (ITA-91) Seja r a mediatriz do segmento de reta de extremos M = (-4 , -6) e N = (8 , -2). Seja R o raio da circunferência com centro na origem e que tangencia a reta r. Então: a) R = 3 7 b) R= 3 15 c) R= 3 10 d) R = 5 10 e) n.d.a.</p>
+        <p>25) (ITA-91) Seja C a circunferência dada pela equação x2 + y2 + 2x + 6y + 9 = 0. Se P = (a , b) é o ponto em C mais próximo da origem, então:a) a = - 2 3 e 4b2 + 24b + 15 = 0 b) a = - 2 1 e 4b2 + 24b + 33 = 0 c) a = 10 10 - 1 e b = 3a d) a = - 1 - 10 10 e b = 3a e) n.d.a.</p>
+        <p>www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

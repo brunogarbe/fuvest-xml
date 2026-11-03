@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2000" phase="objective" day="0" variation="V1" date="2000-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>(ITA - 00) . Uma pilha de seis blocos iguais, de mesma massa m, repousa sobre o piso de um elevador, com uma aceleração de módulo a. O módulo da força que o bloco 3 exerce sobre o bloco 2 é dado por:</p>
+        <p>a) 3m(g + a) b) 3m(g - a) c) 2m(g + a) d) 2m(g - a) e) m(2g - a)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>(ITA - 00) . Uma sonda espacial de 1000 kg, vista de um sistema de referência inercial, encontra-se em repouso no espaço. Num determinado instante, seu propulsor é ligado e, durante o intervalo de tempo de 5 segundos, os gases são ejetados a uma velocidade constante, em relação à sonda, de 5000 m/s. No final desse processo, com a sonda movendo-se a 20 m/s, a massa aproximada de gases ejetados é</p>
+        <p>A. 0,8kg B. 4kg C. 5kg D. 20kg E. 25kg</p>
+      </statement>
+    </essay_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA - 00). A figura mostra uma carga positiva q puntiforme próxima de uma barra de metal. O campo elétrico nas vizinhanças da carga puntiforme e da barra está representado pelas linhas de campo mostradas na figura. Sobre o módulo da carga da barra Qbar , comparativamente ao módulo da carga puntiforme positiva q , e sobre a carga líquida da barra Qbar, respectivamente, pode-se concluir que :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>( ) 0 Q e q Q bar bar &gt; &gt;</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>( ) 0 Q e q Q bar bar &lt; &lt;</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>( ) 0 Q e q Q bar bar = =</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>( ) 0 Q e q Q bar bar &lt; &gt;</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>( ) 0 Q e q Q bar bar &gt; &lt;</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="04">
+      <statement>
+        <p>(ITA - 00) Uma certa resistência de fio, utilizada para aquecimento, normalmente dissipa uma potência de 100 W quando funciona a uma temperatura de 100ºC. Sendo de 2 x 10-3K-1 o coeficiente de dilatação térmica do fio, conclui-se que a potência instantânea dissipada pela resistência, quando operada a uma temperatura inicial de 20ºC, é: A. 32 W B. 84 W C. 100 W D. 116 W E. 132 W</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>(ITA - 00) Um fio de densidade linear de carga positiva λ atravessa três superfícies fechadas A, B e C, de formas respectivamente cilíndrica, esférica e cúbica, como mostra a figura. Sabe-se que A tem comprimento L = diâmetro de B = comprimento de um lado de C, e que o raio da base de A é a metade do raio da esfera B. Sobre o fluxo do campo elétrico, φ, através de cada superfície fechada, pode-se concluir que</p>
+        <p>A. φA = φB = φC B. φA &gt; φB &gt; φC C. φA &lt; φB &lt; φC D. φA/2 = φB = φC E. φA = 2 φB = φ</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>(ITA - 00) . Uma onda eletromagnética com um campo elétrico de amplitude E0, freqüência e comprimento de onda nm 550 = λ é vista por um observador, como mostra a figura. Considere as seguintes proposições: I – Se a amplitude do campo elétrico E0 for dobrada, o observador perceberá um aumento do brilho da onda eletromagnética. II – Se a freqüência da onda for quadruplicada, o observador não distinguirá qualquer variação do brilho da onda eletromagnética. III – Se a amplitude do campo for dobrada e a freqüência da onda quadruplicada, então o observador deixará de 1 2 3 4 5 6</p>
+        <p>a</p>
+        <p>www.rumoaoita.com visualizar a onda eletromagnética.</p>
+        <p>Lembrando que a faixa de comprimentos de ondas em que a onda eletromagnética é perceptível ao olho humano, compreende valores de 400nm a 700nm, pode-se afirmar que A. ( ) apenas a II é correta. B. ( ) somente I e II são corretas. C. ( ) todas são corretas. D. ( ) somente II e III são corretas. E. ( ) somente I e III são corretas.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA - 00) . Uma luz não-polarizada de intensidade Ιo ao passar por um primeiro polaróide tem sua intensidade reduzida pela metade, como mostra figura. A luz caminha em direção a um segundo polaróide que tem seu eixo inclinado em um ângulo de 60º em relação ao primeiro. A intensidade de luz que emerge do segundo polaróide é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Ιo</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>0,25 Ιo</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>0,275 Ιo</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>0,5 Ιo</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>0,125 Ιo</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="08">
+      <statement>
+        <p>(ITA - 00) No experimento denominado “anéis de Newton”, um feixe de raios luminosos incide sobre uma lente plano convexa que se encontra apoiada sobre uma lâmina de vidro, como mostra a figura. O aparecimento de franjas circulares de interferência, conhecidas como anéis de Newton, está associado à camada de ar, de espessura d variável, existente entre a lente e a lâmina. Qual deve ser a distância d entre a lente e a lâmina de vidro correspondente à circunferência do quarto anel escuro ao redor do ponto escuro central? (Considere λ o comprimento de onda da luz utilizada).</p>
+        <p>A. 4 λ B. 8 λ C. 9 λ D. 8,5 λ E. 2 λ</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>(ITA - 00). Duas fontes de luz S1 e S2, tem suas imagens formadas sobre um anteparo por uma lente convergente, como mostra a figura. Considere as seguintes proposições: I – Se a lente for parcialmente revestida até 4 3 da sua altura com uma película opaca(conforme a figura), as imagens (I1 de S1, I2 de S2) sobre o anteparo permanecem, mas tornamse menos luminosas. II – Se a lente for parcialmente revestida até 4 3 da sua altura e as fontes forem distanciadas da lente, a imagem I1 desaparece. III – Se as fontes S1 e S2 forem distanciadas da lente, então, para que as imagens não se alterem, o anteparo deve ser deslocado em direção à lente.</p>
+        <p>Então, pode-se afirmar que A. ( ) apenas III é correta. B. ( ) somente I e III são corretas. C. ( ) todas são corretas. D. ( ) somente II e III são corretas. E. ( ) somente I e II são corretas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>(ITA - 00) . Uma lente de vidro de índice de refração n = 1,6 é recoberta com um filme fino, de índice de refração n = 1,3, para minimizar a reflexão de uma certa luz incidente. Sendo o comprimento de onda da luz incidente no ar λar = 500 nm, então a espessura mínima do filme é: A. 78 nm B. 96 nm C. 162 nm D. 200 nm E. 250 nm Ιo 2 0 Ι 60º</p>
+        <p>www.rumoaoita.com</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>(ITA - 00) . O diagrama mostra os níveis de energia (n) de um elétron em um certo átomo. Qual das transições mostradas na figura representa a emissão de um fóton com o menor comprimento de onda?</p>
+        <p>A. I B. II C. III D. IV E. V</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>(ITA - 00). Dobrando-se a energia cinética de um elétron não-relativístico, o comprimento de onda original de sua função de onda fica multiplicado por: A. ( ) 2 1 B. ( ) 2 1 C. ( ) 4 1 D. ( ) 2 E. ( ) 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>(ITA - 00). O ar dentro de um automóvel fechado tem massa de 2,6 kg e calor específico de 720 J/kg ºC. Considere que o motorista perde calor a uma taxa constante de 120 joules por segundo e que o aquecimento do ar confinado se deva exclusivamente ao calor emanado pelo motorista. Quanto tempo levará para a temperatura variar de 2,4 ºC a 37 ºC? A. 540 s B. 480 s C. 420 s D. 360 s E. 300 s</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>(ITA - 00). Quatro lâmpadas idênticas 1, 2, 3 e 4, de mesma resistência R, são conectadas a uma bateria com tensão constante V, como mostra a figura. Se a lâmpada 1 for queimada, então</p>
+        <p>A. A corrente entre A e B cai pela metade e o brilho da lâmpada 3 diminui. B. A corrente entre A e B dobra, mas o brilho da lâmpada 3 permanece constante. C. O brilho da lâmpada 3 diminui, pois a potência drenada da bateria cai pela metade. D. A corrente entre A e B permanece constante, pois a potência drenada da bateria permanece constante. E. A corrente entre A e B e a potência drenada da bateria caem pela metade, mas o brilho da lâmpada 3 permanece constante.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>(ITA - 00). A figura mostra a distribuição de linhas de campo magnético produzidas por duas bobinas idênticas percorridas por correntes de mesma intensidade I e separadas por uma distância ab. Uma espira circular, de raio muito pequeno comparativamente ao raio da bobina, é deslocada com velocidade constante, V r , ao longo do eixo de simetria, Z, permanecendo o plano da espira perpendicular à direção Z.</p>
+        <p>Qual dos gráficos abaixo representa a variação da corrente na espira ao longo do eixo Z ?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>(ITA - 00). Um corpo de massa m desliza sem atrito sobre a superfície plana (e inclinada de um ângulo α em relação à horizontal) de um bloco de massa M sob a ação da mola, mostrada na figura. Esta mola, de constante elástica k e comprimento natural C, tem suas extremidades respectivamente fixadas ao corpo de massa m e ao bloco. Por sua vez, o bloco pode deslizar sem atrito sobre a superfície plana e horizontal em que se apoia. O corpo é puxado até uma posição em que a mola seja distendida elasticamente a um comprimento L (L &gt; C), tal que, ao ser liberado, o corpo passa pela posição em que a força elástica</p>
+        <p>www.rumoaoita.com é nula. Nessa posição o módulo da velocidade do bloco é:</p>
+        <p>A. )] ( sen 1[ M ) sen( ) C L ( mg ) C L ( k 2 1 m 2 2 2 2 α +     α − − −</p>
+        <p>B. )] ( tg 1[ M ) sen( ) C L ( mg ) C L ( k 2 1 m 2 2 2 2 α +     α − − −</p>
+        <p>C. ] M ) ( tg ) M m )[( M m ( ) sen( ) C L ( mg ) C L ( k 2 1 m 2 2 2 + α + +     α − − −</p>
+        <p>D. )] ( tg 1[ M ) C L ( 2 k m 2 2 2 2 α +     − E. 0</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>(ITA - 00). A figura abaixo representa um sistema experimental utilizado para determinar o volume de um líquido por unidade de tempo que escoa através de um tubo capilar de comprimento L e seção transversal de área A. Os resultados mostram que a quantidade desse fluxo depende da variação da pressão ao longo do comprimento L do tubo por unidade de comprimento (∆P/L), do raio do tubo (a) e da viscosidade do fluido (η) na temperatura do experimento. Sabe-se que o coeficiente de viscosidade (η) de um fluido tem a mesma dimensão do produto de uma tensão (força por unidade de área) por um comprimento dividido por uma velocidade. Recorrendo à análise dimensional, podemos concluir que o volume de fluido coletado por unidade de tempo é proporcional a</p>
+        <p>A. L P</p>
+        <p>A ∆ η B. η ∆ 4 a L P C. 4 a</p>
+        <p>P L η ∆ D. A</p>
+        <p>L P η ∆ E. η ∆ 4 a P L</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>(ITA - 00). Um copo de 10 cm de altura está totalmente cheio de cerveja e apoiado sobre uma mesa. Uma bolha de gás se desprende do fundo do copo e alcança a superfície, onde a pressão atmosférica é de 1,01 x 105 Pa. Considere que a densidade da cerveja seja igual a da água pura e que a temperatura e o número de moles do gás dentro da bolha permaneçam constantes enquanto esta sobe. Qual a razão entre o volume final (quando atinge a superfície) e o inicial da bolha ? A. ( ) 1,03 B. ( ) 1,04 C. ( ) 1,05 D. ( ) 0,99 E. ( ) 1,01</p>
+      </statement>
+    </essay_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA - 00). Deixa-se cair continuamente areia de um reservatório a uma taxa de 3,0 kg/s diretamente sobre uma esteira que se move na direção horizontal com velocidade V . Considere que a camada de areia depositada sobre a esteira se locomove com a mesma velocidade V , devido ao atrito. Desprezando a existência de quaisquer outros atritos, conclui-se que a potência em watts, requerida para manter a esteira movendo-se a 4,0 m/s, é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>12</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>24</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>48</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="20">
+      <statement>
+        <p>(ITA - 00). Uma lâmina de material muito leve de massa m está em repouso sobre uma superfície sem atrito. A extremidade esquerda da lâmina está a 1 cm de uma parede. Uma formiga considerada como um ponto, de massa 5 m , está inicialmente em repouso sobre essa extremidade, como mostra a figura. A seguir, a formiga caminha para frente muito lentamente, sobre a lâmina. A que distância d da parede estará a formiga no momento em que a lâmina tocar a parede?</p>
+        <p>A. 2 cm B. 3 cm C. 4 cm D. 5 cm E. 6 cm Reservatório de areia Esteira → V M α M k L Superfície de apoio m</p>
+        <p>www.rumoaoita.com</p>
+      </statement>
+    </essay_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA - 00). Uma casca esférica tem raio interno R1, raio externo R2 e massa M distribuída uniformemente. Uma massa puntiforme m está localizada no interior dessa casca, a uma distância d de seu centro ( R1 &lt; d &lt; R2). O módulo da força gravitacional entre as massas é :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>( ) 0.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>( ) 2 d GMm</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>( ) ) d R /( GMm 3 3 2 −</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>( ) ) R d ( GMm 3 1 3 −</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>( ) ) R R ( d ) R d ( GMm 3 1 3 2 2 3 1 3 − −</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="22">
+      <statement>
+        <p>(ITA - 00). A figura mostra duas regiões nas quais atuam campos magnéticos orientados em sentidos opostos e de magnitude B1 e B2, respectivamente. Um próton de carga q e massa m é lançado do ponto A com uma velocidade V perpendicular às linhas de campo magnético. Após um certo tempo t, o próton passa por um ponto B com a mesma velocidade inicial V (em módulo, direção e sentido). Qual é o menor valor desse tempo?</p>
+        <p>A.       + π 2 1 2 1 B B B B q m B. 1 qB m 2 π C. 2 qB m 2 π D. ) B B ( q m 4 2 1 + π E. 1 qB mπ</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>(ITA - 00). O raio do horizonte de eventos de um buraco negro corresponde à esfera dentro da qual nada, nem mesmo luz, escapa da atração gravitacional por ele exercida. Por coincidência, esse raio pode ser calculado não-relativisticamente como o raio para o qual a velocidade de escape é igual à velocidade da luz. Qual deve ser o raio do horizonte de eventos de um buraco negro com uma massa igual à massa da Terra? A. 9 µm B. 9 mm C. 30 cm D. 90 cm E. 3 km</p>
+      </statement>
+    </essay_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA - 00). Uma bola de 0,50 kg é abandonada a partir do repouso a uma altura de 25 m acima do chão. No mesmo instante, uma segunda bola, com massa de 0,25 Kg, é lançada verticalmente para cima, a partir do chão, com velocidade inicial de 15 m/s. As duas bolas movem-se ao longo de linhas muito próximas, mas que não se tocam. Após 2,0 segundos, a velocidade do centro de massa do sistema constituído pelas duas bolas é de:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>( ) 11 m/s, para baixo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>( ) 11 m/s, para cima.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>( ) 15 m/s, para baixo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>( ) 15 m/s, para cima.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>( ) 20 m/s, para baixo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA - 00). Certos resistores quando expostos à luz variam sua resistência. Tais resistores são chamados LDR (do inglês: “Light Dependent Resistor”). Considere um típico resistor LDR feito de sulfeto de cádmio, o qual adquire uma resistência de aproximadamente 100 Ω quando exposto à luz intensa, e de 1 MΩ quando na mais completa escuridão. Utilizando este LDR e um resistor de resistência fixa R para construir um divisor de tensão, como mostrado na figura, é possível converter a variação da resistência em variação de tensão sobre o LDR, com o objetivo de operar o circuito como um interruptor de corrente (circuito de chaveamento). Para esse fim, desejase que a tensão através do LDR, quando iluminado, seja muito pequena comparativamente à tensão máxima fornecida, e que seja e valor muito próxima ao desta, no caso do LDR não iluminado. Qual dos valores de R abaixo é o mais conveniente para que isso ocorra?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>100 Ω</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1 MΩ</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>10 KΩ</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>10 M Ω</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>10 Ω +6 V 0 V luz LDR B A 1 B 2 B www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

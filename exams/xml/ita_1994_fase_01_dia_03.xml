@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1994" phase="objective" day="0" variation="V1" date="1994-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1994</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1994 01) (ITA-94) Sejam x e y números reais, com x ≠ 0, satisfazendo (x + iy)2 = (x + y)i, então: a) x e y são números irracionais. b) x &gt; 0 e y &lt; 0. c) x é uma raiz da equação x3 + 3x2 + 2x - 6 = 0 d) x &lt; 0 e y = z. e) x2 + xy + y2 = 1/2</p>
+        <p>02) (ITA-94) Considere as afirmações: I- (cosθ + i senθ)10 = cos(10θ) + i.sen(10θ), para todo θ∈ R. II- (5i)/(2 + i) = 1 + 2i III- (1 - i)4 = - 4 IV- Se x2 =( z )2 então z é real ou imaginário puro. V- O polinômio x4 + x3 - x - 1 possui apenas raízes reais. Podemos concluir: a) Todas são verdadeiras. b) Apenas quatro são verdadeiras. c) Apenas três são verdadeiras.</p>
+        <p>d) Apenas duas são verdadeiras. e) Apenas uma é verdadeira.</p>
+        <p>03) (ITA-94) Dadas as funções reais de variável real f(x) = mx + 1 e g(x) = x + m, onde m é uma constante real com 0 &lt; m &lt; 1, considere as afirmações: I- (fog)(x) = (gof)(x), para algum x ∈ R. II- f(m) = g(m) III- Existe a ∈ R tal que (fog)(a) = f(a). IV- Existe b ∈ R tal que (fog)(b) = mb. V- 0 &lt; (gog)(m) &lt; 3 Podemos concluir a) Todas são verdadeiras. b) Apenas quatro são verdadeiras. c) Apenas três são verdadeiras.</p>
+        <p>d) Apenas duas são verdadeiras. e) Apenas uma é verdadeira.</p>
+        <p>04) (ITA-94) A identidade: 1 x x c bx 1 x a 1 1 x 4 x 2 3 3 + − + + + + = + + é válida para todo real x ≠ -1. Então a + b + c é igual a: a) 5 b) 4 c) 3 d) 2 e) 1</p>
+        <p>05) (ITA-94) As raízes da equação de coeficientes reais x3 + ax2 + bx + c = 0 são inteiros positivos consecutivos. A soma dos quadrados dessas raízes é igual a 14. Então a2 + b2 + c2 é igual a: a) 190 b) 191 c) 192 d) 193 e) 194</p>
+        <p>06) (ITA-94) Seja P(x) um polinômio de grau 5, com coeficientes reais, admitindo 2 e i como raízes. Se P(1)P(-1) &lt; 0, então o número de raízes reais de P(x) pertencentes ao intervalo ]-1, 1[ é: a) 0 b) 1 c) 2 d) 3 e) 4</p>
+        <p>07) (ITA-94) Quantas anagramas com 6 caracteres distintos podemos formar usando as letras da palavra QUEIMADO, anagramas estes que contenham duas consoantes e que, entre as consoantes, haja pelo menos uma vogal? a) 7200 b) 7000 c) 4800 d) 3600 e) 2400 08) (ITA-94) No desenvolvimento de 10 2 ) 3 2m 2 3a ( A + = , a razão entre a parcela contendo o fator a16m2 e a parcela contendo o fator a14m3 é igual a 9/16. Se a e m são números reais positivos tais que 5 2 ) 4 m ( A + = então:</p>
+        <p>www.rumoaoita.com a) a .m = 2/3</p>
+        <p>b) a .m = 1/3 c) a + m = 5/2</p>
+        <p>d) a + m = 5 e) a - m = 5/2</p>
+        <p>09) (ITA-94) Seja (a1, a2, .... , an) uma progressão geométrica com um número ímpar de termos e razão q &gt; 0. O produto de seus termos é igual a 225 e o termo do meio é 25. Se a soma dos (n - 1) primeiros termos é igual a 2(1 + q)(1 + q2), então: a) a1 + q = 16 b) a1 + q = 12 c) a1 + q = 10</p>
+        <p>d) a1 + q + n = 20 e) a1 + q + n = 11</p>
+        <p>10) (ITA-94) Sejam A e I matrizes reais quadradas de ordem 2, sendo I a matriz identidade. Por T denotamos o traço de A, ou seja T é a soma dos elementos da diagonal principal de A. Se T ≠ 0 e λ1, λ2 são raízes da equação: det(A - λI) = det(A) - det(λI), então: a) λ1 e λ2 independem de T. b) λ1 . λ2 = T c) λ1 . λ2 =1 d) λ1 + λ2 = T/2 e) λ1 + λ2 = T</p>
+        <p>11) (ITA-94) Sejam A e P matrizes reais quadradas de ordem n tais que A é simétrica(isto é, A = At) e P é ortogonal(isto é, PPt = I = PtP), P diferente da matriz identidade. Se B = PtAP então: a) AB é simétrica. b) BA é simétrica. c) det A = det B</p>
+        <p>d) BA = AB e) B é orgonal.</p>
+        <p>12) (ITA-94) Seja a uma matriz real quadrada de ordem n e B = I - A, onde I denota a matriz identidade de ordem n. supondo que A é inversível e idempotente(isto é, A2 = A) considere as afirmações: I- B é idempotente. II- AB = BA III- B é inversível. IV- A2 + B2 = I V- AB é simétrica. Com respeito a estas afirmações temos: a) Todas são verdadeiras.</p>
+        <p>b) Apenas uma é verdadeira. c) Apenas duas são verdadeiras.</p>
+        <p>d) Apenas três são verdadeiras. e) Apenas quatro são verdadeiras.</p>
+        <p>13) (ITA-94) Sejam x e y números reais, positivos e ambos diferentes de 1, satisfazendo o sistema:       = + = x 1 log y log x log y 1 x 2 y . Então o conjunto (x, y) está contido no intervalo: a) [2, 5] b) ]0, 4[ c) [-1, 2] d) [4, 8[ e) [5, ∞[</p>
+        <p>14) (ITA-94) A expressão trigonométrica</p>
+        <p>2 2 2 2 2 ) x tg 1 ( x tg 4 ) x sen x (cos 1 − − −</p>
+        <p>Para x ∈ ]0, x/2[ , x ≠ π/4, é igual a: a) ) x 2 sen( b) ) x 2 cos( c) 1 d) 0 e) ) x 2 sec(</p>
+        <p>15) (ITA-94) Sejam a, b e c as medidas dos lados de um triângulo e A, B e C os ângulos internos opostos, respectivamente, a cada um destes lados. Sabe-se que a, b, c, neta ordem, formam uma progressão aritmética. Se o perímetro do triângulo mede 15 cm e</p>
+        <p>240 77 c C cos b B cos a A cos = + +</p>
+        <p>Então sua área, em cm2, mede: a) (15 7 )/4 b) (4 5 )/3 c) (4 5 )/5 d) (4 7 )/7 e) (3 5 )/4</p>
+        <p>16) (ITA-94) Seja (a, b, c, d, e) uma progressão geométrica de razão a, com a ≠ 0 e a ≠ 1. Se a soma de seus termos é</p>
+        <p>www.rumoaoita.com igual a (13a + 12) e x é um número real positivo diferente de 1 tal que: + x log 1 a + x log 1 b + x log 1 c + x log 1 d = x log 1 e 2 5 então x é igual a: a) 33 b) 23 c) (5/2)2 d) (5/2)3/2 e) (2/5)2</p>
+        <p>17) (ITA-94) O sistema indicado abaixo, nas incógnitas x, y e z,      = + = + = + + + + 1</p>
+        <p>z 3 - y 3 x 2</p>
+        <p>9z</p>
+        <p>y 5 - x 3 2</p>
+        <p>3z</p>
+        <p>y 9 - x 3 1 a 1a 1 a a 1 a a a a</p>
+        <p>É possível e determinado quando o número a é diferente de: a) log32 e 2 1 (-1 + log25). b) log23 e 2 1 ( log25). c) log21 e 2 1 ( log23). d) 2 1 (-1 + log21) e 2 1 (-1 + log23). e) log31 e 2 1 (-1 + log35).</p>
+        <p>18) (ITA-94) Numa circunferência inscreve-se um quadrilátero convexo ABCD tal que C Bˆ A = 70o. Se x = B Cˆ A</p>
+        <p>+ , C Dˆ B então: a) x = 120o b) x = 110º c) x = 100º d) x = 90º e) x = 80o</p>
+        <p>19) (ITA-94) Um triângulo ABC, retângulo em A, possui área S. Se x = C Bˆ A e r é o raio da circunferência circunscrita a este triângulo, então: a) S = r2cos(2x) b) S = 2r2sen(2x) c) S = 2 1 r2sen(2x) d) S = 2 1 r2cos2x e) S = 2 1 r2sen2x</p>
+        <p>20) (ITA-94) Duas retas r e s são dadas, respectivamente, pelas equações 3x - 4y = 3 e 2x + y = 2. Um ponto P pertencente à reta s tem abcissa positiva e dista 22 unidades de medida da reta r. Se ax + by + c = 0 é a equação da reta que contém P e é paralela a r, então a + b + c é igual a : a) –132 b) –126 c) –118 d) –114 e) -112</p>
+        <p>21) (ITA-94) Um triângulo equilátero é tal que A: (0, 3), B: (3 3 ,0) e a abcissa do ponto C é maior que 2. A circunferência circunscrita a este triângulo tem raio r e centro em O: (a, b). Então a2 + b2 + r2 é igual a: a) 31 b) 32 c) 33 d) 34 e) 35</p>
+        <p>22)(ITA-94) Um prisma regular hexagonal tem como altura o dobro da aresta da base. A razão entre o volume deste prisma e o volume do cone reto, nele inscrito, é igual a: a) (6 2 )/π b) (9 2 )/π c) (3 6 )/π</p>
+        <p>d) (6 3 )/π e) (9 3 )/π</p>
+        <p>23) (ITA-94) Um tetraedro regular tem área total igual a 6 3 cm2. Então sua altura, em cm, é igual a: a) 2 b) 3 c) 2 2 d) 3 2 e) 2 3</p>
+        <p>24) (ITA-94) Num cilindro circular reto sabe-se que a altura h e o raio da base r são tais que os números π, h, r formam, nesta ordem, uma progressão aritmética de soma 6π. O valor da área total deste cilindro é: a) π3 b) 2π3 c) 15π3 d) 20π3 e) 30π3</p>
+        <p>25) (ITA-94) Um tronco de pirâmide regular tem como bases triângulos equiláteros, cujos lados medem, respectivamente, 2 cm e 4 cm. Se a aresta lateral do tronco mede 3 cm, então o valor de sua altura h, em cm, é tal que: a) 7 &lt; h &lt; 8 b) 6 &lt; h &lt; 7 c) 2 3 &lt; h &lt; 3 3 d) 1 &lt; h &lt; 2 e) 2 2 &lt; h &lt; 3 2</p>
+        <p>www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1999" phase="discursive" day="1" variation="V1" date="1999-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O gráfico abaixo descreve o deslocamento vertical y, para baixo, de um surfista aéreo de massa igual a 75 kg, em função do tempo t. A origem y=0, em t=0, é tomada na altura do salto. Nesse movimento, a força R de resistência do ar é proporcional ao quadrado da velocidade v do surfista (R=kv2, onde k é uma constante que depende principalmente da densidade do ar e da geometria do surfista). A velocidade inicial do surfista é nula; cresce com o tempo, por aproximadamente 10s, e tende para uma velocidade constante denominada velocidade limite (vL ). Determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O valor da velocidade limite vL.</p>
+        </part>
+        <part>
+          <p>O valor da constante k no SI.</p>
+        </part>
+        <part>
+          <p>A aceleração do surfista quando sua velocidade é a metade da velocidade limite.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre a parte horizontal da superfície representada na figura, encontra-se parado um corpo B de massa M, no qual está presa uma mola ideal de comprimento natural L0 e constante elástica k. Os coeficientes de atrito estático e dinâmico, entre o corpo B e o plano, são iguais e valem µ. Um outro corpo A, também de massa M, é abandonado na parte inclinada. O atrito entre o corpo A e a superfície é desprezível. Determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A máxima altura h0, na qual o corpo A pode ser abandonado, para que, após colidir com o corpo B, retorne até a altura original h0.</p>
+        </part>
+        <part>
+          <p>O valor da deformação X da mola, durante a colisão, no instante em que os corpos A e B têm a mesma velocidade, na situação em que o corpo A é abandonado de uma altura H&gt;h0. (Despreze o trabalho realizado pelo atrito durante a colisão). FUVEST 1999 – Prova de Física - 2 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na figura 1 estão representados um tubo vertical, com a extremidade superior aberta, e dois cilindros maciços Q e R. A altura do tubo é H=6,0m e a área de sua secção transversal interna é S=0,010m2. Os cilindros Q e R têm massa M=50kg e altura h=0,5m, cada um. Eles se encaixam perfeitamente no tubo, podendo nele escorregar sem atrito, mantendo uma vedação perfeita. Inicialmente, o cilindro Q é inserido no tubo. Após ele ter atingido a posição de equilíbrio y1, indicada na figura 2, o cilindro R é inserido no tubo. Os dois cilindros se deslocam então para as posições de equilíbrio indicadas na figura 3. A parede do tubo é tão boa condutora de calor que durante todo o processo a temperatura dentro do tubo pode ser considerada constante e igual à temperatura ambiente T0. Sendo a pressão atmosférica P0=105Pa (1 Pa = 1N/m2), nas condições do experimento, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A altura de equilíbrio inicial y1 do cilindro Q.</p>
+        </part>
+        <part>
+          <p>A pressão P2 do gás aprisionado pelo cilindro Q e a altura de equilíbrio final y2 do cilindro Q, na situação da Fig.3.</p>
+        </part>
+        <part>
+          <p>A distância y3 entre os dois cilindros, na situação da Fig.3.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um pêndulo, constituído de uma pequena esfera, com carga elétrica q=+2,0 x 10-9C e massa m=3 3 × 10-4kg, ligada a uma haste eletricamente isolante, de comprimento d=0,40m, e massa desprezível, é colocado num campo elétrico constante Er (Er =1,5 × 10+6N/C). Esse campo é criado por duas placas condutoras verticais, carregadas eletricamente. O pêndulo é solto na posição em que a haste forma um ângulo α=30º com a vertical (ver figura) e, assim, ele passa a oscilar em torno de uma posição de equilíbrio. São dados sen30º=1/2; sen45º= 2 /2; sen60º= 3 /2. Na situação apresentada, considerandose desprezíveis os atritos, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Os valores dos ângulos α1, que a haste forma com a vertical, na posição de equilíbrio, e α2, que a haste forma com a vertical na posição de máximo deslocamento angular. Represente esses ângulos na figura dada.</p>
+        </part>
+        <part>
+          <p>A energia cinética K, da esfera, quando ela passa pela posição de equilíbrio. FUVEST 1999 – Prova de Física - 3 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando água pura é cuidadosamente resfriada, nas condições normais de pressão, pode permanecer no estado líquido até temperaturas inferiores a 0°C, num estado instável de “superfusão”. Se o sistema é perturbado, por exemplo, por vibração, parte da água se transforma em gelo e o sistema se aquece até se estabilizar em 0°C. O calor latente de fusão da água é L = 80 cal/g. Considerando-se um recipiente termicamente isolado e de capacidade térmica desprezível, contendo um litro de água a –5,6°C, à pressão normal, determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A quantidade, em g, de gelo formada, quando o sistema é perturbado e atinge uma situação de equilíbrio a 0°C.</p>
+        </part>
+        <part>
+          <p>A temperatura final de equilíbrio do sistema e a quantidade de gelo existente (considerando-se o sistema inicial no estado de “superfusão” a –5,6ºC), ao colocar-se, no recipiente, um bloco metálico de capacidade térmica C=400cal/ºC, na temperatura de 91°C.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A figura representa, no plano do papel, uma região quadrada em que há um campo magnético uniforme de intensidade B=9,0 tesla, direção normal à folha e sentido entrando nela. Considere, nesse plano, o circuito com resistência total de 2,0Ω, formado por duas barras condutoras e paralelas MN e PQ e fios de ligação. A barra PQ é fixa e a MN se move com velocidade constante v=5,0m/s. No instante t=0s a barra MN se encontra em x=0m. Supondo que ela passe por cima da barra PQ (sem nela encostar) e que os fios não se embaralhem,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>determine o valor ε, em volt, da força eletromotriz induzida no circuito quando MN está em x=1,0m.</p>
+        </part>
+        <part>
+          <p>determine o valor F da força que age sobre a barra MN quando ela está em x=1,0m, devida à interação com o campo Br .</p>
+        </part>
+        <part>
+          <p>represente num gráfico o valor da força F aplicada à barra MN, devida à interação com o campo Br , em função da posição x, no intervalo 0&lt;x&lt;3,0m, indicando com clareza as escalas utilizadas. FUVEST 1999 – Prova de Física - 4 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No circuito da figura, o componente D, ligado entre os pontos A e B, é um diodo. Esse dispositivo se comporta, idealmente, como uma chave controlada pela diferença de potencial entre seus terminais. Sejam VA e VB as tensões dos pontos A e B, respectivamente. Se VB&lt;VA, o diodo se comporta como uma chave aberta, não deixando fluir nenhuma corrente através dele, e se VB≥VA, o diodo se comporta como uma chave fechada, de resistência tão pequena que pode ser desprezada, ligando o ponto B ao ponto A. O resistor R tem uma resistência variável de 0 a 2 Ω. Nesse circuito, determine o valor da:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Corrente i através do resistor R, quando a sua resistência é 2Ω.</p>
+        </part>
+        <part>
+          <p>Corrente i0 através do resistor R, quando a sua resistência é zero.</p>
+        </part>
+        <part>
+          <p>Resistência R para a qual o diodo passa do estado de condução para o de não-condução e vice-versa.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um tubo em forma de U, graduado em centímetros, de pequeno diâmetro, secção constante, aberto nas extremidades, contém dois líquidos I e II, incompressíveis, em equilíbrio, e que não se misturam. A densidade do líquido I é ρI=1.800 kg/m3 e as alturas hI=20cm e hII=60cm, dos respectivos líquidos, estão representadas na figura. A pressão atmosférica local vale P0=105N/m2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o valor da densidade ρII do líquido II.</p>
+        </part>
+        <part>
+          <p>Faça um gráfico quantitativo da pressão P nos líquidos, em função da posição ao longo do tubo, utilizando os eixos desenhados acima. Considere zero (0) o ponto médio da base do tubo; considere valores positivos as marcas no tubo à direita do zero e negativos, à esquerda.</p>
+        </part>
+        <part>
+          <p>Faça um gráfico quantitativo da pressão P’ nos líquidos, em função da posição ao longo do tubo, na situação em que, através de um êmbolo, empurra-se o líquido II até que os níveis dos líquidos nas colunas se igualem, ficando novamente em equilíbrio. Utilize os mesmos eixos do item b. FUVEST 1999 – Prova de Física - 5 -</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A foto foi publicada recentemente na imprensa, com a legenda: “REFLEXOS”: Yoko Ono “ENTRA” em uma de suas obras. Um estudante, procurando entender como essa foto foi obtida, fez o esquema mostrado na folha de resposta, no qual representou Yoko Ono, vista de cima, sobre um plano horizontal e identificada como o objeto O. A letra d representa seu lado direito e a letra e seu lado esquerdo. A câmara fotográfica foi representada por uma lente L, delgada e convergente, localizada no ponto médio entre O e o filme fotográfico. Ela focaliza as 5 imagens (I0, I1, I2, I1’ e I2’, todas de mesmo tamanho) de O sobre o filme. Assim, no esquema apresentado na folha de resposta:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Represente um ou mais espelhos planos que possibilitem obter a imagem I1. Identifique cada espelho com a letra E.</p>
+        </part>
+        <part>
+          <p>Represente um ou mais espelhos planos que possibilitem obter a imagem I1’. Identifique cada espelho com a letra E’.</p>
+        </part>
+        <part>
+          <p>Trace, com linhas cheias, as trajetórias de 3 raios, partindo do extremo direito (d) do objeto O e terminando nos correspondentes extremos das três imagens I0, I1 e I2. Os prolongamentos dos raios, usados como auxiliares na construção, devem ser tracejados.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um veículo para competição de aceleração (drag racing) tem massa M=1100kg, motor de potência máxima P=2,64x106W (~3.500 cavalos) e possui um aerofólio que lhe imprime uma força aerodinâmica vertical para baixo, Fa, desprezível em baixas velocidades. Tanto em altas quanto em baixas velocidades, a força vertical que o veículo aplica à pista horizontal está praticamente concentrada nas rodas motoras traseiras, de 0,40m de raio. Os coeficientes de atrito estático e dinâmico, entre os pneus e a pista, são iguais e valem µ=0,50. Determine:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>A máxima aceleração do veículo quando sua velocidade é de 120m/s, (432km/h), supondo que não haja escorregamento entre as rodas traseiras e a pista. Despreze a força horizontal de resistência do ar.</p>
+        </part>
+        <part>
+          <p>O mínimo valor da força vertical Fa, aplicada ao veículo pelo aerofólio, nas condições da questão anterior.</p>
+        </part>
+        <part>
+          <p>A potência desenvolvida pelo motor no momento da largada, quando: a velocidade angular das rodas traseiras é ω=600rad/s, a velocidade do veículo é desprezível e as rodas estão escorregando (derrapando) sobre a pista. FUVEST 1999 – Prova de Física - 6 - Figura da Questão 9</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1998" phase="discursive" day="1" variation="V1" date="1998-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A vitamina C é muito utilizada como aditivo de alimentos processados. Sua propriedade antioxidante se deve à capacidade de ser oxidada pelo oxigênio do ar, protegendo da oxidação outras substâncias presentes nos alimentos. Um certo alimento processado, inicialmente embalado a vácuo, é aberto e armazenado sob duas condições diferentes: I) em refrigerador a 4ºC; II) em armário fechado à temperatura ambiente (25ºC).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Mostre em um gráfico como varia o teor de vitamina C com o tempo para cada uma dessas condições. Identifique as curvas e explique comparativamente o comportamento delas.</p>
+        </part>
+        <part>
+          <p>Além da capacidade de reagir com o oxigênio do ar, dê duas outras características que uma substância deve apresentar para poder ser utilizada como substituto da vitamina C em alimentos processados.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A obtenção do peróxido de hidrogênio em escala industrial é feita através da reação de oxidação pelo ar do 2etilantraquinol dissolvido em uma mistura de solventes orgânicos, formando-se 2-etilantraquinona e peróxido de hidrogênio. Este é extraído por adição de água à mistura de reação. A 2-etilantraquinona é reduzida ao 2-etilantraquinol por hidrogenação catalítica e reciclada no processo. A mistura de solventes orgânicos empregada deve ter, entre outras, as seguintes características: Idissolver tanto o 2-etilantraquinol quanto a 2etilantraquinona, IIser imiscível com a água.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Justifique cada uma dessas características que a mistura de solventes deve apresentar, considerando em I as etapas de oxidação e hidrogenação e em II a etapa de separação do H2O2.</p>
+        </part>
+        <part>
+          <p>A mistura de solventes deve ser resistente ao processo de oxidação e ao de redução? Explique. hidrogenação catalítica + H2O2 O O C2H5 O2 C2H5 OH OH FUVEST 98 – SEGUNDA FASE – PROVA DE QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O composto C6H5N2Cl reage quantitativamente com água, a 40ºC, ocorrendo a formação de fenol, ácido clorídrico e liberação de nitrogênio: C6H5N2Cl (aq) + H2O(l) → C6H5OH(aq) + HCl (aq) + N2(g) Em um experimento, uma certa quantidade de C6H5N2Cl foi colocada em presença de água a 40ºC e acompanhou-se a variação da concentração de C6H5N2Cl com o tempo. A tabela abaixo mostra os resultados obtidos: conc./mol L1 0,80 0,40 0,20 0,10 tempo / min zero 9,0 18,0 27,0</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Partindo-se de 500 mL da solução de C6H5N2Cl e coletando-se o nitrogênio (isento de umidade) à pressão de 1 atm e 40ºC, qual o volume obtido desse gás decorridos 27 minutos? Mostre com cálculos.</p>
+        </part>
+        <part>
+          <p>A partir dos dados da tabela pode-se mostrar que a velocidade da reação é dada pela expressão: v = k[C6H5N2Cl] Demonstre esse fato utilizando os dados da tabela. Sugestão: calcule a velocidade média nas concentrações 0,60 e 0,30 mol/L. Volume molar de gás a 1 atm e 40ºC = 26 L/mol</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando se adiciona ácido sulfúrico concentrado a um frasco contendo NaCl sólido, forma-se HCl gasoso. Se o frasco contiver também MnO2 sólido, forma-se Cl2 gasoso. Entretanto, se o frasco contiver NaBr sólido (ao invés de NaCl) vai se formar Br2 líquido, tanto na reação com ácido sulfúrico concentrado quanto na reação com MnO2 e ácido sulfúrico concentrado.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Qual dos reagentes, H2SO4 ou MnO2 em meio ácido, deve ser melhor oxidante? Explique seu raciocínio, com base nos experimentos relatados.</p>
+        </part>
+        <part>
+          <p>Cloreto de sódio reage com bromo líquido produzindo brometo de sódio e cloro gasoso? Explique com base nos fatos experimentais relatados. FUVEST 98 – SEGUNDA FASE – PROVA DE QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a estrutura cíclica da glicose, em que os átomos de carbono estão numerados: O amido é um polímero formado pela condensação de moléculas de glicose, que se ligam, sucessivamente, através do carbono 1 de uma delas com o carbono 4 de outra (ligação "1-4").</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Desenhe uma estrutura que possa representar uma parte do polímero, indicando a ligação "1-4" formada.</p>
+        </part>
+        <part>
+          <p>Cite uma outra macromolécula que seja polímero da glicose.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O carbamato de amônio sólido, NH4OCONH2, se decompõe facilmente formando os gases NH3 e CO2. Em recipiente fechado estabelece-se o equilíbrio: A 20ºC, a constante desse equilíbrio, em termos de concentração mol/L, é igual a 4 x 10-9.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Um recipiente de 2 L, evacuado, contendo inicialmente apenas carbamato de amônio na quantidade de 4 x 10-3 mol foi mantido a 20ºC até não se observar mais variação de pressão. Nessas condições, resta algum sólido dentro do recipiente? Justifique com cálculos.</p>
+        </part>
+        <part>
+          <p>Para a decomposição do carbamato de amônio em sistema fechado, faça um gráfico da concentração de NH3 em função do tempo, mostrando a situação de equilíbrio. NH4OCONH2(s) 2NH3(g) + CO2(g) FUVEST 98 – SEGUNDA FASE – PROVA DE QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="07">
+      <statement>
+        <p>Uma indústria utiliza etileno e benzeno como matérias-primas e sintetiza estireno (fenileteno) como produto, segundo a rota esquematizada abaixo:I) etileno + HCl → cloroetano AlCl3II) cloroetano + benzeno → etilbenzeno + HCl catalisadorIII) etilbenzeno → estireno + H2a) Escreva as equações químicas que representam duas das transformações acima usando fórmulas estruturais. b) No fluxograma abaixo, qual a matéria-prima X mais provável da indústria A e qual pode ser o produto Y da indústria C?</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um tipo de bafômetro usado pela polícia rodoviária para medir o grau de embriaguez dos motoristas consiste em uma pilha eletroquímica que gera corrente na presença de álcool (no ar expirado) devido à reação: 2CH3CH2OH(g) + O2(g) → 2CH3CHO(g) + 2H2O (l) O "suspeito" sopra através de um tubo para dentro do aparelho onde ocorre, se o indivíduo estiver alcoolizado, a oxidação do etanol à etanal e a redução do oxigênio à água, em meio ácido e em presença de catalisador (platina).</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Sabendo-se que a semi-reação que ocorre em um dos eletrodos é: CH3CH2OH → CH3CHO + 2H+ + 2eescreva a semi-reação que ocorre no outro eletrodo.</p>
+        </part>
+        <part>
+          <p>Sendo o 1 E e o 2 E , respectivamente, os potenciais padrão de redução, em meio ácido, dos eletrodos (CH3CHO, CH3CH2OH) e (O2, H2O), para que a reação da pilha ocorra é necessário que o 1 E seja maior ou menor do que o 2 E ? Explique. FUVEST 98 – SEGUNDA FASE – PROVA DE QUÍMICA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em determinadas condições, ésteres sofrem reação de hidrólise formando ácido e álcool: R, R' = radicais alquila ou arila Hipoteticamente, tanto a ligação C-O do grupo carboxila quanto a ligação C-O do grupo O-R' poderiam ser quebradas para dar origem aos produtos. Sabe-se no entanto, que uma delas é preferencialmente quebrada.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Usando como exemplo a reação de hidrólise do benzoato de etila (C6H5COOC2H5), explique porque fazendo a reação com água marcada H2O* (água com isótopo oxigênio-18) poder-se-ia identificar qual das duas ligações C-O é quebrada.</p>
+        </part>
+        <part>
+          <p>Os ésteres podem ser obtidos a partir da reação do anidrido do ácido com o álcool apropriado. Para se obter o benzoato de etila, deve-se partir do anidrido acético ou do anidrido benzóico? Explique, dando a equação da reação correspondente.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="10">
+      <statement>
+        <p>Em 1986 foi sintetizada uma nova variedade alotrópica do carbono que apresenta uma estrutura esférica oca semelhante a de uma bola de futebol. Sua fórmula molecular é C60 e os átomos de carbono estão ligados entre si de modo a formar faces hexagonais e faces pentagonais, com os carbonos nos seus vértices. Ao contrário do diamante, esse novo alótropo, "futeboleno", é macio (bem menos duro) e solúvel em solventes aromáticos, tais como benzeno e tolueno. Estrutura parcial do "futeboleno" Correlacione essas propriedades macroscópicas do diamante e do "futeboleno" com os tipos de ligação química presentes em cada um desses alótropos. Especifique, quando for o caso, se a ligação é do tipo inter ou intramolecular.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

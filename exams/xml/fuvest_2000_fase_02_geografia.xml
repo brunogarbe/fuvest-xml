@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2000" phase="discursive" day="1" variation="V1" date="2000-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>O que são as Terras de Negros no Brasil?</p>
+        </part>
+        <part>
+          <p>Explique sua distribuição geográfica no país. Terras de Negros no Brasil - 1997 (Adap. Carril: 1997)</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A tundra e a taiga desenvolvem-se em zonas de alta latitude e, caracteristicamente, nas proximidades dos círculos polares.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Descreva a tundra, a taiga e o tipo de exploração que se faz delas.</p>
+        </part>
+        <part>
+          <p>Analise os riscos de degradação que as afetam. FUVEST 2000 - 2a Fase - Geografia - 05/01/2000 Página 2 de 5</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No ciclo hidrológico natural, a água de chuva percorre três caminhos: a evaporação, a infiltração e o escoamento superficial. Em áreas urbanas, a densidade de edificações interfere no volume de água de chuva que percorre cada um desses caminhos. Trajetória da água pluvial em Porto Alegre Urbanização Evaporação Infiltração Escoamento área não urbanizada 40% 50% 10% densidade baixa 38% 42% 20% densidade média 35% 35% 30% densidade alta 30% 15% 55% (Adap. Atlas Ambiental de Porto Alegre: 1998) A tabela acima apresenta situações diversas quanto ao grau de urbanização e aos caminhos da água de chuva na cidade de Porto Alegre. Tomando como base o exemplo da capital gaúcha:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>explique as variações nos índices de escoamento superficial em função da densidade da urbanização.</p>
+        </part>
+        <part>
+          <p>mencione e explique pelo menos dois riscos ambientais relacionados à variação do volume de escoamento superficial em áreas urbanizadas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As novas formas de organização da produção industrial foram chamadas por alguns autores de pós-fordismo, para diferenciálas da produção fordista.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Apresente dois aspectos do processo industrial fordista e dois do pós-fordista.</p>
+        </part>
+        <part>
+          <p>Caracterize o espaço industrial no fordismo e no pósfordismo. FUVEST 2000 - 2a Fase - Geografia - 05/01/2000 Página 3 de 5</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>“... e ostentou-se aos nossos olhos um profundo vale alegre... . O próprio vale... estende-se entre as últimas vertentes da Serra do Mar e da... Mantiqueira, para o Sul. O Paraíba corre nele, depois de sair dos estreitos vales da primeira cadeia de montanhas, e toma em Jacareí direção justamente oposta à anterior” (Adap. Spix e Martius: 1823) O texto acima reproduz a impressão causada pelo vale do Rio Paraíba do Sul aos viajantes que, vindos do Rio de Janeiro, o avistavam a partir de seu extremo NE. A partir do mapa, do texto e do perfil A - B,</p>
+      </statement>
+      <parts>
+        <part>
+          <p>identifique no mapa as unidades de relevo I, II e III e mencione os processos que deram origem a elas.</p>
+        </part>
+        <part>
+          <p>analise o papel do relevo na distribuição das precipitações pluviométricas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>Analise e compare a produção de petróleo no Brasil e na Venezuela, destacando a atuação do Estado e a localização das reservas conhecidas, nos dois países. FUVEST 2000 - 2a Fase - Geografia - 05/01/2000 Página 4 de 5</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base no mapa abaixo, analise:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a diversidade religiosa da população da Índia.</p>
+        </part>
+        <part>
+          <p>as implicações políticas da distribuição dos grupos religiosos no país.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Relacione a modernização da agricultura brasileira:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>à infra-estrutura de transportes no Brasil.</p>
+        </part>
+        <part>
+          <p>à degradação do solo agrícola e à poluição dos recursos hídricos. FUVEST 2000 - 2a Fase - Geografia - 05/01/2000 Página 5 de 5</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>Considerando os dados da tabela abaixo, analise a dinâmica da indústria de veículos no Brasil. Justifique as variações no total de empregados nesse ramo industrial. Brasil – Indústria de veículos - Produção, Exportação e Empregos 1970 – 1997 (números absolutos) Ano Produção (em unidades) Exportação (em unidades) Total de Empregados 1970 416.089 409 65.902 1980 1.165.174 157.085 133.683 1990 914.466 187.311 117.396 1997 2.069.703 416.872 106.985 (Fonte: Anuário Estatístico da ANFAVEA: 1998)</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ao longo da década de 1990, ocorreram conflitos armados na Iugoslávia e na Indonésia.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Identifique, em cada um desses países, um dos conflitos ocorridos e analise os interesses em jogo.</p>
+        </part>
+        <part>
+          <p>Comente a atuação da ONU em cada um dos conflitos apontados na resposta ao item a.</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

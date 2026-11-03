@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1997" phase="discursive" day="1" variation="V1" date="1997-01-01" lang="pt-br">
+  <question_group>
+    <discursive_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a função f dada por f(x) x 5 12 x 1 x 9 x 1 5 x = + − + + + −</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine o domínio de f.</p>
+        </part>
+        <part>
+          <p>Resolva a inequação f(x)&gt;0.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os trabalhos da diretoria de um clube são realizados por seis comissões. Cada diretor participa exatamente de duas comissões e cada duas comissões têm exatamente um diretor comum.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantos diretores tem o clube?</p>
+        </part>
+        <part>
+          <p>Escolhendo-se, ao acaso, dois diretores, qual é a probabilidade de que eles sejam de uma mesma comissão? PROVA DE MATEMÁTICA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere um triângulo ABC tal que a altura BH seja interna ao triângulo e os ângulos BAH $ e HBC $ sejam congruentes.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine a medida do ângulo ABC $ .</p>
+        </part>
+        <part>
+          <p>Calcule a medida de AC, sabendo que AB = 4 cm e a razão entre as áreas dos triângulos ABH e BCH é igual a 2.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Seja o sistema</p>
+        <p>x + 2y - z = 0 x my 3z 0 x 3y mz m − − = + + =   </p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine todos os valores de m para os quais o sistema admite solução.</p>
+        </part>
+        <part>
+          <p>Resolva o sistema, supondo m = 0. PROVA DE MATEMÁTICA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No paralelepípedo reto retângulo mostrado na figura, AB = 2 cm e AD = AE = 1 cm. Seja X um ponto de AB e x a medida de AX.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Para que valor de x, CX = XH?</p>
+        </part>
+        <part>
+          <p>Para que valor de x, CXH $ é reto?</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="06">
+      <statement>
+        <p>ABC é um triângulo retângulo em A e CX é bissetriz do ângulo BCA $ , onde X é ponto do lado AB. A medida de CX é 4 cm e a de BC, 24 cm. Calcule a medida de AC. PROVA DE MATEMÁTICA – FUVEST 1997 – SEGUNDA FASE</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere as circunferências que passam pelos pontos (0,0) e (2,0) e que são tangentes à reta y = x + 2.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine as coordenadas dos centros dessas circunferências.</p>
+        </part>
+        <part>
+          <p>Determine os raios dessas circunferências.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Suponha que o polinômio do 3o grau P(x) = x x mx n 3 2 + + + , onde m e n são números reais, seja divisível por x 1 − .</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Determine n em função de m.</p>
+        </part>
+        <part>
+          <p>Determine m para que P(x) admita raiz dupla diferente de 1.</p>
+        </part>
+        <part>
+          <p>Que condições m deve satisfazer para que P(x) admita três raízes reais e distintas? PROVA DE MATEMÁTICA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>Do conjunto de todos os números naturais n, n 200 ≤ , retiram-se os múltiplos de 5 e, em seguida, os múltiplos de 6. Calcule a soma dos números que permanecem no conjunto.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p></p>
+      </statement>
+      <parts>
+        <part>
+          <p>Dados AB e um segmento de medida r, construa, usando régua e compasso, um triângulo isósceles sabendo que sua base é AB e o raio da circunferência inscrita nesse triângulo é r.</p>
+        </part>
+        <part>
+          <p>Descreva as construções feitas.</p>
+        </part>
+        <part>
+          <p>Justifique o porquê de cada construção. PROVA DE MATEMÁTICA – FUVEST 1997 – SEGUNDA FASE</p>
+        </part>
+      </parts>
+    </discursive_question>
+  </question_group>
+</exam>

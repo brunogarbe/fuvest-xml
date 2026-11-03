@@ -1,0 +1,2026 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="2027" phase="objective" day="1" variation="V1" date="2026-11-01" lang="pt-br">
+  <question_group>
+    <context>
+      <p>Eu canto em português errado Acho que o imperfeito não participa do passado Troco as pessoas, troco os pronomes.</p>
+      <cite>Legião Urbana. Meninos e Meninas.</cite>
+    </context>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A letra de Renato Russo menciona usos intencionais da língua que se afastam da norma-padrão para produzir efeitos expressivos. As alternativas a seguir são excertos de canções da banda Legião Urbana. Assinale aquela em que o verbo no imperativo, dirigido ao interlocutor <q>você</q>, está corretamente empregado segundo a norma-padrão do português.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <verse>
+          <stanza>
+				<l>Vou passar, quero ver</l>
+                <l>Volta aqui, vem você</l>
+                <l>Como foi?</l>
+                <l>Nem sentiu</l>
+                <l>Se era falso ou fevereiro 1965</l>
+          </stanza>
+          </verse>
+          <cite>(Duas Tribos)</cite>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Já que você não está aqui O que posso fazer é cuidar de mim Quero ser feliz ao menos Lembra que o plano era ficarmos bem? Ei, olha só o que eu achei, Cavalos-marinhos Vento no Litoral</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Jeremias, eu sou homem, coisa que você não é E não atiro pelas costas não Olha pra cá filho da puta, sem-vergonha Dá uma olhada no meu sangue e vem sentir o teu perdão Faroeste Caboclo</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Vai, se você precisa ir Não quero mais brigar esta noite Nossas acusações infantis E palavras mordazes que machucam tanto Não vão levar a nada, como sempre Quando Você Voltar</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A noite acabou, talvez tenhamos que fugir sem você Mas não, não vá agora, quero honras e promessas Lembranças e histórias Somos pássaro novo longe do ninho Eu sei Eu Sei #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Embora o eu lírico afirme cantar em “português errado”, a alternância entre pessoas gramaticais é frequente no português brasileiro contemporâneo. Do ponto de vista linguístico, esse fenômeno é recorrente no uso coloquial porque</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>resulta de variação e mudança no sistema pronominal e nos padrões de concordância do português brasileiro, condicionadas por fatores sociais, regionais e situacionais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o sistema pronominal do português brasileiro delimita o uso do “tu” a contextos formais, com verbos flexionados na segunda pessoa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a norma-padrão a legitima, desde que o contexto comunicativo seja informal e o texto pertença ao domínio artístico ou literário.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a alternância decorre de condicionamentos prosódicos da oralidade, constituindo um fenômeno de caráter fonológico.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o sistema de flexão pessoal dos verbos está sendo progressivamente substituído por formas invariáveis no português brasileiro. #####</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nunca me esquecerei desse acontecimento na vida de minhas retinas tão fatigadas. Nunca me esquecerei que no meio do caminho tinha uma pedra tinha uma pedra no meio do caminho no meio do caminho tinha uma pedra.</p>
+        <p>Carlos Drummond de Andrade. No meio do caminho.</p>
+        <p>O que agora parece claro e evidente para mim é que nem o futuro, nem o passado existem, e é impróprio dizer que há três tempos: passado, presente e futuro. Talvez fosse mais correto dizer: há três tempos: o presente do passado, o presente do presente e o presente do futuro. E essas três espécies de tempos existem em nossa mente, e não as vejo em outra parte. O presente do passado é a memória; o presente do presente é a percepção direta; o presente do futuro é a esperança. Se me é lícito falar assim, vejo e confesso que há três tempos. Diga-se também que são três os tempos: presente, passado e futuro, como abusivamente afirma o costume.</p>
+        <p>Agostinho. Confissões, capítulo XX (Adaptado).</p>
+        <p>Articulando os dois textos, torna-se possível compreender a experiência do eu lírico em relação à pedra, descrita no célebre poema de Drummond. Qual das alternativas a seguir NÃO é coerente com essa compreensão?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A pedra, em certo sentido, ainda está presente para o eu lírico, embora não na forma de uma presença objetiva.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A pedra se mantém presente a partir de um passado que o eu lírico conserva consigo, mediado pela memória.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A pedra é prospectada pelo eu lírico, guarda relação com o passado e permanece constantemente presente para ele.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A pedra se conservou, manteve-se sem mudanças, e assim perdura como fato sempre presente, entre o passado e o futuro.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O eu lírico permanece vinculado à memória de uma pedra que, no presente, está ausente de toda percepção atual. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Examine as imagens:</p>
+        <p>No século XIX, a fotografia química fixava a imagem pela ação da luz sobre um suporte material, mantendo um vínculo físico com a cena registrada (vestígio), como na imagem da família ao lado dos bebês mortos. No século XXI, imagens geradas por inteligência artificial podem sintetizar rostos e gestos a partir de bancos de dados, produzindo efeito de presença mesmo quando o encontro retratado não ocorreu, como na campanha publicitária que reuniu Elis Regina (falecida em 1982) cantando com sua filha Maria Rita. Comparando as imagens e considerando seu efeito sobre o modo de lidar com a morte, assinale a alternativa que interpreta adequadamente a tensão entre vestígio e presença simulada.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A diferença decisiva é temática: a primeira trata explicitamente da morte, enquanto a segunda representa a vida, ambas funcionando como registro técnico do real.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Na primeira imagem, a presença do cadáver elimina o caráter de vestígio e transforma a foto em símbolo; na segunda, a ausência do cadáver elimina o caráter de simulação e transforma a imagem em prova.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Na primeira imagem, a encenação pela pose depende do encontro físico entre a câmera e os corpos; na segunda, a encenação é fabricada prescindindo desse encontro no instante representado.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A principal evolução é de código estético, com a passagem do estático para o movimento; o estatuto de produção das imagens não interfere na representação da morte.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Na primeira imagem, por ser posada, a cena perde vínculo com o real, atingindo o simbólico; na segunda, por ser gerada por algoritmos, há mais simulação, alçando à objetividade. #####</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Exílio</p>
+      <p>Numa casa em Ipanema rodeada de árvores e pombos</p>
+      <p>na sombra quente da tarde entre móveis conhecidos na sombra quente da tarde</p>
+      <p>entre árvores e pombos entre cheiros conhecidos</p>
+      <p>eles vivem a vida deles eles vivem minha vida</p>
+      <p>na sombra da tarde quente na sombra da tarde quente</p>
+      <p>Ferreira Gullar. Dentro da noite veloz.</p>
+    </context>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando o título e os versos do poema, a voz poética</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>tem saudades do calor do Rio de Janeiro, mesmo vivendo em um lugar com características parecidas, onde há árvores e pombos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>imagina quais seriam as condições de sua casa, de seus móveis e se queixa do cheiro das árvores e dos pombos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>lamenta sua condição de afastamento da casa, das coisas e das pessoas e de não poder viver a sua própria vida.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>menciona que perdeu as lembranças olfativas e visuais e que não pode mais reger nem sua vida nem a dos outros.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>traz para o exílio as pessoas com quem compartilha sua vida para que possa junto com elas se lembrar da casa em Ipanema. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O deslocamento do adjetivo “quente” nas expressões “sombra quente da tarde” e “sombra da tarde quente” (versos 2 e 4; versos 9 e 10) contribui para</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>proporcionar ao leitor, por meio da repetição dos versos e do jogo de sonoridade, percepções semelhantes entre o que foi e o que é.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>reiterar o incômodo climático e reafirmar que a “tarde quente” provoca uma reação de insatisfação semelhante à de “sombra quente”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>conferir ao poema um jogo entre o passado de tardes quentes e o presente sombrio e distante de uma realidade desconhecida.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>criar uma distinção espaço-temporal entre o certo e o duvidoso, entre o conhecido e o desconhecido, entre a vida e a morte.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>contrastar a experiência afetiva positiva no espaço passado com o sentimento negativo no espaço do exílio. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No essencial, a intelectualidade modernista, mesmo suas figuras mais radicais, presa a uma visão de cultura tradicional e preocupada em construir a Cultura Nacional, quando “foi ao povo”, o fez esperando encontrar nas manifestações populares uma matéria-prima pura dotada de autenticidade, à qual caberia dar forma final mediante um trabalho de síntese eminentemente intelectual. A política, essa atividade, quando a exercessem, continuaria a se dar nos marcos dos partidos oligárquicos. Basta notar que, pelo menos até 1930, os próceres do modernismo se mantêm na órbita desses partidos (Oswald no PRP; Mário de Andrade e Sérgio Milliet no PD). Depois de 1930, há uma “politização” das questões culturais e o tema da modernização fica integralmente subsumido ao da construção de um projeto nacional. Ampliam-se, assim, as tentativas de interpretação de conjunto e a intelectualidade ensaia a proposição de mudanças não mais pensadas com base na raça e no meio. A busca de identidade social do intelectual brasileiro passa pela procura de um ponto entre a perspectiva de renovação cultural e as possibilidades de reforma da sociedade.</p>
+        <p>Milton Lahuerta. “Os intelectuais e os anos 20: moderno, modernista, modernização”. In: Helena Carvalho Lorenzo; Wilma Peres Costa. A década de 20 e as origens do Brasil moderno. São Paulo: UNESP, 1997 (Adaptado).</p>
+        <p>De acordo com o texto de Milton Lahuerta, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A intelectualidade modernista fez com que o Brasil rompesse com sua tradição oligárquica.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Nos anos 20 e nos anos 30, o hábito dos políticos oligárquicos foi o de ir ao encontro das demandas do povo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A renovação cultural dos anos 20 foi a principal responsável pela revolução na estrutura da sociedade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A modernização dos anos 20 prescindiu, em solo brasileiro, de um projeto nacional.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Os modernistas pretendiam retratar o Brasil à luz da valorização da cultura nacional. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 1864, rebeliões escravas como as de Serro e Diamantina evidenciaram de que modo africanos e seus descendentes mobilizavam o letramento, em suas múltiplas formas, para decifrar o mundo ao redor e instruir aqueles apartados da cultura escrita. À revelia dos contemporâneos que condenavam e temiam a educação dos escravizados, práticas letradas floresciam nos mais diversos espaços. Os insurgentes trocavam cartas entre minas e vilas, faziam circular jornais pelos campos e debatiam a política imperial em reuniões discretas nas senzalas. No ano seguinte, em 1865, a leitura coletiva voltou a ocupar o centro de uma revolta escrava na província do Pará.</p>
+        <p>Isadora Moura Mota. Freedom’s Horizon, 2025 (Traduzido e adaptado).</p>
+        <p>O excerto apresentado destaca a importância da leitura e da educação na criação de processos políticos fundamentais no século XIX brasileiro. A partir da leitura do texto e de Opúsculo Humanitário, de Nísia Floresta, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A obra Opúsculo Humanitário, assim como o excerto, relata episódios da luta política de grupos de escravizados no Brasil, especialmente de mulheres e indígenas, defendendo prioritariamente a educação desses grupos como forma de insurgência política e de ampliação da justiça social.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Em perspectiva mais ampla do que a apresentada pelo excerto, Opúsculo Humanitário defende o direito das mulheres brasileiras brancas, indígenas e negras à educação, narrando a trajetória de personagens femininas que ganham sua emancipação por meio da leitura.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Enquanto o excerto enfatiza a importância política de práticas educativas comunitárias e informais no século XIX brasileiro, Opúsculo Humanitário defende o direito à educação de mulheres pela adoção de sistemas educacionais europeus, especialmente portugueses.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Diferentemente das práticas de letramento reveladas pelo excerto, focadas na questão social e racial da escravidão no Brasil do século XIX, Opúsculo Humanitário defende o direito à educação de mulheres brancas e indígenas brasileiras, sem relacioná-lo aos ideais da abolição.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Opúsculo Humanitário, ao defender o direito à educação e à leitura das mulheres brancas, negras e indígenas do Brasil, apoia as práticas informais de letramento dos escravizados apontadas pelo excerto e posiciona-se como uma apologia dos ideais abolicionistas no Brasil do século XIX. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A luta entre o Abolicionismo e a Escravidão é de ontem, mas há de prolongar-se muito, e o período que já entramos há de ser caracterizado por essa luta. Não vale à escravidão a pobreza dos seus adversários, nem a própria riqueza; não lhe vale o seu imenso poderio que os abolicionistas conhecem melhor talvez do que ela: o desenlace não é duvidoso. Essas contendas não se decidem nem por dinheiro, nem por prestígio social, nem – por mais numerosa que esta seja – por uma clientela mercenária. O Brasil seria o último dos países do mundo, se, tendo a escravidão, não tivesse um partido abolicionista: seria a prova de que a consciência moral ainda não havia despontado nele. O Brasil seria o mais desgraçado dos países do mundo, devemos acrescentar hoje que essa consciência despontou, se, tendo um partido abolicionista, esse partido não triunfasse: seria a prova de que a escravidão havia completado a sua obra e selado o destino nacional com o sangue de milhões de vítimas que fez dentro do nosso território.</p>
+        <p>Joaquim Nabuco. “Reformas nacionais: o abolicionismo – 1883”. In: Joaquim Nabuco; André Rebouças; José do Patrocínio. Panfletos abolicionistas. São Paulo: Penguin/Companhia das Letras, 2024.</p>
+        <p>Ao tratar da relação entre escravidão e abolicionismo no excerto, Joaquim Nabuco argumenta que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a escravidão deveria ser estendida a todos os setores da economia.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o Brasil não tinha na época um partido abolicionista.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o prestígio social trazido pela escravidão justificava a sua manutenção.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>as tensões entre abolicionismo e escravidão teriam sido já superadas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o movimento abolicionista asseguraria que, mesmo que demorasse, a escravidão terminaria. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Todo o serviço do interior das famílias sendo feito entre nós por escravos, a menina acha-se desde a primeira infância cercada de outras tantas perniciosas lições quanto são as ocasiões em que observa os gestos, as palavras e os atos dessa infeliz raça, desmoralizada pelo cativeiro, e condenada à educação do chicote!... Sua nascente sensibilidade se habitua gradualmente a esse espetáculo afligidor, repetido quase diariamente à sua vista; não é raro ver ela (com horror o dizemos) infligir o mais cruel tratamento à própria ama que a amamentou. De um lado os mais rudes tratamentos do senhor para com o escravo, do outro a impotência deste em repelir um jugo anticristão, sancionado pela mais tirânica das leis, e a necessidade do artifício para iludir o senhor e atenuar os sofrimentos da escravidão, tais são os quadros constantemente apresentados às crianças.</p>
+        <p>Nísia Floresta. Opúsculo Humanitário (Adaptado). O fragmento da obra publicada em 1853</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>caracteriza o ensino doméstico formal e defende a abertura de escolas para a formação educacional das crianças brasileiras.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>relembra a oposição contínua da Igreja católica à escravidão desde o período colonial e rejeita o fim dos castigos físicos a escravizados.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>questiona a convivência das crianças brasileiras com escravizados e atribui ao Império a responsabilidade pela formação das crianças brasileiras.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>apoia o projeto liberal de proibição do tráfico de escravizados e reitera o princípio ilustrado de igualdade de natureza.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>critica a naturalização do escravismo entre as crianças brasileiras e avalia o impacto da escravidão na formação pessoal. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Recentemente, políticos e personalidades têm debatido no Brasil a proposta de fim da jornada 6x1 (seis dias de trabalho por um de descanso), visando a reduzir o tempo total que o trabalhador permanece à disposição do empregador. Nas Seções III e IV do Livro I de O Capital, Karl Marx distingue duas formas fundamentais de ampliar a exploração da força de trabalho: a produção do mais-valor absoluto e a do mais-valor relativo. Considerando as categorias marxianas, a manutenção da jornada 6x1 e a resistência do setor patronal à sua redução fundamentam-se na lógica econômica da busca</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>do aumento do mais-valor relativo, uma vez que a permanência do trabalhador por seis dias na empresa garante que a máquina nunca fique ociosa, independentemente da velocidade da produção.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>da preservação do mais-valor absoluto, que se baseia no prolongamento da jornada semanal de trabalho para além do tempo de trabalho necessário, garantindo ao capital uma massa maior de mais-trabalho.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>da aplicação do mais-valor relativo, pois a escala 6x1 é tratada como uma inovação na organização social do trabalho que, por si só, revoluciona as condições técnicas e aumenta a produtividade sem esforço adicional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>da geração de mais-valor relativo por meio do prolongamento da jornada de trabalho para além do tempo de trabalho necessário, sob a premissa de que a escala 6x1 permite otimizar a produtividade semanal ao longo de seis dias consecutivos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>da eliminação da taxa de exploração, pois a folga semanal garantida no modelo 6x1 compensa integralmente o maistrabalho realizado nos outros seis dias, equilibrando a troca de equivalentes no mercado. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 28 de janeiro de 2025, dia Nacional de Combate ao Trabalho Escravo, o Ministério do Trabalho e Emprego (MTE), por meio da Secretaria de Inspeção do Trabalho (SIT), divulgou o balanço das ações realizadas ao longo de 2025. Nota-se que 68% das pessoas identificadas em condição análoga à escravidão no Brasil foram resgatadas no meio urbano, superando o número no meio rural, diferente de 2024, quando esse percentual era de 30%.</p>
+        <p>Disponível em: https://www.gov.br/trabalho-e-emprego/ (Adaptado).</p>
+        <p>*CNAE: Classificação Nacional de Atividades Econômicas.</p>
+        <p>O resgate de atividades com trabalho análogo à escravidão nos centros urbanos explica-se pela</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>alta empregabilidade na construção e ausência de respaldo legal para punição de empregadores.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>contratação de empresas públicas para gerenciar a contratação de trabalhadores no cultivo de café.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>expansão do setor de serviços e da construção civil, elevada taxa de desemprego e informalidade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>concentração fundiária, isolamento geográfico e falta de fiscalização das condições de trabalho.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>redução das desigualdades sociais nas cidades, que favorece relações flexíveis de trabalho. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O Ministério das Mulheres é um órgão do Governo Federal responsável por coordenar e criar políticas públicas para promover os direitos, a igualdade e a proteção das mulheres, combatendo a violência e a desigualdade de gênero. Em 2025, o órgão lançou o Relatório Anual Socioeconômico da Mulher, no qual são apresentadas diferentes análises, incluindo uma comparação entre rendimentos médios de pessoas de diferentes sexos, raças ou cores, conforme a tabela a seguir:</p>
+        <p>Considerando os dados da tabela, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O rendimento médio das mulheres é inferior ao dos homens pretos ou pardos em todas as grandes regiões brasileiras.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A razão entre o rendimento médio das mulheres brasileiras e o de homens brasileiros é de 90%.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Em apenas duas das grandes regiões, o rendimento médio das mulheres é maior do que o das mulheres brasileiras.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>É maior a diferença de rendimento médio entre homens e mulheres brasileiras de cor branca do que a diferença desse rendimento entre homens e mulheres brasileiras de cor preta ou parda.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O rendimento médio de mulheres pretas ou pardas na região sudeste é a metade do de homens brancos da mesma região. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Chamavam-lhe Pombinha. Bonita, posto que enfermiça e nervosa ao último ponto; loura, muito pálida, com uns modos de menina de boa família. A mãe não lhe permitia lavar, nem engomar, mesmo porque o médico a proibira expressamente. Pombinha era muito querida por toda aquela gente. Prezavamna com muito respeito e davam-lhe presentes, o que lhe permitia certo luxo relativo. Andava sempre de botinhas ou sapatinhos com meias de cor, seu vestido de chita engomado; tinha as suas joiazinhas para sair à rua, e, aos domingos, quem a encontrasse à missa na igreja de São João Batista, não seria capaz de desconfiar que ela morava em cortiço.</p>
+        <p>Aluísio Azevedo. O Cortiço (Adaptado).</p>
+        <p>Chamavam-me lesma! Mole! Palerma! E riam-se das minhas quedas, da minha magreza e da minha timidez. Eu em começo estranhava aquela moradia, com tanta gente, tanto barulho, num corredor tão comprido e infecto onde o ar entrava contrafeito, a água das barrelas se empoçava entre as pedras desiguais da calçada. Minha mãe não permitia que eu me desembaraçasse como as outras; tinha sempre os olhos em mim, eu sentia-os às vezes como brasas, a queimarem-me a pele.</p>
+        <p>Júlia Lopes de Almeida. Memórias de Martha.</p>
+        <p>Considerando a construção das personagens nos excertos, a relação intertextual estabelecida entre elas é corretamente interpretada em:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Enquanto Aluísio Azevedo constrói Pombinha adaptada às condições de vida do cortiço, Júlia Lopes de Almeida privilegia em sua narradora a interiorização da experiência vivida e a busca por outros caminhos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Ambos os autores representam a fragilidade feminina como traço biológico determinante, reforçando os pressupostos naturalistas de hereditariedade e degenerescência associados ao meio.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Júlia Lopes de Almeida, diferentemente de Aluísio Azevedo, abandona qualquer preocupação social, concentrando-se apenas na introspecção psicológica da narradora.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Aluísio Azevedo nega a Pombinha qualquer possibilidade de reflexão, ao passo que Júlia Lopes de Almeida apresenta Martha como plenamente emancipada do meio social.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O diálogo intertextual entre as personagens encontra-se obscurecido, o que torna a construção das personagens Pombinha e Martha pouco comparável. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ano de 1808 tem aparecido nos estudos de História como um marco ímpar. Além de significar o ato final da quebra do “exclusivo colonial”, através da fixação da Corte no Rio de Janeiro, representa também um avanço significativo da internalização do capital nativo no Centro-Sul.(...) Além de dispor dos recursos peculiares de um centro políticoadministrativo, a Corte constituía-se no mais importante entreposto comercial de todo Centro-Sul e, portanto, era ponto de atração e repulsão da população, o que garantia um significativo deslocamento de pessoas em todas épocas do ano. Em termos de consumo, vale também considerar os novos padrões instituídos pela presença de delegações diplomáticas e altos comerciantes além dos estratos burocráticos e militares ali estabelecidos. Alcir Lenharo. As tropas da moderação. São Paulo: Símbolo, 1979. De acordo com o excerto, o processo econômico e social desencadeado a partir de 1808 no Rio de Janeiro contribuiu para a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>exportação dos lucros gerados pela agricultura, comércio e tráfico negreiro.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>manutenção do monopólio comercial portuário pelos negociantes portugueses.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>diversificação dos padrões de abastecimento e consumo por meio do comércio internacional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>redução do fluxo migratório para o Centro-Sul, com a redução da corte às atividades da burocracia estatal.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>adoção de medidas protetivas para o capital nativo contra a concorrência das delegações diplomáticas. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Fotograma do filme A paixão segundo G.H., de Luís Fernando Carvalho, 2024 - teaser oficial.</p>
+        <p>Ontem de manhã – quando saí da sala para o quarto da empregada – nada me fazia supor que eu estava a um passo da descoberta de um império.</p>
+        <p>Clarice Lispector. A paixão segundo G.H.</p>
+        <p>O filme A paixão segundo G.H. (2024), de Luís Fernando Carvalho, elabora uma recriação cinematográfica do romance homônimo de Clarice Lispector. Na cena retratada no fotograma, a personagem G.H. começa sua viagem iniciática em direção às dependências da empregada em seu apartamento no Rio de Janeiro. Ao mesmo tempo que se ouve, em narração off, a frase citada do romance, observa-se que o diretor do filme acrescentou a ela um elemento que não estava no livro: a bandeira do Brasil colada à porta do quarto.</p>
+        <p>Com base no livro e na cena apresentada no fotograma, depreende-se:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A paixão segundo G.H. possui um teor subjetivista que reflete a intenção da autora de não tratar de problemas sociais por meio da literatura. Nesse sentido, o “império” mencionado pela personagem não seria o “Brasil”, representado pela bandeira na cena, mas, sim, a subjetividade da protagonista.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A bandeira colada à porta do quarto evidencia que a descoberta do “império” a ser empreendida pela personagem G.H. revelará as fraturas da ordem familiar e social da classe patronal no Brasil, indicando como Clarice Lispector injeta no mundo doméstico do apartamento o drama das relações de privilégio e servilismo próprias da sociedade brasileira.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Apesar de ter sido considerada uma escritora descompromissada com as causas sociais, Clarice Lispector elabora, em A paixão segundo G.H., uma crítica às condições estruturais da sociedade brasileira por meio da caracterização de G.H., mulher branca e de classe média que estabelece uma relação violenta e autoritária com sua ex-empregada, como evidenciado na cena.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Ao exibir a bandeira colada à porta do quarto, Luís Fernando Carvalho almeja revelar, por meio da linguagem cinematográfica, a intenção de Clarice Lispector de atenuar as fraturas sociais da realidade brasileira com o retrato de uma patroa que, ao adentrar o universo surpreendentemente asseado da empregada, é capaz de compreendê-la em sua humanidade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>No livro de Clarice Lispector, o “império” a que se refere G.H., ao descrever as dependências da empregada, revela-se como sendo o Brasil, conforme evidenciado no fotograma, uma vez que, apesar da aparência asseada à primeira vista, o quarto se apresenta como um espaço de características primitivas e animalizadas, refratário a qualquer ação humanitária ou civilizatória. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A corte era um mundo em si mesmo; mas um mundo no qual todas as duras realidades da vida eram mostradas numa lente de diminuição e ampliadas todas as suas frivolidades. O prazer era um dever, o ócio, um serviço, e o trabalho honesto, a mais mesquinha forma de degradação. Para tornar-se aceitável na corte barroca, era necessário que um objeto ou uma função mostrasse características de exótica inutilidade. Lewis Mumford. A Cidade na História. v.2. Belo Horizonte: Itatiaia, 1965. De acordo com o texto,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a estética barroca presente nos templos protestantes empregava ornamentação excessiva.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a valorização do ócio pela nobreza era um símbolo de distinção e de status no Antigo Regime.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a corte barroca traduzia os ideais iluministas, ao valorizar o trabalho honesto como base da organização estatal.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a nobreza vivia de forma independente e anárquica nos palácios.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a superioridade da nobreza se revelava pelo despojamento e moral ascética. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Existia em latim a palavra faba. Em português, seu descendente é fava, nome de várias espécies de plantas leguminosas, bem como de suas sementes. Do hábito de usar sementes de favas brancas e pretas para indicar voto positivo ou negativo vêm as expressões fava preta e são favas contadas. Do pouco valor dado a essas sementes, a expressão (mandar) às favas. À palavra latina faba correspondia uma forma diminutiva fabella, e dessa forma diminutiva originou-se em português favela, que, até o final do século XIX, foi apenas o nome de uma árvore que produzia vagens semelhantes às da fava. Havia uma dessas árvores no alto do arraial de Canudos, bem visível a partir dos acampamentos dos soldados republicanos que, em 1897, cercaram e arrasaram aquele arraial. Quando esses soldados, tendo voltado para o Rio de Janeiro, cobraram do governo as promessas de terras com que os haviam mandado para o combate, foi-lhes dado o direito de construir suas casas no Morro da Providência, e eles o fizeram com materiais de construção improvisados. No alto do morro carioca, como no alto de Canudos, havia um pé de favela. Estavam assim reunidos todos os ingredientes necessários para que o Morro da Providência fosse rebatizado Morro da Favela, e para que a palavra favela ganhasse a significação que tem hoje no português do Brasil.</p>
+      <p>Rodolfo Ilari, Renato Bassi. O português da gente (Adaptado).</p>
+      <p>favela1 Área de povoamento urbano, formada por moradias populares, onde predominam pessoas socialmente desfavorecidas. Essa comunidade é o resultado de um processo histórico de exclusão social e de um modelo de má distribuição de renda. Em geral carece de saneamento básico. Muitas favelas já contam com urbanização. Existem nesse espaço urbano, assim como nos bairros das periferias, elevadas taxas de pobreza e desemprego.</p>
+      <p>favela2 Árvore de pequeno porte (Jatropha phyllacantha), da família das euforbiáceas, encontrada no Nordeste e no Sudeste do Brasil, de folhas longas, grossas, lanceoladas, flores alvas, hermafroditas, dispostas em pequenos cachos axilares e terminais, e cápsulas escuras, deiscentes, com sementes pardacentas e oleaginosas, parecidas com as da mamona, das quais se fazem óleo alimentício e farinha rica em sais minerais e proteínas. Disponível em https://michaelis.uol.com.br/ (Adaptado).</p>
+    </context>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Após a leitura do texto e dos verbetes do Dicionário Michaelis, conclui-se que a palavra “favela”</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>tem sua origem no latim, língua-mãe do português, e passa por transformações morfológicas que são responsáveis pelo significado mais conhecido atualmente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ganhou, no final do século XIX, uma nova conotação no português do Brasil, passando a denominar o lugar em que os soldados que arrasaram Canudos foram morar.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>foi formada a partir do diminutivo de “fava” e ganhou traços pejorativos, uma vez que se trata de uma semente sem valor comercial.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>reforça a importância do nome latino dado à árvore presente tanto no arraial nordestino quanto no Morro da Providência.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>pertence ao português brasileiro porque, com a exclusão social no país, observa-se a presença de moradias de baixa qualidade com falta de saneamento básico. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O processo de mudança semântica pelo qual passou a palavra “favela” corresponde a uma</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ampliação por metonímia.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>redução por metáfora.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>evolução por eufemismo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>contradição por hipérbole.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>limitação por antítese. #####</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Observe a imagem e leia o trecho a seguir:</p>
+        <p>O cantor porto-riquenho Bad Bunny durante apresentação no Super Bowl na Califórnia, EUA.</p>
+        <p>A bandeira que Bad Bunny carregou durante o show de intervalo do Super Bowl não é a bandeira oficial de Porto Rico (...), mas uma versão azul clara, que remete ao movimento revolucionário da população. Inspirada por manifestações cubanas e desenvolvida no século 19, a bandeira foi proibida em 1948, quando se tornaram ilegais críticas ao governo americano.</p>
+        <p>Folha de São Paulo, 10/02/2026 (Adaptado).</p>
+        <p>A referida apresentação do cantor Bad Bunny foi marcada por um conjunto de simbolismos e trouxe à tona questões sobre a relação entre Porto Rico e EUA. Sobre este tema, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Colônia espanhola até o final do século XIX, Porto Rico alcançou sua independência em 1889, tornando-se um protetorado estadunidense em 1945.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A proximidade política entre os dois países tornou, em 2024, os portoriquenhos o maior grupo de migrantes latinoamericanos em território estadunidense.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Porto Rico é um território não incorporado dos EUA, no qual a população possui cidadania americana, mas não pode votar em eleições presidenciais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Nas últimas décadas, Porto Rico tem se distanciado geopoliticamente dos EUA, o que pode ser evidenciado por sua entrada na CELAC em 2021.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A presença militar do EUA em Porto Rico, com a instalação da base militar de San Juan, é um exemplo da dependência militar do país. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Técnicas de produção e Organização produtiva da mineração de prata (1550-1699) Período Potosí (Andes) Nova Espanha (México) 1550 - 1574 Extração inicial; técnicas tradicionais de fundição; trabalho indígena compulsório. Consolidação de distritos mineradores; trabalho misto (indígena compulsório e livre); estrutura empresarial em formação. 1575 - 1599 Introdução da técnica da amálgama (após 1572); intensificação da mita; forte intervenção estatal; pico produtivo. Adoção da técnica da amálgama; expansão urbana e mercantil; aumento do capital privado. 1600 - 1624 Manutenção da técnica da amálgama; altos custos de mercúrio; início do declínio relativo; pressões ambientais. Expansão técnica; maior diversificação empresarial; crescente articulação mercantil. 1625 - 1649 Redução gradual da produção; esgotamento de veios superficiais; persistência da coerção laboral. Consolidação como principal centro; ampliação da escala produtiva; maior estabilidade regional. 1650 - 1674 Perda de centralidade; estrutura produtiva mais onerosa; impactos ambientais acumulados. Produção elevada; capitalização crescente; integração atlântica ampliada. 1675 - 1699 Produção residual relevante, mas secundária no império. Supremacia produtiva consolidada; redes mercantis estruturadas.</p>
+        <p>Kris E. Lane. Potosí: The Silver City that Changed the World. Berkeley: University of California Press, 2019; TePASKE, John J. TePaske. A New World of Gold and Silver. Edited by Kendall W. Brown. Leiden: Brill, 2010. Gráfico e quadro interpretativo adaptados.</p>
+        <p>Considerando o gráfico e o quadro interpretativo, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A alteração da curva produtiva entre Andes e México resultou da combinação entre fatores técnicos, formas de organização do trabalho e maior articulação mercantil.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Os Andes foram ultrapassados em razão da erradicação do trabalho compulsório no período inicial.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A queda produtiva de Potosí no século XVII deriva do abandono da técnica da amálgama.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A perda de centralidade potosina indica que o sistema colonial espanhol entrou em colapso na primeira metade do século XVII.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O crescimento mexicano comprova que as formas de organização produtiva eram irrelevantes, já que a mineração colonial dependia das jazidas. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma matéria publicada no começo de 2026 em um site de notícias apresentou o seguinte título:</p>
+        <p>“Histórias do Mar: Carga mortal — fenômeno que transforma minério em líquido afunda navio.”</p>
+        <p>Segundo a matéria, certos minérios com teor de umidade elevado, quando transportados a granel, podem sofrer um processo de fluidificação devido à vibração do navio. A água presente nos espaços entre os grãos, decorrente da própria umidade do minério, reduz o atrito entre eles, fazendo com que o conjunto passe a se comportar como um fluido, se movendo dentro do porão. Esse deslocamento da carga compromete a estabilidade da embarcação e pode levar ao seu naufrágio. A figura a seguir ilustra a situação.</p>
+        <p>Considerando o fenômeno apresentado, é correto afirmar que o título da reportagem emprega linguagem</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>literal, pois o minério sofre fusão devido ao aquecimento provocado pelo atrito entre os grãos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>denotativa, pois descreve uma mudança de estado físico provocada pela presença de água entre os grãos do minério.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>técnica adequada, pois refere-se à dissolução do minério na água presente na carga, formando uma solução líquida homogênea.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>de hipérbole científica, pois sugere a vaporização parcial devido ao aquecimento por atrito e posterior condensação do minério.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>figurada, pois o minério permanece sólido, embora passe a se comportar como um fluido. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A cidade de Luanda, capital de Angola, banhada pelo Oceano Atlântico, está localizada geograficamente no hemisfério sul e a leste do meridiano de Greenwich. As suas coordenadas aproximadas são 9∘ Sul (latitude) e 13∘ Leste (longitude). Porto de Galinhas, em</p>
+        <p>Pernambuco, está situada a aproximadamente 9∘ Sul (latitude) e 35∘ Leste (longitude). Por razões históricas, o comprimento da linha do Equador é um valor muito próximo de 40 mil quilômetros. Deseja-se estimar a distância que um navio deve percorrer entre Porto de Galinhas e Luanda se ele se deslocar sobre o paralelo 9∘ Sul.</p>
+        <p>Assumindo que a Terra é perfeitamente esférica, a distância estimada, em quilômetros, é de, aproximadamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2,4 mil.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2,0 mil.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1,5 mil.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3,0 mil.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2,7 mil. Note e adote: 𝜋2 ≈10 𝑐𝑜𝑠(𝑥) ≈1 −𝑥2/2, quando 𝑥 é expresso em radianos e |𝑥| &lt; 0,5 ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Apesar de a grande maioria da população viver da agricultura, da atividade pastoril e da pesca, o comércio do ouro foi a maior riqueza do Mali. Devido ao seu extenso domínio na região ocidental africana, o mansa [soberano do Mali] controlava não só as minas de ouro, mas também as redes de comércio que levavam esse ouro até o deserto do Saara, de onde ele seria levado para o Norte da África e de lá para a Europa e para o Oriente Médio. As caravanas que levavam o ouro voltavam com sal, contas de vidro, tecidos e alimentos produzidos em outras regiões. Embora o comércio transaariano abrangesse um número variado de mercadorias, apenas as pessoas mais ricas do Império tinham como comprar os produtos que atravessavam o Saara. Para o restante da população, principalmente os camponeses, a única mercadoria acessível desse comércio era o sal – utilizado para a conserva e o preparo de alimentos, bem como para o tingimento de tecidos. Ynaê Lopes dos Santos. História da África e do Brasil afrodescendente. Rio de Janeiro: Pallas, 2017. O texto apresenta características do Reino de Mali na Idade Média. Entre elas, é possível identificar</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>base econômica diversificada e ingerência do soberano na economia.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>carência alimentar e dificuldades de circulação de riquezas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>domínio político europeu e comércio restrito às áreas próximas do reino.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>estrutura social tribal e distribuição equitativa de riquezas entre a população.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>fragmentação política e priorização das atividades agrícolas. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De início, os gregos recém-chegados possuíam deuses e crenças distintos dos egípcios. Em seguida, porém, passouse a associar divindades gregas e egípcias: Serápis como Deus-Pai, Ísis como Deusa-Mãe e Harpócrates como DeusFilho. Para os egípcios, Serápis corresponde ao antigo Osíris; para os gregos, assemelha-se a Zeus, sendo representado como um velho barbudo. Ísis, originalmente egípcia, passa a ser figurada com túnica grega e nó no peito. Harpócrates é Hórus, filho de Ísis, representado como um menino com o dedo na boca. Gamal Mokhtar (Ed.). História geral da África, v. II – África Antiga. 2ª ed. rev. Brasília: UNESCO, 2010 (Adaptado). Assinale a alternativa que melhor interpreta o sincretismo religioso no processo de helenização do Antigo Egito durante o período ptolomaico.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A helenização implicou a substituição progressiva das divindades egípcias por deuses gregos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O sincretismo religioso correspondeu a uma fusão espontânea, homogênea, e independente dos interesses de legitimação dinástica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A construção de divindades sincréticas favoreceu a integração simbólica entre gregos e egípcios.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A helenização do Egito manteve inalteradas as estruturas culturais e religiosas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A adoção de formas artísticas gregas na representação das divindades egípcias resultou na descaracterização de seus atributos originais. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Leia o texto e observe a figura a seguir:</p>
+        <p>O lukasa, considerado a tábua da memória, é usado para ensinar aos iniciados sobre as origens de Luba, região de Kabongo, na República Democrática do Congo. São tábuas cobertas por contas e búzios que mapeiam jornadas do rei e a localização de lagos, árvores sagradas, residências e as capitais espirituais, representadas por grandes contas e conchas de búzios. As linhas de contas são caminhos ou rotas de migração e o longo corte no canto inferior direito da tábua representa o alto rio Congo. Diferentes lukasas podem ter configurações comuns de contas e conchas, mas a interpretação depende do rei que está sendo louvado e do conhecimento do cantor de louvor sobre a história real e das circunstâncias políticas da apresentação.</p>
+        <p>Thomas J. Bassett. Indigenous Mapmaking in Intertropical Africa. The University of Chicago Press (Adaptado).</p>
+        <p>Disponível em: https://press.uchicago.edu/.</p>
+        <p>O objetivo da representação espacial Lukasa é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>indicar a rede de comunicação do mundo antigo como construção histórica da cartografia clássica.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>aperfeiçoar o sistema objetivo e científico das cartas com técnicas de projeção e uso de escala.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o deslocamento marítimo com identificação das ilhas e domínio territorial a partir da cartografia.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>transmitir uma visão teológica do mundo e aprimorar técnicas da cartografia grega.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>registrar o território e transmitir a memória cultural com o desenvolvimento de formas de mapear. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Eu me perdi na sordidez do mundo Eu me salvei na limpidez da terra</p>
+        <p>Eu me busquei no vento e me encontrei no mar E nunca Um navio da costa se afastou Sem me levar</p>
+        <p>Sophia de Mello Breyner Andresen. Geografia. “Eu me perdi”.</p>
+        <p>Em Geografia (1967), Sophia de Mello Breyner Andresen recorre à descrição de elementos naturais e paisagens para construir o que se convenciona chamar de “geografia poética”. Considerando o contexto histórico de produção da obra – a longa ditadura portuguesa (1926-1974) e a guerra nas colônias africanas (1961-1974) –, como essa representação do espaço assume uma função crítica?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Os elementos da paisagem são parâmetros de “verdade” e transparência que denunciam, por contraste, a “noite” e a opacidade moral do regime político então vigente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A representação da paisagem é puramente subjetiva e onírica, servindo para expressar o isolamento do sujeito poético em relação aos acontecimentos externos por meio do egocentrismo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A exaltação dos territórios distantes e das “ilhas” é reforço à ideologia imperial do Estado Novo, celebrando a expansão portuguesa como uma missão civilizatória.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O espaço geográfico é um refúgio estético e idílico, permitindo que a poetisa ignore as tensões históricas ao buscar abrigo na beleza atemporal do Mediterrâneo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A geografia assume um caráter de regionalismo saudosista, focando na descrição das tradições rurais portuguesas em oposição ao processo de modernização urbana. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os oceanos, que cobrem 71% da superfície terrestre e contêm cerca de 97% da água do planeta, têm papel fundamental na mitigação dos efeitos das mudanças climáticas globais. O impacto nesse ambiente é perceptível; por exemplo, em 2024, o aquecimento das águas dos oceanos atingiu o maior nível em 65 anos de monitoramento, contribuindo para a elevação média do nível do mar em 4,7 mm por ano entre 2015 e 2024.</p>
+        <p>Disponível em: https://www.gov.br/mcti/.</p>
+        <p>Os oceanos apresentam importante papel no equilíbrio climático global, pois</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>apresentam calor específico reduzido quando comparado ao da superfície terrestre (continentes), absorvendo menos calor e promovendo elevação da temperatura do ar.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>os ecossistemas oceânicos, como os corais e florestas de algas, são capazes de neutralizar, continuamente, o aumento da temperatura e os eventos extremos como ondas de calor marinhas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>atuam como sumidouro de calor e gás carbônico emitido pelos processos físicos e bioquímicos do planeta, sem os quais as temperaturas já teriam atingido valores superiores aos atuais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>em função de seu volume, cerca de 1,3 bilhão de quilômetros cúbicos, a absorção de calor e gás carbônico é ilimitada, mitigando os efeitos das mudanças climáticas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>as áreas costeiras, em função das grandes obras de engenharia, estão preservadas da elevação do nível médio do mar, que são da ordem de 4,7 mm por ano no ano de 2024. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As mudanças climáticas globais têm alterado o comportamento de diversas espécies vegetais, antecipando períodos de floração devido ao aumento das temperaturas médias. Esse fenômeno pode causar um “desajuste temporal” entre as plantas e a presença de seus polinizadores específicos. Além disso, observa-se o deslocamento de biomas, onde espécies de climas temperados ou de altitude migram para regiões mais frias (latitudes maiores ou cotas altimétricas elevadas).</p>
+        <p>A respeito dos impactos ecológicos decorrentes dessas alterações, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A antecipação da floração é um mecanismo de seleção artificial induzido pelo aumento da concentração de gás carbônico atmosférico, que inibe a fotossíntese nas folhas jovens.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O deslocamento de espécies para altitudes ou latitudes maiores permite que elas ocupem nichos ecológicos vagos nestas regiões, garantindo uma adaptação imediata e sem competição com as espécies nativas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>As plantas de biomas temperados, por serem adaptadas a maiores altitudes, são menos afetadas pelo aquecimento global, permitindo a manutenção da floração no mesmo ambiente de seus polinizadores.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A migração de plantas para altitudes maiores é facilitada pela maior pressão atmosférica e pela maior disponibilidade de oxigênio encontrada em regiões de maior altitude.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O desajuste temporal entre a floração e a atividade dos polinizadores, decorrente dos processos de mudanças climáticas, pode reduzir o sucesso reprodutivo das plantas. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Os eventos extremos de chuva aumentaram nos últimos anos conforme apontam inúmeros estudos científicos. Tem-se observado que o volume de chuvas é similar em alguns pontos, mas a forma como ocorrem em suas intensidades (volume por tempo) foi modificada. Observe a figura a seguir que representa um perfil topo-pluviométrico (variação da chuva em função do relevo) da Ilha de São Sebastião (Ilhabela, SP), no litoral norte do Estado.</p>
+        <p>Disponível em: https://doi.org/10.5380/abclima.v9i0.27516 (Adaptado).</p>
+        <p>Com base em seus conhecimentos sobre a dinâmica climática regional, aspectos do relevo local e interpretação da figura, é possível concluir:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O Litoral Norte do Estado de São Paulo é marcado por extensas planícies costeiras que favorecem a ocorrência de chuvas orográficas intensificando os eventos climáticos extremos, com valores de chuva da ordem de 1.758,0 mm no setor leste.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O perfil evidencia o papel do relevo no processo de formação das chuvas, indicando que a vertente a sotavento é mais úmida que a vertente a barlavento, com valores ultrapassando os 4.371,7 mm anuais nesta vertente.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Os ventos úmidos vindos de oeste, conforme indicado na figura e carregados de umidade, auxiliam na manutenção de totais elevados de precipitação, na ocorrência de eventos extremos e na formação das chuvas orográficas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Essa região é marcada por eventos de secas intensas devido à atuação do anticiclone tropical atlântico, que consiste em um centro de alta pressão condicionando longos períodos de estiagem e poucas precipitações. Isso é observado nos reduzidos valores de chuva.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Os eventos extremos de chuva são frequentes nessa região em função de uma combinação de aspectos do clima e do perfil do relevo, que potencializam condições para ocorrências do efeito orográfico, evidenciando volumes mais elevados nas vertentes a barlavento. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="31">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um telhado simétrico de duas águas foi construído em uma casa de 12 m de frente por 20 m de profundidade. A inclinação das telhas em relação à linha que passa pelas paredes é de 17,6%. Inclinação (𝑖%) em termos de porcentagem é comum na área de construção civil e é calculada da seguinte forma: 𝑖= 𝑥 𝑦 . 100, em que 𝑥 é uma distância vertical e 𝑦 a respectiva distância horizontal, conforme imagens a seguir:</p>
+        <p>Com o passar do tempo, em dias de fortes chuvas, a casa começou a apresentar infiltrações no telhado. Um técnico foi chamado para tentar resolver o problema e constatou que, para o tipo específico de telhas utilizado na construção, a inclinação estava incorreta. Desse modo, uma solução para resolver o problema das infiltrações é aumentar a inclinação do telhado para 25o. Considerando essa solução, em quantos metros, aproximadamente, a cumeeira deverá se elevar, em relação à altura anterior, com essa mudança na inclinação do telhado?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,44</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>1,06</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1,76</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2,82</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2,94 # Note e adote: 𝑠𝑒𝑛25𝑜≅0,42; 𝑐𝑜𝑠25𝑜≅0,91; tg 25 ≅0,47 ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um campeonato de cartas, foi adotado o seguinte sistema de pontuação: quem vence a primeira rodada ganha 1 ponto e, a partir da segunda rodada, a pontuação é o triplo daquela da rodada anterior. Desse modo, o vencedor da primeira rodada ganha 1 ponto, o vencedor da segunda ganha 3 pontos, quem vencer na terceira ganha 9, e assim até o final do campeonato. O jogador pontua somente se vencer a rodada. Considerando que um jogador acumulou 820 pontos durante todo o campeonato, quantas rodadas ele ganhou?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>4</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>5</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>6 #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="33">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Alguns inseticidas contra mosquitos e pernilongos são destinados para uso em áreas externas. O funcionamento destes inseticidas baseia-se na evaporação do princípio ativo a partir de um filme formado pelo spray na área aplicada. Enquanto os inseticidas comuns utilizam piretroides como a permetrina, formulações para área externa costumam utilizar a transflutrina, o piretroide mais volátil.</p>
+        <p>Considerando que a massa molecular de ambas as moléculas é muito próxima, a transflutrina é mais adequada para essas formulações de uso externo, pois</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>possui uma menor área para interações intermoleculares do tipo de dispersão de London.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>é de uma família diferente de inseticidas com maior poder de atuação contra os insetos, conforme representada em sua estrutura molecular.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>é composta por grupos mais polares que a permetrina, o que a confere uma alta interação intermolecular.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>possui alta polaridade, interagindo primordialmente com o vapor de água presente na atmosfera, favorecendo sua volatilização.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>necessita de uma menor quantidade de princípio ativo, fazendo com que a mesma massa de piretroide dure mais tempo mesmo evaporando mais rapidamente. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="34">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a equação 𝑓(𝑥) = 2𝑒𝑥2+𝐶 3𝐶𝑒−𝑥2/2 em que 𝑓 é uma função real para todo número real 𝑥 e uma constante 𝐶&gt; 0. Com base na função 𝑓 e na constante 𝐶, pode-se afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>𝑓(0) = 1 e 𝑓(𝑥) = 0, para algum número real 𝑥 e para 𝐶= 1.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>𝑓(0) = 1 e 𝑓(𝑥) = 𝑓(−𝑥), para todo número real 𝑥 e para um 𝐶&gt; 0.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>𝑓(0) &gt; 1 e 𝑓(𝑥) &lt; 𝑓(−𝑥), para todo número real 𝑥 e para todo 𝐶&gt; 0 .</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>𝑓(1) &lt; 0 e 𝑓(𝑥) = 𝑓(−𝑥), para algum número real 𝑥 e para 𝐶= 1.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>𝑓(1) = 0 e 𝑓(𝑥) &gt; 𝑓(−𝑥), para todo número real 𝑥 e para algum 𝐶&gt; 0. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um laboratório, um pesquisador realiza experimentos sobre um circuito elétrico composto por fios e resistores ideais não necessariamente iguais, conforme a imagem a seguir:</p>
+        <p>Quando se colocam fontes de tensão tal que (𝑐1, 𝑐2) = (5,10) Volts, verifica-se que (𝑥, 𝑦) = (5,3) Volts. Repete-se o experimento com (𝑐1, 𝑐2) = (3,3) Volts, para medir (𝑥, 𝑦) = (1,2) Volts. Quando se coloca (𝑐1, 𝑐2) = (2,1) Volts, quanto deve valer 5(𝑥+ 𝑦), em Volts?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>7</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>5</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2 ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>No contexto de 2026, a substituição de frotas a combustão por frotas elétricas é uma estratégia central de descarbonização para alguns países. O Uruguai, por exemplo, lidera a expansão de veículos elétricos na América Latina. Desde 2010, converteu 99% de sua matriz elétrica para fontes renováveis e locais. Essa transição estratégica permitiu ao país reduzir a dependência de combustíveis fósseis importados e foi impulsionada por incentivos fiscais agressivos. Em termos físicos, um carro elétrico pode ser modelado como um sistema simples de corrente contínua, no qual a bateria fornece a tensão, o “acelerador” atua como um resistor variável que controla a corrente, e o motor converte essa energia em movimento. A eficiência desse sistema depende da conversão da energia da bateria em movimento pelo motor, com a menor perda possível por calor (Efeito Joule).</p>
+    </context>
+    <objective_question number="36">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Do ponto de vista da Física e da conservação ambiental, a afirmação de que um carro elétrico produz “poluição zero” deve ser analisada com cautela. Considerando os princípios de conservação de energia e os impactos ambientais associados, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O carro elétrico elimina a pegada de carbono de um indivíduo, pois, como o circuito é fechado e opera por indução eletromagnética, não há troca de matéria ou energia com o meio ambiente externo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A eficiência ambiental de um veículo elétrico está diretamente ligada à matriz energética do país; se a corrente elétrica que carrega a bateria for obtida de termelétricas a carvão, o veículo funciona apenas como um “deslocador” de emissões de gases poluentes da cidade para a região da usina termelétrica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O calor dissipado pelo motor elétrico (Efeito Joule) é a principal causa do aquecimento global nas cidades, sendo mais prejudicial ao meio ambiente do que a queima de combustíveis fósseis em motores a combustão interna.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Por ser um sistema elétrico resistivo, a bateria de um carro elétrico pode ser descartada em lixo comum ao final de sua vida útil, uma vez que os seus componentes químicos são convertidos integralmente em energia mecânica durante o uso.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Aumentar a voltagem do sistema de 400 V para 800 V serve principalmente para aumentar a velocidade final do carro, não possuindo qualquer relação com a preservação de recursos naturais ou redução de perdas energéticas no circuito. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um motorista está decidindo entre comprar um carro a gasolina ou um elétrico. No modelo elétrico, a ficha de especificação informa que, para manter uma velocidade constante de 100 km/h, o sistema opera com uma diferença de potencial de 400 V e uma corrente de 80 A.</p>
+        <p>Dados Adicionais:  Preço do carro a gasolina: R$ 120.000,00.  Preço do carro elétrico: R$ 160.000,00.  Uso mensal e perfil: O motorista percorre 2.000 km por mês, mantendo uma velocidade média de 100 km/h.  Custo da gasolina: R$ 0,50 por km rodado para o perfil descrito.  Tarifa de energia elétrica: R$ 0,80 por kWh.</p>
+        <p>Na comparação entre os dois modelos, considerando os dados apresentados e um tempo de posse do carro de 5 anos, é correto afirmar que, em termos financeiros,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o carro elétrico é o mais atrativo com bônus governamental de pelo menos R$ 11.000,00.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o carro elétrico é o mais atrativo com bônus governamental de pelo menos R$ 8.000,00.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o carro elétrico é o mais atrativo com bônus governamental de pelo menos R$ 5.000,00.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o carro elétrico é o mais atrativo, independentemente de bônus governamental.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o carro elétrico não é o mais atrativo, independentemente de bônus governamental. Note e adote: A definição de potência elétrica (𝑃) é igual à taxa de variação de energia (𝐸) com o tempo (𝑡), ou seja, 𝑃= ∆𝐸 ∆𝑡. Também pode ser definida como a diferença de potencial (𝑉) multiplicada pela corrente elétrica (𝑖), ou seja, 𝑃= 𝑉· 𝑖 . Desprezar eventuais variações no preço da gasolina e da energia elétrica no período de cinco anos analisado. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Antes da popularização da injeção eletrônica, automóveis que utilizavam exclusivamente etanol como combustível apresentavam maior dificuldade de funcionamento em dias frios do que aqueles movidos a gasolina, especialmente no momento da primeira partida do motor. Para que ocorresse a combustão nesses veículos, o combustível precisava evaporar e formar uma mistura adequada de vapor de combustível e ar.</p>
+        <p>Considerando que a dificuldade da partida ocorre na etapa de evaporação do combustível, a principal explicação para o problema descrito está relacionada ao fato de o etanol</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>possuir menor número de átomos de carbono que os principais componentes da gasolina, característica que explica a sua menor volatilidade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>apresentar ligações de hidrogênio intermoleculares, o que reduz sua pressão de vapor e dificulta sua evaporação em baixas temperaturas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>sofrer redução incompleta em baixas temperaturas, formando produtos que impedem o início da combustão.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>apresentar menor poder calorífico que a gasolina, característica determinante para a evaporação e formação da mistura ar - combustível.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>apresentar maior densidade que a gasolina, o que reduz sua pressão de vapor e dificulta sua evaporação. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um carro popular, abastecido exclusivamente com etanol, consome, em média, 1,25 x 10-3 mol de etanol por rotação do motor. Considerando que este carro possui um tanque de 46 L, contendo apenas etanol, operando de forma constante em 3.160 rotações por minuto, por quantas horas, aproximadamente, esse motor pode funcionar até o esgotamento do combustível?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1,3</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3,3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>4,4</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>5,4</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>6,6 Note e adote: Densidade do etanol: 0,79 g/mL; Massa molar do etanol: 46 g/mol. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Entre os séculos XVII e XVIII, acreditava-se que materiais combustíveis continham uma substância denominada flogisto, termo de origem grega associado à ideia de “inflamável”, que seria liberada durante a queima. Essa teoria começou a ruir quando Antoine Lavoisier demonstrou experimentalmente que, embora a combustão de materiais orgânicos provocasse perda de massa, para materiais metálicos ocorria ganho de massa, contrariando a noção de perda de substância associada ao flogisto. A partir desses experimentos, foi possível compreender a combustão como um processo químico.</p>
+        <p>Essas observações permitiram compreender a natureza do processo de combustão, pois a reação de combustão de um combustível orgânico é</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>uma reação de decomposição endotérmica que gera compostos mais voláteis.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>uma reação de redução do combustível, diminuindo sua quantidade e reduzindo a massa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>um processo de oxidação do combustível pelo oxigênio, gerando produtos que possuem natureza química distintas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>um equilíbrio químico reversível que pode influenciar a mudança de massa do processo em ambos os sentidos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>uma reação exotérmica na qual a liberação de energia faz com que a massa total dos reagentes seja reduzida. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="41">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em demonstrações de química e em vídeos de divulgação científica, é comum a realização de um experimento curioso: um pedaço de papel embebido em uma mistura de álcool e água é incendiado sem que o papel se queime. A chama é visível por alguns segundos, mas, após o término do experimento, o papel permanece praticamente intacto.</p>
+        <p>À primeira vista, o resultado parece contradizer a ideia de que a combustão libera grande quantidade de energia e deveria, portanto, queimar o papel. No entanto, a explicação correta envolve a distinção entre quantidade de energia envolvida em uma reação e velocidade com que essa energia é liberada, conceitos centrais da termodinâmica e da cinética química.</p>
+        <p>O papel não entra em combustão no experimento, pois</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a combustão do álcool é endotérmica, retirando energia do papel e impedindo sua queima.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o papel não queima porque a combustão do álcool, nessas condições, consome totalmente a chama, não permitindo a combustão do papel.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a combustão do álcool é exotérmica, mas a água absorve grande parte do calor liberado, mantendo a temperatura do papel baixa e dificultando sua combustão.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a água reage com a estrutura química do papel e gera moléculas apolares que são menos voláteis, diminuindo sua inflamabilidade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a liberação de energia em reações exotérmicas envolvendo soluções aquosas ocorre sempre de forma lenta, impedindo que o papel entre em combustão. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 2026, o cenário nuclear global é definido pela estagnação dos tratados de desarmamento e por uma nítida tendência de modernização dos arsenais. Compreender os riscos desse panorama exige uma análise técnica das “zonas de impacto”, que são áreas geográficas delimitadas onde os efeitos de uma detonação manifestam-se de forma previsível. No contexto de uma explosão nuclear, essas zonas são classificadas conforme a intensidade dos danos físicos resultantes da energia liberada. O raio de uma zona de impacto específica é proporcional à raiz cúbica da energia do artefato, conforme a relação 𝑅∝√𝐸 3 . A tabela a seguir mostra as zonas de impacto para uma energia de referência de 9×1014 J.</p>
+        <p>Zona de impacto Raio (aproximado) O que acontece? Bola de fogo 0,5 km Tudo dentro desse raio é instantaneamente vaporizado pela temperatura extremamente alta. Destruição total 2 km Prédios de concreto são demolidos pela onda de choque de alta pressão. Danos por calor 5 km Roupas pegam fogo e pessoas sofrem queimaduras de 3º grau na pele exposta. Danos leves 10 km Vidros quebram, causando ferimentos por estilhaços.</p>
+        <p>Uma bomba atômica teórica contém 4 kg de Urânio-235. Sabe-se que apenas 2% dessa massa é convertida efetivamente em energia de explosão por meio da fissão nuclear. Suponha que uma bomba desse tipo seja detonada no Burj Khalifa, o maior prédio do mundo, localizado no centro de Dubai. As distâncias de alguns pontos turísticos em relação ao Burj Khalifa (“ponto zero”) são:  Dubai Mall: ~0,4 km  Business Bay: ~1,8 km  Port Rashid: ~8,2 km  Jumeirah Burj Al Arab: ~11,0 km</p>
+        <p>Com base nas informações apresentadas, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O Jumeirah Burj Al Arab seria completamente vaporizado pela zona da bola de fogo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A zona de destruição total se estenderia até um raio de 2,0 km, atingindo a área de Business Bay.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O Dubai Mall estaria dentro da zona de vaporização instantânea.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Pessoas localizadas em Port Rashid estariam seguras de qualquer efeito térmico, sofrendo apenas com vidros quebrados.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Nenhum dos pontos turísticos mencionados teria danos leves. Note e adote: Velocidade da luz: 𝑐 = 3×108 m/s A definição da energia da bomba (𝐸) é igual à massa convertida em energia (𝑚) multiplicada pelo quadrado da velocidade da luz (𝑐2), ou seja, 𝐸= 𝑚𝑐2. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="43">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando veio, o colapso da ditadura nazista se caracterizou pela velocidade e completude. Como se fosse da noite para o dia, a influência do regime evaporou-se. Apesar das expectativas em contrário, apesar do extraordinário controle do nacional-socialismo sobre o povo alemão ao longo de doze anos de doutrinação nas escolas, na mídia e nas instituições públicas de todos os tipos, e apesar do terror policial e da cumplicidade generalizada nos crimes do regime, o nazismo sumiu quando as forças aliadas ocuparam as cidades alemãs.</p>
+        <p>Richard Bessel. Alemanha, 1945: da guerra à paz. São Paulo: Companhia das Letras, 2010. O panorama alemão em 1945, conforme apresentado pelo texto, expõe</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o desinteresse político da sociedade alemã diante dos rumos do país após a derrota militar na guerra.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a ampla adesão da sociedade alemã a movimentos de oposição durante o período de poder nazista.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a baixa adesão da sociedade alemã ao ideário do nazismo e a seu projeto de genocídio e expansão territorial.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o sucesso das campanhas de convencimento da sociedade alemã realizadas pelas forças aliadas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o descomprometimento da sociedade alemã com os projetos nazistas após a derrocada do regime. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="44">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A insegurança alimentar na África e no Oriente Médio afeta 154,3 milhões de pessoas, visto que muitos países foram afetados pela guerra entre a Rússia e a Ucrânia e pela crise comercial de acesso a grãos. Esses países dependem das importações de trigo, sorgo e girassol. Além da falta de grãos, as regiões do Magreb (parte ocidental do mundo árabe) e Mashreq (parte oriental do mundo árabe) são afetadas pelas mudanças climáticas e possuem baixa capacidade hídrica, como na Arábia Saudita, que teria que investir bilhões de dólares para produzir alimentos, devido à extensão do deserto, assim como a Argélia, Tunísia e a Líbia.</p>
+        <p>Atlas Éditon 2025. Géopolitique Mondial. Paris, Ed. Rocher (Adaptado).</p>
+        <p>Com base no texto e nos gráficos, assinale a resposta que apresenta fatores que contribuem para a subnutrição e insegurança alimentar.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O Irã aumentou seu PIB nos últimos anos, em decorrência da produção agrícola irrigada, em áreas do semiárido e do planalto do Irã. A produção pastoril é extensa e se localiza próxima dos rios e no semiárido, dependendo pouco da importação de grãos (36,6%).</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O Egito teve alta no PIB nos últimos anos, e aproximadamente 7% da população está na faixa de insegurança alimentar. Isso ocorre por falta de investimento em áreas que podem ser irrigadas, pois há rios que atravessam as áreas de deserto e semiárida.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A Líbia, a Argélia e a Tunísia são os mais afetados pela guerra Rússia-Ucrânia, por importar aproximadamente 90% de grãos base da alimentação da população. Com áreas semiáridas e deserto com baixa capacidade hídrica, consegue ter alta produção de carne (pastoril).</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O Iêmen, Iraque e a Jordânia dependem de 50% da importação de grãos, em decorrência do investimento em agricultura irrigada, nos três países, e da elevada produção de vegetais e frutas, no planalto e no semiárido.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Kuwait, Emirados Árabes Unidos e Iêmen dependem em quase 100% da compra de grãos da Rússia e Ucrânia, tendo baixo número de população com insegurança alimentar em decorrência do aumento do PIB no setor agrícola, além da capacidade hídrica. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A revolução verde ou a ascensão da agricultura intensiva no mundo trouxe ganhos, mas não resolveu a fome estrutural que passa a população mundial. A expansão da fronteira agrícola mundial, que ocupa 1/3 das terras aráveis do mundo, tem como um dos indicadores mais críticos a profunda alteração do ciclo do nitrogênio e o uso de combustíveis fósseis utilizados na mecanização e irrigação no campo. O modelo de agricultura intensiva e de monoculturas em larga escala baseia-se no uso massivo de fertilizantes sintéticos e agrotóxicos; entretanto, a baixa eficiência de absorção desses insumos pelas culturas resulta no acúmulo de excedentes químicos no solo. A dispersão desses poluentes transcende os limites das propriedades rurais por meio de processos de lixiviação e escoamento superficial, atingindo corpos hídricos, oceanos e mares e, de forma notável, a atmosfera.</p>
+        <p>Atlas de L`Antropoceno. SciencesPo. 2021, Paris, Les Presses (Adaptado).</p>
+        <p>O excesso de fertilizantes nitrogenados e derivados dos agrotóxicos estão impactando os biomas e provocando</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a proliferação de algas e bactérias, contribuindo para a formação de zonas mortas nos oceanos e alterando os biomas aquáticos, as águas subterrâneas e o solo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a lixiviação e o aumento do escoamento superficial que reduzem os impactos ambientais, quando associado às tecnologias, diminuindo o impacto nos rios e espécies aquáticas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a dispersão dos fertilizantes na atmosfera com a utilização de drones para pulverizar as plantações, reduzindo o excesso de nitrogênio e amenizando os riscos ambientais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o aumento da produção de soja no mundo, devido à qualidade dos fertilizantes que contribuem para a produção dos alimentos nas regiões tropicais do globo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o desmatamento nas áreas florestais e aumento da quantidade de algas nos ambientes marinhos, pois o nitrogênio evapora antes de atingir os solos e os oceanos. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="46">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A superfície das folhas das plantas é recoberta por uma camada de ceras epicuticulares, constituída majoritariamente por ácidos graxos de cadeia longa (20 a 40 carbonos), o que confere à folha um caráter fortemente hidrofóbico. Essa camada atua como uma barreira protetora contra a perda de água, a ação de patógenos e danos mecânicos. No entanto, ela também dificulta a retenção e a penetração de pesticidas e herbicidas aplicados por pulverização, favorecendo o escorrimento das gotas, reduzindo a eficiência da aplicação e aumentando os riscos de contaminação do solo e de corpos d’água.</p>
+        <p>Figura 1 Figura 2</p>
+        <p>Para contornar esse problema, formulações agrícolas incorporam surfactantes, que aumentam o espalhamento e a molhabilidade das gotas sobre a superfície foliar. As figuras exemplificam uma gota interagindo com uma superfície. Na figura 1, a gota contém surfactante e, na figura 2, não contém.</p>
+        <p>Como os surfactantes contribuem para o melhor espalhamento e retenção das gotas sobre as folhas?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Reagindo quimicamente com os ácidos graxos das ceras epicuticulares, destruindo sua estrutura lipídica e aumentando a hidrofilicidade da superfície.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Aumentando a tensão superficial ao estabelecer ligações covalentes entre o pesticida e a superfície foliar, o que diminui o escorrimento por aumentar a força das interações água/superfície das folhas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Reduzindo a tensão superficial da solução aquosa por meio de interações polares com a água e apolares com a cera e o pesticida, o que causa o espalhamento das gotas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Aumentando a hidrofobicidade da superfície foliar, impedindo o escorrimento da gota pela diminuição da tensão superficial.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Modificando a densidade da solução pulverizada, o que altera o balanço das interações intermoleculares no líquido, reduzindo a tensão superficial e aumentando o espalhamento. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um ramo de Elodea (planta aquática) foi colocado em um recipiente de vidro fechado contendo água com azul de bromotimol - indicador que adquire coloração azul quando a concentração de CO2 dissolvido é baixa e coloração amarela quando essa concentração aumenta. O recipiente, cuja solução apresentava inicialmente cor azul, foi mantido em um armário completamente escuro por 12 horas. Ao final desse período, observou-se que a solução havia se tornado amarela.</p>
+        <p>Considerando os processos metabólicos que ocorrem nas células vegetais, a interpretação do resultado observado é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Como as plantas são organismos autótrofos, seu metabolismo restringe-se à fixação de carbono pela fotossíntese. A liberação de CO2 no recipiente decorre, portanto, da contaminação por microrganismos decompositores que oxidaram matéria orgânica e acidificaram o meio.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Na ausência de luz, a fotossíntese cessa, mas a respiração celular aeróbia prossegue em todas as células vivas da planta, consumindo O2 e liberando CO2. O acúmulo desse gás na água acidificou a solução e alterou a coloração do indicador para amarelo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Privada de luz, a planta entrou em anaerobiose e passou a realizar fermentação alcoólica, processo que gera etanol e CO2. A respiração celular aeróbia não se sustenta em tecidos vegetais submersos, pois o oxigênio dissolvido na água é insuficiente para mantê-la.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>No escuro, o aparato fotossintético dos cloroplastos opera de forma reversa e passa a degradar glicose pelas mesmas enzimas do ciclo de Calvin. Esse processo libera CO2 no meio e explica a acidificação observada após as 12 horas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>As plantas realizam respiração celular apenas nas células das raízes, que estavam submersas e em contato direto com a solução. As folhas, mesmo no escuro, permaneceram metabolicamente inativas e não contribuíram para a liberação de CO2 no meio. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="48">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Estudos conduzidos em centenas de municípios da Amazônia brasileira, ao longo de quase duas décadas, associaram o desmatamento à elevação da incidência da malária. A fragmentação florestal forma bordas de mata com poças parcialmente sombreadas e temperaturas mais elevadas, condições que favorecem a proliferação do mosquito Anopheles darlingi, principal vetor da malária na região. A perda de habitat também aproxima animais silvestres, hospedeiros de diversos patógenos, das áreas ocupadas por populações humanas.</p>
+        <p>Com base no texto e nos conhecimentos sobre ecologia de doenças infecciosas, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A elevação da incidência de malária em áreas desmatadas resulta da liberação do protozoário Plasmodium pelo solo florestal recém-exposto, que passa a infectar mosquitos do gênero Anopheles ao se acumular nas poças formadas em áreas abertas após as chuvas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A maior incidência de malária em áreas desmatadas decorre da migração do Anopheles darlingi a partir do interior da floresta densa, onde a temperatura é maior e há menor disponibilidade de água, em direção às áreas abertas onde estão os hospedeiros humanos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A transmissão de patógenos de animais silvestres para seres humanos depende do contato físico direto entre o hospedeiro infectado e a pessoa suscetível, situação em que o desmatamento eleva o risco ao favorecer a manipulação de animais e o consumo de carne de caça.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A conservação de florestas íntegras pode reduzir a transmissão de doenças como a malária, pois ambientes com maior diversidade ecológica tendem a limitar a proliferação de espécies vetoras e a diminuir as oportunidades de contato entre patógenos de origem animal e populações humanas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O efeito do desmatamento sobre a incidência de malária na Amazônia decorre principalmente da abertura de clareiras na mata, elevando a temperatura das poças, fator que estimula a proliferação e o desenvolvimento do Plasmodium na água. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Soluções Baseadas na Natureza (SbN) são estratégias inovadoras, que buscam enfrentar desafios ambientais, sociais e econômicos, por meio da conservação, restauração e gestão sustentável de ecossistemas. Essas soluções são inspiradas e apoiadas pela natureza, aproveitando os processos naturais para gerar benefícios tanto para as pessoas, quanto para a biodiversidade. Ao contrário das abordagens tradicionais, que frequentemente dependem de infraestrutura cinza (como barragens, diques ou sistemas de drenagem convencionais), as SbN priorizam o uso de sistemas naturais, como florestas, áreas úmidas, manguezais e rios, para fornecer serviços ecossistêmicos essenciais (benefícios relevantes para a sociedade gerados pelos ecossistemas, em termos de manutenção, recuperação ou melhoria das condições ambientais).</p>
+        <p>Disponível em: https://semil.sp.gov.br/ (Adaptado).</p>
+        <p>Nos ambientes urbanos, podem ser considerados como exemplos de SbN:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Obras de engenharia destinadas a macrodrenagem urbana com tamponamento dos canais e impermeabilização da superfície, em especial em áreas de risco de alagamentos, minimizando os impactos de chuvas intensas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Parques lineares e corredores ecológicos, que consistem em áreas verdes ao longo de rios ou vias que conectam fragmentos de habitats, facilitando a biodiversidade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Construção de piscinões, obras de macrodrenagem e desassoreamento dos canais dos rios como medidas preventivas ao transbordamento e ao alagamento das margens dos rios.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Implementação de amplos telhados em zinco e amianto nas coberturas das edificações e indústrias que funcionam como concentradores de chuva, evitando o escoamento superficial.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Introdução de espécies exóticas com apoio de estruturas de concreto para fixação e crescimento rápido, em especial nas áreas de nascentes e margens de rios urbanos, diminuindo a ação de processos erosivos. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="50">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O solo é uma coleção de corpos naturais, constituídos por partes sólidas, líquidas e gasosas, tridimensionais, dinâmicas, formadas por materiais minerais e orgânicos que ocupam a maior parte do manto superficial das extensões continentais do nosso planeta, contêm matéria viva e podem ser vegetados na natureza onde ocorrem e, eventualmente, terem sido modificados por interferências antrópicas.</p>
+        <p>Disponível em: https://www.embrapa.br/solos/sibcs/definicao-de-solo (Adaptado).</p>
+        <p>Dentre os diferentes processos de formação dos solos (pedogênese), temos o intemperismo físico, definido como</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a desintegração e fragmentação das rochas em frações menores sem alterar sua composição química. É impulsionado por variações de temperatura (dilatação/contração), congelamento da água, alívio de pressão e raízes, sendo mais comum em climas áridos, desérticos ou polares. Ocorre principalmente em áreas de grande amplitude térmica diária.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a decomposição de rochas e minerais por meio de reações químicas, transformando seus componentes originais (minerais primários) em novos minerais (secundários), como argilas, principalmente pela ação da água, oxigênio e gás carbônico, criando solos e modificando o relevo, sendo mais intenso em climas quentes e úmidos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>uma reação química de decomposição, na qual a água é utilizada para quebrar ligações de uma molécula maior, fragmentando-a em partes menores. Nesse processo, a água se divide em íons hidrogênio e hidroxila, que se ligam às partes quebradas, comum em processos biológicos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>um processo pedogenético de acúmulo de carbonato de cálcio ou gipsita no perfil do solo, comum em climas áridos e semiáridos. Envolve a translocação de sais para horizontes inferiores, formando nódulos ou camadas endurecidas, frequentemente influenciado por pH elevado.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a fragmentação de rochas causada pela ação direta ou indireta de seres vivos, como plantas, animais e microrganismos, contribuindo para a formação do solo. Ele engloba processos físicos (raízes quebrando rochas) e químicos (ácidos orgânicos produzidos por raízes e bactérias que dissolvem minerais), sendo um fator chave no desgaste superficial. #####</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Black hole stars challenge our idea of the universe. A potentially new cosmic object raises the question of which came first: black holes, or stars and galaxies? The mysterious celestial objects became known as the “little red dots”. The scarlet blobs, scattered over images of deep space collected by the orbiting James Webb Space Telescope, defied explanation. The dots looked like bright mature galaxies but, puzzlingly, seemed anchored in a universe too young to host them. It was like flicking through an album of cosmic baby photos and finding portraits of a teenager. Now astronomers have come up with a potential explanation: the dots belong to a new class of cosmic object called black hole stars. These are not stars in the usual sense of being powered by nuclear fusion; instead, they comprise a supermassive black hole wrapped in dense hydrogen gas. As the central black hole devours surrounding matter and emits radiation, the illuminated gas cloud shines like the outer layer of a star. The analysis, published in the journal Astronomy and Astrophysics, may well challenge ideas about how the first celestial objects formed, and in what order. Did stars and galaxies give rise to black holes, or was it the other way around? It also illustrates how studying extremes can push boundaries by forcing scientists to come up with new ideas. It was an outlier among the little red dots that energised the idea of black hole stars — a concept that, though still speculative, has been well-received by cosmologists.</p>
+      <p>Financial Times. 01 October 2025 (Adaptado).</p>
+    </context>
+    <objective_question number="51">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com o texto, ao caracterizar como estrela uma estrutura composta por um buraco negro supermassivo envolto por gás denso, o pesquisador redefine categorias astronômicas e</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>propõe um objeto híbrido que produz luminosidade semelhante à de uma estrela tradicional.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>reafirma o modelo clássico segundo o qual estrelas massivas evoluem de modo natural para originar tais estruturas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>demonstra que processos de fusão nuclear ocorrem no interior de uma configuração cósmica.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>estabelece equivalência funcional entre galáxias jovens e processos gravitacionais.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>sustenta que essa formação representa estágio inicial da constituição estelar convencional. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="52">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, a metáfora do “álbum de fotos cósmicas” contribui para</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>destacar a sofisticação tecnológica do equipamento de observação como explicação central do fenômeno.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ilustrar a progressão evolutiva das galáxias ao longo de escalas temporais extensas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>evidenciar a discrepância entre a maturidade aparente dos objetos e a juventude do universo concernido.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>sugerir equívoco classificatório na interpretação das imagens astronômicas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>indicar continuidade evolutiva entre fases de desenvolvimento estelar. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerado o contexto, o termo “puzzlingly” (2º parágrafo) tem por função</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>sugerir conclusão definitiva sobre a cronologia da formação cósmica.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>indicar falha instrumental na obtenção das imagens astronômicas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>caracterizar os objetos como ocorrências rotineiras no estudo do cosmos profundo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>apresentar descrição técnica objetiva das propriedades das galáxias.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>marcar a perplexidade diante da incompatibilidade entre observação e teoria. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="54">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Existe um conflito fundamental na cosmologia contemporânea sobre a taxa de expansão do universo, conhecido como a “Tensão de Hubble”. Ao ler um artigo de divulgação científica sobre o tema, um estudante descobriu que dois métodos científicos robustos e confiáveis apresentam resultados discrepantes para o valor dessa taxa, conhecida como Constante de Hubble (𝐻0):  Método A (Abordagem Teórica Fundamental): Baseia-se em deduções matemáticas estritas a partir das leis fundamentais da física aplicadas ao modelo cosmológico padrão. Utilizando como ponto de partida a Radiação Cósmica de Fundo em Micro-ondas (o eco do universo primitivo), esse método calcula, teoricamente, que 𝐻0 ≈ 67,4 ± 0,5 km / s / Mpc.  Método B (Abordagem Observacional Empírica): Baseia-se puramente em dados observacionais diretos do universo local e tardio. Medindo a distância e o afastamento real de objetos cósmicos, como estrelas variáveis Cefeidas e supernovas do tipo Ia, esse método fornece, empiricamente, 𝐻0 ≈ 73,0 ± 1,7 km / s / Mpc.</p>
+        <p>O artigo conclui que essa discrepância não configura um simples erro de calibração ou cálculo, mas sim de uma “crise na cosmologia” que pode exigir o desenvolvimento de uma “Nova Física” para reconciliar os modelos teóricos fundamentais com as observações práticas. Com base na interpretação dessas informações e nos princípios da divulgação científica confiável, assinale a alternativa que apresenta a análise mais coerente sobre a consistência dos argumentos e a natureza dos dados apresentados.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A conclusão de que existe uma “crise na cosmologia” é um exagero dos cientistas, pois a diferença entre 67 e 73 é pequena e seria correto usar a média aritmética entre os dois valores.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O método A é o único correto porque cálculos matemáticos não falham. O método B, por sua vez, deve ser descartado por ser baseado apenas em “olhar para o céu”, um processo sujeito a erros humanos e opiniões dos astrônomos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A existência de uma “tensão” sugere que o Modelo Padrão da Cosmologia pode estar incompleto, indicando que a ciência avança justamente por meio da identificação de lacunas entre previsões teóricas (método A) e observações diretas (método B).</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O texto perde sua credibilidade científica ao sugerir uma “Nova Física”, visto que as leis da natureza são imutáveis e qualquer diferença de dados deve ser interpretada como falha humana ou instrumental.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A expansão do universo é um fenômeno teórico que não pode ser validado por medidas diretas. Dessa forma, não há relevância na abordagem observacional empírica, o que invalida o método B. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A tabela periódica tradicional (IUPAC) foi projetada para ser lida em duas dimensões (2D), como se fosse um mapa dos elementos. Nessa projeção 2D, os Lantanídeos e Actinídeos aparecem isolados no rodapé da tabela.</p>
+        <p>Recentemente, um modelo de construção de uma tabela periódica 3D usando peças de LEGO foi proposto, onde os elementos foram organizados em uma torre espiral contínua, como mostrado na figura a seguir. Nesse modelo, os Lantanídeos e Actinídeos aparecem integrados à própria estrutura da torre, e não como sequências isoladas.</p>
+        <p>Em função da disposição dos Lantanídeos e dos Actinídeos nestas duas proposições de tabela periódica, pode-se inferir:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Esses elementos não apresentam propriedades periódicas regulares, justificando a separação no modelo tradicional e a integração no LEGO.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A separação no modelo tradicional é apenas estética; no modelo LEGO a sequência crescente do número atômico inclui esses elementos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Por serem metais de transição externa, devem permanecer separados como no modelo tradicional, tornando o modelo LEGO inadequado.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A regra de distribuição eletrônica desses elementos difere das demais, justificando a separação no modelo tradicional e a integração no LEGO.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A integração no modelo LEGO ocorre porque ele abandona todas as propriedades periódicas usadas na tabela tradicional. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="56">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 1872, Narcisa Amália publica o livro intitulado Nebulosas, no qual a ideia de nebulosas é associada a algo difuso e distante. Do ponto de vista da Astrofísica, nebulosas são grandes nuvens de gás e poeira no espaço interestelar que, em certas condições, podem colapsar gravitacionalmente e formar estrelas. Uma nebulosa interestelar pode ser observada da Terra principalmente porque</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>emite luz visível devido à fusão nuclear em seu interior.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>reflete a luz emitida por estrelas próximas e espalha essa radiação.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>produz luz por atrito entre partículas de poeira.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>emite radiação apenas na faixa do infravermelho.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>absorve completamente a luz incidente, tornando-se visível por contraste. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="57">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Vincent Van Gogh. Campo de trigo com corvos, 1890. Óleo sobre tela, 50,5 cm x 103 cm. Disponível em https://vangoghmuseum.nl/.</p>
+        <p>Quando resvala a tarde na alfombra* do poente E o manto do crepúsculo se estende molemente; Na hora dos mistérios, dos gozos divinais Despedaçam-me o peito martírios infernais; E sinto que, seguindo uma ilusão perdida, Me arqueja, treme e expira a lâmpada da vida!</p>
+        <p>*alfombra - chão repleto de relvas.</p>
+        <p>Narcisa Amália. Nebulosas. “Desengano”.</p>
+        <p>O pintor Vincent Van Gogh (1853-1890) revolucionou a arte europeia no século XIX pelo uso de uma paleta de cores original e de suas pinceladas vigorosas e únicas. Em carta ao irmão Theo, ele assinala que uma de suas mais fervorosas intenções como pintor era “capturar a vida interior das coisas, focando na profundidade emocional, mais do que somente na precisão técnica”. Observando o quadro Campo de trigo com corvos e o trecho do poema de Narcisa Amália, assinale a alternativa que expressa corretamente a comparação entre eles.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O sujeito poético de Narcisa Amália e a perspectiva de Van Gogh imprimem sobre a paisagem uma visão excessivamente subjetiva, em que a realidade observada termina sufocada pela egolatria do eu.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A pintura de Van Gogh e o poema de Narcisa Amália se aproximam da paisagem de forma documental, buscando retratar a realidade de modo fidedigno e fazendo uso de técnicas artísticas que prezam a referencialidade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Enquanto o poema de Narcisa Amália é uma afirmação da natureza como extensão da personalidade humana, a obra de Van Gogh debruça-se sobre a paisagem, tentando capturar de forma original seus traços expressivos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O quadro de Van Gogh e o poema de Narcisa Amália demonstram o desconforto do indivíduo diante do mundo e da paisagem que o cerca, reafirmando a certeza na capacidade do sujeito de sobrepor a eles uma ordem a partir da consciência.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Enquanto a obra de Van Gogh expressa uma ruptura completa entre o sujeito e o mundo que o cerca, o poema de Narcisa Amália manifesta a posição divina do sujeito frente a uma realidade submissa às projeções de sua consciência. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="58">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A mudança de coloração é uma das diversas estratégias ecológicas apresentadas pelos anfíbios. O estímulo para essa mudança tem início no cérebro, é transmitido via hormônios e é efetivado, em questão de minutos, pelos melanóforos, que são organelas com pigmentos que se posicionam em diferentes regiões das células pigmentares da pele chamadas melanócitos. A imagem a seguir mostra um experimento com o objetivo de avaliar a variação da coloração de indivíduos de uma espécie de pererecas deixados em caixa clara ou escura, com ou sem luz.</p>
+        <p>Disponível em: https://www.mdpi.com/2076-2615/14/23/3472 A coloração mais escura resulta da dispersão dos melanóforos nos melanócitos, e a coloração mais clara devese à concentração dos melanóforos próximos ao núcleo, conforme ilustração a seguir:</p>
+        <p>Melanóforos dispersos Melanóforos concentrados</p>
+        <p>A integridade do citoesqueleto é importante para a manutenção da viabilidade celular e para o transporte de organelas, como os melanóforos. O uso do fármaco nocodazol promove a fragmentação dos microtúbulos, o que é útil no tratamento de tumores. Assim, é esperado um efeito na coloração dessas pererecas após tratamento com nocodazol.</p>
+        <p>A estratégia ecológica representada no experimento com as pererecas e o efeito do tratamento com o fármaco sobre a coloração de pererecas deixadas previamente na caixa clara são, respectivamente,</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>mimetismo e coloração clara na caixa clara sem luz.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>mimetismo e coloração escura na caixa clara com luz.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>mimetismo e coloração clara em qualquer caixa.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>camuflagem e coloração clara em qualquer caixa.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>camuflagem e coloração escura em qualquer caixa. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sabe-se que, em geral, as aranhas não usam visão, audição ou olfato para detectar quando uma presa cai em sua teia. Elas usam a informação coletada a partir de suas oito patas sobre o sinal advindo da vibração produzida pela presa.</p>
+        <p>Suponha uma situação simplificada, ilustrada a seguir, com as patas da aranha igualmente distribuídas, em que a bolinha preta indica a direção e sentido de onde provém o sinal provocado por uma presa. Considere ainda que a aranha sempre está atenta, posicionando-se parada no centro da teia. Na situação em que há somente duas bolinhas pretas, a aranha parte para a direção e sentido médio indicado por elas, exceto quando as duas bolinhas pretas estão diametralmente opostas:</p>
+        <p>Quando há apenas quatro bolinhas pretas, a aranha não se move somente no caso em que ocorre oposição duas-a-duas, como se fossem dois pares de bolinhas opostas.</p>
+        <p>Considerando as informações e as figuras apresentadas, na situação com apenas duas ou apenas quatro bolinhas pretas, qual é o número de combinações diferentes que fazem com que a aranha se movimente?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>88</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>85</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>82</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>58</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>63 #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="60">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em abril de 2026, pesquisadores da Universidade de São Paulo anunciaram o nascimento do primeiro porco clonado no Brasil, geneticamente idêntico a um porco doador adulto. O animal integra um projeto de xenotransplante, técnica que consiste na transferência de órgãos entre espécies diferentes. Devido ao tamanho e à fisiologia semelhante aos dos seres humanos, órgãos suínos, como rins e coração, estão entre os principais candidatos à doação interespécie. As primeiras tentativas de xenotransplante, iniciadas na década de 1960, enfrentaram dificuldades devido à intensa rejeição imunológica desencadeada pelo organismo humano. Para reduzir esse problema, pesquisadores passaram a utilizar técnicas de edição genética, inativando genes do porco relacionados ao reconhecimento imunológico e inserindo genes humanos no genoma animal, com o objetivo de aumentar a compatibilidade dos órgãos. Com base no texto e em relação aos conhecimentos sobre clonagem e engenharia genética, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A clonagem consiste na transferência do núcleo de uma célula somática do porco doador modificado geneticamente para um óvulo enucleado, que se desenvolve em embrião e origina um indivíduo geneticamente idêntico ao doador.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A clonagem resulta da fertilização entre gametas de dois porcos selecionados, seguida da triagem dos embriões com características favoráveis ao xenotransplante, originando descendentes com material genético recombinado de ambos os progenitores.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>As modificações genéticas foram obtidas por cruzamentos seletivos entre linhagens de porcos, pois a pressão de seleção induz, ao longo das gerações, mutações equivalentes aos genes humanos necessários, sem manipulação direta do DNA.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A rejeição dos órgãos suínos pelo organismo humano pode ser evitada pela edição dos mesmos genes nos órgãos do paciente receptor, tornando-o mais próximo geneticamente do suíno, o que reduz a possibilidade de rejeição do órgão transplantado.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Os genes humanos inseridos no genoma do porco substituem as proteínas originais dos órgãos suínos, que passam a ser compostos por proteínas exclusivamente humanas e, por isso, deixam de ser reconhecidos pelo sistema imunológico humano. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O ator Gaten Matarazzo, intérprete de Dustin Henderson na série Stranger Things, é portador da síndrome genética rara chamada displasia cleidocraniana. A síndrome tem herança autossômica dominante e é caracterizada por disfunção no desenvolvimento ósseo e dentário. Gaten é a única pessoa com a síndrome em sua família. Mutações patogênicas no gene RUNX2 são frequentemente associadas a essa síndrome.</p>
+        <p>Com base no texto e nos conhecimentos em genética, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O gene RUNX2 encontra-se no cromossomo X e há chance de 50% de suas filhas serem afetadas pela síndrome.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O gene RUNX2 encontra-se no cromossomo Y e há chance de 100% de seus filhos do sexo masculino possuírem a síndrome.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Os filhos e as filhas de Gaten possuem pelo menos 50% de chance de desenvolverem a síndrome, pois a mutação não se encontra em um cromossomo sexual.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Os pais de Gaten são heterozigóticos, por isso não desenvolveram a doença, que precisa da mutação em homozigose para se manifestar.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O ator é heterozigótico para a mutação, por isso a chance de seus filhos do sexo masculino desenvolverem a síndrome é nula. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="62">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A espirometria é um exame que avalia os volumes e fluxos pulmonares de uma pessoa. Para sua realização, o paciente deve inspirar profundamente até encher os pulmões e, em seguida, expirar com a maior velocidade e força possível. O gráfico a seguir indica o volume de ar, em litros, expirado dos pulmões de dois pacientes de mesma idade e sexo, A e B, como função do tempo, em segundos. Para avaliar a condição dos pacientes, duas informações importantes podem ser obtidas diretamente das curvas: o volume de ar expirado no primeiro segundo da expiração forçada (VEF1) e o volume máximo atingido ao final da manobra, denominado capacidade vital forçada (CVF). Para fins diagnósticos, a razão VEF1/CVF é um parâmetro fundamental, pois permite avaliar a presença de obstrução ao fluxo aéreo. Em pacientes adultos saudáveis, sem quadro de obstrução, essa razão deve ser superior a 70%.</p>
+        <p>Com base nas informações apresentadas, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A CVF do paciente B é maior que a do paciente A.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Os dois pacientes apresentam a mesma medida de VEF1.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O paciente B apresenta um padrão obstrutivo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>No primeiro segundo, o fluxo de ar expirado, em litros por segundo, é menor para o paciente A que para o B.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Não é possível diagnosticar um quadro de obstrução ao fluxo aéreo em nenhum dos pacientes. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="63">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em 2019, a Organização Mundial da Saúde (OMS) considerou a resistência antimicrobiana como um dos principais problemas de saúde mundiais, classificando-a como uma “pandemia silenciosa”. De acordo com a OMS, a definição de resistência antimicrobiana é:</p>
+        <p>“Antimicrobial Resistance (AMR) occurs when bacteria, viruses, fungi and parasites no longer respond to antimicrobial medicines. As a result of drug resistance, antibiotics and other antimicrobial medicines become ineffective and infections become difficult or impossible to treat, increasing the risk of disease spread, severe illness, disability and death.”</p>
+        <p>Do ponto de vista evolutivo, a resistência bacteriana a esses fármacos deve-se ao fato de que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>as mutações que conferem resistência ocorrem de forma aleatória e independente da presença do fármaco, que atua apenas como um agente de seleção natural sobre a variabilidade pré-existente.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>os antibióticos induzem mutações específicas no DNA das bactérias sensíveis, permitindo que elas desenvolvam mecanismos de defesa para sobreviver ao ambiente hostil.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a exposição contínua a doses baixas de antibióticos faz com que as bactérias se adaptem gradualmente ao longo da vida, transmitindo essas características para as gerações seguintes.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o sistema imunológico das bactérias, ao entrar em contato com o antibiótico, produz anticorpos intracelulares que são codificados no plasmídeo e compartilhados via conjugação.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a resistência é fruto de um processo de convergência adaptativa, no qual diferentes espécies de bactérias sofrem as mesmas mutações simultâneas para colonizar novos nichos hospitalares. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="64">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A proliferação celular descontrolada é uma característica fundamental em todos os tipos de câncer. Em tecidos saudáveis, a divisão celular é controlada por proteínas que atuam como estímulo ou freio ao longo do ciclo celular. Os proto-oncogenes codificam proteínas que estimulam a divisão celular, e os genes supressores de tumor codificam proteínas que interrompem o ciclo ou induzem a morte celular programada quando há danos no DNA. Quando mutações desfazem o equilíbrio entre estímulo e freio, a célula pode se dividir de modo descontrolado e originar um tumor. Considerando o texto e em relação aos conhecimentos sobre ciclo celular e câncer, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O proto-oncogene contribui para o desenvolvimento de câncer quando sofre uma mutação que inativa seu produto proteico, fazendo com que a célula deixe de receber o sinal regulador do ciclo celular e passe a se dividir de modo descontrolado.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O gene supressor de tumor contribui para o desenvolvimento de câncer quando sofre uma mutação que inativa seu produto proteico, fazendo com que a célula perca os freios à divisão diante de danos no DNA e prolifere com alterações genéticas acumuladas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O surgimento do câncer depende da exposição a agentes externos, como radiação ultravioleta, tabaco e vírus, sem os quais não é possível ocorrer as mutações capazes de iniciar a transformação tumoral das células.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Mutações em genes do ciclo celular ocorridas nas células somáticas de um indivíduo são transmitidas aos seus descendentes, e a acumulação progressiva dessas alterações ao longo das gerações explica o aparecimento dos casos de câncer familiar.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Mutações simultâneas no proto-oncogene e no gene supressor de tumor potencializam a função de seus produtos, resultando em casos muito agressivos e rápidos de câncer. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>O Azul da Prússia (AP) é um composto utilizado no tratamento de contaminação por elementos radioativos, como o 137Cs, tendo sido utilizado no tratamento de pacientes do acidente radioativo de Goiânia, em 1987. Sua estrutura consiste em uma rede tridimensional formada por íons ferro ligados a grupos cianeto (CN-), originando cavidades no interior do composto. Essas cavidades podem conter cátions monovalentes, fracamente ligados à rede por interações eletrostáticas e responsáveis por compensar a carga da estrutura. Esses cátions podem ser substituídos por outros cátions presentes no meio, como 137Cs+, por meio de um processo de troca iônica. A figura a seguir apresenta um modelo simplificado dessa estrutura.</p>
+      <p>Por ser insolúvel, o composto (AP) atravessa o trato gastrointestinal, capturando cátions monovalentes, que são então eliminados nas fezes, reduzindo seu tempo de permanência no organismo.</p>
+    </context>
+    <objective_question number="65">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base nas informações, é correto afirmar que a retenção de cátions, como 137Cs+, ocorre</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>por interações íon-íon entre os cátions e regiões de carga negativa da estrutura.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>pela formação de ligações covalentes entre os cátions e os átomos de ferro.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>devido às forças de Van der Waals, que atuam em todos os átomos da estrutura.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>pela formação de ligações de hidrogênio entre cátions e os grupos cianeto.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>por aprisionamento físico nas cavidades, sem interação eletrostática com a rede tridimensional. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="66">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Um dos principais íons monovalentes presentes na estrutura do AP que pode ser trocado pelo césio é o H+. A absorção dos íons Cs+ pelo AP pode ser influenciada tanto pelo pH do meio como pela competição com outros íons de metais alcalinos (M+) presentes no corpo, como mostrado nos equilíbrios a seguir:</p>
+        <p>AP(H+)(s) + Cs+ (aq) ⇌ AP(Cs+)(s) + H+(aq) AP(H+)(s) + M+(aq) ⇌ AP(M+)(s) + H+(aq)</p>
+        <p>Sobre esse processo, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Como o pH intestinal é maior que o gástrico, a absorção de Cs+ será mais efetiva no intestino do que no estômago.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Íons K+ não apresentam competição por não serem radioativos como o 137Cs+.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Outros metais alcalinos presentes no organismo que poderiam causar competição são Mg2+ e Ca2+.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O ácido clorídrico do suco gástrico acelera a absorção de Cs+, pois a velocidade da reação aumenta com a concentração.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A administração de AP não retira íons K+ do organismo, pois estes são muito maiores que o Cs+, não sendo substituídos. Note e adote: AP(H+): azul da prússia com íons H+ em sua estrutura. AP(Cs+): azul da prússia com íons Cs+ em sua estrutura. AP(M+): azul da prússia com íons M+ em sua estrutura. #####</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="67">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Duas casas de um tabuleiro no formato de um triângulo equilátero, subdividido em 36 triângulos equiláteros, são pintadas de amarelo. Para que duas pinturas sejam consideradas equivalentes, uma deverá ser obtida a partir da outra por uma rotação de 120º em relação ao encontro das bissetrizes, conforme ilustrado nas imagens a seguir:</p>
+        <p>Considerando as imagens apresentadas, quantas pinturas não equivalentes existem?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>210</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>315</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>420</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>630</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1260 ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Images of plants painted on pottery made up to 8,000 years ago may be the earliest example of humans’ mathematical thought, a study has found. Researchers from the Hebrew University of Jerusalem examined pottery produced by the Halafian people of northern Mesopotamia, who lived between 6200 BC and 5500 BC. Many bowls featured flowers that have been depicted with four, eight, 16, 32 or 64 petals. The use of these numbers forms a “geometric sequence” that implies a form of mathematical reasoning rooted in symmetry and repetition, the researchers said in the study published in the Journal of World Prehistory. The researchers examined pottery fragments from 29 Halafian sites, excavated over a 100-year period from 1899. They found that in nearly every one of the 375 fragments that depict flowers, the number of petals is determined by this doubling sequence, which divides a circle into symmetrical units. The Halafians may have developed this form of mathematical reasoning in response to managing village communities that had existed in the Near East for some 4,000 years and had become economically complex, the researchers said. The ability to divide space evenly, reflected in these floral motifs, likely had practical roots in daily life, such as sharing harvests or allocating communal fields. The researchers said the Halafian use of the numbers four, eight, 16 and 32 may reflect an earlier and simpler level of mathematical thinking that was in use in the Near East in the 6th and 5th millennia BC. According to the researchers, these patterns show that mathematical thinking began long before writing.</p>
+      <p>CNN.com. 16 January 2026 (Adaptado).</p>
+    </context>
+    <objective_question number="68">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, a referência à “geometric sequence” (3º parágrafo) é empregada para</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>indicar que os artesãos halafianos dominavam sistemas formais de cálculo semelhantes aos desenvolvidos na matemática clássica.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>sustentar a interpretação de que os padrões decorativos revelavam raciocínio estruturado baseado em progressão numérica e simetria.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>sugerir que os motivos florais possuíam função estética desvinculada de organização numérica.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>demonstrar que a cerâmica constituía sistema formal de escrita numérica utilizado para fins administrativos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>estabelecer que a divisão do círculo em unidades iguais correspondia a uma convenção artística difundida na Mesopotâmia antiga. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="69">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No texto, a articulação entre os fragmentos de cerâmica e a hipótese de pesquisa apresentada evidencia um procedimento metodológico que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>substitui análise arqueológica por reconstruções especulativas sem base empírica.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>equipara padrões decorativos a símbolos de notação matemática desenvolvidos de modo pleno.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>atribui função estética e ornamental às representações florais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>transforma vestígios materiais em fundamento para inferências sobre o pensamento antigo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>considera a simetria como evidência literal de sistemas de escrita numérica. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="70">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Conforme o texto, a afirmação de que os padrões visuais revelam pensamento matemático anterior à escrita reforça</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a concepção de que formas abstratas de raciocínio precederam sistemas formais de expressão escrita.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a ideia de que registros gráficos surgiram como consequência direta da decoração cerâmica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a hipótese de que modelos de notação numérica coexistiam com a produção dos objetos analisados.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a interpretação de que o desenvolvimento da matemática restringiu-se ao âmbito da administração estatal.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a noção de que a linguagem simbólica substituiu a tradição oral na região de modo progressivo. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="71">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Aby Warburg reuniu centenas de reproduções fotográficas em grandes painéis, compondo constelações visuais para que o observador comparasse imagens de épocas distintas. Esse projeto, conhecido como Atlas Mnemosyne, buscava rastrear a “pós-vida” da Antiguidade: a sobrevivência e a reaparição de certos motivos e, sobretudo, de fórmulas expressivas (Pathosformeln) que condensam e reativam afetos antigos quando reaparecem, transformados, em obras do Renascimento. Assinale a alternativa em que o par de imagens apresenta, no Renascimento, a retomada de uma mesma fórmula expressiva da Antiguidade (Pathosformel), reconhecível visualmente pela torção do corpo, pelo drapeado e pela intensificação afetiva do gesto.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p></p>
+        </option>
+        <option label="B" is_correct="false">
+          <p></p>
+        </option>
+        <option label="C" is_correct="false">
+          <p></p>
+        </option>
+        <option label="D" is_correct="false">
+          <p></p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>#####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="72">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Nas redes sociais, os chamados “influenciadores fitness” compartilham rotinas de exercícios físicos e hábitos alimentares voltados à promoção de um estilo de vida saudável. Essas publicações também podem influenciar a percepção do público sobre corpo e padrões estéticos, principalmente porque</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>descrevem os benefícios do treinamento em termos amplos, abrangendo não somente resultados estéticos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>chamam a atenção para a totalidade do processo de treinamento, incluindo o planejamento e a avaliação.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>problematizam a relação entre estética e saúde, alertando para os riscos de exercícios mal executados.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>associam o treino, método ou produtos anunciados ao corpo representado.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>abordam a diversidade corporal e os múltiplos fatores que causam a desigualdade de acesso. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <context>
+      <p>Em outubro de 2025, o skatista Sandro Dias (o “Mineirinho”) realizou o que foi considerado o maior drop de skate do mundo, descendo em uma rampa montada na lateral do Centro Administrativo Fernando Ferrari, em Porto Alegre (vide foto). Partindo do repouso de uma plataforma montada a 70 m do solo, o skatista desceu pela rampa, passando por uma parte curva (“transição”) até chegar ao ponto mais baixo da rampa, a uma altura de 9,70 m do solo. O percurso termina em um leve aclive (“flat”), conforme ilustrado na segunda figura. Considere que Sandro pesa 70 kg e que o trabalho das forças de atrito e arrasto do ar foi de 10.710 J durante a primeira parte do percurso (até o ponto mais baixo da rampa).</p>
+      <p>Foto do site G1.</p>
+      <p>Ilustração inspirada em figura de vídeo do canal Ciência Todo Dia do Youtube.</p>
+      <p>Note e adote: Aceleração da gravidade: g = 10 m/s2.</p>
+    </context>
+    <objective_question number="73">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando os efeitos das forças dissipativas mencionadas, qual a velocidade, em km/h, que Sandro alcançou no ponto mais baixo da rampa?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>30</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>47</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>108</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>126 #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="74">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Quando Sandro está na zona de “transição”, marcada por um ponto azul na figura, antes do ponto mais baixo da rampa, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>O módulo da força normal que o skate exerce sobre Sandro é zero, fazendo com que o skatista tenha a sensação de “estar flutuando”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O módulo da força normal que o skate exerce sobre Sandro é maior que o módulo da componente radial da força peso, cujos efeitos incluem uma sobrecarga em seus joelhos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A única força atuando sobre Sandro é a força peso, uma vez que ele está em queda livre nesse trecho.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O módulo da força normal que o skate exerce sobre Sandro é igual ao módulo da força peso, já que Sandro está em equilíbrio mecânico neste ponto do percurso.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Sandro está em um movimento retilíneo uniformemente variável com aceleração constante nessa parte do trajeto. #####</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+  <question_group>
+    <objective_question number="75">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para vender água no Carnaval, uma pessoa colocou em uma caixa de isopor 15 copinhos de água com 350 mL cada, à temperatura de 25 °C, e 1,0 kg de gelo em blocos. Para preencher todo o volume do isopor, acrescentou 0,5 kg de gelo triturado na caixa, que foi fechada e lacrada. Sabendo que o gelo, em blocos e triturado, estava à temperatura negativa de −15 °C, qual a temperatura do conteúdo dos copinhos após toda a mistura no interior do isopor atingir o equilíbrio térmico e qual o estado físico da água na caixa?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>É menor que 0 °C. A água dos copinhos congelou, e o gelo não derreteu.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>É igual a 0 °C. O gelo derreteu parcialmente, e restou uma mistura de água líquida e gelo na caixa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>É igual a 0 °C. Todo o gelo derreteu, e restou apenas água líquida na caixa.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>É maior que 0 ° C e menor que 10 °C. Todo o gelo derreteu, e restou apenas água líquida na caixa.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>É igual ou maior que 10 ° C. Todo o gelo derreteu, e restou apenas água líquida na caixa. Note e adote: Assuma que (i) o isopor é um isolante térmico ideal, (ii) a embalagem dos copinhos é um condutor térmico ideal e (iii) as possíveis variações de volume ou pressão dos processos térmicos envolvidos são desprezíveis. A definição do módulo do calor trocado, quando existir transição de fase do material, é igual à quantidade de massa que mudou de fase (𝑚) multiplicada pelo calor latente (𝐿), ou seja, 𝑄 = 𝑚· 𝐿, e, quando não existir transição de fase, é igual à massa (𝑚) multiplicada pelo calor específico (𝑐) e a variação de temperatura (∆𝑇), ou seja, 𝑄 = 𝑚· 𝑐· ∆𝑇. Dados: Densidade da água = 1 kg/L; Calor específico da água = 1 cal/g.°C; Calor específico do gelo = 0,5 cal/g.°C; Calor latente de evaporação da água = 540 cal/g; Calor latente de fusão do gelo = 80 cal/g. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="76">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Como estou bela, vestida de branco. Como é bonito o meu marido, trajado de preto. Este anel no meu dedo brilha como o sol. Como é emocionante esta melodia com que o povo nos saúda, e que sempre pensei que era apenas dedicada aos anjos. [...] O sol caminhava rápido para o leito animado pelo ritmo dos atabaques. O tantã embriagava ainda mais as gentes já inebriadas pelo álcool, e as mulheres, agrupadas num círculo, moviam-se extasiadas, batendo palmas, aumentando o delírio com vozes roufenhas, descompassadas, e, no centro da roda, outras tantas anestesiavam-se na dança, ausentando-se da vida e do mundo. A alegria já ultrapassava o auge quando minha tia ordenou uma pausa. Paulina Chiziane. Balada de amor ao vento.</p>
+        <p>E assim, em um sábado, véspera de Páscoa, no exato momento em que a molecada alma-florense cuidava da malhação de Judas, na cercania bem próxima da estação, a locomotiva chegou. O trem vinha da cidade de Monte Vazio, e lentamente foi parando na estação. Um fino silvado se intrometeu na gritaria dos meninos a espancar o Judas. Três cavalheiros desceram. O do meio, o mais belo, sorriu ao rever uma das brincadeiras de sua infância. “A malhação do Judas”, o acabar com o sujeito traidor de Cristo. Conceição Evaristo. Canção para ninar menino grande.</p>
+        <p>Considerando os excertos apresentados, é correto afirmar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A dança circular é uma prática específica da cultura moçambicana, enquanto a malhação do Judas é específica da cultura popular brasileira.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A dança e a brincadeira retratadas neutralizam, respectivamente, os valores comunitários e a masculinidade dos praticantes.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Os sentimentos de animação e alegria são motivações que sempre acompanham a ocorrência de danças e brincadeiras.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Em relação aos eventos comemorativos descritos, a dança e a brincadeira são apresentadas de forma descontextualizada.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Nos eventos comemorativos descritos, o componente lúdico desempenha papel fundamental ao favorecer a ocorrência da dança e da brincadeira. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="77">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em torno dele a multidão se debatia na fuga, empurrava-se, era toda um só grito e um só pavor.</p>
+        <p>Um tremor violento agitava a criança, os bracinhos se sacudiam, tiritando, os olhinhos se envesgavam, cegos, a boca se torcia num esforço mudo e apavorante. Não gritava, não chorava era como se lutasse com uma coisa estranha invisível que a raptava do mundo, lhe apertava na garganta os sons estrangulados, lhe deformara o corpo e o rosto naquelas contorções desesperadas.</p>
+        <p>Os dois trechos apresentados pertencem à obra Caminho de Pedras, de Rachel de Queiroz, e têm em comum a descrição de respostas desencadeadas primariamente pelo sistema</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>nervoso autônomo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>cardiovascular.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>motor.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>sensorial.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>respiratório. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="78">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em Balada de Amor ao Vento, de Paulina Chiziane, as relações afetivas são atravessadas por hierarquias de gênero que naturalizam a desigualdade e a violência contra as mulheres. Ao relacionar essa perspectiva com dados contemporâneos sobre ocorrências de estupro e feminicídio no Brasil, Balada de Amor ao Vento contribui para compreender tais fenômenos como</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>eventos isolados decorrentes de desvios individuais de caráter, sem vínculo com estruturas sociais mais amplas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>consequências diretas do colonialismo europeu, sem relação com dinâmicas culturais internas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>manifestações de sistemas patriarcais que atravessam diferentes contextos históricos e geográficos.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>fenômenos recentes, próprios da modernidade urbana latino-americana.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>expressões inevitáveis de conflitos amorosos, independentes de fatores históricos ou sociais. ##### Concurso Vestibular FUVEST 2027 – Prova V1</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="79">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em Almas do Povo Negro, W. E. B. Du Bois descreve a experiência de uma dupla consciência, em que a pessoa negra aprende a se ver tanto por sua própria perspectiva quanto pelo olhar racializado da sociedade. O negro norteamericano teria sua experiência definida pela hifenização de ser afro-americano. Ele também fala de um “véu” que cobre os negros em sociedade, metáfora que representa os estereótipos que moldam como o negro é percebido e como ele se percebe, impedindo que eles sejam vistos como as pessoas que são.</p>
+        <p>Em Canção para ninar menino grande, de Conceição Evaristo, a narradora constrói a experiência de Fio Jasmim por meio das múltiplas relações encetadas com mulheres, também negras. Sua caracterização da personagem destaca uma virilidade aventureira, opressora e repressora de seus próprios sentimentos.</p>
+        <p>Considerando essas ideias, qual alternativa melhor interpreta a performance da virilidade por Fio Jasmim?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Em sua relação com as mulheres, Fio Jasmim desempenha um papel forjado por sua experiência individual de modo independente das expectativas raciais e de gênero, ignorando o olhar social.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A forma como Fio Jasmim se apresenta e age é determinada pelo “véu” que lhe impõe estereótipos coloniais, impedindo mudanças.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A consciência racial serve a Fio Jasmim para fornecer um guia de como se comportar e eliminar quaisquer conflitos internos, permitindo que aja sempre com segurança.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>A experiência de Fio Jasmim ilustra a dupla consciência porque ele aprende a ajustar sua performance — como homem e negro — ao perceber como é visto através de estereótipos sociais.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>O comportamento de Fio Jasmim é definido por um padrão de performance de masculinidade independente de sua racialização e da dupla consciência que pode advir dela. #####</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="80">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Obstinado, abriu as arcas da roupa das mulheres. Cavou uma vala e deitou nela os vestidos, as combinações, as toalhas, os lençóis, as colchas, as mantas, os travesseiros, os cueiros, as meias, os aventais, as luvas, os xailes e as toucas. Ateou-lhes fogo. Não houve nisso dramatismo algum. Viu crepitarem nas chamas as rendas de bilros derretidas e as bainhas e galões dos tecidos encardidos. Ardendo, a história dos lavores diluíase na cacimba. Os bordados acendiam o silvado e soltavam faíscas, num adeus para sempre sem direito a palmas.</p>
+        <p>Djaimilia Pereira de Almeida. A visão das plantas.</p>
+        <p>No texto, a citação de objetos ligados ao espaço doméstico acompanha o gesto narrado e participa diretamente da construção do sentido da cena, permitindo afirmar que tal enumeração</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>cria um efeito de acumulação que, associado à destruição, relaciona a queima dos objetos ao apagamento do trabalho que eles representam.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>organiza a descrição do espaço doméstico, contribuindo para a visualização da cena, ao mesmo tempo que dilui o impacto da ação narrada.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>estabelece diferenças entre os objetos citados, sugerindo valores simbólicos distintos dentro do conjunto apresentado.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>sugere a possibilidade de recompor simbolicamente o que é destruído pela personagem, reduzindo o impacto do gesto narrado.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>indica hesitação da personagem, marcada pela repetição de elementos concretos que compõem a ação principal da cena. ##### e2</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

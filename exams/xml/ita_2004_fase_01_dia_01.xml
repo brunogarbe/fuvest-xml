@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2004" phase="objective" day="0" variation="V1" date="2004-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Durante a apresentação do projeto de um sistema acústico, um jovem aluno do ITA esqueceu-se da expressão da intensidade de uma onda sonora. Porém, usando da intuição, concluiu ele que a intensidade média ( I ) é uma função da amplitude do movimento do ar ( A ), da freqüência ( f ), da densidade do ar ( ) ρ e da velocidade do som ( c ), chegando à expressão x y z I A f c ρ = . Considerando as grandezas fundamentais: massa, comprimento e tempo, assinale a opção correta que representa os respectivos valores dos expoentes x, y e z.</p>
+        <p>A ( ) 1, 2, 2 −</p>
+        <p>B ( ) 2, 1, 2 −</p>
+        <p>C ( ) 2, 2, 1 − D ( ) 2, 2, 1 E ( ) 2, 2, 2</p>
+        <p>A ( ) 1 2 2 2 1 2 1   −   +   m g µ µ</p>
+        <p>B ( ) 1 2 2 2 1 2 1 µ µ   +   −   m g</p>
+        <p>C ( ) 2 2 1 2 1 m g µ µ   −   +  </p>
+        <p>D ( ) 2 2 1 1 µ µ   +   −   m g</p>
+        <p>E ( ) n.d.a.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Durante as Olimpíadas de 1968, na cidade do México, Bob Beamow bateu o recorde de salto em distância, cobrindo 8,9 m de extensão. Suponha que, durante o salto, o centro de gravidade do atleta teve sua altura variando de 1,0 m no início, chegando ao máximo de 2,0 m e terminando a 0,20 m no fim do salto. Desprezando o atrito com o ar, pode-se afirmar que o componente horizontal da velocidade inicial do salto foi de</p>
+        <p>A ( ) 8,5 m/s . B ( ) 7,5 m/s . C ( ) 6,5 m/s . D ( ) 5,2 m/s . E ( ) 4,5 m/s .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. A figura representa o percurso de um ciclista, num plano horizontal, composto de dois trechos retilíneos (AB e EF), cada um com 6,0 m de comprimento, e de um trecho sinuoso intermediário formado por arcos de circunferências de mesmo diâmetro, igual a 4,0 m, cujos centros se encontram numerados de 1 a 7. Considere pontual o sistema ciclista–bicicleta e que o percurso é completado no menor tempo, com velocidade escalar constante.</p>
+        <p>Se o coeficiente de atrito estático com o solo é 0,80, µ= assinale a opção correta que indica, respectivamente, a velocidade do ciclista, o tempo despendido no percurso e a freqüência de zigue-zague no trecho BE.</p>
+        <p>A ( ) 6,0 m/s 6,0 s 0,17s-1</p>
+        <p>B ( ) 4,0 m/s 12s 0,32s-1</p>
+        <p>C ( ) 9,4 m/s 3,0s 0,22s-1 D ( ) 6,0 m/s 3,1s 0,17s-1</p>
+        <p>E ( ) 4,0 m/s 12s 6,0 s-1</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Um atleta mantém-se suspenso em equilíbrio, forçando as mãos contra duas paredes verticais, perpendiculares entre si, dispondo seu corpo simetricamente em relação ao canto e mantendo seus braços horizontalmente alinhados, como mostra a figura. Sendo m a massa do corpo do atleta e µ o coeficiente de atrito estático interveniente, assinale a opção correta que indica o módulo mínimo da força exercida pelo atleta em cada parede. o 90 1 2 3 4 5 6 7 A B E F</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Duas partículas carregadas com cargas opostas estão posicionadas em uma corda nas posições 0 = x e , = x π respectivamente. Uma onda transversal e progressiva de equação ( , ) ( / 2) ( ), y x t sen x t π ω = − presente na corda, é capaz de transferir energia para as partículas, não sendo, porém, afetada por elas. Considerando T o período da onda, f E , a energia potencial elétrica das partículas no instante / 4 = t T , e iE essa mesma energia no instante 0 = t , assinale a opção correta indicativa da razão / f i E E .</p>
+        <p>A ( ) 2 / 2π B ( ) 2 / 2 C ( ) 2</p>
+        <p>D ( ) 2 / 2 π</p>
+        <p>E ( ) 2 π</p>
+        <p>A ( ) a chave 1 for ligada.</p>
+        <p>B ( ) a chave 1 for ligada ou então desligada.</p>
+        <p>C ( ) a chave 2 for ligada.</p>
+        <p>D ( ) a chave 2 for ligada ou então desligada. E ( ) a chave 2 for desligada.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. O circuito elétrico mostrado na figura é constituído por dois geradores ideais, com 45 V de força eletromotriz, cada um; dois capacitores de capacitâncias iguais a 2 F µ ; duas chaves S e T e sete resistores, cujas resistências estão indicadas na figura. Considere que as chaves S e T se encontram inicialmente fechadas e que o circuito está no regime estacionário.</p>
+        <p>Assinale a opção correta.</p>
+        <p>A ( ) A corrente através do resistor d é de 7,5 A. B ( ) A diferença de potencial em cada capacitor é de 15 V. C ( ) Imediatamente após a abertura da chave T, a corrente através do resistor g é de 3,75 A. D ( ) A corrente através do resistor e, imediatamente após a abertura simultânea das chaves S e T, é de 1,0 A. E ( ) A energia armazenada nos capacitores é de 4 6,4 x 10 . −J</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Em 1879, Edwin Hall mostrou que, numa lâmina metálica, os elétrons de condução podem ser desviados por um campo magnético, tal que no regime estacionário, há um acúmulo de elétrons numa das faces da lâmina, ocasionando uma diferença de potencial H V entre os pontos P e Q, mostrados na figura. Considere, agora, uma lâmina de cobre de espessura L e largura d, que transporta uma corrente elétrica de intensidade i, imersa no campo magnético uniforme B ur que penetra perpendicularmente a face ABCD, no mesmo sentido de C para E. Assinale a alternativa correta.</p>
+        <p>A ( ) O módulo da velocidade dos elétrons é H e V = V / (BL) .</p>
+        <p>B ( ) O ponto Q está num potencial mais alto que o ponto P. C ( ) Elétrons se acumulam na face AGHD. D ( ) Ao se imprimir à lâmina uma velocidade H V = V / (Bd) no sentido indicado pela corrente, o potencial em P torna-se igual ao potencial em Q. E ( ) N.d.a. a b c d e f g 4Ω 2Ω 2Ω 4Ω 4Ω S T 45V 45V 2 F µ 2 F µ 12Ω 2Ω i i P Q L d A B C D E F G H</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. A figura plana ao lado mostra os elementos de um circuito elétrico. Nesse mesmo plano encontram-se duas espiras interligadas, A e B, de comprimentos relativamente curtos em comparação aos dois fios condutores próximos (CD e EF). A deflexão do ponteiro do micro-amperímetro, intercalado na espira B, só ocorre instantaneamente no momento em que</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Um painel coletor de energia solar para aquecimento residencial de água, com 50% de eficiência, tem superfície coletora com área útil de 10 m2 . A água circula em tubos fixados sob a superfície coletora. Suponha que a intensidade da energia solar incidente é de 3 2 1,0 10 / × W m e que a vazão de suprimento de água aquecida é de 6,0 litros por minuto. Assinale a opção que indica a variação da temperatura da água.</p>
+        <p>A ( ) 12 0 C</p>
+        <p>B ( ) 10 0 C</p>
+        <p>C ( ) 1,2 0 C</p>
+        <p>D ( ) 1,0 0 C</p>
+        <p>E ( ) 0,10 0 C</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Um recipiente cilíndrico vertical é fechado por meio de um pistão, com 8,00 kg de massa e 60,0 cm2 de área, que se move sem atrito. Um gás ideal, contido no cilindro, é aquecido de 30 oC a 100 oC, fazendo o pistão subir 20,0 cm. Nesta posição, o pistão é fixado, enquanto o gás é resfriado até sua temperatura inicial. Considere que o pistão e o cilindro encontram-se expostos à pressão atmosférica. Sendo Q1 o calor adicionado ao gás durante o processo de aquecimento e Q2 , o calor retirado durante o resfriamento, assinale a opção correta que indica a diferença Q1 – Q2.</p>
+        <p>A ( ) 136 J</p>
+        <p>B ( ) 120 J</p>
+        <p>C ( ) 100 J</p>
+        <p>D ( ) 16 J</p>
+        <p>E ( ) 0 J</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. A linha das neves eternas encontra-se a uma altura 0 h acima do nível do mar, onde a temperatura do ar é 0 0 C. Considere que, ao elevar-se acima do nível do mar, o ar sofre uma expansão adiabática que obedece à relação / (7 2)( / ) p p T T ∆ = ∆ , em que p é a pressão e T , a temperatura. Considerando o ar um gás ideal de massa molecular igual a 30 u (unidade de massa atômica) e a temperatura ao nível do mar igual a 0 30 C, assinale a opção que indica aproximadamente a altura 0 h da linha das neves.</p>
+        <p>A ( ) 2,5 km B ( ) 3,0 km C ( ) 3,5 km D ( ) 4,0 km E ( ) 4,5 km</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Uma estrela mantém presos, por meio de sua atração gravitacional, os planetas Alfa, Beta e Gama. Todos descrevem órbitas elípticas, em cujo foco comum se encontra a estrela, conforme a primeira lei de Kepler. Sabe-se que o semi-eixo maior da órbita de Beta é o dobro daquele da órbita de Gama. Sabe-se também que o período de Alfa é 2 vezes maior que o período de Beta. Nestas condições, pode-se afirmar que a razão entre o período de Alfa e o de Gama é</p>
+        <p>A ( ) 2 .</p>
+        <p>B ( ) 2.</p>
+        <p>C ( ) 4.</p>
+        <p>D ( ) 4 2 .</p>
+        <p>E ( ) 6 2 .</p>
+        <p>A ( ) 4 /5 λ .</p>
+        <p>B ( ) 5 / 4 λ .</p>
+        <p>C ( ) 3 / 2 λ . D ( ) 2λ .</p>
+        <p>E ( ) 4λ .</p>
+        <p>A ( ) 0,38λ .</p>
+        <p>B ( ) 0,60λ .</p>
+        <p>C ( ) λ . D ( ) 1,2λ .</p>
+        <p>E ( ) 1,7λ .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Na figura, 1F e 2 F são fontes sonoras idênticas que emitem, em fase, ondas de freqüência f e comprimento de onda λ . A distância d entre as fontes é igual a 3 λ . Pode-se então afirmar que a menor distância não nula, tomada a partir de 2 F , ao longo do eixo x , para a qual ocorre interferência construtiva, é igual a</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Num experimento de duas fendas de Young, com luz monocromática de comprimento de onda λ , coloca-se uma lâmina delgada de vidro ( ) 1,6 v n = sobre uma das fendas. Isto produz um deslocamento das franjas na figura de interferência. Considere que o efeito da lâmina é alterar a fase da onda. Nestas circunstâncias, pode-se afirmar que a espessura d da lâmina, que provoca o deslocamento da franja central brilhante (ordem zero) para a posição que era ocupada pela franja brilhante de primeira ordem, é igual a Anteparo d Lâmina λ 1F 2 F 1F 2 F d x</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Um tubo sonoro de comprimento l , fechado numa das extremidades, entra em ressonância, no seu modo fundamental, com o som emitido por um fio, fixado nos extremos, que também vibra no modo fundamental. Sendo L o comprimento do fio, m sua massa e c, a velocidade do som no ar, pode-se afirmar que a tensão submetida ao fio é dada por</p>
+        <p>A ( ) 2 ( / 2L) c ml . B ( ) 2 ( / 2 ) c mL l . C ( ) 2 ( / ) c mL l . D ( ) 2 ( / ) c m l l . E ( ) n.d.a.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. O átomo de hidrogênio no modelo de Bohr é constituído de um elétron de carga e que se move em órbitas circulares de raio r, em torno do próton, sob a influência da força de atração coulombiana. O trabalho efetuado por esta força sobre o elétron ao percorrer a órbita do estado fundamental é</p>
+        <p>A ( ) 2 0 /(2 ) − ε e r . B ( ) 2 0 /(2 ) ε e r . C ( ) 2 0 /(4 ) − πε e r . D ( ) 2 / e r . E ( ) n.d.a.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Num experimento que usa o efeito fotoelétrico, ilumina-se sucessivamente a superfície de um metal com luz de dois comprimentos de onda diferentes, 1 λ e 2 λ , respectivamente. Sabe-se que as velocidades máximas dos fotoelétrons emitidos são, respectivamente, 1 2 e v v , em que 1 2 2 v v = . Designando C a velocidade da luz no vácuo, e h constante de Planck, pode-se, então, afirmar que a função trabalhoφ do metal é dada por</p>
+        <p>A ( ) 1 2 1 2 (2 ) /( ) − hC λ λ λ λ .</p>
+        <p>B ( ) 2 1 1 2 ( 2 ) /( ) − hC λ λ λ λ .</p>
+        <p>C ( ) 2 1 1 2 ( 4 ) /(3 ) − hC λ λ λ λ . D ( ) 1 2 1 2 (4 ) /(3 ) − hC λ λ λ λ .</p>
+        <p>E ( ) 1 2 1 2 (2 ) /(3 ) − hC λ λ λ λ .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Uma lente convergente tem distância focal de 20 cm quando está mergulhada em ar. A lente é feita de vidro, cujo índice de refração é 1,6 v n = . Se a lente é mergulhada em um meio, menos refringente do que o material da lente, cujo índice de refração é n, considere as seguintes afirmações:</p>
+        <p>I. A distância focal não varia se o índice de refração do meio for igual ao do material da lente. II. A distância focal torna-se maior se o índice de refração n for maior que o do ar. III. Neste exemplo, uma maior diferença entre os índices de refração do material da lente e do meio implica numa menor distância focal.</p>
+        <p>Então, pode-se afirmar que</p>
+        <p>A ( ) apenas a II é correta.</p>
+        <p>B ( ) apenas a III é correta. C ( ) apenas II e III são corretas. D ( ) todas são corretas. E ( ) todas são incorretas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Ao olhar-se num espelho plano, retangular, fixado no plano de uma parede vertical, um homem observa a imagem de sua face tangenciando as quatro bordas do espelho, isto é, a imagem de sua face encontra-se ajustada ao tamanho do espelho. A seguir, o homem afasta-se, perpendicularmente à parede, numa certa velocidade em relação ao espelho, continuando a observar sua imagem. Nestas condições, pode-se afirmar que essa imagem</p>
+        <p>A ( ) torna-se menor que o tamanho do espelho tal como visto pelo homem. B ( ) torna-se maior que o tamanho do espelho tal como visto pelo homem. C ( ) continua ajustada ao tamanho do espelho tal como visto pelo homem. D ( ) desloca-se com o dobro da velocidade do homem. E ( ) desloca-se com metade da velocidade do homem.</p>
+        <p>A ( ) ( a) (1 / ) + − g m d ρ .</p>
+        <p>B ( ) ( a) (1 / ) − − g m d ρ .</p>
+        <p>C ( ) ( a) (1 / ) + + g m d ρ . D ( ) ( a) (1 / ) − + g m d ρ .</p>
+        <p>E ( ) ( a) (1 / ) + − g m d ρ .</p>
+        <p>AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Tubos de imagem de televisão possuem bobinas magnéticas defletoras que desviam elétrons para obter pontos luminosos na tela e, assim, produzir imagens. Nesses dispositivos, elétrons são inicialmente acelerados por uma diferença de potencial U entre o catodo e o anodo. Suponha que os elétrons são gerados em repouso sobre o catodo. Depois de acelerados, são direcionados, ao longo do eixo x, por meio de uma fenda sobre o anodo, para uma região de comprimento L onde atua um campo de indução magnética uniforme uur B , que penetra perpendicularmente o plano do papel, conforme mostra o esquema. Suponha, ainda, que a tela delimita a região do campo de indução magnética.</p>
+        <p>Se um ponto luminoso é detectado a uma distância b sobre a tela, determine a expressão da intensidade de uur B necessária para que os elétrons atinjam o ponto luminoso P, em função dos parâmetros e constantes fundamentais intervenientes. (Considere b &lt;&lt; L).</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma máquina térmica opera com um mol de um gás monoatômico ideal. O gás realiza o ciclo ABCA, representado no plano PV, conforme mostra a figura. Considerando que a transformação BC é adiabática, calcule:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>a eficiência da máquina;</p>
+        </part>
+        <part>
+          <p>a variação da entropia na transformação BC. P(Pa) 3200 80 1 8 3 V(m ) A B C tela × × × × × × × × × × × × × × × × × × × × × × × × B r b x y elétron P L anodo catodo U ar m</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Um bloco homogêneo de massa m e densidade d é suspenso por meio de um fio leve e inextensível preso ao teto de um elevador. O bloco encontra-se totalmente imerso em água, de densidade ρ , contida em um balde, conforme mostra a figura. Durante a subida do elevador, com uma aceleração constante ura , o fio sofrerá uma tensão igual a</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Dois tubos sonoros A e B emitem sons simultâneos de mesma amplitude, de freqüências A f 150Hz = e Bf 155Hz, = respectivamente.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Calcule a freqüência do batimento do som ouvido por um observador que se encontra próximo aos tubos e em repouso em relação aos mesmos.</p>
+        </part>
+        <part>
+          <p>Calcule a velocidade que o tubo B deve possuir para eliminar a freqüência do batimento calculada no item a), e especifique o sentido desse movimento em relação ao observador.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Atualmente, vários laboratórios, utilizando vários feixes de laser, são capazes de resfriar gases a temperaturas muito próximas do zero absoluto, obtendo moléculas e átomos ultrafrios. Considere três átomos ultrafrios de massa M, que se aproximam com velocidades desprezíveis. Da colisão tripla resultante, observada de um referencial situado no centro de massa do sistema, forma-se uma molécula diatômica com liberação de certa quantidade de energia B. Obtenha a velocidade final do átomo remanescente em função de B e M.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. As duas faces de uma lente delgada biconvexa têm um raio de curvatura igual a 1,00 m. O índice de refração da lente para luz vermelha é 1,60 e, para luz violeta, 1,64. Sabendo que a lente está imersa no ar, cujo índice de refração é 1,00, calcule a distância entre os focos de luz vermelha e de luz violeta, em centímetros.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Na prospecção de jazidas minerais e localização de depósitos subterrâneos, é importante o conhecimento da condutividade elétrica do solo. Um modo de medir a condutividade elétrica do solo é ilustrado na figura. Duas esferas metálicas A e B, idênticas, de raio r, são profundamente enterradas no solo, a uma grande distância entre as mesmas, comparativamente a seus raios. Fios retilíneos, isolados do solo, ligam as esferas a um circuito provido de bateria e um galvanômetro G. Conhecendo-se a intensidade da corrente elétrica e a força eletromotriz da bateria, determina-se a resistência R oferecida pelo solo entre as esferas.</p>
+        <p>Sabendo que / RC ε σ = , em que σ é a condutividade do solo, C é a capacitância do sistema e ε a constante dielétrica do solo, pedem-se:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Desenhe o circuito elétrico correspondente do sistema esquematizado e calcule a capacitância do sistema.</p>
+        </part>
+        <part>
+          <p>Expresse σ em função da resistência R e do raio r das esferas.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="27">
+      <statement>
+        <p>. A figura representa o esquema simplificado de um circuito elétrico em uma instalação residencial. Um gerador bifásico produz uma diferença de potencial (d.d.p) de 220 V entre as fases ( 110 V e 110 V) + − e uma ddp de 110 V entre o neutro e cada uma das fases. No circuito estão ligados dois fusíveis e três aparelhos elétricos, com as respectivas potências nominais indicadas na figura.</p>
+        <p>Admitindo que os aparelhos funcionam simultaneamente durante duas horas, calcule a quantidade de energia elétrica consumida em quilowatt-hora (kWh) e, também, a capacidade mínima dos fusíveis, em ampére.</p>
+        <p>r A r B G</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Um elétron é acelerado a partir do repouso por meio de uma diferença de potencial U, adquirindo uma quantidade de movimento p. Sabe-se que, quando o elétron está em movimento, sua energia relativística é dada por 1 2 2 2 2 2 0 ( )   = +   E m C p C , em que 0 m é a massa de repouso do elétron e C a velocidade da luz no vácuo. Obtenha o comprimento de onda de De Broglie do elétron em função de U e das constantes fundamentais pertinentes.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Duas salas idênticas estão separadas por uma divisória de espessura 5,0 L cm = , área 2 100 A m = e condutividade térmica 2,0 / . = k W m K O ar contido em cada sala encontra-se, inicialmente, à temperatura 0 1 47 T C = e 0 2 27 , = T C respectivamente. Considerando o ar como um gás ideal e o conjunto das duas salas um sistema isolado, calcule:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>O fluxo de calor através da divisória relativo às temperaturas iniciais 1 2 e T T .</p>
+        </part>
+        <part>
+          <p>A taxa de variação de entropia / S t ∆ ∆ no sistema no início da troca de calor, explicando o que ocorre com a desordem do sistema.</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Na figura, uma pipeta cilíndrica de 25 cm de altura, com ambas as extremidades abertas, tem 20 cm mergulhados em um recipiente com mercúrio. Com sua extremidade superior tapada, em seguida a pipeta é retirada lentamente do recipiente.</p>
+        <p>Considerando uma pressão atmosférica de 75 cm Hg, calcule a altura da coluna de mercúrio remanescente no interior da pipeta.</p>
+        <p>20cm 25cm Hg Ar</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

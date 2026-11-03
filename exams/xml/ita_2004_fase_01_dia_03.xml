@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2004" phase="objective" day="0" variation="V1" date="2004-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Considere as seguintes afirmações sobre o conjunto { } 0,1, 2, 3, 4, 5, 6, 7, 8, 9 U = :</p>
+        <p>I. U ∅∈ e ( ) 10 n U = . II. U ∅⊂ e ( ) 10 n U = . III. 5 U ∈ e { } 5 U ⊂ . IV. { } { } 0,1, 2,5 5 5 = ∩ .</p>
+        <p>Pode-se dizer, então, que é (são) verdadeira(s)</p>
+        <p>A ( ) apenas I e III.</p>
+        <p>B ( ) apenas II e IV.</p>
+        <p>C ( ) apenas II e III.</p>
+        <p>D ( ) apenas IV.</p>
+        <p>E ( ) todas as afirmações.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Seja o conjunto { } 2</p>
+        <p>: 0 e 2 = ∈ ≥ ≤ _ S r r r , sobre o qual são feitas as seguintes afirmações:</p>
+        <p>I. 5 7 e 4 5 S S ∈ ∈ .</p>
+        <p>II. { } :0 2 x x S ∈ ≤ ≤ = ∅ \ ∩ .</p>
+        <p>III. 2 S ∈ .</p>
+        <p>Pode-se dizer, então, que é (são) verdadeira(s) apenas</p>
+        <p>A ( ) I e II B ( ) I e III C ( ) II e III</p>
+        <p>D ( ) I</p>
+        <p>E ( ) II</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Seja α um número real, com 0 1 α &lt; &lt; . Assinale a alternativa que representa o conjunto de todos os valores de x tais que 2 2 2 1 1 x x α α         &lt; .</p>
+        <p>A ( ) , 0 2,         −∞ + ∞ ∪</p>
+        <p>B ( ) , 0 2,         −∞ + ∞ ∪</p>
+        <p>C ( ) 0,2    </p>
+        <p>D ( ) ,0     −∞</p>
+        <p>E ( ) 2,     + ∞</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Considere a função ( ) : , 2 cos 2 sen → = + \ ^ f f x x i x . Então, , , x y ∀ ∈\ o valor do produto ( ) ( ) f x f y é igual a</p>
+        <p>A ( ) ( ) f x y +</p>
+        <p>B ( ) ( ) 2 f x y +</p>
+        <p>C ( ) ( ) 4i f x y +</p>
+        <p>D ( ) ( ) f x y</p>
+        <p>E ( ) ( ) ( ) 2 2 f x i f y +</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Considere 12 pontos distintos dispostos no plano, 5 dos quais estão numa mesma reta. Qualquer outra reta do plano contém, no máximo, 2 destes pontos. Quantos triângulos podemos formar com os vértices nestes pontos?</p>
+        <p>A ( ) 210</p>
+        <p>B ( ) 315 C ( ) 410</p>
+        <p>D ( ) 415 E ( ) 521</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Seja x∈\ e a matriz ( ) 1 2 2 2 1 2 log 5 −   +   =     x x x A . Assinale a opção correta.</p>
+        <p>A ( ) x ∀∈\ , A possui inversa. B ( ) Apenas para 0 x &gt; , A possui inversa.</p>
+        <p>C ( ) São apenas dois os valores de x para os quais A possui inversa. D ( ) Não existe valor de x para o qual A possui inversa.</p>
+        <p>E ( ) Para 2 log 5 x = , A não possui inversa.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Considerando as funções</p>
+        <p>/2, /2 arc sen: 1, 1 π π         − −+ → e 0, arc cos: 1, 1 π         −+ → ,</p>
+        <p>assinale o valor de 3 4 cos arcsen arccos 5 5   +     .</p>
+        <p>A ( ) 6 25 B ( ) 7 25 C ( ) 1 3 D ( ) 2 5</p>
+        <p>E ( ) 5 12</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Considere um polígono convexo de nove lados, em que as medidas de seus ângulos internos constituem uma progressão aritmética de razão igual a 5o. Então, seu maior ângulo mede, em graus,</p>
+        <p>A ( ) 120</p>
+        <p>B ( ) 130 C ( ) 140 D ( ) 150</p>
+        <p>E ( ) 160</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. O termo independente de x no desenvolvimento do binômio 3 12 3 3 5 5 3           − x x x x é</p>
+        <p>A ( ) 3 729 45 B ( ) 3 972 15 C ( ) 3 3 891 5 D ( ) 3 5 376 3 E ( ) 3 165 75</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Considere as afirmações dadas a seguir, em que A é uma matriz quadrada n n × , 2 n ≥ :</p>
+        <p>I. O determinante de A é nulo se e somente se A possui uma linha ou uma coluna nula. II. Se ( ) i j A a = é tal que 0 i j a = para , com , 1,2,..., , &gt; = i j i j n então 11 22... det n n a a A a = . III. Se B for obtida de A, multiplicando-se a primeira coluna por 2 1 + e a segunda por 2 1 −, mantendo-se inalteradas as demais colunas, então det det B A = .</p>
+        <p>Então, podemos afirmar que é (são) verdadeira(s)</p>
+        <p>A ( ) apenas II.</p>
+        <p>B ( ) apenas III.</p>
+        <p>C ( ) apenas I e II.</p>
+        <p>D ( ) apenas II e III.</p>
+        <p>E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Considere um cilindro circular reto, de volume igual a 3 360 cm π , e uma pirâmide regular cuja base hexagonal está inscrita na base do cilindro. Sabendo que a altura da pirâmide é o dobro da altura do cilindro e que a área da base da pirâmide é de 2 54 3 cm , então, a área lateral da pirâmide mede, em cm2,</p>
+        <p>A ( ) 18 427 B ( ) 27 427 C ( ) 36 427 D ( ) 108 3 E ( ) 45 427</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. O conjunto de todos os valores de α , , 2 2 π π α   ∈−     , tais que as soluções da equação (em x )</p>
+        <p>4 2 4 48 tg 0 x x α − + =</p>
+        <p>são todas reais, é</p>
+        <p>A ( ) , 0 3 π   −    </p>
+        <p>B ( ) , 4 4 π π   −    </p>
+        <p>C ( ) , 6 6 π π   −     D ( ) 0, 3 π       E ( ) , 12 3 π π      </p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Sejam as funções f e g definidas em \ por 2 ( ) f x x x α = + e ( ) 2 ( ) g x x x β = − + , em que α e β são números reais. Considere que estas funções são tais que</p>
+        <p>f g Valor mínimo Ponto de mínimo Valor máximo Ponto de máximo</p>
+        <p>1 −</p>
+        <p>0 &lt;</p>
+        <p>9 4</p>
+        <p>0 &gt;</p>
+        <p>Então, a soma de todos os valores de x para os quais ( ) ( ) o 0 f g x = é igual a</p>
+        <p>A ( ) 0</p>
+        <p>B ( ) 2</p>
+        <p>C ( ) 4 D ( ) 6</p>
+        <p>E ( ) 8</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Considere todos os números z x i y = + que têm módulo 7 2 e estão na elipse 2 2 4 4 x y + = . Então, o produto deles é igual a</p>
+        <p>A ( ) 25 9</p>
+        <p>B ( ) 49 16</p>
+        <p>C ( ) 81 25</p>
+        <p>D ( ) 25 7 E ( ) 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Para algum número real r , o polinômio 3 2 8 4 42 45 x x x − − + é divisível por ( ) 2 x r − . Qual dos números abaixo está mais próximo de r ?</p>
+        <p>A ( ) 1,62 B ( ) 1,52 C ( ) 1,42 D ( ) 1,32 E ( ) 1,22</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Assinale a opção que representa o lugar geométrico dos pontos ( ) ,x y do plano que satisfazem a equação 2 2 1 40 2 6 1 det 288 4 2 0 1 34 5 3 1   +    =         x y x y .</p>
+        <p>A ( ) Uma elipse.</p>
+        <p>B ( ) Uma parábola.</p>
+        <p>C ( ) Uma circunferência.</p>
+        <p>D ( ) Uma hipérbole.</p>
+        <p>E ( ) Uma reta.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. A soma das raízes da equação 3 2 2 2 0 z z z z + − + = , z ∈^ , é igual a</p>
+        <p>A ( ) − 2</p>
+        <p>B ( ) − 1 C ( ) 0</p>
+        <p>D ( ) 1</p>
+        <p>E ( ) 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Dada a equação ( ) ( ) 3 2 1 9 9 0 x m x m x + + + + + = , em que m é uma constante real, considere as seguintes afirmações:</p>
+        <p>I. Se 6,6 m     ∈− , então existe apenas uma raiz real. II. Se 6 m = − ou 6 m = + , então existe raiz com multiplicidade 2. III. , m ∀ ∈\ todas as raízes são reais.</p>
+        <p>Então, podemos afirmar que é (são) verdadeira(s) apenas</p>
+        <p>A ( ) I</p>
+        <p>B ( ) II</p>
+        <p>C ( ) III</p>
+        <p>D ( ) II e III</p>
+        <p>E ( ) I e II</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Duas circunferências concêntricas 1 2 e C C têm raios de 6 cme 6 2cm, respectivamente. Seja AB uma corda de 2 C , tangente à 1 C . A área da menor região delimitada pela corda AB e pelo arco q AB mede, em 2 cm ,</p>
+        <p>A ( ) ( ) 9 3 π −</p>
+        <p>B ( ) ( ) 18 3 π +</p>
+        <p>C ( ) ( ) 18 2 π − D ( ) ( ) 18 2 π + E ( ) ( ) 16 3 π +</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. A área total da superfície de um cone circular reto, cujo raio da base mede cm R , é igual à terça parte da área de um círculo de diâmetro igual ao perímetro da seção meridiana do cone. O volume deste cone, em 3 cm , é igual a</p>
+        <p>A ( ) 3 R π</p>
+        <p>B ( ) 3 2 R π</p>
+        <p>C ( ) 3 2 R π</p>
+        <p>D ( ) 3 3R π</p>
+        <p>E ( ) 3 3 R π</p>
+        <p>As questões dissertativas, numeradas de 21 a 30, devem ser resolvidas e respondidas no caderno de soluções.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Seja A um conjunto não-vazio.</p>
+        <p>a. Se ( ) n A m = , calcule ( ) ( ) n A P em termos de m.</p>
+        <p>b. Denotando ( ) ( ) 1 A A = P P e ( ) ( ) ( ) 1 k k A A + = P P P , para todo número natural 1 k ≥, determine o menor k , tal que ( ) ( ) 65000 k n A ≥ P , sabendo que ( ) 2 n A = .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Uma caixa branca contém 5 bolas verdes e 3 azuis, e uma caixa preta contém 3 bolas verdes e 2 azuis. Pretende-se retirar uma bola de uma das caixas. Para tanto, 2 dados são atirados. Se a soma resultante dos dois dados for menor que 4, retira-se uma bola da caixa branca. Nos demais casos, retira-se uma bola da caixa preta. Qual é a probabilidade de se retirar uma bola verde?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Determine os valores reais do parâmetro a para os quais existe um número real x satisfazendo 2 1 x a x − ≥ − .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Sendo 1 2 i z + = , calcule 60 60 2 3 1 ... n n z z z z z = = + + + + ∑ .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Para 1 e 0, b x &gt; &gt; resolva a equação em x : ( ) ( ) log 2 log 3 2 3 0 b b x x − = .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Considere a equação 3 2 3 2 0 x x x d + − + = , em que d é uma constante real. Para qual valor de d a equação admite uma raiz dupla no intervalo 0,1     ?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Prove que, se os ângulos internos , e α β γ de um triângulo satisfazem a equação</p>
+        <p>sen(3 ) sen(3 ) sen(3 ) 0 α β γ + + = ,</p>
+        <p>então, pelo menos, um dos três ângulos , ou α β γ é igual a 60o.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Se A é uma matriz real, considere as definições:</p>
+        <p>I. Uma matriz quadrada A é ortogonal se e só se A for inversível e 1 T A A −= . II. Uma matriz quadrada A é diagonal se e só se 0 i j a = , para todo , 1, ..., , com i j n i j = ≠ .</p>
+        <p>Determine as matrizes quadradas de ordem 3 que são, simultaneamente, diagonais e ortogonais.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Sejam r e s duas retas que se interceptam segundo um ângulo de 60o. Seja 1 C uma circunferência de 3 cm de raio, cujo centro O se situa em s, a 5 cm de r. Determine o raio da menor circunferência tangente à 1 C e à reta r, cujo centro também se situa na reta s.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Sejam os pontos ( ) ( ) : 2, 0 , : 4, 0 A B e ( ) : 3, 5 2 2 + P .</p>
+        <p>a. Determine a equação da circunferência C, cujo centro está situado no primeiro quadrante, passa pelos pontos A e B e é tangente ao eixo y.</p>
+        <p>b. Determine as equações das retas tangentes à circunferência C que passam pelo ponto P.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

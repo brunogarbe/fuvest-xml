@@ -1,0 +1,1286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FATEC" year="2025" phase="objective" day="1" variation="V1" date="2025-01-01" lang="pt-br">
+  <question_group>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Ao se compararem os textos, pode-se concluir corretamente que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o conceito expresso no texto I não se encaixa no exemplo expresso no texto II, pois este ilustra a exploração de bens não renováveis.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o conceito expresso no texto II não se encaixa no texto I, uma vez que a economia verde visa ao lucro sem se preocupar com aspectos sociais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o conceito expresso no texto I vai ao encontro do exemplo dado no texto II, já que este enquadra-se nos princípios de respeito ao meio ambiente.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>os exemplos apresentados nos textos I e II se opõem ao ilustrarem, respectivamente, o controle dos meios de produção e a equidade de gênero.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o exemplo dado no texto II ilustra uma atividade extrativista que, apesar de recente e igualitária, contrapõe-se aos princípios expostos no texto I.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="02">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Assinale a alternativa que analisa corretamente os termos em negrito nos textos.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Em significativamente, ocorre um substantivo com função adverbial responsável por intensificar o sentido do verbo.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Em princípios-chave, o plural do adjetivo composto está incorreto, pois, nesses casos, deve-se flexionar apenas o último elemento.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A retomada do termo “equidade” por mesma, embora rara, é aceita pela gramática normativa.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O termo que classifica-se como pronome relativo, e tem como antecedente o substantivo “grupo”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A palavra portanto é uma conjunção que expressa sentido de conclusão, correspondendo a “então” ou “logo”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O pronome presente em “restaurá-la” (texto I) retoma</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“do bem-estar”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“as pessoas”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“a equidade”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“a mesma qualidade”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“a natureza”. 3 VESTIBULAR ∙ Fatec “Houve outrora uma cidade, [...] onde todos os seres vivos estavam em harmonia com o ambiente circunstante [...] composto de fazendas prósperas, com campos de trigo e encostas de pomares, nos quais, na primavera, nuvens brancas de flores oscilavam por cima das campinas verdejantes. Depois, uma doença estranha das plantas se espalhou por toda a região, e tudo começou a mudar. [...] Registraramse várias mortes, súbitas e inexplicadas, não somente entre os adultos, mas também entre as crianças. […] Nas calhas, por baixo dos beirais, e por entre as telhas dos telhados, um pó branco, granulado, ainda formava umas poucas faixas; algumas semanas antes, esse pó caíra como neve, por cima dos telhados e gramados, dos campos e rios. Nenhuma obra de feitiçaria, nenhuma ação de inimigo, havia silenciado o renascer de uma nova vida naquele mundo golpeado pela morte. Fora o povo, ele próprio, que fizera aquilo.” CARSON, R. Primavera Silenciosa. São Paulo: Edições Melhoramentos, 1969, p. 11-13. Adaptado.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Muito utilizado em lógica e matemática, o contraexemplo é um exemplo que vem refutar uma afirmação ou teoria. Assinale a alternativa na qual se apresenta uma situação histórica que é um contraexemplo do trecho do livro.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A Alemanha nazista, durante a Segunda Guerra Mundial, cuja campanha militar resultou em devastação ambiental e humana em várias regiões da Europa, levando à destruição de ecossistemas e infraestruturas, além da perda de vidas humanas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O Império Romano cujo colapso de sua sociedade foi decorrente de uma combinação de crises econômicas, militares, políticas e sociais, dentre elas epidemias que reduziram significativamente a população, o que afetou, por exemplo, a produção agrícola.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A União Soviética, durante a corrida armamentista e a industrialização pesada no século XX, priorizou o desenvolvimento econômico e militar, o que levou à degradação ambiental severa, como o desastre de Chernobyl e a destruição do Mar de Aral.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Os Incas criaram um império nos Andes, onde construíram sistemas de terraços agrícolas que permitiam a produção eficiente de alimentos sem degradar o ambiente, garantindo a sobrevivência de sua civilização até a chegada dos europeus.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A Inglaterra, durante a Revolução Industrial, promoveu avanços tecnológicos e econômicos, tornando-se a principal potência global da época, embora tenha causado degradação ambiental, como a poluição dos rios e do ar.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A chamada Revolução Verde ocorreu entre as décadas de 1960 e 1970 e representou uma mudança profunda na forma de produção agropecuária. Com o objetivo de aumentar a produção de alimentos para garantir a segurança alimentar, a Revolução Verde se baseou em extensas pesquisas científicas que visavam otimizar os processos desde as etapas iniciais de preparo do solo e seleção de sementes até o processo de colheita. Essa revolução teve como principal característica a adoção de tecnologias modernas, como</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a utilização de mão de obra rudimentar e pouco qualificada, devido ao baixo investimento de capitais, que garante uma produção de pequeno volume e voltada para o mercado interno.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o manejo dinâmico, baseado na experiência acumulada e no repertório de conhecimentos que remontam a tradições ancestrais, transmitidas por meio da oralidade e de vivências práticas.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o cultivo de vários produtos no mesmo local, em pequenas propriedades rurais, mediante o uso de técnicas artesanais e instrumentos de trabalho como enxadas, arados e animais de tração.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o melhoramento genético de espécies vegetais, o desenvolvimento de maquinário e a adoção de adubos, fertilizantes e agrotóxicos, muitas vezes prejudiciais ao meio ambiente e à saúde humana.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>o uso racional das fontes de água, o emprego de adubos orgânicos e a técnica da rotação de culturas, práticas baseadas no conceito de responsabilidade ambiental, que provoca poucas alterações no meio natural. 4 VESTIBULAR ∙ Fatec Leia o texto para responder às questões 06 e 07.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base no texto, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a adubação verde consiste em utilizar restos em decomposição de leguminosas e gramíneas, os quais aumentam a fixação do nitrogênio realizada pelas raízes.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a adubação verde é pouco favorável ao meio ambiente, pois diminui a FBN, causando danos irreversíveis ao meio ambiente.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o cultivo de plantas híbridas, assim como o uso de inoculantes sintéticos e fertilizantes, aumenta a eficiência da FBN.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a adubação verde permite o aumento da concentração de nitrogênio no solo e a redução dos riscos de poluição do meio ambiente.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a reciclagem de nutrientes do solo é feita por meio da aplicação de agrotóxicos, que controlam as pragas e que promovem a fixação biológica do nitrogênio.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Na FBN, a participação das bactérias do gênero mencionado no texto é importante porque esses micro-organismos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>atuam no processo de decomposição, permitindo a redução da quantidade de lixo orgânico e a manutenção do equilíbrio ecológico.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>realizam o processo de transformação dos nitratos — existentes nas raízes — em carboidratos, os quais fornecem a energia necessária ao desenvolvimento vegetal.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>desempenham importante função no processo de correção da acidez do solo, a fim de permitir a absorção direta do nitrogênio atmosférico pelas raízes das leguminosas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>atuam como inoculantes biológicos, que reduzem a capacidade de as raízes fixarem sódio, potássio e magnésio, minerais prejudiciais à realização da fotossíntese.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>convertem nitrogênio atmosférico em compostos nitrogenados, que são assimilados pelas leguminosas, as quais fornecem às bactérias a matéria orgânica produzida na fotossíntese.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A bioeconomia é um modelo de produção industrial baseado no uso de recursos biológicos. Esse modelo tem por objetivo oferecer soluções para a sustentabilidade dos sistemas de produção com vistas à substituição de recursos fósseis e não renováveis. &lt;https://tinyurl.com/2up3k4fm&gt; Acesso em: 03.08.2024. Adaptado. Esse tipo de economia é uma realidade no Brasil desde a década de 1970, quando foi criado(a)</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), surgido para monitorar o uso e a exploração econômica de recursos naturais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), para desenvolver atividades de preservação do patrimônio natural.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>o Programa Nacional do Álcool (Proálcool), desenvolvido para enfrentar a crise mundial do petróleo e para incentivar a utilização do álcool combustível.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a Petrobrás (Petróleo Brasileiro S/A), com o intuito de tornar o Brasil autossuficiente em petróleo e de diminuir a dependência externa do produto.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a Companhia Siderúrgica Nacional (CSN), com o objetivo de implantar um parque siderúrgico totalmente nacional. A adubação verde pode ser feita por meio da aplicação de procedimentos agrobiológicos, tais como: o uso de inoculantes agrícolas (produtos biológicos compostos por micro-organismos, como alguns tipos de bactérias) e o plantio de determinadas espécies de plantas, preferencialmente, leguminosas e gramíneas. Esses procedimentos têm por objetivo aumentar a eficiência da Fixação Biológica do Nitrogênio (FBN), visando recuperar solos degradados, tornando-os mais férteis, além de conservar os que já são altamente produtivos. A cultura de leguminosas (feijão, soja, lentilhas etc), por exemplo, é importante devido à presença de bactérias do gênero Rhizobium, que vivem em simbiose nos nódulos das raízes dessas plantas, promovendo a fixação biológica do nitrogênio (N2) presente na atmosfera. A adubação verde tem impactos ambientais e socioeconômicos altamente positivos, pois o produtor poderá reduzir ou até mesmo eliminar a aplicação de pesticidas e fertilizantes nitrogenados, diminuindo os riscos de poluição do solo e dos mananciais hídricos. 5 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Assinale a alternativa que apresenta a equação correta da reação química descrita no texto.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>CO3(g) + H2O(l) + C17H35COONa(aq) → NaHCO3(aq) + C17H35COOH(aq)</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>CO(g) + H2O(l) + C17H35COONa(aq) → C17H35COOH(aq) + NaHCO3(aq)</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>CO2(g) + H2O(l) + C17 H35COONa(aq) → C17H35COOH(aq) + NaHCO3(aq)</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>CO2(g) + C17H35COONa(aq) → C17H35COOH(aq)</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>CO2(g) + C17H35COONa(aq) + H2O (l) + C17H35COOH(aq) → NaHCO3(aq) Um grupo de moda brasileira anunciou a criação do primeiro tecido nacional capaz de capturar gás carbônico do meio ambiente e o eliminar a partir do processo de lavagem. O tecido captura o gás carbônico do ambiente e, na lavagem, esse gás reage com a água e com o estearato de sódio (C17H35COONa) presente no sabão. A reação forma o ácido esteárico (C17H35COOH) e o bicarbonato de sódio (NaHCO3), que são eliminados com a água durante o enxágue. &lt;https://tinyurl.com/2w7ft535&gt; Acesso em: 03.10.2024. Adaptado.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>É preciso lembrar que a Idade Média não foi um tempo de trevas nem uma longa transição estagnada. Os progressos técnicos são aí decisivos: o novo arado e o sistema de rotação trienal marcam o início da agricultura moderna. LE GOFF, J.; TRUONG, N. Uma história do corpo na Idade Média. Rio de Janeiro: Civilização Brasileira, 2006, p. 29. Sobre o sistema mencionado no texto, é correto afirmar que sua principal vantagem consistia</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>na regeneração do solo e, consequentemente, de sua fertilidade, o que levou ao aumento da produção e da qualidade de vida das pessoas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>na conservação das condições naturais locais do solo, da água e do ar, já que o sistema de rotação trienal mantém intocada a cobertura vegetal original.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>na integração entre a cadeia produtiva de alimentos, a logística de distribuição de longo alcance, o consumidor final, o meio ambiente e a sociedade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>na utilização de motores a combustão e equipamentos automatizados, que requerem mão de obra qualificada e investimento de capitais.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>na produção de apenas uma espécie de planta, em propriedades rurais extensas, com uso de adubos químicos, defensivos agrícolas e agrotóxicos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com os dados apresentados, podemos concluir corretamente que X camisetas capturam, em um dia, a mesma quantidade de gás carbônico que uma árvore adulta captura diariamente. Dados: massa molar do CO2 = 44 g/mol e constante de Avogadro = 6 × 1023 /mol Assinale a alternativa que contém o valor correto de X.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>5</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>15</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>20</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>25 A moda sustentável busca reduzir o impacto ambiental da indústria, promovendo o uso consciente de materiais e recursos. Visando alcançar esse objetivo, a tecnologia de materiais das áreas de construção civil e têxtil possibilitou o desenvolvimento de uma camiseta inovadora, capaz de absorver o CO2 do ar. A imagem retrata a quantidade de gás carbônico removida do ar, em um dia, por uma camiseta e por uma árvore adulta. &lt;https://tinyurl.com/2w7ft535&gt; Acesso em: 03.10.2024. Adaptado. 6 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O biogás é um tipo de combustível que pode ser aproveitado para geração de energia. Seu uso, em larga escala, pode substituir combustíveis fósseis que prejudicam o meio ambiente, diminuindo a dependência dessa matriz energética e, assim, incrementar a economia verde. Esse gás é produzido a partir da</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>decomposição de matéria orgânica de origem vegetal ou animal.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>separação do metano, contido no CO2 emitido pelos veículos automotivos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>dissolução de materiais inorgânicos encontrados em rochas magmáticas.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>destilação do nióbio, o mais recente elemento químico descoberto na natureza.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>eletrólise da água, realizada por baterias contidas nos motores dos carros elétricos.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O uso de fontes renováveis de energia, como a energia eólica, cresceu nos últimos anos devido às crescentes demandas relacionadas ao desenvolvimento sustentável. Em uma determinada região, suponha que a potência gerada por um modelo de aerogerador possa ser modelada (ou aproximada) pela função P(v) = –5v2 + 160v – 470, em que P(v) representa a potência gerada em kW e v corresponde à velocidade do vento em m/s, sendo 4 ≤ v ≤ 16. Assinale a alternativa que indica a velocidade do vento, em m/s, necessária para que a potência gerada pelo aerogerador seja igual a 630 kW.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>7</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>13</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>16</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="15">
+      <statement>
+        <p>Ferramentas de Inteligência Artificial Generativas (IA Gen) têm se tornado um desafio para a economia verde, devido ao excessivo consumo de energia que esses recursos demandam. Essas ferramentas chegam a ultrapassar o consumo anual médio de energia de uma cidade cujo consumo por habitante é de 50 kWh. Para se ter uma ideia, em um ano, uma das principais ferramentas de IA Gen teve um consumo médio de energia de, aproximadamente, 450 MWh. Dados: k = 103; M = 106 Considerando que as informações sobre os consumos da cidade e da ferramenta de IA Gen foram coletados simultaneamente, e tendo-os como referência, podemos afirmar corretamente que, se fosse uma cidade, o consumo de energia despendido por essa ferramenta teria condições de suprir uma população aproximada de pessoas igual a (A) 9 mil. (B) 22 mil. (C) 90 mil. (D) 22 milhões. (E) 900 milhões. A gasolina é uma mistura de hidrocarbonetos, dentre eles, o octano (C8H18). Nos motores, a combustão completa do octano produz gás carbônico e água, conforme a equação</p>
+        <p>C8H18(g) + O2(g) → 8 CO2(g) + 9H2O(l) ΔrH0 = – 5 471,0 kJ/mol Outro combustível que pode ser usado é o metano (CH4), um dos componentes do biogás. A combustão completa do metano produz gás carbônico e água, conforme a equação</p>
+        <p>CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l) ΔrH0 = – 890,0 kJ/mol Considerando as informações apresentadas nessas equações, podemos concluir que o uso do metano como combustível, em vez do octano, apresenta menor impacto ambiental, pois a queima (A) do metano produz gás oxigênio, que é indispensável à vida no planeta. (B) do metano absorve energia, o que contribui para diminuir o aquecimento global. (C) do metano libera gás hidrogênio para a atmosfera, o que contribui para o crescimento dos vegetais. (D) de 1 mol de moléculas de metano libera menos moléculas de gás carbônico que a queima de 1 mol de moléculas de octano. (E) de 1 mol de moléculas de metano libera menos moléculas de água que a queima de 1 mol de moléculas de octano. 25 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>7 VESTIBULAR ∙ Fatec</p>
+        <p>ARTIFICAL INTELLIGENCE</p>
+        <p>AI’s carbon footprint is bigger than you think</p>
+        <p>Generating one image takes as much energy as fully charging your smartphone.</p>
+        <p>By Melissa Heikkilä</p>
+        <p>December 5, 2023 &lt;https://tinyurl.com/4es9fs6a&gt; Acesso em: 04.10.2024.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O texto apresenta</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>um comparativo de superioridade e um comparativo de igualdade.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>um comparativo de igualdade e um comparativo de inferioridade.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>um superlativo e um comparativo de superioridade.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>um comparativo de inferioridade e um superlativo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>um superlativo e um comparativo de igualdade.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Para o carregamento da bateria de um celular, considere os seguintes dados: • o valor médio da carga completa da bateria é de 3 000 mAh; e • o potencial elétrico de operação é 5,0 V. Com base nesses dados e na informação contida no texto, podemos afirmar corretamente que uma imagem gerada por IA Gen consome, aproximadamente, energia equivalente, em Wh, a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0,000 000 15.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>0,000 15.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>15.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>15 000.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>15 000 000.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A economia verde é um modelo econômico que visa ao bem-estar social. Para alcançá-lo, é necessária a realização de várias ações, entre as quais está a universalização do saneamento básico que garante o acesso à água potável, o tratamento dos esgotos e, consequentemente, a prevenção de inúmeras doenças, como a leptospirose, a esquistossomose e a cólera. Sobre essas doenças, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a cólera é uma doença viral que é transmitida pela picada de insetos ou pela ingestão de água e de alimentos contaminados.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a leptospirose é causada pelas larvas dos vermes presentes nas fezes que o inseto barbeiro, enquanto suga o sangue, deposita sobre a pele da pessoa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a leptospirose é uma doença viral que se dissemina através de relações sexuais ou pela via fecal-oral, quando uma pessoa ingere algo que esteja contaminado por fezes.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a esquistossomose é uma doença parasitária, causada por um tipo de verme cujas formas larvais se desenvolvem em caramujos aquáticos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a esquistossomose é uma doença que pode ser prevenida com a colocação de telas nas portas e nas janelas, a fim de impedir a entrada dos insetos hematófagos transmissores.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dentre os princípios da economia verde, destaca-se a economia circular, a qual</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>estabelece práticas de gestão que propõem a conservação e a preservação total dos ecossistemas, potencializando os impactos negativos das atividades humanas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>prioriza o uso de fontes de energia limpas e não renováveis, como solar, eólica, hidrelétrica e biomassa, aumentando a dependência de combustíveis fósseis.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>propõe um modelo econômico que elimine o desperdício, reutilizando, reciclando e regenerando os recursos naturais e materiais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>incentiva a punição e a responsabilização criminal dos assentamentos humanos em relação às suas práticas ambientais e religiosas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>promove o uso eficiente dos recursos energéticos, aumentando o consumo e maximizando as emissões de gases de efeito estufa. Leia o texto para responder às questões 16 e 17. 8 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A economia verde depende de profissionais voltados para o desenvolvimento sustentável. Entre as possíveis áreas de atuação, pode-se citar • gestão ambiental, que trabalha na redução de impactos ambientais; • biocombustíveis, que desenvolve combustíveis a partir de matéria orgânica de origem vegetal ou animal; • produção agropecuária, que pode promover práticas agropecuárias ecológicas; e • meio ambiente e recursos hídricos, que asseguram o uso eficiente dos recursos naturais, principalmente água. Quatro estudantes, Rose, Caio, Rita e Carlos, estão decididos a atuar em apenas uma dentre as áreas mencionadas. Sabe-se que: • cada área será escolhida por apenas um dos estudantes; • Rose não quer trabalhar com a redução de impactos ambientais; • Caio e Carlos não querem trabalhar com o uso eficiente de recursos naturais; e • Rita quer trabalhar com o desenvolvimento de biocombustíveis. Assinale a alternativa que é a única associação correta possível entre área escolhida e o estudante a partir das informações apresentadas. Rose Carlos Caio</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>tecnólogo em biocombustíveis tecnólogo em meio ambiente e recursos hídricos tecnólogo em gestão ambiental</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>tecnólogo em gestão ambiental tecnólogo em meio ambiente e recursos hídricos tecnólogo em produção agropecuária</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>tecnólogo em meio ambiente e recursos hídricos tecnólogo em produção agropecuária tecnólogo em gestão ambiental</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>tecnólogo em biocombustíveis tecnólogo em produção agropecuária tecnólogo em meio ambiente e recursos hídricos</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>tecnólogo em produção agropecuária tecnólogo em gestão ambiental tecnólogo em biocombustíveis</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Estudos científicos demonstram aspectos positivos e negativos no cultivo de cana-de-açúcar tanto para o meio ambiente, quanto para a sociedade. Entre os aspectos positivos, temos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a presença de águas subterrâneas com fertilizantes e pesticidas.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a redução da biodiversidade e o prejuízo para algumas espécies.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a poluição do ar gerada pela queima da cana.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o aumento de infestação de pragas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a utilização na produção de biogás.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com o Diagrama de Euler-Venn apresentado, pode-se afirmar corretamente que a economia</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>circular, por não ter intersecção com a bioeconomia, não participa da economia verde.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>de base biológica contém a bioeconomia, que, por sua vez, está contida na economia sustentável.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>de baixa emissão de carbono resulta da intersecção da economia circular, da bioeconomia e da economia verde.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>circular e a de baixa emissão de carbono contêm a economia sustentável, que não está contida na bioeconomia.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>sustentável resulta da intersecção de elementos contidos na bioeconomia, na economia de baixa emissão de carbono e na circular. A → Bioeconomy B → Low Carbon Economy C → Circular Economy D → Bio-based Economy A ∩ B ∩ C ∩ D → Sustainable Economy 9 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O texto caracteriza</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a economia feudal.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a Revolução Francesa.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a Revolução Industrial.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o trabalho na Grécia Antiga.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a escravidão no Brasil colonial. No mundo do trabalho, ocorreram mudanças quanto à propriedade dos meios de produção e ao produto do trabalho, as mercadorias. Aos poucos, os artesãos deixaram de ser donos dos instrumentos de trabalho, passando a constituir a massa de trabalhadores assalariados, que começaram a enfrentar longas jornadas e novos ritmos de trabalho. As instalações, os equipamentos e os materiais se transformaram em mecanismos de agressão à saúde decorrente de vibrações, ruídos, temperatura e alta concentração de poluentes, entre outros. &lt;https://tinyurl.com/5ysc6t7p&gt; Acesso em: 29.09.2024. Adaptado.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Dentre os aspectos negativos, podemos citar corretamente que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a utilização dos biocombustíveis promove a diminuição da emissão de gases do efeito estufa na atmosfera, contribuindo para a descarbonificação da economia.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a expansão da plantação de matérias-primas para a produção de biocombustíveis pode ocupar áreas destinadas a culturas alimentares, causando uma elevação do preço de alimentos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a produção de matéria-prima para a transformação em biocombustíveis gera empregos locais, beneficiando as comunidades rurais e contribuindo para o desenvolvimento econômico regional.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>a utilização de biocombustíveis diminuiria a dependência dos combustíveis fósseis que, além de serem finitos, contribuem para o processo de aquecimento global, pois emitem grandes quantidades de gases do efeito estufa na atmosfera.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a produção do biocombustível é realizada a partir de matéria-prima orgânica e renovável, isto é, cuja existência na natureza se recicla e não é finita, além de haver uma grande variedade de materiais que podem ser utilizados na fabricação desses combustíveis. Com a crescente preocupação ambiental e a necessidade de reduzir as emissões de carbono, a utilização de biocombustíveis tem se destacado como uma alternativa viável. No centro dessa revolução econômica verde, estão os produtores rurais, que desempenham um papel crucial na produção dessas fontes renováveis de energia. Porém, apesar dos benefícios à economia e ao meio ambiente, existem alguns aspectos negativos tanto na produção, quanto no uso dos biocombustíveis. &lt;https://tinyurl.com/2ynjmjzy&gt; Acesso em: 22.07.2024. Adaptado.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma das polêmicas em torno de veículos elétricos (automóveis, motos ou bicicletas) é sobre o uso de baterias de lítio. Por esse motivo, tem-se investido em baterias de sais (sódio ou potássio). As baterias de íons de sódio são compostas por: um eletrodo negativo (ou anodo), um eletrodo positivo (ou catodo) e uma substância eletrolítica entre eles (eletrólito). A cada carga e descarga da bateria, os íons de sódio se movem do catodo para o anodo (e vice-versa) por meio do eletrólito, em virtude de uma diferença de potencial criada entre os eletrodos. &lt;https://tinyurl.com/er46u9ky&gt; Acesso em: 10.09.2024. Adaptado. Podemos afirmar corretamente que um dos conceitos da Física implícito no texto está relacionado</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ao movimento do potencial elétrico provocado pela corrente eletrônica.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ao fato de que os íons não se aderem aos anodos e aos catodos.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>à observação de um intenso efeito Doppler no eletrodo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>à movimentação dos íons ocasionada pela presença de um campo elétrico.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>à substância eletrolítica que promove uma diferença de potencial na bateria. 10 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Segundo o texto, a História Ambiental</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>constrói narrativas em que os seres humanos aparecem como uma espécie distinta e “super-natural”, descolada do meio ambiente em que surgiu.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>segue a premissa convencional de que as sociedades humanas se desenvolveram de forma independente das paisagens naturais em que se estabeleceram.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>considera que o meio ambiente é um dos fatores determinantes da experiência humana e que as sociedades atuais sofrem as consequências ecológicas das ações do passado.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>é parte de um esforço para tornar a História mais inclusiva, minimizando a ideia de que as ações humanas no passado impactam o meio ambiente na atualidade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>é fruto das ações dos humanos que, em diferentes partes do globo, desenvolveram sociedades independentes de restrições ecológicas. A História Ambiental é o estudo da interação entre os seres humanos e não-humanos com o mundo natural ao longo do tempo. Esse ramo da História rejeita a premissa convencional de que a experiência humana se desenvolveu sem restrições naturais, de que os humanos são uma espécie distinta e “super-natural”, de que as consequências ecológicas dos seus feitos passados podem ser ignoradas. &lt;https://tinyurl.com/3ksvnsm9&gt; Acesso em: 30.09.2024. Adaptado.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O humor do texto provém de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>anacoluto, pois a concepção de sustentável se opõe à degradação ambiental apresentada.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>catacrese, pois considera apenas uma parcela da sociedade urbana.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>eufemismo, pois a imagem ameniza a real tragédia do mundo contemporâneo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>prosopopeia, pois todos os personagens são originalmente máquinas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>ironia, pois o texto verbal contradiz o texto não-verbal. Leia a charge. &lt;https://tinyurl.com/mu4339k6&gt; Acesso em: 01.10.2024. 11 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre os elementos em negrito na canção, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“se”, no verso 01, é conjunção integrante e expressa dúvida.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“que”, no verso 04, é pronome relativo e retoma o termo “coisa”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“como”, no verso 05, é conjunção comparativa e equivale a “conforme”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“se”, no verso 07, é pronome reflexivo e pode ser retirado da oração.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“pra”, no verso 11, é preposição e equivale a “a fim de”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Estudantes do curso de Ciências de Dados, durante uma aula, criaram um código para ocultar e proteger informações. Ao aplicá-lo à palavra SEMENTES, obtém-se a sequência: Utilizando o mesmo código, assinale a alternativa na qual se apresenta o número do verso em que se encontra a palavra representada pela sequência:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>02</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>06</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>11</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>12 18 – 04 – 12 – 04 – 13 – 19 – 04 – 18 00 – 03 – 20 – 11 – 19 – 14 A canção Sementes, composta por Drik Barbosa, Emicida, Nave e Thiago Jamelão, propõe sensibilizar, conscientizar e mudar o cenário do trabalho infantil por meio da poesia. Acompanhe um trecho. Leia o texto para responder às questões de 28 a 30. 01. Se tem muita pressão Não desenvolve a semente É a mesma coisa com a gente Que é pra ser gentil 05. Como flor é pra florir Mas sem água, sol e tempo Que botão vai se abrir? É muito triste, muito cedo É muito covarde 10. Cortar infâncias pela metade Pra ser um adulto sem tumulto Não existe atalho, em resumo Crianças não têm trabalho, não, não, não</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Utilizando os 3 primeiros versos da canção, é possível criar as sequências de letras: • S, T, M, M, T. • N, D, S, N, V. • M, S, M, C, S. Essas sequências possuem uma determinada lógica de formação. Caso a mesma lógica fosse aplicada ao quarto verso da canção, a sequência correspondente seria</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Q, P, R, S, R.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Q, U, R, S, R.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>P, Q, R, S, R.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Q, U, R, R, R.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>P, Q, R, R, R. 12 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="32">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em relação aos alimentos referidos no gráfico, assinale a alternativa correta.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Todos os cinco alimentos com maior pegada de carbono são considerados fontes ricas em carboidrato.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Entre os alimentos listados, mais da metade é considerada fonte rica em proteína.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Menos de um quarto dos alimentos apresentados é fonte de lipídios.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Mais da metade dos alimentos listados é rica em açúcares.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Todos os alimentos listados são fontes ricas em fibras. Leia o texto para responder às questões 32 e 33.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="31">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Segundo o texto, a tecnologia conhecida como CCS consiste em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>capturar o oxigênio da atmosfera e enviá-lo para cidades com alto índice de monóxido de carbono.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>retirar o dióxido de carbono do local de sua emissão e armazená-lo em terreno subterrâneo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>reduzir a emissão de carbono proveniente de indústrias e purificá-lo em terrenos controlados.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>investigar sobre a possível conversão de monóxido de carbono em fonte de energia renovável.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>enterrar as fontes emissoras de carbono em adequados terrenos nas profundezas dos oceanos. What is carbon capture and storage? Different options to try to reduce overall CO2 emissions are being investigated, but the main way to reduce CO2 emissions from large industrial sources is called carbon capture and storage, or CCS. CCS involves capturing carbon dioxide (CO2) at emission sources, transporting and then storing or burying it in a suitable deep, underground location. CCS can also mean the removal of CO2 directly or indirectly from the atmosphere. &lt;https://tinyurl.com/2zhm4hzr&gt; Acesso em: 28.09.2024. A pegada de carbono mede as emissões de gases de efeito estufa de diversas atividades humanas, expressando-as em quilogramas de dióxido de carbono equivalente (CO2eq). Ela é, portanto, uma unidade que permite comparar o impacto ambiental de diferentes gases para o aquecimento global. O gráfico mostra a pegada de carbono gerada por um quilograma de alimento, ao longo de toda a sua cadeia produtiva, para diferentes tipos de produtos. &lt;https://tinyurl.com/2jr6sztz&gt;. Acesso em: 13.11.2024.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="33">
+      <statement>
+        <p>Considerando que a emissão total de CO2eq para produzir 1 kg de chocolate amargo seja a soma de todas as categorias apresentadas, assinale a alternativa que indica, em kg, a massa aproximada de CO2eq proveniente do “desmatamento” ao longo da cadeia produtiva do chocolate amargo. (A) 25,8 (B) 46,6 (C) 55,4 (D) 78,2 (E) 99,5 O gráfico de setor apresenta a participação percentual de diferentes atividades humanas para a composição da pegada de carbono do chocolate amargo fornecida no gráfico de barras. &lt;https://tinyurl.com/2jr6sztz&gt;. Acesso em: 13.11.2024. 13 VESTIBULAR ∙ Fatec A respeito dos três Es, o texto menciona (A) a relação entre o fortalecimento da economia, a tomada rápida de decisão e a criação de novos postos de trabalho. (B) a igualdade entre raças, o respeito à diversidade e a delimitação na atuação de agentes estrangeiros. (C) a triagem de trabalhadores de alto desempenho, o estabelecimento de relações igualitárias e o livre comércio. (D) a harmonia entre os seres vivos, a boa administração de recursos naturais e as decisões baseadas em equidade. (E) a gestão dos recursos naturais por políticos escolhidos democraticamente e a criação de órgãos internacionais para a garantia de todos os direitos. Three Dynamics of Sustainable Communities: Economy, Ecology, and Equity “A sustainable community uses its resources to meet current needs while ensuring that adequate resources are available for future generations. It involves all its citizens in an integrated, long-term planning process to protect the environment, expand economic opportunities, and meet social needs.” —CONCERN, Inc. While many community dynamics are at work, three aspects are particularly important to building healthy and prosperous communities over the long term: economy, ecology, and equity - the three E’s. Economy is the management and use of resources to meet household and community needs. Ecology is the pattern of relationships between living things and their environment. We all know our shoe size. How many of us know the size of our “ecological footprint,” the amount of air, land, and water it takes to support us? Equity is fairness. Ideally everyone in a community shares in its well-being. Where there is equity, decisions are based on fairness and everyone (regardless of race, income, sex, age, language, sexual orientation, or disability) has opportunities and is treated with dignity. &lt;https://tinyurl.com/6j5wp9v5&gt; Acesso em: 30.09.2024. Adaptado.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="34">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Em um município, foi implantado um programa de incentivo para reduzir emissões de carbono, ao qual 60% de suas empresas aderiram no momento de sua implantação. Contudo, ao final do primeiro ano, apenas 80% dessas empresas alcançaram as metas de redução estabelecidas. Considerando que uma das empresas do município seja escolhida aleatoriamente, assinale a alternativa que apresenta a probabilidade de essa empresa ter aderido ao programa no momento da implantação e não ter atingido as metas propostas ao fim do primeiro ano.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>12%</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>20%</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>40%</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>48%</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>60%</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="35">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Estudos apontam que, no Brasil, o aumento do número de veículos elétricos emplacados tem ocorrido de forma exponencial. Suponha que esse crescimento possa ser modelado, a partir de 2016, pela função N(t) = 70 ⋅ 2(t − 2016), em que N(t) é o número de veículos elétricos emplacados no ano t. De acordo com o modelo apresentado, assinale a alternativa que indica corretamente a estimativa do número de veículos elétricos a serem emplacados no Brasil, no ano de 2025.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1 260</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>8 960</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>16 970</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>35 840</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>70 680</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="36">
+      <statement>
+        <p>14 VESTIBULAR ∙ Fatec</p>
+      </statement>
+    </essay_question>
+    <objective_question number="39">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Por volta de 1850, o café ganhou destaque na produção agrícola do Vale do Paraíba. Nesse período, as cidades produtoras do Vale respondiam por cerca de 78% da produção nacional e o café era o principal produto de exportação do Brasil. Poucas décadas depois, entretanto, o café passou a ser cultivado no chamado “Oeste Paulista”, grande área que abrange os municípios de Campinas, Rio Claro e Ribeirão Preto, entre outros. Tal mudança ocorreu, entre outros fatores, devido</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ao esgotamento do solo no Vale do Paraíba e à escassez de mão de obra escravizada, consequência da extinção do tráfico transatlântico.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>ao êxodo rural, que resultou na expulsão dos pequenos proprietários e dos trabalhadores rurais responsáveis pela produção cafeeira do Vale do Paraíba.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>ao processo de privatização das terras comuns, conhecido como cercamento, que transformou as terras dos camponeses em propriedades de uso exclusivo.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>à promulgação da Lei de Terras, que gerou insatisfação entre os proprietários ao propor a distribuição das terras devolutas aos camponeses despossuídos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>à abolição da escravidão na região do Vale do Paraíba e sua substituição pela mão de obra que para lá migrou, vinda do “Oeste Paulista”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="38">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Com base no texto, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>adotar, em curto prazo, uma política econômica, que avance com o desmatamento da Floresta Amazônica, gera benefícios ambientais.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>desflorestar a Floresta Amazônica é uma ação que deve ser implementada para proporcionar o desenvolvimento da mineração na região e, consequentemente, garantir a proteção da flora e da fauna Amazônica.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>aumentar a área de pastagens na Floresta Amazônica é o caminho para garantir a competitividade da pecuária de corte brasileira no cenário internacional, associando-a à preservação ambiental.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>derrubar a Floresta Amazônica para cultivar soja é mais rentável financeiramente do que a manter como está.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>desmatar a Floresta Amazônica, além de uma perda de biodiversidade, é, em termos econômicos, também uma destruição de riqueza. De acordo com o Banco Mundial, o valor de manter a Floresta Amazônica em pé é cerca de sete vezes superior ao lucro que pode ser obtido por meio de diferentes atividades de exploração econômica da região. A estimativa considera que a preservação da floresta vale, ao menos, US$ 317 bilhões por ano. &lt;https://tinyurl.com/ypanb4cu&gt; Acesso em: 03.08.2024. Adaptado.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="37">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A escritora sul-coreana Han Kang, ganhadora do Prêmio Nobel de Literatura de 2024, em seu romance “A Vegetariana”, conta a história de Yeong-hye, uma mulher que para de consumir todos os alimentos que contêm carne. Sejam • A: conjunto de todos os alimentos que Yeong-hye comia antes de se tornar vegetariana; • B: conjunto de todos os alimentos que Yeong-hye pode consumir após se tornar vegetariana; e • C: conjunto de todos os alimentos que contêm carne. Supondo que a única mudança nos hábitos alimentares de Yeong-hye seja a descrita no texto, assinale a alternativa na qual a expressão representa corretamente o conjunto B.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>C ∪ A</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>C – A</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A C</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>AC</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>A – C ∪ 15 VESTIBULAR ∙ Fatec Leia o texto e o esboço da Tabela Periódica para responder às questões 40 e 41. O hidrogênio verde, uma fonte de energia limpa e sustentável, é obtido por meio da eletrólise da água. A eletrólise da água é um processo endotérmico em que a água (H2O) é decomposta em gás hidrogênio e gás oxigênio. Nesse processo, são utilizados catalisadores feitos com platina ou irídio, elementos raros e caros. Catalisadores são substâncias que aceleram reações químicas por propiciarem que elas se realizem com menor energia de ativação. Uma equipe de cientistas europeus desenvolveu um novo catalisador para otimizar a produção de hidrogênio verde e, com o intuito de expandir sua aplicação para a produção industrial, já solicitou a patente do novo produto. &lt;https://tinyurl.com/d3s36det&gt; Acesso em: 03.10.2024. Adaptado. Baseando-se na reação de eletrólise da água, com e sem catalisador, mencionada no texto, assinale a alternativa que contém o esboço gráfico correto da variação da energia envolvida nesse processo.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="41">
+      <statement>
+        <p>(A) (D) (B) (E) (C)</p>
+      </statement>
+    </essay_question>
+    <objective_question number="40">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considerando os elementos raros e caros usados como catalisadores no processo de obtenção do hidrogênio verde, mencionados no texto, e as suas posições na Tabela Periódica, podemos concluir corretamente que esses elementos são</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>metais, localizados no mesmo grupo dessa tabela.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>metais, localizados no mesmo período dessa tabela.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>ametais, localizados no mesmo grupo dessa tabela.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>ametais, localizados no mesmo período dessa tabela.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>gases nobres, localizados no mesmo período dessa tabela. 16 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="42">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As cobras conhecidas como jararacas-ilhoas (Bothrops insularis) vivem isoladas, na Ilha da Queimada Grande, a 35 km do litoral paulista, entre os municípios de Itanhaém e Peruíbe. Apesar de possuir um tipo de veneno, altamente tóxico, pois uma única picada pode matar uma pessoa em apenas seis horas, a jararaca-ilhoa é um grande alvo de biopirataria, ou seja, de traficantes que retiram ilegalmente recursos de biodiversidade. Caso uma pessoa seja picada por esse tipo de cobra, a terapia utilizada deve ser a de receber</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>o antibiótico, que neutraliza o efeito das infecções causadas pela picada.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>o soro, que contém os antígenos específicos já prontos contra o veneno.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a vacina, que neutraliza os antígenos específicos do veneno.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o soro, que contém os anticorpos específicos já prontos contra o veneno.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a vacina para estimular a produção de anticorpos específicos contra o veneno.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="43">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>A biopirataria no Brasil deve ser combatida, pois impacta diretamente o meio ambiente e pode resultar na</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>ocorrência de mutações e na melhoria genética da fauna.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>redução da biodiversidade nacional e na extinção de espécies.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>exploração legal de recursos biológicos e de conhecimentos tradicionais para fins comerciais.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>introdução constante de espécies exóticas de outros países e em ganhos para a biodiversidade.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>extinção de espécies que, na cadeia alimentar, são consumidas pelas espécies vitimadas pela biopirataria.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="44">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>As informações descritas no quadro permitem concluir corretamente que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Alice conseguiu mais empates do que qualquer outro participante no campeonato, contudo ela perdeu mais jogos do que venceu.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Bruno foi o único jogador que venceu todas as partidas contra jogadores que tiveram pelo menos um empate ao longo do campeonato.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Carla não enfrentou nenhum jogador que terminou o campeonato sem empates, apesar de ter conseguido algumas vitórias.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Diego conseguiu vencer exatamente dois jogos contra adversários que terminaram o campeonato com mais vitórias do que derrotas.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Elias foi o único jogador a terminar o campeonato com mais empates do que vitórias, sem conseguir derrotar nenhum adversário. O Green Game Jam é um evento que desafia estúdios de jogos a incorporarem temas ambientais em seus títulos. Em 2024, os organizadores propuseram reunir os jogadores para agir no mundo real. Suponha que, como parte dessas ações que reuniram os jogadores, houve um campeonato. O quadro a seguir reúne os resultados de algumas partidas disputadas entre 5 competidores que se enfrentaram uma única vez. Cada letra no interior do quadro indica um resultado possível: • E indica um empate entre os jogadores; • V indica a vitória do jogador da linha em questão; e • D indica a derrota do jogador da linha correspondente. Alice Bruno Carla Diego Elias Alice D E V E Bruno V D V V Carla E V D V Diego D D V E Elias E D D E Leia o texto para responder às questões 44 e 45. 17 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Assinale a alternativa que apresenta corretamente a probabilidade de que um jogador, escolhido aleatoriamente dentre os cinco competidores mencionados no texto, tenha vencido, pelo menos, uma partida.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1,0</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>0,8</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>0,6</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>0,4</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>0,2</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="46">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>De acordo com o texto, é correto afirmar que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a felicidade expressa pelo eu lírico decorre da importação de produtos estrangeiros presentes finalmente em regiões afastadas da floresta.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a riqueza extraída da terra é desperdiçada devido à falta de mão de obra para colher os frutos das palmeiras.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a natureza é a responsável pela arrecadação de doações para os povos originários da região.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o trabalho das mulheres na extração das riquezas naturais garante tanto sua subsistência quanto a matéria-prima para exportação.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>a manutenção do comércio e da indústria é possível devido aos embates travados com outras nações que exploram nossos recursos naturais. Palmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. &lt;https://tinyurl.com/3r6j99a9&gt; Acesso em: 17.10.2024.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="47">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O termo sublinhado exerce a função de sujeito em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>“Terra fértil, olha a riqueza no chão”.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>“Folhas verdes, oh que maravilha”.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>“A natureza traz o fruto, a perfeição”.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>“Senhoras guerreiras, vão à luta, custear alimentação”.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>“Nosso produto assim chegou em outras nações”.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="48">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Transpondo o verbo do verso “Senhoras guerreiras, vão à luta” para o imperativo afirmativo, na segunda pessoa do plural, teríamos</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>vá.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>vai.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>ide.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>vamos.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>venham.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="49">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>No verso “A natureza traz o fruto, a perfeição”, ocorre</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>antítese.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>paradoxo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>catacrese.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>eufemismo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>personificação. Leia o texto para responder às questões de 46 a 49. 18 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="52">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Considere a função real f, definida pela expressão f (2 − x) = 3x2. Assinale a alternativa que apresenta corretamente o valor de f (−1).</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>0</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>16</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>27</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>48</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="53">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O Departamento de Saneamento e Meio Ambiente de uma cidade está planejando a construção de um piscinão sustentável para ajudar no combate às enchentes. O piscinão será um reservatório subterrâneo de formato cilíndrico com altura de 5 m e área da base igual a 200 000 m2. O volume do piscinão é, em litros, igual a</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>10 000 000.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>20 000 000.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>100 000 000.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>500 000 000.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1 000 000 000.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="50">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sobre o texto, é correto afirmar que se trata de</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>uma tirinha, cujo intuito é aliviar a tensão das preocupações ambientais por meio do humor.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>um cartum, que representa, imparcialmente, a liderança de acadêmicos no combate ao desmatamento.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>uma charge, cujo humor tem por objetivo criticar a falta de precaução dos indivíduos no enfrentamento da crise climática.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>uma ilustração, que ironiza o interesse da população em geral por assuntos relacionados à economia verde.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>um quadrinho, cuja simplicidade dos traços busca mimetizar a resolução da crise climática por medidas paliativas. &lt;https://tinyurl.com/3apz9yr8&gt; Acesso em: 04.10.2024. Original colorido.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="51">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O prefixo usado em “despreparado” está presente também em</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>apático.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>diálogo.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>alinhado.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>desabrigo.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>denunciado. Leia o texto para responder às questões 50 e 51. 19 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="55">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O diesel comercializado no Brasil é uma mistura que contém atualmente 14% de biodiesel. Se esse percentual for aumentado para 25%, o Brasil deixará de emitir mais de 330 milhões de toneladas de CO2 em 10 anos. &lt;https://tinyurl.com/yc568vmh&gt; Acesso em: 01.10.2024. Adaptado. Considerando que a pressão é de 1 atm e que a temperatura é 300 K, assinale a alternativa a qual indica o volume aproximado de CO2, em litros, que deixará de ser emitido pelo Brasil ao realizar a mudança, descrita no texto, na composição do diesel. Dados: massa molar do CO2 = 44 g/mol, 1 t = 106 g; Equação de estado de um gás: P ⋅ V = n ⋅ R ⋅ T; R = 0,082</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>1,50 × 1012</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2,46 × 1012</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>7,50 × 1012</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>4,50 × 1014</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1,84 × 1014 atm ⋅ L K ⋅ mol</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="54">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Durante a Segunda Guerra Mundial, nos Estados Unidos, foram feitas campanhas publicitárias que chamavam a população a contribuir, de diferentes formas, para os esforços de guerra. Os cartazes ilustram um dos aspectos dessas campanhas. A partir dos cartazes, pode-se concluir corretamente que</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>a compostagem de resíduos orgânicos, tarefa atribuída às donas de casa, era uma demanda central dos esforços de guerra.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>a insuficiência de matérias-primas para a produção de armamentos impôs a necessidade de separar e reciclar diferentes tipos de materiais.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>a campanha estimula os cidadãos a estocar recursos, como papéis e alimentos enlatados, para resistir aos dias de carestia provocados pela guerra.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>o governo estadunidense promulgou o Plano Nacional dos Resíduos Sólidos para promover crescimento econômico em tempos difíceis.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>os cartazes fazem referência a uma campanha de saúde pública, por meio do reforço dos hábitos de higiene considerados saudáveis. &lt;https://tinyurl.com/yj5zaz4u&gt; Acesso em: 26.09.2024. 20 VESTIBULAR ∙ Fatec Leia o texto para responder às questões 56 e 57.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="56">
+      <statement>
+        <p>De acordo com o texto, é correto afirmar que a expressão food miles pode ser entendida como (A) as milhares de frutas que são consumidas diariamente em diversos países do mundo. (B) as milhas alcançadas pelas viagens turísticas na alta temporada dos países apresentados. (C) a quantidade de frutas utilizadas para a produção de saladas de frutas nos diversos supermercados do Reino Unido. (D) a distância percorrida por diversos alimentos desde o seu país de origem até o consumidor final. (E) a quantidade de dióxido de carbono emitido nas viagens comerciais entre o continente americano e o europeu. &lt;https://tinyurl.com/2m2buenx&gt; Acesso em: 30.09.2024. A campanha tem por objetivo (A) sensibilizar o leitor para consumir produtos alimentícios disponíveis na estação e produzidos na sua região. (B) incentivar o leitor a consumir frutas e legumes frescos por serem mais saudáveis e para dinamizar a exportação britânica de commodities. (C) conscientizar o leitor de como a globalização possibilitou a variedade de oferta de alimentos na mesa dos europeus e dos americanos. (D) promover o intercâmbio de sementes e plantas dos mais variados países para sanar a insegurança alimentar no mundo. (E) fortalecer a produção agrícola nos países emergentes para o aumento de suas exportações indiretas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="57">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="58">
+      <statement>
+        <p>Como parte de um projeto ambiental, foram plantadas mudas de árvores frutíferas em um terreno, dispostas em linha reta mantendo sempre a mesma distância entre as árvores. A primeira muda foi plantada a 2 metros do início do terreno. A segunda, a uma distância de (6 + x) metros também do início do terreno. E, a terceira, ficou a 18 metros do início do terreno. Logo, essa sequência de distâncias forma uma Progressão (A) Aritmética (PA) de razão 4. (B) Geométrica (PG) de razão 4. (C) Aritmética (PA) de razão 6. (D) Geométrica (PG) de razão 8. (E) Aritmética (PA) de razão 8. 21 VESTIBULAR ∙ Fatec Painéis solares fotovoltaicos convertem energia luminosa em energia elétrica. Entretanto, parte da luz solar que incide sobre eles é refletida em vez absorvida pelo material semicondutor, diminuindo, assim, a eficiência da conversão de energia. A fim de melhorar essa eficiência, utilizam-se revestimentos antirreflexo. Para isso, escolhem-se revestimentos cujo índice de refração minimize a reflexão e maximize a transmissão, aumentando, consequentemente, a absorção de energia luminosa pelo material semicondutor. Com base nessas informações, assinale a alternativa que apresenta corretamente a justificativa de como o revestimento antirreflexo aumenta a eficiência dos painéis solares. (A) Diminuir a intensidade da luz refletida pelo material aumenta a quantidade de luz absorvida pelo painel. (B) Aumentar a reflexão da luz, ao bloquear a sua transmissão, força-a a ser absorvida pelo material semicondutor. (C) Aumentar o ângulo de reflexão e direcionar a luz totalmente para o ambiente externo melhora a eficiência energética do painel. (D) Refletir completamente a luz incidente permite que seja alterado o índice de refração e que a luz seja absorvida e convertida em eletricidade. (E) Utilizar material com índice de refração nulo entre o ar e o semicondutor minimiza a reflexão da luz e aumenta a quantidade de luz refratada.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="61">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma das práticas de sustentabilidade é o uso de “telhados verdes” ou “eco telhados”. Trata-se de uma cobertura vegetal colocada sobre o telhado de uma construção. Esses telhados têm a função de reduzir a temperatura interna das edificações e melhorar a umidade relativa do ar no local, reduzindo significativamente o alto consumo de energia. Considere a cobertura de uma construção sem o uso do telhado verde, mas, sim, de um concreto cujo calor específico do material seja 1 000 J/kg ∙ °C e massa total de 5 000 kg. Em uma situação específica, esse material absorve 75 MJ de energia em um dia de exposição direta ao Sol. Nessa mesma situação, caso fosse usado o telhado verde, a temperatura seria reduzida em 5 °C. Sabendo que Q = m ∙ c ∙ Δθ, assinale a alternativa que apresenta corretamente a variação da temperatura observada, em °C, caso fosse usado o telhado verde nas condições apresentadas.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>25.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>20.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>15.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>10.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>5.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="60">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Uma empresa de placas solares vende placas em formato retangular que medem 1 metro de largura por 2 metros de comprimento. Cada placa tem a capacidade de gerar 1,2 kWh de energia por dia, em média, considerando boas condições de insolação. Um cliente deseja instalar essas placas em seu telhado, que também tem formato retangular e possui medidas de 8 metros de comprimento por 5 metros de largura. Sabendo que as placas solares devem ser instaladas de forma a cobrir toda a área disponível no telhado sem sobreposição de placas, assinale a alternativa que indica, em kWh, a quantidade total de energia que poderá ser gerada em um mês de 30 dias com o uso dessas placas.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>180</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>240</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>360</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>540</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>720</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="62">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <objective_question number="59">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>Sabendo que n! = n ⋅ (n – 1) ⋅ (n – 2) … 3 ⋅ 2 ⋅ 1 n! = n ⋅ (n – 1) ⋅ (n – 2) … 3 ⋅ 2 ⋅ 1, com n natural, pode-se afirmar que o número total de permutações distintas formadas com as 8 letras da palavra SEMENTES é dado por</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p></p>
+        </option>
+        <option label="B" is_correct="false">
+          <p></p>
+        </option>
+        <option label="C" is_correct="false">
+          <p></p>
+        </option>
+        <option label="D" is_correct="false">
+          <p></p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>8! 8! ÷ (3! ⋅ 2!) 8! ÷ (8 – 8)! 8! ÷ (2! ⋅ 2! ⋅ 2!) 8! ÷ (2! ⋅ 2!) 22 VESTIBULAR ∙ Fatec</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="64">
+      <statement>
+        <p>Assinale a iniciativa que contribui efetivamente para a obtenção dos créditos citados no texto. (A) Ampliar a utilização de combustíveis fósseis, pois eles são responsáveis pela eliminação de dióxido de carbono na natureza. (B) Derrubar áreas florestais para a expansão da agricultura mecanizada, uma vez que esta atividade não gera impacto ambiental. (C) Incrementar a utilização de altos-fornos para a queima de lixos residenciais e industriais, visando diminuir as áreas de aterro sanitário. (D) Incentivar as emissões de CO2, pois, dessa maneira, entrarão mais créditos de carbono que impactarão positivamente na economia. (E) Implementar e desenvolver tecnologias de energia limpa e renovável para reduzir as emissões de gases de efeito estufa (GEE). O crédito de carbono é um mecanismo monetário que visa reduzir ou remover as emissões de dióxido de carbono da atmosfera. Eles são obtidos por meio de diversas iniciativas e projetos. &lt;https://tinyurl.com/58akfkww&gt; Acesso em: 16.07.2024. Adaptado. Uma revista especializada em automóveis publicou um teste feito com um veículo 2.0 abastecido com gasolina em uma viagem planejada. Nesse teste, eles relacionaram diferentes velocidades ao consumo de combustível do veículo, conforme o gráfico 1. Considerando que cada litro de gasolina emita cerca de 2 kg de CO2, assinale a alternativa correta que apresenta a massa CO2, em kg, emitida pelo veículo nas condições apresentadas. (A) 2 (B) 20 (C) 25 (D) 40 (E) 200 No gráfico 2, é possível determinar uma das velocidades aferida do automóvel durante os testes.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="63">
+      <statement>
+        <p>23 VESTIBULAR ∙ Fatec PROPOSTA DE REDAÇÃO Texto I Tecnologia sustentável ou ecológica é qualquer tecnologia cujo objetivo é desenvolver produtos que facilitem a vida das pessoas e que também causem menos impactos ambientais. Esse tipo de tecnologia se tornou um aliado na busca por respostas para os desafios ambientais, como o aquecimento global e a manutenção da sustentabilidade. Um exemplo é o desenvolvimento de projetos de conservação por meio do monitoramento da biodiversidade, do controle de poluição e do mapeamento de áreas de risco ambiental por meio de satélites. &lt;https://tinyurl.com/4874u79h&gt; Acesso em: 18.10.2024. Adaptado. Texto II Alguns impactos negativos da tecnologia no meio ambiente: • Emissões de Gases de Efeito Estufa — a produção e o uso de tecnologia frequentemente envolvem a queima de combustíveis fósseis, que libera dióxido de carbono e outros gases de efeito estufa na atmosfera. • Esgotamento de Recursos Naturais — a produção de tecnologia requer a extração de recursos naturais, incluindo minerais raros, o que pode levar ao esgotamento de recursos valiosos e à degradação ambiental. • Resíduos Eletrônicos — a rápida obsolescência de dispositivos eletrônicos leva a uma quantidade significativa de resíduos eletrônicos que, frequentemente, contêm substâncias tóxicas (como metais pesados) e poluentes, os quais contaminam o solo e a água se não forem adequadamente descartados ou reciclados. &lt;https://tinyurl.com/msc24da5&gt; Acesso em: 18.10.2024. Adaptado. A partir da coletânea apresentada, elabore um texto narrativo ou um texto dissertativo-argumentativo explorando o seguinte tema: Como a tecnologia pode afetar o desenvolvimento de uma economia sustentável? Texto III &lt;https://tinyurl.com/3xr7vf4b&gt; Acesso em: 18.10.2024. Original colorido. ORIENTAÇÕES • Narração – explore adequadamente os elementos desse gênero: fato(s), personagem(ns), tempo e lugar. • Dissertação – selecione, organize e relacione os argumentos, fatos e opiniões para sustentar suas ideias e pontos de vista. Ao elaborar seu texto: • Atribua um título para sua redação; • Não o redija em versos; • Organize-o em parágrafos; • Empregue apenas a norma culta da língua portuguesa; • Não copie os textos apresentados na coletânea e na prova; • Utilize apenas caneta de tinta azul ou preta para elaborar a versão definitiva; e • Faça um rascunho antes de passar para a Folha de Redação. 24 VESTIBULAR ∙ Fatec RASCUNHO</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1997" phase="objective" day="0" variation="V1" date="1997-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1997</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1997 01) (ITA-97) Se Q e I representam, respectivamente, o conjunto dos números racionais e o conjunto dos números irracionais, considere as funções ƒ.ℜ→ℜ definidas por ƒ (x) =    ∈ ∈ I x se</p>
+        <p>1, Q</p>
+        <p>x se</p>
+        <p>0, g (x) =    ∈ ∈ I x se</p>
+        <p>0, Q</p>
+        <p>x se</p>
+        <p>1,</p>
+        <p>Seja J a imagem da função composta ƒog : ℜ → ℜ. Podemos afirmar que: a) J = ℜ b) J = Q c) J = {0} d) J = {1} e) J = {0,1}</p>
+        <p>02) (ITA-97) Seja n ∈N com n &gt; 1 fixado. Considere o conjunto:       &lt; &lt; ∈ = n q 0, do sen . Z q ,p : q p A . Definimos f: ℜ → ℜ por n 2 )] x !n [cos( ) x (f π = . Se f(A) denota a imagem do conjunto A pela função f , então a) f(A) = ]-1, 1[ b) f(A) = [0, 1] c) f(A) = {1}</p>
+        <p>d) f(A) = {0} e) f(A) = {0, 1}</p>
+        <p>03) (ITA-97) O domínio D da função ƒ (x) = ln         π π π π x 3 +</p>
+        <p>2x -</p>
+        <p>+ x )</p>
+        <p>+</p>
+        <p>(1 - x 2 2 2 é o conjunto a) D = { x ∈ ℜ: 0 &lt; x &lt; 3π / 2} b) D = { x ∈ ℜ: x &lt; 1/ π ou x &gt; π} c) D = { x ∈ ℜ: 0 &lt; x ≤ 1/π ou x ≥ π } d) D = { x ∈ ℜ: x &gt; 0} e) D = { x ∈ ℜ: 0 &lt; x &lt; 1/π ou π &lt; x &lt; 3π/2 }</p>
+        <p>04) (ITA-97) Considere os números complexos z = 2 i 2 + e w = 1 + i 3 . m = 2 3 2 4 6</p>
+        <p>2i - 6</p>
+        <p>+</p>
+        <p>w +</p>
+        <p>z</p>
+        <p>4i</p>
+        <p>+</p>
+        <p>3z</p>
+        <p>+</p>
+        <p>w , então m vale a) 34 b) 26 c) 16 d) 4 e) 1</p>
+        <p>05) (ITA-97) Seja m ∈ ℜ*+ , tal que a reta x - 3y - m = 0 determina, na circunferência (x - 1)2 + (y +3)2 = 25, uma corda de comprimento 6. O valor de m é: a) 10 + 4 10 b) 2 + 3 c) 5 - 2 d) 6 + 10 e) 3</p>
+        <p>06) (ITA-97) Sejam m ∈ N e n ∈ ℜ*+ com m ≥10 e x ∈ ℜ*+ . Seja D θ desenvolvimento do binômio (a + b)m, ordenado segundo as potências crescentes de b. Quando n x a = e 2 n x b − = , o sexto termo de D fica independente de x. Quando x a = e n 1 x b = , o oitavo termo de D se torna independente de x. Então m é igual a a) 10 b) 12 c) 14 d) 16 e) 18</p>
+        <p>07) (ITA-97) Seja a, b, c ∈ ℜ*+ com a2 = b2 + c2. Se x, y e z satisfazem o sistema    = + = + = + c y cos a x cos b b z cos a x cos c a z cos b y cos c , então cos x + cos y + cos z é igual a: a) (a - b)/c b) (a + b)/c c) (b + c)/a d) (c + a)/b e) (b2 + c2)/a</p>
+        <p>08) (ITA-97) Sejam A, B e C matrizes reais quadradas de ordem n e não nulas. Por O denotamos a matriz nula de ordem n. se AB = AC considere as afirmações: I- A2 ≠ 0 II- B = C III- det B ≠ 0</p>
+        <p>www.rumoaoita.com IV- det(B - C) = 0 Então: a) Todas são falsas. b) Apenas a afirmação I é verdadeira. c) Apenas a afirmação II é verdadeira. d) Apenas as afirmações I e III são verdadeiras. e) Apenas a afirmação III é verdadeira.</p>
+        <p>09) (ITA-97) Seja θ um valor fixado no intervalo ]0, π/2[. Sabe-se que a1 = cotgθ é o primeiro termo de uma progressão geométrica infinita de razão q = sen2θ. A soma de todos os termos dessa progressão é: a) cosec θ. tg θ b) sec θ. tg θ c) sec θ. cosec θ d) sec2θ e) cosec2θ</p>
+        <p>10) (ITA-97) Seja A o ponto de intersecção das retas r e s dadas, respectivamente pelas equações x + y = 3 e x + y = - 3. Sejam B e C pontos situados no primeiro quadrante com B ∈ r e C ∈ s. sabendo que d(A,B) = d(A,C) = 2 , então a reta passando por B e C é dada pela equação: a) 2x + 3y = 1 b) y = 1 c) y = 2</p>
+        <p>d) x = 1 e) x = 2</p>
+        <p>11) (ITA-97) Sejam f ,g : ℜ→ℜ funções tais que: g(x) = 1- x e ƒ (x) + 2ƒ (2 - x ) = ( x - 1)3 para todo x ∈ ℜ. Então ƒ [g(x)] é igual a: a) ( x - 1 )3 b) (1 - x)3 c) x3 d) x e) 2 - x</p>
+        <p>12) (ITA-97) Seja S o conjunto de todas as raízes da equação 2x6 - 4x5 + 4x - 2 = 0. Sobre os elementos de S podemos afirmar que: a) Todos são números reais. b) 4 são números reais positivos. c) 4 são números reais. d) 3 são números reais positivos e 2 não são reais. e) 3 são números reais negativos.</p>
+        <p>13) (ITA-97) Sejam p1(x), p2(x) e p3(x) polinômios na variável real x de graus n1, n2 e n3, respectivamente, com n1 &gt; n2 &gt; n3. Sabe-se que p1(x) e p2(x) são divisíveis por p3(x). Seja r(x) o resto da divisão de p1(x) por p2(x). Considere as afirmações: I - r(x) é divisível por p3(x). II - p1(x) – ½ p2(x) é divisível por p3(x). III - p1(x) r(x) é divisível por {p3(x)}2. Então, a) Apenas I e II são verdadeiras</p>
+        <p>b) Apenas II é verdadeira. c) Apenas I e III são verdadeiras.</p>
+        <p>d) Todas as afirmações são verdadeiras e) Todas as afirmações são falsas</p>
+        <p>14) (ITA-97) Em um triângulo ABC, sabe-se que o segmento AC mede 2 cm. Sejam α e β, respectivamente, os ângulos opostos aos segmentos BC e AC. A área do triângulo é (em cm2) igual a: a) 2 sen2α.cotg β + sen 2α b) 2 sen2α.tg β - sen 2α c) 2 cos2α.cotg β + sen 2α d) 2 cos2α.tg β + sen 2α e) 2 sen2α.tg β - cos 2α</p>
+        <p>15) (ITA-97) Considere no plano complexo, um hexágono regular centrado em z0 = i. Represente z1,z2, ... z6 seus vértices, quando percorridos no sentido anti-horário. Se z1 = 1 então 2z3 é igual a: a) 2 + 4i</p>
+        <p>b) ( 3 - 1)+( 3 + 3)i c) 6 + ( 2 +2)i d) (2 3 - 1)+( 2 3 + 3)i e) 2 + ( 6 +2)i</p>
+        <p>16) (ITA-97) Seja S o conjunto dos números complexos que satisfazem simultaneamente, às equações: |z - 3i| = 3 e |z + 1| = |z - 2 -i|</p>
+        <p>www.rumoaoita.com O produto de todos os elementos de S é igual a: a) -2 + i 3 b) 2 2 + 3i 3 c) 3 3 - 2i 3</p>
+        <p>d) - 3 + 3i e) -2 + 2i</p>
+        <p>17) (ITA-97) Sejam a1, a2, a3 e a4 números reais formando, nesta ordem, uma progressão geométrica crescente com a1 ≠ 0. Sejam x1, x2 e x3 as raízes da equação a1x3 + a2x2 + a3x + a4 = 0. Se x1 = 2i, então: a) x1 + x2 + x3 = -2</p>
+        <p>b) x1 + x2 + x3 = 1 c) x 2 1 + x 2 2 + x 2 3 = 4</p>
+        <p>d) x1 . x2 . x3 = 8 e) x1 . x2 + x1 . x3 + x2 . x3 = 5</p>
+        <p>18) (ITA-97) Os números reais x, y e z formam, nesta ordem, uma progressão aritmética de razão r. Seja α um número real com α &gt; 0 e α ≠ 1 satisfazendo 3ax + 2ay - az = 0 . Então r é igual a a) a2 b)(½)a c)log2a4 d)loga (3/2) e)loga3</p>
+        <p>19) (ITA-97) A seqüência (a1, a2, a3 e a4) é uma progressão geométrica de razão q ∈ ℜ* com q ≠ 1 e a1 ≠ 0. Com relação ao sistema:</p>
+        <p>   = + = + d y a x a c y a x a 4 3 2 1 , podemos afirmar que: a) É impossível para c, d ∈ [-1, 1] b) É possível e determinado somente se c = d. c) É indeterminado quaisquer que sejam c, d ∈ ℜ. d) É impossível quaisquer que sejam c, d ∈ ℜ*. e) É indeterminado somente se d = cq2.</p>
+        <p>20) (ITA-97) Considere as matrizes           = 2 0 1 0 2 0 1 0 2 A e           − − − = 1 0 1 0 2 0 1 0 1 B</p>
+        <p>Sejam λ0, λ1 e λ3 as raízes da equação det(A - λI3) = 0 com λ0 ≤ λ1 ≤λ2. Considere as afirmações: I- B = A - λ0I3 II- B = (A - λ1I3)A III- B = A(A - λ2I3) Então: a) Todas as afirmações são falsas. b) Todas as afirmações são verdadeiras. c) Apenas I é falsa. d) Apenas II é falsa. e) Apenas III é verdadeira.</p>
+        <p>21) (ITA-97) Seja S o conjunto de todas as soluções reais da equação</p>
+        <p>2 5 ) e arctg(1 e 1 1 arctg sec x x =     − − +</p>
+        <p>Então: a) S = ∅ b) S = R c) S ⊂ [1, 2] d) S ⊂ [-1, 1] e) S ⊂ [-1, 2[</p>
+        <p>22) (ITA-97) Dado um número real a com a &gt; 1, seja S o conjunto solução da inequação 1) (x log a 1 log log 1/a 7 x a 1/a − ≤       −</p>
+        <p>Então S é o intervalo:</p>
+        <p>a) [4, + ∞[ b) [4, 7[ c) ]1, 5] d) ]1, 4] e) [1, 4[</p>
+        <p>23) (ITA-97) Considere os pontos A: (0, 0) e B: (2, 0) e C: (0, 3). Seja P: (x, y) o ponto da intersecção das bissetrizes internas do triângulos ABC. Então x + y é igual a: a) 12/(5 + 13 ) b) 8/(2 + 11 ) c) 10/(6 + 13 ) d) 5</p>
+        <p>e) 2</p>
+        <p>24) (ITA-97) A altura e o raio da base de um cone de revolução medem 1 cm e 5 cm respectivamente. Por um ponto do eixo do cone situado a d cm de distância do vértice, traçamos um plano paralelo à base, obtendo um</p>
+        <p>www.rumoaoita.com tronco de cone. O volume deste tronco é a média geométrica entre os volumes do cone dado e do cone menor formado. Então d é igual a: a) 3 3 3 2 −</p>
+        <p>b) 3 2 5 3−</p>
+        <p>c) 3 2 5 3 +</p>
+        <p>d) 2 2 3−</p>
+        <p>e) 3 3 3 −</p>
+        <p>25) (ITA-97) Dentro de um tronco de pirâmide quadrangular regular, considera-se uma pirâmide regular cuja base é a base maior do tronco e cujo vértice é o centro da base menor do tronco. As arestas das bases medem a cm e 2a cm. As áreas laterais do tronco e da pirâmide são iguais. A altura (em cm) do tronco mede: a) 5 3 a</p>
+        <p>b) 10 35 a</p>
+        <p>c) 5 2 3 a</p>
+        <p>d) 10 35 a</p>
+        <p>e) 5 7 a</p>
+        <p>www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

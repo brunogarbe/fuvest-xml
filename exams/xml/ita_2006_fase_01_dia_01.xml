@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2006" phase="objective" day="0" variation="V1" date="2006-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>. Algumas células do corpo humano são circundadas por paredes revestidas externamente por uma película com carga positiva e, internamente, por outra película semelhante, mas com carga negativa de mesmo módulo. Considere sejam conhecidas: densidades superficial de ambas as cargas 6 2 0,50 10 C/ m − σ=± × ; 0 12 2 2 9,0 10 C Nm − ε ≅ × ; parede com volume de 16 3 4,0 10 m − × e constante dielétrica k = 5,0. Assinale, então, a estimativa da energia total acumulada no campo elétrico dessa parede.</p>
+        <p>A ( ) 0,7 eV</p>
+        <p>B ( ) 1,7 eV</p>
+        <p>C ( ) 7,0 eV</p>
+        <p>D ( ) 17 eV</p>
+        <p>E ( ) 70 eV</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Uma haste metálica de comprimento 20,0 cm está situada num plano xy, formando um ângulo de 300 com relação ao eixo Ox. A haste movimenta-se com velocidade de 5,0 m/s na direção do eixo Ox e encontra-se imersa num campo magnético uniforme B JG , cujas componentes, em relação a Ox e Oz (em que z é perpendicular a xy) são, respectivamente, x z B 2,2 TeB 0,50T. = = − Assinale o módulo da força eletromotriz induzida na haste.</p>
+        <p>A ( ) 0,25 V</p>
+        <p>B ( ) 0,43 V</p>
+        <p>C ( ) 0,50 V</p>
+        <p>D ( ) 1,10 V</p>
+        <p>E ( ) 1,15 V</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. À borda de um precipício de um certo planeta, no qual se pode desprezar a resistência do ar, um astronauta mede o tempo t1 que uma pedra leva para atingir o solo, após deixada cair de uma de altura H. A seguir, ele mede o tempo t2 que uma pedra também leva para atingir o solo, após ser lançada para cima até uma altura h, como mostra a figura. Assinale a expressão que dá a altura H.</p>
+        <p>A ( ) ( ) 2 2 1 2 2 2 2 2 1 t t h H 2 t t = −</p>
+        <p>B ( ) ( ) 1 2 2 2 2 1 t t h H 4 t t = −</p>
+        <p>C ( ) ( ) 2 2 1 2 2 2 2 2 1 2 t t h H t t = −</p>
+        <p>D ( ) ( ) 1 2 2 2 2 1 4 t t h H t t = −</p>
+        <p>E ( ) ( ) 2 2 2 1 2 2 2 1 2 4t t h H t t = −</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Uma gota do ácido 3 2 16 CH (CH ) COOH se espalha sobre a superfície da água até formar uma camada de moléculas cuja espessura se reduz à disposição ilustrada na figura. Uma das terminações deste ácido é polar, visto que se trata de uma ligação O-H, da mesma natureza que as ligações (polares) O-H da água. Essa circunstância explica a atração entre as moléculas de ácido e da água. Considerando o volume 10 3 1,56 10 m − × da gota do ácido, e seu filme com área de 2 2 6,25 10 m − × , assinale a alternativa que estima o comprimento da molécula do ácido.</p>
+        <p>A ( ) 9 0,25 10 m − ×</p>
+        <p>B ( ) 9 0,40 10 m − ×</p>
+        <p>C ( ) 9 2,50 10 m − ×</p>
+        <p>D ( ) 9 4,00 10 m − ×</p>
+        <p>E ( ) 9 25,0 10 m − ×</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Um fio delgado e rígido, de comprimento L, desliza, sem atrito, com velocidade v G sobre um anel de raio R, numa região de campo magnético constante B JG . Pode-se, então, afirmar que:</p>
+        <p>A ( ) O fio irá se mover indefinidamente, pois a lei de inércia assim o garante. B ( ) O fio poderá parar, se B JG for perpendicular ao plano do anel, caso fio e anel sejam isolantes. C ( ) O fio poderá parar, se B JG for paralelo ao plano do anel, caso fio e anel sejam condutores. D ( ) O fio poderá parar, se B JG for perpendicular ao plano do anel, caso fio e anel sejam condutores. E ( ) O fio poderá parar, se B JG for perpendicular ao plano do anel, caso o fio seja feito de material isolante.</p>
+        <p>ácido hidrogênio carbono oxigênio água ácido hidrogênio carbono oxigênio água v R h H h H</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Uma estação espacial em forma de um toróide, de raio interno R1, e externo R2, gira, com período P, em torno do seu eixo central, numa região de gravidade nula. O astronauta sente que seu “peso” aumenta de 20%, quando corre com velocidade constante v G</p>
+        <p>no interior desta estação, ao longo de sua maior circunferência, conforme mostra a figura. Assinale a expressão que indica o módulo dessa velocidade.</p>
+        <p>A ( ) 2 2π R 6 v = 1 5 P ⎛ ⎞ − ⎜ ⎟ ⎜ ⎟ ⎝ ⎠</p>
+        <p>B ( ) 2 2π R 5 v = 1 6 P ⎛ ⎞ − ⎜ ⎟ ⎜ ⎟ ⎝ ⎠</p>
+        <p>C ( ) 2 2πR 5 v = 1 6 P ⎛ ⎞ + ⎜ ⎟ ⎜ ⎟ ⎝ ⎠</p>
+        <p>D ( ) 2 2πR 5 v = 1 6 P ⎛ ⎞ + ⎜ ⎟ ⎝ ⎠</p>
+        <p>E ( ) 2 2π R 6 v = 1 5 P ⎛ ⎞ − ⎜ ⎟ ⎝ ⎠</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Um bloco de gelo com 725 g de massa é colocado num calorímetro contendo 2,50 kg de água a uma temperatura de 5,0o C, verificando-se um aumento de 64 g na massa desse bloco, uma vez alcançado o equilíbrio térmico. Considere o calor específico da água (c = 1,0 cal/g o C) o dobro do calor específico do gelo, e o calor latente de fusão do gelo de 80 cal/g. Desconsiderando a capacidade térmica do calorímetro e a troca de calor com o exterior, assinale a temperatura inicial do gelo.</p>
+        <p>A ( ) -191,4o C B ( ) - 48,6o C C ( ) - 34,5o C D ( ) - 24,3o C E ( ) - 14,1o C</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Numa aula de laboratório, o professor enfatiza a necessidade de levar em conta a resistência interna de amperímetros e voltímetros na determinação da resistência R de um resistor. A fim de medir a voltagem e a corrente que passa por um dos resistores, são montados os 3 circuitos da figura, utilizando resistores iguais, de mesma resistência R. Sabe-se de antemão que a resistência interna do amperímetro é 0,01R, ao passo que a resistência interna do voltímetro é 100R. Assinale a comparação correta entre os valores de R, R2 (medida de R no circuito 2) e R3 (medida de R no circuito 3).</p>
+        <p>A ( ) 2 3 R R R &lt; &lt;</p>
+        <p>B ( ) 2 3 R R R &gt; &gt;</p>
+        <p>C ( ) 2 3 R R R &lt; &lt;</p>
+        <p>D ( ) 2 3 R R R &gt; &gt;</p>
+        <p>E ( ) 3 2 R R R &gt; &gt;</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Para se determinar o espaçamento entre duas trilhas adjacentes de um CD, foram montados dois arranjos:</p>
+        <p>1. O arranjo da figura (1), usando uma rede de difração de 300 linhas por mm, um LASER e um anteparo. Neste arranjo, mediu-se a distância do máximo de ordem 0 ao máximo de ordem 1 da figura de interferência formada no anteparo. 2. O arranjo da figura (2), usando o mesmo LASER, o CD e um anteparo com um orifício para a passagem do feixe de luz. Neste arranjo, mediu-se também a distância do máximo de ordem 0 ao máximo de ordem 1 da figura de interferência. Considerando nas duas situações 1θ e 2θ ângulos pequenos, a distância entre duas trilhas adjacentes do CD é de (1)</p>
+        <p>(2)</p>
+        <p>A ( ) 7 2,7 10 m − ×</p>
+        <p>B ( ) 7 3,0 10 m − ×</p>
+        <p>C ( ) 6 7,4 10 m − ×</p>
+        <p>D ( ) 6 1,5 10 m − ×</p>
+        <p>E ( ) 5 3,7 10 m − ×</p>
+        <p>R1 R2 R R ε + - (1) V R R ε + - (2) V A R R ε + - (3) A R R ε + - (1) V R R ε + - (2) V A R R ε + - (3) A</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Einstein propôs que a energia da luz é transportada por pacotes de energia hf, em que h é a constante de Plank e f é a freqüência da luz, num referencial na qual a fonte está em repouso. Explicou, assim, a existência de uma freqüência mínima fo para arrancar elétrons de um material, no chamado efeito fotoelétrico. Suponha que a fonte emissora de luz está em movimento em relação ao material. Assinale a alternativa correta.</p>
+        <p>A ( ) Se f = fo, é possível que haja emissão de elétrons desde que a fonte esteja se afastando do material. B ( ) Se f &lt; fo, é possível que elétrons sejam emitidos, desde que a fonte esteja se afastando do material. C ( ) Se f &lt; fo, não há emissão de elétrons qualquer que seja a velocidade da fonte. D ( ) Se f &gt; fo, é sempre possível que elétrons sejam emitidos pelo material, desde que a fonte esteja se afastando do material. E ( ) Se f &lt; fo, é possível que elétrons sejam emitidos, desde que a fonte esteja se aproximando do material.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Considere duas ondas que se propagam com freqüências 1 2 f e f , ligeiramente diferentes entre si, e mesma amplitude A, cujas equações são respectivamente ( ) 1 1 y (t) A cos 2 f t = π e ( ) 2 2 y (t) Acos 2 f t = π . Assinale a opção que indica corretamente:</p>
+        <p>Amplitude máxima da onda resultante Freqüência da onda resultante Freqüência do batimento</p>
+        <p>A ( )</p>
+        <p>A 2</p>
+        <p>2 1 f f +</p>
+        <p>1 2 (f f ) 2 −</p>
+        <p>B ( )</p>
+        <p>2 A</p>
+        <p>1 2 (f f ) 2 +</p>
+        <p>1 2 (f f ) 2 −</p>
+        <p>C ( ) 2 A</p>
+        <p>1 2 (f f ) 2 +</p>
+        <p>1 2 f f −</p>
+        <p>D ( )</p>
+        <p>A 2</p>
+        <p>2 1 f f +</p>
+        <p>1 2 f f −</p>
+        <p>E ( ) A</p>
+        <p>1 2 (f f ) 2 +</p>
+        <p>1 2 f f −</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Para iluminar o interior de um armário, liga-se uma pilha seca de 1,5 V a uma lâmpada de 3,0 W e 1,0 V. A pilha ficará a uma distância de 2,0 m da lâmpada e será ligada a um fio de 1,5 mm de diâmetro e resistividade de 8 1,7 10 .m. − × Ω A corrente medida produzida pela pilha em curto circuito foi de 20 A. Assinale a potência real dissipada pela lâmpada, nessa montagem.</p>
+        <p>A ( ) 3,7 W</p>
+        <p>B ( ) 4,0 W</p>
+        <p>C ( ) 5,4 W</p>
+        <p>D ( ) 6,7 W</p>
+        <p>E ( ) 7,2 W</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. A figura mostra uma placa de vidro com índice de refração 2 n v = mergulhada no ar, cujo índice de refração é igual a 1,0. Para que um feixe de luz monocromática se propague pelo interior do vidro através de sucessivas reflexões totais, o seno do ângulo de entrada, e sen θ deverá ser menor ou igual a</p>
+        <p>A ( ) 0,18</p>
+        <p>B ( ) 0,37</p>
+        <p>C ( ) 0,50</p>
+        <p>D ( ) 0,71</p>
+        <p>E ( ) 0,87</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Um solenóide com núcleo de ar tem uma auto-indutância L. Outro solenóide, também com núcleo de ar, tem a metade do número de espiras do primeiro solenóide, 0,15 do seu comprimento e 1,5 de sua seção transversal. A auto-indutância do segundo solenóide é</p>
+        <p>A ( ) 0,2 L</p>
+        <p>B ( ) 0,5 L</p>
+        <p>C ( ) 2,5 L</p>
+        <p>D ( ) 5,0 L</p>
+        <p>E ( ) 20,0 L</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Um mol de um gás ideal ocupa um volume inicial Vo à temperatura To e pressão Po, sofrendo a seguir uma expansão reversível para um volume V1. Indique a relação entre o trabalho que é realizado por: (i) W(i), num processo em que a pressão é constante. (ii) W(ii), num processo em que a temperatura é constante. (iii) W(iii), num processo adiabático.</p>
+        <p>A ( ) W(i)&gt;W(iii)&gt;W(ii) B ( ) W(i)&gt;W(ii)&gt;W(iii) C ( ) W(iii)&gt;W(ii)&gt;W(i)</p>
+        <p>D ( ) W(i)&gt;W(ii)&gt;W(iii) E ( ) W(iii)&gt;W(ii)&gt;W(i)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Um anel de peso 30 N está preso a uma mola e desliza sem atrito num fio circular situado num plano vertical, conforme mostrado na figura. Considerando que a mola não se deforma quando o anel se encontra na posição P e que a velocidade do anel seja a mesma nas posições P e Q, a constante elástica da mola deve ser de</p>
+        <p>A ( ) 3 3,0 10 N / m ×</p>
+        <p>B ( ) 3 4,5 10 N / m ×</p>
+        <p>C ( ) 3 7,5 10 N / m ×</p>
+        <p>D ( ) 4 1,2 10 N / m ×</p>
+        <p>E ( ) 4 3,0 10 N / m ×</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. No modelo proposto por Einstein, a luz se comporta como se sua energia estivesse concentrada em pacotes discretos, chamados de “quanta” de luz, e atualmente conhecidos por fótons. Estes possuem momento p e energia E relacionados pela equação E = pc, em que c é a velocidade da luz no vácuo. Cada fóton carrega uma energia E = h f, em que h é a constante de Planck e f é a freqüência da luz. Um evento raro, porém possível, é a fusão de dois fótons, produzindo um par elétron-pósitron, sendo a massa do pósitron igual à massa do elétron. A relação de Einstein associa a energia da partícula à massa do elétron ou pósitron, isto é, 2 e E m c = . Assinale a freqüência mínima de cada fóton, para que dois fótons, com momentos opostos e de módulo iguais, produzam um par elétron-pósitron após a colisão.</p>
+        <p>A ( ) 2 e f (4m c ) / h =</p>
+        <p>B ( ) 2 e f (m c ) h =</p>
+        <p>C ( ) 2 e f (2m c ) h =</p>
+        <p>D ( ) 2 e f (m c ) 2h =</p>
+        <p>E ( ) 2 e f (m c ) 4h =</p>
+        <p>2 cm 10 cm P anel Q V0</p>
+        <p>V1 P0 (iii) (ii) (i) V P (iii) (ii) (i) P P0 V V1 V0 (iii) (ii) (i) P P0 V V1 V0 (iii) (ii) (i) P P0 V V1 V0 V V1 V0 P0 (iii) (ii) (i) P</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Uma espira retangular é colocada em um campo magnético com o plano da espira perpendicular à direção do campo, conforme mostra a figura. Se a corrente elétrica flui no sentido mostrado, pode-se afirmar em relação à resultante das forças, e ao torque total em relação ao centro da espira, que</p>
+        <p>A ( ) A resultante das forças não é zero, mas o torque total é zero. B ( ) A resultante das forças e o torque total são nulos. C ( ) O torque total não é zero, mas a resultante das forças é zero. D ( ) A resultante das forças e o torque total não são nulos. E ( ) O enunciado não permite estabelecer correlações entre as grandezas consideradas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Sejam o recipiente (1) , contendo 1 mol de H2 (massa molecular M = 2) e o recipiente (2) contendo 1 mol de He (massa atômica M = 4) ocupando o mesmo volume, ambos mantidos a mesma pressão. Assinale a alternativa correta:</p>
+        <p>A ( ) A temperatura do gás no recipiente 1 é menor que a temperatura do gás no recipiente 2. B ( ) A temperatura do gás no recipiente 1 é maior que a temperatura do gás no recipiente 2. C ( ) A energia cinética média por molécula do recipiente 1 é maior que a do recipiente 2. D ( ) O valor médio da velocidade das moléculas no recipiente 1 é menor que o valor médio da velocidade das moléculas no recipiente 2. E ( ) O valor médio da velocidade das moléculas no recipiente 1 é maior que o valor médio da velocidade das moléculas no recipiente 2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Animado com velocidade inicial v0, o objeto X, de massa m, desliza sobre um piso horizontal ao longo de uma distância d, ao fim da qual colide com o objeto Y, de mesma massa, que se encontra inicialmente parado na beira de uma escada de altura h. Com o choque, o objeto Y atinge o solo no ponto P. Chamando k μ o coeficiente de atrito cinético entre o objeto X e o piso, g a aceleração da gravidade e desprezando a resistência do ar, assinale a expressão que dá a distância d.</p>
+        <p>A ( ) 2 2 0 k 1 s g d v 2 g 2h ⎛ ⎞ = − ⎜ ⎟ μ ⎝ ⎠</p>
+        <p>B ( ) 2 2 0 k 1 s g d v 2 g 2h ⎛ ⎞ − = − ⎜ ⎟ μ ⎝ ⎠</p>
+        <p>C ( ) 0 0 k v g d v s 2 g 2h ⎛ ⎞ − = − ⎜ ⎟ ⎜ ⎟ μ ⎝ ⎠</p>
+        <p>D ( ) 2 2 0 k 1 s g d 2 v 2 g 2h ⎛ ⎞ = − ⎜ ⎟ μ ⎝ ⎠</p>
+        <p>E ( ) 0 0 k v g d v s g 2h ⎛ ⎞ − = − ⎜ ⎟ ⎜ ⎟ μ ⎝ ⎠</p>
+        <p>i B i B v0 h s d P X Y Y v0 h s d P X Y Y AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESPONDIDAS NO CADERNO DE SOLUÇÕES</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Considere uma pessoa de massa m que ao curvar-se permaneça com a coluna vertebral praticamente nivelada em relação ao solo. Sejam m 5 2 m1 = a massa do tronco e m 5 1 m2 = a soma das massas da cabeça e dos braços. Considere a coluna como uma estrutura rígida e que a resultante das forças aplicadas pelos músculos à coluna seja Fm e que Fd seja a resultante das outras forças aplicadas à coluna, de forma a mantê-la em equilíbrio. Qual é o valor da força Fd ?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Quando se acendem os faróis de um carro cuja bateria possui resistência interna ri = 0,050 Ω, um amperímetro indica uma corrente de 10 A e um voltímetro uma voltagem de 12 V. Considere desprezível a resistência interna do amperímetro. Ao ligar o motor de arranque, observa-se que a leitura do amperímetro é de 8,0 A e que as luzes diminuem um pouco de intensidade. Calcular a corrente que passa pelo motor de arranque quando os faróis estão acesos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Considere um automóvel de peso P, com tração nas rodas dianteiras, cuja centro de massa está em C, movimentando-se num plano horizontal. Considerando g = 10 m/s2, calcule a aceleração máxima que o automóvel pode atingir, sendo o coeficiente de atrito entre os pneus e o piso igual a 0,75.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. O Raio-X é uma onda eletromagnética de comprimento de onda (λ ) muito pequeno. A fim de observar os efeitos da difração de tais ondas é necessário que um feixe de Raio-X incida sobre um dispositivo, com fendas da ordem de λ . Num sólido cristalino, os átomos são dispostos em um arranjo regular com espaçamento entre os átomos da mesma ordem de λ . Combinando esses fatos, um cristal serve como uma espécie de rede de difração dos Raios-X. Um feixe de Raios-X pode ser refletido pelos átomos individuais de um cristal e tais ondas refletidas podem produzir a interferência de modo semelhante ao das ondas provenientes de uma rede de difração. Considere um cristal de cloreto de sódio, cujo espaçamento entre os átomos adjacentes é a = 0,30 x 10-9 m, onde Raios-X com λ = 1,5 x 10-10 m são refletidos pelos planos cristalinos. A figura (1) mostra a estrutura cristalina cúbica do cloreto de sódio. A figura (2) mostra o diagrama bidimensional da reflexão de um feixe de Raios-X em dois planos cristalinos paralelos. Se os feixes interferem construtivamente, calcule qual deve ser a ordem máxima da difração observável?</p>
+        <p>m2g m1g d/2 d/2 d/3 2d/3 Fm Fd α β sentido do movimento C 2,0 m 1,4 m 0,6 m - V ε + A motor ri farol - V ε + A motor motor ri farol λ λ feixe incidente feixe refletido a θ (2) θ θ a a a (1) λ λ feixe incidente feixe refletido a θ (2) θ θ a a a (1)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. A figura mostra um capacitor de placas paralelas de área A separadas pela distância d. Inicialmente o dielétrico entre as placas é o ar e a carga máxima suportada é Qi . Para que esse capacitor suporte uma carga máxima Qf foi introduzida uma placa de vidro de constante dielétrica k e espessura d/2. Sendo mantida a diferença de potencial entre as placas, calcule a razão entre as cargas Qf e Qi.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Uma partícula de massa m carregada com carga q &gt; 0 encontra-se inicialmente em repouso imersa num campo gravitacional e num campo magnético 0 B com sentido negativo em relação ao eixo Oz, conforme indicado na figura. Sabemos que a velocidade e a aceleração da partícula na direção Oy são funções harmônicas simples. Disso resulta uma trajetória cicloidal num plano perpendicular à 0 B . Determine o deslocamento máximo (L) da partícula.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Calcule a área útil das placas de energia solar de um sistema de aquecimento de água, para uma residência com quatro moradores, visando manter um acréscimo médio de 30,0o C em relação à temperatura ambiente. Considere que cada pessoa gasta 30,0 litros de água quente por dia e que, na latitude geográfica da residência, a conversão média mensal de energia é de 60,0 kWh/mês por metro quadrado de superfície coletora. Considere ainda que o reservatório de água quente com capacidade para 200 litros apresente uma perda de energia de 0,30 kWh por mês para cada litro. É dado o calor específico da água c = 4,19 J/go C.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Num meio de permeabilidade magnética 0 μ , uma corrente i passa através de um fio longo e aumenta a uma taxa constante i t Δ Δ . Um anel metálico com raio a está posicionado a uma distância r do fio longo, conforme mostra a figura. Se a resistência do anel é R, calcule a corrente induzida no anel.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Considere uma tubulação de água que consiste de um tubo de 2,0 cm de diâmetro por onde a água entra com velocidade de 2,0 m/s sob uma pressão de 5,0 x 105 Pa. Outro tubo de 1,0 cm de diâmetro encontra-se a 5,0 m de altura, conectado ao tubo de entrada. Considerando a densidade da água igual 1,0 x 103 kg/m3 e desprezando as perdas, calcule a pressão da água no tubo de saída.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Vivemos dentro de um capacitor gigante, onde as placas são a superfície da Terra, com carga - Q e a ionosfera, uma camada condutora na atmosfera, a uma altitude h = 60 km, carregada com carga + Q. Sabendo que nas proximidades do solo junto à superfície da Terra, o módulo do campo elétrico médio é de 100 V/m e considerando h &lt;&lt; raio da Terra ≅ 6400 km, determine a capacitância deste capacitor gigante e a energia elétrica armazenada. Considere 9 2 2 0 1/(4 ) 9,0 x 10 Nm / C πε = . y x L B0 O y x L B0 O ar vidro configuração final ar configuração inicial A d ar vidro configuração final ar configuração inicial A d i r a i r a</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

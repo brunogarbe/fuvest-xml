@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="FUVEST" year="1998" phase="discursive" day="1" variation="V1" date="1998-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>Comente a especificidade da estrutura social espartana, no contexto da cidade-estado grega clássica.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>"O ar da cidade torna um homem livre". Analise o significado desse adágio popular, no quadro do desenvolvimento das cidades européias, a partir da Baixa Idade Média. FUVEST 98 – SEGUNDA FASE – PROVA DE HISTÓRIA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>A partir da época moderna observa-se, em países da Europa ocidental, um progressivo fortalecimento das monarquias nacionais. Descreva as principais características políticas e econômicas desse processo entre os séculos XVI e XVII.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>Qual a relação entre a Primeira Guerra Mundial e os acontecimentos políticos que ocorreram na Rússia entre fevereiro e outubro de 1917? FUVEST 98 – SEGUNDA FASE – PROVA DE HISTÓRIA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>Qual o significado da expressão "guerra fria" e a que período da história das relações internacionais ela se refere?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>Os regimes militares impostos no Cone Sul, nas décadas de 1960 e 1970, apresentaram algumas características políticas e ideológicas comuns. Discorra sobre elas. FUVEST 98 – SEGUNDA FASE – PROVA DE HISTÓRIA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>Sobre a maior mobilidade espacial dos habitantes de São Paulo, no século XVII, Sergio Buarque de Holanda escreveu, em O extremo oeste: "Apartados das grandes linhas naturais de comunicação com o Reino e sem condições para desenvolver de imediato um tipo de economia extrovertida [para o exterior], que torne compensadora a introdução de africanos, [os paulistas] devem contentar-se com as possibilidades mais modestas que proporciona o nativo, o 'negro' da terra, como sem malícia costumam dizer, e é para ir buscá-lo que correm o sertão." Comente e interprete este texto.</p>
+      </statement>
+    </essay_question>
+    <discursive_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>O artigo 5º da Constituição do Império do Brasil, datada de 1824, dizia o seguinte: "A religião católica apostólica romana continuará a ser a religião do Império. Todas as outras religiões serão permitidas com seu culto doméstico ou particular, em casas para isso destinadas, sem forma alguma exterior de templo". Comente o texto constitucional em função:</p>
+      </statement>
+      <parts>
+        <part>
+          <p>das relações entre Igreja católica e Estado, durante o Império;</p>
+        </part>
+        <part>
+          <p>da situação das demais religiões no mesmo período. FUVEST 98 – SEGUNDA FASE – PROVA DE HISTÓRIA</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <essay_question number="09">
+      <statement>
+        <p>Sobre a chegada dos imigrantes a São Paulo, no fim do século XIX, José de Souza Martins, em O cativeiro da terra, escreveu que havia: "dificuldades nas relações de trabalho, derivadas basicamente do fato de que o fazendeiro, tendo subvencionado a vinda do imigrante, considerava o colono propriedade sua." Analise e desenvolva esta afirmativa.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>O Ato Institucional nº2, baixado em outubro de 1965 pelo regime militar brasileiro, extinguiu os partidos políticos então existentes, abrindo caminho para a instituição do bipartidarismo. Aponte as características básicas do bipartidarismo e suas principais conseqüências.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

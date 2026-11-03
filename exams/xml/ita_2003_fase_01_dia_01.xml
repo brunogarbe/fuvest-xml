@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2003" phase="objective" day="0" variation="V1" date="2003-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="02">
+      <statement>
+        <p>. A partir do repouso, uma pedra é deixada cair da borda no alto de um edifício. A figura mostra a disposição das janelas, com as pertinentes alturas h e distâncias L que se repetem igualmente para as demais janelas, até o térreo. Se a pedra percorre a altura h da primeira janela em t segundos, quanto tempo levará para percorrer, em segundos, a mesma altura h da quarta janela? (Despreze a resistência do ar).</p>
+        <p>A ( ) ( ) ( ) L+h - L 2L +2h - 2L+h    t . B ( ) ( ) ( ) 2L+2h - 2L+h L +h - L    t . C ( ) ( ) ( ) ( ) ( ) 4 L+h - 3 L+h +L L +h - L      t . D ( ) ( ) ( ) ( ) ( ) 4 L+h - 3 L+h +L 2L +2h - 2 L+h      t . E ( ) ( ) ( ) ( ) ( ) 3 L+h - 2 L+h +L L +h - L      t .</p>
+        <p>A ( ) 3 2 a /[(R -a) R] . B ( ) ( ) 3 a R . C ( ) ( ) 2 a R . D ( ) a R . E ( ) nulo.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Considerando um buraco negro como um sistema termodinâmico, sua energia interna U varia com a sua massa M de acordo com a famosa relação de Einstein: 2 ∆ = ∆ U M c . Stephen Hawking propôs que a entropia S de um buraco negro depende apenas de sua massa e de algumas constantes fundamentais da natureza. Desta forma, sabe-se que uma variação de massa acarreta uma variação de entropia dada por: / 8 / ∆ ∆ = h B S M G M k c π . Supondo que não haja realização de trabalho com a variação de massa, assinale a alternativa que melhor representa a temperatura absoluta T do buraco negro.</p>
+        <p>A ( ) 3 B T c G M k = h .</p>
+        <p>B ( ) 2 8 B T M c k π = .</p>
+        <p>C ( )</p>
+        <p>2 8 B T M c k π = . D ( ) 3 8 B T c G M k π = h . E ( ) 3 8 B T c G M k π = h .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Variações no campo gravitacional na superfície da Terra podem advir de irregularidades na distribuição de sua massa. Considere a Terra como uma esfera de raio R e de densidade ρ , uniforme, com uma cavidade esférica de raio a, inteiramentente contida no seu interior. A distância entre os centros O, da Terra, e C, da cavidade, é d, que pode variar de 0 (zero) até R – a, causando, assim, uma variação do campo gravitacional em um ponto P, sobre a superfície da Terra, alinhado com O e C . (Veja a figura). Seja G1 a intensidade do campo gravitacional em P sem a existência da cavidade na Terra, e G2, a intensidade do campo no mesmo ponto, considerando a existência da cavidade. Então, o valor máximo da variação relativa: (G1 – G2)/G1, que se obtém ao deslocar a posição da cavidade, é R O C d P a L L h h 1a janela 2a janela pedra L</p>
+      </statement>
+    </essay_question>
+    <essay_question number="01">
+      <statement>
+        <p>. Sobre um plano liso e horizontal repousa um sistema constituído de duas partículas, I e II, de massas M e m, respectivamente. A partícula II é conectada a uma articulação O sobre o plano por meio de uma haste que inicialmente é disposta na posição indicada na figura. Considere a haste rígida de comprimento L, inextensível e de massa desprezível. A seguir, a partícula I desloca-se na direção de II com velocidade uniforme B V ur , que forma um ângulo θ com a haste. Desprezando qualquer tipo de resistência ou atrito, pode-se afirmar que, imediatamente após a colisão (elástica) das partículas, II I B vr θ L o x y o 90</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Qual dos gráficos abaixo melhor representa a taxa P de calor emitido por um corpo aquecido, em função de sua temperatura absoluta T ?</p>
+        <p>A</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Uma certa massa de gás ideal realiza o ciclo ABCD de transformações, como mostrado no diagrama pressão-volume da figura. As curvas AB e CD são isotermas. Pode-se afirmar que</p>
+        <p>A ( ) o ciclo ABCD corresponde a um ciclo de Carnot. B ( ) o gás converte trabalho em calor ao realizar o ciclo. C ( ) nas transformações AB e CD o gás recebe calor. D ( ) nas transformações AB e BC a variação da energia interna do</p>
+        <p>gás é negativa. E ( ) na transformação DA o gás recebe calor, cujo valor é igual à variação da energia interna.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Sabe-se que a atração gravitacional da lua sobre a camada de água é a principal responsável pelo aparecimento de marés oceânicas na Terra. A figura mostra a Terra, supostamente esférica, homogeneamente recoberta por uma camada de água. Nessas condições, considere as seguintes afirmativas:</p>
+        <p>I. As massas de água próximas das regiões A e B experimentam marés altas simultaneamente. II. As massas de água próximas das regiões A e B experimentam marés opostas, isto é, quando A tem maré alta, B tem maré baixa e vice-versa. III. Durante o intervalo de tempo de um dia ocorrem duas marés altas e duas marés baixas.</p>
+        <p>Então, está(ão) correta(s), apenas</p>
+        <p>A ( ) a afirmativa I.</p>
+        <p>B ( ) a afirmativa II. C ( ) a afirmativa III.</p>
+        <p>D ( ) as afirmativas I e II. E ( ) as afirmativas I e III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Um balão contendo gás hélio é fixado, por meio de um fio leve, ao piso de um vagão completamente fechado. O fio permanece na vertical enquanto o vagão se movimenta com velocidade constante, como mostra a figura. Se o vagão é acelerado para frente, pode-se afirmar que, em relação a ele, o balão</p>
+        <p>A ( ) se movimenta para trás e a tração no fio aumenta. B ( ) se movimenta para trás e a tração no fio não muda. C ( ) se movimenta para frente e a tração no fio aumenta. D ( ) se movimenta para frente e a tração no fio não muda. E ( ) permanece na posição vertical. A ( )</p>
+        <p>E ( ) D ( ) C ( ) B ( ) P T o</p>
+        <p>P T o P T o P T o P V A B C D Lua Terra A B água P T o</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Durante uma tempestade, Maria fecha as janelas do seu apartamento e ouve o zumbido do vento lá fora. Subitamente o vidro de uma janela se quebra. Considerando que o vento tenha soprado tangencialmente à janela, o acidente pode ser melhor explicado pelo(a)</p>
+        <p>A ( ) princípio de conservação da massa. B ( ) equação de Bernoulli.</p>
+        <p>C ( ) princípio de Arquimedes. D ( ) princípio de Pascal.</p>
+        <p>E ( ) princípio de Stevin.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. A figura mostra um sistema óptico constituído de uma lente divergente, com distância focal 20 cm = − 1f , distante 14 cm de uma lente convergente com distância focal = 20 cm 2f . Se um objeto linear é posicionado a 80 cm à esquerda da lente divergente, pode-se afirmar que a imagem definitiva formada pelo sistema</p>
+        <p>A ( ) é real e o fator de ampliação linear do sistema é – 0,4. B ( ) é virtual, menor e direita em relação ao objeto. C ( ) é real, maior e invertida em relação ao objeto.</p>
+        <p>D ( ) é real e o fator de ampliação linear do sistema é – 0,2. E ( ) é virtual, maior e invertida em relação ao objeto.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Num oftalmologista, constata-se que um certo paciente tem uma distância máxima e uma distância mínima de visão distinta de 5,0 m e 8,0 cm, respectivamente. Sua visão deve ser corrigida pelo uso de uma lente que lhe permita ver com clareza objetos no “infinito”. Qual das afirmações é verdadeira?</p>
+        <p>A ( ) O paciente é míope e deve usar lentes divergentes cuja vergência é 0,2 dioptrias . B ( ) O paciente é míope e deve usar lentes convergentes cuja vergência é 0,2 dioptrias. C ( ) O paciente é hipermétrope e deve usar lentes convergentes cuja vergência é 0,2 dioptrias. D ( ) O paciente é hipermétrope e deve usar lentes divergentes cuja vergência é – 0,2 dioptrias. E ( ) A lente corretora de defeito visual desloca a distância mínima de visão distinta para 8,1 cm.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. A figura 1 mostra o Experimento típico de Young, de duas fendas, com luz monocromática, em que m indica a posição do máximo central. A seguir, esse experimento é modificado, inserindo uma pequena peça de vidro de faces paralelas em frente à fenda do lado direito, e inserindo um filtro sobre a fenda do lado esquerdo, como mostra a figura 2. Suponha que o único efeito da peça de vidro é alterar a fase da onda emitida pela fenda, e o único efeito do filtro é reduzir a intensidade da luz emitida pela respectiva fenda. Após essas modificações, a nova figura da variação da intensidade luminosa em função da posição das franjas de interferência é melhor representada por objeto 80 cm 14 cm A Intensidade anteparo Experimento de Young Figura 1 m Intensidade anteparo filtro vidro Experimento modificado Figura 2 A ( ) A m</p>
+        <p>C ( ) A m m B ( ) A D ( ) A m E ( ) A m</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Quando em repouso, uma corneta elétrica emite um som de freqüência 512 Hz. Numa experiência acústica, um estudante deixa cair a corneta do alto de um edifício. Qual a distância percorrida pela corneta, durante a queda, até o instante em que o estudante detecta o som na freqüência de 485 Hz? (Despreze a resistência do ar).</p>
+        <p>A ( ) 13,2 m</p>
+        <p>B ( ) 15,2 m</p>
+        <p>C ( ) 16,1 m D ( ) 18,3 m</p>
+        <p>E ( ) 19,3 m</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Considere as afirmativas:</p>
+        <p>I. Os fenômenos de interferência, difração e polarização ocorrem com todos os tipos de onda. II. Os fenômenos de interferência e difração ocorrem apenas com ondas transversais. III. As ondas eletromagnéticas apresentam o fenômeno de polarização, pois são ondas longitudinais. IV. Um polarizador transmite os componentes da luz incidente não polarizada, cujo vetor campo elétrico E ur é perpendicular à direção de transmissão do polarizador.</p>
+        <p>Então, está(ão) correta(s)</p>
+        <p>A ( ) nenhuma das afirmativas.</p>
+        <p>B ( ) apenas a afirmativa I.</p>
+        <p>C ( ) apenas a afirmativa II. D ( ) apenas as afirmativas I e II.</p>
+        <p>E ( ) apenas as afirmativas I e IV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. No Laboratório de Plasmas Frios do ITA é possível obter filmes metálicos finos, vaporizando o metal e depositando-o por condensação sobre uma placa de vidro. Com o auxílio do dispositivo mostrado na figura, é possível medir a espessura e de cada filme. Na figura, os dois geradores são idênticos, de f.e.m. = 1,0V E e resistência = 1,0Ω r , estando ligados a dois eletrodos retangulares e paralelos, P1 e P2 , de largura = 1,0cm b e separados por uma distância a = 3,0 cm. Um amperímetro ideal A é inserido no circuito, como indicado. Supondo que após certo tempo de deposição é formada sobre o vidro uma camada uniforme de alumínio entre os eletrodos, e que o amperímetro acusa uma corrente = 0,10A i , qual deve ser a espessura e do filme? (resistividade do alumínio 8 ρ = 2,6 x10 Ω.m − ).</p>
+        <p>A ( ) -9 4,1x10 cm B ( ) -9 4,1x10 m C ( ) -9 4,3x10 m D ( ) -9 9,7 x10 m E ( ) n.d.a.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. A figura mostra dois capacitores, 1 e 2, inicialmente isolados um do outro, carregados com uma mesma carga Q. A diferença de potencial (ddp) do capacitor 2 é a metade da ddp do capacitor 1. Em seguida, as placas negativas dos capacitores são ligadas à Terra e, as positivas, ligadas uma a outra por um fio metálico, longo e fino. Pode-se afirmar que</p>
+        <p>A ( ) antes das ligações, a capacitância do capacitor 1 é maior do que a do capacitor 2. B ( ) após as ligações, as capacitâncias dos dois capacitores aumentam. C ( ) após as ligações, o potencial final em N é maior do que o potencial em O. D ( ) a ddp do arranjo final entre O e P é igual a 2/3 da ddp inicial do capacitor 1. E ( ) a capacitância equivalente do arranjo final é igual a duas vezes à capacitância do capacitor 1.</p>
+        <p>A a b e E E r r P1 P2 vidro M -Q +Q N (1) O P (2) +Q -Q</p>
+        <p>A ( ) o módulo da força eletromotriz induzida é ε = B vsenθ l . B ( ) a intensidade i da corrente no circuito é dada por ( ) cP senθ Bl . C ( ) nas condições dadas, o condutor descola dos trilhos quando ( ) bP B tgθ ≥ i l . D ( ) a força eletromotriz do gerador é dada por ( ) c E = r P senθ B B vcosθ − l l . E ( ) o sentido da corrente na barra é de M para N.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Experimentos de absorção de radiação mostram que a relação entre a energia E e a quantidade de movimento p de um fóton é E = pc . Considere um sistema isolado formado por dois blocos de massas 1 m e 2 m , respectivamente, colocados no vácuo, e separados entre si de uma distância L. No instante t = 0, o bloco de massa 1 m emite um fóton que é posteriormente absorvido inteiramente por 2 m , não havendo qualquer outro tipo de interação entre os blocos. (Ver figura). Suponha que 1 m se torne 1 m ' em razão da emissão do fóton e, analogamente, 2 m se torne 2 m 'devido à absorção desse fóton. Lembrando que esta questão também pode ser resolvida com recursos da Mecânica Clássica, assinale a opção que apresenta a relação correta entre a energia do fóton e as massas dos blocos.</p>
+        <p>A ( ) ( ) 2 2 1 E = m - m c .</p>
+        <p>B ( ) ( ) 2 1 2 E = m ' - m ' c .</p>
+        <p>C ( ) ( ) 2 2 2 E = m ' m c /2 − . D ( ) ( ) 2 2 2 E = m ' m c − .</p>
+        <p>E ( ) ( ) 2 1 1 E = m m ' c + .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Considere as seguintes afirmações:</p>
+        <p>I. No efeito fotoelétrico, quando um metal é iluminado por um feixe de luz monocromática, a quantidade de elétrons emitidos pelo metal é diretamente proporcional à intensidade do feixe incidente, independentemente da freqüência da luz. II. As órbitas permitidas ao elétron em um átomo são aquelas em que o momento angular orbital é / 2 nh π , sendo 1,3,5... = n . III. Os aspectos corpuscular e ondulatório são necessários para a descrição completa de um sistema quântico. IV. A natureza complementar do mundo quântico é expressa, no formalismo da Mecânica Quântica, pelo princípio de incerteza de Heisenberg.</p>
+        <p>Quais estão corretas?</p>
+        <p>A ( ) I e II.</p>
+        <p>B ( ) I e III.</p>
+        <p>C ( ) I e IV.</p>
+        <p>D ( ) II e III.</p>
+        <p>E ( ) III e IV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Na figura, uma barra condutora MN (de comprimento l , resistência desprezível e peso b P r ) puxada por um peso c P r , desloca-se com velocidade constante vr , apoiada em dois trilhos condutores retos, paralelos e de resistência desprezível, que formam um ângulo θ com o plano horizontal. Nas extremidades dos trilhos está ligado um gerador de força eletromotriz E com resistência r. Desprezando possíveis atritos, e considerando que o sistema está imerso em um campo de indução magnética constante, vertical e uniformeB r , pode-se afirmar que θ r E B r vr M N C P r L 1 m 2 m Fóton t 0 =</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Utilizando o modelo de Bohr para o átomo, calcule o número aproximado de revoluções efetuadas por um elétron no primeiro estado excitado do átomo de hidrogênio, se o tempo de vida do elétron, nesse estado excitado, é de 10-8 s. São dados: o raio da órbita do estado fundamental é de 11 5,3x10 m − e a velocidade do elétron nesta órbita é de 6 2,2x10 m/s .</p>
+        <p>A ( ) 6 1x10 revoluções.</p>
+        <p>B ( ) 7 4x10 revoluções.</p>
+        <p>C ( ) 7 5x10 revoluções. D ( ) 6 8x10 revoluções.</p>
+        <p>E ( ) 6 9x10 revoluções.</p>
+        <p>As questões dissertativas, numeradas de 21 a 30, devem ser respondidas no caderno de soluções.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Calcule a variação de entropia quando, num processo à pressão constante de 1,0 atm, se transforma integralmente em vapor 3,0 kg de água que se encontra inicialmente no estado líquido, à temperatura de 100 oC. Dado: calor de vaporização da água: 5 v L 5,4 x 10 / cal kg = .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Na figura, o carrinho com rampa movimenta-se com uma aceleração constante A r . Sobre a rampa repousa um bloco de massa m. Se µ é o coeficiente de atrito estático entre o bloco e a rampa, determine o intervalo para o módulo de A r , no qual o bloco permanecerá em repouso sobre a rampa.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Quando solto na posição angular de 45o (mostrada na figura), um pêndulo simples de massa m e comprimento L colide com um bloco de massa M. Após a colisão, o bloco desliza sobre uma superfície rugosa, cujo coeficiente de atrito dinâmico é igual a 0,3. Considere que após a colisão, ao retornar, o pêndulo alcança uma posição angular máxima de 30º. Determine a distância percorrida pelo bloco em função de m, M e L.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. A figura mostra um recipiente, com êmbolo, contendo um volume inicial Vi de gás ideal, inicialmente sob uma pressão Pi igual à pressão atmosférica, Pat. Uma mola não deformada é fixada no êmbolo e num anteparo fixo. Em seguida, de algum modo é fornecida ao gás uma certa quantidade de calor Q. Sabendo que a energia interna do gás é ( ) U = 3/2 PV , a constante da mola é k e a área da seção transversal do recipiente é A, determine a variação do comprimento da mola em função dos parâmetros intervenientes. Despreze os atritos e considere o êmbolo sem massa, bem como sendo adiabáticas as paredes que confinam o gás. A r α m M m L 45° k at P iP i V h x Hg</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Num barômetro elementar de Torricelli, a coluna de mercúrio possui uma altura H, que se altera para X quando este barômetro é mergulhado num líquido de densidade D, cujo nível se eleva a uma altura h, como mostra a figura. Sendo d a densidade do mercúrio, determine em função de H, D e d a altura do líquido, no caso de esta coincidir com a altura X da coluna de mercúrio.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Uma onda acústica plana de 6,0 kHz, propagando-se no ar a uma velocidade de 340 m/s, atinge uma película plana com um ângulo de incidência de 60o. Suponha que a película separa o ar de uma região que contém o gás 2 CO , no qual a velocidade de propagação do som é de 280 m/s. Calcule o valor aproximado do ângulo de refração e indique o valor da freqüência do som no 2 CO .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Uma flauta doce, de 33 cm de comprimento, à temperatura ambiente de 0 oC, emite sua nota mais grave numa freqüência de 251 Hz. Verifica-se experimentalmente que a velocidade do som no ar aumenta de 0,60 m/s para cada 1 oC de elevação da temperatura. Calcule qual deveria ser o comprimento da flauta a 30 oC para que ela emitisse a mesma freqüência de 251 Hz.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Em sua aventura pela Amazônia, João porta um rádio para comunicar-se. Em caso de necessidade, pretende utilizar células solares de silício, capazes de converter a energia solar em energia elétrica, com eficiência de 10 %. Considere que cada célula tenha 10 cm2 de área coletora, sendo capaz de gerar uma tensão de 0,70 V, e que o fluxo de energia solar médio incidente é da ordem de 1,0 x 103 W/m2. Projete um circuito que deverá ser montado com as células solares para obter uma tensão de 2,8 V e corrente mínima de 0,35 A, necessárias para operar o rádio.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Um gerador de força eletromotriz ε e resistência interna r =5R está ligado a um circuito conforme mostra a figura. O elemento s R é um reostato, com resistência ajustada para que o gerador transfira máxima potência. Em um dado momento o resistor 1 R é rompido, devendo a resistência do reostato ser novamente ajustada para que o gerador continue transferindo máxima potência. Determine a variação da resistência do reostato, em termos de R .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Situado num plano horizontal, um disco gira com velocidade angular ω constante, em torno de um eixo que passa pelo seu centro O. O disco encontra-se imerso numa região do espaço onde existe um campo magnético constante B r , orientado para cima, paralelamente ao eixo vertical de rotação. A figura mostra um capacitor preso ao disco (com placas metálicas planas, paralelas, separadas entre si de uma distância L) onde, na posição indicada, se encontra uma partícula de massa m e carga q &gt; 0, em repouso em relação ao disco, a uma distância R do centro. Determine a diferença de potencial elétrico entre as placas do capacitor, em função dos parâmetros intervenientes.</p>
+        <p>2R 2R 2R R R 6R r 5R = ε S R R 1 R R L ω q B r o</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

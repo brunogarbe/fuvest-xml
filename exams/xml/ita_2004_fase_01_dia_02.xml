@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2004" phase="objective" day="0" variation="V1" date="2004-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="27">
+      <statement>
+        <p>Na última linha, onde se lê: ( ) ( ) ( ) ( ) 1 2 1 2 2 1 2 1 2 2 8, 241 : 8, 187 : 8, 241 : 8, 187 : − − − − − = ∆ − = ∆ = ∆ = ∆ mol kJ H g O H mol kJ H l O H mol kJ H g O H mol kJ H l O H o f o f o f o f</p>
+        <p>CONSTANTES Constante de Avogadro = 6,02 x 1023 mol-1 Constante de Faraday (F) = 9,65 x 104 C mol-1 Volume molar de gás ideal = 22,4 L (CNTP) Carga elementar = 1,602 x 10-19 C Constante dos gases (R) = 8,21 x 10-2 atm L K-1 mol-1 = 8,31 J K-1 mol-1 = 62,4 mmHg L K-1 mol-1 = 1,98 cal mol-1 K-1</p>
+        <p>DEFINIÇÕES</p>
+        <p>Condições normais de temperatura e pressão (CNTP): 0 oC e 760 mmHg. Condições ambientes: 25 oC e 1 atm. Condições-padrão: 25 oC, 1 atm, concentração das soluções: 1 mol L-1 (rigorosamente: atividade unitária das espécies), sólido com estrutura cristalina mais estável nas condições de pressão e temperatura em questão. (s) ou (c) = sólido cristalino; (l) ou (l ) = líquido; (g) = gás; (aq) = aquoso; (graf) = grafite; (CM) = circuito metálico; (conc) = concentrado; (ua) = unidades arbitrárias; [A] = concentração da espécie química A em mol L-1.</p>
+        <p>MASSAS MOLARES</p>
+        <p>Elemento Químico Número Atômico Massa Molar (g mol-1) Elemento Químico Número Atômico Massa Molar (g mol-1) H 1 1,01 Cr 24 52,00 C 6 12,01 Mn 25 54,94 N 7 14,01 Fe 26 55,85 O 8 16,00 Zn 30 65,37 F 9 19,00 Br 35 79,91 Na 11 22,99 Ag 47 107,87 Mg 12 24,31 In 49 114,82 Al 13 26,98 Sb 51 121,75 Si 14 28,09 I 53 126,90 P 15 30,97 Xe 54 131,30 S 16 32,06 Ba 56 137,34 Cl 17 35,45 Pt 78 195,09 Ar 18 39,95 Hg 80 200,59 K 19 39,10 Pb 82 207,21 Ca 20 40,08 Bi 83 208,98 Ti 22 47,88 Po 84 209,98</p>
+        <p>As questões de 01 a 20 NÃO devem ser resolvidas no caderno de soluções. Para respondê-las, marque a opção escolhida para cada questão na folha de leitura óptica e na reprodução da folha de leitura óptica (que se encontra na última página do caderno de soluções).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="01">
+      <statement>
+        <p>. Qual das opções a seguir apresenta a equação química balanceada para a reação de formação de óxido de ferro (II) sólido nas condições-padrão?</p>
+        <p>A ( ) 2 3 Fe(s) Fe O (s) 3FeO(s) + → .</p>
+        <p>B ( ) 2 Fe(s) 1/ 2O (g) FeO(s) + → . C ( ) 2 3 2 Fe O (s) 2FeO(s) 1/ 2O (g) → + .</p>
+        <p>D ( ) Fe(s) CO(g) FeO(s) C(graf ) + → + . E ( ) 2 2 Fe(s) CO (g) FeO(s) C(graf ) 1/ 2O (g) + → + + .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. Considere as reações representadas pelas seguintes equações químicas balanceadas:</p>
+        <p>I. 10 8 2 2 2 C H (s) 12O (g) 10CO (g) 4H O(g) + → + . II. 10 8 2 6 4 2 2 2 C H (s) 9/ 2O (g) C H (COOH) (s) 2CO (g) H O(g) + → + + . III. 6 12 6 2 2 2 C H O (s) 6O (g) 6CO (g) 6H O(g) + → + . IV. 2 5 2 2 C H OH( ) O (g) 2C(s) 3H O(g) + → + l .</p>
+        <p>Das reações representadas pelas equações acima, são consideradas reações de combustão</p>
+        <p>A ( ) apenas I e III. B ( ) apenas I, II e III. C ( ) apenas II e IV.</p>
+        <p>D ( ) apenas II, III e IV. E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Qual das opções abaixo apresenta o material com maior concentração de carbono?</p>
+        <p>A ( ) Negro de fumo. B ( ) Carvão. C ( ) Alcatrão. D ( ) Piche. E ( ) Óleo diesel.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Qual das opções a seguir apresenta o gráfico que mostra, esquematicamente, a variação da condutividade elétrica de um metal sólido com a temperatura?</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Considere as reações representadas pelas seguintes equações químicas balanceadas:</p>
+        <p>a. 5 2 2 I I 2 C H OH( ) O (g) 2C(s) 3H O(g); H (T); E (T) + → + ∆ ∆ l , b. 5 2 2 II II 2 C H OH( ) 2O (g) 2CO(g) 3H O( ); H (T); E (T) + → + ∆ ∆ l l ,</p>
+        <p>sendo H(T) ∆ e E(T) ∆ , respectivamente, a variação da entalpia e da energia interna do sistema na temperatura T . Assuma que as reações acima são realizadas sob pressão constante, na temperatura T, e que a temperatura dos reagentes é igual à dos produtos. Considere que, para as reações representadas pelas equações acima, sejam feitas as seguintes comparações:</p>
+        <p>I. I II E E ∆ = ∆ .</p>
+        <p>II. I II H H ∆ = ∆ .</p>
+        <p>III. II II H E ∆ &gt; ∆ .</p>
+        <p>IV. I I H E ∆ &lt; ∆ .</p>
+        <p>Das comparações acima, está(ão) CORRETA(S)</p>
+        <p>A ( ) apenas I. B ( ) apenas I e II.</p>
+        <p>C ( ) apenas II. D ( ) apenas III. E ( ) apenas IV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>. Considere os metais P, Q , R e S e quatro soluções aquosas contendo, cada uma, um dos íons p P + , q Q + , r R + , sS + (sendo p, q, r, s números inteiros e positivos). Em condições-padrão, cada um dos metais foi colocado em contato com uma das soluções aquosas e algumas das observações realizadas podem ser representadas pelas seguintes equações químicas:</p>
+        <p>I. q q P pQ + + → não ocorre reação. II. r r P pR + + → não ocorre reação. III. r s rS sR sR rS + + + → + . IV. s q sQ qS qS sQ + + + → + . Baseado nas informações acima, a ordem crescente do poder oxidante dos íons p P + , q Q + , r R + e sS + deve ser disposta da seguinte forma:</p>
+        <p>A ( ) r q p s R Q P S + + + + &lt; &lt; &lt; .</p>
+        <p>B ( ) p r s q P R S Q + + + + &lt; &lt; &lt; .</p>
+        <p>C ( ) s q p r S Q P R + + + + &lt; &lt; &lt; .</p>
+        <p>D ( ) r s q p R S Q P + + + + &lt; &lt; &lt; .</p>
+        <p>E ( ) q s r p Q S R P + + + + &lt; &lt; &lt; .</p>
+        <p>A ( ) Álcool e éster.</p>
+        <p>B ( ) Amina e éter.</p>
+        <p>C ( ) Álcool e cetona.</p>
+        <p>D ( ) Ácido carboxílico e amina. E ( ) Amida e éster.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Qual das opções abaixo apresenta a comparação ERRADA relativa aos raios de átomos e de íons?</p>
+        <p>NCH3 H OH HO O</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. A estrutura molecular da morfina está representada ao lado. Assinale a opção que apresenta dois dos grupos funcionais presentes nesta substância.</p>
+        <p>A ( ) B ( ) C ( ) D ( ) E ( ) Temperatura Cond. Elétrica</p>
+        <p>Temperatura Cond. Elétrica</p>
+        <p>Temperatura Cond. Elétrica Temperatura Cond. Elétrica</p>
+        <p>Temperatura Cond. Elétrica A ( ) raio do Na+ &lt; raio do Na .</p>
+        <p>B ( ) raio do Na+ &lt; raio do F −.</p>
+        <p>C ( ) raio do 2 Mg + &lt; raio do 2 O −.</p>
+        <p>D ( ) raio do F − &lt; raio do 2 O −.</p>
+        <p>E ( ) raio do F − &lt; raio do 2 Mg + .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Considere as seguintes configurações eletrônicas e respectivas energias da espécie atômica ( ) A , na fase gasosa, na forma neutra, aniônica ou catiônica, no estado fundamental ou excitado:</p>
+        <p>I. 2 5 2 I ns n p (n 1)s ; E + . II. ( ) 2 6 1 1 II ns n p (n 1)s n 1 p ; E + + . III. 2 4 2 III ns n p (n 1)s ; E + . IV. 2 5 IV ns n p ; E .</p>
+        <p>V. 2 6 2 V ns n p (n 1)s ; E + . VI. 2 6 VI ns n p ; E</p>
+        <p>VII. 2 5 1 1 VII ns n p (n 1)s (n 1)p ; E + + . VIII. 2 6 1 VIII ns n p (n 1)s ; E + . Sabendo que I E é a energia, em módulo, do primeiro estado excitado do átomo neutro ( ) A , assinale a alternativa ERRADA.</p>
+        <p>A ( ) III VI E E − pode representar a energia equivalente a uma excitação eletrônica do cátion ( ) A+ . B ( ) II V E E − pode representar a energia equivalente a uma excitação eletrônica do ânion ( ) A−.</p>
+        <p>C ( ) IV VI E E − pode representar a energia equivalente à ionização do cátion ( ) A+ .</p>
+        <p>D ( ) II VIII E E − pode representar a energia equivalente à afinidade eletrônica do átomo neutro ( ) A . E ( ) VII VIII E E − pode representar a energia equivalente a uma excitação eletrônica do átomo neutro ( ) A .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Na temperatura de 25 oC e pressão igual a 1 atm, a concentração de 2 H S numa solução aquosa saturada é de aproximadamente 0,1 mol L-1. Nesta solução, são estabelecidos os equilíbrios representados pelas seguintes equações químicas balanceadas:</p>
+        <p>I. o 8 2 I H S(aq) H (aq) HS (aq); K (25 C) 9,1x10 + − − + = . II. 2 o 15 II HS (aq) H (aq) S (aq); K (25 C) 1,2x10 − + − − + = .</p>
+        <p>Assinale a informação ERRADA relativa a concentrações aproximadas (em mol L-1) das espécies presentes nesta solução.</p>
+        <p>A ( ) 2 2 23 [H ] [S ] 1 x 10 + − − .</p>
+        <p>B ( ) 2 15 [S ] 1 x 10 − − .</p>
+        <p>C ( ) 7 [H ] 1 x 10 + − .</p>
+        <p>D ( ) 4 [HS ] 1 x 10 − − .</p>
+        <p>E ( ) 1 2 [H S] 1x10− .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Uma mistura de 300 mL de metano e 700 mL de cloro foi aquecida no interior de um cilindro provido de um pistão móvel sem atrito, resultando na formação de tetracloreto de carbono e cloreto de hidrogênio. Considere todas as substâncias no estado gasoso e temperatura constante durante a reação. Assinale a opção que apresenta os volumes CORRETOS, medidos nas mesmas condições de temperatura e pressão, das substâncias presentes no cilindro após reação completa.</p>
+        <p>Volume metano (mL) Volume cloro (mL) Volume tetracloreto de carbono (mL) Volume cloreto de hidrogênio (mL) A ( ) 0 0 300 700 B ( ) 0 100 300 600 C ( ) 0 400 300 300 D ( ) 125 0 175 700 E ( ) 175 0 125 700</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Considere as seguintes radiações eletromagnéticas:</p>
+        <p>I. Radiação Gama.</p>
+        <p>II. Radiação visível.</p>
+        <p>III. Radiação ultravioleta. IV. Radiação infravermelho.</p>
+        <p>V. Radiação microondas.</p>
+        <p>Dentre estas radiações eletromagnéticas, aquelas que, via de regra, estão associadas a transições eletrônicas em moléculas são</p>
+        <p>A ( ) apenas I, II e III.</p>
+        <p>B ( ) apenas I e IV.</p>
+        <p>C ( ) apenas II e III. D ( ) apenas II, III e IV.</p>
+        <p>E ( ) todas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. Considere os eletrodos representados pelas semi-equações químicas seguintes e seus respectivos potenciais na escala do eletrodo de hidrogênio( ) o E e nas condições-padrão: I. o I In (aq) e (CM) In (s); E 0,14V + − + = − . II. 2 o II In (aq) e (CM) In (aq); E 0,40V + − + + = − . III. 3 o III In (aq) 2e (CM) In (aq); E 0,44V + − + + = − . IV. 3 2 o IV In (aq) e (CM) In (aq); E 0,49V + − + + = − .</p>
+        <p>Assinale a opção que contém o valor CORRETO do potencial-padrão do eletrodo representado pela semi-equação 3 In (aq) 3e (CM) In (s) + − + .</p>
+        <p>A ( ) 0,30V − . B ( ) 0,34V − . C ( ) 0,58V − . D ( ) 1,03V − . E ( ) 1,47V − .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Quatro copos (I, II, III e IV) contêm, respectivamente, soluções aquosas de misturas de substâncias nas concentrações especificadas a seguir:</p>
+        <p>I. Acetato de sódio 0,1 mol L-1 + Cloreto de sódio 0,1 mol L-1.</p>
+        <p>II. Ácido acético 0,1 mol L-1 + Acetato de sódio 0,1 mol L-1. III. Ácido acético 0,1 mol L-1 + Cloreto de sódio 0,1 mol L-1. IV. Ácido acético 0,1 mol L-1 + Hidróxido de amônio 0,1 mol L-1.</p>
+        <p>Para uma mesma temperatura, qual deve ser a seqüência CORRETA do pH das soluções contidas nos respectivos copos? Dados eventualmente necessários: Constante de dissociação do ácido acético em água a 25 oC: Ka = 1,8 x 10-5. Constante de dissociação do hidróxido de amônio em água a 25 oC: Kb = 1,8 x 10-5.</p>
+        <p>A ( ) I IV II III pH pH pH pH &gt; &gt; &gt; .</p>
+        <p>B ( ) I IV III II pH pH pH pH &gt; &gt; . C ( ) II III I IV pH pH pH pH &gt; &gt; . D ( ) III I II IV pH pH pH pH &gt; &gt; &gt; .</p>
+        <p>E ( ) III I IV II pH pH pH pH &gt; &gt; &gt; .</p>
+        <p>III. A velocidade de formação de polônio é igual à velocidade de desintegração do bismuto. IV. O tempo de meia-vida do bismuto é maior que o do chumbo. V. A constante de velocidade de decaimento do bismuto é de aproximadamente 1 x 10-2 min-1.</p>
+        <p>Das afirmações acima, estão CORRETAS</p>
+        <p>A ( ) apenas I, II e III.</p>
+        <p>B ( ) apenas I e IV.</p>
+        <p>C ( ) apenas II, III e V. D ( ) apenas III e IV.</p>
+        <p>E ( ) apenas IV e V.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Uma massa de 180 g de zinco metálico é adicionada a um erlenmeyer contendo solução aquosa de ácido clorídrico. Ocorre reação com liberação de gás que é totalmente coletado em um Balão A, de volume igual a 2 L. Terminada a reação, restam 49 g de zinco metálico no erlenmeyer. A seguir, por meio de um tubo provido de torneira, de volumes desprezíveis, o Balão A é conectado a</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. O 214 82Pb desintegra-se por emissão de partículas Beta, transformando-se em 214 83Bi que, por sua vez, se desintegra também por emissão de partículas Beta, transformando-se em 214 84Po . A figura ao lado mostra como varia, com o tempo, o número de átomos, em porcentagem de partículas, envolvidos nestes processos de desintegração. Admita ln 2 = 0,69. Considere que, para estes processos, sejam feitas as seguintes afirmações:</p>
+        <p>I. O tempo de meia-vida do chumbo é de aproximadamente 27 min. II. A constante de velocidade da desintegração do chumbo é de aproximadamente 3 x 10-2 min-1. 0 20 40 60 80 100 0 20 40 60 80 100 Número de átomos (%) Tempo (min) 214 82Pb 214 83Bi 214 84Po um Balão B, de volume igual a 4 L, que contém gás nitrogênio sob pressão de 3 atm. Considere que a temperatura é igual em ambos os balões e que esta é mantida constante durante todo o experimento. Abrindo-se a torneira do tubo de conexão entre os dois balões, ocorre a mistura dos dois gases. Após estabelecido o equilíbrio, a pressão nos dois balões pode ser expressa em função da constante dos gases (R) e da temperatura absoluta (T) por</p>
+        <p>A ( ) 1 R T 2 .</p>
+        <p>B ( ) 1 R T 1 2 + .</p>
+        <p>C ( ) 3 R T 2 .</p>
+        <p>D ( ) 1 R T 2 3 + . E ( ) R T 3 + .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Considere as seguintes equações químicas:</p>
+        <p>Das reações representadas pelas equações acima, aquela(s) que ocorre(m) nas condições-padrão é (são)</p>
+        <p>A ( ) apenas I. B ( ) apenas I, II e IV.</p>
+        <p>C ( ) apenas II e III. D ( ) apenas III e IV. E ( ) todas.</p>
+        <p>A ( ) a constante de equilíbrio da reação nas condições do experimento I é igual à da reação nas condições do experimento II. B ( ) a velocidade medida para a reação nas condições do experimento I é maior que a medida nas condições do experimento II. C ( ) a temperatura do experimento I é menor que a temperatura do experimento II.</p>
+        <p>D ( ) a constante de velocidade medida nas condições do experimento I é igual à medida nas condições do experimento II. E ( ) a energia cinética média das partículas, medida nas condições do experimento I, é maior que a medida nas condições do experimento II.</p>
+        <p>II. Para temperaturas menores que b T , o mecanismo controlador da reação em questão é diferente daquele para temperaturas maiores que b T . III. A energia de ativação da reação no trecho a b − é menor que a no trecho b c − . IV. A energia de ativação da reação direta (A R) → é menor que a da reação inversa (R A) → .</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. A figura ao lado representa o resultado de dois experimentos diferentes (I) e (II) realizados para uma mesma reação química genérica (reagentes → produtos). As áreas hachuradas sob as curvas representam o número de partículas reagentes com energia cinética igual ou maior que a energia de ativação da reação (Eat). Baseado nas informações apresentadas nesta figura, é CORRETO afirmar que</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. A figura ao lado mostra como o valor do logaritmo da constante de velocidade (k) da reação representada pela equação química k A R → varia com o recíproco da temperatura. Considere que, em relação às informações mostradas na figura, sejam feitas as afirmações seguintes:</p>
+        <p>I. O trecho a b − da curva mostra a variação de ln k da reação direta (A R) → com o recíproco da temperatura, enquanto o trecho b c − mostra como varia ln k da reação inversa (R A) → com o recíproco da temperatura. I. II. III. IV. OH + HCl Cl + H2O</p>
+        <p>OH + 3 HNO3 (conc) OH NO2 NO2 O2N + 3 H2O OH + H C O H H+ ou OHResina fenólica OH + NaOH ONa + H2O</p>
+        <p>Energia cinética das partículas Número de partículas I II Eat lnk a b c a 1 T b 1 T c 1 T 1 T</p>
+        <p>Das afirmações acima, está(ão) CORRETA(S)</p>
+        <p>A ( ) apenas I e IV. B ( ) apenas I, II e IV. C ( ) apenas II. D ( ) apenas II e III. E ( ) apenas III.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Considere os dois eletrodos (I e II) seguintes e seus respectivos potenciais na escala do eletrodo de hidrogênio o (E ) e nas condições-padrão:</p>
+        <p>I. o 2 I 2F (aq) 2e (CM) F (g) ; E 2,87V − − + = . II. 2 o 2 4 II Mn (aq) 4H O( ) 5e (CM) 8H (aq) MnO (aq); E 1,51V + − + − + + + = l .</p>
+        <p>A força eletromotriz de um elemento galvânico construído com os dois eletrodos acima é de</p>
+        <p>A ( ) 1,81V − . B ( ) 1,13V − . C ( ) 0,68V .</p>
+        <p>D ( ) 1,36V . E ( ) 4,38V .</p>
+        <p>AS QUESTÕES DISSERTATIVAS, NUMERADAS DE 21 A 30, DEVEM SER RESPONDIDAS NO CADERNO DE SOLUÇÕES.</p>
+      </statement>
+    </essay_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Descreva os procedimentos utilizados na determinação do potencial de um eletrodo de cobre 2 Cu(s) Cu (aq) + . De sua descrição devem constar:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>A listagem de todo o material (soluções, medidores etc.) necessário para realizar a medição do potencial do eletrodo em questão.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>O desenho esquemático do elemento galvânico montado para realizar a medição em questão. Deixe claro nesse desenho quais são os pólos positivo e negativo e qual dos eletrodos será o anodo e qual será o catodo, quando corrente elétrica circular por esse elemento galvânico. Neste último caso, escreva as equações químicas que representam as reações anódicas e catódicas, respectivamente.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A explicação de como um aumento do valor das grandezas seguintes afeta o potencial do eletrodo de cobre (Aumenta? Diminui? Não altera?): área do eletrodo, concentração de cobre no condutor metálico, concentração de íons cobre no condutor eletrolítico e temperatura.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Deseja-se preparar 57 gramas de sulfato de alumínio[ ] 2 4 3 Al (SO ) a partir de alumínio sólido (Al), praticamente puro, e ácido sulfúrico 2 4 (H SO ) . O ácido sulfúrico disponível é uma solução aquosa 96 % (m/m), com massa específica de 3 1,84 gcm−.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Qual a massa, em gramas, de alumínio necessária para preparar a quantidade de 2 4 3 Al (SO ) especificada? Mostre os cálculos realizados.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Qual a massa, em gramas, de ácido sulfúrico necessária para preparar a quantidade de 2 4 3 Al (SO ) especificada? Mostre os cálculos realizados.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Nas condições normais de temperatura e pressão (CNTP), qual é o volume, em litros, de gás formado durante a preparação da quantidade de 2 4 3 Al (SO ) especificada? Mostre os cálculos realizados.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Caso a quantidade especificada de 2 4 3 Al (SO ) seja dissolvida em água acidulada, formando 1 L de solução, qual a concentração de íons 3 Al + e de íons 2 4 SO − existentes nesta solução?</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma solução aquosa foi preparada em um balão volumétrico de capacidade igual a 1 L, adicionando-se uma massa correspondente a 0,05 mol de dihidrogenofosfato de potássio 2 4 (KH PO ) sólido a 300 mL de uma solução aquosa de hidróxido de potássio (KOH) 0,1 mol L-1 e completando-se o volume do balão com água destilada. Dado eventualmente necessário: a a pK logK 7,2 = − = , em que a K = constante de dissociação do 2 4 H PO − em água a 25 oC.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Escreva a equação química referente à reação que ocorre no balão quando da adição do 2 4 KH PO à solução de . KOH</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Determine o pH da solução aquosa preparada, mostrando os cálculos realizados.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>O que ocorre com o pH da solução preparada (Aumenta? Diminui? Não altera?) quando a 100 mL desta solução for adicionado 1 mL de solução aquosa de HCl 0,1 mol L-1 ? Justifique sua resposta.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O que ocorre com o pH da solução preparada (Aumenta? Diminui? Não altera?) quando a 100 mL desta solução for adicionado 1 mL de solução aquosa de KOH 0,1 mol L-1 ? Justifique sua resposta.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Certa reação química exotérmica ocorre, em dada temperatura e pressão, em duas etapas representadas pela seguinte seqüência de equações químicas: A B E F G + → + +</p>
+        <p>E F G C D + + → +</p>
+        <p>Represente, em um único gráfico, como varia a energia potencial do sistema em transformação (ordenada) com a coordenada da reação (abscissa), mostrando claramente a variação de entalpia da reação, a energia de ativação envolvida em cada uma das etapas da reação e qual destas apresenta a menor energia de ativação. Neste mesmo gráfico, mostre como a energia potencial do sistema em transformação varia com a coordenada da reação, quando um catalisador é adicionado ao sistema reagente. Considere que somente a etapa mais lenta da reação é influenciada pela presença do catalisador.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. São preparadas duas misturas: uma de água e sabão e a outra de etanol e sabão. Um feixe de luz visível incidindo sobre essas duas misturas é visualizado somente através da mistura de água e sabão. Com base nestas informações, qual das duas misturas pode ser considerada uma solução? Por quê?</p>
+      </statement>
+    </essay_question>
+    <objective_question number="27">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Um dos sistemas propelentes usados em foguetes consiste de uma mistura de hidrazina ( ) 2 4 N H e peróxido de hidrogênio ( ) 2 2 H O . Sabendo que o ponto triplo da hidrazina corresponde à temperatura de 2,0 oC e à pressão de 3,4 mm Hg, que o ponto crítico corresponde à temperatura de 380 oC e à pressão de 145 atm e que na pressão de 1 atm as temperaturas de fusão e de ebulição são iguais a 1,0 e 113,5 oC , respectivamente, pedem-se:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Um esboço do diagrama de fases da hidrazina para o intervalo de pressão e temperatura considerados neste enunciado.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>A indicação, no diagrama esboçado no item a), de todos os pontos indicados no enunciado e das fases presentes em cada região do diagrama.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>A equação química completa e balanceada que descreve a reação de combustão entre hidrazina e peróxido de hidrogênio, quando estes são misturados numa temperatura de 25 oC e pressão de 1 atm. Nesta equação, indique os estados físicos de cada substância.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>O cálculo da variação de entalpia da reação mencionada em c). Dados eventualmente necessários: variação de entalpia de formação ( o f H ∆ ), na temperatura de 25 oC e pressão de 1 atm, referente a: 1 2 4 o f (g) : N H H 95,4 kJmol− ∆ = . 1 o 2 4 f N H ( ) : H 50,6 kJmol− ∆ = l . 1 o 2 2 f : H O ( ) H 187,8 kJmol− ∆ = l . o 1 2 f H O(g) : H 241,8 kJmol− ∆ = .</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="28">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Um recipiente aberto, mantido à temperatura ambiente, contém uma substância A (s) que se transforma em B (g) sem a presença de catalisador. Sabendo-se que a reação acontece segundo uma equação de velocidade de ordem zero, responda com justificativas às seguintes perguntas:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Qual a expressão algébrica que pode ser utilizada para representar a velocidade da reação?</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Quais os fatores que influenciam na velocidade da reação?</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>É possível determinar o tempo de meia-vida da reação sem conhecer a pressão de B (g) ?</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="29">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Uma mistura gasosa é colocada a reagir dentro de um cilindro provido de um pistão móvel, sem atrito e sem massa, o qual é mantido à temperatura constante. As reações que ocorrem dentro do cilindro podem ser genericamente representadas pelas seguintes equações químicas:</p>
+        <p>I. A(g) 2B(g) 3C(g) + .</p>
+        <p>II. C(g) C( ) l .</p>
+        <p>O que ocorre com o valor das grandezas abaixo (Aumenta? Diminui? Não altera?), quando o volume do cilindro é duplicado? Justifique suas respostas.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Quantidade, em mols, da espécie B.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Quantidade, em mols, da espécie C líquida.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Constante de equilíbrio da equação I.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Razão 3 2 [C] [B] .</p>
+        </option>
+      </options>
+    </objective_question>
+    <discursive_question number="26">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. O gráfico ao lado mostra a variação, com o tempo, da velocidade de troca de calor durante uma reação química. Admita que 1 mol de produto tenha se formado desde o início da reação até o tempo t 11 min = . Utilizando as informações contidas no gráfico, determine, de forma aproximada, o valor das quantidades abaixo, mostrando os cálculos realizados.</p>
+      </statement>
+      <parts>
+        <part>
+          <p>Quantidade, em mols, de produto formado até t 4min = .</p>
+        </part>
+        <part>
+          <p>Quantidade de calor, em kJ mol-1, liberada na reação até t 11min = . 0 2 4 6 8 10 12 0,0 0,5 1,0 1,5 2,0 2,5 3,0 Velocidade de troca de calor (J/min) Tempo (min)</p>
+        </part>
+      </parts>
+    </discursive_question>
+    <objective_question number="30">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Dois substratos de vidro, do tipo comumente utilizado na fabricação de janelas, foram limpos e secos. Nas condições ambientes, depositaram-se cuidadosamente uma gota (0,05 mL) de mercúrio sobre um dos substratos e uma gota (0,05 mL) de água sobre o outro substrato. Considere os líquidos puros.</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Desenhe o formato da gota de líquido depositada sobre cada um dos substratos.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Justifique a razão de eventuais diferenças nos formatos das gotas dos líquidos depositadas sobre cada um dos substratos de vidro.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Qual a influência do volume do líquido no formato das gotas depositadas sobre os substratos?</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

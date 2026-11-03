@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="2000" phase="objective" day="0" variation="V1" date="2000-01-01" lang="pt-br">
+  <question_group>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Sejam R R g f → : ,</p>
+        <p>definidas por 3 ) ( x x f = e x x g 5 cos 3 10 ) ( = . Podemos afirmar que:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>f é injetora e par e g é ímpar.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>g é sobrejetora e f g o é par.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>f é bijetora e f g o é ímpar.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>g é par e f g o é impar.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>f é ímpar e f g o é par.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="02">
+      <statement>
+        <p>(ITA–00) Denotemos por ) (X n o número de elementos de um conjunto finito X . Sejam B A, e C conjuntos tais que ) ( B A n ∪ =8, 9 ) ( = ∪C A n , 10 ) ( = ∪C B n , 11 ) ( = ∪ ∪ C B A n</p>
+        <p>e 2 ) ( = ∩ ∩ C B A n . Então ) ( ) ( ) ( C n B n A n + + é igual a :</p>
+        <p>(A) 11 (B) 14 (C) 15 (D) 18 (D) 25</p>
+      </statement>
+    </essay_question>
+    <objective_question number="03">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Seja ∑ = − = 20 0 )! 20 (! ! 20 ) ( n n x n n x f uma função real de variável real em que !n indica o fatorial de n . Considere as afirmações: (I) 2 )1( = f . (II) 0 )1 ( = − f . (III) 1 ) 2 ( = − f . Podemos concluir que :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Somente as afirmações I e II são verdadeiras.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Somente as afirmações I e III são verdadeiras.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Apenas a afirmação I é verdadeira.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Apenas a afirmação II é verdadeira.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Apenas a afirmação III é verdadeira.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="04">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Quantos números de seis algarismos distintos podemos formar usando os dígitos 5,4,3,2,1 e 6 , nos quais o 1 e o 2 nunca ocupam posições adjacentes, mas o 3 e o 4 sempre ocupam posições adjacentes?</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>144</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>180</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>240</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>288</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>360</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="05">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Sendo 1 e i2 1+ raízes da equação 0 2 3 = + + + c bx ax x , em que b a, e c são números reais, então:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4 = + c b</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 = + c b</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2 = + c b</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1 = + c b</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>0 = + c b</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="06">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) A soma das raízes reais e positivas da equação 0 4 2 5 4 2 2 = + ⋅ − x x vale:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>5</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="07">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Sendo I um intervalo de números reais com extremidades em a e b m com b a &lt; , o número real a b − é chamado de comprimento de I .</p>
+        <p>Considere a inequação: 0 4 7 5 6 2 3 4 &lt; + − − x x x x</p>
+        <p>A soma dos comprimentos dos intervalos nos quais ela é verdadeira é igual a:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4 3</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2 3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3 7</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>6 11</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>6 7</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Seja ] 2 ,2 [− = S e considere as afirmações: (I) 6 2 1 4 1 &lt;       ≤ x , para todo S x ∈ . (II) 32 1 2 32 1 &lt; − x , para todo S x ∈ . (III) 0 2 22 ≤ − x x , para todo S x ∈ .</p>
+        <p>www.rumoaoita.com</p>
+        <p>Então, podemos afirmar que:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>Apenas I é verdadeira.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Apenas III é verdadeira.</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Somente I e II são verdadeiras.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Apenas II é falsa.</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Todas as afirmações são falsas.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="09">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Seja 0z o número complexo i + 1 . Sendo S o conjunto solução no plano complexo de 2 | | | | 0 0 = + = − z z z z , então o produto dos elementos de S é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>) 1( 4 i −</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>) 1( 2 i +</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>)1 ( 2 − i</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>i2 −</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>i2</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Considere R R f → :</p>
+        <p>definida por       − − = 2 cos 3 sen 2 ) ( π x x x f . Sobre f podemos afirmar que:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>É uma função par.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>É uma função ímpar e periódica de período fundamental π 4 .</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>É uma função ímpar e periódica de período fundamental 3 4π .</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>É uma função periódica de período fundamental π 2 .</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>Não é par, não é ímpar e não é periódica.</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="11">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) O valor de n que torna a seqüência (2+3n, -5n, 1-4n) uma progressão aritmética pertence ao intervalo:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>]1 ,2 [ − −</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>] 0 ,1 [−</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>] 1 ,0 [</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>] 2 ,1 [</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>] 3 ,2 [</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Considere um triângulo isósceles ABC , retângulo em A . Seja D a intersecção da bissetriz do ângulo Â com o lado BC e E um ponto da reta suporte do cateto AC de tal modo que os segmentos de reta BE e AD sejam paralelos. Sabendo que AD mede cm 2 , então a área do círculo inscrito no triângulo EBC é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2 ) 3 2 4 ( cm − π</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2 ) 2 2 3 ( 2 cm − π</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2 ) 3 2 4 ( 3 cm − π</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 ) 2 2 3 ( 4 cm − π</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2 ) 2 2 4 ( cm − π</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) A área de um triângulo é de 4 unidades de superfície, sendo dois de seus vértices os pontos )1,2 (: A</p>
+        <p>e ) 2 ,3 (: − B . Sabendo que o terceiro vértice encontra-se sobre o eixo das abcissas, pode-se afirmar que suas coordenadas são:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>) 0, 2 1 (− ou ) 0,5 ( .</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>) 0, 2 1 (− ou ) 0,4 ( .</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>) 0, 3 1 (− ou ) 0,5 ( .</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>) 0, 3 1 (− ou ) 0,4 ( .</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>) 0, 5 1 (− ou ) 0,3 ( .</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Um cilindro circular reto é seccionado por um plano paralelo ao seu eixo. A secção fica a cm 5 do eixo e separa na base um arco de 120º. Sendo de 2 3 30 cm a área da secção plana regular, então o volume da parte menor do cilindro seccionado mede, em 3 cm :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>3 10 30 − π</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 20 30 − π</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3 10 20 − π</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3 25 50 − π</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3 75 100 − π</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Um cone circular reto com altura de cm 8</p>
+        <p>cm e raio da base de cm 2 está inscrito numa esfera que, por sua vez, está inscrita num cilindro. A razão entre as áreas das superfícies totais do cilindro e do cone é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>)1 2 ( 2 3 −</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>)1 2 ( 4 9 −</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>)1 6 ( 4 9 − www.rumoaoita.com</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>)1 3 ( 8 27 −</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>)1 3 (</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>27 −</p>
+        <p>16 (ITA–00) Duas retas 1r e 2r são paralelas à reta 37 3 = −y x</p>
+        <p>e tangentes à circunferência 0 2 2 2 = − − − y x y x . Se 1 d é a distância de 1r até a origem e 2 d a distância de 2r até a origem, então 2 1 d d + é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>12</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>15</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>7</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>5</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="17">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Sabe-se que x é um número real pertencente a ao intervalo [ 2 ,0 ] π e que o triplo da sua secante, somado ao dobro da sua tangente, é igual a 3. Então, cosseno de x é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4 3</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>7 2</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>13 5</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>26 15</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>49 13</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="18">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Seja ) (x p um polinômio divisível por 1 − x . Dividindo-o por x x + 2 , obtêm-se o quociente 3 ) ( 2 − = x x Q e o resto ) (x R . Se 10 ) 4 ( = R , então o coeficiente do termo de grau 1 de ) (x P é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>–5</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>–3</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>–1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="19">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Considere as matrizes           − = 1 3 2 0 1 0 3 1 1 M ,           = 1 1 1 0 2 3 2 0 1 N ,           = 0 1 0 P</p>
+        <p>e           = z y x X . Se X é solução de P NX M = −1 , então 2 2 2 z y x + + é igual a:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>35</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>17</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>38</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>14</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>29</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="20">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Sendo x um número real positivo, considere as matrizes       − = 1 log 0 1 log log 3 2 3 1 3 1 x x x A</p>
+        <p>e           − − = 4 log 3 0 1 log 0 3 1 2 3 1 x x B</p>
+        <p>A soma de todos os valores de x para os quais T AB AB ) ( ) ( = é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>3 25</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>3 28</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3 32</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 27</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2 25</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="21">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Considere as matrizes           = c b a M 0 0 1 0 0 0</p>
+        <p>e           = 1 0 0 0 1 0 0 0 1 I</p>
+        <p>em que 0 ≠ a e b a, e c formam, nesta ordem, uma progressão geométrica de razão 0 &gt; q . Sejam 2 1,λ λ e 3 λ as raízes da equação 0 ) det( = −I M λ . Se a = 3 2 1 λ λ λ</p>
+        <p>e a 7 3 2 1 + + + λ λ λ , então 2 2 2 c b a + + é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>8 21</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>9 91</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>9 36</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>16 21</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>36 91</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="22">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Num triângulo acutângulo ABC , o lado oposto ao ângulo Â mede cm 5 . Sabendo: 5 3 arccos Â =</p>
+        <p>e 5 2 arcsen Cˆ = , então a área do triângulo ABC é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2 2 5 cm</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2 12cm</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>2 15cm</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 5 2 cm</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>2 2 25 cm www.rumoaoita.com</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="23">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Considere a circunferência inscrita num triângulo isósceles com base cm 6 e altura de cm 4 . Seja t a reta tangente a esta circunferência e paralela à base do triângulo. O segmento de t compreendido entre os lados do triângulo mede :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>cm 1</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>cm 5,1</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>cm 2</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>cm 5,2</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>cm 3</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="24">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Considere uma pirâmide regular com altura de cm 3 9 6 . Aplique a esta pirâmide dois cortes planos e paralelos à base de tal maneira que a nova pirâmide e os dois troncos tenham, os três, o mesmo volume. A altura do tronco cuja base é a base da pirâmide original é igual a :</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>cm ) 6 9 ( 2 3 3 −</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>cm ) 2 6 ( 2 3 3 −</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>cm ) 3 6 ( 2 3 3 −</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>cm ) 2 3 ( 2 3 3 −</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>cm ) 3 9 ( 2 3 3 −</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="25">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>(ITA–00) Para x no intervalo ] 2 ,0 [ π , o conjunto de todas as soluções da inequação 0 ) 2 3 sen( ) 2 sen( &gt; + − π x x</p>
+        <p>é o intervalo definido por</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2 10 π π &lt; &lt; x</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>4 12 π π &lt; &lt; x</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3 6 π π &lt; &lt; x</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>2 4 π π &lt; &lt; x</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>3 4 π π &lt; &lt; x www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+        </option>
+      </options>
+    </objective_question>
+  </question_group>
+</exam>

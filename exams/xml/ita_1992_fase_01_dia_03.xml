@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="ITA" year="1992" phase="objective" day="0" variation="V1" date="1992-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="1">
+      <statement>
+        <p>www.rumoaoita.com</p>
+        <p>Prova Vestibular ITA 1992</p>
+        <p>Versão 1.0</p>
+        <p>www.rumoaoita.com</p>
+        <p>ITA - 1992 01) (ITA-92) Considere as funções f:ℜ*→ℜ, g:ℜ→ℜ, e h:ℜ*→ℜ definidas por: x 1 x 3 ) x (f + = , g(x) = x2, h(x) = 81/x. O conjunto dos valores de x em ℜ* tais que (fog)(x) = (hof)(x), é subconjunto de: a) [0, 3] b) [3, 7] c) [-6, 1] d) [-2, 2] e) n.d.a.</p>
+        <p>02) (ITA-92) O domínio da função: ) 2 x 5 x 3 ( log ) x (f 2 1 x 3 x 2 2 + − = + − é: a) (- ∞, 0) ∪ (0, 1/2) ∪ (1, 3/2) ∪ (3/2, + ∞) b) (- ∞, 1/2) ∪ (1, 5/2) ∪ (5/2, + ∞) c) (- ∞, 1/2) ∪ (1/2, 2/3) ∪ (1, 3/2) ∪ (3/2, + ∞) d) (- ∞, 0) ∪ (1, + ∞) e) n.d.a.</p>
+        <p>03) (ITA-92) Dadas as funções f:ℜ→ℜ e g :ℜ→ℜ, ambas estritamente decrescentes e sobrejetoras, considere h = fog. Então podemos afirmar que: a) h é estritamente crescente, inversível e sua inversa é estritamente crescente. b) h é estritamente decrescente, inversível e sua inversa é estritamente crescente. c) h é estritamente crescente, mas não necessariamente inversível. d) h é estritamente crescente, inversível e sua inversa é estritamente decrescente. e) nda</p>
+        <p>04) (ITA-92) Considere o número complexo z = a + 2i cujo argumento está no intervalo (0, π/2). Sendo S o conjunto dos valores de a para os quais z6 é um número real, podemos afirmar que o produto dos elementos de S vale: a) 4 b) 4/ 3 c) 8 d) 8/ 3 e) n.d.a.</p>
+        <p>05) (ITA-92) Sabe-se que 2(cos π/20 +i sen π/20) é uma raiz quíntupla de w. Seja S o conjunto de todas as raízes de z4 - 2z2 + 2 8 i2 16 w − = 0. Um subconjunto de S é: a) {21/2(cos 7π/8 + i sen 7π/8), 21/2(cos π/8 + i sen π/8)} b) {21/2(cos 9π/8 + i sen 9π/8), 21/2(cos 5π/8 + i sen 5π/8)} c) {21/4(cos 7π/8 + i sen 7π/4), 21/4(cos π/4 + i sen π/4)} d) {21/4(cos 7π/8 + i sen 7π/8), 21/4(cos π/8 + i sen π/4)} e) n.d.a.</p>
+        <p>06) (ITA-92) Considere a equação: 0 )] x ( F [ x 4 )] x ( G [ ) x ( F x 2 ) x ( G 2 2 2 det 2 2 2 =           onde:</p>
+        <p>2 3 4 x 1 x x x ) x ( F + − + = e x 1 x ) x ( G 2 − = , com x ∈ R, x ≠ 0. Sobre as raízes reais dessa equação, temos: a) Duas delas são negativas.</p>
+        <p>b) Uma delas é um número irracional. c) Uma delas é um número par.</p>
+        <p>d) Uma delas é positiva e outra negativa. e) n.d.a.</p>
+        <p>07) (ITA-92) Sejam a e b constante reais. Sobre a equação: x4 - (a + b)x3 + (ab + 2)x2 - (a + b)x + 1 = 0 podemos afirmar que: a) Não possui raiz real se a &lt; b &lt; -3. b) Não possui raiz real se a &gt; b &gt; 3. c) Todas as raízes são reais se a≥ 2 e b≥ 2. d) Possui pelo menos uma raiz real se -1 &lt; a ≤ b &lt; 1. e) n.d.a.</p>
+        <p>www.rumoaoita.com 08) (ITA-92) Numa progressão geométrica de razão inteira q &gt; 1. Sabe-se que a1an = 243, 20 log = n q P e n q a log = 6, onde an é o enésimo termo da progressão geométrica e Pn é o produto dos n primeiros termos. Então a soma dos n primeiros termos é igual a: a) 6 1 39 − b) 6 1 310 − c) 6 1 38 − d) 3 1 39 − e) n.d.a.</p>
+        <p>09) (ITA-92) Sejam a, b, c, d números reais não nulos que estão nesta ordem em progressão aritmética. Sabendo que o sistema a seguir:    = + = + 81 y. 3 . 9 x. 3 2 . 3 2 y. 2 x. 2 . 4 b d b c a é possível e indeterminado, podemos afirmar que a soma desta progressão aritmética é: a) 13 b) 16 c) 28 d) 30 e) n.d.a.</p>
+        <p>10) (ITA-92) Seja A ∈ M3x3 tal que det A = 0. Considere as afirmações: I- Existe X ∈ M3x1 não nula tal que AX é identicamente nula. II- Para todo Y ∈ M3x1, existe X ∈ M3x1 tal que AX = Y. III- Sabendo que A           =           2 1 5 0 0 1 então a primeira linha da transposta de A é [ ] 2 1 5 . Temos que: a) Todas são falsas.</p>
+        <p>b) Apenas II é falsa. c) Todas são verdadeiras. d) Apenas I e II são verdadeiras. e) n.d.a.</p>
+        <p>11) (ITA-92) Seja C = { X ∈ M2x2; X2 + 2X = 0}. Dadas as afirmações: I- Para todo X ∈ C, (X + 2I) é inversível. II- Se X ∈ C e det(X + 2I) ≠ 0 então X não é inversível. III- Se X ∈ C e det X ≠ 0 então det X &gt; 0. Podemos dizer que: a) Todas são verdadeiras. b) Todas são falsas. c) Apenas II e III são verdadeiras. d) Apenas I é verdadeira. e) n.d.a. 12) (ITA-92) A igualdade ∑ ∑ = =       +       − n k m j m n k j m k n 0 0 2 7 )1 ( =64 é válida para: a) Quaisquer que sejam n e m naturais positivos. b) Qualquer que seja n natural positivo e m = 3. c) n = 13 e m = 6. d) n ímpar e m par. e) n.d.a.</p>
+        <p>13) (ITA-92) No desenvolvimento (x + y)6, ordenado segundo as potências decrescentes de x, a soma do 2o termo com 1/10 do termo de maior coeficiente é igual a oito vezes a soma de todos os coeficientes. Se x = (2)z+1 e y = (1/4)z-1/2, então: a) z ∈ [0, 1] b) z ∈ (20, 50) c) z ∈ (- ∞, 0] d) z ∈ [1, 15] e) n.d.a.</p>
+        <p>14) (ITA-92) Seja 3 log 2 log 2 log 2 1 − = α . O conjunto solução da desigualdade α       ≤ 3 2 2 x sen no intervalo [0, 2π) é: a) ]0, π/3] ∪ [2π/3, 2π) b) [0, 7π/6] ∪ [11π/6, 2π) c) [0, 4π/3] ∪ [5π/3, 2π) d) [0, π/6] ∪ [5π/6, 2π) e) n.d.a.</p>
+        <p>15) (ITA-92) Sabendo-se que x e y são ângulos do primeiro quadrante tais que cos x = 5/6 e cos y = 4/5, então se α = x - y e T = α + α + α − 2 2 2 sen tg 1 tg 1 , temos que: a) α está no 4o quadrante e T = 2/3. b) α está no 1o quadrante e T = 2/3. c) α está no 1o quadrante e T = 2/3 + 10 / 11 . d) α está no 4o quadrante e T = 2/3 - 10 / 11 . e) n.d.a.</p>
+        <p>www.rumoaoita.com</p>
+        <p>16) (ITA-92) Num triângulo ABC, retângulo em Aˆ , temos Bˆ = 60o. As bissetrizes destes ângulos se encontram num ponto D. Se o segmento de reta BD mede 1 cm, então a hipotenusa mede: a) 2 3 1+ cm b) 1+ 3 cm c) 2 + 3 cm</p>
+        <p>d) 1 + 2 2 cm e) n.d.a.</p>
+        <p>17) (ITA-92) A equação da reta bissetriz do ângulo agudo que a reta y = mx, m &gt; 0, forma com o eixo dos x é: a) x m m 1 1 y 2 + + =</p>
+        <p>b) x m m 1 1 y 2 + − =</p>
+        <p>c) x m m 1 1 y 2 + − − =</p>
+        <p>d) x m m 1 1 y 2 + + − =</p>
+        <p>e) n.d.a.</p>
+        <p>18) (ITA-92) A razão entre as áreas de um triângulo equilátero inscrito numa circunferência e de um hexágono regular, cuja apótema mede 10 cm, circunscrito a esta mesma circunferência é: a) ½ b) 1 c) 1/3 d) 3/8 e) n.d.a.</p>
+        <p>19) (ITA-92) Considere o triângulo PQR ao lado, circunscrito a uma circunferência de centro O, cujos pontos de tangência são A, B e C. Sabe-se que os ângulos Qˆ , Pˆ e Rˆ estão, nesta ordem, em progressão aritmética de razão 20o. Os ângulos 1, 2, 3, 4 conforme mostrado na figura abaixo medem, nesta ordem: a) 40o, 120o, 60o e 50o. b) 40o, 100o, 50o e 40o. c) 60o, 140o, 60o e 40o. d) 60o, 120o, 40o e 50o. e) n.d.a.</p>
+        <p>20) (ITA-92) Num cone de revolução, o perímetro da seção meridiana mede 18 cm e o ângulo do setor circular mede 288o. Considerando-se o tronco de cone cuja razão entre as áreas das bases é 4/9, então sua área total mede: a) 16π cm2 b) 9 308π cm2 c) 3 160π cm2 d) 9 100π cm2 e) n.d.a.</p>
+        <p>21) (ITA-92) Uma seção plana que contém o eixo de um tronco de cilindro é um trapézio cujas bases menor e maior medem, respectivamente, h cm e H cm. Duplicando-se a base menor, o volume sofre um acréscimo de 1/3 em relação ao seu volume original. Deste modo: a) 2H = 3h</p>
+        <p>b) H = 2h</p>
+        <p>c) H = 3h d) 2H = 5h</p>
+        <p>e) n.d.a.</p>
+        <p>22) (ITA-92) Um cone de revolução está circunscrito a uma esfera de raio R cm. Se a altura do cone for igual ao dobro do raio da base, então a área de sua superfície lateral mede: a) π(1 + 5 )2R2/4 cm2. b) π 5 (1 + 5 )2R2/4 cm2. c) π 5 (1 + 5 )R2/4 cm2. d) π 5 (1 + 5 )2R2 cm2. e) n.d.a.</p>
+        <p>23)(ITA-92) Seja C a circunferência x2 + y2 - 2x - 6y + 5 =0. Considere em C a corda AB cujo ponto médio é: M: (2, 2). O comprimento de AB( em unidade de comprimento) é igual a: a) 2 6 b) 3 c) 2 d) 2 3 e) n.d.a.</p>
+        <p>24) (ITA-92) Dados os pontos A: (0, 8), B: (-4, 0) e C: (4, 0), sejam r e s as retas tais que A, B ∈ r, B, C ∈ S. Considere P1 e P2 os pés das retas perpendiculares traçadas de P: (5, 3) às retas r e s , respectivamente. Então a equação da reta que passa por P1 e P2 é: a) y + x = 5 b) y + 2x = 5 c) 3y - x = 5 d) y + x = 2 e) n.d.a.</p>
+        <p>25) (ITA-92) Considere as afirmações:</p>
+        <p>www.rumoaoita.com I- Uma elipse tem como focos os pontos F1: (-2, 0), F2: (2, 0) e o eixo maior 12. Sua equação é x2/36 + y2/32 = 1. II- Os focos de uma hipérbole são F1: (- 5 , 0), F2: ( 5 , 0) e sua excentricidade 2 / 10 . Sua Equação é 3x2 - 2y2 = 6. III- A parábola 2y = x2 - 10x - 100 tem como vértice o ponto P: (5, 125/2). Então: a) Todas as afirmações são falsas. b) Apenas as afirmações II e III são falsas. c) Apenas as afirmações I e II são verdadeiras. d) Apenas a afirmação III é verdadeira. e) n.d.a.</p>
+        <p>www.rumoaoita.com Observações Como esta é a primeira versão, ela está passível de erros. Caso você encontre algum erro, contate-nos através do email juliosousajr@gmail.com para que possa rever a questão e que possamos tornar esse arquivo ainda mais confiável.</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

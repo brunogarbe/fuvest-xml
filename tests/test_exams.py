@@ -10,7 +10,7 @@ SCHEMA = ROOT / "xsd" / "fuvest_xml.xsd"
 VERIFIED = sorted((ROOT / "exams" / "xml-verified").glob("*.xml"))
 
 # Known schema failures that still need fixing; remove entries once fixed.
-KNOWN_FAILING = {"fuvest_2027_fase_01.xml"}
+KNOWN_FAILING: set[str] = set()
 
 
 @pytest.mark.parametrize("path", VERIFIED, ids=lambda p: p.name)

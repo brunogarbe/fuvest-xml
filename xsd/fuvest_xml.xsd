@@ -606,6 +606,8 @@
 		<xs:choice minOccurs="1" maxOccurs="unbounded">
 			<xs:element ref="p"/>
 			<xs:element ref="image"/>
+			<xs:element ref="verse"/>
+			<xs:element ref="cite"/>
 		</xs:choice>
 		
 		<!-- label atribute for option tag -->

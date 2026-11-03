@@ -561,6 +561,14 @@ class LatexWriter(AbstractWriter):
         return f"\\textbf{{{text}}}\n\n"
 
     @override
+    def caption(self, text: str) -> str:
+        return f"\\textit{{{text}}}\n\n"
+
+    @override
+    def style(self, text: str, color: str) -> str:
+        return f"\\textcolor{{{color}}}{{{text}}}"
+
+    @override
     def display_quote_start(self) -> str:
         return "\\begin{displayquote}\n"
 
@@ -1421,7 +1429,7 @@ class XmlConverter:
             label = opt.get("label")  # not strictly needed, enumerate will label
             is_correct = opt.get("is_correct")
 
-            # <option> tags can only have <p> or <image> tags
+            # <option> tags can have <p>, <image>, <verse> or <cite> tags
             body_parts = []
             for child in opt:
                 body_parts.append(self.render_option_child(child))
@@ -1550,6 +1558,12 @@ class XmlConverter:
 
         elif tag == "image":
             return self.render_inline_image(el)
+
+        elif tag == "verse":
+            return self.render_verse(el)
+
+        elif tag == "cite":
+            return self.render_cite(el)
 
         else:
             raise ValueError("Tag not recognized!")

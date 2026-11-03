@@ -400,6 +400,10 @@ def render_verse(q_el) -> str:
         elif child.tag == "p":
             text = render_inline(child)
             parts.append(text + "\\\\\n")
+        elif child.tag == "stanza":
+            for line in child:
+                parts.append(render_inline(line) + "\\\\\n")
+            parts.append("\n")
         else:
             raise ValueError("Tag not recognized!")
 
@@ -656,7 +660,7 @@ def render_options(options_el) -> str:
             label = opt.get("label")  # not strictly needed, enumerate will label
             is_correct = opt.get("is_correct")
 
-            # <option> tags can only have <p> or <image> tags
+            # <option> tags can have <p>, <image>, <verse> or <cite> tags
             body_parts = []
             for child in opt:
                 body_parts.append(render_option_child(child))
@@ -678,6 +682,10 @@ def render_option_child(el) -> str:
         return render_paragraph(el)
     elif tag == "image":
         return render_inline_image(el)
+    elif tag == "verse":
+        return render_verse(el)
+    elif tag == "cite":
+        return render_cite(el)
     else:
         raise ValueError("Tag not recognized!")
 

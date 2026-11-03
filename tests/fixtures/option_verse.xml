@@ -1,0 +1,23 @@
+<exam name="FUVEST" year="2026" phase="objective" day="1" variation="V1" date="2025-11-23" lang="pt-br">
+	<question_group>
+		<objective_question number="1">
+			<classification subject="Portuguese:Text Interpretation"/>
+			<statement><p>Qual trecho de canção?</p></statement>
+			<options>
+				<option label="A" is_correct="true">
+					<verse>
+						<stanza>
+							<l>Vou passar, quero ver</l>
+							<l>Volta aqui, vem você</l>
+						</stanza>
+					</verse>
+					<cite>(Duas Tribos)</cite>
+				</option>
+				<option label="B" is_correct="false"><p>Nenhum</p></option>
+				<option label="C" is_correct="false"><p>Nenhum</p></option>
+				<option label="D" is_correct="false"><p>Nenhum</p></option>
+				<option label="E" is_correct="false"><p>Nenhum</p></option>
+			</options>
+		</objective_question>
+	</question_group>
+</exam>

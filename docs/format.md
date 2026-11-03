@@ -46,7 +46,7 @@ integer; each objective question needs exactly 5 options (4 for UNICAMP).
 <parts><part><p>a) ...</p></part></parts>
 ```
 
-Options and parts contain only `<p>` and `<image>`.
+`part` contains only `<p>` and `<image>`. `option` (in `<options>`) may also contain `<verse>` and `<cite>`.
 
 ## Statement content (StatementChilds)
 

@@ -1,0 +1,288 @@
+# Classification values
+
+Generated from the `Classification` enum in `xsd/fuvest_xml.xsd`. The XSD is the source of truth;
+if the two disagree, the XSD wins. Use these strings exactly in `<classification subject="..."/>`.
+
+```text
+Unknown
+Math
+Math:Concepts
+Math:Number Sets
+Math:Algebra
+Math:Algebra:Functions
+Math:Algebra:Affine
+Math:Algebra:Quadratic
+Math:Algebra:Modular
+Math:Algebra:Exponential
+Math:Algebra:Logarithmic
+Math:Algebra:Graphing
+Math:Algebra:Sequences and Series
+Math:Algebra:Matrices
+Math:Algebra:Determinants
+Math:Algebra:Linear Equations
+Math:Algebra:Complex Numbers
+Math:Algebra:Polynomials
+Math:Algebra:Algebraic Equations
+Math:Financial
+Math:Trigonometry
+Math:Trigonometry:Similar Triangles
+Math:Trigonometry:Right Triangles
+Math:Trigonometry:Non-Right Triangles
+Math:Trigonometry:Trigonometric Ratios
+Math:Trigonometry:Trigonometric Relations
+Math:Trigonometry:Trigonometric Functions
+Math:Trigonometry:Trigonometric Equations
+Math:Geometry
+Math:Geometry:Plane Geometry
+Math:Geometry:Solid Geometry
+Math:Geometry:Analytic Geometry
+Math:Combinatorics
+Math:Combinatorics:Permutations
+Math:Combinatorics:Combinations
+Math:Combinatorics:Binomial Theorem
+Math:Probability
+Math:Probability:Conditional
+Math:Statistics
+Math:Calculus
+Math:Calculus:Series and Sequences
+Math:Calculus:Limits
+Math:Calculus:Derivatives
+Math:Calculus:Integrals
+Physics:Mechanics
+Physics:Mechanics:Statics of Particles
+Physics:Mechanics:Rigid Bodies
+Physics:Mechanics:Equilibrium of Rigid Bodies
+Physics:Mechanics:Centroids and Centers of Gravity
+Physics:Mechanics:Friction
+Physics:Mechanics:Moments of Inertia
+Physics:Mechanics:Virtual Work
+Physics:Mechanics:Kinematics of Particles
+Physics:Mechanics:Newton's Second Law
+Physics:Mechanics:Energy and Momentum Methods
+Physics:Mechanics:Systems of Particles
+Physics:Mechanics:Kinematics of Rigid Bodies
+Physics:Mechanics:Plane Motion of Rigid Bodies
+Physics:Mechanics:Work and Energy
+Physics:Mechanics:Fluid Dynamics
+Physics:Mechanics:Gravitation
+Physics:Waves
+Physics:Waves:MechanicalWaves
+Physics:Waves:SoundWaves
+Physics:Thermodynamics
+Physics:Thermodynamics:Thermometry and Dilatation
+Physics:Thermodynamics:Gases and Heat Transfer
+Physics:Thermodynamics:Laws of Thermodynamics
+Physics:Electromagnetism
+Physics:Electromagnetism:Electrostatics
+Physics:Electromagnetism:Electrodynamics
+Physics:Electromagnetism:Magnetism
+Physics:Electromagnetism:Circuits
+Physics:Electromagnetism:Waves
+Physics:Optics
+Physics:Optics:GeometricOptics
+Physics:Optics:PhysicalOptics
+Physics:Modern
+Physics:Modern:SpecialRelativity
+Physics:Modern:QuantumMechanics
+Physics:Modern:NuclearPhysics
+Chemistry:Atomistics
+Chemistry:Atomistics:Atomic Models
+Chemistry:Atomistics:Periodic Table
+Chemistry:Atomistics:Chemical Bonds
+Chemistry:General
+Chemistry:General:Stoichiometry
+Chemistry:General:Solutions
+Chemistry:General:ChemicalKinetics
+Chemistry:General:ChemicalEquilibrium
+Chemistry:Inorganic
+Chemistry:Inorganic:Acids and Bases
+Chemistry:Inorganic:RedoxReactions
+Chemistry:Inorganic:Salts and Oxides
+Chemistry:Physical
+Chemistry:Physical:Thermochemistry
+Chemistry:Physical:Electrochemistry
+Chemistry:Organic
+Chemistry:Organic:Hydrocarbons
+Chemistry:Organic:FunctionalGroups
+Chemistry:Organic:Isomerism
+Chemistry:Organic:Reactions
+Chemistry:Biochemistry
+Chemistry:Biochemistry:Carbohydrates
+Chemistry:Biochemistry:Lipids
+Chemistry:Biochemistry:Proteins
+Biology:Biochemistry:Lipids
+Biology:Cell
+Biology:Cell:Prokaryotic vs. Eukaryotic
+Biology:Cell:Structures and Organelles
+Biology:Cell:Membranes and Transport
+Biology:Cell:Communication and Signaling
+Biology:Cell:Metabolism
+Biology:Cell:Division (Mitosis and Meiosis)
+Biology:Genetics
+Biology:Genetics:DNA and RNA Structure
+Biology:Genetics:Gene Expression and Regulation
+Biology:Genetics:Mendelian Genetics
+Biology:Genetics:Non-Mendelian genetics
+Biology:Genetics:Mutations
+Biology:Genetics:Biotechnology
+Biology:Evolution
+Biology:Evolution:Theories of Evolution
+Biology:Evolution:Speciation and Phylogeny
+Biology:Evolution:Evidence of Evolution
+Biology:Evolution:Classification Systems
+Biology:Evolution:Human Evolution
+Biology:Microbiology
+Biology:Microbiology:Viruses
+Biology:Microbiology:Structure and Replication Cycles
+Biology:Microbiology:Viral Diseases
+Biology:Microbiology:Vaccines and Antiviral Defense
+Biology:Microbiology:Bacteria and Archaea
+Biology:Microbiology:Prokaryotic Cell Structure
+Biology:Microbiology:Roles in Ecosystems
+Biology:Microbiology:Pathogenic vs. Beneficial Bacteria
+Biology:Protists
+Biology:Protists:Diversity and classification
+Biology:Protists:Ecological importance
+Biology:Fungi
+Biology:Fungi:Structure
+Biology:Fungi:Nutrition
+Biology:Fungi:Roles in Ecosystems
+Biology:Fungi:Fungal Diseases and Usess
+Biology:Botany
+Biology:Botany:Plant Cell and Tissues
+Biology:Botany:Photosynthesis
+Biology:Botany:Reproduction
+Biology:Botany:Growth and Hormones
+Biology:Botany:Plant Physiology
+Biology:Botany:Major Plant Groups
+Biology:Zoology
+Biology:Zoology:Major Animal Phyla
+Biology:Zoology:Comparative Anatomy
+Biology:Zoology:Reproduction and Development
+Biology:Zoology:Invertebrates
+Biology:Zoology:Vertebrates
+Biology:Human
+Biology:Human:Integumentary System
+Biology:Human:Skeletal and Muscular Systems
+Biology:Human:Nervous System
+Biology:Human:Endocrine System
+Biology:Human:Digestive System
+Biology:Human:Circulatory System
+Biology:Human:Respiratory System
+Biology:Human:Immune System
+Biology:Human:Reproductive System
+Biology:Human:Homeostasis and Regulation
+Biology:Ecology
+Biology:Ecology:Population Dynamics
+Biology:Ecology:Ecosystems and Biomes
+Biology:Ecology:Biogeochemical Cycles
+Biology:Ecology:Biodiversity and Conservation
+Biology:Ecology:Environmental Impacts
+History:Ancient
+History:Ancient:Mesopotamia and Egypt
+History:Ancient:Greece
+History:Ancient:Rome
+History:Ancient:China
+History:Medieval
+History:Medieval:Feudalism
+History:Medieval:Byzantine and Islamic Empires
+History:Modern
+History:Modern:Renaissance and Reformation
+History:Modern:Absolutism and Enlightenment
+History:Contemporary
+History:Contemporary:French and Industrial Revolutions
+History:Contemporary:WorldWars
+History:Contemporary:ColdWar
+History:Brazil
+History:Brazil:Pre-Cabral
+History:Brazil:Colonial Period
+History:Brazil:United Kingdom with Portugal
+History:Brazil:Independence
+History:Brazil:Empire of Brazil
+History:Brazil:Old Republic
+History:Brazil:Vargas Era
+History:Brazil:Populist Republic
+History:Brazil:Military Dictatorship
+History:Brazil:Military Dictatorship:1964 Brazilian coup d'état
+History:Brazil:Military Dictatorship:Vacancy in the Presidency
+History:Brazil:Military Dictatorship:Institutional Acts
+History:Brazil:Military Dictatorship:Araguaia Guerrilla War
+History:Brazil:Military Dictatorship:March of the One Hundred Thousand
+History:Brazil:Military Dictatorship:Brazilian Miracle
+History:Brazil:Military Dictatorship:Redemocratization
+History:Brazil:Military Dictatorship:Diretas Já
+History:Brazil:New Republic
+Geography:Physical
+Geography:Physical:Geology
+Geography:Physical:Glaciology
+Geography:Physical:Climatology
+Geography:Physical:Oceanography
+Geography:Physical:Hydrology
+Geography:Physical:Biogeography
+Geography:Physical:Geomorphology
+Geography:Human
+Geography:Human:Population and Demographics
+Geography:Human:Urbanization
+Geography:Human:Economic and Agricultural
+Geography:Geopolitics
+Geography:Geopolitics:Global Conflicts
+Geography:Geopolitics:International Organizations
+Geography:Cartography
+Geography:Cartography:Map Projections and Scales
+Geography:Brazil
+Geography:Brazil:Regional Geography
+Geography:Brazil:Physical
+Geography:Brazil:Physical:Geology
+Geography:Brazil:Physical:Hidrology
+Geography:Brazil:Physical:Oceanography
+Geography:Brazil:Physical:Climatology
+Geography:Brazil:Physical:Biogeography
+Geography:Brazil:Human
+Geography:Brazil:Human:Population and Demographics
+Geography:Brazil:Human:Culture
+Geography:Brazil:Human:Urbanization
+Geography:Brazil:Human:Economic and Agricultural
+Geography:Brazil:Environmental Issues
+Sociology:General:Culture, Identity and Socialization
+Sociology:General:SocialStructure and Stratification
+Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)
+Philosophy:General:Metaphysics
+Philosophy:General Philosophy
+Philosophy:Ethics
+Sociology:General Sociology
+Philosophy:General:Metaphysics
+Philosophy:General:Epistemology
+Philosophy:General:Logic
+Philosophy:Ethics:ClassicalEthics
+Philosophy:Ethics:ModernEthics
+Philosophy:Politics:ClassicalPoliticalThought
+Philosophy:Politics:ModernPoliticalThought
+Sociology:General:ClassicalTheories (Durkheim, Marx, Weber)
+Sociology:General:SocialStructure and Stratification
+Sociology:General:Culture, Identity and Socialization
+Portuguese:Grammar:Phonology
+Portuguese:Grammar:Phonology:Accents
+Portuguese:Grammar:Phonology:Spelling
+Portuguese:Grammar:Morphology
+Portuguese:Grammar:Morphology:Nouns
+Portuguese:Grammar:Morphology:Adjectives
+Portuguese:Grammar:Morphology:Preposition
+Portuguese:Grammar:Morphology:Pronomial Conjunctions
+Portuguese:Grammar:Morphology:Verbs
+Portuguese:Grammar:Morphology:Numerals
+Portuguese:Grammar:Morphology:Adverbs
+Portuguese:Grammar:Morphology:Interjections
+Portuguese:Grammar:Morphology:Articles
+Portuguese:Grammar:Syntax
+Portuguese:Grammar:Syntax:Punctuation
+Portuguese:Grammar:Semantics and Stylistics
+Portuguese:Text Interpretation
+English:Grammar
+English:Reading Comprehension
+Literature:Brazil
+Literature:Brazil:Romanticism
+Literature:Brazil:Realism and Naturalism
+Literature:Brazil:Modernism
+Literature:Brazil:Contemporary
+Literature:World Literature
+```

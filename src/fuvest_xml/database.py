@@ -90,6 +90,15 @@ def create_schema(conn: sqlite3.Connection) -> None:
             statement   TEXT NOT NULL
         );
 
+        -- All classifications of a question; position 0 is the primary subject
+        -- (also stored in questions.subject_id).
+        CREATE TABLE IF NOT EXISTS question_subjects (
+            question_id INTEGER NOT NULL REFERENCES questions(id),
+            subject_id  INTEGER NOT NULL REFERENCES subjects(id),
+            position    INTEGER NOT NULL,
+            PRIMARY KEY (question_id, subject_id)
+        );
+
         COMMIT;
         """
     )
@@ -275,9 +284,13 @@ def process_question_group(cursor, data, parent):
         else:
             cancelled = 0
 
-        # get the classification
-        subject = q.find("./classification").get("subject", "").strip()
-        subject_id = get_or_create_data(cursor, "subjects", subject)
+        # get the classifications; the first one is the primary subject
+        subject_ids = []
+        for c in q.findall("./classification"):
+            sid = get_or_create_data(cursor, "subjects", c.get("subject", "").strip())
+            if sid not in subject_ids:
+                subject_ids.append(sid)
+        subject_id = subject_ids[0]
 
         statement = inner_xml_clean(q)
 
@@ -301,6 +314,12 @@ def process_question_group(cursor, data, parent):
                 statement,
             ),
         )
+        question_id = cursor.lastrowid
+        for position, sid in enumerate(subject_ids):
+            cursor.execute(
+                "INSERT INTO question_subjects (question_id, subject_id, position) VALUES (?, ?, ?)",
+                (question_id, sid, position),
+            )
 
 
 #########1#########2#########3#########4#########5#########6#########7#########8#########9########10#######11#########12#########
@@ -370,7 +389,11 @@ def select_questions(
         params.append(year)
 
     if subject is not None:
-        conditions.append("s.name LIKE ?")
+        # match any of the question's classifications, not only the primary one
+        conditions.append(
+            "EXISTS (SELECT 1 FROM question_subjects qs JOIN subjects s2 ON qs.subject_id = s2.id "
+            "WHERE qs.question_id = q.id AND s2.name LIKE ?)"
+        )
         params.append(f"{subject}%")
 
     if conditions:

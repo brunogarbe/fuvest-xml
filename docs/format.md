@@ -53,6 +53,9 @@ integer; each objective question needs exactly 5 options (4 for UNICAMP).
 Used by `context`, `statement`, `assumptions`. Allowed children, any order:
 `p`, `header`, `caption`, `cite`, `quote`, `verse`, `footnote`, `image`, `list`, `ordered_list`, `table`.
 
+`context` additionally accepts `assumptions` (itself StatementChilds), e.g. a "Note e adote" box shared by
+several questions; it is rendered as the same assumption box as a question-level `assumptions`.
+
 - `quote`: optional `title`, then `p`/`image`.
 - `verse`: optional `title`, then `stanza`+ each containing `l`+ (lines).
 - `list` (attr `symbol`) and `ordered_list` (attr `type`: `arabic`, `alpha`, `roman`): `item`+ containing `p`/`image`.

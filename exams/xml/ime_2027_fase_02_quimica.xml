@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="IME" year="2027" phase="discursive" day="1" variation="V1" date="2027-01-01" lang="pt-br">
+  <question_group>
+    <essay_question number="01">
+      <statement>
+        <p>1.0079 H Hidrogênio 3 6.941 Li Lítio 11 22.990 Na Sódio 19 39.098 K Potássio 37 85.468 Rb Rubídio 55 132.91 Cs Césio 87 223 Fr Frâncio 4 9.0122 Be Berílio 12 24.305 Mg Magnésio 20 40.078 Ca Cálcio 38 87.62 Sr Estrôncio 56 137.33 Ba Bário 88 226 Ra Rádio 21 44.956 Sc Escândio 39 88.906 Y Ítrio 57-71 La-Lu Lantanídeos 89-103 Ac-Lr Actinídeos 22 47.867 Ti Titânio 40 91.224 Zr Zircônio 72 178.49 Hf Háfnio 104 267 Rf Rutherfórdio 23 50.942 V Vanádio 41 92.906 Nb Nióbio 73 180.95 Ta Tântalo 105 268 Db Dúbnio 24 51.996 Cr Cromo 42 95.94 Mo Molibdênio 74 183.84 W Tungstênio 106 269 Sg Seabórgio 25 54.938 Mn Manganês 43 96 Tc Tecnécio 75 186.21 Re Rênio 107 270 Bh Bóhrio 26 55.845 Fe Ferro 44 101.07 Ru Rutênio 76 190.23 Os Ósmio 108 269 Hs Hássio 27 58.933 Co Cobalto 45 102.91 Rh Ródio 77 192.22 Ir Irídio 109 277 Mt Meitnério 28 58.693 Ni Níquel 46 106.42 Pd Paládio 78 195.08 Pt Platina 110 281 Ds Darmstádtio 29 63.546 Cu Cobre 47 107.87 Ag Prata 79 196.97 Au Ouro 111 282 Rg Roentgênio 30 65.39 Zn Zinco 48 112.41 Cd Cádmio 80 200.59 Hg Mercúrio 112 285 Cn Copernício 31 69.723 Ga Gálio 13 26.982 Al Alumínio 5 10.811 B Boro 49 114.82 In Índio 81 204.38 Tl Tálio 113 286 Nh Nihônio 6 12.011 C Carbono 14 28.086 Si Silício 32 72.64 Ge Germânio 50 118.71 Sn Estanho 82 207.2 Pb Chumbo 114 290 Fl Fleróvio 7 14.007 N Nitrogênio 15 30.974 P Fósforo 33 74.922 As Arsênio 51 121.76 Sb Antimônio 83 208.98 Bi Bismuto 115 290 Mc Moscóvio 8 15.999 O Oxigênio 16 32.065 S Enxofre 34 78.96 Se Selênio 52 127.6 Te Telúrio 84 209 Po Polônio 116 293 Lv Livermório 9 18.998 F Flúor 17 35.453 Cl Cloro 35 79.904 Br Bromo 53 126.9 I Iodo 85 210 At Astato 117 294 Ts Tennesso 10 20.180 Ne Neônio</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>4.0025 He Hélio 18 39.948 Ar Argônio 36 83.8 Kr Criptônio 54 131.29 Xe Xenônio 86 222 Rn Radônio 118 294 Og Oganessônio 1 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>1 2 3 4 5 6 7</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>57 138.91 La Lantânio 58 140.12 Ce Cério 59 140.91 Pr Praseodímio 60 144.24 Nd Neodímio 61 145 Pm Promécio 62 150.36 Sm Samário 63 151.96 Eu Európio 64 157.25 Gd Gadolínio 65 158.93 Tb Térbio 66 162.50 Dy Disprósio 67 164.93 Ho Hôlmio 68 167.26 Er Érbio 69 168.93 Tm Túlio 70 173.04 Yb Itérbio 71 174.97 Lu Lutécio 89 227 Ac Actínio 90 232.04 Th Tório 91 231.04 Pa Protactínio 92 238.03 U Urânio 93 237 Np Neptúnio 94 244 Pu Plutônio 95 243 Am Amerício 96 247 Cm Cúrio 97 247 Bk Berquélio 98 251 Cf Califórnio 99 252 Es Einstênio 100 257 Fm Férmio 101 258 Md Mendelévio 102 259 No Nobélio 103 262 Lr Laurêncio Z massa Símb. Nome artif. Fonte: adaptada dos sites https://acervodigital.ufpr.br/handle/1884/40332 e https://www.tabelaperiodica.org/ 1 1ª QUESTÃO Valor: 1,0 Qual a massa de óxido de manganês IV, componente do minério Pirolusita, que deve reagir com HCℓconcentrado para se obter o cloro necessário à liberação de todo o bromo existente em 2,06 gramas de NaBr? Apresente as reações envolvidas. 2ª QUESTÃO Valor: 1,0 Um sistema, composto por um mol de um gás ideal, está em um estado inicial a uma pressão P1, volume V1 e temperatura T1.Tal sistema sofre mudança de estado em quatro etapas: • Etapa I - compressão lenta e isotérmica a P2, V2. • Etapa II - compressão muito rápida a P3, V3, T3. • Etapa III - expansão lenta e isotérmica a P4, V4. • Etapa IV - expansão muito rápida de volta ao estado inicial a P1, V1, T1. A segunda e a quarta etapas são tão rápidas que não há troca de calor entre o sistema e o ambiente. Diante do exposto: a) esboce o gráfico P x V do processo descrito, identificando as etapas. b) considerando que W 1, W 2, W 3 e W 4 são os trabalhos em cada etapa, mostre que o trabalho total no processo descrito se reduz a W tot = W 1 + W 3. 3ª QUESTÃO Valor: 1,0 Um estudo cinético foi feito com a reação SO2(g) + O3(g) −−→SO3(g) + O2(g), alterando-se as concentrações iniciais dos reagentes a 300 K. Foi usado um vaso fechado de volume constante, com N2 como pressurizador inerte, e sob incidência de luz ultravioleta, obtendo-se os dados da tabela abaixo: SO2 O3 velocidade inicial mol·L−1 mol·L−1 mol·L−1·s−1 0,25 0,40 0,118 0,25 0,20 0,118 0,75 0,20 1,062 Diante do exposto: a) determine a ordem da reação em relação a cada reagente. b) determine a lei da velocidade desta reação. c) calcule o valor da constante de reação. d) um segundo experimento a 1000 K mostrou que a constante de reação tem valor de 7,56 em módulo. Assim, calcule a Energia de Ativação dessa reação. 2 4ª QUESTÃO Valor: 1,0 O ácido acético, denominado monômero, tende a formar dímeros cíclicos em um processo de autoassociação devido às interações intermoleculares fortes. Para um determinado equilíbrio, sabe-se que cada mol de monômero (ácido acético) gera 0,42 mol de dímero em uma solução com benzeno. Determine para esse equilíbrio: a) o tipo de interação intermolecular presente no dímero cíclico. b) a estrutura de Lewis do dímero. c) o valor da constante de equilíbrio, tendo por base as concentrações. d) a temperatura de fusão de uma solução 0,10 mol·L−1 de ácido acético em benzeno, que preserva a mesma relação dímero/monômero desse equilíbrio. 5ª QUESTÃO Valor: 1,0 Uma determinada substância orgânica no estado gasoso foi submetida à combustão completa em dois calorímetros: um de volume constante e outro de pressão constante. Sabe-se que: i) a reação ocorreu à mesma temperatura de 27 oC em ambos os calorímetros; ii) todos os produtos e reagentes são gasosos; iii) ambos os calorímetros têm a mesma capacidade térmica igual a 450 J·K−1; iv) a quantidade da substância orgânica queimada em cada calorímetro foi a mesma e igual a 1,0 mol; e v) a variação de temperatura do calorímetro de volume constante foi 16,6 oC maior que a variação de temperatura do calorímetro de pressão constante. A substância orgânica levada à combustão foi o acetileno, o p-xileno, o n-heptano, ou o propeno? Justifique. 6ª QUESTÃO Valor: 1,0 A reação de 240 g de ácido acético com 92 g de etanol, em dadas condições reacionais, em um recipiente fechado, atinge o equilíbrio químico quando 1,6 mol de cada produto é formado. Considere: i) somente o equilíbrio líquido-líquido; ii) o volume reacional é constante; e iii) não há variação de temperatura e pressão. Diante do exposto: a) escreva e balanceie a equação estequiométrica correspondente. b) determine o grau de equilíbrio do sistema reacional para o ácido acético. c) determine a constante de equilíbrio para o sistema reacional. 3 7ª QUESTÃO Valor: 1,0 Um determinado processo químico em fase líquida ocorre por meio de três etapas acopladas, envolvendo a formação de um intermediário reativo X: • Etapa I: A + B −−→X • Etapa II: X + B −−→P • Etapa III: X + C −−→produtos inativos Em determinadas condições experimentais, verifica-se que a velocidade inicial de formação do produto P pode ser descrita empiricamente pela expressão: ν0 = k[A]α[B]β[C]γ A tabela a seguir apresenta os valores das concentrações iniciais de A, B e C, bem como a velocidade inicial de formação de P, obtidos em quatro experimentos independentes à mesma temperatura: experimento [A]0 (mol·L−1) [B]0 (mol·L−1) [C]0 (mol·L−1) ν0 (mol·L−1·s−1) 1 1,0×10−2 1,0×10−2 1,0×10−2 1,25×10−6 2 2,0×10−2 4,0×10−2 8,0×10−2 5,00×10−6 3 4,0×10−2 2,0×10−2 1,6×10−1 1,25×10−6 4 8,0×10−2 1,6×10−1 2,0×10−2 1,28×10−6 Determine: a) os valores de α, β e γ. b) a constante cinética k, com suas unidades. c) a lei cinética completa para a formação de P. d) a ordem global da reação. 8ª QUESTÃO Valor: 1,0 Dois mols de um cloreto de alquila (X) reagem com quantidade equivalente de sódio metálico, em meio anidro, gerando o produto (Y). Sabe-se que Y possui dois carbonos quirais e não é capaz de realizar desvio da luz polarizada, sendo esse composto (Y) com o menor número de carbonos possível nessas condições. Diante do exposto: a) represente a estrutura tridimensional de Y. b) forneça a nomenclatura IUPAC de X. 4 9ª QUESTÃO Valor: 1,0 Uma solução é preparada dissolvendo-se 53 g de um composto aromático (A) em 2 kg de benzeno, gerando um abaixamento da temperatura de congelamento de 1,28 oC. Sabe-se que o composto A sofre reação de halogenação gerando um único produto possível e seu resultado no teste de Tollens é negativo. Determine a estrutura molecular do composto A. 10ª QUESTÃO Valor: 1,0 A Praia da Areia Preta, em Guarapari (ES), é composta predominantemente por monazita, mineral que constitui uma importante fonte natural de tório e urânio. Uma amostra de monazita apresenta aproximadamente 9% de ThO2 e 0,35% de U3O8 em massa. Os isótopos 208Pb e 206Pb correspondem aos produtos estáveis finais das séries de decaimento radioativo de 232Th e 238U, respectivamente. A razão isotópica atômica molar 208Pb/232Th, determinada para uma amostra hipotética de areia monazítica da Praia da Areia Preta, apresentou o valor de 0,024. As meias-vidas dos radionuclídeos 232Th e 238U são, respectivamente, 1,41×1010 anos e 4,47×109 anos. Suponha que os isótopos 208Pb, 206Pb, 232Th e 238U tenham permanecido integralmente no sistema desde a formação do mineral de monazita. Admita que todo o chumbo presente na monazita seja de origem exclusivamente radiogênica. Com base nessas informações, estime a idade da amostra hipotética de areia monazítica da Praia da Areia Preta. 5 RASCUNHO 6</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

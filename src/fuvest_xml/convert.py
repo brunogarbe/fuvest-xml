@@ -1551,6 +1551,9 @@ class XmlConverter:
 
         elif tag == "cite":
             return self.render_cite(el)
+
+        elif tag == "assumptions":
+            return self.render_assumptions(el)
         else:
             raise ValueError("Tag not recognized!" + etree.tostring(el).decode("utf-8"))
 

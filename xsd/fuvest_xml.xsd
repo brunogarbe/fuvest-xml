@@ -170,13 +170,13 @@
 			<xs:enumeration value="Biology:Microbiology:Roles in Ecosystems"/>
 			<xs:enumeration value="Biology:Microbiology:Pathogenic vs. Beneficial Bacteria"/>
 			<xs:enumeration value="Biology:Protists"/>
-			<xs:enumeration value="Biology:Protists:Diversity and classification"/>
+			<xs:enumeration value="Biology:Protists:Diversity and Classification"/>
 			<xs:enumeration value="Biology:Protists:Ecological importance"/>
 			<xs:enumeration value="Biology:Fungi"/>
 			<xs:enumeration value="Biology:Fungi:Structure"/>
 			<xs:enumeration value="Biology:Fungi:Nutrition"/>
 			<xs:enumeration value="Biology:Fungi:Roles in Ecosystems"/>
-			<xs:enumeration value="Biology:Fungi:Fungal Diseases and Usess"/>
+			<xs:enumeration value="Biology:Fungi:Fungal Diseases and Uses"/>
 			<xs:enumeration value="Biology:Botany"/>
 			<xs:enumeration value="Biology:Botany:Plant Cell and Tissues"/>
 			<xs:enumeration value="Biology:Botany:Photosynthesis"/>
@@ -597,8 +597,26 @@
 			<xs:element ref="table"/>
 		</xs:choice>
 	</xs:complexType>
-	
-	
+
+	<!-- Context children: same as StatementChilds, plus an optional assumptions block -->
+	<xs:complexType name="ContextChilds">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element ref="quote"/>
+			<xs:element ref="verse"/>
+			<xs:element ref="header"/>
+			<xs:element ref="caption"/>
+			<xs:element ref="cite"/>
+			<xs:element ref="p"/>
+			<xs:element ref="footnote"/>
+			<xs:element ref="image"/>
+			<xs:element ref="list"/>
+			<xs:element ref="ordered_list"/>
+			<xs:element ref="table"/>
+			<xs:element name="assumptions" type="StatementChilds"/>
+		</xs:choice>
+	</xs:complexType>
+
+
 	<!-- ===================== Options ===================== -->
 	
 	<!-- Option -->
@@ -666,7 +684,7 @@
 	<xs:complexType name="QuestionGroup">
 		<xs:sequence>
 			<!-- Context tag for a group question -->
-			<xs:element name="context" minOccurs="0" maxOccurs="1" type="StatementChilds"/>
+			<xs:element name="context" minOccurs="0" maxOccurs="1" type="ContextChilds"/>
 			<xs:choice maxOccurs="unbounded">
 				<!-- Objective Question tag -->
 				<xs:element name="objective_question">
@@ -685,6 +703,10 @@
 						<xs:attribute name="cancelled" type="xs:boolean"/>
 						<xs:attribute name="success_rate" type="Percentage"/>
 					</xs:complexType>
+					<xs:unique name="unique_objective_question_classification">
+						<xs:selector xpath="classification"/>
+						<xs:field xpath="@subject"/>
+					</xs:unique>
 				</xs:element>
 				
 				<!-- Objective Question tag -->
@@ -701,6 +723,10 @@
 						<xs:attribute name="null" type="xs:boolean"/>
 						<xs:attribute name="success_rate" type="Percentage"/>
 					</xs:complexType>
+					<xs:unique name="unique_discursive_question_classification">
+						<xs:selector xpath="classification"/>
+						<xs:field xpath="@subject"/>
+					</xs:unique>
 				</xs:element>
 				
 				<!-- Essay Question tag -->

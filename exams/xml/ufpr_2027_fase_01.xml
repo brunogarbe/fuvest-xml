@@ -1,0 +1,842 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="UFPR" year="2027" phase="objective" day="1" variation="V1" date="2027-01-01" lang="pt-br">
+  <question_group>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>– Geral</p>
+        <p>1. Confira, acima, o seu número de inscrição, turma e nome. Assine no local indicado. 2. Aguarde autorização para abrir o caderno de prova. Antes de iniciar a prova, confira a numeração de todas as páginas. 3. Esta prova é composta de 80 questões objetivas de conhecimentos gerais e 2 questões discursivas de Compreensão e Produção de Textos (CPT). 4. Nesta prova, as questões objetivas são de múltipla escolha, com 4 alternativas cada uma, sempre na sequência A, B, C, D, das quais somente uma deve ser assinalada. 5. A interpretação das questões é parte do processo de avaliação, não sendo permitidas perguntas aos aplicadores de prova. 6. Ao receber o cartão-resposta e a folha de versão definitiva, examine-os e verifique se o nome neles impresso corresponde ao seu. Caso haja irregularidade, comunique-a imediatamente à equipe de aplicação de prova. 7. O cartão-resposta deverá ser preenchido com caneta esferográfica de tinta preta, tendo-se o cuidado de não ultrapassar o limite do espaço para cada marcação. 8. As questões discursivas deverão ser resolvidas no caderno de prova e transcritas NA ÍNTEGRA para a folha de versão definitiva, com caneta de tinta preta, respeitando-se os limites mínimo e máximo de linhas. Serão corrigidas somente as questões transcritas para campo próprio na folha de versão definitiva. Respostas transcritas em campos trocados serão anuladas. 9. A duração da prova é de 5 horas e 30 minutos. Esse tempo inclui a resolução das questões e a transcrição das respostas para o cartão-resposta. 10. Terá sua prova anulada e será automaticamente desclassificada do Concurso Público a pessoa que:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>se afastar da sala, a qualquer tempo, portando o caderno de prova, o cartão-resposta ou a folha de versão definitiva;</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>descumprir instruções/determinações contidas no caderno de prova ou recebidas de qualquer pessoa da equipe de aplicação;</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>destacar ou rasgar qualquer página do caderno de prova, salvo a parte reservada para anotação de suas próprias respostas, devidamente indicada na capa do caderno de prova;</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>faltar com o devido respeito para com qualquer pessoa da equipe de aplicação da prova, autoridade presente ou qualquer outra pessoa;</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>for responsável por ruídos (som/vibração) emitidos por equipamentos eletrônicos, tais como relógio, celular ou outros aparelhos eletrônicos; f) for surpreendida em comunicação com outras pessoas, verbalmente, por escrito ou por qualquer outro meio de comunicação; g) mantiver em seu poder relógios, aparelhos eletrônicos (por ex. chave de carro, pen drive, fone de ouvido), carteira de documentos/dinheiro ou similares ou qualquer objeto identificável pelo detector de metais; h) não assinar o cartão-resposta; i) obtiver deferimento para amamentação e cuja pessoa acompanhante descumprir as regras do processo; j) praticar atos contra as normas, disciplina ou que gerem desconforto durante a aplicação da prova; k) realizar anotação de informações relativas às suas respostas em qualquer outro meio que não o permitido; l) se recusar a aguardar a saída simultânea, em razão de ser uma das três últimas pessoas candidatas da turma presentes na sala de prova; m) se recusar a entregar o material da prova (caderno de prova, cartão-resposta e folha de versão definitiva) ao término do tempo destinado para a sua realização; n) se recusar a passar pela inspeção de segurança e detecção de metais a qualquer momento; o) se retirar do local de prova antes de decorrida 01h30min do seu início; p) utilizar meios fraudulentos ou ilegais (eletrônicos, estatísticos, visuais, grafológicos ou outros procedimentos ilícitos) para obter para si ou para terceiros a aprovação no processo. 11. Ao concluir a prova, permaneça em seu lugar e comunique ao aplicador de prova. Aguarde autorização para entregar o material de prova. 12. Se desejar, anote as respostas no quadro disponível no verso desta folha, recorte na linha indicada e leve-o consigo. 13. Após sair definitivamente da sala de prova, dirija-se imediatamente ao portão de saída e retire-se do local de prova, sob pena de ser excluído do Processo Seletivo. Conhecimentos Gerais e CPT DURAÇÃO DESTA PROVA: 5 horas e 30 minutos RESPOSTAS 01 - 09 - 17 - 25 - 33 - 41 - 49 - 57 - 65 - 73 -</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="02">
+      <statement>
+        <p>- 10 - 18 - 26 - 34 - 42 - 50 - 58 - 66 - 74 -</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>- 11 - 19 - 27 - 35 - 43 - 51 - 59 - 67 - 75 -</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>- 12 - 20 - 28 - 36 - 44 - 52 - 60 - 68 - 76 -</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>- 13 - 21 - 29 - 37 - 45 - 53 - 61 - 69 - 77 -</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>- 14 - 22 - 30 - 38 - 46 - 54 - 62 - 70 - 78 -</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>- 15 - 23 - 31 - 39 - 47 - 55 - 63 - 71 - 79 -</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>- 16 - 24 - 32 - 40 - 48 - 56 - 64 - 72 - 80 -</p>
+        <p>........................................................................................................................................................................................................... 3/32 GEOGRAFIA</p>
+        <p>01 - Analise o gráfico a seguir, referente ao número de licenciamentos de veículos eletrificados e sua participação percentual no total de licenciamentos de veículos no Brasil, no período de 2015 a 2025.</p>
+        <p>Fonte: EPE - Empresa de Pesquisa Energética, 2026. Disponível em: https://www.epe.gov.br/.</p>
+        <p>Considerando as informações apresentadas no gráfico, qual é a tendência observada para os veículos eletrificados no Brasil e sua relação com o processo geográfico que vem ocorrendo nos últimos anos?</p>
+        <p>A) Incremento relativo da frota de veículos nacionais em decorrência de uma queda no licenciamento de veículos eletrificados, provocada pela pandemia de Covid-19, a qual reduziu a renda média e o consumo da população brasileira. B) Elevação do licenciamento de veículos elétricos a bateria, que superou a expansão do licenciamento de veículos híbridos elétricos plug-in, impulsionada pelo recente processo de redução dos impostos de importação de carros elétricos. C) Expansão do licenciamento de veículos eletrificados e retração do licenciamento de veículos híbridos, em decorrência da diminuição dos incentivos públicos ao setor automotivo e da falta de investimentos em infraestrutura elétrica nacional. ►D) Aumento da participação dos veículos eletrificados no licenciamento total, como reflexo do processo de transição energética no setor de mobilidade e da substituição gradual dos combustíveis fósseis por fontes mais limpas e renováveis.</p>
+        <p>02 - Observe a figura a seguir, que representa um esquema do processo de formação de um perfil de solo.</p>
+        <p>Lima, V. C.; Lima, M. R.; Melo, V. F. O solo no meio ambiente: abordagem para professores do ensino fundamental e médio e alunos do ensino médio. Curitiba - PR: Universidade Federal do Paraná - UFPR / Departamento de Solos e Engenharia Agrícola, 2007.</p>
+        <p>O processo de formação do solo ilustrado na figura é resultado:</p>
+        <p>A) do processo de deposição e decomposição de matéria orgânica oriunda das matas, das florestas e das atividades agrícolas, contribuindo para a formação dos diferentes horizontes do perfil do solo. ►B) do processo de exposição e alteração do material de origem, em que a rocha é submetida à ação do clima, do intemperismo e dos processos pedogenéticos, formando os horizontes do perfil do solo. C) da deposição de materiais inorgânicos que se acumulam na superfície terrestre em condições de sedimentação, que resultam na formação de diferentes rochas sedimentares e horizontes pedogenéticos do perfil do solo. D) do processo de erosão, que envolve a deposição de sedimentos e outros materiais provenientes de deslizamentos de terra, resultando na arenização e na lixiviação do solo, além da diferenciação dos horizontes pedológicos.</p>
+        <p>4/32 03 - Considere o texto a seguir:</p>
+        <p>No dia 2 de junho de 2026, em um comunicado à imprensa, a Organização Meteorológica Mundial (OMM) já alertava: “Prepare-se para o El Niño”. Impulsionadas por águas oceânicas excepcionalmente quentes no Oceano Pacífico equatorial, as condições do El Niño já estavam se desenvolvendo com previsão de fortalecimento durante o verão austral de 2026-2027.</p>
+        <p>Disponível em: https://wmo.int/news/media-centre/wmo-prepare-el-nino.</p>
+        <p>Considerando as informações apresentadas, assinale a alternativa que indica uma das consequências esperadas do fenômeno El Niño durante o verão no território brasileiro.</p>
+        <p>A) Intensificação das chuvas na região da Amazônia Legal e aumento de incêndios nas regiões Sul e Sudeste do país. B) Ocorrência de secas nas regiões Sul, Sudeste e Centro-Oeste e elevação das temperaturas em todo o território brasileiro. ►C) Aumento das precipitações na região Sul e tendência de redução das chuvas em partes das regiões Norte e Nordeste. D) Maior presença das frentes frias na região Sul e aumento generalizado das precipitações em todas as regiões brasileiras.</p>
+        <p>04 - Analise e compare os dois fragmentos de texto a seguir:</p>
+        <p>“A cidade em si, como relação social e como materialidade, torna-se criadora de pobreza, tanto pelo modelo socioeconômico de que é o suporte como por sua estrutura física.” Santos, M. A urbanização brasileira. São Paulo: Edusp, 2008.</p>
+        <p>“É enorme o abismo que separa a produção da história dos bairros de alta renda da produção de histórias dos bairros populares. É impressionante o esforço e o empenho da sociedade em ‘fazer’ a história dos bairros mais ricos, em chocante contraste com a total negligência e pouco-caso para com a história dos bairros pobres.”</p>
+        <p>Villaça, F. Espaço intra-urbano no Brasil. São Paulo: FAPESP / Studio Nobel, 2001.</p>
+        <p>Nos dois textos, aborda-se o processo diretamente relacionado com a periferização urbana denominado:</p>
+        <p>A) verticalização urbana. ►B) segregação socioespacial. C) metropolização. D) requalificação urbana.</p>
+        <p>05 - Considere o mapa abaixo, publicado pelo IBGE.</p>
+        <p>Disponível em: https://agenciadenoticias.ibge.gov.</p>
+        <p>Considerando essa representação do globo terrestre, assinale a alternativa correta.</p>
+        <p>A) A orientação adotada altera a posição correta do globo terrestre, contrariando a convenção do Norte voltado para cima. B) O mapa preserva a forma dos países, ao tomar como base de representação uma projeção cartográfica do tipo afilática. ►C) A projeção cartográfica utilizada é do tipo equivalente, visando a preservação da proporção das áreas dos continentes. D) As coordenadas geográficas estão invertidas, resultando na representação do Brasil no topo e ao centro do mapa.</p>
+        <p>06 - O estádio Azteca, localizado na Cidade do México (19°18' N; 99°09' O), sediou a partida de abertura da Copa do Mundo FIFA 2026 no dia 11 de junho, com início às 13h00 (horário local). O jogo foi disputado entre as seleções do México e da África do Sul. Considerando os fusos horários teóricos determinados pelas coordenadas geográficas e desconsiderando horários de verão, qual o horário local em que torcedores sul-africanos na coordenada 34°24' S e 20°51' L acompanharam o início do jogo na transmissão ao vivo?</p>
+        <p>A) 5h00 B) 8h00 C) 17h00 ►D) 21h00</p>
+        <p>5/32 07 - Considere o mapa a seguir.</p>
+        <p>A mancha urbana e o Núcleo Urbano Central representados no mapa evidenciam qual fenômeno urbano?</p>
+        <p>►A) Conurbação B) Megacidades C) Megalópole D) Migração pendular</p>
+        <p>08 - A imagem ao lado tematiza um aspecto da atual geopolítica, protagonizado pelo presidente Donald Trump.</p>
+        <p>Com base na interpretação da charge e em conhecimentos sobre a conjuntura internacional recente, a imagem mostra o presidente dos Estados Unidos:</p>
+        <p>A) enviando o Brasil para intermediar acordos comerciais entre Estados Unidos e os demais países membros do BRICS. ►B) colocando o Brasil, com relação aos interesses estadunidenses, no mesmo nível de ameaça dos outros países do BRICS. C) ameaçando invadir a América do Sul, o que faz com que o Brasil busque apoio militar junto aos demais países do BRICS. D) buscando aproximação com o Brasil para evitar que este faça acordos comerciais com os outros países do BRICS.</p>
+        <p>BIOLOGIA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>- A tabela a seguir mostra a comparação entre a emissão de CO2 em duas espécies utilizadas para produção de proteína animal.</p>
+        <p>Animal Emissão média (por kg de peso vivo) Emissão média (por kg de carne produzida) Gado de corte 10–20 kg CO₂e 25–60 kg CO₂e Frango de corte 2–4 kg CO₂e 5–7 kg CO₂e</p>
+        <p>A diferença entre as espécies pode ser explicada pelo fato de o gado de corte apresentar:</p>
+        <p>A) diferente posição na cadeia alimentar. B) maior biomassa. C) menor potencial biótico. ►D) menor produtividade líquida.</p>
+        <p>Disponível em: https://umbrasil.com/wpcontent/uploads/2025/09/chargeUB-37.jpg. 6/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>- O heredograma ao lado ilustra a ocorrência de uma doença autossômica recessiva ao longo de três gerações.</p>
+        <p>O número total de indivíduos obrigatoriamente heterozigotos representados na figura é:</p>
+        <p>A) 5 B) 6 ►C) 7 D) 8</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>- A molinésia amazônica é um enigma evolutivo: é um peixe exclusivamente feminino. As fêmeas produzem descendentes idênticos, não misturando seu DNA com o de um parceiro. Pela lógica darwiniana, essa característica poderia levar à sua extinção, mas a molinésia amazônica prospera há mais de 100.000 anos em rios e lagoas de águas quentes ao longo da fronteira entre o México e o Texas. Pesquisas recentes têm identificado como a espécie tem modificado seu destino evolutivo mais provável, a extinção.</p>
+        <p>Disponível em: https://www.sciencenews.org/article/sex-skipping-fish-hacks-evolution-gene.</p>
+        <p>Pela lógica darwiniana, essa espécie teria maior risco de extinção porque:</p>
+        <p>►A) os descendentes apresentam menor variabilidade genética, favorecendo o acúmulo de mutações deletérias. B) a reprodução assexuada gera menor número de descendentes quando comparada à reprodução sexuada. C) na ausência de machos, a prole fica com menor disponibilidade de alimentos e mais exposta à predação. D) os descendentes gerados têm mais chance de se tornar estéreis, pois não se reproduzem sexuadamente.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>- Durante a fotossíntese, são processos que ocorrem independentemente da presença da luz:</p>
+        <p>A) Fixação de CO2 e síntese de O2. ►B) Síntese de carboidratos e fixação de CO2. C) Síntese de NADPH e síntese de carboidratos. D) Síntese de O2 e síntese de NADPH.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>- Vertebrados eliminam diferentes excretas nitrogenadas. Aves eliminam principalmente ácido úrico, e peixes ósseos eliminam ureia. Essas diferenças envolvem uma relação de equilíbrio entre gasto de água e consumo de energia. Em relação à ureia, a excreção de ácido úrico é um processo que:</p>
+        <p>A) demanda menos água e é metabolicamente mais simples. ►B) demanda menos água e é metabolicamente mais complexo. C) demanda mais água e é metabolicamente mais simples. D) demanda mais água e é metabolicamente mais complexo.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>- A teoria que melhor explica o deslocamento da seiva bruta pelo xilema é a teoria da coesão-tensão (teoria de Dixon). Segundo essa teoria, a seiva bruta é movida fundamentalmente pela:</p>
+        <p>A) força osmótica da raiz, que gera uma pressão positiva responsável pela subida da seiva pelos vasos do xilema. B) formação de pontes de hidrogênio, que mantém a adesão entre as moléculas de água e as paredes dos vasos. C) gutação, processo de eliminação de água por meio de hidatódios presentes nas folhas. ►D) perda da água por evaporação, que faz com que a água seja puxada até as folhas pela transpiração.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>- Um neurotransmissor que atua promovendo a abertura de canais de cloreto em um neurônio pós-sináptico desencadeará neste neurônio pós-sináptico um(a):</p>
+        <p>A) despolarização, devido à saída de íons cloreto. ►B) hiperpolarização, devido à entrada de íons cloreto. C) potencial de ação, devido à saída de íons cloreto. D) repolarização, devido à entrada de íons cloreto.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>- “A sombra do cedro vem se encostar no cocho. Primo Ribeiro levantou os ombros: começa a tremer. Com muito atraso. Mas ele tem colmeias de bichinhos maldosos, que não se misturam, soltando enxames no sangue em dias alternados. E assim nunca precisa de passar um dia sem tremer.”</p>
+        <p>Rosa, João Guimarães. Sagarana. 25. ed. Rio de Janeiro: Nova Fronteira, 2001.</p>
+        <p>O trecho do conto “Sarapalha” ilustra uma característica clínica da malária, na qual os picos de febre alta, sudorese intensa e tremores ocorrem em ciclos intermitentes. Esses acessos febris são desencadeados pela ruptura das hemácias infectadas, liberando na corrente sanguínea:</p>
+        <p>A) esporozoítos e hemozoína. B) esporozoítos e trofozoítos. ►C) merozoítos e hemozoína. D) merozoítos e trofozoítos.</p>
+        <p>7/32 HISTÓRIA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>- Considerando as formas de interação histórica entre os territórios da Grécia e do Egito na Antiguidade, é correto afirmar que esse contato:</p>
+        <p>A) expressou-se, no Período Helenístico, na supressão das instituições faraônicas e na imposição do modelo da pólis pela dinastia ptolomaica. ►B) manifestou-se, no Período Arcaico, em uma tipologia artística grega conhecida como Orientalizante, presente na decoração da cerâmica e na escultura monumental. C) traduziu-se, no Período Clássico, na fundação de colônias agrárias gregas por todo o Delta do Nilo, nos moldes da colonização do Mediterrâneo ocidental. D) extinguiu-se, no Período Romano, com a proibição dos cultos e das formas artísticas de matriz egípcia nas cidades helenizadas do Império.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>- Em 1950, foi estabelecido, na cidade alemã de Aachen, o “Prêmio Carlos Magno”, voltado para premiar aqueles que trabalhassem em prol de uma solidariedade continental. Seu primeiro ganhador, Richard von Coudenhove-Kalergi, fundador do Movimento Pan-Europeu, mencionou em seu discurso um processo de aproximação europeia que seria uma:</p>
+        <p>“[...] renovação do Império de Carlos Magno como uma confederação de nações livres [...] para transformar a Europa de um campo de batalha de recorrentes guerras mundiais em um império mundial pacífico e florescente de pessoas livres!”</p>
+        <p>Disponível em: https://www.historyextra.com/period/medieval/charlemagne-unifier-father-europe-correct-european-symbol-who-was-he/.</p>
+        <p>Em sua fala, von Coudenhove-Kalergi evocou uma leitura contemporânea e ocidentalista do período carolíngio da Alta Idade Média, buscando no passado as raízes da política do presente. Qual característica do período carolíngio embasa esse uso contemporâneo do passado europeu?</p>
+        <p>►A) O império carolíngio articulou vastos territórios da Europa Ocidental em torno de uma identidade cristã e de uma aliança com a Igreja, o que embasaria a imagem de Carlos Magno como símbolo da unificação europeia. B) O império de Carlos Magno representava o triunfo germânico sobre as estruturas do passado romano e latino, suscitando assim uma ideia de Europa focada nas porções ao norte do continente. C) A estrutura política carolíngia era baseada em formas censitárias de democracia que, apesar de restritivas, permitiriam evocar uma identidade europeia fundada na continuidade das instituições representativas desde a Antiguidade. D) Carlos Magno aboliu a escravidão e instaurou um sistema feudal de trabalho assalariado, o que sustentaria uma identidade europeia associada ao pioneirismo do continente nas liberdades econômicas e sociais.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>- Durante o século XIX, a busca por uma identidade nacional brasileira comumente passou pela figura simbólica do indígena, idealizado como um ancestral heroico. Ao mesmo tempo, a política real envolvia grandes níveis de violência e exclusão social, política e cultural. Durante o período imperial, essa dualidade pode ser vista em duas dimensões:</p>
+        <p>A) no Condoreirismo e nos levantes populares, como o do Vintém. B) no Parnasianismo e nos conflitos litorâneos, como a Questão Christie. ►C) no Romantismo e em episódios de repressão, como a Cabanagem. D) no Naturalismo e em momentos de violência militar, como o Massacre de Porongos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>- A estruturação do processo colonial nos espaços do chamado “Novo Mundo” forçou a criação de mecanismos de controle e administração por parte das metrópoles ibéricas, que agora precisavam manejar não apenas seus espaços políticos europeus, mas também suas novas ambições além-mar. Nesse sentido, durante os séculos XVI e XVII, a produção de açúcar se tornou pilar da organização social e econômica da América Portuguesa. Sobre a economia açucareira e os grupos sociais que se relacionavam com ela no Nordeste da colônia brasileira, é correto afirmar que:</p>
+        <p>A) a produção era parte da lógica de abastecimento dos empreendimentos colonizadores no interior do território, empregando principalmente conhecimentos indígenas. B) a comercialização e distribuição do açúcar era gerenciada pelos senhores de engenho, cuja autonomia econômica havia sido garantida pelo sistema de capitanias. ►C) a ênfase produtiva era focada nos mercados europeus, cuja racionalização econômica também era dependente da utilização de africanos escravizados. D) a manutenção do sistema de engenhos demandava que o plantio de açúcar convivesse com policulturas de subsistência familiar nos espaços latifundiários.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>- Leia o excerto a seguir, retirado da Declaração de Independência dos Estados Unidos, assinada em 1776:</p>
+        <p>Consideramos estas verdades evidentes por si mesmas: que todos os homens são criados iguais; que são dotados pelo Criador de certos direitos inalienáveis; que entre estes estão a vida, a liberdade e a busca da felicidade.</p>
+        <p>Disponível em: https://www.archives.gov/founding-docs/declaration-transcript.</p>
+        <p>A partir do trecho e dos conhecimentos de História da América e História Moderna, assinale a alternativa que identifica corretamente o movimento intelectual que embasa a Declaração e uma contradição entre seus princípios e o funcionamento político da nova nação.</p>
+        <p>A) O Renascimentismo, embora a Declaração o contradiga em seus princípios humanistas ao fundamentar os direitos em uma criação divina, e não na razão secular. B) O Despotismo Esclarecido, embora a Declaração o contradiga ao substituir a figura centralizadora do rei pela de um presidente eleito. C) O Mercantilismo, embora a Declaração o contradiga ao exaltar a liberdade enquanto as Treze Colônias mantinham o comércio regulado pela metrópole. ►D) O Iluminismo, embora a Declaração o contradiga ao proclamar a igualdade natural dos homens enquanto se mantinha a escravização das pessoas afrodescendentes.</p>
+        <p>8/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>- Entre os anos de 1889 e 1930, o Brasil pós-imperial passou por uma série de transformações políticas motivadas por variadas tensões sociais. Na historiografia, esse período é conhecido como “Primeira República”. Sobre seu fim, é correto afirmar que foi precipitado pela:</p>
+        <p>►A) insatisfação dos setores médios urbanos, dos militares e de oligarquias dissidentes, o que levou ao desgaste das forças políticas do eixo São Paulo/Minas Gerais. B) vitória eleitoral inédita da Aliança Liberal, um partido fora do eixo “Café com Leite”, que tomou posse da presidência da República por meio de eleições diretas. C) ação organizada do PCB – Partido Comunista do Brasil –, que liderou trabalhadores urbanos em grandes greves que desestabilizaram a força latifundiária da República Velha. D) influência dos Estados Unidos, que via a agricultura cafeicultora do Brasil como uma ameaça econômica à produção dos latifundiários norte-americanos.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>- Com sua primeira assembleia geral ocorrida em 1946, a ONU foi idealizada como um órgão internacional de manutenção da paz e do desenvolvimento global em um contexto de reorganização do mundo pós-Segunda Guerra Mundial. Dois anos depois, a organização tipificou o crime de genocídio – uma definição invocada ainda hoje em tribunais internacionais. Sobre a tipificação de genocídio, é correto afirmar que:</p>
+        <p>A) relacionou-se à continuidade da violência colonial na África após o fim da Segunda Guerra. ►B) restringiu a tipificação às categorias nacional, étnica, racial e religiosa, deixando de fora grupos políticos e sociais. C) considerou a violência contra os armênios como o primeiro genocídio do século XX. D) classificou o uso de armas nucleares e bombardeios em áreas civis como forma de genocídio.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>- Em 1976, estudantes negros sul-africanos protestaram contra a imposição governamental do africâner como língua de ensino e, como resposta, foram severamente reprimidos, com uma estimativa de mais de 170 jovens assassinados pela polícia. Esse episódio ficou conhecido como “Levante de Soweto” e se insere no contexto do regime do Apartheid. Assinale a alternativa que relaciona corretamente o Levante de Soweto à lógica de funcionamento do regime do Apartheid.</p>
+        <p>A) O protesto estudantil voltava-se contra a política de Bantustões, que obrigava os jovens negros a estudar exclusivamente nas “reservas” designadas pelo governo britânico. ►B) A imposição do africâner no ensino expressava a hierarquização racial do regime, que negava à maioria negra o acesso à educação em condições de igualdade, reservando-lhe uma formação limitada e subordinada. C) A repressão ao levante decorreu do caráter socialista do movimento estudantil, que ameaçava a aliança do regime com o bloco soviético durante a Guerra Fria. D) O uso do africâner nas escolas visava integrar os estudantes negros à cidadania plena, e a revolta expressou a resistência tribal a esse projeto modernizador.</p>
+        <p>FÍSICA</p>
+        <p>Em todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Onde for necessário, use g = 10 m/s2 para o módulo da aceleração gravitacional.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>- Um automóvel percorre um trajeto de 180 km num intervalo de tempo de duas horas e trinta minutos. Assinale a alternativa que apresenta corretamente o valor da velocidade escalar média 𝒗𝒎 do automóvel nesse trajeto em m/s.</p>
+        <p>A) 200 ►B) 20 C) 2,0</p>
+        <p>D) 0,2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>- Uma mola apresenta um comportamento elástico que segue a lei de Hooke. Ela tem uma constante elástica de mola 𝒌 e massa desprezível. A mola foi tracionada por uma força de intensidade 𝑭, e teve seu comprimento 𝑳 medido para diferentes valores de 𝑭, conforme representa o gráfico 𝑭× 𝑳 mostrado ao lado. Com base no enunciado e no gráfico, assinale a alternativa que apresenta corretamente o valor da constante elástica 𝒌 dessa mola.</p>
+        <p>►A) 9,0 N/m B) 6,0 N/m C) 0,9 N/m D) 0,6 N/m</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>- Um dado capacitor tem uma capacitância 𝑪𝟏. Quando nele é colocada uma carga 𝑸𝟏, ele armazena uma energia potencial elétrica 𝑼𝟏. Um segundo capacitor tem uma capacitância 𝑪𝟐 e armazena uma energia potencial elétrica 𝑼𝟐 quando é carregado com uma carga 𝑸𝟐. Considerando que 𝑸𝟐= 𝟐𝑸𝟏, determine a razão 𝑪𝟏/𝑪𝟐 entre as capacitâncias de tal modo que a energia potencial elétrica armazenada nos capacitores seja a mesma.</p>
+        <p>A) 1 2 B) 1 ►C) 1 4 D) 2</p>
+        <p>9/32 O texto a seguir é referência para as questões 28 e 29.</p>
+        <p>Um objeto de massa 𝒎 está se movendo sobre uma linha reta em movimento retilíneo uniformemente variável. A velocidade 𝒗 do objeto, em função do tempo 𝒕, está representada graficamente abaixo. Sabe-se que a massa do objeto é constante e vale 𝒎= 𝟎, 𝟓 kg.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>- Assinale a alternativa que apresenta corretamente o valor da energia cinética 𝑬𝒄 do objeto no instante 𝒕= 𝟔 𝒔.</p>
+        <p>►A) 36 J B) 72 J C) 18 J D) 144 J</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>- Assinale a alternativa que apresenta corretamente o valor da intensidade 𝑭 da força resultante sobre o objeto no instante 𝒕= 𝟒 𝒔.</p>
+        <p>A) 4 N B) 2 N ►C) 1 N D) 0,5 N</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>- Um aparato produz ondas num meio de modo que o período 𝑻 das ondas e o respectivo comprimento de onda 𝝀 são organizados na forma do gráfico ao lado. Assinale a alternativa que expressa corretamente o valor da velocidade 𝒗 das ondas nesse meio para as ondas que têm período 𝑻= 𝟒𝟎 s.</p>
+        <p>A) 0,4 cm/s ►B) 2,5 cm/s C) 250 cm/s D) 4000 cm/s</p>
+      </statement>
+    </essay_question>
+    <essay_question number="31">
+      <statement>
+        <p>- Uma dada massa de gás ideal executa os processos termodinâmicos apresentados no gráfico 𝑷× 𝑽 ao lado, em que 𝑷 é a pressão e 𝑽 é o volume. O processo 1 ocorre entre os estados A e B do gráfico, e o processo 2 ocorre entre os estados B e C. No processo 1, o gás realiza um trabalho 𝑾𝟏, e, no processo 2, o trabalho realizado vale 𝑾𝟐. Assinale a alternativa que apresenta corretamente o valor da razão 𝑾𝟏/𝑾𝟐 entre os trabalhos realizados.</p>
+        <p>A) 1 ►B) 5 4 C) 4 5 D) 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="32">
+      <statement>
+        <p>- Numa certa região do espaço, há um campo magnético de intensidade 𝑩= 𝟑, 𝟎 T. Uma partícula com carga 𝑸= 𝟑, 𝟐× 𝟏𝟎−𝟏𝟗 C entra nessa região com uma velocidade de intensidade 𝒗= 𝟐, 𝟎× 𝟏𝟎𝟔 m/s. O ângulo entre os vetores velocidade e campo magnético no instante de entrada vale 𝜽. Sabe-se que 𝒔𝒆𝒏 𝜽= 𝟏 𝟑 e 𝒄𝒐𝒔 𝜽= 𝟐√𝟐 𝟑. Assinale a alternativa que apresenta corretamente a intensidade da força magnética 𝑭 que surge sobre a partícula carregada ao entrar na região onde existe o campo magnético.</p>
+        <p>A) 38,4 × √2 × 10−13 N B) 19,2 × 10−13 N C) 12,8 × √2 × 10−13 N ►D) 6,4 × 10−13 N</p>
+        <p>10/32 QUÍMICA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="33">
+      <statement>
+        <p>- Uma solução contendo os íons Br− e I− foi distribuída em quatro tubos de ensaio e, em cada um deles, foi adicionada uma das seguintes soluções: Ce4+, Cu3+, Fe3+ e Pb2+. Na análise do conteúdo de um desses tubos, observou-se que o I− foi oxidado e que o Br− permaneceu inalterado. A tabela ao lado mostra os potenciais padrões de redução dos reagentes citados.</p>
+        <p>Considerando as informações apresentadas, que reação química ocorreu no tubo analisado?</p>
+        <p>A) Pb2+ + 2 I− → Pb + I2 B) 2 Ce4+ + 2 I− → 2 Ce3+ + I2 ►C) 2 Fe3+ + 2 I− → 2 Fe2+ + I2 D) 2 Cr3+ + 2 I− → 2 Cr2+ + I2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="34">
+      <statement>
+        <p>- O ácido piválico ou ácido 2,2-dimetilpropanoico [(CH3)3CCO2H], um reagente empregado na indústria química, se dissocia em solução aquosa segundo a equação química:</p>
+        <p>(CH3)3CCO2H ⇌ (CH3)3CCO2− + H+</p>
+        <p>Foi medido o pH de uma solução de ácido piválico 0,1 mol L−1 e o valor encontrado foi 3. Considerando as informações apresentadas, qual é o valor da constante de dissociação ácida Ka do ácido piválico?</p>
+        <p>A) 1,0×10−6 ►B) 1,0×10−5 C) 1,0×10−4 D) 1,0×10−2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="35">
+      <statement>
+        <p>- O pósitron (e+) é uma partícula subatômica semelhante ao elétron (e−), exceto por ter carga elétrica positiva. Na tomografia de emissão de pósitrons, injeta-se um radionuclídeo emissor de pósitrons no paciente para diagnosticar tumores. Um dos nuclídeos usados nesse exame é o flúor-18, cujo núcleo contém 9 prótons e 9 nêutrons. Ao emitir um pósitron, o flúor-18 produz o oxigênio-18 com 8 prótons e 10 nêutrons, conforme a equação:</p>
+        <p>189F → 188O + e+</p>
+        <p>O flúor-18 é produzido por bombardeamento do nuclídeo A com núcleo do hidrogênio, conforme a equação a seguir. Um nêutron também é produzido.</p>
+        <p>A + 11H → 189F + n</p>
+        <p>Considerando as informações apresentadas, qual é o número exato de prótons e de nêutrons no nuclídeo A?</p>
+        <p>►A) 8 prótons e 10 nêutrons B) 9 prótons e 9 nêutrons C) 9 prótons e 10 nêutrons D) 10 prótons e 8 nêutrons</p>
+      </statement>
+    </essay_question>
+    <essay_question number="36">
+      <statement>
+        <p>- Grupos funcionais são arranjos específicos de átomos ligados a uma cadeia carbônica. São os grupos funcionais que conferem propriedades químicas características às moléculas. Por outro lado, funções orgânicas são classes de compostos definidas pela presença desses grupos funcionais em sua estrutura. Assinale a alternativa que apresenta apenas grupos funcionais.</p>
+        <p>A) Álcool, enol, fenol. B) Anidrido, amida, éster. C) Amina, nitrila, nitrocompostos. ►D) Hidroxila, ciano, amino.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="37">
+      <statement>
+        <p>- Isômeros são compostos que possuem a mesma fórmula molecular, mas diferem na conectividade (isomeria estrutural, planar ou constitucional) ou no seu arranjo espacial (estereoisomeria) dos átomos. Ao lado estão apresentadas duas moléculas (A e B).</p>
+        <p>Considerando as representações estruturais dos compostos, é correto afirmar que A e B são:</p>
+        <p>A) isômeros de posição. ►B) um par de enantiômeros. C) um par de diastereoisômeros. D) a mesma molécula representada de maneira diferente.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="38">
+      <statement>
+        <p>- O ácido acético (CH3CO2H) reage com etanol (CH3CH2OH), formando acetato de etila (CH3CO2CH2CH3) e água (H2O), conforme a equação:</p>
+        <p>CH3CO2H (l) + CH3CH2OH (l) → CH3CO2CH2CH3 (l) + H2O (l)</p>
+        <p>Em um experimento, foram adicionados 60 g de ácido acético e 46 g de etanol. Ao final da reação, o rendimento foi de 80%. Qual foi o volume de acetato de etila líquido obtido?</p>
+        <p>Massas molares (g mol–1): Ácido acético = 60; Etanol = 46; Acetato de etila = 88; Água = 18. Densidade (g mL–1 a 25 ºC): Ácido acético = 1,05; Etanol = 0,79; Acetato de etila = 0,90; Água = 1,00.</p>
+        <p>A) 100 mL B) 88 mL ►C) 78 mL D) 70 mL Semirreação E0 / V Br2 + 2 e− → 2 Br− +1,09 Ce4+ + e− → Ce3+ +1,72 Cr3+ + e− → Cr2+ −0,41 Fe3+ + e− → Fe2+ +0,77 I2 + 2 e− → 2 I− +0,54 Pb2+ + 2 e− → Pb −0,13</p>
+      </statement>
+    </essay_question>
+    <essay_question number="39">
+      <statement>
+        <p>- Os conversores catalíticos presentes nos escapamentos dos automóveis são projetados para reduzir a emissão de gases poluentes na atmosfera. Nesses dispositivos, o dióxido de nitrogênio (NO2), um gás tóxico e irritante, reage com o monóxido de carbono (CO), gerando substâncias menos nocivas à saúde humana. A equação química global para esse processo em fase gasosa é:</p>
+        <p>NO2(g) + CO(g) → NO(g)+ CO2(g)</p>
+        <p>Para compreender o mecanismo de atuação dos catalisadores, cientistas estudaram a cinética dessa reação a uma temperatura constante de 450 K e diferentes concentrações iniciais dos reagentes, obtendo os seguintes dados experimentais:</p>
+        <p>Experimento [NO2]/ 10–1 mol L–1 [CO]/ 10–1 mol L–1 Velocidade Inicial/ 10–4 mol L–1 s–1 I 1,0 1,0 1,2 II 2,0 1,0 4,8 III 1,0 2,0 1,2</p>
+        <p>Com base nesses dados, assinale a alternativa que apresenta a lei de velocidade para essa reação.</p>
+        <p>A) v = k [NO2] ►B) v = k [NO2]2</p>
+        <p>C) v = k [CO][NO2] D) v = k [CO][NO2]4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="40">
+      <statement>
+        <p>- O grafeno consiste em uma única camada bidimensional de átomos de carbono organizados em uma rede hexagonal regular. Nele, os orbitais híbridos sp2 do carbono se combinam para formar ligações covalentes sigma (σ) fortes, enquanto os orbitais p puros se sobrepõem lateralmente para formar ligações pi (π), criando uma nuvem eletrônica deslocalizada que se estende por toda a folha.</p>
+        <p>Com base nas informações apresentadas, a alta resistência mecânica e a condutividade elétrica do grafeno são propriedades decorrentes, respectivamente, das interações entre os orbitais:</p>
+        <p>A) p─p e p─p B) p─p e sp2─sp2 C) sp2─sp2 e sp2─sp2 ►D) sp2─sp2 e p─p</p>
+        <p>MATEMÁTICA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="41">
+      <statement>
+        <p>- Uma sorveteria oferece 20 sabores diferentes de sorvete. Um cliente deseja montar uma casquinha com duas bolas de sorvete. Sabendo que é permitido escolher o mesmo sabor para as duas bolas e que a ordem dos sabores das bolas não é relevante, a casquinha pode ser montada de quantas maneiras diferentes?</p>
+        <p>A) 190 ►B) 210 C) 380 D) 400</p>
+      </statement>
+    </essay_question>
+    <essay_question number="42">
+      <statement>
+        <p>- Assinale a alternativa que corresponde à soma de todos os números inteiros que satisfazem a inequação 𝟓𝒙 𝒙−𝟑≤𝟏.</p>
+        <p>A) 0 B) 2 ►C) 3 D) 6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="43">
+      <statement>
+        <p>- O quociente entre as áreas dos retângulos 𝑬𝑭𝑮𝑯 e 𝑨𝑩𝑪𝑫, representados na figura, é igual a 81/16. Sabendo que as medidas dos segmentos 𝑨𝑩, 𝑩𝑪, 𝑬𝑭 e 𝑭𝑮, nessa ordem, formam uma progressão geométrica crescente, assinale a alternativa que indica o valor da razão dessa progressão.</p>
+        <p>A) 9 4 B) 9 2 C) 4 3 ►D) 3 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="44">
+      <statement>
+        <p>- Para confeccionar uma peça decorativa, um artesão realiza cortes planos em um cubo. Cada corte plano passa pelos pontos médios das três arestas concorrentes em um mesmo vértice, removendo o tetraedro correspondente. Na figura a seguir temos inicialmente o cubo. Após a primeira seta, na segunda figura, é indicado o primeiro corte, com destaque para o tetraedro removido. Esse procedimento é repetido nos demais vértices do cubo original, resultando no sólido representado após a segunda seta, na terceira figura.</p>
+        <p>Assinale a alternativa que apresenta a razão entre o volume do cubo original e o volume do sólido obtido após os cortes planos.</p>
+        <p>A) 3/2 ►B) 6/5 C) 4/3 D) 12/5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="45">
+      <statement>
+        <p>- Para todo número real 𝒙, uma função 𝒇 satisfaz a seguinte igualdade:</p>
+        <p>𝒇(𝟐𝟒𝒙−𝟏 ) = 𝟏 𝟏+ 𝒙𝟐</p>
+        <p>Assinale a alternativa que representa o valor 𝒇( 𝟏 𝟖).</p>
+        <p>►A) 4 5 B) 2 5</p>
+        <p>C) 4 3 D) 2 3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="46">
+      <statement>
+        <p>- As expressões descritas a seguir formam, na ordem dada, uma progressão aritmética:</p>
+        <p>𝒍𝒐𝒈𝟐(𝒙+ 𝟏), 𝒍𝒐𝒈𝟐(𝒙+ 𝟑), 𝒍𝒐𝒈𝟐(𝟑𝒙−𝟏)</p>
+        <p>Assinale a alternativa que corresponde ao valor de 𝒙.</p>
+        <p>A) 3 B) 1+√2</p>
+        <p>C) 1+√3 ►D) 1+√6</p>
+      </statement>
+    </essay_question>
+    <essay_question number="47">
+      <statement>
+        <p>- Os gráficos das funções 𝒇(𝒙) e 𝒈(𝒙) são parábolas no plano 𝒙𝒚. Sabendo que 𝒈(𝒙) = 𝒇(−𝒙+ 𝟑) −𝟐, para todo número real 𝒙, e que o vértice do gráfico da função 𝒈(𝒙) tem coordenadas (−𝟐, 𝟓), assinale a alternativa que corresponde às coordenadas do vértice do gráfico de 𝒇(𝒙).</p>
+        <p>A) (1,7) B) (5,3) ►C) (5,7) D) (7,5)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="48">
+      <statement>
+        <p>- Considere a circunferência de equação 𝒙𝟐+ 𝒚𝟐−𝟐𝒙−𝟒𝒚+ 𝟒= 𝟎 e a reta de equação 𝒙+ 𝒚= 𝒃, ambas contidas no plano cartesiano 𝒙𝒚. Assinale a alternativa correspondente à soma de todos os valores de 𝒃 para os quais a reta é tangente à circunferência.</p>
+        <p>A) 4 ►B) 6 C) 8 D) 10</p>
+        <p>LITERATURA BRASILEIRA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="49">
+      <statement>
+        <p>- Noite na Taverna, de Álvares de Azevedo, de 1855, e Eu, de Augusto dos Anjos, de 1912, apresentam semelhanças e diferenças. Leia, a seguir, um trecho de cada obra.</p>
+        <p>Depois...escuta...tenho tanto a dizer-te! tantas lágrimas a derramar no teu colo! Vem! e dir-te-ei toda a minha história! Minhas ilusões de amante, as noites malditas da crápula, e o tédio que me inspiravam aqueles beiços frios das vendidas que me beijavam! Vem! contar-te-ei tudo isto; dir-te-ei como profanei minha alma e meu passado, e choraremos juntos – e nossas lágrimas nos lavarão como a chuva lava as folhas do lodo!</p>
+        <p>Azevedo, Álvares de. Noite na Taverna. São Paulo. Via Leitura. 2025. p. 62.</p>
+        <p>Psicologia de um vencido</p>
+        <p>Eu, filho do carbono e do amoníaco, Monstro de escuridão e rutilância, Sofro, desde a epigênesis da infância, A influência má dos signos do zodíaco.</p>
+        <p>Profundissimamente hipocondríaco, Este ambiente me causa repugnância... Sobe-me à boca uma ânsia, análoga à ânsia Que se escapa da boca de um cardíaco.</p>
+        <p>Já o verme — este operário das ruínas — Que o sangue podre das carnificinas Come, e à vida, em geral, declara guerra,</p>
+        <p>Anda a espreitar meus olhos para roê-los, E há de deixar-me apenas os cabelos, Na frialdade inorgânica da terra!</p>
+        <p>Anjos, Augusto dos. Eu e Outras Poesias. São Paulo; Martin Claret. 2001, p. 32.</p>
+        <p>Considerando os excertos selecionados e a integridade das duas obras, assinale a alternativa correta.</p>
+        <p>A) O poema descreve de forma genérica as dores da espécie humana em contraponto com o trecho de Azevedo, em que a dor particular do narrador é contada na estrutura de um monólogo. B) A linguagem coloquial do poema é empregada para tematizar os fatos cotidianos que são retratados, já o vocabulário rebuscado de Azevedo disfarça a ausência de narrativas no livro. C) A aprovação dos valores morais da humanidade é exemplificada pelas narrativas do livro de Azevedo, assim como pela opção por uma vertente sublime da poesia em Augusto dos Anjos. ►D) Nos tercetos do poema, um conjunto de ações é atribuído pelo eu-lírico a um outro ser, e, no trecho em prosa, o narrador se dirige a um possível interlocutor que o escuta.</p>
+        <p>13/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="50">
+      <statement>
+        <p>- Leia o trecho a seguir, extraído da obra Poema Sujo, de Ferreira Gullar.</p>
+        <p>Meu corpo que deitado na cama vejo como um objeto no espaço que mede 1,70 m e que sou eu: essa coisa deitada barriga pernas e pés com cinco dedos cada um (por que não seis?) joelhos e tornozelos para mover-se sentar-se levantar-se</p>
+        <p>meu corpo de 1,70 m que é meu tamanho no mundo meu corpo feito de água e cinza [...]</p>
+        <p>Corpo meu corpo corpo que tem um nariz assim uma boca dois olhos e um certo jeito de sorrir de falar que minha mãe identifica como sendo de seu filho que meu filho identifica como sendo de seu pai corpo que se para de funcionar provoca um grave acontecimento na família: sem ele não há José de Ribamar Ferreira não há Ferreira Gullar e muitas pequenas coisas acontecidas no planeta estarão esquecidas para sempre</p>
+        <p>Gullar, Ferreira. Poema sujo. São Paulo: Cia das Letras, 2016. p. 38-39.</p>
+        <p>Considerando a integralidade da obra e o trecho destacado, assinale a alternativa correta.</p>
+        <p>A) Os substantivos escolhidos para descrever o corpo do eu-lírico, nesse trecho, exemplificam a idealização do ser humano presente em todo o poema. ►B) Os versos do trecho são marcados pela metrificação irregular e pela repetição de vocábulos, que produzem um efeito sonoro. C) O eu-lírico afirma que o seu corpo é feito de substâncias imateriais, reiterando o caráter etéreo do poeta e da poesia, presente em todo o poema. D) O emprego de rimas alternadas e de metáforas para definir o corpo, no trecho, exemplificam a dimensão onírica predominante no poema.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="51">
+      <statement>
+        <p>- As ações dos romances A falência, de Júlia Lopes de Almeida, e O quinze, de Rachel de Queiroz, se passam em um momento de mudanças no Brasil, entre a Proclamação da República e a Primeira Guerra Mundial. Entre essas mudanças, destaca-se a das condições de vida das mulheres, questão importante para ambas as obras. Assinale a alternativa correta no que diz respeito à questão feminina nos dois livros.</p>
+        <p>►A) Tanto Conceição, de O quinze, que não se casa mesmo sentindo que algo lhe falta, quanto Camila, de A falência, que busca trabalhar após saber que não poderá se casar, são figuras de transição dos valores tradicionais para os modernos. B) As personagens femininas mais pobres, como Noca e Nina, de A falência, ou Cordulina e Mocinha, de O quinze, têm sua situação econômica agravada porque, sendo mulheres, são impedidas de trabalhar para obter renda. C) Dona Inácia, avó de Conceição em O quinze, assim como dona Joana, tia de Camila em A falência, apesar de mais velhas, revoltam-se contra o controle que a religião exerce sobre os destinos das mulheres naquela época. D) As personagens femininas negras, como Josefa, de O quinze, e Sancha, de A falência, são respeitadas pelas personagens brancas, numa demonstração de solidariedade entre as mulheres que é marca de modernidade de ambos os livros.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="52">
+      <statement>
+        <p>- Um século e meio separam a primeira encenação de O demônio familiar (1857) e a publicação de O drible (2013). Tanto no teatro de José de Alencar quanto no romance de Sérgio Rodrigues, podemos acompanhar a trajetória de personagens negros. Sobre esse aspecto, assinale alternativa correta.</p>
+        <p>A) Em O demônio familiar, a malícia e as artimanhas de Pedro são punidas com rigor, razão pela qual seu grande sonho é ser vendido para outra família. B) Em O drible, as surras em Neto são motivadas pela grosseria e pelo desrespeito com que trata Conceição, funcionária da casa e amante de Murilo Filho. ►C) No romance de Rodrigues, a ascendência negra de Neto é sinalizada já nas páginas iniciais a partir do apelido preconceituoso utilizado por Murilo Filho. D) Na peça de Alencar, “negrinho” é a expressão utilizada por Eduardo para se referir genericamente a Pedro e aos outros personagens escravizados.</p>
+        <p>14/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="53">
+      <statement>
+        <p>- Leia a seguir o primeiro parágrafo de “O mistério da vila”, um dos treze contos publicados por Geovani Martins em 2018, na obra O sol na cabeça.</p>
+        <p>Depois da chuva que veio – bem na hora certa – refrescar a noite quente, o Ruan, a Thaís e o Matheus voltaram voados pra rua, querendo sentir o vento que andava sumido desde a chegada do verão. No final da vila onde se encontraram, mora dona Iara, uma das senhoras mais antigas da rua, que já vê a terceira geração de sua família crescer no pedaço de terra que ajudou a desbravar. Vem de lá o cheiro de macumba.</p>
+        <p>Martins, Geovani. O mistério da vila. In. O sol na cabeça. São Paulo: Companhia das Letras, 2018, p. 91.</p>
+        <p>O conto de Geovani Martins tem como pano de fundo:</p>
+        <p>A) o contraste entre a segurança do espaço sagrado – a sala da casa de Dona Iara, ambiente central do enredo – e o espaço da rua, marcado pela violência diária da cidade grande, que afeta as brincadeiras infantis. ►B) a convivência do sincretismo religioso com o crescimento de igrejas com diferentes orientações religiosas nas últimas décadas, flagrando mudanças importantes que vêm ocorrendo na sociedade brasileira. C) o clima sobrenatural de que são revestidos os terreiros, por meio das visitas diárias que as crianças da vila fazem furtivamente à casa de Dona Iara para cultuar os orixás e que são mantidas em segredo. D) a introdução das religiões de matriz africana no Brasil, a partir do relato no qual Dona Iara conta, para as três crianças, detalhes da trajetória de vida que culmina em sua transformação em mãe de santo.</p>
+        <p>FILOSOFIA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="54">
+      <statement>
+        <p>- “Os dados obtidos em amplas investigações empíricas sobre atitudes e comportamentos políticos, realizadas na maioria dos países ocidentais nos últimos vinte ou trinta anos, revelaram que a característica mais notável da maior parte dos cidadãos, principalmente os de grupos de condição socioeconômica baixa, é uma falta de interesse generalizada em política e por atividades políticas.” (Pateman, 2009, p. 11)</p>
+        <p>O trecho acima, retirado da obra Participação e teoria democrática, de Carole Pateman, aborda um aspecto que levou a autora a defender que a democracia:</p>
+        <p>►A) consiste numa sociedade em que há ampla participação. B) constitui um arranjo institucional para se chegar a decisões políticas. C) é um sistema político que amortece o choque das discordâncias. D) é incompatível com ambientes hierarquizados de socialização.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="55">
+      <statement>
+        <p>- Com a narrativa do mito de Er, ao final de A República, Platão:</p>
+        <p>A) conclui a obra mostrando de forma alegórica no que consiste, afinal, a Justiça. ►B) ressalta a importância de se definir critério para distinguir as boas e as más escolhas. C) defende que as escolhas presentes devem ser feitas com base na experiência passada. D) mostra de que forma o desenvolvimento de bons hábitos dá lugar a boas escolhas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="56">
+      <statement>
+        <p>- No livro Dispositivo de Racialidade, Sueli Carneiro afirma que o epistemicídio constitui um dos elementos centrais do dispositivo de racialidade, sendo responsável pela produção de uma “razão racializada”. Diante desse processo de exclusão e deslegitimação de saberes, o que a autora propõe para o enfrentamento do epistemicídio nas instituições de ensino superior?</p>
+        <p>A) A promoção da pacificação social por meio do apagamento das tensões e dos conflitos raciais, afirmando a ideia de democracia racial. B) A defesa de uma estratégia anti-intelectualista, já que o trabalho intelectual é também marcado pelo dispositivo de racialidade. C) A busca por reconhecimento acadêmico pela demonstração da excelência de estudantes negros segundo os paradigmas da racionalidade ocidental. ►D) A constituição de espaços institucionais próprios que possam referenciar e apoiar a trajetória intelectual das pessoas negras.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="57">
+      <statement>
+        <p>- Considere o seguinte texto:</p>
+        <p>“Admito, com sinceridade, que, ao formular minhas propostas, fui guiado por juízos de valor e por algumas predileções de ordem pessoal. Mas espero que as propostas se tornem aceitáveis para os que apreciam não só o rigor lógico, mas também a ausência de dogmatismos; para os que se importam com as aplicações práticas, mas se interessam ainda mais pelas aventuras da ciência, pelas descobertas que, uma após outra, nos acareiam com novas e inesperadas perguntas, obrigando-nos a tentar encontrar respostas novas e insupeitadas.” Popper, Karl. A Lógica da Pesquisa Científica. São Paulo: Editora Cultrix, 2008. cap. 1, p. 39.</p>
+        <p>Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente uma das propostas de Popper.</p>
+        <p>A) As ciências empíricas se caracterizam pelo fato de empregarem métodos indutivos, de maneira que a lógica da pesquisa científica se identifica com a lógica indutiva. B) O critério de demarcação entre a ciência empírica e a metafísica consiste no significado dos enunciados, razão pela qual, não sendo possível determinar se um enunciado é verdadeiro, o seu significado se confunde com o método de sua verificação. ►C) As teorias científicas nunca são inteiramente justificáveis ou verificáveis, de modo que a objetividade dos enunciados reside na circunstância de poderem ser intersubjetivamente submetidos a teste. D) O objetivo da análise lógica do conhecimento é descobrir um método de invenção de ideias claras e distintas, e esse método se baseia em uma lógica dedutiva. 15/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="58">
+      <statement>
+        <p>- Ao se comparar a análise de Rousseau na segunda parte do Discurso sobre a origem e os fundamentos da desigualdade entre os homens com a discussão de Sueli Carneiro, no livro Dispositivo de racialidade, é possível identificar uma aproximação entre os autores. Essa aproximação consiste na ideia de que:</p>
+        <p>A) as desigualdades sociais e raciais decorrem principalmente de capacidades e características inerentes aos diferentes grupos humanos. B) a dominação se estabelece por meio da força física e desconsidera os mecanismos simbólicos de legitimação. ►C) as relações de desigualdade raciais e sociais são historicamente produzidas e dependem de processos que as naturalizam. D) tanto Sueli Carneiro quanto Jean-Jacques Rousseau acreditam no progresso das ciências, das instituições políticas e da educação.</p>
+        <p>SOCIOLOGIA</p>
+      </statement>
+    </essay_question>
+    <essay_question number="59">
+      <statement>
+        <p>- “Uma vez que Weber entende que o social se constrói a partir das ações individuais, cria-se um problema teórico: como é possível a continuidade da vida social? A resposta para tal questão encontra-se no fundamento da organização social, chave do verdadeiro problema sociológico: a dominação ou a produção da legitimidade, da submissão de um grupo a um mandato. É fundamental, então, distinguir os conceitos de poder e dominação.”</p>
+        <p>Quintaneiro, T.; Barbosa, M. L. de O.; Oliveira, M. G. M. de. Um toque de clássicos: Marx, Durkheim e Weber.Belo Horizonte: Editora UFMG, 2003. p. 119-120.</p>
+        <p>Considerando o conceito weberiano de dominação apresentado pelas autoras, é correto afirmar:</p>
+        <p>►A) A dominação pode ser compreendida a partir de três tipos ideais que permitem compreender a organização social: os tipos carismático, legal e tradicional. B) A dominação decorre de um processo de coesão social fundada numa racionalidade objetiva que visa transformar a sociedade democrática numa sociedade autoritária. C) Os tipos carismático e legal são formas complementares de dominação que buscam explicar um tipo de sociedade com características eurocêntricas. D) O poder como forma simbólica de exercício da dominação é inerente às sociedades de perfil socialista, que visam manter uma estrutura de poder autoritária.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="60">
+      <statement>
+        <p>- “Os estudos de gênero operam um corte que interrompe a linearidade narrativa, explicando o caráter relativo e arbitrário da circunscrição de certos temas e procedimentos, instituindo a possibilidade de afetar parâmetros pelos quais a sociologia opera. Talvez seja preciso interrogar a relação entre as pioneiras da sociologia, o cânone, a ideia de clássico e, sobretudo de que modo tudo isso afeta o cotidiano da sociologia em nossos dias. [...] Caracterizar uma autora como pioneira da sociologia não é o mesmo que considerá-la uma clássica. [...] Um dos principais caminhos para que isso possa ocorrer é a inclusão da autora ou do autor no cânone, isto é, no conjunto de referências consideradas obrigatórias por uma determinada comunidade intelectual, cujo papel se faz sentir, sobretudo nos processos de formação das novas gerações e, assim, colocam uma série de textos como referências compartilhadas que serão merecedoras de atenção.”</p>
+        <p>Daflon, V. T.; Sorj, B. (orgs.). Clássicas do pensamento social: mulheres e feminismos no século XIX. Rio de Janeiro: Rosa dos Tempos, 2021. p. 11-12.</p>
+        <p>Considerando a relação entre o pensamento social clássico e a abordagem a partir da perspectiva de gênero, assinale a alternativa correta.</p>
+        <p>A) Investigar as sociólogas pioneiras ajuda a evidenciar que, nos séculos XVIII e XIX, suas pesquisas introduziram poucas inovações relevantes na análise sociológica hegemônica. B) O recorte de gênero é relativamente determinante no trabalho teórico realizado por homens, reproduzindo a hegemonia da agenda de pesquisa sociológica entre os séculos XVIII e XIX. ►C) As reflexões desenvolvidas pelas primeiras sociólogas não apenas ampliaram a presença da produção intelectual feminina no cânone da sociologia, como permitiram diversificar o repertório de temas na análise dos problemas sociais. D) A discussão em torno do papel da literatura canônica da sociologia é importante porque demonstra como o pensamento clássico ainda é pertinente, sobretudo quando este evoca a noção de tradição.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="61">
+      <statement>
+        <p>- “No Brasil, o sistema escravocrata transformou-se num modelo tão enraizado que acabou se convertendo numa linguagem, com graves consequências. Grassou por aqui, do século XVI ao XIX, uma escandalosa injustiça amparada pela artimanha da legalidade. [...] Aliás, no caso brasileiro, de tão disseminada ela deixou de ser privilégio de senhores de engenho. Padres, militares, funcionários públicos, artesãos, taverneiros, comerciantes, pequenos lavradores, grandes proprietários, a população mais pobre e até libertos possuíam cativos. E, sendo assim, a escravidão foi bem mais que um sistema econômico: ela moldou condutas, definiu desigualdades sociais, fez de raça e cor marcadores de diferença fundamentais, ordenou etiquetas de mando e obediência, e criou uma sociedade condicionada pelo paternalismo e por uma hierarquia muito estrita.”</p>
+        <p>Schwarcz, Lilia Moritz. Sobre o autoritarismo brasileiro. São Paulo: Cia das Letras, 2019. p. 22.</p>
+        <p>Levando em consideração o argumento de que o sistema escravocrata transcendia o simples modelo econômico, é correto afirmar:</p>
+        <p>A) A escravização foi uma estratégia para atender às demandas da livre concorrência propaladas pelos setores liberais no Brasil entre os séculos XVI e XIX. B) Apesar do processo de escravização, houve relativa liberdade concedida até mesmo a ex-escravizados, que após serem libertos tinham direito a possuir seus próprios cativos. C) Diferentes classes sociais e profissionais fizeram uso do trabalho escravo, o que corresponde a dizer que esse foi o modo de produção mais equânime dentre as outras formas de organização social existentes. ►D) O regime de propriedade sobre a mão de obra escravizada era determinado de modo economicamente estrito, que formava um ethos próprio de uma sociedade que naturalizava a escravidão ao reforçar esse modelo societário. 16/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="62">
+      <statement>
+        <p>- “Muitas metáforas proliferam, misturadas, no esforço de retratar o gênero como um perigo extremo. As várias figuras de destruição não se encaixam em um quadro coerente, e sim se acumulam sem qualquer preocupação com consistência ou contradição. Quanto mais o ‘gênero’ consegue reunir esses diversos medos e ansiedades, mais poderoso o fantasma se torna. Se uma figura de destruição não funciona com todos os públicos, outra muitas vezes funcionará, e se todas se acumularem com velocidade e intensidade suficientes sob um único nome, poderão circular ainda mais amplamente, atraindo diferentes públicos à medida que avançam. Juntas, elas procuram identificar a origem do medo e da destruição, aquilo que devemos temer, o que destruirá nossas vidas. E ao fazer isso, começam a destruir a vida das pessoas que foram usadas como bodes expiatórios.”</p>
+        <p>Butler, Judith. Quem tem medo do gênero? São Paulo: Boitempo, 2024. p. 49.</p>
+        <p>No que se refere às disputas e polêmicas sobre o tema do gênero sintetizadas pela autora, é correto afirmar:</p>
+        <p>A) O gênero, compreendido como um tema politizado, tornou-se parte de uma agenda social exclusivamente nos círculos feministas. B) Qualquer discussão que leve em consideração o gênero como pressuposto analítico deve considerá-lo como figura incoerente e contraditória. ►C) O debate em torno do tema de gênero mobiliza diferentes grupos sociais não pela definição dos princípios e pela necessidade de clarificar seus pressupostos, mas pela suspeição do tema e pelo seu impacto na esfera pública. D) A ideologia de gênero é um importante debate aberto pela sociedade civil que permite analisar os papéis de homens e mulheres numa sociedade autoritária.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="63">
+      <statement>
+        <p>- “Michel Foucault salientou em sua obra Vigiar e punir que é desta forma – encarcerando ou assassinando – que se lida com os considerados ‘inimigos do Estado’. A noção de ‘biopoder’ e ‘biopolítica’ fala de técnicas de hierarquia que vigia e das técnicas da sanção que normaliza. Trata-se de um ‘controle normalizante, uma vigilância que permite classificar, qualificar e punir’. Esse conceito, interseccionado às discussões que o filósofo camaronês Achille Mbembe faz sobre a ‘necropolítica’, trata do poder não apenas nos contextos de colonização, mas também nos contextos brasileiros tendo como eixo central as questões raciais contemporâneas.” Bento, Cida. Pacto da branquitude. São Paulo: Cia das Letras, 2022. p. 31.</p>
+        <p>No que concerne ao aspecto do biopoder e sua capacidade de normatização do racismo suscitado pela autora, é correto afirmar que:</p>
+        <p>A) o encarceramento e o assassinato se tornaram políticas de Estado voltadas à segurança pública e ao fortalecimento da sociedade antirracista. ►B) o racismo permite o exercício do biopoder, já que a função do racismo é regular a distribuição e tornar possível e aceitável a função assassina do Estado. C) o controle normalizante é uma condição inerente à proteção das pessoas de bem numa democracia, impedindo o avanço de quaisquer tipos de autoritarismo biopolítico. D) necropolítica é um conceito que se aplica à análise dos fenômenos sociais que participam da estruturação dos poderes de uma determinada nação.</p>
+        <p>LÍNGUA PORTUGUESA</p>
+        <p>O texto a seguir é referência para as questões 64 a 70. Por Hélio Schwartsman</p>
+        <p>Muita objetividade pode ser um problema. Eu estaria mentindo se dissesse que não aprecio as facilidades linguísticas 1 proporcionadas pelos avanços tecnológicos. Hoje, basta digitar uma palavra num dicionário eletrônico ou buscador para chegar 2 diretamente ao verbete. No Kindle, não é necessário nem digitar. É só colocar o cursor sobre o termo que gerou dúvida para que 3 sua definição lexicográfica se abra magicamente na tela. 4 Não tanto tempo atrás, quem procurava uma palavra num dicionário físico tinha de compulsar páginas e páginas até localizar 5 o referido verbete pela ordem alfabética. Era um processo que, mesmo para os mais treinados, consumia pelo menos algumas 6 dezenas de segundos. E muitas vezes mais. 7 É que (1), ao folhear o dicionário, não era incomum que (2) uma palavra qualquer nos chamasse a atenção e parássemos 8 nela. Você ia conferir o significado de um termo e, no caminho, aprendia o de outro. Entrava em jogo aí o que (3) o pessoal de 9 língua inglesa chama de “serendipity”, que (4) é o sentimento de surpresa positiva que (5) experimentamos ao fazer uma descoberta 10 feliz de forma não planejada. 11 Não é uma estratégia de aprendizado muito organizada ou efetiva, mas ela podia ser deliciosamente satisfatória quando você 12 topava com uma palavra “à propos”. Não sou, porém, um ludita linguístico. Os avanços tecnológicos vieram para ficar e têm vários 13 aspectos positivos. 14 A produtividade da leitura aumenta muito, especialmente em idiomas estrangeiros. Não troco meu Kindle por nada, mas usufruir 15 das novas comodidades não deve nos fazer fechar os olhos para o que perdemos. Podemos até, eventualmente, tentar produzir 16 compensações, como de vez em quando brincar de abrir um velho dicionário físico e ler verbetes ao acaso. 17 Um novo ciclo de superobjetivização está a caminho com as inteligências artificiais, que nos oferecem respostas prontas (e por 18 vezes erradas) em vez de nos remeter às páginas que trazem os elementos para solucionar nossa dúvida. É um avanço, mas que 19 também implicará perdas. 20</p>
+        <p>Disponível em: https://www1.folha.uol.com.br. Adaptado.</p>
+        <p>Kindle: dispositivo eletrônico, leitor de livros digitais. À propos: expressão francesa que significa “de modo oportuno”, “em boa hora”.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="64">
+      <statement>
+        <p>- Ao afirmar não ser um “ludita linguístico”, o autor:</p>
+        <p>A) não se ilude com os dicionários por entender que os avanços linguísticos são irrefreáveis. B) reconhece que a tecnologia pode ampliar o vocabulário dos leitores. C) recusa manter a pureza linguística frente às novas possibilidades de leitura. ►D) refuta a ideia de brigar com as novas tecnologias que facilitam a leitura.</p>
+        <p>17/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="65">
+      <statement>
+        <p>- Considerando a sequência do texto, por qual processo se constrói o sentido da afirmação inicial “Muita objetividade pode ser um problema”?</p>
+        <p>►A) Suspensão momentânea de sua explicação, seguida do reconhecimento das vantagens tecnológicas, da exposição das perdas relacionadas ao fácil acesso à informação e da ampliação da objetividade com as inteligências artificiais. B) Associação de objetividade com produtividade, demonstrada pelo aumento da rapidez das consultas e apresentada no último parágrafo como resultado do desenvolvimento das inteligências artificiais. C) Oposição entre aprendizagem planejada e descoberta casual, resolvida pela valorização dos dicionários físicos como meios eficientes e apresentada como alternativa ao avanço das inteligências artificiais. D) Comparação do emprego de recursos digitais ao uso de dicionários físicos como forma de acesso à informação, para fundamentar a defesa de uma escolha entre a produtividade da leitura e as descobertas proporcionadas pelo acaso.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="66">
+      <statement>
+        <p>- Qual é o argumento defendido pelo autor com a afirmação “Não é uma estratégia de aprendizado muito organizada ou efetiva, mas ela podia ser deliciosamente satisfatória quando você topava com uma palavra ‘à propos’”?</p>
+        <p>A) O valor da descoberta casual decorre da pertinência da palavra encontrada para solucionar a dúvida que motivou a consulta, ainda que o encontro não tenha sido planejado. B) A satisfação da descoberta casual permite equiparar o aprendizado imprevisto ao aprendizado obtido por meio de uma estratégia planejada. ►C) O valor da descoberta casual pode residir no aprendizado imprevisto e na satisfação que proporciona, mesmo que ela não constitua um método sistemático de estudo. D) O prazer associado ao acaso demonstra que o percurso mais demorado da consulta favorece uma aprendizagem superior àquela obtida pelo acesso direto à informação.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="67">
+      <statement>
+        <p>- Sobre a presença da palavra “que” no 3.º parágrafo, assinale a alternativa correta.</p>
+        <p>A) O que (1) e o que (3) têm a mesma classificação sintática. ►B) O que (2) introduz uma oração que exerce a mesma função sintática de “Você” (destacado no parágrafo). C) O que (4) e o que (5) são pronomes relativos e retomam o mesmo substantivo. D) O que (3) introduz uma oração subordinada adverbial consecutiva.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="68">
+      <statement>
+        <p>- Acerca das relações entre as ideias do texto, é correto afirmar que:</p>
+        <p>►A) “muitas vezes mais” (l. 7) é consequência de “uma palavra qualquer nos chamasse a atenção e parássemos nela” (l. 8-9). B) “o sentimento de surpresa positiva” (l. 10) é consequência dos “vários aspectos positivos” (l. 13-14) dos avanços tecnológicos. C) “remeter às páginas que trazem os elementos para solucionar nossa dúvida” (l. 19) é consequência da “superobjetivação” (l. 18). D) “A produtividade da leitura” (l. 15) é consequência de “brincar de abrir um velho dicionário físico e ler verbetes ao acaso” (l. 17).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="69">
+      <statement>
+        <p>- Conforme seu emprego no texto, é correto inferir que a palavra “compulsar” tem o sentido de:</p>
+        <p>A) selecionar. B) registrar. C) comparar. ►D) percorrer.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="70">
+      <statement>
+        <p>- De acordo com a definição dada pelo autor, o sentimento de serendipity ocorreria em qual situação?</p>
+        <p>A) Encontrar um amigo de infância para almoçar. B) Encontrar o próprio nome na lista de aprovados no vestibular. ►C) Encontrar um dinheiro esquecido no bolso da calça. D) Encontrar após um cálculo a resposta de uma questão de matemática.</p>
+        <p>O texto a seguir é referência para as questões 71 e 72.</p>
+        <p>De acordo com a historiografia oficial, “o índio (sic), acostumado com a liberdade, recusou-se ao trabalho escravo, o que obrigou o colonizador português a ir buscar essa mão de obra escrava no continente africano, onde os negros acostumados com a escravidão já existente em sua terra não se importavam com sua sorte”. Dizer que o colonizador português foi para a África buscar os escravos (sic) que adquiria, comprando-os pela troca com o fumo da Bahia e outras mercadorias, graças à cumplicidade dos reis e príncipes africanos, não deixa dúvida sobre a crença na existência dos escravos (sic) como categoria natural, ou seja, na existência na África de seres humanos que nasceram escravos. A partir dessa crença, podemos já formular uma dúvida e fazer a primeira indagação. Uma pessoa, homem ou mulher, pode nascer escrava ou todos nascem livres, até que algum sistema os escraviza no decorrer de sua vida?</p>
+        <p>Munanga, Kabengele. Origens africanas do Brasil contemporâneo: histórias, línguas, culturas e civilizações. São Paulo: Global, 2009, p. 88.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="71">
+      <statement>
+        <p>- Nesse texto, o autor:</p>
+        <p>►A) parte de uma versão corrente sobre a escravização de negros africanos no Brasil para submeter a questionamento os argumentos que a ela dão sustentação. B) emprega as expressões “nascer escrava” e “algum sistema os escraviza” para se referir, em ambos os casos, à naturalização do sistema escravocrata. C) utiliza o fato de alguns seres humanos terem sido tratados como mercadorias ao longo da história como argumento para sustentar consequências da escravização. D) põe em discussão a contraposição entre a condição de liberdade dos indígenas brasileiros e a de escravização a que os negros africanos já estavam acostumados.</p>
+        <p>18/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="72">
+      <statement>
+        <p>- Assinale a alternativa em que a palavra “sorte” é empregada com significado próximo ao do emprego no texto:</p>
+        <p>A) Desejo toda sorte de alegrias e conquistas nesta nova etapa da sua vida. B) Com sorte, conseguiremos um bom lugar no espetáculo. C) Jogos de sorte ou de azar? Estas práticas estão mudando o destino de muitas pessoas. ►D) Minha sorte mudou quando decidi mudar de endereço e de trabalho.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="73">
+      <statement>
+        <p>- Considere a seguinte tira.</p>
+        <p>Disponível em: https://www.tumblr.com/tirasarmandinho/137021215684/tirinha-original.</p>
+        <p>No plano verbal, o(s) efeito(s) de humor surge(m) da:</p>
+        <p>1. alternância de sentidos das palavras “bota” e “calça”, empregadas para nomear peças do vestuário e também indicar ações. 2. relação entre a inversão das palavras e a pergunta final, que apresenta a própria linguagem como fonte da complicação. 3. inadequação das expressões “botar uma calça” e “calçar uma bota” ao uso cotidiano da língua, provocando estranhamento no diálogo.</p>
+        <p>Assinale a alternativa correta.</p>
+        <p>A) Somente a afirmativa 1 é verdadeira. ►B) Somente as afirmativas 1 e 2 são verdadeiras. C) Somente as afirmativas 2 e 3 são verdadeiras. D) As afirmativas 1, 2 e 3 são verdadeiras.</p>
+        <p>INGLÊS</p>
+        <p>The following text is reference to questions 74 and 75.</p>
+        <p>Toni Morrison</p>
+        <p>Toni Morrison was a Nobel Prize – and Pulitzer Prize – winning novelist, editor, and professor. Her novels are known for their epic themes, exquisite language, and richly detailed Black characters. The most famous and well-regarded are Beloved, The Bluest Eye, Sula, and Song of Solomon. In 1993, Morrison became the first Black woman to receive the Nobel Prize in Literature. Despite her worldwide acclaim, the Ohio native was rarely writing full-time. She balanced working on her books with editing for Random House as well as teaching at Princeton and Howard Universities. Through her own novels and the books she edited, she was instrumental in developing the canon of Black American literature. Morrison died in 2019 at age 88. Toni Morrison was born Chloe Ardelia Wofford on February 18, 1931, in Lorain, Ohio, a small city about 30 miles west of Cleveland. She was the second oldest of four children. Her father, George Wofford, worked primarily as a welder but held several jobs at once to support the family. Her mother, Ramah, was a domestic worker. Chloe credited her parents with instilling in her a love of reading, music, and folklore as they also helped her develop a strong sense of clarity and perspective. Morrison did not publish her first book until she was 39, but from then on, she was a literary star; a writer whose acclaimed work was taught in high schools and seen in movies and on Broadway. The prolific author wrote 11 novels, two novellas, books for children, and several nonfiction books, some of which collected her articles and essays. She also penned multiple plays and opera librettos. Many of her novels are historical, given her background as a classics scholar, but they combine highly literary aspects with accessible plots and characters. As for overarching themes, most of Morrison’s work explores slavery at various times in history, contends with how gender influences the lived experiences of men and women, and celebrates Black American culture, especially in music and geography. Because her novels take place in different times and places, over her lifetime as a writer, Morrison revealed the effects of generational trauma particularly in regard to racism and sexism in families and the larger community.</p>
+        <p>Available in: https://www.biography.com/authors-writers/toni-morrison.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="74">
+      <statement>
+        <p>- Considering the information presented in the text, choose the right option.</p>
+        <p>A) Chloe was born into a wealthy family who had reading, music and folklore as part of their jobs. B) Throughout her whole career Toni was a full-time professor, writer and editor in two different publishing houses. C) Although Toni wrote many novels, nonfiction books and other genres, she was never a playwright. ►D) Toni Morrison was an awarded North American literary star who published her first piece in her late thirties.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="75">
+      <statement>
+        <p>- Based on the reading of the text, choose the right option.</p>
+        <p>►A) “Despite her worldwide acclaim” is synonymous with “In spite of her global public approval”. B) “Her father... held several jobs at once” is synonymous with “Her father... provided several jobs at the same time in his life”. C) “Highly literary aspects with accessible plots” is synonymous with “Mainly literary aspects with accessible fields”. D) “Particularly in regard to racism and sexism” is synonymous with “Particularly unlike racism and sexism”.</p>
+        <p>19/32 The following text is reference to questions 76, 77 and 78.</p>
+        <p>Chile targets fast fashion waste with landmark desert cleanup plan</p>
+        <p>In a dusty corner of the Atacama Desert, the driest non-polar region on Earth, mounds of used clothes are scattered across the sand, where they sit, under the sun. In the city of Iquique, in Chile’s far north, piles of garments stretch into the distance: uniforms, shoes, bundles of work overalls and last season’s fast fashion discards, tags still attached. But Chile’s government has taken a decisive step towards addressing this environmental crisis. The country’s environment ministry announced that it had added textiles as a “priority” category to its extended producer responsibility law, paving the way for importers to be made responsible for the waste produced by the thousands of tonnes of used clothing brought into Chile each year. Importers are now obliged to report the clothing they bring into the country, and further regulations will be added to the bill. Chile’s government will also publish a public policy specifically targeting textiles and their place in the circular economy. One of its goals will be to eradicate textile dumps in the Atacama Desert. According to government data, more than 90% of textiles sold in Chile are imported, making the South American country the world’s fourth-largest importer of second-hand clothing. Global textile production is projected to grow from the 109m tonnes manufactured in 2020 to 145m tonnes in 2030. In Chile, people use an average of 32kg of textiles, contributing to 572,000 tonnes of textile waste per year in the country. Every day, tonnes of clothing arrive duty-free at the freeport in Iquique as giant plastic-wrapped bales, where they are sliced open and sorted into categories by a migrant workforce. The best clothes, often in near-pristine condition, are sold in outlet stores or sent to Chile’s capital, Santiago, for resale. Some are even sent back to the US to be resold. The rest winds its way in a convoy of small trucks up to Alto Hospicio, a poor city near Iquique, where the clothes are incorporated into a seemingly endless cycle of resale and reuse. At La Quebradilla, one of the country’s largest open-air markets, vendors sell clothes for small amounts of cash, while the least desirable items are often slung out in the Atacama Desert. After several years of research, Chile’s government has managed to add textiles to its extended responsibility law. Many countries have similar legislation, but Chile’s, in force since 2017, had only made producers responsible for recycling goods in several categories, including, tires, batteries, oils and plastic packaging. The inclusion of textiles in the producer responsibility law will establish the obligations of producers, who will no longer be able to disregard the environmental impacts of unused textiles.</p>
+        <p>Available in: https://www.theguardian.com/world/2025/jun/26/chile-fast-fashion-waste-atacama-desert.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="76">
+      <statement>
+        <p>- Based on the text, it is correct to say that Chile’s government:</p>
+        <p>A) has created new legislation to stop all of the importation of second-hand textiles to the country. B) has decided to use the same legislation of other countries, forcing producers to either resell or reimport unused textiles. ►C) has added textiles to the list of categories of its already existing responsibility law. D) is invested in moving textile dumps from the Atacama Desert to another area in South America.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="77">
+      <statement>
+        <p>- According to the text, choose the correct alternative.</p>
+        <p>A) The piles of items thrown around Iquique are made up of brand-new uniform and work clothes. B) Chile imported 90% of the 109m tonnes of textiles manufactured around the world in 2020. C) The tonnes of clothes that arrive in Iquique daily are driven to Santiago by trucks. ►D) The addition of textiles to the Chilean responsibility law will give producers new obligations as to their products.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="78">
+      <statement>
+        <p>- Consider the following sentences:</p>
+        <p>1. In paragraph one, the underlined words dusty, used and decisive are being used as adjectives. 2. In paragraph two, the underlined pronoun it refers to “The country’s environment ministry”. 3. In paragraph five, the underlined expression The rest refers to “the best clothes”. 4. In paragraph five, the underlined expressions The best, the…largest, and the least are being used as comparatives of equality.</p>
+        <p>Mark the correct alternative.</p>
+        <p>A) Only affirmative 3 is correct. ►B) Only affirmatives 1 and 2 are correct. C) Only affirmatives 2, 3 and 4 are correct. D) Affirmatives 1, 2, 3 and 4 are correct.</p>
+        <p>The following text is reference to questions 79 and 80.</p>
+        <p>Super El Niño events drive climate regime shifts with enhanced risks under global warming</p>
+        <p>Climate regime shifts (CRSs), characterized by abrupt and persistent transitions between alternative stable states in the climate system, pose serious threats to ecosystems and human well-being. Understanding the potential drivers of CRSs is crucial, particularly in a warming world where CRSs are becoming more frequent. Here, using multiple observations and model simulations, we find that the likelihood of CRS occurrence significantly increases in the context of super El Niño events due to their remarkable climate perturbations. This higher probability is detected across various climate elements, such as surface air temperature, sea surface temperature, and surface soil moisture. In addition, we suggest that this boost effect of super El Niño events on CRSs will be greatly amplified under future greenhouse warming. Our findings underscore a deeper and more persistent climate footprint of super El Niño events, suggesting that early warnings and proactive measures are crucial for mitigating their escalating risks.</p>
+        <p>Disponível em: https://www.researchgate.net/publication/398625964_Super_El_Nino_events_drive_climate_regime_shifts_with_enhanced_risks_under_global_warming.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="79">
+      <statement>
+        <p>- Based on the reading of the text, it is correct to say that climate regime shifts (CRSs):</p>
+        <p>►A) refer to sudden alternations and changes in the climate patterns. B) are to blame for the global warming hitting the planet. C) are a threat and pose risks for drivers during El Niño events. D) amplify the consequences of super El Niño in a warming world.</p>
+        <p>20/32</p>
+      </statement>
+    </essay_question>
+    <essay_question number="80">
+      <statement>
+        <p>- Based on the text, choose the correct option.</p>
+        <p>A) Multiple observations and model simulations reduce significantly the occurrence of climate regime shifts. ►B) Findings of the study indicate measures and actions to reduce the risks brought by climate changes. C) The surface temperature of the sea and the air observed in the research have remained steady. D) Research suggests that future greenhouse warming will hopefully mitigate climate regime shifts.</p>
+        <p>ALEMÃO</p>
+        <p>Lesen Sie den Text und beantworten Sie die Fragen 74 und 75.</p>
+        <p>ÜBER ANNE FRANK</p>
+        <p>Millionen von Menschen in aller Welt kennen das Tagebuch der Anne Frank. Anne Frank wurde 1929 als Kind jüdischer Eltern in Frankfurt am Main geboren. Ihre Familie flüchtete 1933 vor den Nationalsozialisten nach Amsterdam. Nach dem Einmarsch der deutschen Truppen in die Niederlande versteckten sich Anne Frank und ihre Familie von 1942 bis 1944 in einem Amsterdamer Hinterhaus. Dort schrieb Anne Frank ihr weltberühmtes Tagebuch. Nachdem ihr Versteck entdeckt wurde, wurden Anne Frank und ihre Familie deportiert. Anne Frank starb 1945 im Konzentrationslager Bergen-Belsen im Alter von 15 Jahren. Anne Frank ist durch die Veröffentlichung ihres Tagebuchs zum Symbol für Millionen von Jüdinnen und Juden geworden, die der rassistischen Vernichtungspolitik der Nationalsozialisten zum Opfer fielen.</p>
+        <p>Verfügbar unter: https://www.annefrank.de/anne-frank/ueber-anne-frank.</p>
+        <p>74 - Warum zog die Familie Frank 1933 nach Amsterdam?</p>
+        <p>A) Sie wollte Urlaub machen. ►B) Sie floh vor den Nationalsozialisten. C) Sie besuchte Verwandte. D) Sie suchte eine neue Arbeit.</p>
+        <p>75 - Welche Possessivform passt in den Satz aus dem Text?</p>
+        <p>Anne Frank wurde durch die Veröffentlichung von ______ Tagebuch weltberühmt.</p>
+        <p>A) seinem B) unserem ►C) ihrem D) eurem</p>
+        <p>Lesen Sie den Text und beantworten Sie die Fragen 76, 77 und 78.</p>
+        <p>WIRTSCHAFT - EUROPA Ohne Einwanderer geht in Portugal nichts</p>
+        <p>Jochen Faget 16.05.2026</p>
+        <p>In Portugal leben etwa 1,5 Millionen Ausländer. Genaue Zahlen weiß niemand und die Dunkelziffer der Illegalen dürfte hoch sein. Die rechtsextreme Partei Chega hetzt gegen sie. Dabei geht ohne Ausländer so gut wie nichts.</p>
+        <p>‘Immigranten dürfen nicht von Sozialleistungen leben’, hetzen Plakate der rechtsradikalen Partei Chega seit den letzten Wahlen noch immer überall in Portugal. Das Land gibt sich neue, extrem verschärfte Ausländergesetze und immer mehr Bürger finden das richtig so. Obwohl höchstens rund 1,5 Millionen Ausländer, fast alle Arbeitsmigranten, in Portugal leben. Das sind etwa 14 Prozent der Landesbevölkerung. Doch Ausländerangst, ja Ausländerhass macht sich breit. Dabei - das zeigen die Zahlen - kann das Land ohne Ausländer nicht mehr überleben: Die Immigranten erhalten nicht mehr Sozialleistungen als Portugiesen und das Sozialsystem des Landes hätte Finanzierungsprobleme ohne sie. Viele Jobs blieben unbesetzt. Von der Bedienung im Café bis hin zu Landarbeitern, die Beeren für den Export in Länder wie Deutschland pflücken. Eine Studie, veröffentlicht von der Einwanderungsbehörde AIMA und erarbeitet vom portugiesischen Migrationsobservatorium, belegt, wie groß der Beitrag der Gastarbeiter zu den Sozialsystemen des Landes ist: Im vergangenen Jahr zahlten rund 1,1 Millionen Ausländer in die Sozialversicherung ein, weil sie legal in Portugal arbeiteten. Das sind stolze 447 Prozent mehr als zehn Jahre vorher. Die Zahlungen sind sogar um 763 Prozent auf knapp 4,2 Milliarden Euro angestiegen - immerhin 14 Prozent aller Beiträge.</p>
+        <p>Verfügbar unter: https://www.dw.com/de/ohne-einwanderer-geht-in-portugal-nichts/a-76901411.</p>
+        <p>76 - Welche Aussage stimmt laut dem Text?</p>
+        <p>A Die meisten Ausländer in Portugal sind Touristen. B) Ausländer erhalten viel mehr Sozialleistungen als Portugiesen. ►C) Viele Arbeitsplätze in Portugal werden von Immigranten besetzt. D) Die Partei Chega unterstützt die Einwanderung.</p>
+        <p>77 - Warum bezeichnet der Autor die Rolle der Immigranten für Portugal als besonders wichtig?</p>
+        <p>►A) Weil sie viele Arbeitsplätze besetzen und erheblich zum Sozialsystem beitragen. B) Weil sie die größte Bevölkerungsgruppe des Landes bilden. C) Weil sie hauptsächlich Sozialleistungen finanzieren. D) Weil sie vor allem im Tourismussektor arbeiten.</p>
+        <p>21/32 78 - Was bedeutet das Wort „Beitrag“ im Satz „wie groß der Beitrag der Gastarbeiter zu den Sozialsystemen des Landes ist“?</p>
+        <p>A) Problem B) Arbeitsplatz ►C) Unterstützung D) Bevölkerung</p>
+        <p>Lesen Sie den Text und beantworten Sie die Fragen 79 und 80.</p>
+        <p>Mehrsprachigkeit in Rio Grande do Sul: Zur Negation im Brasilianischen Hunsrückisch Autor/innen Esther Rinke Cristina Flores Schlagwörter: bilinguale Sprecher, Hunsrückisch, Sprachkontakt, Negation</p>
+        <p>ABSTRACT Im vorliegenden Artikel wird anhand eines spontansprachlichen Korpus bilingualer Sprecher ein sprachliches Phänomen im brasilianischen Hunsrückischen genauer betrachtet: die Negation. Die Negation ist insofern linguistisch interessant, als sie in den beiden involvierten Kontaktvarietäten (deutsche Minderheitensprache, brasilianisches Portugiesisch (BP)) unterschiedlich ausgeprägt ist. Von Interesse ist insbesondere die Stellung des Negationswortes in Hinblick auf das finite Verb und das direkte Objekt sowie die Frage, ob zwei Negationselemente in einem Satz vorkommen können, ohne dass die negative Interpretation des Satzes sich in eine Affirmation wandelt (Negative Concord). Ziel der Analyse ist es, mögliche Sprachkontaktphänomene und sprachkontaktbedingten Wandel zu identifizieren. Es wird geschlussfolgert, dass die Negation im Hunsrückischen sehr stabil ist und deutschen Wortstellungsmustern folgt. Diese grammatische Stabilität beruht auf dem regelmäßigen Gebrauch des Dialekts. Dennoch finden sich wie im BP Phänomene von Negative Concord, das im Standarddeutschen nicht in gleicher Weise möglich ist. Im Gegensatz zum brasilianischen Portugiesischen handelt es sich allerdings nicht um ein kategorisches, sondern um ein variables Phänomen, das in ähnlicher Weise in anderen deutschen Dialekten existiert bzw. existierte.</p>
+        <p>Verfügbar unter: https://www.scielo.br/j/pg/a/t9QJ7fWSZnr3bQ7VNHvjn3F/?format=html&amp;lang=de.</p>
+        <p>Fußnote: Das brasilianische Hunsrückisch ist eine deutschbasierte Minderheitensprache, die sich aus den Hunsrücker Dialekten deutscher Einwanderer des 19. Jahrhunderts entwickelte und heute vor allem in Südbrasilien gesprochen wird. Es entstand im intensiven Kontakt mit dem brasilianischen Portugiesisch.</p>
+        <p>79 - Was ist ein wichtiges Ergebnis der Untersuchung?</p>
+        <p>A) Die Negation im Hunsrückischen entspricht vollständig dem brasilianischen Portugiesisch. B) Die Negation im Hunsrückischen ist instabil und verändert sich schnell durch Sprachkontakt. C) Die Studie zeigt, dass das Hunsrückische keine deutsche Varietät mehr ist. ►D) Die Negation im Hunsrückischen folgt überwiegend deutschen Wortstellungsmustern und zeigt eine hohe Stabilität.</p>
+        <p>80 - Welche Aussage beschreibt die Rolle des Sprachkontakts im Hinblick auf das Phänomen der Negative Concord im Hunsrückischen am treffendsten?</p>
+        <p>►A) Obwohl die Negation im Hunsrückischen grammatisch stabil bleibt, finden sich kontaktbedingte Erscheinungen der Negative Concord, die jedoch variabel auftreten und auch in anderen deutschen Dialekten belegt sind. B) Die Negative Concord wurde vollständig aus dem brasilianischen Portugiesisch übernommen und hat die deutschen Strukturen ersetzt. C) Die Untersuchung zeigt, dass Negative Concord im Hunsrückischen kategorisch verwendet wird, genau wie im brasilianischen Portugiesisch. D) Sprachkontakt spielt für die Verwendung der Negation im Hunsrückischen keine Rolle, da alle Strukturen ausschließlich dem Standarddeutschen entsprechen.</p>
+        <p>ESPANHOL</p>
+        <p>El texto a continuación es referencia para las cuestiones 74, 75 y 76.</p>
+        <p>La técnica de edición genética conocida como CRISPR-Cas9 se utiliza en laboratorios de todo el mundo y ha revolucionado la investigación científica, permitiendo a los científicos editar los genes de organismos vivos para la investigación biotecnológica y médica. En 2020, dos de los científicos que desarrollaron esta tecnología ganaron el Premio Nobel de Química, y en 2023, la Administración de Alimentos y Medicamentos de EE.UU. (FDA) aprobó las dos primeras terapias génicas para la anemia falciforme, un trastorno hereditario de los glóbulos rojos que debilita y acorta la esperanza de vida y que afecta desproporcionadamente a la población afroamericana […]. Laurie Zoloth, profesora de religión y ética en la Universidad de Chicago, afirmó que la investigación reavivó el debate ético sobre la modificación de embriones humanos, señalando que la edición de embriones conlleva riesgos y, salvo para su uso en investigación científica, debería seguir prohibida por el momento, únicamente por motivos de seguridad. Indicó que ya existen métodos para evitar tener bebés con anomalías genéticas: el análisis genético antes de la concepción y durante el embarazo, y las pruebas de embriones antes de la implantación en la fecundación in vitro. Si bien podría ser defendible editar embriones para prevenir afecciones como la enfermedad de Tay-Sachs, un trastorno neurológico mortal que se manifiesta en los primeros meses de vida, Zoloth afirmó que probablemente habría una “confusión entre el tratamiento y la mejora genética”, una situación que podría conducir a lo que denominó el “problema de Gattaca”, en referencia a la película de 1997, que imagina una sociedad obsesionada con la perfección genética y regida por ella. “¿__________ este camino ________________ a un futuro aún más injusto, donde los hijos de los más ricos ___________ seleccionados y los hijos de los pobres, sin recursos, no ______________ competir en una democracia?”, concluyó.</p>
+        <p>Disponible en: https://cnnespanol.cnn.com/2026/07/08/ciencia/embrion-humano-edicion-genetica-trax. 22/32 74 - Señala la alternativa que rellena los huecos de la última frase del texto con los tiempos verbales correctos.</p>
+        <p>►A) Podría – llevarnos – sean – puedan. B) Podía – llevarse – eran – puedan. C) Podrá – llevarte – serán – pueden. D) Pudo – llevarles – son – han podido.</p>
+        <p>75 - Tras el análisis del texto, es posible afirmar que su principal propósito comunicativo consiste en:</p>
+        <p>A) debatir la eficacia de las terapias génicas actualmente utilizadas en el tratamiento de enfermedades hereditarias. B) defender la aplicación de técnicas de edición genética como solución para prevenir enfermedades hereditarias. C) describir los procedimientos científicos empleados para modificar embriones humanos en laboratorios especializados. ►D) informar sobre los avances científicos en la edición genética, presentando el debate ético que estos han suscitado.</p>
+        <p>76 - La referencia a la película Gattaca cumple en el texto una función:</p>
+        <p>A) argumentativa, para demostrar la racionalidad de la tesis presentada por el autor. B) persuasiva, para inducir emocionalmente al lector a estar de acuerdo con el autor. ►C) ilustrativa, para ayudar al lector a comprender el razonamiento presentado. D) comparativa, para reforzar la hipótesis del autor al presentar casos similares.</p>
+        <p>El texto a continuación es referencia para las cuestiones 77 y 78.</p>
+        <p>Nadie habrá dejado de observar que con frecuencia el suelo se pliega de manera tal que una parte sube en ángulo recto con el plano del suelo, y luego la parte siguiente se coloca paralela a este plano, para dar paso a una nueva perpendicular, conducta que se repite en espiral o en línea quebrada hasta alturas sumamente variables. Agachándose y poniendo la mano izquierda en una de las partes verticales, y la derecha en la horizontal correspondiente, se está en posesión momentánea de un peldaño o escalón. Cada uno de estos peldaños, formados como se ve por dos elementos, se sitúa un tanto más arriba y adelante que el anterior, principio que da sentido a la escalera, ya que cualquiera otra combinación producirá formas quizá más bellas o pintorescas, pero incapaces de trasladar de una planta baja a un primer piso. Las escaleras se suben de frente, pues hacia atrás o de costado resultan particularmente incómodas. La actitud natural consiste en mantenerse de pie, los brazos colgando sin esfuerzo, la cabeza erguida aunque no tanto que los ojos dejen de ver los peldaños inmediatamente superiores al que se pisa, y respirando lenta y regularmente. Para subir una escalera se comienza por levantar esa parte del cuerpo situada a la derecha abajo, envuelta casi siempre en cuero o gamuza, y que salvo excepciones cabe exactamente en el escalón. Puesta en el primer peldaño dicha parte, que para abreviar llamaremos pie, se recoge la parte equivalente de la izquierda (también llamada pie, pero que no ha de confundirse con el pie antes citado), y llevándola a la altura del pie, se le hace seguir hasta colocarla en el segundo peldaño, con lo cual en éste descansará el pie, y en el primero descansará el pie. (Los primeros peldaños son siempre los más difíciles, hasta adquirir la coordinación necesaria. La coincidencia de nombre entre el pie y el pie hace difícil la explicación. Cuídese especialmente de no levantar al mismo tiempo el pie y el pie). Llegado en esta forma al segundo peldaño, basta repetir alternadamente los movimientos hasta encontrarse con el final de la escalera. Se sale de ella fácilmente, con un ligero golpe de talón que la fija en su sitio, del que no se moverá hasta el momento del descenso.</p>
+        <p>Julio Cortázar. Disponible en: https://ciudadseva.com/.</p>
+        <p>77 - El efecto de humor del texto se produce principalmente porque el narrador:</p>
+        <p>A) introduce expresiones coloquiales para aproximar la narración al lenguaje cotidiano. B) contrapone diferentes opiniones sobre la utilidad de las escaleras en la vida diaria. ►C) presenta una actividad habitual mediante un lenguaje excesivamente técnico y minucioso. D) relata una experiencia personal para ejemplificar las dificultades de subir una escalera.</p>
+        <p>78 - Considerando las secuencias tipológicas predominantes y la progresión de las ideas desarrolladas en el texto, el empleo predominante de formas verbales en enunciados como “Las escaleras se suben de frente” y “La actitud natural consiste...” contribuye principalmente a:</p>
+        <p>►A) construir enunciados de carácter general y atemporal, presentando las acciones como válidas más allá de un contexto o de un sujeto determinados. B) restringir la descripción a una experiencia particular del narrador, destacando las circunstancias concretas en que se desarrollan las acciones. C) situar las acciones en un momento específico del desarrollo narrativo, organizándolas según una secuencia temporal claramente delimitada. D) expresar una valoración subjetiva de las acciones descritas, aproximando la explicación al relato de experiencias personales del narrador.</p>
+        <p>El texto a continuación es referencia para las cuestiones 79 y 80.</p>
+        <p>Microplásticos en órganos humanos: ¿qué implicaciones tiene para la salud?</p>
+        <p>Los microplásticos, las partículas diminutas que resultan de la degradación del plástico, han dejado de ser solo una amenaza ambiental para convertirse en un factor emergente de riesgo para la salud. Una investigación publicada recientemente en Nature Medicine ha registrado la presencia de microplásticos en órganos vitales, como el hígado, el riñón y, por primera vez, en el cerebro humano. El descubrimiento más significativo del estudio es la acumulación de los microplásticos en muestras “post mortem” de cerebros humanos. Esto demuestra la capacidad de estas partículas para atravesar la barrera hematoencefálica, una capa protectora contra sustancias tóxicas, que hasta ahora sólo se había observado en modelos animales. Se trata de una situación preocupante, ya que romper esta barrera puede tener consecuencias potenciales para la salud cerebral.</p>
+        <p>23/32 Además, el estudio también encontró acumulación de microplásticos en el hígado y en el riñón. Se trata de órganos depurativos, que eliminan las sustancias nocivas. Así pues, este hallazgo sugiere que nuestro organismo podría no tener suficiente capacidad para eliminar estas partículas y podrían persistir y/o acumularse en el tiempo. Al entrar al organismo, los microplásticos producen reacciones inflamatorias y pueden alterar nuestro metabolismo, aumentando la presencia de factores oxidantes. Estos procesos de inflamación y oxidación pueden dañar las arterias, afectando la salud vascular cerebral y, en consecuencia, podrían aumentar el riesgo de ictus. Este riesgo se añade a los factores de riesgo clásicos como el colesterol, la diabetes, la hipertensión, el tabaco o el alcohol. Se recomienda tener en cuenta estas pequeñas acciones para reducir la exposición a los microplásticos y minimizar al máximo el contacto:</p>
+        <p>· Evitar alimentos envasados con plástico. · Beber menos agua embotellada (optar por filtrada). · Evitar alimentos con plásticos, ya que puede facilitar su degradación e introducción a los alimentos. · Ventilar espacios cerrados y evitar productos con microesferas (por ejemplo, los cosméticos).</p>
+        <p>[…] Su capacidad para atravesar barreras biológicas, junto con la dificultad para eliminarlos y detectarlos en vida, representa un reto emergente para la salud pública. Ante esta situación, es necesario promover acciones preventivas a nivel individual y desarrollar herramientas de diagnóstico que permitan entender mejor cómo afectan al organismo.</p>
+        <p>Disponible en: https://www.clinicbarcelona.org/noticias/microplasticos-en-organos-humanos-que-implicaciones-tiene-para-la-salud.</p>
+        <p>79 - Para elucidar la relevancia del hallazgo científico presentado en el texto, el autor:</p>
+        <p>A) explica la relación entre los procesos inflamatorios y los impactos generados por los factores de riesgo clásicos que provocan el ictus. ►B) destaca la importancia de la constatación científica de que los microplásticos atraviesan la barrera hematoencefálica, interfiriendo en la salud cerebral. C) proporciona justificaciones sobre cómo las medidas preventivas propuestas resuelven los riesgos para la salud descritos a lo largo del texto. D) sostiene que el desarrollo de nuevas investigaciones científicas permitirá eliminar los riesgos asociados a los microplásticos en el entorno ambiental.</p>
+        <p>80 - En el texto, hay algunas palabras escritas con la letra “h” y en una de ellas la palabra correspondiente en portugués se escribe con la letra “f”.</p>
+        <p>Señala la alternativa donde todas las palabras tengan sus equivalentes en portugués con la letra “f”.</p>
+        <p>►A) ahorcado – harina – hilo – holgado. B) hada – hueso – hallazgo – hervir. C) alcohol – hambre – huevo – enhorabuena. D) horquilla- hacer – hasta – ahora.</p>
+        <p>FRANCÊS</p>
+        <p>Le texte suivant sert de référence aux questions 74 et 75.</p>
+        <p>Christiane Taubira</p>
+        <p>Née à Cayenne, Christiane Taubira débute une carrière dans l’enseignement, puis dans le développement économique de la Guyane, tout en militant dans la mouvance indépendantiste locale. En 1993, elle est élue députée de la République Française. Constamment réélue, elle est nommée par François Hollande en 2012 Garde des Sceaux, ministre de la Justice, fonction qu’elle exerce jusqu’à sa démission en janvier 2016. A la Chancellerie, elle porte notamment la loi ouvrant le mariage aux couples de personnes de même sexe, promulguée le 17 mai 2013. En tant que député, elle est à l’origine du texte qui deviendra la loi du 21 mai 2001 portant reconnaissance de la traite et de l’esclavage en tant que crime contre l’humanité, plus connue sous le nom de « loi Taubira ». Votée à l’unanimité, cette loi a fait de la France le premier pays à reconnaître l’esclavage et la traite comme des crimes contre l’humanité.</p>
+        <p>Source : Résistent.e.s contre l’esclavage. Exposition de la Fondation pour la mémoire de l’esclavage et de la Casden Banque Populaire. 2025.</p>
+        <p>74 - Sur la biographie de Christiane Taubira il est correct d’affirmer qu’elle :</p>
+        <p>►A) est française d’origine guyanaise. B) propose l’abolition de l’esclavage en France. C) résiste au mariage entre personnes de même sexe. D) devient Ministre de la Justice grâce à sa carrière militaire.</p>
+        <p>75 - Signalez la phrase qui présente correctement l’accord de genre.</p>
+        <p>A) Christiane Taubira est enseignant au début de sa carrière à Cayenne. B) Le présidente François Hollande nomme Taubira Garde des Sceaux en 2012. C) Les députées français reconnaissent la loi contre la traite et l’esclavage. ►D) Taubira est ministre de la Justice pendant quatre ans, de 2012 à 2016.</p>
+        <p>24/32 Le texte suivant sert de référence aux questions 76, 77 et 78.</p>
+        <p>Antonio Carlos Jobim à Montréal : le concert historique de 1986 au Festival international de jazz</p>
+        <p>Il y a 40 ans, au Festival international de jazz de Montréal, une légende brésilienne, le compositeur et architecte de la bossa-nova Antonio Carlos Jobim, montait pour la première fois sur scène au Canada. Capté en 1986, ce concert demeure le témoignage précieux d’un créateur au sommet de son art.</p>
+        <p>Par : Hortense Volle</p>
+        <p>Il fallut plusieurs années de persévérance. Depuis sa première édition en 1980, le Festival international de jazz de Montréal rêvait d’inviter Antonio Carlos Jobim. Le directeur artistique André Ménard et son complice David Jobin multipliaient les tentatives, jusqu’à aller à sa rencontre au Montreux Jazz Festival, en Suisse. En juin 1986, l’invitation devient réalité : celui que le monde entier appelle «Tom» pose enfin le pied au Québec. À 59 ans, Jobim n’est plus seulement le jeune compositeur qui, au début des années 1960, bouleverse la musique brésilienne avec la bossa-nova. On se souvient notamment du Carnegie Hall de New York en 1962 : un moment décisif dans l’internationalisation de ce nouveau langage musical – harmonies sophistiquées empruntées au jazz, rythme syncopé hérité de la samba, intimité vocale presque chuchotée. Vingt-quatre ans plus tard, à Montréal, il n’a plus rien à prouver. Après ses collaborations américaines (Frank Sinatra, Ella Fitzgerald) et l’explosion internationale de «The Girl from Ipanema», Jobim revient à une écriture plus orchestrale et contemplative. L’album Passarim, qui paraîtra en 1987, témoigne de ce retour aux paysages sonores du Brésil – forêts, rivières, oiseaux – thèmes chers à ce compositeur profondément attaché à la nature. Le concert de Montréal s’inscrit dans cette période : moins tourné vers la séduction internationale, plus ancré dans une forme d’épure lumineuse. […] Quarante ans plus tard, le Festival international de jazz de Montréal continue d’écrire son histoire – la 46e édition se tiendra du 25 juin au 4 juillet – mais cette soirée de 1986 demeure un moment suspendu : un compositeur au sommet de sa maturité, entouré des siens, revisite son répertoire avec simplicité et transforme un soir d’été montréalais en saison des pluies poétique.</p>
+        <p>Source : RFI Musique. https://www.rfi.fr/fr/musique/20260303-antonio-carlos-jobim-%C3%A0-montr%C3%A9al-le-concert-historique-de-1986-au-festivalinternational-de-jazz. Publié le : 03/03/2026.</p>
+        <p>76 - Cochez la réponse correcte :</p>
+        <p>A) Après 40 ans, la 46e édition du Festival de jazz de Montréal, en 2026, rend hommage au musicien brésilien Tom Jobim. B) Le concert de Tom Jobim en 1962, au Carnegie Hall, a mélangé l’influence jazz d’Ella Fitzgerald aux thèmes de la nature. ►C) Les directeurs du Festival de jazz de Montréal rêvaient de la participation de Tom Jobim depuis la première édition. D) Le concert de 1986 a été historique grâce à la participation de Frank Sinatra qui a chanté «The Girl from Ipanema».</p>
+        <p>77 - Sur le texte d’Hortense Volle, publié par RFI, il est correct d’affirmer que :</p>
+        <p>A) Il s’agit d’un texte informatif qui présente l’artiste brésilien de façon objective et retrace les moments les plus importants de sa carrière. ►B) L’article établit une comparaison entre le début de la carrière de Tom Jobim, dans les années 1960, et le concert de 1986, une phase plus mûre. C) Les commentaires de la journaliste expriment l’importance du Festival de jazz de Montréal pour l’internationalisation de la musique brésilienne. D) Le ton poétique du reportage, qui récupère la dimension historique du concert de Tom Jobim, témoigne de son influence sur le jazz canadien.</p>
+        <p>78 - Considérez les affirmations :</p>
+        <p>1. Des formulations telles qu’«une légende brésilienne» et «un créateur au sommet de son art» renforcent la notoriété de Tom Jobim. 2. Appelé un des architectes de la bossa-nova, Tom Jobim est reconnu par des contributions qui ont préservé la musique brésilienne traditionnelle, telles que les «harmonies sophistiquées empruntées au jazz». 3. Une écriture «orchestrale et contemplative» désigne la période de maturité artistique de Tom Jobim, qui revient aux sources du paysage naturel brésilien.</p>
+        <p>Cochez la bonne réponse :</p>
+        <p>A) Seule l’affirmation 1 est correcte. ►B) Seules les affirmations 1 et 3 sont correctes. C) Seules les affirmations 2 et 3 sont correctes. D) Les affirmations 1, 2 et 3 sont correctes.</p>
+        <p>Le texte suivant sert de référence aux questions 79 et 80.</p>
+        <p>Une définition de l’agroécologie toujours en évolution</p>
+        <p>Selon Wezel et al. (2009), l’agroécologie peut être définie à la fois comme un domaine scientifique, une pratique et un mouvement social. D’autres définitions en ont été proposées, qui intègrent avec une intensité variable l’écologie avec d’autres disciplines académiques (agronomie, sociologie, etc.), l’éducation, les connaissances locales ou traditionnelles, la durabilité des systèmes de production ou des systèmes alimentaires, la biodiversité, l’inter‐ ou la transdisciplinarité, etc. (Wezel et al., 2018). […] L’agroécologie côtoie le concept d’économie circulaire, au sens où tous deux s’inscrivent dans le cadre du développement durable et s’inspirent notamment des notions «d’économie verte», «d’économie de l’usage», voire «d’écologie industrielle», du bouclage des cycles en évitant le «stade déchet», et en limitant d’autant la consommation de matières premières et d’énergie. Elle partage avec la bioéconomie l’ambition vertueuse de remplacer partiellement et sobrement l’usage de ressources et de productions non renouvelables d’origine fossile, par la mobilisation des ressources renouvelables (photosynthèse, microbiologie et macrofaune des sols) pour leur transformation en aliments, fertilisants organiques, matériaux, bases chimiques et bioénergies variées. C’est pour 25/32 cela que l’agroécologie a d’abord été conceptualisée et réfléchie dans le domaine des productions végétales, avant que des principes fondateurs ne soient proposés pour l’élevage. Si l’agroécologie partage avec l’économie circulaire et la bioéconomie l’ambition de servir une agriculture durable économe en ressources, elle s’en distingue par la place centrale qu’elle donne à la compréhension et à la valorisation de la diversité du vivant.</p>
+        <p>Source : Caquet T. et al. Réflexion prospective interdisciplinaire pour l’agroécologie. Rapport de synthèse. 2019.</p>
+        <p>79 - Choisissez la bonne réponse :</p>
+        <p>►A) Liée aux sciences telles que l’agronomie et l’éducation, l’agroécologie ne s’y restreint pourtant pas dans la mesure où elle peut être envisagée à partir de l’intégration du social et de la pratique collective à la théorie. B) La différence entre l’agroécologie et l’économie circulaire c’est que la première s’intéresse au développement durable des ressources tandis que la deuxième se limite à l’utilisation de matières premières énergétiques. C) L’économie circulaire, de même que la bioéconomie et l’agroécologie, ont été définies par rapport à l’usage massif des ressources fossiles et végétales, comme les fertilisants chimiques. D) Reflet des préoccupations environnementales actuelles, l’agroécologie a d’abord élaboré un modèle pour l’élevage qui sert d’exemple aux productions végétales, dans le but de garder la diversité biologique.</p>
+        <p>80 - Cochez la réponse correcte par rapport à l’emploi des pronoms :</p>
+        <p>A) Une entreprise qu’utilise des ressources fossiles doit en payer une amende destinée à financer les recherches en agroécologie. B) L’intérêt du paradigme socio-scientifique qui l’agroécologie a créé en confère le statut de système transdisciplinaire. C) Les ressources non renouvelables que constituent un gros problème pour la nature y sont plus chères que les ressources renouvelables. ►D) La notion d’agroécologie qu’a présenté le rapport propose la mobilisation des ressources renouvelables dont la photosynthèse.</p>
+        <p>ITALIANO</p>
+        <p>Il testo che segue ti servirà per rispondere alle domande 74 e 75.</p>
+        <p>Samantha Cristoforetti: la formazione di una scienziata avventurosa</p>
+        <p>Samantha Cristoforetti nasce a Milano il 26 aprile 1977. È la più famosa astronauta italiana. La famiglia è originaria di Malè, in provincia di Trento, dove Samantha trascorre la propria giovinezza. Nel 1994 aderisce al programma Intercultura e frequenta un anno scolastico negli Stati Uniti. Dopo gli studi superiori, si iscrive all’Università di Monaco di Baviera, dove consegue una laurea in ingegneria meccanica. Nel 2001 ha inizio la sua avventura come pilota dell’Accademia Aeronautica. La carriera la porta fino al grado di capitano. Consegue inoltre una laurea in scienze aeronautiche presso l’Università Federico II di Napoli e il premio Sciabola d’onore. Nel maggio 2009 l’Agenzia Spaziale Europea la sceglie come prima donna italiana e terza a livello europeo al termine di una selezione per aspiranti astronauti. È la settima astronauta italiana e la prima donna a essere selezionata per una missione verso la Stazione Spaziale Internazionale a bordo di un Sojuz. Successivamente viene selezionata per la missione Futura e, dopo 199 giorni trascorsi sulla stazione spaziale internazionale, fa ritorno sulla Terra l’11 giugno 2015. Qualche mese dopo viene nominata ambasciatrice Unicef e si dedica alla divulgazione. Nel 2021 viene annunciata la sua partecipazione alla missione Minerva e l’Agenzia Spaziale Europea comunica che sarà la prima donna europea al comando della Stazione Spaziale Internazionale. Mattel le ha dedicato un modello della Barbie per ispirare le bambine a seguire modelli positivi.</p>
+        <p>Adattato da: https://biografieonline.it/biografia-samantha-cristoforetti.</p>
+        <p>74 - In base al testo, quale affermazione è corretta riguardo al percorso di Samantha Cristoforetti?</p>
+        <p>A) Dopo aver conseguito due lauree, decide di partecipare al programma Intercultura all’estero. ►B) Ha costruito la sua carriera attraverso esperienze di studio, attività come pilota e missioni spaziali. C) Ha lavorato come ambasciatrice Unicef e divulgatrice scientifica prima di diventare astronauta. D) Ha ottenuto il comando della Stazione Spaziale Internazionale grazie al premio Sciabola d’onore.</p>
+        <p>75 - Riguardo ad alcune parole ed espressioni presenti nel testo, individua l’alternativa corretta.</p>
+        <p>A) Il pronome “le” nella frase “Mattel le ha dedicato un modello della Barbie” si riferisce alle bambine. ►B) La parola “inoltre” nella frase “Consegue inoltre una laurea in scienze aeronautiche” aggiunge un’informazione. C) L’articolo “la” nell’espressione “la più famosa astronauta italiana” indica una quantità. D) La parola “dove” nella frase “dove consegue una laurea in ingegneria meccanica” introduce un’informazione di tempo.</p>
+        <p>Il testo che segue ti servirà per rispondere alle domande 76, 77 e 78.</p>
+        <p>Psicologia: Avere tanti amici sui social non ci rende più felici (anzi)</p>
+        <p>7 maggio 2026 Chiara Guzzonato</p>
+        <p>Secondo uno studio pubblicato su Public Health Reports, avere contatti con un sacco di sconosciuti online ci farebbe paradossalmente sentire più soli. L’analisi è stata condotta su un campione rappresentativo di oltre 1.500 statunitensi tra i 30 e i 70 anni di età e ha riguardato dieci social − Facebook, X, Reddit, YouTube, LinkedIn, Instagram, TikTok, Snapchat, Pinterest e WhatsApp. Dai dati raccolti tramite questionari è emerso che il 35% dei contatti virtuali dei partecipanti erano persone mai viste dal vivo, e che chi aveva più amici sui social riferiva anche livelli di solitudine superiori. 26/32 Diversa la situazione per chi aveva contatti con persone conosciute anche di persona: in questo caso, l’associazione con la solitudine è risultata nulla, a dimostrazione che rimanere in contatto virtuale con amici “veri” non fa né bene né male. L’ipotesi suggerita (ma non dimostrata) dai ricercatori è che il confronto con gli altri faccia più male che bene: vedere le amicizie degli altri, spesso edulcorate e presentate come più importanti di ciò che sono sui social, fa sembrare la propria vita sociale più povera. Non sappiamo, insomma, se avere tanti amici virtuali ci renda più soli o se l'essere soli nella realtà ci porti ad avere più amici online.</p>
+        <p>Adattato da: https://www.focus.it/comportamento/psicologia/avere-tanti-amici-sui-social-non-ci-rende-piu-felici-anzi.</p>
+        <p>76 - Nel titolo “Avere tanti amici sui social non ci rende più felici (anzi)”, la parola “anzi” può essere sostituita da:</p>
+        <p>A) quindi. B) oltre a ciò. C) infatti. ►D) al contrario.</p>
+        <p>77 - Riguardo alla metodologia della ricerca descritta nel testo, analizza le affermazioni seguenti.</p>
+        <p>1. La ricerca ha coinvolto oltre 1.500 persone dai 30 ai 70 anni di età. 2. Lo strumento di raccolta dei dati è stato il questionario. 3. Lo studio ha confrontato i risultati degli statunitensi con quelli di altri Paesi. 4. La ricerca ha preso in considerazione dieci piattaforme di social media.</p>
+        <p>Segna l’alternativa corretta.</p>
+        <p>A) Solo le affermazioni 1 e 3 sono corrette. B) Solo le affermazioni 2 e 3 sono corrette. ►C) Solo le affermazioni 1, 2 e 4 sono corrette. D) Tutte le affermazioni sono corrette.</p>
+        <p>78 - In base al testo, scegli l’alternativa corretta.</p>
+        <p>►A) Lo studio osserva che i contatti virtuali con persone conosciute di persona non risultano associati alla solitudine. B) Lo studio dimostra che chi è solo nella vita reale sviluppa più amicizie online e utilizza i social per superare la propria solitudine. C) Lo studio conferma che le amicizie costruite sui social possono ridurre il senso di solitudine delle persone nel tempo. D) I dati raccolti suggeriscono che le immagini condivise sui social possono migliorare la percezione della propria vita sociale.</p>
+        <p>Il testo che segue ti servirà per rispondere alle domande 79 e 80.</p>
+        <p>L’intelligenza artificiale e il tempo umano: oltre la nuova trappola della produttività</p>
+        <p>Riccardo Lucis1 ,Alessandro Marino2 1Dipartimento di Medicina, Università di Udine; 2Dipartimento di Assistenza Distrettuale, Area Isontina, ASUGI, Gorizia; 3Dipartimento di Assistenza Territoriale, ASFO, Pordenone.</p>
+        <p>Riassunto. La riflessione scientifica sull’intelligenza artificiale (IA) in sanità pone molta enfasi sulla necessità di infrastrutture e standard condivisi, ma ricorda che la tecnologia, da sola, non basta. Serve una cultura digitale matura, organizzata e organizzativa, capace di accompagnare l’innovazione mantenendola profondamente umana. L’IA può infatti rappresentare un alleato prezioso per restituire centralità alla relazione di cura, oggi spesso oscurata da sovraccarichi amministrativi e da una crescente frammentazione organizzativa. Come ha sottolineato The Lancet, la medicina rischia di perdere la propria dimensione più autentica: quella del tempo dedicato all’ascolto, all’osservazione e alla presenza. In contesti territoriali complessi, dove la geografia condiziona l’accesso alle cure, la transizione digitale richiede governance competenti, leadership clinica e investimenti nella digital literacy dei professionisti. Se progettata con etica e buon senso, l’IA può alleggerire il carico burocratico, ma senza una visione responsabile rischia di tradursi in un nuovo vincolo, aggravando, invece che riducendo, il burnout. Il vero progresso della sanità dipenderà dalla capacità di mantenere l’umanità al centro di ogni innovazione. La tecnologia più evoluta non sarà mai quella che sostituisce l’uomo, ma quella che gli restituisce tempo, attenzione e cura.</p>
+        <p>Da: https://www.recentiprogressi.it/archivio/4649/articoli/46627/.</p>
+        <p>79 - In base al testo, qual è il ruolo principale dell’IA in ambito sanitario secondo gli autori?</p>
+        <p>A) Accelerare le attività sanitarie grazie all’impiego di sistemi intelligenti. B) Centralizzare la gestione dei dati sanitari per ridurre i costi d’amministrazione. ►C) Ridurre la burocrazia per restituire tempo alla relazione con il paziente. D) Risolvere automaticamente i problemi di accesso geografico alle cure.</p>
+        <p>80 - Secondo il testo, cosa è indispensabile, oltre alla tecnologia, per una transizione digitale efficace?</p>
+        <p>A) L’ampliamento esclusivo delle infrastrutture hardware e software. B) La progressiva automazione per sostituire le decisioni cliniche. C) L’incremento del personale dedicato alle mansioni burocratiche. ►D) L’evoluzione organizzativa e formativa dei professionisti.</p>
+        <p>27/32 JAPONÊS</p>
+        <p>次のテキストは74 と75 の質問の参考文です。</p>
+        <p>インスタントラーメンの生みの親安藤百福</p>
+        <p>世界で初めてインスタントラーメンを発明した安藤百福（あんどうももふく）さん。1958 年に世界初のインスタントラーメン 「チキンラーメン」を発明し、以来、生涯を通じて新たな食文化を生み出した。</p>
+        <p>「安藤百福は1910 年生まれです。実は、第二次世界大戦後、日本は食糧難となり、おなかをすかせた人々が街にあふれ、栄養失 調のために行き倒れになる人が後を絶ちませんでした。この悲惨な光景を見た安藤は「やっぱり食が大事。食がなければ、衣も住 も、芸術も文化もあったものではない」と食の大切さを痛感しました。ある時、大阪駅近くの闇市*を通りかかった安藤が目にし たのは、寒空のもと、屋台の一杯のラーメンを食べるために並ぶ人々の長い行列でした。安藤は日本人が麺類好きであることを改 めて実感したと同時に、この行列に大きな需要が隠されていることを確信しました。この経験が、のちに大発明を生むきっかけと なりました。それから約10 年後、安藤が47 歳の時、闇市のラーメン屋台の光景を思い出し、"お湯があれば家庭ですぐ食べられ るラーメン"を作ろうと決意しました。安藤は自宅の裏庭に立てた小屋で、1 日平均4 時間という短い睡眠時間で丸1 年間、たった 一人で1 日の休みもなく、その実現に向けて研究を続けました」。</p>
+        <p>1958 年8 月、世界初のインスタントラーメン「チキンラーメン」の発売が開始された。お湯を注ぐとたった2 分で食べられる「チ キンラーメン」は、当時の常識では考えられない食品だったため「魔法のラーメン」と呼ばれ、日本国内で大ヒットした。</p>
+        <p>*戦後の混乱期などに、統制を受けずに自由に物資を売買した市場</p>
+        <p>Disponível em: Government of Japan - Highlighting Japan, [https://www.gov-online.go.jp/hlj/ja/november_2024/november_2024-05.html]. Adaptado.</p>
+        <p>74 - 本文中の「この経験」は何を指していますか。</p>
+        <p>A) 第二次世界大戦後の食糧難で苦しむ人々を見た経験。 ►B) 闇市でラーメンを求める人々の長い行列を見た経験。 C) 一年間休まず研究を続けた経験。 D) 世界初のインスタントラーメンを発売した経験。</p>
+        <p>75 - テキストの中の「行列」と最も近い意味のものを選びなさい。</p>
+        <p>►A) 大勢の人が順番に並んで待っていること。 B) 大勢の人が同じ場所で食事をしていること。 C) 店の人が客を順番に案内していること。 D) 人々が店の前を急いで通っていること。</p>
+        <p>次のテキストは76、77 と78 の質問の参考文です。</p>
+        <p>資本金3000 万円に―在留資格厳格化がカレー店を直撃</p>
+        <p>外国人が会社を運営するための在留資格「経営・管理」が厳格化され、資本金要件が500 万円から3000 万円へと引き上げられた。 このため外国人経営の企業の多くが影響を受けている。 「500 万円を貯めて、自分の店を持つことが目標だったんです」 東京都内でインド料理店を経営するネパール人のリタ・ティワリさんは言う。リタさん夫妻は2006 年に来日した。夫はインドカ レー店でコックとして勤め始め、リタさんは弁当屋で働きつつ日本語を学んだ。夫が働く店の2 階にふたりで住み込み、故郷に仕 送りをしながら、少しずつ貯金をした。 「1 年で100 万円ずつ、がんばって貯めようねって」 来日7 年後の2013 年に500 万円を確保し、さらに貯めたお金で都内に店を開いた。 しかし昨年10 月、「経営・管理」の要件が変わった。資本金が3000 万円と従来の6 倍になり、既存の外国人経営者も2028 年ま でに残り2500 万円を増資しなくてはならない。 「難しいよね。はじめから3000 万円だったら、目指さなかったと思う」 厳格化の背景には、「経営・管理」を利用して日本に移住し、事業実態がないケースがあることなどが挙げられている。しかし、 リタさんの店はペーパーカンパニーではないにもかかわらず、きわめて高いハードルを課された。</p>
+        <p>Disponível em: [https://news.yahoo.co.jp/articles/3b8b87e4f8aa80d6ffcaef2d74fb319e78d8d32f?page=4]. Adaptado.</p>
+        <p>28/32 76 - リタさん夫妻にとって、店を開くための500 万円はどのようなお金でしたか。</p>
+        <p>A) 日本へ来る前に、夫婦が故郷で少しずつ貯めていたお金。 B) 日本で店を開くために、親戚から一度に借りたお金。 ►C) 日本で働き、仕送りもしながら、7 年かけて貯めたお金 。 D) 店を開いたあと、その売り上げから少しずつ増やしたお金。</p>
+        <p>77 - リタさんが「難しいよね」と言った理由として、最も適切なものを一つ選びなさい 。</p>
+        <p>A) 店を開くために、日本語をもう一度勉強しなければならないから。 B) 故郷への仕送りを、すぐにやめなければならなくなったから。 C) 経営している店を、別の場所へ移さなければならなくなったから。 ►D) 新しい条件では、以前よりずっと多い資本金を用意しなければならないから。</p>
+        <p>78 - 本文からわかることとして最も適切なものを選びなさい 。</p>
+        <p>A) 新しいルールは、事業を実際に行っていない外国人だけに適用される。 B) 日本で長く生活し、店を経営している外国人には新しい条件は適用されない。 ►C) 事業実態のない会社への対策だが、実際に店を経営している人にも影響を与えている。 D) 新しいルールの対象となった外国人経営者は、2028 年を待たずに店を閉める必要がある 。</p>
+        <p>次のテキストは79, 80 の質問の参考文です。</p>
+        <p>高齢者のスマートフォンの利用頻度と社会的交流人数との関連</p>
+        <p>高齢者では、スマートフォンなどのデジタル機器について、「操作が難しい」「相談できる人がいない」といった理由から利用を ためらう人も少なくない。一方で、インターネットを利用することは、他者との交流や健康、幸福感の維持につながる可能性があ ると考えられている。そこで本研究では、高齢者におけるスマートフォンの利用頻度と社会的交流人数との関連性を明らかにする ために、65 歳以上の高齢者119 人を対象として、紙面アンケート調査を実施した。なお、スマートフォン利用者だけに偏ること を避けるため、オンライン調査は実施しなかった。 その結果、スマートフォンの利用率は83.2％であり、利用頻度が高い高齢者ほど社会的孤立に陥っていない人が多く、社会的交流 人数も多かった。特に、SNS の利用頻度と社会的交流人数との間には有意な関連が認められた。また、先行研究では、SNS など をコミュニケーションのために利用する高齢者は、健康度や幸福感、生きがいも高いことが報告されている。以上のことから、コ ミュニケーション手段の一つとしてスマートフォンを活用することは、高齢者の社会的交流を促進し、健康でよりよく生活するた めの一助となる可能性が示唆された。</p>
+        <p>Disponível em: 井本千代香et al. 「高齢者のスマートフォンの利用頻度と社会的交流人数との関連」. 山口県立大学学術情報 第16 号 大学院論集 通巻第24, 2023 年3 月. Adaptado. 79 - 本文によると、オンライン調査を実施しなかった理由として最も適切なものを一つ選びなさい 。</p>
+        <p>A) できるだけ多くの高齢者から回答を集めること。 ►B) スマートフォン利用者に偏らない対象からデータを収集すること。 C) SNS 利用者だけを対象として詳しく分析すること。 D) 調査対象者の負担をできるだけ少なくすること。</p>
+        <p>80 - 本文の内容を踏まえると、筆者が先行研究について述べた目的として最も適切なものを一つ選びなさい。</p>
+        <p>►A) 本研究の結果を先行研究の知見によって裏づけるため。 B) 本研究の対象者が全国の高齢者を代表していることを示すため。 C) 本研究だけで健康度や幸福感との因果関係を明らかにするため。 D) 本研究の結果が先行研究とは異なることを示すため。</p>
+        <p>29/32 POLONÊS</p>
+        <p>Poniższy tekst stanowi podstawę do pytań od 74 do 75.</p>
+        <p>JĘZYKOWE REWOLUCJE I WOLNOŚĆ SUMIENIA. BAUDOUIN DE COURTENAY, WIELKI ZAPOMNIANY POLAK</p>
+        <p>– Był jednym z ojców nowoczesnego językoznawstwa ogólnego – podkreślał w Polskim Radiu prof. Marian Jurkowski, opowiadając o Janie Niecisławie Ignacym Baudouinie de Courtenay. „Znakomitym uczonym, a jednocześnie odważnym wolnomyślicielu, kandydacie w wyborach w 1922 roku na prezydenta RP”. 2026-03-13, 07:45</p>
+        <p>Francuscy przodkowie Baudouina de Courtenay przybyli do Polski w XVIII wieku, wybierając ten kraj za swoją ojczyznę. Jeden z nich był mieszczańskim działaczem, sekretarzem magistratu warszawskiego. Z kolei ojciec przyszłego lingwisty, Aleksander, brał udział w powstaniu styczniowym.</p>
+        <p>Badanie żywego języka</p>
+        <p>Baudouin de Courtenay, urodzony 13 marca 1845 roku w Radzyminie, był absolwentem warszawskiej Szkoły Głównej (w dziedzinie nauk historyczno-filologicznych), doktoryzował się zaś w 1870 roku w Lipsku. Pięć lat później został już profesorem językoznawstwa porównawczego na Uniwersytecie Kazańskim i Uniwersytecie Dorpackim. Po odzyskaniu przez Polskę niepodległości pracował na uczelniach w Krakowie i w Warszawie.</p>
+        <p>Polski uczony, jak dookreślał w innej radiowej audycji prof. Władysław Lubaś, podłożył podwaliny pod nowoczesną metodologię w językoznawstwie.</p>
+        <p>- Wprowadził zasadę badań żywego języka. W XIX wieku językoznawcy uważali, że prawdziwie badania naukowe są wówczas, gdy bada się tekst pisany. Baudouin de Courtenay to przełamał, spojrzał na język psychologicznie - tłumaczył prof. Lubaś.</p>
+        <p>Dzięki takiemu spojrzeniu - rozróżnieniu na język jako abstrakcyjny system i jako mówioną jego realizację - Baudouin de Courtenay, wraz ze swoim uczniem Mikołajem Kruszewskim, wyodrębnił w systemie językowym „fonem”: „psychiczny odpowiednik głosu”.</p>
+        <p>Baudouin de Courtenay został uczonym światowej miary - członkiem wielu akademii naukowych, doktorem honoris causa wielu uniwersytetów. Wśród jego badawczych zainteresowań znalazły się również m.in. gwary (był pionierem w tej dziedzinie, gdyż tym tematem zajmowali się wówczas jedynie etnografowie), historia języka polskiego, gramatyka porównawcza języków słowiańskich, mowa dziecka czy sztuczne języki. [...] zmarł 3 listopada 1929 w Warszawie [...].</p>
+        <p>Źródło: Polskie Radio/jp https://polskieradio24.pl/artykul/2839980,jezykowe-rewolucje-i-wolnosc-sumienia-baudouin-de-courtenay-wielki-zapomniany-polak.</p>
+        <p>Słownictwo pomocnicze: językoznawstwo = lingwistyka</p>
+        <p>74 - Zgodnie z tekstem, która z poniższych informacji jest prawdziwa?</p>
+        <p>A) Baudouin de Courtenay to francuski lingwista. B) Aleksander de Courtenay skrytykował powstanie styczniowe. ►C) Baudouin de Courtenay i Mikołaj Kruszewski zaproponowali koncepcję fonemu. D) Aleksander de Courtenay był sekretarzem magistratu warszawskiego.</p>
+        <p>75 - Fragment „był pionierem w tej dziedzinie” oznacza, że uczony przedstawiony w tekście był pionierem w badaniu:</p>
+        <p>►A) polskich gwar. B) mowy dziecka. C) sztucznych języków. D) historii języka polskiego.</p>
+        <p>Poniższy tekst stanowi podstawę do pytań od 76 do 78.</p>
+        <p>SPIDER’S WEB &gt; NAUKA &gt; EKOLOGIA</p>
+        <p>GOOGLE UCZY SIĘ JĘZYKA DELFINÓW. WKRÓTCE BĘDZIEMY MOGLI Z NIMI POROZMAWIAĆ</p>
+        <p>DolphinGemma, duży model językowy opracowany przez Google'a, pomaga naukowcom badać, w jaki sposób delfiny się komunikują – i mamy nadzieję, że także dowiedzieć się, co mówią. Bogdan Stech, 15.04.2025, 06:36</p>
+        <p>Delfiny od dekad uchodzą za jedne z najbardziej inteligentnych stworzeń na naszej planecie. Potrafią współpracować, uczą się od siebie nawzajem, a nawet rozpoznają własne odbicie w lustrze – to cecha, którą dzielą z człowiekiem, [...]. Ale to nie ich spryt wywołuje dziś największe poruszenie w świecie nauki. Chodzi o coś znacznie bardziej ambitnego: próbę rozszyfrowania ich języka. A teraz do gry wchodzi Google. [...]</p>
+        <p>DolphinGemma – AI, które uczy się delfińskiego</p>
+        <p>Współpraca Wild Dolphin Project z Google nabiera rozpędu. Gigant technologiczny postanowił rzucić na stół jedną ze swoich najbardziej obiecujących kart – otwarty model sztucznej inteligencji o nazwie Gemma, który został specjalnie dostosowany do analizowania dźwięków delfinów. Tak powstał DolphinGemma – model AI, który działa podobnie jak ChatGPT, ale zamiast tekstu przetwarza gwizdy i kliknięcia delfinów. Model korzysta z technologii Google o nazwie SoundStream, która potrafi zamieniać dźwięki na „tokeny” – czyli cyfrowe odpowiedniki fonemów (fonem to podstawowa jednostka struktury dźwiękowej mowy). To dzięki temu AI może analizować delfinie wokalizacje i próbować przewidzieć, co zostanie powiedziane dalej. Brzmi znajomo? Bo to dokładnie ten sam mechanizm, który pozwala modelom językowym przewidywać kolejne słowa w tekście. [...]</p>
+        <p>Źródło: https://spidersweb.pl/2025/04/google-dolphoingemma-model-jezykowy-delfiny-jezyk.html.</p>
+        <p>30/32 76 - Czym zgodnie z tekstem jest DolphinGemma?</p>
+        <p>A) Aplikacją, która uczy ludzi o delfinach. B) Programem odtwarzającym dźwięki delfinów. C) Gatunkiem delfina żyjącym wyłącznie w wodach przybrzeżnych. ►D) Modelem sztucznej inteligencji, który analizuje dźwięki delfinów.</p>
+        <p>77 - W zdaniu „Delfiny od dekad uchodzą za jedne z najbardziej inteligentnych stworzeń na naszej planecie” wyrażenie „uchodzą za” znaczy tyle, co:</p>
+        <p>A) uciekają od. B) przestają być. ►C) są uważane za. D) przemieniają się w.</p>
+        <p>78 - Co znaczy pytanie „Brzmi znajomo?” w tekście?</p>
+        <p>A) Quem diria? ►B) Soa familiar? C) Faz sentido? D) Impressionante, não?</p>
+        <p>Poniższy tekst stanowi podstawę do pytań od 79 do 80.</p>
+        <p>PO CO I JAK (NIE) UCZYĆ CUDZOZIEMCÓW FONETYKI JĘZYKA POLSKIEGO?</p>
+        <p>Słowa kluczowe: nauczanie języka polskiego jako obcego, fonetyka, fonem, głoska</p>
+        <p>Streszczenie. Fonetyka nie jest eksponowaną płaszczyzną w nauczaniu języka polskiego jako obcego o nastawieniu komunikacyjnym, jednak skuteczność komunikacyjna zależy też od umiejętności odwzorowania przez studenta prawidłowej postaci brzmieniowej wyrazu, zwłaszcza w zakresie relewantnych fonologicznie cech głosek. Trudności studenta z prawidłową wymową wynikają z ukształtowania jego słuchu fonemowego i zautomatyzowania ruchów artykulacyjnych zgodnie z wymogami jego języka rodzimego, dlatego ogólna ekspozycja na brzmienie języka polskiego może być niewystarczająca. Uzasadnione jest skoncentrowanie się na różnicowaniu słuchem głosek polskich i prawidłowej ich wymowie już na początku nauki. [...]. Zasadne jest wprowadzanie fonemów w powiązaniu z alfabetem, ponieważ w nauce języka obcego student zapoznaje się z kodem fonetycznym i graficznym równolegle. Pozwala to na późniejsze wykorzystanie postaci ortograficznej do przypomnienia wymowy, poprawne zapisywanie wyrazów ze słuchu, a jednocześnie uniknięcie odczytywania nowych polskich wyrazów zgodnie z konwencją ortograficzną obcego języka. [...].</p>
+        <p>Źródło: https://czasopisma.uni.lodz.pl/kpc/article/view/6028.</p>
+        <p>Słownictwo pomocnicze: płaszczyzna ≈ sfera; nastawienie ≈ podejście, orientacja; niewystarczająca ≈ deficytowa; równolegle ≈ symultanicznie</p>
+        <p>79 - Jaki jest temat powyższego tekstu?</p>
+        <p>A) Historia i metodyka nauczania fonetyki języków obcych w Polsce. B) Opis opozycji fonologicznych istniejących tylko w języku polskim. C) Krytyka komunikacyjnego podejścia do nauczania języków obcych. ►D) Znaczenie i sposób nauczania fonetyki polszczyzny jako języka obcego.</p>
+        <p>80 - Według autora sam kontakt z dźwiękiem języka polskiego nie wystarczy cudzoziemcowi do opanowania prawidłowej wymowy, ponieważ:</p>
+        <p>A) pisownia polska jest niezgodna z wymową. B) język polski ma wyjątkowo dużą liczbę głosek i liter. ►C) język rodzimy warunkuje słuch i artykulację studenta. D) nauczyciele rzadko poprawiają błędy wymawianiowe.</p>
+        <p>31/32 RASCUNHO</p>
+        <p>Leia a seguir a fábula de Esopo, A rã e o touro:</p>
+        <p>Um grande touro passeava pela margem de um riacho. A rã ficou com muita inveja de seu tamanho e de sua força. Então, começou a inchar, fazendo enorme esforço, para tentar ficar tão grande quanto o touro. A rã perguntou às companheiras: –– Já estou do tamanho do touro? –– Não, você continua pequena! A rã tornou a inchar e inchar, mas, ainda assim, não alcançou o tamanho do touro. Pela terceira vez, a rã tentou inchar. Mas fez isso com tanta força que acabou explodindo.</p>
+        <p>Abreu, A. R. A rã e o touro. In: Ana Rosa Abreu ... [et al.] Alfabetização: livro do aluno. Brasília: FUNDESCOLA/SEFMEC, 2000. 3 v.: 128 p. n. 2. Disponível em: https://nova-escola-producao.s3.amazonaws.com/ acesso em 23/07/2026.</p>
+        <p>Faça uma transposição desse texto eminentemente metafórico para um texto denotativo, de modo a retomar a ideia central da fábula e expô-la de forma clara e objetiva. Seu texto deve ter de 4 a 5 linhas.</p>
+        <p>A imagem a seguir é do artista polonês Pawel Kuczynski, adaptada para a língua portuguesa. Em cima de uma folha de calendário, há uma fatia de pão, disposta em pedaços nos quadrados referentes aos dias. No sábado, o pão recebe manteiga e, no domingo, além da manteiga, ganha um pedaço de mortadela.</p>
+        <p>A partir da análise da imagem, elabore um texto do gênero narrativo que interprete e retrate a situação indicada. Seu texto deve:</p>
+        <p>• ter título; • ser escrito de acordo com a norma-padrão; • adicionar, mantendo a coerência com a obra, fatos e elementos que julgar pertinentes à composição da história; • ter de 12 a 15 linhas.</p>
+        <p>QUESTÃO DISCURSIVA 01 QUESTÃO DISCURSIVA 02 Limite máximo Limite mínimo 32/32 RASCUNHO</p>
+        <p>Título:</p>
+        <p>Limite mínimo Limite máximo</p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

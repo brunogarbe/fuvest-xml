@@ -45,6 +45,26 @@ def question_at(tree, line):
     return f"{found.tag} {found.get('number')}"
 
 
+MAX_CLASSIFICATIONS = 3
+
+
+def classification_errors(subjects):
+    """Rules the XSD cannot express. `subjects` is the ordered list of subject values
+    of one question; the first one is the primary subject."""
+    msgs = []
+    if "Unknown" in subjects and len(subjects) > 1:
+        msgs.append("'Unknown' não pode ser combinado com outras classificações")
+    if len(subjects) > MAX_CLASSIFICATIONS:
+        msgs.append(
+            f"{len(subjects)} classificações (máximo {MAX_CLASSIFICATIONS})"
+        )
+    for a in subjects:
+        for b in subjects:
+            if a != b and b.startswith(a + ":"):
+                msgs.append(f"'{a}' é ancestral de '{b}'; mantenha apenas a mais específica")
+    return msgs
+
+
 def validate_xml(schema_file, xml_file, detailed=False):
     errors = []
 
@@ -78,6 +98,18 @@ def validate_xml(schema_file, xml_file, detailed=False):
 
         for err in errors:
             err["question"] = question_at(tree, err["line"])
+
+        for q in tree.xpath("//objective_question|//discursive_question"):
+            subjects = [c.get("subject") for c in q.findall("classification")]
+            for msg in classification_errors(subjects):
+                errors.append(
+                    {
+                        "file": xml_file,
+                        "line": q.sourceline,
+                        "column": 0,
+                        "message": f"<{q.tag}> {q.get('number')}: {msg}",
+                    }
+                )
 
         # 🔹 Checagem de numeração incremental
         question_numbers = []

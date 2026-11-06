@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<exam name="IME" year="2027" phase="objective" day="1" variation="V1" date="2027-01-01" lang="pt-br">
+  <question_group>
+    <objective_question number="01">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>2027 é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>5</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>8</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>9</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>10</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>11</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="02">
+      <statement>
+        <p>6ª QUESTÃO Valor: 0,25 Sabe-se que i2 = −1. Seja S a região do Plano de Argand-Gauss definida por S = {z ∈C / |z + 1 −i| + |z −3 −4i| ≤7} . Qual a área do retângulo circunscrito à região S que tem um dos lados paralelos à reta que passa pelos pontos 1 −i e −2 + 3i ? (A) 21 √ 6 2 (B) 12 √ 6 (C) 15 √ 6 (D) 14 √ 6 (E) 35 √ 6 2 7ª QUESTÃO Valor: 0,25 Sejam r1 e r2 as raízes da equação a1x2+b1x+c1 = 0, r2 e r3 as raízes da equação a2x2+b2x+ c2 = 0 e r3 e r1 as raízes da equação a3x2 + b3x + c3 = 0 com r1,r2,r3 ∈R∗e a1 · a2 · a3̸ = 0. Calcule: " 3 Y i=1 ai −bi + ci ai #1/2 (A) r1 + r2 + r3 (B) r1r2 + r2r3 + r3r1 (C) (1 + r1)(1 + r2)(1 + r3) (D) r1r2r3 (E) (1 −r1)(1 −r2)(1 −r3) 8ª QUESTÃO Valor: 0,25 Seja a equação 9x −4 · 5x−1 2 = 5x+1 2 −2 · 32x−1. O seu conjunto solução contém: (A) nenhum elemento. (B) um número real positivo e mais nenhum outro elemento. (C) um número real negativo e mais nenhum outro elemento. (D) um número real negativo, um número real positivo e mais nenhum outro elemento. (E) dois números reais positivos e mais nenhum outro elemento. 9ª QUESTÃO Valor: 0,25 Seja n o número de polinômios de grau 4 que têm coeficientes inteiros, coeficiente do termo de maior grau igual a 1 e cujas raízes também são raízes do polinômio P(x) = x12 −1. O resto da divisão de n por 5 é: (A) 0 (B) 1 (C) 2 (D) 3 (E) 4</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>10ª QUESTÃO Valor: 0,25 Pedro propõe a Maria o seguinte desafio. Existem dez caixas fechadas, sendo que duas delas contêm uma moeda cada e as demais estão vazias. Pedro sabe onde estão as moedas, mas Maria não. Maria ganha um prêmio se encontrar as duas caixas com as moedas. Maria escolhe duas caixas ao acaso. Dentre as oitos restantes, Pedro escolhe seis que ele sabe que estão vazias, mostra seu conteúdo a Maria, e as remove do desafio. Ele então oferece a Maria três opções: (1) continuar com as duas caixas originalmente escolhidas; (2) trocar uma das caixas por uma das que sobraram; ou (3) trocar as duas caixas pelas duas que sobraram. Seja P(i) a probabilidade de Maria ganhar o prêmio se escolher a opção (i). Temos que P(1) + P(2) + P(3) = a/b, onde a/b é uma fração irredutível. O valor de a + b é: (A) 3 (B) 26 (C) 54 (D) 76 (E) 78 11ª QUESTÃO Valor: 0,25 Seja o polígono formado pelos vértices (x,y) que satisfazem as equações y = 2025 x e y2 = −x2 + 10145 com x e y ∈R∗. Em relação ao polígono é correto afirmar que: (A) suas duas diagonais passam pela origem. (B) seus ângulos internos somam 180 graus. (C) seu círculo circunscrito tem raio inferior a 100. (D) ele possui um total de 5 diagonais. (E) ele inexiste, pois há apenas dois pontos (x, y) distintos. 12ª QUESTÃO Valor: 0,25 Considere a equação |sen(x) −cos(x)| + q 2 + tg2(x) + cotg2(x) = √ 3, com x ∈(0,6π) e x /∈ mπ 2 / m ∈Z . O número de soluções dessa equação é: (A) 0 (B) 2 (C) 4 (D) 6 (E) 8</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>13ª QUESTÃO Valor: 0,25 Considere a equação log(0,5·cos(4x)+0,5)(0,5 · sen(4x)) = 1. O número de valores de x, pertencentes ao intervalo [0,π], que satisfazem essa equação é: (A) 0 (B) 2 (C) 3 (D) 4 (E) 6 14ª QUESTÃO Valor: 0,25 Seja C1 o círculo inscrito em um quadrado ABCD de lado 2, e seja O o centro de C1. Considere uma reta L passando pelo vértice A do quadrado. Um círculo variável, de centro M, tangencia externamente o círculo C1 e também é tangente à reta L, de forma que M e O estejam no mesmo semiplano definido pela reta L. O lugar geométrico do ponto M é: (A) uma elipse de focos em A e O. (B) um ramo de hipérbole de centro em O. (C) uma parábola com foco em O. (D) uma circunferência concêntrica a C1. (E) duas retas paralelas à reta L. 15ª QUESTÃO Valor: 0,25 Em uma esfera de raio R inscreve-se um prisma regular reto de base hexagonal. Sabendo-se que a área lateral desse prisma é máxima, o seu valor em função de R é: (A) √ 6R2 (B) 3R2 (C) 6R2 (D) 2 √ 6R2 (E) 12R2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>CONCURSO DE ADMISSÃO AO CURSO DE FORMAÇÃO E GRADUAÇÃO QUESTÕES DE 16 A 30 FÍSICA - 2026/2027 16ª QUESTÃO Valor: 0,25 A posição (x , y) e a velocidade (vx , vy) do movimento de uma partícula no plano respeita as equações a seguir, onde t representa o instante de tempo: x(t) = 9 vy(t) y(t) = −4 vx(t) Admitindo todos os dados em unidades SI, pode-se concluir que a trajetória da partícula é uma curva fechada e que o tempo para percorrê-la uma vez é: (A) 1</p>
+      </statement>
+    </essay_question>
+    <essay_question number="06">
+      <statement>
+        <p>π (B) 1 3 π (C) 3 π (D) 6 π (E) 12 π 17ª QUESTÃO Valor: 0,25 Cientistas estudaram a órbita de um planeta distante P em torno de uma estrela S e concluíram que a razão entre as distâncias de S ao apoastro e de S ao periastro de P é de 9/4. Portanto, o valor que mais se aproxima da razão entre as energias potenciais gravitacionais de P no apoastro e no ponto B da órbita, mostrado na figura, é: (A) 5</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>(B) 5 18 (C) 13 18 (D) 2 3 (E) 4 7 6 18ª QUESTÃO Valor: 0,25 Conforme mostra a figura, duas roldanas em forma de anel, inicialmente em repouso, estão engrenadas e, ao iniciarem seus movimentos, cada fio é enrolado ou desenrolado à mesma velocidade escalar dos pontos do perímetro de sua respectiva roldana. Nas extremidades dos fios, existem partículas carregadas penduradas na vertical, ambas sujeitas a um campo elétrico gerado por um plano horizontal infinito uniformemente carregado, com um pequeno furo o suficiente para um dos fios passar. Dados: • massas das roldanas: m e 2m; • o raio de uma roldana é o dobro do raio da outra; • módulo do campo elétrico vertical: E; • cargas das partículas eletrizadas: −Q e +3Q. Observações: • as massas das partículas são desprezíveis; • as massas das roldanas estão uniformemente distribuídas; • as roldanas estão sustentadas por hastes presas ao teto nos respectivos centros; • as roldanas giram sempre em torno de seus centros e sem atrito; • o segmento que liga os dois centros das roldanas é paralelo ao plano carregado. Ao ser iniciado o movimento das roldanas, pelo princípio da conservação da energia, a aceleração do fio que sustenta a carga positiva é: (A) 2 7 EQ m (B) 4 3 EQ m (C) 8 7 EQ m (D) 8 3 EQ m (E) 2 3 EQ m 7 19ª QUESTÃO Valor: 0,25 A figura mostra a transformação de Lorentz para diversas velocidades (0,3 c a 0,9 c) de um referencial em movimento em relação a um referencial inercial. Essa transformação é usada para calcular a velocidade relativa (eixo vertical) de um outro objeto se movimentando no mesmo sentido do referencial que está em alta velocidade (0,3 c a 0,9 c). O eixo horizontal exibe uma escala de velocidade em relação ao referencial inercial e o eixo vertical informa a velocidade relativa entre objeto e o referencial em movimento. Uma nave X e uma nave Y viajam, nos mesmos sentido e direção. A nave X se aproxima de uma fonte de luz parada em relação a um referencial inercial, enquanto que a nave Y se afasta da fonte. Ambas as naves portanto percebem comprimentos de onda diferentes daquele emitido pela fonte. Dados: • comprimento de onda emitido pela fonte parada no referencial inercial: λ; • comprimento de onda percebido pela nave X: λ/2; • comprimento de onda percebido pela nave Y: 3λ; • velocidade da luz: c. Observação: • a fonte e as naves estão sempre colineares. Com as informações descritas, conclui-se que o módulo da velocidade relativa entre as naves é de aproximadamente: (A) 0,20 c (B) 0,15 c (C) 0,75 c (D) 0,92 c (E) 0,39 c</p>
+      </statement>
+    </essay_question>
+    <objective_question number="08">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>20ª QUESTÃO Valor: 0,25 Seja o arranjo tridimensional de cascas esféricas da figura acima, totalmente em repouso e geometricamente simétrico, composto da seguinte forma: Dados: • na origem, dentro de uma cavidade de vácuo, encontra-se uma partícula de carga −Q; • na região a ≤r &lt; 2a, há uma camada metálica condutora inicialmente descarregada; • em r = 2a, há uma casca muito fina de material não condutor uniformemente carregada com carga +q; • na região 2a &lt; r &lt; 3a, há outra cavidade de vácuo; • na região 3a ≤r &lt; 4a, há outra camada metálica condutora inicialmente descarregada; • em r = 4a, há outra casca muito fina de material não condutor uniformemente carregada com carga +q. Após o estabelecimento do equilíbrio eletrostático nas camadas condutoras, a carga superficial total induzida em r = 3a é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>−Q + 2q</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>−q</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>+Q −2q</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>+Q</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>+Q −q</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="09">
+      <statement>
+        <p>21ª QUESTÃO Valor: 0,25 A figura mostra duas polias acopladas por meio de uma plataforma. As juntas estão localizadas em pontos equivalentes das polias, de forma que a plataforma esteja sempre na horizontal. Um bloco de massa m é colocado sobre a plataforma. Dados: • distância entre o centro de uma polia e sua junta de acoplamento: R = 3 4 p 0,44 m; • aceleração da gravidade: g = 10 m/s2; • coeficiente de atrito estático entre o bloco e a plataforma: p 0,44; • o máximo de a·cos(θ) + b·sen(θ) é √ a2 + b2. O valor máximo da rotação ω das polias para que o bloco não deslize na direção horizontal sobre a plataforma, em rad/s, é: (A) 15 4 (B) 10 3 (C) 2 √ 3 (D) 3 √ 5 (E) 2 √ 5 22ª QUESTÃO Valor: 0,25 Na ilustração acima, três forças são aplicadas a uma viga horizontal estável de peso desprezível. Supondo FB e FA como sendo as reações nos apoios B e A, respectivamente, o equilíbrio da viga resulta que a razão entre os módulos de FB e FA é aproximadamente: (A) 3,50 (B) 0,29 (C) 2,10 (D) 1,83 (E) 2,50</p>
+      </statement>
+    </essay_question>
+    <objective_question number="10">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>23ª QUESTÃO Valor: 0,25 Duas máquinas térmicas, ambas operando em ciclos de Carnot, são acopladas em série. A primeira máquina recebe calor de um reservatório térmico que se encontra a uma temperatura T1, produz certa quantidade de trabalho e rejeita calor para um reservatório térmico intermediário de temperatura T2 desconhecida. Por sua vez, este reservatório cede calor para a segunda máquina que também produz trabalho e cede energia para um terceiro reservatório térmico cuja temperatura é T3. O trabalho disponibilizado pela segunda máquina é 40% daquele associado ao primeiro ciclo. Já o calor que alimenta a segunda máquina é igual a 80% da energia rejeitada pelo primeiro ciclo para a fonte intermediária. Dados: • Temperatura T1 : 900K; • Temperatura T3 : 300K. A partir do contexto acima, a soma numérica dos rendimentos das duas máquinas é igual a:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>12 45</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>15 45</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>38 45</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>40 45</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>43 45</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="11">
+      <statement>
+        <p>24ª QUESTÃO Valor: 0,25 Um soldado lança uma granada a uma velocidade inicial de 10 √ 2 m/s, por uma direção que perfaz um ângulo de 45◦com o solo. Antes de atingir o solo, a granada explode, dividindo-se em dois fragmentos de 2/3 e 1/3 de sua massa inicial. Após a explosão, o fragmento mais leve se projeta à direita e o mais pesado à esquerda, conforme a figura. Exatamente após 1,9 s do lançamento da granada, o fragmento mais pesado atinge um pequeno buraco de 5 cm de profundidade no solo. Dado: • aceleração da gravidade: g = 10 m/s2. No instante em que o fragmento mais pesado atinge o solo, a distância vertical, em cm, do fragmento mais leve até o solo é: (A) 5 (B) 95 (C) 295 (D) 145 (E) 195 25ª QUESTÃO Valor: 0,25 Duas malhas resistivas são construídas conforme a figura. Dica: • R = R/2 + R/2. A razão entre as correntes I1 e I2 é um número real pertencente ao intervalo: (A) (0 , 1/2) (B) (1/2 , 1) (C) (1 , 3/2) (D) (3/2 , 2) (E) (2 , 5/2)</p>
+      </statement>
+    </essay_question>
+    <objective_question number="12">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>26ª QUESTÃO Valor: 0,25 Uma corda perfeitamente flexível e inextensível está com suas extremidades presas a dois pontos, separados pela distância 2L, no teto horizontal de uma sala. A curva feita pela corda é conhecida na estática como catenária, sendo dada por: y(x) = (ex/b + e−x/b).b/2 onde b é uma constante que depende de dimensões do aparato montado. Dados: • −L ≤x ≤+L; • tan θ(x) = (ex/b −e−x/b)/2; • densidade linear da corda: constante; • comprimento total da corda: S; • aceleração da gravidade: g. Dica: • obtenha equações de equilíbrio estático na corda como um todo e depois em metade da corda. O valor local mínimo da velocidade de um pulso ondulatório transversal é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>r1 2Sg(eL/b −e−L/b)</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>q Sg(eL/b −e−L/b)</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1 2 q Sg(eL/b −e−L/b)−1</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>q Sg(eL/b −e−L/b)−1</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>1 2 q Sg(eL/b −e−L/b)</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="13">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>27ª QUESTÃO Valor: 0,25 Considere o projétil mostrado na Figura 1 que consiste de uma pilha e um ímã em cada uma das extremidades, cada um deles fazendo contato com o solenoide. O atirador coloca o projétil completamente no interior do solenoide, começando da extremidade direita e, a partir desse momento, o projétil sai do repouso e acelera para a outra extremidade, conforme mostrado na Figura 2. Dados: • resistência por espira do solenoide: 0,04 Ω; • os pontos de contato dos ímãs com o solenoide sempre distam 10 espiras; • campo magnético produzido pelos ímãs: 1,5 T; • ddp da pilha: 6 V; • massa do projétil: 10 g; • comprimento do projétil: 50 mm; • comprimento do solenoide: 300 mm; • permeabilidade magnética do meio: 2·10−6 T·m/A. Observação: • experimentalmente estima-se que a força à qual o projétil é submetido, em Newtons, é numericamente igual a 45 vezes o produto entre o campo magnético produzido pela circulação da corrente no interior do solenoide e o campo magnético produzido pelo ímã (ambos em Tesla). Dado o contexto, o projétil começa a deixar o solenoide à velocidade, em m/s, de:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>4,5</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>5,0</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>3,0</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>3,5</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>4,0</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="14">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>28ª QUESTÃO Valor: 0,25 Um certo número de pequenas esferas de uma liga metálica é colocado no interior de três tubos verticais de PVC, conectados em série, inicialmente conforme o desenho da figura. As passagens de A para B e de B para C estão fechadas por membranas resistentes. Num experimento, o conjunto sofre inversões, onde uma inversão é um giro de 180◦. Nas primeiras 8 inversões, as esferas percorrem apenas o tubo A. Em seguida, retira-se a membrana entre A e B, e as esferas percorrem os tubos A + B por mais 10 inversões. Por fim, retira-se a membrana entre B e C, e as esferas percorrem os tubos A + B + C por mais 12 inversões. Dados: • calor específico da liga metálica: c = 150 J/(kg·◦C); • aceleração da gravidade: g = 10 m/s2. Observações: • durante uma inversão, considere que as bolinhas permaneçam na mesma posição relativa dentro do tubo e apenas caiam após o fim da inversão; • despreze o volume das esferas e a espessura das membranas; • para a transformação em calor, considere apenas a totalidade da energia proveniente das quedas das bolinhas. Ao final das 30 inversões, o aumento de temperatura das esferas, em ◦C, é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>2,5</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>2,0</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>1,5</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>1,0</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>0,5</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="15">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>29ª QUESTÃO Valor: 0,25 A latitude e a longitude são coordenadas geográficas que oferecem a posição de ponto qualquer na Terra. A latitude é referenciada em relação à Linha do Equador (0◦a 90◦, Norte ou Sul). Já a longitude é referenciada em relação ao Meridiano de Greenwich (0◦a 180◦, Leste ou Oeste). Sobre a superfície da Terra, uma fibra ótica deve ligar dois pontos A e B. Dados: • coordenadas do ponto A: latitude 45◦Norte e longitude 0◦; • coordenadas do ponto B: latitude 45◦Norte e longitude 90◦Leste; • raio da Terra: R ; • índice de refração da fibra ótica: n ; • velocidade da luz no vácuo: c. O menor tempo de viagem possível de um sinal ótico pela fibra, a ser posicionada sobre a superfície da Terra, entre os pontos A e B é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>πRn 6c</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>√ 3πRn 4c</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>√ 2πRn 4c</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>πRn 3c</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>√ 3πRn 2c</p>
+        </option>
+      </options>
+    </objective_question>
+    <objective_question number="16">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>30ª QUESTÃO Valor: 0,25 Situação 1 Situação 2 As situações acima mostram um balde contendo um líquido de densidade conhecida. O balde é colocado em uma balança que atinge o equilíbrio em duas situações. Na Situação 1, o equilíbrio ocorre quando, no lado da balança oposto ao balde, é colocado um objeto de massa M1, que é igual também à massa do líquido. Já, na Situação 2, a balança entra em equilíbrio quando, no lado da balança oposto ao balde, é colocado um objeto de massa M2. Ainda na Situação 2, uma esfera é totalmente imersa no líquido por um pesquisador, com a superfície da esfera tangenciando a face do líquido. O pesquisador mantém sua mão imóvel e em contato com a esfera, de forma que nenhuma parte de sua mão fique submersa. Dados: • massa específica do líquido: ρ; • raio da esfera: R; • massa da esfera: me. Observações: • despreze as massas do balde e dos demais componentes da balança; Para garantir a consistência das informações, a massa M2 é:</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>M1 + 4 3 ρπR3 + me</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>M1 + me</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>M1 −4 3 ρπR3 + me</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>M1 + 4 3 ρπR3</p>
+        </option>
+        <option label="E" is_correct="false">
+          <p>M1 + 4 3 ρπR3 −me</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="17">
+      <statement>
+        <p>CONCURSO DE ADMISSÃO AO CURSO DE FORMAÇÃO E GRADUAÇÃO QUESTÕES DE 31 A 40 QUÍMICA - 2026/2027 31ª QUESTÃO Valor: 0,25 Em 1926, o físico austríaco Erwin Schrödinger formulou a equação que descreve matematicamente o comportamento ondulatório do elétron no átomo. As soluções da equação para o átomo de hidrogênio levam naturalmente ao surgimento dos números quânticos principal (n), azimutal (l) e magnético (ml), que caracterizam os orbitais atômicos. A descrição completa dos estados eletrônicos inclui ainda o número quântico de spin (ms), introduzido posteriormente. Considere um elétron pertencente ao subnível 3p. Com base nas definições dos números quânticos, assinale a alternativa correta. (A) O número quântico principal do elétron é n = 2. (B) O número quântico azimutal do elétron é l = 2. (C) O número quântico magnético do elétron pode assumir os valores ml = −1, 0 ou +1. (D) O elétron só pode apresentar spin ms = +1 2. (E) O subnível ao qual o elétron pertence comporta, no máximo, oito elétrons. 32ª QUESTÃO Valor: 0,25 Sejam as duas moléculas abaixo: Considere que ambas sofrerão mononitração nos anéis aromáticos via substituição eletrofílica. Dentre as opções a seguir, indique aquela que apresenta as posições mais viáveis de introdução do grupo nitro nas moléculas I e II, respectivamente. (A) 5 e 2 (B) 4 e 3 (C) 6 e 2 (D) 3 e 3 (E) 4 e 2</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>33ª QUESTÃO Valor: 0,25 Considere as seguintes reações: i. oxidação de CrCℓ3 com Br2 em meio básico (KOH). ii. oxidação de KNO2 com KMnO4 em meio ácido (H2SO4). iii. ação do Cℓ2 em água de cal (Ca(OH)2) a frio. Assinale a alternativa que contém APENAS reações quimicamente possíveis. (A) i. 2 CrCℓ3 + 3 Br2 + 16 KOH −−→2 K2CrO3 + 6 KBr + 6 KCℓ+ 8 H2O + O2 ii. 5 KNO2 + 2 KMnO4 + 3 H2SO4 −−→2 MnO2 + K2SO4 + 5 KNO3 + 2 SO2 + 3 H2O iii. 2 Cℓ2 + 2 Ca(OH)2 −−→Ca(CℓO)2 + CaCℓ2 + 2 H2O (B) i. 2 CrCℓ3 + 3 Br2 + 16 KOH −−→2 K2CrO4 + 6 KBr + 6 KCℓ+ 8 H2O ii. 5 KNO2 + 2 KMnO4 + 3 H2SO4 −−→2 MnSO4 + K2SO4 + 5 KNO3 + 3 H2O iii. 2 Cℓ2 + 2 Ca(OH)2 −−→Ca(CℓO)2 + CaCℓ2 + 2 H2O (C) i. 2 CrCℓ3 + 3 Br2 + 16 KOH −−→2 K2CrO4 + 6 KBr + 6 KCℓ+ 8 H2O ii. 5 KNO2 + 2 KMnO4 + 3 H2SO4 −−→2 MnO2 + K2SO4 + 5 KNO3 + 2 SO2 + 3 H2O iii. 2 Cℓ2 + Ca(OH)2 −−→CaCℓ2 + Cℓ2O + H2O (D) i. 2 CrCℓ3 + 3 Br2 + 16 KOH −−→2 K2CrO4 + 6 KBr + 6 KCℓ+ 8 H2O ii. 5 KNO2 + 2 KMnO4 + 3 H2SO4 −−→2 MnO2 + K2SO4 + 5 KNO3 + 2 SO2 + 3 H2O iii. 2 Cℓ2 + Ca(OH)2 −−→CaCℓ2 + Cℓ2O + H2O (E) i. 2 CrCℓ3 + 3 Br2 + 16 KOH −−→2 K2CrO3 + 6 KBr + 6 KCℓ+ 8 H2O + O2 ii. 5 KNO2 + 2 KMnO4 + 3 H2SO4 −−→2 MnSO4 + K2SO4 + 5 KNO3 + 3 H2O iii. 2 Cℓ2 + Ca(OH)2 −−→CaCℓ2 + Cℓ2O + H2O 34ª QUESTÃO Valor: 0,25 Uma indústria química realiza o tratamento eletrolítico de soluções contendo íons cloreto para a produção de cloro gasoso, amplamente utilizado na desinfecção de água e em processos industriais. Durante uma etapa do processo, uma corrente elétrica constante de 11 A é aplicada por 52 minutos a uma solução aquosa de cloreto crômico. Considerações: • O cloro é liberado no anodo segundo a reação: 2 Cℓ– −−→Cℓ2 + 2 e – • Constante de Faraday = 96500 C/mol de elétrons. Assinale a alternativa que apresenta o volume aproximado, em litros, de gás cloro produzido nas CNTP. (A) 0,18 (B) 0,36 (C) 2,0 (D) 4,0 (E) 8,0</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>35ª QUESTÃO Valor: 0,25 Sobre o penta-2,3-dieno, é correto afirmar que: (A) sua molécula não apresenta isomeria ótica. (B) reage com alcenos pelo mecanismo de Diels-Alder, produzindo um cicloalcano. (C) as duas ligações π compartilham o mesmo conjunto de orbitais p paralelos, formando um único sistema π estendido. (D) sua molécula apresenta 3 carbonos com hibridização sp2. (E) a ozonólise completa de sua molécula produz duas moléculas de etanal e uma molécula de gás carbônico. 36ª QUESTÃO Valor: 0,25 Tendo em vista a tabela a seguir, acerca da primeira energia de ionização dos elementos do segundo período da Tabela Periódica: Átomo Energia de Ionização (kJ/mol) Li 520 Be 899 B 801 C 1086 N 1402 O 1314 F 1681 Ne 2081 Pode-se afirmar que, com relação à primeira energia de ionização, a do: (A) Lítio é a menor porque o seu raio atômico é o menor dentre os elementos do segundo período. (B) Berílio é mais alta do que a do Boro, pois é mais difícil remover um elétron do orbital 2p do que de um orbital 2s. (C) Oxigênio é mais baixa do que a do Nitrogênio porque, naquele, há repulsão intereletrônica de um par de elétrons no suborbital 2p. (D) Flúor é mais alta do que a do Oxigênio porque, naquele, há repulsão intereletrônica de dois pares de elétrons no suborbital 2p. (E) Neônio é a mais alta do seu Grupo pois se trata do gás nobre de maior raio atômico.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>37ª QUESTÃO Valor: 0,25 Assinale a única alternativa correta. (A) O DNA é formado pelas bases nitrogenadas adenina, guanina, citosina e timina. As duas primeiras são purinas e as duas últimas são pirimidinas. (B) Gorduras são uma fonte eficiente de armazenamento de energia porque seus átomos de carbono apresentam estados de oxidação mais altos que os átomos de carbono nos carboidratos e nas proteínas. (C) Vitaminas hidrossolúveis tendem a se acumular no corpo, então consumi-las em excesso pode ser prejudicial. (D) A celulose é um polímero cujo monômero é a frutose. (E) Caseína, queratina e lignina são exemplos de proteínas. 38ª QUESTÃO Valor: 0,25 A variação da energia livre de Gibbs em condições não padrão é descrita pela equação: ∆G = ∆Go + RT ln(Q) A hidrólise do ATP pode ser representada por: ATP + H2O −−→ADP + Pi Considere uma célula a 25 oC, na qual as concentrações são mantidas constantes com os valores: • [ATP] = 10−3 mol/L • [ADP] = 10−4 mol/L • [Pi] = 10−2 mol/L Dados: • ∆Go = −7,7×103 cal/mol • R = 1,987 cal/(mol.K) • ln(10) = 2,303 Assinale a alternativa que apresenta o valor mais próximo de ∆G e a interpretação correta do processo: (A) ∆G = −3,61×103 cal/mol; a reação encontra-se em equilíbrio. (B) ∆G = −1,18×104 cal/mol; a reação é espontânea no sentido direto. (C) ∆G = +4,1×103 cal/mol; a reação não é espontânea. (D) ∆G = −7,7×103 cal/mol; a reação encontra-se em equilíbrio. (E) ∆G = 0; as concentrações indicam que Q é igual à constante de equilíbrio K.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>39ª QUESTÃO Valor: 0,25 Considere as reações a seguir: i. HCO – 3 (aq) + OH – (aq) −−→CO 2 – 3 (aq) + H2O(l) ii. HCO – 3 (aq) + HF(aq) −−→H2CO3(aq) + F – (aq) iii. BF3(g) + (CH3)3N(g) −−→(CH3)3N · BF3(s) iv. [Fe(H2O)6]3+(aq) + SCN – (aq) −−→[Fe(SCN)(H2O)5]2+(aq) + H2O(l) Sobre essas reações, analise as afirmativas: I. A teoria de Arrhenius classifica o HCO – 3 como ácido na reação i e como base na reação ii. II. A trimetilamina atua como base quando a reação iii é interpretada pela teoria de BrønstedLowry. III. A reação iv é uma reação ácido-base segundo a teoria de Lewis. Está correto o que se afirma em: (A) I e III, apenas. (B) II e III, apenas. (C) I, apenas. (D) II, apenas. (E) III, apenas. 40ª QUESTÃO Valor: 0,25 Três recipientes rígidos A, B e C, de volume V , 2V e 3V , respectivamente, contêm uma mistura gasosa ideal formada por até três gases inertes X, Y , Z, à mesma temperatura. Inicialmente, os recipientes estão isolados entre si e possuem pressões totais P , 2P e 3P , respectivamente. Além disso, desconhece-se as pressões parciais dos gases em cada recipiente. Após a abertura simultânea das válvulas que os interligam, e o estabelecimento do equilíbrio à mesma temperatura, as pressões parciais finais uniformes em todo o sistema são PX, PY , PZ. Antes da abertura das válvulas, sabe-se que: i. o recipiente A não contém o gás Z. ii. o recipiente B não contém o gás Y . iii. o recipiente C não contém o gás X. Indique qual das alternativas a seguir apresenta os limites estritamente aplicáveis ao processo, em termos de PX, PY e PZ. (A) P/3 ≤PX + PY ≤5P/2 (B) 0 ≤PX ≤2P/3 (C) 2P/3 ≤PX + PZ ≤7P/3 (D) 0 ≤PY ≤P/2 (E) P/3 ≤PY + PZ ≤5P/3</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p></p>
+      </statement>
+    </essay_question>
+  </question_group>
+</exam>

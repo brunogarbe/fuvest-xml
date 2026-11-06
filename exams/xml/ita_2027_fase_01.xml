@@ -1,9 +1,254 @@
 <?xml version='1.0' encoding='utf-8'?>
 <exam name="ITA" year="2027" phase="objective" day="1" variation="V1" date="2027-01-01" lang="pt-br">
   <question_group>
-    <essay_question number="1">
+    <essay_question number="01">
       <statement>
-        <p>Documento digitalizado sem camada de texto; extração automática indisponível (OCR necessário).</p>
+        <p>. Sabe-se que a área de uma elipse é proporcional ao produto das medidas de seus eixos maior e menor. Considere duas elipses, E; e Es, ambas com os mesmos focos. Sabe-se que a excentricidade de E, é duas vezes a de E, e que a área de £, é seis vezes a de E,. O valor da excentricidade de E; é A()í—l_;- B()ç- C()ç- D()ç- E()ç-</p>
+      </statement>
+    </essay_question>
+    <essay_question number="02">
+      <statement>
+        <p>. De um ponto E pertencente ao lado AB de um quadrado ABCD de lado medindo 10, é traçada uma reta r, paralela à diagonal AC, que intercepta o lado BC no ponto F. Se a distância entre a reta r e a diagonal AC é 5, então o raio da circunferência C, inscrita no triângulo BEF é A()%. B( )(2-V2). C()(2—2X. D()g(o—a)o- E( )(1—- 2).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="03">
+      <statement>
+        <p>. Seja ABC um triângulo no plano cartesiano com vértices A = (0,0), B = (2,4) e C, o qual pertence à circunferência de raio 2 e centro (4,0). A maior área possível para o triângulo ABC é A( ). C( )8+21/5. E( ) 4+415. B( )10++6. D( )6+3/5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="04">
+      <statement>
+        <p>. Considere as afirmações abaixo: l. Sejam A, B € M,(R), com A invertível, A' = A ' e B simétrica. Então, A(I, - BA)' = A— B. Il. Sejam A, B € M,(R) matrizes que comutam. Se A4o = B?, então A= B ou A= -B. Ill. Para quaisquer números naturais n e m, existem matrizes A € M,n(R) e B € Mn,n(R) tais que 4B é invertível. É (São) VERDADEIRA(S): A ( ) Apenas |. C ( ) Apenas Ill. E ( ) Apenas L e Ill. B ( ) Apenas |l. D ( ) Apenas L ell.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="05">
+      <statement>
+        <p>. Três jogadores disputam um jogo, arremessando moedas. O jogador A arremessa uma moeda repetidas vezes até que obtenha cara, recebendo um ponto por lancamento. O jogador B joga três moedas e recebe um ponto por cada coroa. O jogador C joga uma moeda e recebe três pontos se obtiver coroa e zero caso contrário. Considere as seguintes afirmações: l. A probabilidade de A fazer mais pontos que B é maior que 50%. Il. A probabilidade de empate entre A e B é maior que 25%. II!l. A probabilidade de B fazer mais pontos que C é maior que 50%. É (São) VERDADEIRA(S): A ( ) Nenhuma. C ( ) Apenas |l. E ( ) Apenas l e IIl. B ( ) Apenas |. D ( ) Apenas L e |l. &gt; . 3 VBNT V2 V6 Questeg 6. Sejamm,ne N,z = (Ã + T') ew= (— U + T') . Sabendo que | z |= 256 o | w |= 16, então um argumento de zw é igual a T T 2T TT 4m A()g- B()g- C()?. D()?. E()?.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="07">
+      <statement>
+        <p>. Determine todos os números x € R que satisfazem a equação senbo) tg (5&gt; = 1 — sen(x) — cos(x). 1— cos(x)| 2 A( )x=2arctg(2) + knm, k E Z. D( )x=2arctg(4) +km, k € Z. B( )x=2arctg(2) +2km, k € Z. E( )x=2arctg(4) +2kn, k E Z. C( )x=2arctg(3) +2kn, k € Z.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="08">
+      <statement>
+        <p>. Seja f : R- R uma função. Considere as seguintes afirmações: l. Se f(x) = f(f(x)) para todo x e R, então f é uma função constante. Il. Se f(f(x)) = 2x — 7 para todo x € R, então f é uma função bijetora. IIl. Se f(x) +2f(—x) = x + 1 para todo x € R, então f é uma função afim. É (São) VERDADEIRA(S): A ( ) Nenhuma. C( ) Apenas l eilll. E( )L Ilelll. B ( ) Apenas |l. D ( ) Apenas ll e IIl.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="09">
+      <statement>
+        <p>. Para todo subconjunto S C ín e N:1&lt; n&lt;60) com 9 elementos, considere as seguintes afirmações: l. Existe um subconjunto de S com 4 elementos cuja soma é menor ou igual a 220. 3 Il. Existe um subconjunto A de S, com AZX 6 e AZ S, tal que a soma dos elementos de A é igual à soma dos elementos de S | A. IIl. Existem subconjuntos A e B de S, distintos e não vazios, tais que a soma dos elementos de A é igual à soma dos elementos de B. É (São) VERDADEIRA(S): A ( ) Apenas |. C ( ) Apenas Ill. E( )L Ilelll. B ( ) Apenas |l. D ( ) Apenas [ e Ill.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="10">
+      <statement>
+        <p>. Seja p(x) um polinômio com coeficientes reais tal que p(1+i) = 0 e p(1) = —1. Sabendo que p(p(x)) — p(x?) é um polinômio de grau 8, o valor de p(—1) é A ( ) —50. B( ). C()-1. D( )-3. E( )-—1i5.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="11">
+      <statement>
+        <p>. Um tetraedro possui quatro arestas de tamanho /3 e duas arestas opostas de tamanho 2. O volume desse tetraedro é A()? B()Ê. c()? D()1 E()2.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="12">
+      <statement>
+        <p>. Considere um polinômio dado por p(x) = xo* + axo + bxo + cx — 21, em que a, be c são números reais. Sabe-se que p(x) possui quatro raízes inteiras e que, para todo inteiro n que não seja múltiplo de 5, o valor de p(n) é múltiplo de 5. Determine o valor de ao+bP+C?. A( )375. B ( ) 600. C( )1368. D( )1624. E( ) 2025. FÍSICA Quando e se necessário, use as seguintes informações: Aceleração local da gravidade g = 10 m/s?. Densidade da água, pagua = 1 g/emo. Calor latente da água, Lagua = 334 J/g. Constante de Stefan-Boltzmann, « = 5,7x1078 Wwm-2Ko, Emissividade para qualquer material presente nas questões, e = 1. Relação entre o índice de refração n de um meio e as constantes de permeabilidade ur e permissividade e, relativas é dada por: no = ur Er.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="13">
+      <statement>
+        <p>. As interações fundamentais da natureza podem ser interpretadas como sendo mediadas pela troca de partículas. A interação eletromagnética, por exemplo, é mediada pelo fóton, a interação fraca pelos bósons W* e Zo e a interação forte por glúons. Dentro do núcleo, prótons e nêutrons interagem via interação forte que, de forma efetiva para esse tipo de sistema, é modelada pela troca de mésons. O píon (ou méson 7) é uma partícula que foi experimentalmente identificada em 1947 por um grupo de pesquisadores do qual fazia parte o brasileiro César Lattes. Seja m a massa de um certo méson cujo alcance característico da interação é r. Se essa massa está relacionada apenas com a constante de Planck reduzida h = h/(2m), com a velocidade da luz c e com r, determine a expressão para m dimensionalmente compatível com essas grandezas. h h h JEA D( ).</p>
+      </statement>
+    </essay_question>
+    <essay_question number="14">
+      <statement>
+        <p>. Duas esferas homogêneas, em contato entre si, repousam sobre um piso, e a maior também está em contato com um degrau, conforme ilustra a figura ao lado. AÀ esfera menor tem massa m e raio R, enquanto a maior tem raio 2R e está fixa. O coeficiente de atrito estático entre as esferas e entre a esfera menor e o piso é u = vV2/8. Uma força F, de intensidade aumentada gradativamente, é aplicada horizontalmente na esfera menor a uma altura 3R/2. Assinale a alternativa que corresponde à máxima intensidade da força F em que a esfera menor ainda permaneça em repouso. A( )2€mg. C() X4—1_98mg. E( )5€mg. ss B( ) 4)//2mg. D( ) 10%mg-</p>
+      </statement>
+    </essay_question>
+    <essay_question number="15">
+      <statement>
+        <p>. Em um treino de beisebol, uma bola é lançada por um arremessador com uma velocidade horizontal de 36 km/h, a uma altura de 175 cm do solo. Após percorrer uma distância horizontal de 5 m, ela é atingida pelo rebatedor e passa a ter, instantaneamente, uma velocidade de 45 km/h, formando um ângulo de 30o com a horizontal. Ela realiza sua trajetória até ser pega em movimento descendente por um defensor a uma altura de 175 cm acima do solo. Assinale a alternativa que apresenta os gráficos cinemáticos de posição (y) e velocidade vertical (v,) da bola, conforme a descrição acima. 6,0 P N 10 N ' f cc NÇoo NNBA = / m o N B() E% 7 N S &amp; N 20 / | “É» Xx 9 X / -5 xxx YV ê N 0,0 = -10 S 0,0 0,5 1,0 1,5 2,0 2,5 3,0 0,0 0,5 1,0 1,5 2,0 2,5 t(s) t(s) A FOREE 10 2,0 /. a“xa m 152 X ê C C Ca A aa o = ( ) :&gt;»1;O """""" xx /I ».E«%G V VRNNIS SUSUNSOS SESSNSOS SSSSSS &gt;-5 0,5/. A D S S e s s E e MN S NU 0,0 — - -10 - 0,0 O0,5 1,0 1,5 2,0 0,0 O0,5 1,0 1,5 2,0 t(s) t(s) 259 10 . 2,0-= a A NA Jn | E L TTA NEE o | D) Sio B RN | O0,5 BN 0,0 10 TE 0,0 0,0 0,5 1,0 1,5 2,0 t(s) 2,0 e BA N | E( ) E” F memiee | — W NS &amp; O S | AENA VM aa DA DNA 0,5 F e D BA ANA AN MNIOS AN UOORIS MNE SS 0,0 O0,5 1,0 1,5 2,0 0,0 0,5 1,0 1,5 2,0 t(s) t(s)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="16">
+      <statement>
+        <p>. Em um parque de diversões, uma plataforma horizontal gira em torno de um eixo vertical fixo com G É velocidade angular constante «ww. Sobre eixo a plataforma, a uma distância R =2,0m do eixo, encontra-se um pequeno bloco de massa m em repouso em relação £=1,0m à plataforma. O coeficiente de atrito estático entre o bloco e a plataforma é e = 0,40. Um pêndulo simples, de com- : primento £ = 1,0m, está pendurado em . &gt; um suporte fixo à plataforma, também a R=2,0m R=20m uma distância R do eixo e permanece em equilíbrio em relação à plataforma. Considerando g = 10 m/so e que w é aumentada lentamente a partir do repouso, analise as seguintes afirmativas: l. O bloco começa a deslizar quando w = /2 rad/s. Il. No referencial da plataforma, o pêndulo está em equilíbrio sob a ação do peso, da tração e da força centrífuga, fazendo um ângulo a com a vertical tal que tg a = wo2R/g. IIl. No referencial do solo, a resultante entre a tração e o peso é não nula, dirigida horizontalmente para o eixo de rotação, fornecendo a força centrípeta da massa pendular. IV. Quando « = 1,0rad/s, o bloco ainda está em repouso em relação à plataforma, e o ângulo do pêndulo com a vertical é tal que tg a = 0,2. Estão corretas apenas as afirmativas A( )iell. C( )ileil. E( ) LILIHMelV. B( )ileill. D( )LIlell.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="17">
+      <statement>
+        <p>. Na missão Artemis ||, a espaçonave Orion realiza uma trajetória de ida à Lua. Em um modelo simplificado, após uma manobra de injeção translunar, a nave parte de uma órbita baixa em torno da Terra com velocidade w,, dirigida exatamente ao longo da reta Terra-Lua. A distância entre os centros da Terra e da Lua é igual a D, e a massa da Lua é aproximadamente 81 vezes menor que a massa M da Terra. Assuma o raio da Terra dado por R e despreze tanto efeitos devido ao movimento da Terra e da Lua, bem como a altura orbital da nave antes da injeção translunar. Assinale a alternativa que corresponde ao valor de velocidade vq acima da qual a nave consegue chegar à Lua. A( ) /26M[(4-d8)+d (ola+18)]. DO) 2Gm [(4-d8) -d (n -B)]. B) /2Gv[(4+38) +&amp; (D2r - B)]: E 2am [(4+38) - d (oln- %8). e() /26M[(R-3B)*+&amp; (D2n-DB)),</p>
+      </statement>
+    </essay_question>
+    <essay_question number="18">
+      <statement>
+        <p>. Um aro circular fino, de rajio R e massa desprezível, gira em torno de seu eixo vertical com uma velocidade angular constante .. Uma pequena miçanga, de massa m e dimensões desprezíveis, está inserida no aro, podendo deslizar sem atrito ao longo de sua circunferência, como pode ser visto na figura abaixo. A aceleração da gravidade local é constante e vale g. Assinale a alternativa que apresenta o maior intervalo de velocidade angular Q em que há sempre equilíbrio estável da miçanga em um ângulo 17 &gt; 0o, quando considerado um observador que gira junto com o aro. D R Oo A( )NE ]y/g/R,+oo[. C()Ne ]O,N/Q/R[. E( )Qc ]0,+ool. B( )Nc ]W,+m[. D( )Ne ]o,m[.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="19">
+      <statement>
+        <p>. Em 1775, o oficial de artilharia britânico Sir Robert Barker relatou um engenhoso processo de fabricação de gelo utilizado pelos sábios indianos. De acordo com seu relato, esse processo consistia em deixar ao relento, em noites frias, limpas e sem vento, finas camadas de água contidas em vasos abertos, porosos, de barro, colocados sobre palha seca. Ao fim da noite, o conteúdo dos vasos estava completamente congelado. Supondo que a camada de água tinha por volta de 1 cm e que não ocorreu sublimação, assinale a alternativa que corresponde à melhor estimativa do tempo de congelamento em horas a partir do instante em que a água atinge 0 oC. A( ) 1hora. C( ) 3horas. E( ) 5horas. B( ) 2 horas. D( ) 4horas.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="20">
+      <statement>
+        <p>. Uma explosão controlada ocorre no solo a 30 m de um prédio de altura T H = 40 m sobre o qual se encontra um engenheiro que mede o intervalo de tempo At desde a detecção da luz da explosão até a detecção sonora, usando um aparato espe-—||]|]|]|]|||]||]|]|]|!NNoo s cial que ele mesmo desenvolveu. Considere .I' co a velocidade do som a Te =2738,15 K, T a temperatura do ar desde o solo até a altura he T5 a temperatura do ar desde essa E 30m i mesma altura até o topo do prédio. Am- — bas temperaturas são expressas em Kelvin e Tlo&gt;T,&gt;To. Assinale a alternativa que corresponde à fórmula que fornece a altura de inversão térmica h. Use a aproximação sen(0 + AO) = sen(0) para A « O. = L L O O o L o O A() T1T2(12500At H )(ã m) B() 71072 (1,2500At To)(= 71)' D() /2 (0,8oAt—Hf)(ã W) ( E() T1T2(12500At+Hx/7)(x/T2 x/í)</p>
+      </statement>
+    </essay_question>
+    <essay_question number="21">
+      <statement>
+        <p>. Considere uma placa plana e paralela, imersa no ar, de espessura d, constituída por um material incomum, denominado de metamaterial ideal, cuja permissividade e permeabilidade relativas valem er = ur = —1. Um ponto luminoso S está situado sobre o eixo principal, a uma distância 3d/4 da face esquerda da placa. Sabe-se que, nas condições do problema, não ocorre reflexão nas interfaces ar-material. Assinale a alternativa que representa corretamente os trajetos de três raios emitidos por &amp;S: um raio axial e dois raios oblíquos simétricos. m X&gt; Ã P— ”P— sd X/ sa |, | d d C() D() / v A” - 10</p>
+      </statement>
+    </essay_question>
+    <essay_question number="22">
+      <statement>
+        <p>. Um interferômetro de Fabry—Perot é constituído por dois espelhos paralelos semitransparentes, com refletividade constante R, separados por uma distância variável d, entre os quais a luz sofre múltiplas reflexões. A luz transmitida pelo sistema resulta da superposição de várias contribuições sucessivas. O comportamento do interferômetro em incidência normal foi analisado em dois experimentos (1) e (II). No experimento (1), considerado como referência, a cavidade está preenchida por ar e é iluminada por luz monocromática de comprimento de onda no vácuo 2. O gráfico mostra a transmissão em função de d/X. No experimento (II), os espelhos permanecem os mesmos, mas a cavidade é totalmente preenchida por um líquido de índice de refração n = 3, e a luz incidente passa a ter comprimento de onda no vácuo X' = %A. Despreze a absorção e a dispersão e assuma que a refletividade dos espelhos não se altera. Assinale a alternativa que melhor representa a Gráfico do experimento (1) " U U Pm =) Transmissão O [6x] 0.0 nova curva de transmissão do experimento (Il) no 0 1 da ? 3 mesmo intervalo do eixo horizontal. A() B() 1.0 ; ; 1.0 o - F E E 05 E 05 * UUU * LUUULUULL U U E UUUUUUUUUUUU 0.0 0.0 , . ) 1 2 3 o 1 2 3 d/A d/A 1.0 1.0 1 &amp; &amp; m .a E o5 I I I I I &amp; 0.5 n () z z . UULM LJ . U 0.0 , , 0.0 o 1 2 3 1 2 3 d/A d/A E() 1.0 O s) . E 05 SE . JUUUVUVUVUVUL o 1 2 3 11</p>
+      </statement>
+    </essay_question>
+    <essay_question number="23">
+      <statement>
+        <p>. Duas pequenas esferas metálicas puntiformes idênticas, cada uma de massa m e carga elétrica positiva Q, estão presas às extremidades de duas barras isolantes finas de mesmo comprimento £ e massas desprezíveis, fixadas em um mesmo ponto. As esferas podem mover-se em um mesmo plano vertical fixo. O sistema é colocado em uma região onde atua um campo elétrico uniforme vertical E = —Ey, como mostra a figura. | | e Inicialmente, as esferas são mantidas em repouso em uma configuração simétrica tal que o ângulo entre os fios é 3. Em seguida, elas são liberadas. Despreze a resistência do ar e assinale a alternativa que corresponde à expressão do campo elétrico E para que, durante o movimento, o ângulo entre os fios atinja um valor mínimo igual a 2a. 1 1 1 1 kQ sina sin(8/2) mg kQ sina —sin(6/2) , mg A( 48? cosa — cos(6/2) Q" PÓ) 482 cos(B/2) -cosa * Q" 1 1 1 1 kQA sina sin(8/2) , ma e, ) KQ sina “sin(8/2) mg 44? cosa — cos(8/2) &amp;' () 40? cos(B/2) — cosax to 1 1 kQ sina sin(62) mg ABPST cos(6/2)-cosa — O' Ô Q, m i B() 12</p>
+      </statement>
+    </essay_question>
+    <essay_question number="24">
+      <statement>
+        <p>. Ao contrário do que se poderia imaginar, a massa de um nuclídeo não é simplesmente a soma das massas dos núcleons (prótons de massa mp ou nêutrons de massa mn) que o constituem. Na realidade, a massa de um dado nuclídeo, Mnuc, Éé menor do que M = Zm,p + Nmn por uma quantidade AM = M — Mnuc, em que Z é o número de prótons, N = A— Z é o número de nêutrons e A é o número total de núcleons do sistema. Essa diferença é diretamente responsável por manter os núcleons ligados no núcleo, já que está relacionada com a energia de ligação, denotada por B(A,Z2). A energia de ligação por núcleon cresce rapidamente com o número de massa, atingindo os valores mais altos para o o%Fe e o SoNi e, em seguida, diminui lentamente para os nuclídeos mais massivos, conforme ilustra, aproximadamente, a figura a seguir. 9 | | | | | o B/A (MeV) 0 | | | | l | | | 0 30 60 90 120 150 180 210 240 2/0 A Considere a fissão de um núcleo, de número de massa A,Q = 180, em dois outros, cujos números de massa são A; = A(,/2 e Ao = A,. Assinale a alternativa que corresponde ao valor mais próximo da energia associada à diminuição da massa do sistema durante a reação. A( ) 2Mev. C( ) 110 Mev. E( ) 1540 MevV. B( ) 50 Mev. D( ) 220 Mev. 13 QUÍMICA Constantes Constante de Avogadro (N,) = 6,02 x 10o? mol”! Constante de Faraday (F) = 9,65 x 10o C-mol* = 9,65 x 10o A-s:mol* = 9,65 x 10o J-V 1:-mol ? Carga elementar = 1,60 x 10o C Constante dos gases (R) = 8,21 x 10*o atm-L:K-mol* = 8,31 J-K-mol* = 1,98 cal:-K"+«mol”? Constante de Planck (h) = 6,63 x 10* J's Velocidade da luz no vácuo = 3,0 x 10o m.s” Número de Euler (e) = 2,/72 Definições Pressão: 1 atm = 760 Torr = 1,01325 x 10o N.-m? = 1,01325 bar Energia: 1J = 1 N.m = 1 kg mo:s? = 6,24 x 10oo eV Condições normais de temperatura e pressão (CNTP): 0 oCe 1 atm Condições ambiente: 25 oC e 1 atm Condições padrão: 1 bar; concentração das soluções = 1 mol-L”' (rigorosamente: atividade unitária das espécies); sólido com estrutura cristalina mais estável nas condições de pressão e temperatura em questão. (s) = sólido. (f)=líquido. (g)=gasoso. (aq)=aquoso. (conc)=concentrado. (ua)=unidades arbitrárias. u.m.a. = unidade de massa atômica. [X] = concentração da espécie X em mol-L”' In X=2,3l0g X In 2 = 0,693 In 5 = 1,609 S8=1,73 log 2 = 0,301 In 3 = 1,099 e 03465 = 0,707 V5=2,24 Massas Molares Elemento — Número — Massa Molar Elemento Número Massa Molar Químico — Atômico (g:mol”) Químico Atômico (g:mol*) H 1 1,01 Mn 25 54,94 C 6 12,01 Fe 26 55,85 N 7 14,01 As 33 74,92 O 8 16,00 Se 34 78,97 F 9 19,00 Br 35 79,90 Na 11 22,99 Sr 38 87,62 Mg 12 24,31 Nb 41 92,91 P 15 30,97 | 53 126,90 S 16 32,06 Ba 56 137,33 cl 17 35,45 Au 79 196,97 K 19 39,10 Hg 80 200,59 14</p>
+      </statement>
+    </essay_question>
+    <essay_question number="25">
+      <statement>
+        <p>. Considere o determinado experimento hipotético apresentado a seguir: óleo i água + X resfriamento — água + X óleo X não solubilizado X não solubilizado Esse sistema é resfriado de 90 oC a 10 oC. Suponha que o volume da fase aquosa (água + X) permaneça constante e igual a 150 mL, que a massa de água nessa fase seja de 100g e que tal massa também permaneça constante. Considere que as densidades das duas fases apresentam um comportamento linear nesse intervalo de temperatura. Assinale a alternativa que corresponde à temperatura em que ocorre a inversão de ordem das fases presentes no sistema. Dados: densidade (p) do óleo a 90 oC = 0,6 g:mL"; densidade (p) do óleo a 10 oC = 14 g:mL*'; solubilidade (S) de X a 90 oC = 200 g/100 g H2O; solubilidade (S) de X a 10 oC = 80 9g/100 g H2O. A( )20oC. C( )40oC. E( )60oC. B( )30oC. D( )50oC.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="26">
+      <statement>
+        <p>. Uma solução saturada, formada por água e um sal de fórmula AX, foi colocada em um recipiente fechado, mantida à temperatura constante de 298 K. Após estabelecido o equilíbrio de fases, os seguintes parâmetros foram determinados: volume da fase gasosa = 200 L; volume da fase líquida = 1 L; pressão de vapor da fase gasosa = 0,028 atm. Assinale a alternativa que mais se aproxima da massa de água, em gramas, presente no sistema. Dados: constante dos gases (R) = 0,082 atm-L-mol-!- K; Kps (AJYO = 1x10%; pressão de vapor da água pura (298 K) = 0,031 atm. A( )98. C( )36,0. E( )473. B( )324. D( )42,2. 15</p>
+      </statement>
+    </essay_question>
+    <essay_question number="27">
+      <statement>
+        <p>. Analise as estruturas químicas abaixo: 1 2 NX N O HaC ? o HS 3 4 5 O N H.N cH;z O NH—&lt; HO Assinale a alternativa que apresenta uma informação INCORRETA sobre elas. A( )As funções orgânicas fenol, álcool, cetona, enol e amina estão presentes na estrutura 1. B( )As funções orgânicas ácido carboxílico, tiol e amida estão presentes na estrutura 2. C ( )As funções orgânicas fenol, amida, amina, tiol e ácido carboxílico estão presentes na estrutura 3. D( )As funções orgânicas nitrila, éter, amina e haleto estão presentes na estrutura 4. E ( ) As funções orgânicas éter, álcool, amina e amida estão presentes na estrutura 5. 16</p>
+      </statement>
+    </essay_question>
+    <essay_question number="28">
+      <statement>
+        <p>. Foram preparadas quatro soluções aquosas a 25 oC. As soluções X, Je Q possuem a mesma concentração, de 0,10 mol-L!, sendo compostas, respectivamente, por glicose, NaCIl e CaChb. A solução Z contém etanol na concentração de 10% (m/m). Considere que NaCl e CaCl? são eletrólitos fortes. Analise as afirmativas abaixo: |. As soluções X e Z apresentam condutividade elétrica desprezível e inferior à das soluções J e Q, sendo que J &lt; Q. Il. O abaixamento do ponto de congelamento segue a ordem XKX&lt;J &lt;Q. Ill. A solubilidade de CO&gt;2(g) nas soluções depende apenas da pressão do gás e da temperaítura. IV. Ao misturar volumes iguais das soluções J e Q, a concentração de NaCl passa a 0,05 mol-L, e a condutividade da solução resultante aumenta em relação às soluções J e Q. Assinale a alternativa que contém as afirmações CORRETAS. A( )Apenaslelil. B( )Apenas|l, ll elll. C( )ApenasllelV. D( ) Apenas , ll e IV. E( )ApenaslllelV.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="29">
+      <statement>
+        <p>. Um estudante pretende realizar um estudo cinético de uma reação do tipo Q &gt; R +T. Para isso, ele irá acompanhar a concentração de Q ao longo do tempo. Antes de iniciar os experimentos, ele estabelece as seguintes hipóteses: L. Variar a concentração inicial de Q permite determinar a ordem da reação, desde que a temperatura seja mantida constante. L. Conhecendo a ordem da reação, é possível determinar a energia de ativação a partir de experimentos realizados em diferentes temperaturas. 1. Conhecendo a constante de velocidade em uma determinada temperatura, é possível determinar a constante de velocidade em uma temperatura 10 oC mais alta, sem a necessidade de novos experimentos. IV. Seareação for de primeira ordem, o tempo de meia-vida não depende da concentração inicial de Q. V. Conhecendo a energia de ativação e a ordem de reação, é possível determinar a constante de velocidade em qualquer temperatura, desde que esses parâmetros permaneçam constantes na faixa de temperatura considerada. Das hipóteses acima, estão ERRADAS A( )apenaslell. B( )apenaslelV. C( )apenasllelill. D( )apenasllleV. E( )apenasl|VeV. 17</p>
+      </statement>
+    </essay_question>
+    <essay_question number="30">
+      <statement>
+        <p>. Considere um sal hipotético QX, pouco solúvel, cujo ânion X* é a base conjugada de um ácido diprótico fraco. Em solução aquosa acidificada, a remoção de X? por protonação favorece a dissolução do sal. A reação global de interesse é QX(s) + 2H*(aq) s Qo?*(aq) + H2X(aq). Assinale a alternativa que apresenta a constante de equilíbrio dessa reação global. Dados: Kps(ox) = 6:108, Ka1H2x = 2108 e KazHa2x = 1-1077? A( )30. B( )120. C( )300. D( )60OMm E( )1200.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="31">
+      <statement>
+        <p>. Considere as seguintes afirmações: L. A ligação iônica costuma ser não direcional, o que permite a formação de redes cristalinas, nas quais cada íon interage com vários vizinhos, resultando normalmente em materiais de elevada dureza e com altos pontos de fusão. . Por serem constituídos por íons de cargas opostas, os sólidos iônicos apresentam elevada condutividade elétrica. 1. De maneira geral, metais de transição possuem maiores pontos de fusão que os metais alcalinos porque a participação de orbitais d aumenta a sobreposição eletrônica e a força da ligação metálica. IV. No polietileno, o que mantém uma cadeia unida à outra para formar a estrutura macroscópica do material são as ligações covalentes, que requerem muita energia para serem rompidas. V. Uma ligação tripla entre dois átomos é mais curta que uma ligação simples formada entre esses mesmos átomos. Das afirmações acima, estão CORRETAS A( )apenasLl,llelV. B( )apenasl,lleV. C( )apenasl,lleV. D( )apenasll, Ill e IV. E( )apenaslll, Ve V.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="32">
+      <statement>
+        <p>. Uma amostra contém inicialmente apenas os elementos J e L. Após um tempo igual a 2t, observou-se o aparecimento de mais dois elementos, M e Q, na proporção Q/M = 30. Os elementos M e Q são originados do decaimento radioativo de J e L, respectivamente. Sabendo que o tempo de meia-vida (t1,2) de J é igual a te de L igual a t/3, assinale a alternativa que apresenta o valor CORRETO da razão entre as quantidades iniciais de L/J. A( )15,2. C( )333. E( )66,7. B( )22,9. D( )50;8. 18</p>
+      </statement>
+    </essay_question>
+    <essay_question number="33">
+      <statement>
+        <p>. Considere os seguintes procedimentos realizados por um estudante, que usou diferentes vidrarias em um laboratório de química: |. O erlenmeyer foi utilizado para medir volumes com alta precisão durante o preparo de uma solução. Il. A bureta foi empregada para o preparo de soluções com volume fixo e alta precisão. Ill. O balão volumétrico foi empregado para transferir uma solução com um volume exato para um meio reacional. IV. O funil de vidro comum foi empregado para filtração a vácuo devido à sua resistência mecânica. Dos procedimentos realizados, estão CORRETOS A( ) Apenaslelil. B( )Apenas|l, Ilelll. C( ) ApenasllelV. D( ) Apenas lll e IV. E( ) Nenhum.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="34">
+      <statement>
+        <p>. À equação de van der Waals para os gases (P + ano?/Vo)V — nb) = nRT traz correções importantes em relação à equação dos gases ideais. O termo “a” (em Pa-mo «mol 2) introduz, na equação, o comportamento atrativo da matéria. Por outro lado, o termo “b” (dado em mo?:mol*) incorpora na equação um volume excluído, uma vez que as moléculas não podem se sobrepor umas às outras. Analisando a equação no estado definido por ol U/S &lt;H45 [ s | s | a | i | E A E o 3&amp; x O assinale a alternativa que contém uma afirmação ERRADA: A ( ) Dobrando o número de moléculas, aumenta-se tanto a atração quanto a repulsão intermolecular. B( )Em uma expansão de um gás de 1 a 2 mô, a pressão diminui. C( )Para1 mol de gás, o valor de “a” para o He é menor que o valor para o butano. D( )SeV=*=nb, a pressão tende ao infinito. E( )Seovalor de V for muito grande, a equação descreve o comportamento de um gás ideal. 19</p>
+      </statement>
+    </essay_question>
+    <essay_question number="35">
+      <statement>
+        <p>. Para determinar o tamanho de uma molécula anfifílica, uma gota (0,05 mL) de uma solução, contendo a substância a 1% em volume, foi depositada na superfície da água, formando um filme de espessura equivalente ao comprimento de uma molécula (monocamada). Considere as seguintes informações: L. A substância anfifílica é menos densa que a água, e suas moléculas se orientam paralelamente entre si e verticais em relação à superfície da água, devido às interações intermoleculares. . Ao depositar a gota de solução na água, o solvente dissolve rapidamente, permanecendo apenas a substância anfifílica na superfície da água. 1. A monocamada forma uma mancha com diâmetro de 56 cm. Com base nessas informações, o comprimento da molécula anfifílica (em À) pode ser estimada em A( )O,5. C( )50. E( )200. B( )20. D( )100.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="36">
+      <statement>
+        <p>. A estrutura química de biomoléculas e contaminantes orgânicos determina propriedades fundamentais como polaridade, solubilidade em água, persistência no meio ambiente e comportamento em sistemas biológicos. Nesse contexto, assinale a alternativa que contém uma afirmação ERRADA. A ( ) A glicina (NH2CH2COOH) pode apresentar forma zwitteriônica em meio aquoso, resultante de transferência intramolecular de próton, o que aumenta sua interação com solventes polares. B ( ) O ácido láctico (CH3CH(OH)COOH) apresenta carbono assimétrico, portanto pode originar um par de enantiômeros. C ( ) Embora as ligações OC-CI do tetracloreto de carbono sejam polares, a geometria quadrada planar da molécula faz com que ela seja apolar. D( )A amônia apresenta geometria piramidal trigonal e momento dipolar resultante diferente de zero, o que favorece sua solubilidade em água. E ( ) Em comparação com moléculas apolares de mesma faixa de massa molar, espécies iônicas ou zwitteriônicas tendem a apresentar menor volatilidade e menor tendência à bioacumulação em tecidos lipídicos. 20 INGLÊS Leia o texto a seguir para responder às questões 37 a 39. Tech for good: What it means and how we can deliver on it The sector encompassing health tech, education tech, cleantech, femtech and enterprise environmental, social and governance (ESG) software is seeing increased investments, reaching $79 billion globally in 2021. But at the Tech for Good Institute (TFGI), we found that varying definitions across the tech for good ecosystem meant varying expectations. Without a shared understanding of tech for good, it's no surprise that the jury's still out on whether technology is delivering a net positive impact. In February 2023, TFGI ran a flash poll on public perceptions of tech for good in Southeast Asia. Of the 212 respondents from Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam, only 46% strongly agreed or agreed that technology and the digital economy have delivered their promise for the region. Almost as many (37%) stayed neutral. [...] Responsible digital economy companies examine their systems, processes, products and services to identify and mitigate negative consequences in upstream development and downstream impacts of products and services. Digital technologies can be inherently values-driven, so upstream considerations include developing systems with inclusion, security and data protection baked in, with transparency to build trust. For example, developers can proactively ensure datasets that train algorithms are unbiased or design systems for frictionless data sharing or systematic data protection. Downstream considerations include maintaining consumer choice and protecting livelihoods and users' health and well-being. With rapidly evolving digital technologies, operating responsibly is a moving goalpost. As regulators pay attention to players in the digital economy, the business case for mitigating negative impacts can be as straightforward as maintaining licences. Ih our poll, only 14% of respondents thought responsibility alone constituted tech for good, suggesting sustainability is necessary but more is needed. Fonte: TAN, Ming.Tech for good: What it means and how we can deliver on it. Weforum.org. 01 jul 2025. Disponível em https://www.weforum.org/stories/2023/03/tech-for-good-what-does-it-mean-and-how-can-wedeliver-on-it/ 21</p>
+      </statement>
+    </essay_question>
+    <essay_question number="37">
+      <statement>
+        <p>. Considerando o sentido integral de UPSTREAM e DOWNSTREAM rno texto, esses termos significam, respectivamente, A( ) planejamento tecnológico antecipado e consequências da inovação digital. B( ) segurança digital e consequências da política de proteção dos usuários. C( ) etapainterna de desenvolvimento tecnológico e percepção social decorrente. D( ) fasede concepção e impactos das soluções entregues. E( ) modelagem preventiva de sistemas e consequências de sua utilização.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="38">
+      <statement>
+        <p>. Considere o excerto: “Without a shared understanding of tech for good, it's no surprise that the jury's still out on whether technology is delivering a net positive impact”. Marque a alternativa que identifica a MELHOR relação lógica estabelecida pela expressão WITHOUT. A( ) Oposição. B( ) Condição. C( ) Conclusão. D( ) Concessão. E( ) Finalidade.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="39">
+      <statement>
+        <p>. Marque a alternativa que MAIS FIELMENTE apresenta o significado do excerto “Digital technologies can be inherently values-driven,'[...]. A( ) Astecnologias digitais podem ser extremamente influenciadas por valores, [..-]. B( ) Astecnologias digitais podem ser naturalmente controladas por valores, [...]. C( ) Astecnologias digitais podem ser essencialmente orientadas por valores, [...]. D( ) Astecnologias digitais podem ser conscientemente criadas por valores, [...]. E( ) Astecnologias digitais podem ser internamente dependentes de valores, [...]. 22 Leia o texto a seguir para responder às questões 40 a 42. The Secret Agent: “truly special' Brazilian thriller barely puts “a foot wrong' Wagner Moura is “soulful and seductive' in starring role as an academic on the run Set during Brazil's military dictatorship in the 1970s, this political thriller is “populated by so many characters”, you may despair of keeping track of who ' is who, said Deborah Ross in The Spectator. But “do hang on in there”, as it repays the effort. Justly nominated for four Oscars, this is a “truly special” (if $ rather sprawling) film. Wagner Moura (Known for playing Pablo : - MR Escobar in the Netflix hit “Narcos”) stars as Marcelo, MN a N aa a widowed academic who has gone on the run from (image erenit: CinemaSeo plo! MK Produelon) a pair of hitmen. Quite why they are targeting him isn't initially clear but there's a lot else to think about in the meantime: there is a “hitman hired by the hitmen”; there's a corrupt police chief; there's a “head-scratcher” of a sequence in which a human leg “comes to life and kicks gay people”. Itis, in sum, a heady mix, but it barely puts “a foot wrong”, and the performances are superb. “If youre expecting a Brazilian “Bourne', forget it” said Tom Shone in The Sunday Times. “For a fim about a man shadowed by two assassins, The Secret Agent' has a daringly languid pace”. Gradually, “a disquieting paranoia begins to creep into everything” until “even the sunlight seems off”. Fonte: Ross, Deborah. The Spectator; Shone, Tom. The Sunday Times. Disponível em https://theweek.com/culture-life/film/the-secret-agent-truly-special-brazilian-thriller-barely-puts-a-foot-wrong. Adaptado.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="40">
+      <statement>
+        <p>. Ih the sentence lt is, in sum, a heady mix, but it barely puts a foot wrong”, the expression “barely puts a foot wrong” MOST NEARLY MEANS that the film A( ) intentionally departs from conventional storytelling, resulting in uneven execution. B( ) reliestoo heavily on familiar narrative patterns, reducing its effectiveness. C( ) failstomaintain coherence throughout its plot. D( ) avoids most narrative mistakes despite its complex structure. E( ) presents several inconsistencies that weaken the story. 23</p>
+      </statement>
+    </essay_question>
+    <essay_question number="41">
+      <statement>
+        <p>. Based on the text, the reviewer's description of the film's pacing and tonal shifts suggests that they ULTIMATELY serve to A( ) emphasize stylistic experimentation at the expense of narrative coherence and audience engagement. B( ) provide intermittent relief from tension, thereby making the film more accessible to a broader audience. C( ) reinforce the film's unsettling atmosphere by gradually destabilizing the viewer's sense of narrative and emotional certainty. D( ) create a contrast between humor and tension that ultimately reduces the overall dramatic impact of the narrative. E( ) highlight the protagonist's psychological transformation as the central focus of the narrative progression.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="42">
+      <statement>
+        <p>. Mark the CORRECT paraphrase for the sentence “Quite why they are targeting him isn't initially clear”. A( ) lItisnotthoroughly evident why they are targeting him. B( ) ltmay not be clear at first why they are targeting him. C( ) ltisunlkely that the reason for targeting him will ever become clear. D( ) The narrative intentionally withholds the reason for targeting him. E( ) Thereis no possible explanation for why he is being targeted. Leia o texto a seguir para responder às questões 43 a 45. Brazil's last asbestos miners are switching to rare earth minerals. Can they offer a brighter future? Minaçu, a small city in inland Brazil and home to the only asbestos mine in the Americas, is set to become the first operation outside Asia to produce four rare earths on a commercial scale. [...] Until now, China has dominated the separation of rare earths, and accounts for 90% of the manufacture of rare-earth magnets, or super magnets, which are made with these elements and used in electric cars, wind turbines and military equipment such as jets. 24 But in April, China restricted its exports of the minerals in response to US tariffs, causing uncertainty over global supply. Brazil's incipient production could hardly be better timed. To stimulate the sector, the Brazilian government has issued a call for tenders with an investment forecast of 5bn reals (£6/7/0m) in projects related to the supply of strategic minerals, such as rare earths. [...] Rare earths are a group of 17 elements with high magnetism and the ability to absorb light, features that make them essential for the transition to clean energy. Some of the most coveted are neodymium, praseodymium, dysprosium, and terbium — used in the manufacture of electric motors and wind turbines, two industries that fuel the demand for rare earths, which have doubled globally between 2015 and 2023. [...] For Minaçu, rare earths are the promise of a fresh start. In 2017, Sama, part of the Brazilian company Eternit, was compelled to halt the asbestos mining that for 50 years had shaped the town. The temporary permit granted for export extraction two years later permitted it to keep operating, but with diminished capacity. Fonte: SETA, Isabel.Brazil's last Asbestos miners are switching to rare earth minerals.Can they offer a brighter future? The Guardian. 01 jul 2025. Disponível em https://www.theguardian.com/global development/2025/jul/01/minerals-brazil-asbestos-miners-rare-earths-transition-mining</p>
+      </statement>
+    </essay_question>
+    <essay_question number="43">
+      <statement>
+        <p>. Observe the following sentence from paragraph 3: “Brazil's incipient production could hardly be better timed.” Choose the alternative that BEST rephrases the information in the sentence. A( ) Brazil's emerging production could have come at a more opportune moment. B( ) Brazil's emerging production did certainly not come at an opportune moment. C( )Brazi's emerging production could scarcely have come at a more opportune moment. D( ) Brazil's emerging production was somewhat late, though still relevant. E( ) Brazil's emerging production came at a reasonably good time.</p>
+      </statement>
+    </essay_question>
+    <essay_question number="44">
+      <statement>
+        <p>. Na passagem “Some of the most coveted are neodymium, praseodymium, dysprosium, and terbium...”, a palavra COVETED pode ser melhor traduzida por A( ) procurados. B( )valiosos. C( )D)raros. D( ) cobiçados. E( ) encontrados. 25</p>
+      </statement>
+    </essay_question>
+    <objective_question number="45">
+      <classification subject="Unknown"/>
+      <statement>
+        <p>. Conside o trecho To stimulate the sector, the Brazilian government has issued a call for tenders with an investment forecast of 5bn reals (£670m) in projects related to the supply of strategic minerals, such as rare earths”. No CONTEXTO do terceiro parágrafo, o uso de HAS ISSUED sugere que a iniciativa do governo brasileiro A( ) constituiuma medida recente cujos efeitos ainda influenciam o setor. B( ) ocorreuem um momento passado sem ligação com a situação atual. C( ) jáhavia perdido sua relevância no momento da reportagem. D( ) estava em andamento quando a China restringiu suas exportações. E( ) foitomada antes das tensões entre EUA e China. Leia atentamente o texto a seguir, do qual foram suprimidos alguns parágrafos, para responder às questões 46 e 47. Few individuals have shaped the trajectory of an entire industry the way Ozires Silva shaped aviation. As a military pilot, engineer, entrepreneur, and public servant, Silva did not merely found Embraer — he repeatedly rescued, redirected, and reinvented it. [ After joining the Brazilian Air Force at the age of 17, he flew missions across remote areas of the Amazon. There, he saw firsthand the vast distances and difficult terrain that separated Brazilians from one another, and began to understand aviation's power not just as a tool of transport, but as an agent of national integration. [M] After graduation, he joined the Centro Técnico Aeroespacial (CTA) and led the design of a small regional aircraft, the EMB-110 Bandeirante. But when it came time to move from prototype to production, Silva faced a defining obstacle: no investor would back the projecit. Brazil's industrial elite believed airceraft manufacturing was too risky, too expensive, and best left to the Americans or Europeans. [ Under his leadership, Embraer launched successful aircraft like the Xingu, the Tucano, and the EMB-120 Brasilia, proving that Brazilian technology could compete globally. Each aircraft addressed a logistical challenge for Brazil while being designed with international scalability in mind. 26 [IV] The privatization, completed in 1994, marked a turning point. Embraer quickly transitioned from a government-dependent firm to a lean, focused competitor in the international market. That transformation paved the way for the ERJ-145 regional jet, a commercial success that secured Embraer's position as a leader in regional aviation. In 2021, Silva received the Daniel Guggenheim Medal, the most prestigious award in aeronautical engineering, becoming the first Brazilian to earn the honor. His personal convictions and professional decisions were inseparable from the company's transformation ffrom a state-backed experiment into one of the world's most competitive aircraft manufacturers. Fonte: OLIVEIRA, Renato. Ozires Silva: The living legend who built Embraer and transformed Brazil. AeroTime Hub, 15 ago. 2025. Disponível em https://www.aerotime.aero/articles/ozires-silva-embraer-legacy. Adaptado. PARÁGRAFOS SUPRIMIDOS E EMBARALHADOS</p>
+      </statement>
+      <options>
+        <option label="A" is_correct="false">
+          <p>With conviction and diplomatic skill, Silva took his case to the federal government. In 1969, his efforts bore fruit: the state created Embraer, and Orzires Silva became its first president. As Silva built Embraer from the ground up, he faced the full spectrum of challenges: funding gaps, foreign competition, military skepticism, and bureaucratic inertia. But he also gained allies — engineers, test pilots, and industrialists who believed in the mission.</p>
+        </option>
+        <option label="B" is_correct="false">
+          <p>Silva's story begins not in a boardroom or a laboratory, but in the interior of Sao Paulo state. Born in 1931 in Bauru, he came of age in a Brazil that relied on imported technologies and foreign industries. His journey began not with ambition for wealth or fame, but with a simple, patriotic question: Why can'*t Brazil build its own airplanes?</p>
+        </option>
+        <option label="C" is_correct="false">
+          <p>Determined to change his country's course, Silva enrolled at the Instituto Tecnologico de Aeronautica (ITA), a newly created engineering school designed to empower Brazil's aerospace future. There, he honed the technical skills needed to turn vision into reality.</p>
+        </option>
+        <option label="D" is_correct="false">
+          <p>Though the company grew, Silva realized Embraer's long-term success required independence from political cycles. In the late 1980s, he stepped away to serve as president of Petrobras and later as Minister of Infrastructure. But Embraer faltered under state control, and by the early 1990s, it faced severe financial trouble. Silva returned in 1991 to lead a bold and controversial initiative: privatization.</p>
+        </option>
+      </options>
+    </objective_question>
+    <essay_question number="46">
+      <statement>
+        <p>. AÀ sequência que restitui ao texto sua organização original, garantindo COESÃO e COERÊNCIA ao desenvolvimento argumentativo, é A( )B—-C-D-A. B( )C-B-A-D. C( ) B-C-A-D. D( )C-A-B-D. E( )JA-B-D-C. 21</p>
+      </statement>
+    </essay_question>
+    <essay_question number="47">
+      <statement>
+        <p>. Assinale a alternativa que SUBSTITUI o termo destacado no excerto abaixo, preservando-se a mesma relação lógico-discursiva do original. Though the company grew, Silva realized Embraer's long-term success required independence from political cycles.” AÍ( B( c( D( EÍ( ) Because. ) Much as. ) Whereas. ) Nonetheless. ) Therefore. Leia a tirinha abaixo para responder à</p>
+      </statement>
+    </essay_question>
+    <essay_question number="48">
+      <statement>
+        <p>. ÁWAUACE / GET DOWN UEÊE! 1TS e )VWANTS TWE MaTTERT You — YK - NO, KIBDO, WS LIKE Schocl, AN ALU YOUR WWAT 1S THE M&amp;Wi&amp; FRIENWDS ARE GONNA RE TWERE TRE TIRST DA TM JUST N SORRY TO VEAR TMWMER ENE 15 SEALED... ÀS 15 MNE = = A s ' V 1 Fonte: Henry, Will. Wallace the Brave. Distributed by Andrews McMeel Syndication. Disponível em https://publishing.andrewsmemeel.com/book/wallace-the-brave/ . In the final panel, Wallace's remark that “their fate is sealed... as is mine” PRIMARILY reflects A( ) an exaggerated perception that school will determine the course of his life. B( ) an assumption that his friends share the same negative expectations about school. C( ) aresigned acknowledgment that attending school is something he and his friends cannot avoid. D( ) aconcernthathis friends may struggle more than he will in the school environment. E( ) aliteralinterpretation of his mother's explanation about the school routine. 28 RASCUNHO 29 RASCUNHO 30 RASCUNHO 31 RASCUNHO 32</p>
       </statement>
     </essay_question>
   </question_group>
